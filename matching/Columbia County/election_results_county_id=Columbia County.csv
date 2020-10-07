@@ -1,0 +1,673 @@
+county,precinct,office,district,candidate,party,votes,election_day,absentee,county_id,original_precinct_name
+Columbia,Beaver Township,U.S. Senate,,Bob Casey Jr.,DEM,102.0,,,Columbia County,Beaver Township
+Columbia,Benton Township,U.S. Senate,,Bob Casey Jr.,DEM,156.0,,,Columbia County,Benton Township
+Columbia,Benton Borough,U.S. Senate,,Bob Casey Jr.,DEM,89.0,,,Columbia County,Benton Borough
+Columbia,Berwick 1st Ward,U.S. Senate,,Bob Casey Jr.,DEM,370.0,,,Columbia County,Berwick 1st Ward
+Columbia,Berwick 2nd Ward,U.S. Senate,,Bob Casey Jr.,DEM,140.0,,,Columbia County,Berwick 2nd Ward
+Columbia,Berwick 3rd Ward,U.S. Senate,,Bob Casey Jr.,DEM,205.0,,,Columbia County,Berwick 3rd Ward
+Columbia,Berwick 4th Ward,U.S. Senate,,Bob Casey Jr.,DEM,314.0,,,Columbia County,Berwick 4th Ward
+Columbia,Bloomsburg 1st Ward,U.S. Senate,,Bob Casey Jr.,DEM,242.0,,,Columbia County,Bloomsburg 1st Ward
+Columbia,Bloomsburg 2nd Ward,U.S. Senate,,Bob Casey Jr.,DEM,374.0,,,Columbia County,Bloomsburg 2nd Ward
+Columbia,Bloomsburg 3-1 Ward,U.S. Senate,,Bob Casey Jr.,DEM,531.0,,,Columbia County,Bloomsburg 3-1 Ward
+Columbia,Bloomsburg 3-2 Ward,U.S. Senate,,Bob Casey Jr.,DEM,518.0,,,Columbia County,Bloomsburg 3-2 Ward
+Columbia,Bloomsburg 4th Ward,U.S. Senate,,Bob Casey Jr.,DEM,405.0,,,Columbia County,Bloomsburg 4th Ward
+Columbia,BriarCreek Twp. NE,U.S. Senate,,Bob Casey Jr.,DEM,163.0,,,Columbia County,BriarCreek Twp. NE
+Columbia,BriarCreek Twp. W,U.S. Senate,,Bob Casey Jr.,DEM,174.0,,,Columbia County,BriarCreek Twp. W
+Columbia,BriarCreek Borough,U.S. Senate,,Bob Casey Jr.,DEM,49.0,,,Columbia County,BriarCreek Borough
+Columbia,Catawissa Township,U.S. Senate,,Bob Casey Jr.,DEM,121.0,,,Columbia County,Catawissa Township
+Columbia,Catawissa Borough,U.S. Senate,,Bob Casey Jr.,DEM,182.0,,,Columbia County,Catawissa Borough
+Columbia,Centralia Borough,U.S. Senate,,Bob Casey Jr.,DEM,0.0,,,Columbia County,Centralia Borough
+Columbia,Cleveland Township,U.S. Senate,,Bob Casey Jr.,DEM,141.0,,,Columbia County,Cleveland Township
+Columbia,Conyngham Township,U.S. Senate,,Bob Casey Jr.,DEM,82.0,,,Columbia County,Conyngham Township
+Columbia,FishingCreek Twp.,U.S. Senate,,Bob Casey Jr.,DEM,194.0,,,Columbia County,FishingCreek Twp.
+Columbia,Franklin Township,U.S. Senate,,Bob Casey Jr.,DEM,84.0,,,Columbia County,Franklin Township
+Columbia,Greenwood Township,U.S. Senate,,Bob Casey Jr.,DEM,217.0,,,Columbia County,Greenwood Township
+Columbia,Hemlock Township,U.S. Senate,,Bob Casey Jr.,DEM,397.0,,,Columbia County,Hemlock Township
+Columbia,Jackson township,U.S. Senate,,Bob Casey Jr.,DEM,57.0,,,Columbia County,Jackson township
+Columbia,Locust Township,U.S. Senate,,Bob Casey Jr.,DEM,205.0,,,Columbia County,Locust Township
+Columbia,Madison Township,U.S. Senate,,Bob Casey Jr.,DEM,208.0,,,Columbia County,Madison Township
+Columbia,Main Township,U.S. Senate,,Bob Casey Jr.,DEM,228.0,,,Columbia County,Main Township
+Columbia,Mifflin Township,U.S. Senate,,Bob Casey Jr.,DEM,282.0,,,Columbia County,Mifflin Township
+Columbia,Millville Borough,U.S. Senate,,Bob Casey Jr.,DEM,130.0,,,Columbia County,Millville Borough
+Columbia,Montour Township,U.S. Senate,,Bob Casey Jr.,DEM,174.0,,,Columbia County,Montour Township
+Columbia,Mount Pleasant Twp.,U.S. Senate,,Bob Casey Jr.,DEM,213.0,,,Columbia County,Mount Pleasant Twp.
+Columbia,North Centre Twp.,U.S. Senate,,Bob Casey Jr.,DEM,227.0,,,Columbia County,North Centre Twp.
+Columbia,Orange Township,U.S. Senate,,Bob Casey Jr.,DEM,230.0,,,Columbia County,Orange Township
+Columbia,Orangeville Borough,U.S. Senate,,Bob Casey Jr.,DEM,54.0,,,Columbia County,Orangeville Borough
+Columbia,Pine Township,U.S. Senate,,Bob Casey Jr.,DEM,105.0,,,Columbia County,Pine Township
+Columbia,RoaringCreek Twp.,U.S. Senate,,Bob Casey Jr.,DEM,68.0,,,Columbia County,RoaringCreek Twp.
+Columbia,Scott Township East,U.S. Senate,,Bob Casey Jr.,DEM,583.0,,,Columbia County,Scott Township East
+Columbia,Scott Township West,U.S. Senate,,Bob Casey Jr.,DEM,497.0,,,Columbia County,Scott Township West
+Columbia,South Centre Twp.,U.S. Senate,,Bob Casey Jr.,DEM,204.0,,,Columbia County,South Centre Twp.
+Columbia,Stillwater Boro,U.S. Senate,,Bob Casey Jr.,DEM,30.0,,,Columbia County,Stillwater Boro
+Columbia,Sugarloaf Township,U.S. Senate,,Bob Casey Jr.,DEM,92.0,,,Columbia County,Sugarloaf Township
+Columbia,Beaver Township,U.S. Senate,,Lou Barletta,REP,276.0,,,Columbia County,Beaver Township
+Columbia,Benton Township,U.S. Senate,,Lou Barletta,REP,367.0,,,Columbia County,Benton Township
+Columbia,Benton Borough,U.S. Senate,,Lou Barletta,REP,179.0,,,Columbia County,Benton Borough
+Columbia,Berwick 1st Ward,U.S. Senate,,Lou Barletta,REP,655.0,,,Columbia County,Berwick 1st Ward
+Columbia,Berwick 2nd Ward,U.S. Senate,,Lou Barletta,REP,184.0,,,Columbia County,Berwick 2nd Ward
+Columbia,Berwick 3rd Ward,U.S. Senate,,Lou Barletta,REP,321.0,,,Columbia County,Berwick 3rd Ward
+Columbia,Berwick 4th Ward,U.S. Senate,,Lou Barletta,REP,548.0,,,Columbia County,Berwick 4th Ward
+Columbia,Bloomsburg 1st Ward,U.S. Senate,,Lou Barletta,REP,154.0,,,Columbia County,Bloomsburg 1st Ward
+Columbia,Bloomsburg 2nd Ward,U.S. Senate,,Lou Barletta,REP,222.0,,,Columbia County,Bloomsburg 2nd Ward
+Columbia,Bloomsburg 3-1 Ward,U.S. Senate,,Lou Barletta,REP,289.0,,,Columbia County,Bloomsburg 3-1 Ward
+Columbia,Bloomsburg 3-2 Ward,U.S. Senate,,Lou Barletta,REP,151.0,,,Columbia County,Bloomsburg 3-2 Ward
+Columbia,Bloomsburg 4th Ward,U.S. Senate,,Lou Barletta,REP,356.0,,,Columbia County,Bloomsburg 4th Ward
+Columbia,BriarCreek Twp. NE,U.S. Senate,,Lou Barletta,REP,409.0,,,Columbia County,BriarCreek Twp. NE
+Columbia,BriarCreek Twp. W,U.S. Senate,,Lou Barletta,REP,421.0,,,Columbia County,BriarCreek Twp. W
+Columbia,BriarCreek Borough,U.S. Senate,,Lou Barletta,REP,77.0,,,Columbia County,BriarCreek Borough
+Columbia,Catawissa Township,U.S. Senate,,Lou Barletta,REP,296.0,,,Columbia County,Catawissa Township
+Columbia,Catawissa Borough,U.S. Senate,,Lou Barletta,REP,231.0,,,Columbia County,Catawissa Borough
+Columbia,Centralia Borough,U.S. Senate,,Lou Barletta,REP,3.0,,,Columbia County,Centralia Borough
+Columbia,Cleveland Township,U.S. Senate,,Lou Barletta,REP,275.0,,,Columbia County,Cleveland Township
+Columbia,Conyngham Township,U.S. Senate,,Lou Barletta,REP,148.0,,,Columbia County,Conyngham Township
+Columbia,FishingCreek Twp.,U.S. Senate,,Lou Barletta,REP,403.0,,,Columbia County,FishingCreek Twp.
+Columbia,Franklin Township,U.S. Senate,,Lou Barletta,REP,146.0,,,Columbia County,Franklin Township
+Columbia,Greenwood Township,U.S. Senate,,Lou Barletta,REP,470.0,,,Columbia County,Greenwood Township
+Columbia,Hemlock Township,U.S. Senate,,Lou Barletta,REP,589.0,,,Columbia County,Hemlock Township
+Columbia,Jackson township,U.S. Senate,,Lou Barletta,REP,203.0,,,Columbia County,Jackson township
+Columbia,Locust Township,U.S. Senate,,Lou Barletta,REP,375.0,,,Columbia County,Locust Township
+Columbia,Madison Township,U.S. Senate,,Lou Barletta,REP,427.0,,,Columbia County,Madison Township
+Columbia,Main Township,U.S. Senate,,Lou Barletta,REP,307.0,,,Columbia County,Main Township
+Columbia,Mifflin Township,U.S. Senate,,Lou Barletta,REP,594.0,,,Columbia County,Mifflin Township
+Columbia,Millville Borough,U.S. Senate,,Lou Barletta,REP,215.0,,,Columbia County,Millville Borough
+Columbia,Montour Township,U.S. Senate,,Lou Barletta,REP,288.0,,,Columbia County,Montour Township
+Columbia,Mount Pleasant Twp.,U.S. Senate,,Lou Barletta,REP,466.0,,,Columbia County,Mount Pleasant Twp.
+Columbia,North Centre Twp.,U.S. Senate,,Lou Barletta,REP,556.0,,,Columbia County,North Centre Twp.
+Columbia,Orange Township,U.S. Senate,,Lou Barletta,REP,324.0,,,Columbia County,Orange Township
+Columbia,Orangeville Borough,U.S. Senate,,Lou Barletta,REP,60.0,,,Columbia County,Orangeville Borough
+Columbia,Pine Township,U.S. Senate,,Lou Barletta,REP,298.0,,,Columbia County,Pine Township
+Columbia,RoaringCreek Twp.,U.S. Senate,,Lou Barletta,REP,203.0,,,Columbia County,RoaringCreek Twp.
+Columbia,Scott Township East,U.S. Senate,,Lou Barletta,REP,647.0,,,Columbia County,Scott Township East
+Columbia,Scott Township West,U.S. Senate,,Lou Barletta,REP,557.0,,,Columbia County,Scott Township West
+Columbia,South Centre Twp.,U.S. Senate,,Lou Barletta,REP,395.0,,,Columbia County,South Centre Twp.
+Columbia,Stillwater Boro,U.S. Senate,,Lou Barletta,REP,61.0,,,Columbia County,Stillwater Boro
+Columbia,Sugarloaf Township,U.S. Senate,,Lou Barletta,REP,291.0,,,Columbia County,Sugarloaf Township
+Columbia,Beaver Township,U.S. Senate,,Neal Gale,GRN,2.0,,,Columbia County,Beaver Township
+Columbia,Benton Township,U.S. Senate,,Neal Gale,GRN,3.0,,,Columbia County,Benton Township
+Columbia,Benton Borough,U.S. Senate,,Neal Gale,GRN,3.0,,,Columbia County,Benton Borough
+Columbia,Berwick 1st Ward,U.S. Senate,,Neal Gale,GRN,6.0,,,Columbia County,Berwick 1st Ward
+Columbia,Berwick 2nd Ward,U.S. Senate,,Neal Gale,GRN,1.0,,,Columbia County,Berwick 2nd Ward
+Columbia,Berwick 3rd Ward,U.S. Senate,,Neal Gale,GRN,1.0,,,Columbia County,Berwick 3rd Ward
+Columbia,Berwick 4th Ward,U.S. Senate,,Neal Gale,GRN,3.0,,,Columbia County,Berwick 4th Ward
+Columbia,Bloomsburg 1st Ward,U.S. Senate,,Neal Gale,GRN,5.0,,,Columbia County,Bloomsburg 1st Ward
+Columbia,Bloomsburg 2nd Ward,U.S. Senate,,Neal Gale,GRN,10.0,,,Columbia County,Bloomsburg 2nd Ward
+Columbia,Bloomsburg 3-1 Ward,U.S. Senate,,Neal Gale,GRN,3.0,,,Columbia County,Bloomsburg 3-1 Ward
+Columbia,Bloomsburg 3-2 Ward,U.S. Senate,,Neal Gale,GRN,12.0,,,Columbia County,Bloomsburg 3-2 Ward
+Columbia,Bloomsburg 4th Ward,U.S. Senate,,Neal Gale,GRN,8.0,,,Columbia County,Bloomsburg 4th Ward
+Columbia,BriarCreek Twp. NE,U.S. Senate,,Neal Gale,GRN,1.0,,,Columbia County,BriarCreek Twp. NE
+Columbia,BriarCreek Twp. W,U.S. Senate,,Neal Gale,GRN,2.0,,,Columbia County,BriarCreek Twp. W
+Columbia,BriarCreek Borough,U.S. Senate,,Neal Gale,GRN,1.0,,,Columbia County,BriarCreek Borough
+Columbia,Catawissa Township,U.S. Senate,,Neal Gale,GRN,1.0,,,Columbia County,Catawissa Township
+Columbia,Catawissa Borough,U.S. Senate,,Neal Gale,GRN,7.0,,,Columbia County,Catawissa Borough
+Columbia,Centralia Borough,U.S. Senate,,Neal Gale,GRN,0.0,,,Columbia County,Centralia Borough
+Columbia,Cleveland Township,U.S. Senate,,Neal Gale,GRN,2.0,,,Columbia County,Cleveland Township
+Columbia,Conyngham Township,U.S. Senate,,Neal Gale,GRN,2.0,,,Columbia County,Conyngham Township
+Columbia,FishingCreek Twp.,U.S. Senate,,Neal Gale,GRN,2.0,,,Columbia County,FishingCreek Twp.
+Columbia,Franklin Township,U.S. Senate,,Neal Gale,GRN,1.0,,,Columbia County,Franklin Township
+Columbia,Greenwood Township,U.S. Senate,,Neal Gale,GRN,5.0,,,Columbia County,Greenwood Township
+Columbia,Hemlock Township,U.S. Senate,,Neal Gale,GRN,7.0,,,Columbia County,Hemlock Township
+Columbia,Jackson township,U.S. Senate,,Neal Gale,GRN,1.0,,,Columbia County,Jackson township
+Columbia,Locust Township,U.S. Senate,,Neal Gale,GRN,4.0,,,Columbia County,Locust Township
+Columbia,Madison Township,U.S. Senate,,Neal Gale,GRN,2.0,,,Columbia County,Madison Township
+Columbia,Main Township,U.S. Senate,,Neal Gale,GRN,6.0,,,Columbia County,Main Township
+Columbia,Mifflin Township,U.S. Senate,,Neal Gale,GRN,6.0,,,Columbia County,Mifflin Township
+Columbia,Millville Borough,U.S. Senate,,Neal Gale,GRN,2.0,,,Columbia County,Millville Borough
+Columbia,Montour Township,U.S. Senate,,Neal Gale,GRN,1.0,,,Columbia County,Montour Township
+Columbia,Mount Pleasant Twp.,U.S. Senate,,Neal Gale,GRN,1.0,,,Columbia County,Mount Pleasant Twp.
+Columbia,North Centre Twp.,U.S. Senate,,Neal Gale,GRN,3.0,,,Columbia County,North Centre Twp.
+Columbia,Orange Township,U.S. Senate,,Neal Gale,GRN,6.0,,,Columbia County,Orange Township
+Columbia,Orangeville Borough,U.S. Senate,,Neal Gale,GRN,1.0,,,Columbia County,Orangeville Borough
+Columbia,Pine Township,U.S. Senate,,Neal Gale,GRN,1.0,,,Columbia County,Pine Township
+Columbia,RoaringCreek Twp.,U.S. Senate,,Neal Gale,GRN,1.0,,,Columbia County,RoaringCreek Twp.
+Columbia,Scott Township East,U.S. Senate,,Neal Gale,GRN,1.0,,,Columbia County,Scott Township East
+Columbia,Scott Township West,U.S. Senate,,Neal Gale,GRN,7.0,,,Columbia County,Scott Township West
+Columbia,South Centre Twp.,U.S. Senate,,Neal Gale,GRN,3.0,,,Columbia County,South Centre Twp.
+Columbia,Stillwater Boro,U.S. Senate,,Neal Gale,GRN,1.0,,,Columbia County,Stillwater Boro
+Columbia,Sugarloaf Township,U.S. Senate,,Neal Gale,GRN,5.0,,,Columbia County,Sugarloaf Township
+Columbia,Beaver Township,U.S. Senate,,Dale R. Kerns Jr.,LIB,4.0,,,Columbia County,Beaver Township
+Columbia,Benton Township,U.S. Senate,,Dale R. Kerns Jr.,LIB,7.0,,,Columbia County,Benton Township
+Columbia,Benton Borough,U.S. Senate,,Dale R. Kerns Jr.,LIB,2.0,,,Columbia County,Benton Borough
+Columbia,Berwick 1st Ward,U.S. Senate,,Dale R. Kerns Jr.,LIB,12.0,,,Columbia County,Berwick 1st Ward
+Columbia,Berwick 2nd Ward,U.S. Senate,,Dale R. Kerns Jr.,LIB,4.0,,,Columbia County,Berwick 2nd Ward
+Columbia,Berwick 3rd Ward,U.S. Senate,,Dale R. Kerns Jr.,LIB,4.0,,,Columbia County,Berwick 3rd Ward
+Columbia,Berwick 4th Ward,U.S. Senate,,Dale R. Kerns Jr.,LIB,8.0,,,Columbia County,Berwick 4th Ward
+Columbia,Bloomsburg 1st Ward,U.S. Senate,,Dale R. Kerns Jr.,LIB,5.0,,,Columbia County,Bloomsburg 1st Ward
+Columbia,Bloomsburg 2nd Ward,U.S. Senate,,Dale R. Kerns Jr.,LIB,8.0,,,Columbia County,Bloomsburg 2nd Ward
+Columbia,Bloomsburg 3-1 Ward,U.S. Senate,,Dale R. Kerns Jr.,LIB,13.0,,,Columbia County,Bloomsburg 3-1 Ward
+Columbia,Bloomsburg 3-2 Ward,U.S. Senate,,Dale R. Kerns Jr.,LIB,14.0,,,Columbia County,Bloomsburg 3-2 Ward
+Columbia,Bloomsburg 4th Ward,U.S. Senate,,Dale R. Kerns Jr.,LIB,5.0,,,Columbia County,Bloomsburg 4th Ward
+Columbia,BriarCreek Twp. NE,U.S. Senate,,Dale R. Kerns Jr.,LIB,2.0,,,Columbia County,BriarCreek Twp. NE
+Columbia,BriarCreek Twp. W,U.S. Senate,,Dale R. Kerns Jr.,LIB,4.0,,,Columbia County,BriarCreek Twp. W
+Columbia,BriarCreek Borough,U.S. Senate,,Dale R. Kerns Jr.,LIB,0.0,,,Columbia County,BriarCreek Borough
+Columbia,Catawissa Township,U.S. Senate,,Dale R. Kerns Jr.,LIB,6.0,,,Columbia County,Catawissa Township
+Columbia,Catawissa Borough,U.S. Senate,,Dale R. Kerns Jr.,LIB,5.0,,,Columbia County,Catawissa Borough
+Columbia,Centralia Borough,U.S. Senate,,Dale R. Kerns Jr.,LIB,0.0,,,Columbia County,Centralia Borough
+Columbia,Cleveland Township,U.S. Senate,,Dale R. Kerns Jr.,LIB,3.0,,,Columbia County,Cleveland Township
+Columbia,Conyngham Township,U.S. Senate,,Dale R. Kerns Jr.,LIB,2.0,,,Columbia County,Conyngham Township
+Columbia,FishingCreek Twp.,U.S. Senate,,Dale R. Kerns Jr.,LIB,5.0,,,Columbia County,FishingCreek Twp.
+Columbia,Franklin Township,U.S. Senate,,Dale R. Kerns Jr.,LIB,3.0,,,Columbia County,Franklin Township
+Columbia,Greenwood Township,U.S. Senate,,Dale R. Kerns Jr.,LIB,8.0,,,Columbia County,Greenwood Township
+Columbia,Hemlock Township,U.S. Senate,,Dale R. Kerns Jr.,LIB,10.0,,,Columbia County,Hemlock Township
+Columbia,Jackson township,U.S. Senate,,Dale R. Kerns Jr.,LIB,6.0,,,Columbia County,Jackson township
+Columbia,Locust Township,U.S. Senate,,Dale R. Kerns Jr.,LIB,3.0,,,Columbia County,Locust Township
+Columbia,Madison Township,U.S. Senate,,Dale R. Kerns Jr.,LIB,4.0,,,Columbia County,Madison Township
+Columbia,Main Township,U.S. Senate,,Dale R. Kerns Jr.,LIB,4.0,,,Columbia County,Main Township
+Columbia,Mifflin Township,U.S. Senate,,Dale R. Kerns Jr.,LIB,6.0,,,Columbia County,Mifflin Township
+Columbia,Millville Borough,U.S. Senate,,Dale R. Kerns Jr.,LIB,0.0,,,Columbia County,Millville Borough
+Columbia,Montour Township,U.S. Senate,,Dale R. Kerns Jr.,LIB,3.0,,,Columbia County,Montour Township
+Columbia,Mount Pleasant Twp.,U.S. Senate,,Dale R. Kerns Jr.,LIB,8.0,,,Columbia County,Mount Pleasant Twp.
+Columbia,North Centre Twp.,U.S. Senate,,Dale R. Kerns Jr.,LIB,9.0,,,Columbia County,North Centre Twp.
+Columbia,Orange Township,U.S. Senate,,Dale R. Kerns Jr.,LIB,3.0,,,Columbia County,Orange Township
+Columbia,Orangeville Borough,U.S. Senate,,Dale R. Kerns Jr.,LIB,2.0,,,Columbia County,Orangeville Borough
+Columbia,Pine Township,U.S. Senate,,Dale R. Kerns Jr.,LIB,1.0,,,Columbia County,Pine Township
+Columbia,RoaringCreek Twp.,U.S. Senate,,Dale R. Kerns Jr.,LIB,2.0,,,Columbia County,RoaringCreek Twp.
+Columbia,Scott Township East,U.S. Senate,,Dale R. Kerns Jr.,LIB,10.0,,,Columbia County,Scott Township East
+Columbia,Scott Township West,U.S. Senate,,Dale R. Kerns Jr.,LIB,19.0,,,Columbia County,Scott Township West
+Columbia,South Centre Twp.,U.S. Senate,,Dale R. Kerns Jr.,LIB,9.0,,,Columbia County,South Centre Twp.
+Columbia,Stillwater Boro,U.S. Senate,,Dale R. Kerns Jr.,LIB,0.0,,,Columbia County,Stillwater Boro
+Columbia,Sugarloaf Township,U.S. Senate,,Dale R. Kerns Jr.,LIB,1.0,,,Columbia County,Sugarloaf Township
+Columbia,Beaver Township,U.S. Senate,,Write-ins,,0.0,,,Columbia County,Beaver Township
+Columbia,Benton Township,U.S. Senate,,Write-ins,,0.0,,,Columbia County,Benton Township
+Columbia,Benton Borough,U.S. Senate,,Write-ins,,0.0,,,Columbia County,Benton Borough
+Columbia,Berwick 1st Ward,U.S. Senate,,Write-ins,,1.0,,,Columbia County,Berwick 1st Ward
+Columbia,Berwick 2nd Ward,U.S. Senate,,Write-ins,,0.0,,,Columbia County,Berwick 2nd Ward
+Columbia,Berwick 3rd Ward,U.S. Senate,,Write-ins,,0.0,,,Columbia County,Berwick 3rd Ward
+Columbia,Berwick 4th Ward,U.S. Senate,,Write-ins,,0.0,,,Columbia County,Berwick 4th Ward
+Columbia,Bloomsburg 1st Ward,U.S. Senate,,Write-ins,,0.0,,,Columbia County,Bloomsburg 1st Ward
+Columbia,Bloomsburg 2nd Ward,U.S. Senate,,Write-ins,,0.0,,,Columbia County,Bloomsburg 2nd Ward
+Columbia,Bloomsburg 3-1 Ward,U.S. Senate,,Write-ins,,1.0,,,Columbia County,Bloomsburg 3-1 Ward
+Columbia,Bloomsburg 3-2 Ward,U.S. Senate,,Write-ins,,0.0,,,Columbia County,Bloomsburg 3-2 Ward
+Columbia,Bloomsburg 4th Ward,U.S. Senate,,Write-ins,,0.0,,,Columbia County,Bloomsburg 4th Ward
+Columbia,BriarCreek Twp. NE,U.S. Senate,,Write-ins,,0.0,,,Columbia County,BriarCreek Twp. NE
+Columbia,BriarCreek Twp. W,U.S. Senate,,Write-ins,,0.0,,,Columbia County,BriarCreek Twp. W
+Columbia,BriarCreek Borough,U.S. Senate,,Write-ins,,0.0,,,Columbia County,BriarCreek Borough
+Columbia,Catawissa Township,U.S. Senate,,Write-ins,,0.0,,,Columbia County,Catawissa Township
+Columbia,Catawissa Borough,U.S. Senate,,Write-ins,,0.0,,,Columbia County,Catawissa Borough
+Columbia,Centralia Borough,U.S. Senate,,Write-ins,,0.0,,,Columbia County,Centralia Borough
+Columbia,Cleveland Township,U.S. Senate,,Write-ins,,0.0,,,Columbia County,Cleveland Township
+Columbia,Conyngham Township,U.S. Senate,,Write-ins,,0.0,,,Columbia County,Conyngham Township
+Columbia,FishingCreek Twp.,U.S. Senate,,Write-ins,,0.0,,,Columbia County,FishingCreek Twp.
+Columbia,Franklin Township,U.S. Senate,,Write-ins,,1.0,,,Columbia County,Franklin Township
+Columbia,Greenwood Township,U.S. Senate,,Write-ins,,0.0,,,Columbia County,Greenwood Township
+Columbia,Hemlock Township,U.S. Senate,,Write-ins,,0.0,,,Columbia County,Hemlock Township
+Columbia,Jackson township,U.S. Senate,,Write-ins,,0.0,,,Columbia County,Jackson township
+Columbia,Locust Township,U.S. Senate,,Write-ins,,1.0,,,Columbia County,Locust Township
+Columbia,Madison Township,U.S. Senate,,Write-ins,,0.0,,,Columbia County,Madison Township
+Columbia,Main Township,U.S. Senate,,Write-ins,,1.0,,,Columbia County,Main Township
+Columbia,Mifflin Township,U.S. Senate,,Write-ins,,0.0,,,Columbia County,Mifflin Township
+Columbia,Millville Borough,U.S. Senate,,Write-ins,,0.0,,,Columbia County,Millville Borough
+Columbia,Montour Township,U.S. Senate,,Write-ins,,0.0,,,Columbia County,Montour Township
+Columbia,Mount Pleasant Twp.,U.S. Senate,,Write-ins,,0.0,,,Columbia County,Mount Pleasant Twp.
+Columbia,North Centre Twp.,U.S. Senate,,Write-ins,,0.0,,,Columbia County,North Centre Twp.
+Columbia,Orange Township,U.S. Senate,,Write-ins,,0.0,,,Columbia County,Orange Township
+Columbia,Orangeville Borough,U.S. Senate,,Write-ins,,0.0,,,Columbia County,Orangeville Borough
+Columbia,Pine Township,U.S. Senate,,Write-ins,,0.0,,,Columbia County,Pine Township
+Columbia,RoaringCreek Twp.,U.S. Senate,,Write-ins,,0.0,,,Columbia County,RoaringCreek Twp.
+Columbia,Scott Township East,U.S. Senate,,Write-ins,,1.0,,,Columbia County,Scott Township East
+Columbia,Scott Township West,U.S. Senate,,Write-ins,,0.0,,,Columbia County,Scott Township West
+Columbia,South Centre Twp.,U.S. Senate,,Write-ins,,0.0,,,Columbia County,South Centre Twp.
+Columbia,Stillwater Boro,U.S. Senate,,Write-ins,,0.0,,,Columbia County,Stillwater Boro
+Columbia,Sugarloaf Township,U.S. Senate,,Write-ins,,0.0,,,Columbia County,Sugarloaf Township
+Columbia,Beaver Township,Governor,,Tom Wolf,DEM,131.0,,,Columbia County,Beaver Township
+Columbia,Benton Township,Governor,,Tom Wolf,DEM,161.0,,,Columbia County,Benton Township
+Columbia,Benton Borough,Governor,,Tom Wolf,DEM,108.0,,,Columbia County,Benton Borough
+Columbia,Berwick 1st Ward,Governor,,Tom Wolf,DEM,411.0,,,Columbia County,Berwick 1st Ward
+Columbia,Berwick 2nd Ward,Governor,,Tom Wolf,DEM,152.0,,,Columbia County,Berwick 2nd Ward
+Columbia,Berwick 3rd Ward,Governor,,Tom Wolf,DEM,227.0,,,Columbia County,Berwick 3rd Ward
+Columbia,Berwick 4th Ward,Governor,,Tom Wolf,DEM,339.0,,,Columbia County,Berwick 4th Ward
+Columbia,Bloomsburg 1st Ward,Governor,,Tom Wolf,DEM,258.0,,,Columbia County,Bloomsburg 1st Ward
+Columbia,Bloomsburg 2nd Ward,Governor,,Tom Wolf,DEM,409.0,,,Columbia County,Bloomsburg 2nd Ward
+Columbia,Bloomsburg 3-1 Ward,Governor,,Tom Wolf,DEM,538.0,,,Columbia County,Bloomsburg 3-1 Ward
+Columbia,Bloomsburg 3-2 Ward,Governor,,Tom Wolf,DEM,522.0,,,Columbia County,Bloomsburg 3-2 Ward
+Columbia,Bloomsburg 4th Ward,Governor,,Tom Wolf,DEM,426.0,,,Columbia County,Bloomsburg 4th Ward
+Columbia,BriarCreek Twp. NE,Governor,,Tom Wolf,DEM,188.0,,,Columbia County,BriarCreek Twp. NE
+Columbia,BriarCreek Twp. W,Governor,,Tom Wolf,DEM,208.0,,,Columbia County,BriarCreek Twp. W
+Columbia,BriarCreek Borough,Governor,,Tom Wolf,DEM,55.0,,,Columbia County,BriarCreek Borough
+Columbia,Catawissa Township,Governor,,Tom Wolf,DEM,142.0,,,Columbia County,Catawissa Township
+Columbia,Catawissa Borough,Governor,,Tom Wolf,DEM,200.0,,,Columbia County,Catawissa Borough
+Columbia,Centralia Borough,Governor,,Tom Wolf,DEM,2.0,,,Columbia County,Centralia Borough
+Columbia,Cleveland Township,Governor,,Tom Wolf,DEM,169.0,,,Columbia County,Cleveland Township
+Columbia,Conyngham Township,Governor,,Tom Wolf,DEM,106.0,,,Columbia County,Conyngham Township
+Columbia,FishingCreek Twp.,Governor,,Tom Wolf,DEM,226.0,,,Columbia County,FishingCreek Twp.
+Columbia,Franklin Township,Governor,,Tom Wolf,DEM,98.0,,,Columbia County,Franklin Township
+Columbia,Greenwood Township,Governor,,Tom Wolf,DEM,249.0,,,Columbia County,Greenwood Township
+Columbia,Hemlock Township,Governor,,Tom Wolf,DEM,450.0,,,Columbia County,Hemlock Township
+Columbia,Jackson township,Governor,,Tom Wolf,DEM,64.0,,,Columbia County,Jackson township
+Columbia,Locust Township,Governor,,Tom Wolf,DEM,226.0,,,Columbia County,Locust Township
+Columbia,Madison Township,Governor,,Tom Wolf,DEM,238.0,,,Columbia County,Madison Township
+Columbia,Main Township,Governor,,Tom Wolf,DEM,265.0,,,Columbia County,Main Township
+Columbia,Mifflin Township,Governor,,Tom Wolf,DEM,328.0,,,Columbia County,Mifflin Township
+Columbia,Millville Borough,Governor,,Tom Wolf,DEM,139.0,,,Columbia County,Millville Borough
+Columbia,Montour Township,Governor,,Tom Wolf,DEM,204.0,,,Columbia County,Montour Township
+Columbia,Mount Pleasant Twp.,Governor,,Tom Wolf,DEM,238.0,,,Columbia County,Mount Pleasant Twp.
+Columbia,North Centre Twp.,Governor,,Tom Wolf,DEM,275.0,,,Columbia County,North Centre Twp.
+Columbia,Orange Township,Governor,,Tom Wolf,DEM,272.0,,,Columbia County,Orange Township
+Columbia,Orangeville Borough,Governor,,Tom Wolf,DEM,53.0,,,Columbia County,Orangeville Borough
+Columbia,Pine Township,Governor,,Tom Wolf,DEM,118.0,,,Columbia County,Pine Township
+Columbia,RoaringCreek Twp.,Governor,,Tom Wolf,DEM,85.0,,,Columbia County,RoaringCreek Twp.
+Columbia,Scott Township East,Governor,,Tom Wolf,DEM,642.0,,,Columbia County,Scott Township East
+Columbia,Scott Township West,Governor,,Tom Wolf,DEM,549.0,,,Columbia County,Scott Township West
+Columbia,South Centre Twp.,Governor,,Tom Wolf,DEM,221.0,,,Columbia County,South Centre Twp.
+Columbia,Stillwater Boro,Governor,,Tom Wolf,DEM,32.0,,,Columbia County,Stillwater Boro
+Columbia,Sugarloaf Township,Governor,,Tom Wolf,DEM,98.0,,,Columbia County,Sugarloaf Township
+Columbia,Beaver Township,Governor,,Scott R. Wagner,REP,248.0,,,Columbia County,Beaver Township
+Columbia,Benton Township,Governor,,Scott R. Wagner,REP,364.0,,,Columbia County,Benton Township
+Columbia,Benton Borough,Governor,,Scott R. Wagner,REP,162.0,,,Columbia County,Benton Borough
+Columbia,Berwick 1st Ward,Governor,,Scott R. Wagner,REP,611.0,,,Columbia County,Berwick 1st Ward
+Columbia,Berwick 2nd Ward,Governor,,Scott R. Wagner,REP,171.0,,,Columbia County,Berwick 2nd Ward
+Columbia,Berwick 3rd Ward,Governor,,Scott R. Wagner,REP,293.0,,,Columbia County,Berwick 3rd Ward
+Columbia,Berwick 4th Ward,Governor,,Scott R. Wagner,REP,517.0,,,Columbia County,Berwick 4th Ward
+Columbia,Bloomsburg 1st Ward,Governor,,Scott R. Wagner,REP,137.0,,,Columbia County,Bloomsburg 1st Ward
+Columbia,Bloomsburg 2nd Ward,Governor,,Scott R. Wagner,REP,188.0,,,Columbia County,Bloomsburg 2nd Ward
+Columbia,Bloomsburg 3-1 Ward,Governor,,Scott R. Wagner,REP,282.0,,,Columbia County,Bloomsburg 3-1 Ward
+Columbia,Bloomsburg 3-2 Ward,Governor,,Scott R. Wagner,REP,154.0,,,Columbia County,Bloomsburg 3-2 Ward
+Columbia,Bloomsburg 4th Ward,Governor,,Scott R. Wagner,REP,335.0,,,Columbia County,Bloomsburg 4th Ward
+Columbia,BriarCreek Twp. NE,Governor,,Scott R. Wagner,REP,376.0,,,Columbia County,BriarCreek Twp. NE
+Columbia,BriarCreek Twp. W,Governor,,Scott R. Wagner,REP,391.0,,,Columbia County,BriarCreek Twp. W
+Columbia,BriarCreek Borough,Governor,,Scott R. Wagner,REP,69.0,,,Columbia County,BriarCreek Borough
+Columbia,Catawissa Township,Governor,,Scott R. Wagner,REP,273.0,,,Columbia County,Catawissa Township
+Columbia,Catawissa Borough,Governor,,Scott R. Wagner,REP,212.0,,,Columbia County,Catawissa Borough
+Columbia,Centralia Borough,Governor,,Scott R. Wagner,REP,1.0,,,Columbia County,Centralia Borough
+Columbia,Cleveland Township,Governor,,Scott R. Wagner,REP,241.0,,,Columbia County,Cleveland Township
+Columbia,Conyngham Township,Governor,,Scott R. Wagner,REP,126.0,,,Columbia County,Conyngham Township
+Columbia,FishingCreek Twp.,Governor,,Scott R. Wagner,REP,370.0,,,Columbia County,FishingCreek Twp.
+Columbia,Franklin Township,Governor,,Scott R. Wagner,REP,134.0,,,Columbia County,Franklin Township
+Columbia,Greenwood Township,Governor,,Scott R. Wagner,REP,444.0,,,Columbia County,Greenwood Township
+Columbia,Hemlock Township,Governor,,Scott R. Wagner,REP,532.0,,,Columbia County,Hemlock Township
+Columbia,Jackson township,Governor,,Scott R. Wagner,REP,194.0,,,Columbia County,Jackson township
+Columbia,Locust Township,Governor,,Scott R. Wagner,REP,349.0,,,Columbia County,Locust Township
+Columbia,Madison Township,Governor,,Scott R. Wagner,REP,395.0,,,Columbia County,Madison Township
+Columbia,Main Township,Governor,,Scott R. Wagner,REP,278.0,,,Columbia County,Main Township
+Columbia,Mifflin Township,Governor,,Scott R. Wagner,REP,552.0,,,Columbia County,Mifflin Township
+Columbia,Millville Borough,Governor,,Scott R. Wagner,REP,203.0,,,Columbia County,Millville Borough
+Columbia,Montour Township,Governor,,Scott R. Wagner,REP,262.0,,,Columbia County,Montour Township
+Columbia,Mount Pleasant Twp.,Governor,,Scott R. Wagner,REP,435.0,,,Columbia County,Mount Pleasant Twp.
+Columbia,North Centre Twp.,Governor,,Scott R. Wagner,REP,500.0,,,Columbia County,North Centre Twp.
+Columbia,Orange Township,Governor,,Scott R. Wagner,REP,280.0,,,Columbia County,Orange Township
+Columbia,Orangeville Borough,Governor,,Scott R. Wagner,REP,61.0,,,Columbia County,Orangeville Borough
+Columbia,Pine Township,Governor,,Scott R. Wagner,REP,285.0,,,Columbia County,Pine Township
+Columbia,RoaringCreek Twp.,Governor,,Scott R. Wagner,REP,185.0,,,Columbia County,RoaringCreek Twp.
+Columbia,Scott Township East,Governor,,Scott R. Wagner,REP,577.0,,,Columbia County,Scott Township East
+Columbia,Scott Township West,Governor,,Scott R. Wagner,REP,512.0,,,Columbia County,Scott Township West
+Columbia,South Centre Twp.,Governor,,Scott R. Wagner,REP,381.0,,,Columbia County,South Centre Twp.
+Columbia,Stillwater Boro,Governor,,Scott R. Wagner,REP,59.0,,,Columbia County,Stillwater Boro
+Columbia,Sugarloaf Township,Governor,,Scott R. Wagner,REP,285.0,,,Columbia County,Sugarloaf Township
+Columbia,Beaver Township,Governor,,Paul Glover,GRN,5.0,,,Columbia County,Beaver Township
+Columbia,Benton Township,Governor,,Paul Glover,GRN,3.0,,,Columbia County,Benton Township
+Columbia,Benton Borough,Governor,,Paul Glover,GRN,3.0,,,Columbia County,Benton Borough
+Columbia,Berwick 1st Ward,Governor,,Paul Glover,GRN,5.0,,,Columbia County,Berwick 1st Ward
+Columbia,Berwick 2nd Ward,Governor,,Paul Glover,GRN,2.0,,,Columbia County,Berwick 2nd Ward
+Columbia,Berwick 3rd Ward,Governor,,Paul Glover,GRN,3.0,,,Columbia County,Berwick 3rd Ward
+Columbia,Berwick 4th Ward,Governor,,Paul Glover,GRN,4.0,,,Columbia County,Berwick 4th Ward
+Columbia,Bloomsburg 1st Ward,Governor,,Paul Glover,GRN,5.0,,,Columbia County,Bloomsburg 1st Ward
+Columbia,Bloomsburg 2nd Ward,Governor,,Paul Glover,GRN,6.0,,,Columbia County,Bloomsburg 2nd Ward
+Columbia,Bloomsburg 3-1 Ward,Governor,,Paul Glover,GRN,4.0,,,Columbia County,Bloomsburg 3-1 Ward
+Columbia,Bloomsburg 3-2 Ward,Governor,,Paul Glover,GRN,12.0,,,Columbia County,Bloomsburg 3-2 Ward
+Columbia,Bloomsburg 4th Ward,Governor,,Paul Glover,GRN,5.0,,,Columbia County,Bloomsburg 4th Ward
+Columbia,BriarCreek Twp. NE,Governor,,Paul Glover,GRN,4.0,,,Columbia County,BriarCreek Twp. NE
+Columbia,BriarCreek Twp. W,Governor,,Paul Glover,GRN,2.0,,,Columbia County,BriarCreek Twp. W
+Columbia,BriarCreek Borough,Governor,,Paul Glover,GRN,0.0,,,Columbia County,BriarCreek Borough
+Columbia,Catawissa Township,Governor,,Paul Glover,GRN,4.0,,,Columbia County,Catawissa Township
+Columbia,Catawissa Borough,Governor,,Paul Glover,GRN,4.0,,,Columbia County,Catawissa Borough
+Columbia,Centralia Borough,Governor,,Paul Glover,GRN,0.0,,,Columbia County,Centralia Borough
+Columbia,Cleveland Township,Governor,,Paul Glover,GRN,2.0,,,Columbia County,Cleveland Township
+Columbia,Conyngham Township,Governor,,Paul Glover,GRN,1.0,,,Columbia County,Conyngham Township
+Columbia,FishingCreek Twp.,Governor,,Paul Glover,GRN,3.0,,,Columbia County,FishingCreek Twp.
+Columbia,Franklin Township,Governor,,Paul Glover,GRN,1.0,,,Columbia County,Franklin Township
+Columbia,Greenwood Township,Governor,,Paul Glover,GRN,1.0,,,Columbia County,Greenwood Township
+Columbia,Hemlock Township,Governor,,Paul Glover,GRN,6.0,,,Columbia County,Hemlock Township
+Columbia,Jackson township,Governor,,Paul Glover,GRN,2.0,,,Columbia County,Jackson township
+Columbia,Locust Township,Governor,,Paul Glover,GRN,1.0,,,Columbia County,Locust Township
+Columbia,Madison Township,Governor,,Paul Glover,GRN,5.0,,,Columbia County,Madison Township
+Columbia,Main Township,Governor,,Paul Glover,GRN,4.0,,,Columbia County,Main Township
+Columbia,Mifflin Township,Governor,,Paul Glover,GRN,8.0,,,Columbia County,Mifflin Township
+Columbia,Millville Borough,Governor,,Paul Glover,GRN,2.0,,,Columbia County,Millville Borough
+Columbia,Montour Township,Governor,,Paul Glover,GRN,1.0,,,Columbia County,Montour Township
+Columbia,Mount Pleasant Twp.,Governor,,Paul Glover,GRN,2.0,,,Columbia County,Mount Pleasant Twp.
+Columbia,North Centre Twp.,Governor,,Paul Glover,GRN,6.0,,,Columbia County,North Centre Twp.
+Columbia,Orange Township,Governor,,Paul Glover,GRN,8.0,,,Columbia County,Orange Township
+Columbia,Orangeville Borough,Governor,,Paul Glover,GRN,0.0,,,Columbia County,Orangeville Borough
+Columbia,Pine Township,Governor,,Paul Glover,GRN,2.0,,,Columbia County,Pine Township
+Columbia,RoaringCreek Twp.,Governor,,Paul Glover,GRN,2.0,,,Columbia County,RoaringCreek Twp.
+Columbia,Scott Township East,Governor,,Paul Glover,GRN,2.0,,,Columbia County,Scott Township East
+Columbia,Scott Township West,Governor,,Paul Glover,GRN,10.0,,,Columbia County,Scott Township West
+Columbia,South Centre Twp.,Governor,,Paul Glover,GRN,2.0,,,Columbia County,South Centre Twp.
+Columbia,Stillwater Boro,Governor,,Paul Glover,GRN,1.0,,,Columbia County,Stillwater Boro
+Columbia,Sugarloaf Township,Governor,,Paul Glover,GRN,5.0,,,Columbia County,Sugarloaf Township
+Columbia,Beaver Township,Governor,,Ken V. Krawchuk,LIB,2.0,,,Columbia County,Beaver Township
+Columbia,Benton Township,Governor,,Ken V. Krawchuk,LIB,6.0,,,Columbia County,Benton Township
+Columbia,Benton Borough,Governor,,Ken V. Krawchuk,LIB,2.0,,,Columbia County,Benton Borough
+Columbia,Berwick 1st Ward,Governor,,Ken V. Krawchuk,LIB,13.0,,,Columbia County,Berwick 1st Ward
+Columbia,Berwick 2nd Ward,Governor,,Ken V. Krawchuk,LIB,3.0,,,Columbia County,Berwick 2nd Ward
+Columbia,Berwick 3rd Ward,Governor,,Ken V. Krawchuk,LIB,4.0,,,Columbia County,Berwick 3rd Ward
+Columbia,Berwick 4th Ward,Governor,,Ken V. Krawchuk,LIB,12.0,,,Columbia County,Berwick 4th Ward
+Columbia,Bloomsburg 1st Ward,Governor,,Ken V. Krawchuk,LIB,7.0,,,Columbia County,Bloomsburg 1st Ward
+Columbia,Bloomsburg 2nd Ward,Governor,,Ken V. Krawchuk,LIB,8.0,,,Columbia County,Bloomsburg 2nd Ward
+Columbia,Bloomsburg 3-1 Ward,Governor,,Ken V. Krawchuk,LIB,13.0,,,Columbia County,Bloomsburg 3-1 Ward
+Columbia,Bloomsburg 3-2 Ward,Governor,,Ken V. Krawchuk,LIB,7.0,,,Columbia County,Bloomsburg 3-2 Ward
+Columbia,Bloomsburg 4th Ward,Governor,,Ken V. Krawchuk,LIB,10.0,,,Columbia County,Bloomsburg 4th Ward
+Columbia,BriarCreek Twp. NE,Governor,,Ken V. Krawchuk,LIB,8.0,,,Columbia County,BriarCreek Twp. NE
+Columbia,BriarCreek Twp. W,Governor,,Ken V. Krawchuk,LIB,6.0,,,Columbia County,BriarCreek Twp. W
+Columbia,BriarCreek Borough,Governor,,Ken V. Krawchuk,LIB,1.0,,,Columbia County,BriarCreek Borough
+Columbia,Catawissa Township,Governor,,Ken V. Krawchuk,LIB,5.0,,,Columbia County,Catawissa Township
+Columbia,Catawissa Borough,Governor,,Ken V. Krawchuk,LIB,7.0,,,Columbia County,Catawissa Borough
+Columbia,Centralia Borough,Governor,,Ken V. Krawchuk,LIB,0.0,,,Columbia County,Centralia Borough
+Columbia,Cleveland Township,Governor,,Ken V. Krawchuk,LIB,3.0,,,Columbia County,Cleveland Township
+Columbia,Conyngham Township,Governor,,Ken V. Krawchuk,LIB,2.0,,,Columbia County,Conyngham Township
+Columbia,FishingCreek Twp.,Governor,,Ken V. Krawchuk,LIB,3.0,,,Columbia County,FishingCreek Twp.
+Columbia,Franklin Township,Governor,,Ken V. Krawchuk,LIB,4.0,,,Columbia County,Franklin Township
+Columbia,Greenwood Township,Governor,,Ken V. Krawchuk,LIB,10.0,,,Columbia County,Greenwood Township
+Columbia,Hemlock Township,Governor,,Ken V. Krawchuk,LIB,17.0,,,Columbia County,Hemlock Township
+Columbia,Jackson township,Governor,,Ken V. Krawchuk,LIB,8.0,,,Columbia County,Jackson township
+Columbia,Locust Township,Governor,,Ken V. Krawchuk,LIB,3.0,,,Columbia County,Locust Township
+Columbia,Madison Township,Governor,,Ken V. Krawchuk,LIB,3.0,,,Columbia County,Madison Township
+Columbia,Main Township,Governor,,Ken V. Krawchuk,LIB,2.0,,,Columbia County,Main Township
+Columbia,Mifflin Township,Governor,,Ken V. Krawchuk,LIB,4.0,,,Columbia County,Mifflin Township
+Columbia,Millville Borough,Governor,,Ken V. Krawchuk,LIB,2.0,,,Columbia County,Millville Borough
+Columbia,Montour Township,Governor,,Ken V. Krawchuk,LIB,2.0,,,Columbia County,Montour Township
+Columbia,Mount Pleasant Twp.,Governor,,Ken V. Krawchuk,LIB,11.0,,,Columbia County,Mount Pleasant Twp.
+Columbia,North Centre Twp.,Governor,,Ken V. Krawchuk,LIB,9.0,,,Columbia County,North Centre Twp.
+Columbia,Orange Township,Governor,,Ken V. Krawchuk,LIB,3.0,,,Columbia County,Orange Township
+Columbia,Orangeville Borough,Governor,,Ken V. Krawchuk,LIB,2.0,,,Columbia County,Orangeville Borough
+Columbia,Pine Township,Governor,,Ken V. Krawchuk,LIB,1.0,,,Columbia County,Pine Township
+Columbia,RoaringCreek Twp.,Governor,,Ken V. Krawchuk,LIB,3.0,,,Columbia County,RoaringCreek Twp.
+Columbia,Scott Township East,Governor,,Ken V. Krawchuk,LIB,19.0,,,Columbia County,Scott Township East
+Columbia,Scott Township West,Governor,,Ken V. Krawchuk,LIB,9.0,,,Columbia County,Scott Township West
+Columbia,South Centre Twp.,Governor,,Ken V. Krawchuk,LIB,8.0,,,Columbia County,South Centre Twp.
+Columbia,Stillwater Boro,Governor,,Ken V. Krawchuk,LIB,0.0,,,Columbia County,Stillwater Boro
+Columbia,Sugarloaf Township,Governor,,Ken V. Krawchuk,LIB,2.0,,,Columbia County,Sugarloaf Township
+Columbia,Beaver Township,Governor,,Write-ins,,0.0,,,Columbia County,Beaver Township
+Columbia,Benton Township,Governor,,Write-ins,,0.0,,,Columbia County,Benton Township
+Columbia,Benton Borough,Governor,,Write-ins,,0.0,,,Columbia County,Benton Borough
+Columbia,Berwick 1st Ward,Governor,,Write-ins,,1.0,,,Columbia County,Berwick 1st Ward
+Columbia,Berwick 2nd Ward,Governor,,Write-ins,,1.0,,,Columbia County,Berwick 2nd Ward
+Columbia,Berwick 3rd Ward,Governor,,Write-ins,,0.0,,,Columbia County,Berwick 3rd Ward
+Columbia,Berwick 4th Ward,Governor,,Write-ins,,0.0,,,Columbia County,Berwick 4th Ward
+Columbia,Bloomsburg 1st Ward,Governor,,Write-ins,,0.0,,,Columbia County,Bloomsburg 1st Ward
+Columbia,Bloomsburg 2nd Ward,Governor,,Write-ins,,1.0,,,Columbia County,Bloomsburg 2nd Ward
+Columbia,Bloomsburg 3-1 Ward,Governor,,Write-ins,,0.0,,,Columbia County,Bloomsburg 3-1 Ward
+Columbia,Bloomsburg 3-2 Ward,Governor,,Write-ins,,1.0,,,Columbia County,Bloomsburg 3-2 Ward
+Columbia,Bloomsburg 4th Ward,Governor,,Write-ins,,1.0,,,Columbia County,Bloomsburg 4th Ward
+Columbia,BriarCreek Twp. NE,Governor,,Write-ins,,0.0,,,Columbia County,BriarCreek Twp. NE
+Columbia,BriarCreek Twp. W,Governor,,Write-ins,,1.0,,,Columbia County,BriarCreek Twp. W
+Columbia,BriarCreek Borough,Governor,,Write-ins,,0.0,,,Columbia County,BriarCreek Borough
+Columbia,Catawissa Township,Governor,,Write-ins,,2.0,,,Columbia County,Catawissa Township
+Columbia,Catawissa Borough,Governor,,Write-ins,,3.0,,,Columbia County,Catawissa Borough
+Columbia,Centralia Borough,Governor,,Write-ins,,0.0,,,Columbia County,Centralia Borough
+Columbia,Cleveland Township,Governor,,Write-ins,,0.0,,,Columbia County,Cleveland Township
+Columbia,Conyngham Township,Governor,,Write-ins,,0.0,,,Columbia County,Conyngham Township
+Columbia,FishingCreek Twp.,Governor,,Write-ins,,0.0,,,Columbia County,FishingCreek Twp.
+Columbia,Franklin Township,Governor,,Write-ins,,0.0,,,Columbia County,Franklin Township
+Columbia,Greenwood Township,Governor,,Write-ins,,1.0,,,Columbia County,Greenwood Township
+Columbia,Hemlock Township,Governor,,Write-ins,,0.0,,,Columbia County,Hemlock Township
+Columbia,Jackson township,Governor,,Write-ins,,0.0,,,Columbia County,Jackson township
+Columbia,Locust Township,Governor,,Write-ins,,1.0,,,Columbia County,Locust Township
+Columbia,Madison Township,Governor,,Write-ins,,2.0,,,Columbia County,Madison Township
+Columbia,Main Township,Governor,,Write-ins,,0.0,,,Columbia County,Main Township
+Columbia,Mifflin Township,Governor,,Write-ins,,0.0,,,Columbia County,Mifflin Township
+Columbia,Millville Borough,Governor,,Write-ins,,0.0,,,Columbia County,Millville Borough
+Columbia,Montour Township,Governor,,Write-ins,,0.0,,,Columbia County,Montour Township
+Columbia,Mount Pleasant Twp.,Governor,,Write-ins,,0.0,,,Columbia County,Mount Pleasant Twp.
+Columbia,North Centre Twp.,Governor,,Write-ins,,0.0,,,Columbia County,North Centre Twp.
+Columbia,Orange Township,Governor,,Write-ins,,0.0,,,Columbia County,Orange Township
+Columbia,Orangeville Borough,Governor,,Write-ins,,0.0,,,Columbia County,Orangeville Borough
+Columbia,Pine Township,Governor,,Write-ins,,0.0,,,Columbia County,Pine Township
+Columbia,RoaringCreek Twp.,Governor,,Write-ins,,0.0,,,Columbia County,RoaringCreek Twp.
+Columbia,Scott Township East,Governor,,Write-ins,,1.0,,,Columbia County,Scott Township East
+Columbia,Scott Township West,Governor,,Write-ins,,0.0,,,Columbia County,Scott Township West
+Columbia,South Centre Twp.,Governor,,Write-ins,,0.0,,,Columbia County,South Centre Twp.
+Columbia,Stillwater Boro,Governor,,Write-ins,,0.0,,,Columbia County,Stillwater Boro
+Columbia,Sugarloaf Township,Governor,,Write-ins,,0.0,,,Columbia County,Sugarloaf Township
+Columbia,Beaver Township,U.S. House,9.0,Denny Wolff,DEM,126.0,,,Columbia County,Beaver Township
+Columbia,Benton Township,U.S. House,9.0,Denny Wolff,DEM,180.0,,,Columbia County,Benton Township
+Columbia,Benton Borough,U.S. House,9.0,Denny Wolff,DEM,105.0,,,Columbia County,Benton Borough
+Columbia,Berwick 1st Ward,U.S. House,9.0,Denny Wolff,DEM,393.0,,,Columbia County,Berwick 1st Ward
+Columbia,Berwick 2nd Ward,U.S. House,9.0,Denny Wolff,DEM,143.0,,,Columbia County,Berwick 2nd Ward
+Columbia,Berwick 3rd Ward,U.S. House,9.0,Denny Wolff,DEM,218.0,,,Columbia County,Berwick 3rd Ward
+Columbia,Berwick 4th Ward,U.S. House,9.0,Denny Wolff,DEM,342.0,,,Columbia County,Berwick 4th Ward
+Columbia,Bloomsburg 1st Ward,U.S. House,9.0,Denny Wolff,DEM,265.0,,,Columbia County,Bloomsburg 1st Ward
+Columbia,Bloomsburg 2nd Ward,U.S. House,9.0,Denny Wolff,DEM,406.0,,,Columbia County,Bloomsburg 2nd Ward
+Columbia,Bloomsburg 3-1 Ward,U.S. House,9.0,Denny Wolff,DEM,550.0,,,Columbia County,Bloomsburg 3-1 Ward
+Columbia,Bloomsburg 3-2 Ward,U.S. House,9.0,Denny Wolff,DEM,529.0,,,Columbia County,Bloomsburg 3-2 Ward
+Columbia,Bloomsburg 4th Ward,U.S. House,9.0,Denny Wolff,DEM,434.0,,,Columbia County,Bloomsburg 4th Ward
+Columbia,BriarCreek Twp. NE,U.S. House,9.0,Denny Wolff,DEM,185.0,,,Columbia County,BriarCreek Twp. NE
+Columbia,BriarCreek Twp. W,U.S. House,9.0,Denny Wolff,DEM,214.0,,,Columbia County,BriarCreek Twp. W
+Columbia,BriarCreek Borough,U.S. House,9.0,Denny Wolff,DEM,49.0,,,Columbia County,BriarCreek Borough
+Columbia,Catawissa Township,U.S. House,9.0,Denny Wolff,DEM,134.0,,,Columbia County,Catawissa Township
+Columbia,Catawissa Borough,U.S. House,9.0,Denny Wolff,DEM,202.0,,,Columbia County,Catawissa Borough
+Columbia,Centralia Borough,U.S. House,9.0,Denny Wolff,DEM,0.0,,,Columbia County,Centralia Borough
+Columbia,Cleveland Township,U.S. House,9.0,Denny Wolff,DEM,146.0,,,Columbia County,Cleveland Township
+Columbia,Conyngham Township,U.S. House,9.0,Denny Wolff,DEM,91.0,,,Columbia County,Conyngham Township
+Columbia,FishingCreek Twp.,U.S. House,9.0,Denny Wolff,DEM,233.0,,,Columbia County,FishingCreek Twp.
+Columbia,Franklin Township,U.S. House,9.0,Denny Wolff,DEM,96.0,,,Columbia County,Franklin Township
+Columbia,Greenwood Township,U.S. House,9.0,Denny Wolff,DEM,296.0,,,Columbia County,Greenwood Township
+Columbia,Hemlock Township,U.S. House,9.0,Denny Wolff,DEM,449.0,,,Columbia County,Hemlock Township
+Columbia,Jackson township,U.S. House,9.0,Denny Wolff,DEM,67.0,,,Columbia County,Jackson township
+Columbia,Locust Township,U.S. House,9.0,Denny Wolff,DEM,206.0,,,Columbia County,Locust Township
+Columbia,Madison Township,U.S. House,9.0,Denny Wolff,DEM,267.0,,,Columbia County,Madison Township
+Columbia,Main Township,U.S. House,9.0,Denny Wolff,DEM,257.0,,,Columbia County,Main Township
+Columbia,Mifflin Township,U.S. House,9.0,Denny Wolff,DEM,336.0,,,Columbia County,Mifflin Township
+Columbia,Millville Borough,U.S. House,9.0,Denny Wolff,DEM,152.0,,,Columbia County,Millville Borough
+Columbia,Montour Township,U.S. House,9.0,Denny Wolff,DEM,199.0,,,Columbia County,Montour Township
+Columbia,Mount Pleasant Twp.,U.S. House,9.0,Denny Wolff,DEM,265.0,,,Columbia County,Mount Pleasant Twp.
+Columbia,North Centre Twp.,U.S. House,9.0,Denny Wolff,DEM,245.0,,,Columbia County,North Centre Twp.
+Columbia,Orange Township,U.S. House,9.0,Denny Wolff,DEM,255.0,,,Columbia County,Orange Township
+Columbia,Orangeville Borough,U.S. House,9.0,Denny Wolff,DEM,61.0,,,Columbia County,Orangeville Borough
+Columbia,Pine Township,U.S. House,9.0,Denny Wolff,DEM,140.0,,,Columbia County,Pine Township
+Columbia,RoaringCreek Twp.,U.S. House,9.0,Denny Wolff,DEM,82.0,,,Columbia County,RoaringCreek Twp.
+Columbia,Scott Township East,U.S. House,9.0,Denny Wolff,DEM,619.0,,,Columbia County,Scott Township East
+Columbia,Scott Township West,U.S. House,9.0,Denny Wolff,DEM,534.0,,,Columbia County,Scott Township West
+Columbia,South Centre Twp.,U.S. House,9.0,Denny Wolff,DEM,225.0,,,Columbia County,South Centre Twp.
+Columbia,Stillwater Boro,U.S. House,9.0,Denny Wolff,DEM,28.0,,,Columbia County,Stillwater Boro
+Columbia,Sugarloaf Township,U.S. House,9.0,Denny Wolff,DEM,101.0,,,Columbia County,Sugarloaf Township
+Columbia,Beaver Township,U.S. House,9.0,Dan Meuser,REP,255.0,,,Columbia County,Beaver Township
+Columbia,Benton Township,U.S. House,9.0,Dan Meuser,REP,350.0,,,Columbia County,Benton Township
+Columbia,Benton Borough,U.S. House,9.0,Dan Meuser,REP,168.0,,,Columbia County,Benton Borough
+Columbia,Berwick 1st Ward,U.S. House,9.0,Dan Meuser,REP,641.0,,,Columbia County,Berwick 1st Ward
+Columbia,Berwick 2nd Ward,U.S. House,9.0,Dan Meuser,REP,182.0,,,Columbia County,Berwick 2nd Ward
+Columbia,Berwick 3rd Ward,U.S. House,9.0,Dan Meuser,REP,308.0,,,Columbia County,Berwick 3rd Ward
+Columbia,Berwick 4th Ward,U.S. House,9.0,Dan Meuser,REP,524.0,,,Columbia County,Berwick 4th Ward
+Columbia,Bloomsburg 1st Ward,U.S. House,9.0,Dan Meuser,REP,139.0,,,Columbia County,Bloomsburg 1st Ward
+Columbia,Bloomsburg 2nd Ward,U.S. House,9.0,Dan Meuser,REP,204.0,,,Columbia County,Bloomsburg 2nd Ward
+Columbia,Bloomsburg 3-1 Ward,U.S. House,9.0,Dan Meuser,REP,276.0,,,Columbia County,Bloomsburg 3-1 Ward
+Columbia,Bloomsburg 3-2 Ward,U.S. House,9.0,Dan Meuser,REP,164.0,,,Columbia County,Bloomsburg 3-2 Ward
+Columbia,Bloomsburg 4th Ward,U.S. House,9.0,Dan Meuser,REP,332.0,,,Columbia County,Bloomsburg 4th Ward
+Columbia,BriarCreek Twp. NE,U.S. House,9.0,Dan Meuser,REP,391.0,,,Columbia County,BriarCreek Twp. NE
+Columbia,BriarCreek Twp. W,U.S. House,9.0,Dan Meuser,REP,384.0,,,Columbia County,BriarCreek Twp. W
+Columbia,BriarCreek Borough,U.S. House,9.0,Dan Meuser,REP,77.0,,,Columbia County,BriarCreek Borough
+Columbia,Catawissa Township,U.S. House,9.0,Dan Meuser,REP,283.0,,,Columbia County,Catawissa Township
+Columbia,Catawissa Borough,U.S. House,9.0,Dan Meuser,REP,224.0,,,Columbia County,Catawissa Borough
+Columbia,Centralia Borough,U.S. House,9.0,Dan Meuser,REP,2.0,,,Columbia County,Centralia Borough
+Columbia,Cleveland Township,U.S. House,9.0,Dan Meuser,REP,267.0,,,Columbia County,Cleveland Township
+Columbia,Conyngham Township,U.S. House,9.0,Dan Meuser,REP,142.0,,,Columbia County,Conyngham Township
+Columbia,FishingCreek Twp.,U.S. House,9.0,Dan Meuser,REP,369.0,,,Columbia County,FishingCreek Twp.
+Columbia,Franklin Township,U.S. House,9.0,Dan Meuser,REP,139.0,,,Columbia County,Franklin Township
+Columbia,Greenwood Township,U.S. House,9.0,Dan Meuser,REP,403.0,,,Columbia County,Greenwood Township
+Columbia,Hemlock Township,U.S. House,9.0,Dan Meuser,REP,549.0,,,Columbia County,Hemlock Township
+Columbia,Jackson township,U.S. House,9.0,Dan Meuser,REP,198.0,,,Columbia County,Jackson township
+Columbia,Locust Township,U.S. House,9.0,Dan Meuser,REP,377.0,,,Columbia County,Locust Township
+Columbia,Madison Township,U.S. House,9.0,Dan Meuser,REP,376.0,,,Columbia County,Madison Township
+Columbia,Main Township,U.S. House,9.0,Dan Meuser,REP,290.0,,,Columbia County,Main Township
+Columbia,Mifflin Township,U.S. House,9.0,Dan Meuser,REP,550.0,,,Columbia County,Mifflin Township
+Columbia,Millville Borough,U.S. House,9.0,Dan Meuser,REP,193.0,,,Columbia County,Millville Borough
+Columbia,Montour Township,U.S. House,9.0,Dan Meuser,REP,268.0,,,Columbia County,Montour Township
+Columbia,Mount Pleasant Twp.,U.S. House,9.0,Dan Meuser,REP,417.0,,,Columbia County,Mount Pleasant Twp.
+Columbia,North Centre Twp.,U.S. House,9.0,Dan Meuser,REP,545.0,,,Columbia County,North Centre Twp.
+Columbia,Orange Township,U.S. House,9.0,Dan Meuser,REP,301.0,,,Columbia County,Orange Township
+Columbia,Orangeville Borough,U.S. House,9.0,Dan Meuser,REP,56.0,,,Columbia County,Orangeville Borough
+Columbia,Pine Township,U.S. House,9.0,Dan Meuser,REP,266.0,,,Columbia County,Pine Township
+Columbia,RoaringCreek Twp.,U.S. House,9.0,Dan Meuser,REP,190.0,,,Columbia County,RoaringCreek Twp.
+Columbia,Scott Township East,U.S. House,9.0,Dan Meuser,REP,623.0,,,Columbia County,Scott Township East
+Columbia,Scott Township West,U.S. House,9.0,Dan Meuser,REP,541.0,,,Columbia County,Scott Township West
+Columbia,South Centre Twp.,U.S. House,9.0,Dan Meuser,REP,377.0,,,Columbia County,South Centre Twp.
+Columbia,Stillwater Boro,U.S. House,9.0,Dan Meuser,REP,62.0,,,Columbia County,Stillwater Boro
+Columbia,Sugarloaf Township,U.S. House,9.0,Dan Meuser,REP,287.0,,,Columbia County,Sugarloaf Township
+Columbia,Beaver Township,U.S. House,9.0,Write-ins,,0.0,,,Columbia County,Beaver Township
+Columbia,Benton Township,U.S. House,9.0,Write-ins,,0.0,,,Columbia County,Benton Township
+Columbia,Benton Borough,U.S. House,9.0,Write-ins,,0.0,,,Columbia County,Benton Borough
+Columbia,Berwick 1st Ward,U.S. House,9.0,Write-ins,,3.0,,,Columbia County,Berwick 1st Ward
+Columbia,Berwick 2nd Ward,U.S. House,9.0,Write-ins,,1.0,,,Columbia County,Berwick 2nd Ward
+Columbia,Berwick 3rd Ward,U.S. House,9.0,Write-ins,,0.0,,,Columbia County,Berwick 3rd Ward
+Columbia,Berwick 4th Ward,U.S. House,9.0,Write-ins,,0.0,,,Columbia County,Berwick 4th Ward
+Columbia,Bloomsburg 1st Ward,U.S. House,9.0,Write-ins,,0.0,,,Columbia County,Bloomsburg 1st Ward
+Columbia,Bloomsburg 2nd Ward,U.S. House,9.0,Write-ins,,0.0,,,Columbia County,Bloomsburg 2nd Ward
+Columbia,Bloomsburg 3-1 Ward,U.S. House,9.0,Write-ins,,2.0,,,Columbia County,Bloomsburg 3-1 Ward
+Columbia,Bloomsburg 3-2 Ward,U.S. House,9.0,Write-ins,,1.0,,,Columbia County,Bloomsburg 3-2 Ward
+Columbia,Bloomsburg 4th Ward,U.S. House,9.0,Write-ins,,2.0,,,Columbia County,Bloomsburg 4th Ward
+Columbia,BriarCreek Twp. NE,U.S. House,9.0,Write-ins,,0.0,,,Columbia County,BriarCreek Twp. NE
+Columbia,BriarCreek Twp. W,U.S. House,9.0,Write-ins,,0.0,,,Columbia County,BriarCreek Twp. W
+Columbia,BriarCreek Borough,U.S. House,9.0,Write-ins,,0.0,,,Columbia County,BriarCreek Borough
+Columbia,Catawissa Township,U.S. House,9.0,Write-ins,,2.0,,,Columbia County,Catawissa Township
+Columbia,Catawissa Borough,U.S. House,9.0,Write-ins,,1.0,,,Columbia County,Catawissa Borough
+Columbia,Centralia Borough,U.S. House,9.0,Write-ins,,0.0,,,Columbia County,Centralia Borough
+Columbia,Cleveland Township,U.S. House,9.0,Write-ins,,0.0,,,Columbia County,Cleveland Township
+Columbia,Conyngham Township,U.S. House,9.0,Write-ins,,0.0,,,Columbia County,Conyngham Township
+Columbia,FishingCreek Twp.,U.S. House,9.0,Write-ins,,0.0,,,Columbia County,FishingCreek Twp.
+Columbia,Franklin Township,U.S. House,9.0,Write-ins,,1.0,,,Columbia County,Franklin Township
+Columbia,Greenwood Township,U.S. House,9.0,Write-ins,,0.0,,,Columbia County,Greenwood Township
+Columbia,Hemlock Township,U.S. House,9.0,Write-ins,,0.0,,,Columbia County,Hemlock Township
+Columbia,Jackson township,U.S. House,9.0,Write-ins,,0.0,,,Columbia County,Jackson township
+Columbia,Locust Township,U.S. House,9.0,Write-ins,,1.0,,,Columbia County,Locust Township
+Columbia,Madison Township,U.S. House,9.0,Write-ins,,0.0,,,Columbia County,Madison Township
+Columbia,Main Township,U.S. House,9.0,Write-ins,,1.0,,,Columbia County,Main Township
+Columbia,Mifflin Township,U.S. House,9.0,Write-ins,,1.0,,,Columbia County,Mifflin Township
+Columbia,Millville Borough,U.S. House,9.0,Write-ins,,0.0,,,Columbia County,Millville Borough
+Columbia,Montour Township,U.S. House,9.0,Write-ins,,1.0,,,Columbia County,Montour Township
+Columbia,Mount Pleasant Twp.,U.S. House,9.0,Write-ins,,0.0,,,Columbia County,Mount Pleasant Twp.
+Columbia,North Centre Twp.,U.S. House,9.0,Write-ins,,0.0,,,Columbia County,North Centre Twp.
+Columbia,Orange Township,U.S. House,9.0,Write-ins,,2.0,,,Columbia County,Orange Township
+Columbia,Orangeville Borough,U.S. House,9.0,Write-ins,,0.0,,,Columbia County,Orangeville Borough
+Columbia,Pine Township,U.S. House,9.0,Write-ins,,0.0,,,Columbia County,Pine Township
+Columbia,RoaringCreek Twp.,U.S. House,9.0,Write-ins,,0.0,,,Columbia County,RoaringCreek Twp.
+Columbia,Scott Township East,U.S. House,9.0,Write-ins,,1.0,,,Columbia County,Scott Township East
+Columbia,Scott Township West,U.S. House,9.0,Write-ins,,0.0,,,Columbia County,Scott Township West
+Columbia,South Centre Twp.,U.S. House,9.0,Write-ins,,1.0,,,Columbia County,South Centre Twp.
+Columbia,Stillwater Boro,U.S. House,9.0,Write-ins,,0.0,,,Columbia County,Stillwater Boro
+Columbia,Sugarloaf Township,U.S. House,9.0,Write-ins,,0.0,,,Columbia County,Sugarloaf Township
+Columbia,Centralia Borough,State House,107.0,Sarah Donnelly,DEM,0.0,,,Columbia County,Centralia Borough
+Columbia,Cleveland Township,State House,107.0,Sarah Donnelly,DEM,108.0,,,Columbia County,Cleveland Township
+Columbia,Conyngham Township,State House,107.0,Sarah Donnelly,DEM,74.0,,,Columbia County,Conyngham Township
+Columbia,Franklin Township,State House,107.0,Sarah Donnelly,DEM,64.0,,,Columbia County,Franklin Township
+Columbia,Locust Township,State House,107.0,Sarah Donnelly,DEM,170.0,,,Columbia County,Locust Township
+Columbia,Centralia Borough,State House,107.0,Kurt A. Masser,REP,3.0,,,Columbia County,Centralia Borough
+Columbia,Cleveland Township,State House,107.0,Kurt A. Masser,REP,308.0,,,Columbia County,Cleveland Township
+Columbia,Conyngham Township,State House,107.0,Kurt A. Masser,REP,158.0,,,Columbia County,Conyngham Township
+Columbia,Franklin Township,State House,107.0,Kurt A. Masser,REP,173.0,,,Columbia County,Franklin Township
+Columbia,Locust Township,State House,107.0,Kurt A. Masser,REP,415.0,,,Columbia County,Locust Township
+Columbia,Centralia Borough,State House,107.0,Write-ins,,0.0,,,Columbia County,Centralia Borough
+Columbia,Cleveland Township,State House,107.0,Write-ins,,2.0,,,Columbia County,Cleveland Township
+Columbia,Conyngham Township,State House,107.0,Write-ins,,1.0,,,Columbia County,Conyngham Township
+Columbia,Franklin Township,State House,107.0,Write-ins,,0.0,,,Columbia County,Franklin Township
+Columbia,Locust Township,State House,107.0,Write-ins,,3.0,,,Columbia County,Locust Township
+Columbia,Beaver Township,State House,109.0,Ed Sanders,DEM,101.0,,,Columbia County,Beaver Township
+Columbia,Benton Township,State House,109.0,Ed Sanders,DEM,115.0,,,Columbia County,Benton Township
+Columbia,Benton Borough,State House,109.0,Ed Sanders,DEM,79.0,,,Columbia County,Benton Borough
+Columbia,Berwick 1st Ward,State House,109.0,Ed Sanders,DEM,288.0,,,Columbia County,Berwick 1st Ward
+Columbia,Berwick 2nd Ward,State House,109.0,Ed Sanders,DEM,116.0,,,Columbia County,Berwick 2nd Ward
+Columbia,Berwick 3rd Ward,State House,109.0,Ed Sanders,DEM,150.0,,,Columbia County,Berwick 3rd Ward
+Columbia,Berwick 4th Ward,State House,109.0,Ed Sanders,DEM,243.0,,,Columbia County,Berwick 4th Ward
+Columbia,Bloomsburg 1st Ward,State House,109.0,Ed Sanders,DEM,225.0,,,Columbia County,Bloomsburg 1st Ward
+Columbia,Bloomsburg 2nd Ward,State House,109.0,Ed Sanders,DEM,336.0,,,Columbia County,Bloomsburg 2nd Ward
+Columbia,Bloomsburg 3-1 Ward,State House,109.0,Ed Sanders,DEM,472.0,,,Columbia County,Bloomsburg 3-1 Ward
+Columbia,Bloomsburg 3-2 Ward,State House,109.0,Ed Sanders,DEM,514.0,,,Columbia County,Bloomsburg 3-2 Ward
+Columbia,Bloomsburg 4th Ward,State House,109.0,Ed Sanders,DEM,359.0,,,Columbia County,Bloomsburg 4th Ward
+Columbia,BriarCreek Twp. NE,State House,109.0,Ed Sanders,DEM,119.0,,,Columbia County,BriarCreek Twp. NE
+Columbia,BriarCreek Twp. W,State House,109.0,Ed Sanders,DEM,127.0,,,Columbia County,BriarCreek Twp. W
+Columbia,BriarCreek Borough,State House,109.0,Ed Sanders,DEM,34.0,,,Columbia County,BriarCreek Borough
+Columbia,Catawissa Township,State House,109.0,Ed Sanders,DEM,94.0,,,Columbia County,Catawissa Township
+Columbia,Catawissa Borough,State House,109.0,Ed Sanders,DEM,155.0,,,Columbia County,Catawissa Borough
+Columbia,FishingCreek Twp.,State House,109.0,Ed Sanders,DEM,168.0,,,Columbia County,FishingCreek Twp.
+Columbia,Greenwood Township,State House,109.0,Ed Sanders,DEM,202.0,,,Columbia County,Greenwood Township
+Columbia,Hemlock Township,State House,109.0,Ed Sanders,DEM,335.0,,,Columbia County,Hemlock Township
+Columbia,Jackson township,State House,109.0,Ed Sanders,DEM,49.0,,,Columbia County,Jackson township
+Columbia,Madison Township,State House,109.0,Ed Sanders,DEM,144.0,,,Columbia County,Madison Township
+Columbia,Main Township,State House,109.0,Ed Sanders,DEM,202.0,,,Columbia County,Main Township
+Columbia,Mifflin Township,State House,109.0,Ed Sanders,DEM,248.0,,,Columbia County,Mifflin Township
+Columbia,Millville Borough,State House,109.0,Ed Sanders,DEM,102.0,,,Columbia County,Millville Borough
+Columbia,Montour Township,State House,109.0,Ed Sanders,DEM,135.0,,,Columbia County,Montour Township
+Columbia,Mount Pleasant Twp.,State House,109.0,Ed Sanders,DEM,203.0,,,Columbia County,Mount Pleasant Twp.
+Columbia,North Centre Twp.,State House,109.0,Ed Sanders,DEM,192.0,,,Columbia County,North Centre Twp.
+Columbia,Orange Township,State House,109.0,Ed Sanders,DEM,199.0,,,Columbia County,Orange Township
+Columbia,Orangeville Borough,State House,109.0,Ed Sanders,DEM,49.0,,,Columbia County,Orangeville Borough
+Columbia,Pine Township,State House,109.0,Ed Sanders,DEM,77.0,,,Columbia County,Pine Township
+Columbia,RoaringCreek Twp.,State House,109.0,Ed Sanders,DEM,61.0,,,Columbia County,RoaringCreek Twp.
+Columbia,Scott Township East,State House,109.0,Ed Sanders,DEM,506.0,,,Columbia County,Scott Township East
+Columbia,Scott Township West,State House,109.0,Ed Sanders,DEM,477.0,,,Columbia County,Scott Township West
+Columbia,South Centre Twp.,State House,109.0,Ed Sanders,DEM,174.0,,,Columbia County,South Centre Twp.
+Columbia,Stillwater Boro,State House,109.0,Ed Sanders,DEM,19.0,,,Columbia County,Stillwater Boro
+Columbia,Sugarloaf Township,State House,109.0,Ed Sanders,DEM,80.0,,,Columbia County,Sugarloaf Township
+Columbia,Beaver Township,State House,109.0,David Millard,REP,282.0,,,Columbia County,Beaver Township
+Columbia,Benton Township,State House,109.0,David Millard,REP,416.0,,,Columbia County,Benton Township
+Columbia,Benton Borough,State House,109.0,David Millard,REP,195.0,,,Columbia County,Benton Borough
+Columbia,Berwick 1st Ward,State House,109.0,David Millard,REP,755.0,,,Columbia County,Berwick 1st Ward
+Columbia,Berwick 2nd Ward,State House,109.0,David Millard,REP,214.0,,,Columbia County,Berwick 2nd Ward
+Columbia,Berwick 3rd Ward,State House,109.0,David Millard,REP,381.0,,,Columbia County,Berwick 3rd Ward
+Columbia,Berwick 4th Ward,State House,109.0,David Millard,REP,632.0,,,Columbia County,Berwick 4th Ward
+Columbia,Bloomsburg 1st Ward,State House,109.0,David Millard,REP,182.0,,,Columbia County,Bloomsburg 1st Ward
+Columbia,Bloomsburg 2nd Ward,State House,109.0,David Millard,REP,284.0,,,Columbia County,Bloomsburg 2nd Ward
+Columbia,Bloomsburg 3-1 Ward,State House,109.0,David Millard,REP,354.0,,,Columbia County,Bloomsburg 3-1 Ward
+Columbia,Bloomsburg 3-2 Ward,State House,109.0,David Millard,REP,177.0,,,Columbia County,Bloomsburg 3-2 Ward
+Columbia,Bloomsburg 4th Ward,State House,109.0,David Millard,REP,416.0,,,Columbia County,Bloomsburg 4th Ward
+Columbia,BriarCreek Twp. NE,State House,109.0,David Millard,REP,457.0,,,Columbia County,BriarCreek Twp. NE
+Columbia,BriarCreek Twp. W,State House,109.0,David Millard,REP,478.0,,,Columbia County,BriarCreek Twp. W
+Columbia,BriarCreek Borough,State House,109.0,David Millard,REP,92.0,,,Columbia County,BriarCreek Borough
+Columbia,Catawissa Township,State House,109.0,David Millard,REP,331.0,,,Columbia County,Catawissa Township
+Columbia,Catawissa Borough,State House,109.0,David Millard,REP,269.0,,,Columbia County,Catawissa Borough
+Columbia,FishingCreek Twp.,State House,109.0,David Millard,REP,435.0,,,Columbia County,FishingCreek Twp.
+Columbia,Greenwood Township,State House,109.0,David Millard,REP,501.0,,,Columbia County,Greenwood Township
+Columbia,Hemlock Township,State House,109.0,David Millard,REP,668.0,,,Columbia County,Hemlock Township
+Columbia,Jackson township,State House,109.0,David Millard,REP,219.0,,,Columbia County,Jackson township
+Columbia,Madison Township,State House,109.0,David Millard,REP,503.0,,,Columbia County,Madison Township
+Columbia,Main Township,State House,109.0,David Millard,REP,347.0,,,Columbia County,Main Township
+Columbia,Mifflin Township,State House,109.0,David Millard,REP,641.0,,,Columbia County,Mifflin Township
+Columbia,Millville Borough,State House,109.0,David Millard,REP,243.0,,,Columbia County,Millville Borough
+Columbia,Montour Township,State House,109.0,David Millard,REP,335.0,,,Columbia County,Montour Township
+Columbia,Mount Pleasant Twp.,State House,109.0,David Millard,REP,487.0,,,Columbia County,Mount Pleasant Twp.
+Columbia,North Centre Twp.,State House,109.0,David Millard,REP,601.0,,,Columbia County,North Centre Twp.
+Columbia,Orange Township,State House,109.0,David Millard,REP,362.0,,,Columbia County,Orange Township
+Columbia,Orangeville Borough,State House,109.0,David Millard,REP,69.0,,,Columbia County,Orangeville Borough
+Columbia,Pine Township,State House,109.0,David Millard,REP,330.0,,,Columbia County,Pine Township
+Columbia,RoaringCreek Twp.,State House,109.0,David Millard,REP,213.0,,,Columbia County,RoaringCreek Twp.
+Columbia,Scott Township East,State House,109.0,David Millard,REP,742.0,,,Columbia County,Scott Township East
+Columbia,Scott Township West,State House,109.0,David Millard,REP,608.0,,,Columbia County,Scott Township West
+Columbia,South Centre Twp.,State House,109.0,David Millard,REP,437.0,,,Columbia County,South Centre Twp.
+Columbia,Stillwater Boro,State House,109.0,David Millard,REP,73.0,,,Columbia County,Stillwater Boro
+Columbia,Sugarloaf Township,State House,109.0,David Millard,REP,310.0,,,Columbia County,Sugarloaf Township
+Columbia,Beaver Township,State House,109.0,Write-ins,,0.0,,,Columbia County,Beaver Township
+Columbia,Benton Township,State House,109.0,Write-ins,,0.0,,,Columbia County,Benton Township
+Columbia,Benton Borough,State House,109.0,Write-ins,,0.0,,,Columbia County,Benton Borough
+Columbia,Berwick 1st Ward,State House,109.0,Write-ins,,3.0,,,Columbia County,Berwick 1st Ward
+Columbia,Berwick 2nd Ward,State House,109.0,Write-ins,,1.0,,,Columbia County,Berwick 2nd Ward
+Columbia,Berwick 3rd Ward,State House,109.0,Write-ins,,1.0,,,Columbia County,Berwick 3rd Ward
+Columbia,Berwick 4th Ward,State House,109.0,Write-ins,,0.0,,,Columbia County,Berwick 4th Ward
+Columbia,Bloomsburg 1st Ward,State House,109.0,Write-ins,,0.0,,,Columbia County,Bloomsburg 1st Ward
+Columbia,Bloomsburg 2nd Ward,State House,109.0,Write-ins,,0.0,,,Columbia County,Bloomsburg 2nd Ward
+Columbia,Bloomsburg 3-1 Ward,State House,109.0,Write-ins,,5.0,,,Columbia County,Bloomsburg 3-1 Ward
+Columbia,Bloomsburg 3-2 Ward,State House,109.0,Write-ins,,0.0,,,Columbia County,Bloomsburg 3-2 Ward
+Columbia,Bloomsburg 4th Ward,State House,109.0,Write-ins,,2.0,,,Columbia County,Bloomsburg 4th Ward
+Columbia,BriarCreek Twp. NE,State House,109.0,Write-ins,,0.0,,,Columbia County,BriarCreek Twp. NE
+Columbia,BriarCreek Twp. W,State House,109.0,Write-ins,,1.0,,,Columbia County,BriarCreek Twp. W
+Columbia,BriarCreek Borough,State House,109.0,Write-ins,,1.0,,,Columbia County,BriarCreek Borough
+Columbia,Catawissa Township,State House,109.0,Write-ins,,0.0,,,Columbia County,Catawissa Township
+Columbia,Catawissa Borough,State House,109.0,Write-ins,,0.0,,,Columbia County,Catawissa Borough
+Columbia,FishingCreek Twp.,State House,109.0,Write-ins,,0.0,,,Columbia County,FishingCreek Twp.
+Columbia,Greenwood Township,State House,109.0,Write-ins,,0.0,,,Columbia County,Greenwood Township
+Columbia,Hemlock Township,State House,109.0,Write-ins,,0.0,,,Columbia County,Hemlock Township
+Columbia,Jackson township,State House,109.0,Write-ins,,0.0,,,Columbia County,Jackson township
+Columbia,Madison Township,State House,109.0,Write-ins,,0.0,,,Columbia County,Madison Township
+Columbia,Main Township,State House,109.0,Write-ins,,2.0,,,Columbia County,Main Township
+Columbia,Mifflin Township,State House,109.0,Write-ins,,2.0,,,Columbia County,Mifflin Township
+Columbia,Millville Borough,State House,109.0,Write-ins,,1.0,,,Columbia County,Millville Borough
+Columbia,Montour Township,State House,109.0,Write-ins,,0.0,,,Columbia County,Montour Township
+Columbia,Mount Pleasant Twp.,State House,109.0,Write-ins,,2.0,,,Columbia County,Mount Pleasant Twp.
+Columbia,North Centre Twp.,State House,109.0,Write-ins,,1.0,,,Columbia County,North Centre Twp.
+Columbia,Orange Township,State House,109.0,Write-ins,,1.0,,,Columbia County,Orange Township
+Columbia,Orangeville Borough,State House,109.0,Write-ins,,0.0,,,Columbia County,Orangeville Borough
+Columbia,Pine Township,State House,109.0,Write-ins,,0.0,,,Columbia County,Pine Township
+Columbia,RoaringCreek Twp.,State House,109.0,Write-ins,,0.0,,,Columbia County,RoaringCreek Twp.
+Columbia,Scott Township East,State House,109.0,Write-ins,,3.0,,,Columbia County,Scott Township East
+Columbia,Scott Township West,State House,109.0,Write-ins,,1.0,,,Columbia County,Scott Township West
+Columbia,South Centre Twp.,State House,109.0,Write-ins,,0.0,,,Columbia County,South Centre Twp.
+Columbia,Stillwater Boro,State House,109.0,Write-ins,,0.0,,,Columbia County,Stillwater Boro
+Columbia,Sugarloaf Township,State House,109.0,Write-ins,,1.0,,,Columbia County,Sugarloaf Township

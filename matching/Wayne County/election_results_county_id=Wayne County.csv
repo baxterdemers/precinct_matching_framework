@@ -1,0 +1,491 @@
+county,precinct,office,district,candidate,party,votes,election_day,absentee,county_id,original_precinct_name
+Wayne,BERLIN # 1,U.S. Senate,,Bob Casey Jr.,DEM,164,,,Wayne County,BERLIN # 1
+Wayne,BERLIN # 2,U.S. Senate,,Bob Casey Jr.,DEM,158,,,Wayne County,BERLIN # 2
+Wayne,BETHANY,U.S. Senate,,Bob Casey Jr.,DEM,64,,,Wayne County,BETHANY
+Wayne,BUCKINGHAM,U.S. Senate,,Bob Casey Jr.,DEM,103,,,Wayne County,BUCKINGHAM
+Wayne,CANAAN,U.S. Senate,,Bob Casey Jr.,DEM,141,,,Wayne County,CANAAN
+Wayne,CHERRY RIDGE,U.S. Senate,,Bob Casey Jr.,DEM,305,,,Wayne County,CHERRY RIDGE
+Wayne,CLINTON # 1,U.S. Senate,,Bob Casey Jr.,DEM,207,,,Wayne County,CLINTON # 1
+Wayne,CLINTON # 2,U.S. Senate,,Bob Casey Jr.,DEM,139,,,Wayne County,CLINTON # 2
+Wayne,DAMASCUS # 1,U.S. Senate,,Bob Casey Jr.,DEM,229,,,Wayne County,DAMASCUS # 1
+Wayne,DAMASCUS # 2,U.S. Senate,,Bob Casey Jr.,DEM,345,,,Wayne County,DAMASCUS # 2
+Wayne,DREHER,U.S. Senate,,Bob Casey Jr.,DEM,198,,,Wayne County,DREHER
+Wayne,DYBERRY,U.S. Senate,,Bob Casey Jr.,DEM,289,,,Wayne County,DYBERRY
+Wayne,HAWLEY,U.S. Senate,,Bob Casey Jr.,DEM,235,,,Wayne County,HAWLEY
+Wayne,HONESDALE # 1,U.S. Senate,,Bob Casey Jr.,DEM,215,,,Wayne County,HONESDALE # 1
+Wayne,HONESDALE # 2,U.S. Senate,,Bob Casey Jr.,DEM,335,,,Wayne County,HONESDALE # 2
+Wayne,HONESDALE # 3,U.S. Senate,,Bob Casey Jr.,DEM,234,,,Wayne County,HONESDALE # 3
+Wayne,LAKE,U.S. Senate,,Bob Casey Jr.,DEM,759,,,Wayne County,LAKE
+Wayne,LEBANON,U.S. Senate,,Bob Casey Jr.,DEM,100,,,Wayne County,LEBANON
+Wayne,LEHIGH,U.S. Senate,,Bob Casey Jr.,DEM,308,,,Wayne County,LEHIGH
+Wayne,MANCHESTER,U.S. Senate,,Bob Casey Jr.,DEM,99,,,Wayne County,MANCHESTER
+Wayne,MT PLEASANT,U.S. Senate,,Bob Casey Jr.,DEM,266,,,Wayne County,MT PLEASANT
+Wayne,OREGON,U.S. Senate,,Bob Casey Jr.,DEM,109,,,Wayne County,OREGON
+Wayne,PALMYRA,U.S. Senate,,Bob Casey Jr.,DEM,173,,,Wayne County,PALMYRA
+Wayne,PAUPACK,U.S. Senate,,Bob Casey Jr.,DEM,575,,,Wayne County,PAUPACK
+Wayne,PRESTON,U.S. Senate,,Bob Casey Jr.,DEM,153,,,Wayne County,PRESTON
+Wayne,PROMPTON,U.S. Senate,,Bob Casey Jr.,DEM,29,,,Wayne County,PROMPTON
+Wayne,SALEM,U.S. Senate,,Bob Casey Jr.,DEM,586,,,Wayne County,SALEM
+Wayne,SCOTT,U.S. Senate,,Bob Casey Jr.,DEM,48,,,Wayne County,SCOTT
+Wayne,SO CANAAN,U.S. Senate,,Bob Casey Jr.,DEM,275,,,Wayne County,SO CANAAN
+Wayne,STARRUCCA,U.S. Senate,,Bob Casey Jr.,DEM,25,,,Wayne County,STARRUCCA
+Wayne,STERLING,U.S. Senate,,Bob Casey Jr.,DEM,206,,,Wayne County,STERLING
+Wayne,TEXAS # 1,U.S. Senate,,Bob Casey Jr.,DEM,134,,,Wayne County,TEXAS # 1
+Wayne,TEXAS # 2,U.S. Senate,,Bob Casey Jr.,DEM,147,,,Wayne County,TEXAS # 2
+Wayne,TEXAS # 3,U.S. Senate,,Bob Casey Jr.,DEM,95,,,Wayne County,TEXAS # 3
+Wayne,WAYMART,U.S. Senate,,Bob Casey Jr.,DEM,177,,,Wayne County,WAYMART
+Wayne,BERLIN # 1,U.S. Senate,,Lou Barletta,REP,389,,,Wayne County,BERLIN # 1
+Wayne,BERLIN # 2,U.S. Senate,,Lou Barletta,REP,400,,,Wayne County,BERLIN # 2
+Wayne,BETHANY,U.S. Senate,,Lou Barletta,REP,66,,,Wayne County,BETHANY
+Wayne,BUCKINGHAM,U.S. Senate,,Lou Barletta,REP,130,,,Wayne County,BUCKINGHAM
+Wayne,CANAAN,U.S. Senate,,Lou Barletta,REP,255,,,Wayne County,CANAAN
+Wayne,CHERRY RIDGE,U.S. Senate,,Lou Barletta,REP,484,,,Wayne County,CHERRY RIDGE
+Wayne,CLINTON # 1,U.S. Senate,,Lou Barletta,REP,355,,,Wayne County,CLINTON # 1
+Wayne,CLINTON # 2,U.S. Senate,,Lou Barletta,REP,194,,,Wayne County,CLINTON # 2
+Wayne,DAMASCUS # 1,U.S. Senate,,Lou Barletta,REP,415,,,Wayne County,DAMASCUS # 1
+Wayne,DAMASCUS # 2,U.S. Senate,,Lou Barletta,REP,551,,,Wayne County,DAMASCUS # 2
+Wayne,DREHER,U.S. Senate,,Lou Barletta,REP,341,,,Wayne County,DREHER
+Wayne,DYBERRY,U.S. Senate,,Lou Barletta,REP,380,,,Wayne County,DYBERRY
+Wayne,HAWLEY,U.S. Senate,,Lou Barletta,REP,200,,,Wayne County,HAWLEY
+Wayne,HONESDALE # 1,U.S. Senate,,Lou Barletta,REP,234,,,Wayne County,HONESDALE # 1
+Wayne,HONESDALE # 2,U.S. Senate,,Lou Barletta,REP,266,,,Wayne County,HONESDALE # 2
+Wayne,HONESDALE # 3,U.S. Senate,,Lou Barletta,REP,284,,,Wayne County,HONESDALE # 3
+Wayne,LAKE,U.S. Senate,,Lou Barletta,REP,1271,,,Wayne County,LAKE
+Wayne,LEBANON,U.S. Senate,,Lou Barletta,REP,212,,,Wayne County,LEBANON
+Wayne,LEHIGH,U.S. Senate,,Lou Barletta,REP,364,,,Wayne County,LEHIGH
+Wayne,MANCHESTER,U.S. Senate,,Lou Barletta,REP,245,,,Wayne County,MANCHESTER
+Wayne,MT PLEASANT,U.S. Senate,,Lou Barletta,REP,397,,,Wayne County,MT PLEASANT
+Wayne,OREGON,U.S. Senate,,Lou Barletta,REP,231,,,Wayne County,OREGON
+Wayne,PALMYRA,U.S. Senate,,Lou Barletta,REP,376,,,Wayne County,PALMYRA
+Wayne,PAUPACK,U.S. Senate,,Lou Barletta,REP,1042,,,Wayne County,PAUPACK
+Wayne,PRESTON,U.S. Senate,,Lou Barletta,REP,274,,,Wayne County,PRESTON
+Wayne,PROMPTON,U.S. Senate,,Lou Barletta,REP,83,,,Wayne County,PROMPTON
+Wayne,SALEM,U.S. Senate,,Lou Barletta,REP,1002,,,Wayne County,SALEM
+Wayne,SCOTT,U.S. Senate,,Lou Barletta,REP,108,,,Wayne County,SCOTT
+Wayne,SO CANAAN,U.S. Senate,,Lou Barletta,REP,506,,,Wayne County,SO CANAAN
+Wayne,STARRUCCA,U.S. Senate,,Lou Barletta,REP,47,,,Wayne County,STARRUCCA
+Wayne,STERLING,U.S. Senate,,Lou Barletta,REP,379,,,Wayne County,STERLING
+Wayne,TEXAS # 1,U.S. Senate,,Lou Barletta,REP,204,,,Wayne County,TEXAS # 1
+Wayne,TEXAS # 2,U.S. Senate,,Lou Barletta,REP,184,,,Wayne County,TEXAS # 2
+Wayne,TEXAS # 3,U.S. Senate,,Lou Barletta,REP,117,,,Wayne County,TEXAS # 3
+Wayne,WAYMART,U.S. Senate,,Lou Barletta,REP,283,,,Wayne County,WAYMART
+Wayne,BERLIN # 1,U.S. Senate,,Neal Gale,GRN,5,,,Wayne County,BERLIN # 1
+Wayne,BERLIN # 2,U.S. Senate,,Neal Gale,GRN,5,,,Wayne County,BERLIN # 2
+Wayne,BETHANY,U.S. Senate,,Neal Gale,GRN,1,,,Wayne County,BETHANY
+Wayne,BUCKINGHAM,U.S. Senate,,Neal Gale,GRN,4,,,Wayne County,BUCKINGHAM
+Wayne,CANAAN,U.S. Senate,,Neal Gale,GRN,2,,,Wayne County,CANAAN
+Wayne,CHERRY RIDGE,U.S. Senate,,Neal Gale,GRN,1,,,Wayne County,CHERRY RIDGE
+Wayne,CLINTON # 1,U.S. Senate,,Neal Gale,GRN,2,,,Wayne County,CLINTON # 1
+Wayne,CLINTON # 2,U.S. Senate,,Neal Gale,GRN,0,,,Wayne County,CLINTON # 2
+Wayne,DAMASCUS # 1,U.S. Senate,,Neal Gale,GRN,6,,,Wayne County,DAMASCUS # 1
+Wayne,DAMASCUS # 2,U.S. Senate,,Neal Gale,GRN,2,,,Wayne County,DAMASCUS # 2
+Wayne,DREHER,U.S. Senate,,Neal Gale,GRN,2,,,Wayne County,DREHER
+Wayne,DYBERRY,U.S. Senate,,Neal Gale,GRN,3,,,Wayne County,DYBERRY
+Wayne,HAWLEY,U.S. Senate,,Neal Gale,GRN,3,,,Wayne County,HAWLEY
+Wayne,HONESDALE # 1,U.S. Senate,,Neal Gale,GRN,4,,,Wayne County,HONESDALE # 1
+Wayne,HONESDALE # 2,U.S. Senate,,Neal Gale,GRN,12,,,Wayne County,HONESDALE # 2
+Wayne,HONESDALE # 3,U.S. Senate,,Neal Gale,GRN,2,,,Wayne County,HONESDALE # 3
+Wayne,LAKE,U.S. Senate,,Neal Gale,GRN,12,,,Wayne County,LAKE
+Wayne,LEBANON,U.S. Senate,,Neal Gale,GRN,1,,,Wayne County,LEBANON
+Wayne,LEHIGH,U.S. Senate,,Neal Gale,GRN,4,,,Wayne County,LEHIGH
+Wayne,MANCHESTER,U.S. Senate,,Neal Gale,GRN,2,,,Wayne County,MANCHESTER
+Wayne,MT PLEASANT,U.S. Senate,,Neal Gale,GRN,4,,,Wayne County,MT PLEASANT
+Wayne,OREGON,U.S. Senate,,Neal Gale,GRN,1,,,Wayne County,OREGON
+Wayne,PALMYRA,U.S. Senate,,Neal Gale,GRN,4,,,Wayne County,PALMYRA
+Wayne,PAUPACK,U.S. Senate,,Neal Gale,GRN,6,,,Wayne County,PAUPACK
+Wayne,PRESTON,U.S. Senate,,Neal Gale,GRN,2,,,Wayne County,PRESTON
+Wayne,PROMPTON,U.S. Senate,,Neal Gale,GRN,2,,,Wayne County,PROMPTON
+Wayne,SALEM,U.S. Senate,,Neal Gale,GRN,14,,,Wayne County,SALEM
+Wayne,SCOTT,U.S. Senate,,Neal Gale,GRN,1,,,Wayne County,SCOTT
+Wayne,SO CANAAN,U.S. Senate,,Neal Gale,GRN,2,,,Wayne County,SO CANAAN
+Wayne,STARRUCCA,U.S. Senate,,Neal Gale,GRN,2,,,Wayne County,STARRUCCA
+Wayne,STERLING,U.S. Senate,,Neal Gale,GRN,2,,,Wayne County,STERLING
+Wayne,TEXAS # 1,U.S. Senate,,Neal Gale,GRN,0,,,Wayne County,TEXAS # 1
+Wayne,TEXAS # 2,U.S. Senate,,Neal Gale,GRN,1,,,Wayne County,TEXAS # 2
+Wayne,TEXAS # 3,U.S. Senate,,Neal Gale,GRN,1,,,Wayne County,TEXAS # 3
+Wayne,WAYMART,U.S. Senate,,Neal Gale,GRN,4,,,Wayne County,WAYMART
+Wayne,BERLIN # 1,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Wayne County,BERLIN # 1
+Wayne,BERLIN # 2,U.S. Senate,,Dale R. Kerns Jr.,LIB,12,,,Wayne County,BERLIN # 2
+Wayne,BETHANY,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Wayne County,BETHANY
+Wayne,BUCKINGHAM,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Wayne County,BUCKINGHAM
+Wayne,CANAAN,U.S. Senate,,Dale R. Kerns Jr.,LIB,0,,,Wayne County,CANAAN
+Wayne,CHERRY RIDGE,U.S. Senate,,Dale R. Kerns Jr.,LIB,6,,,Wayne County,CHERRY RIDGE
+Wayne,CLINTON # 1,U.S. Senate,,Dale R. Kerns Jr.,LIB,6,,,Wayne County,CLINTON # 1
+Wayne,CLINTON # 2,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Wayne County,CLINTON # 2
+Wayne,DAMASCUS # 1,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Wayne County,DAMASCUS # 1
+Wayne,DAMASCUS # 2,U.S. Senate,,Dale R. Kerns Jr.,LIB,8,,,Wayne County,DAMASCUS # 2
+Wayne,DREHER,U.S. Senate,,Dale R. Kerns Jr.,LIB,7,,,Wayne County,DREHER
+Wayne,DYBERRY,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Wayne County,DYBERRY
+Wayne,HAWLEY,U.S. Senate,,Dale R. Kerns Jr.,LIB,6,,,Wayne County,HAWLEY
+Wayne,HONESDALE # 1,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Wayne County,HONESDALE # 1
+Wayne,HONESDALE # 2,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Wayne County,HONESDALE # 2
+Wayne,HONESDALE # 3,U.S. Senate,,Dale R. Kerns Jr.,LIB,7,,,Wayne County,HONESDALE # 3
+Wayne,LAKE,U.S. Senate,,Dale R. Kerns Jr.,LIB,9,,,Wayne County,LAKE
+Wayne,LEBANON,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Wayne County,LEBANON
+Wayne,LEHIGH,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Wayne County,LEHIGH
+Wayne,MANCHESTER,U.S. Senate,,Dale R. Kerns Jr.,LIB,0,,,Wayne County,MANCHESTER
+Wayne,MT PLEASANT,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Wayne County,MT PLEASANT
+Wayne,OREGON,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Wayne County,OREGON
+Wayne,PALMYRA,U.S. Senate,,Dale R. Kerns Jr.,LIB,7,,,Wayne County,PALMYRA
+Wayne,PAUPACK,U.S. Senate,,Dale R. Kerns Jr.,LIB,6,,,Wayne County,PAUPACK
+Wayne,PRESTON,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Wayne County,PRESTON
+Wayne,PROMPTON,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Wayne County,PROMPTON
+Wayne,SALEM,U.S. Senate,,Dale R. Kerns Jr.,LIB,7,,,Wayne County,SALEM
+Wayne,SCOTT,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Wayne County,SCOTT
+Wayne,SO CANAAN,U.S. Senate,,Dale R. Kerns Jr.,LIB,6,,,Wayne County,SO CANAAN
+Wayne,STARRUCCA,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Wayne County,STARRUCCA
+Wayne,STERLING,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Wayne County,STERLING
+Wayne,TEXAS # 1,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Wayne County,TEXAS # 1
+Wayne,TEXAS # 2,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Wayne County,TEXAS # 2
+Wayne,TEXAS # 3,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Wayne County,TEXAS # 3
+Wayne,WAYMART,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Wayne County,WAYMART
+Wayne,BERLIN # 1,Governor,,Tom Wolf,DEM,175,,,Wayne County,BERLIN # 1
+Wayne,BERLIN # 2,Governor,,Tom Wolf,DEM,171,,,Wayne County,BERLIN # 2
+Wayne,BETHANY,Governor,,Tom Wolf,DEM,64,,,Wayne County,BETHANY
+Wayne,BUCKINGHAM,Governor,,Tom Wolf,DEM,106,,,Wayne County,BUCKINGHAM
+Wayne,CANAAN,Governor,,Tom Wolf,DEM,158,,,Wayne County,CANAAN
+Wayne,CHERRY RIDGE,Governor,,Tom Wolf,DEM,310,,,Wayne County,CHERRY RIDGE
+Wayne,CLINTON # 1,Governor,,Tom Wolf,DEM,225,,,Wayne County,CLINTON # 1
+Wayne,CLINTON # 2,Governor,,Tom Wolf,DEM,145,,,Wayne County,CLINTON # 2
+Wayne,DAMASCUS # 1,Governor,,Tom Wolf,DEM,235,,,Wayne County,DAMASCUS # 1
+Wayne,DAMASCUS # 2,Governor,,Tom Wolf,DEM,345,,,Wayne County,DAMASCUS # 2
+Wayne,DREHER,Governor,,Tom Wolf,DEM,223,,,Wayne County,DREHER
+Wayne,DYBERRY,Governor,,Tom Wolf,DEM,296,,,Wayne County,DYBERRY
+Wayne,HAWLEY,Governor,,Tom Wolf,DEM,243,,,Wayne County,HAWLEY
+Wayne,HONESDALE # 1,Governor,,Tom Wolf,DEM,209,,,Wayne County,HONESDALE # 1
+Wayne,HONESDALE # 2,Governor,,Tom Wolf,DEM,358,,,Wayne County,HONESDALE # 2
+Wayne,HONESDALE # 3,Governor,,Tom Wolf,DEM,254,,,Wayne County,HONESDALE # 3
+Wayne,LAKE,Governor,,Tom Wolf,DEM,808,,,Wayne County,LAKE
+Wayne,LEBANON,Governor,,Tom Wolf,DEM,99,,,Wayne County,LEBANON
+Wayne,LEHIGH,Governor,,Tom Wolf,DEM,301,,,Wayne County,LEHIGH
+Wayne,MANCHESTER,Governor,,Tom Wolf,DEM,99,,,Wayne County,MANCHESTER
+Wayne,MT PLEASANT,Governor,,Tom Wolf,DEM,262,,,Wayne County,MT PLEASANT
+Wayne,OREGON,Governor,,Tom Wolf,DEM,123,,,Wayne County,OREGON
+Wayne,PALMYRA,Governor,,Tom Wolf,DEM,186,,,Wayne County,PALMYRA
+Wayne,PAUPACK,Governor,,Tom Wolf,DEM,637,,,Wayne County,PAUPACK
+Wayne,PRESTON,Governor,,Tom Wolf,DEM,150,,,Wayne County,PRESTON
+Wayne,PROMPTON,Governor,,Tom Wolf,DEM,28,,,Wayne County,PROMPTON
+Wayne,SALEM,Governor,,Tom Wolf,DEM,628,,,Wayne County,SALEM
+Wayne,SCOTT,Governor,,Tom Wolf,DEM,43,,,Wayne County,SCOTT
+Wayne,SO CANAAN,Governor,,Tom Wolf,DEM,299,,,Wayne County,SO CANAAN
+Wayne,STARRUCCA,Governor,,Tom Wolf,DEM,26,,,Wayne County,STARRUCCA
+Wayne,STERLING,Governor,,Tom Wolf,DEM,228,,,Wayne County,STERLING
+Wayne,TEXAS # 1,Governor,,Tom Wolf,DEM,143,,,Wayne County,TEXAS # 1
+Wayne,TEXAS # 2,Governor,,Tom Wolf,DEM,158,,,Wayne County,TEXAS # 2
+Wayne,TEXAS # 3,Governor,,Tom Wolf,DEM,92,,,Wayne County,TEXAS # 3
+Wayne,WAYMART,Governor,,Tom Wolf,DEM,196,,,Wayne County,WAYMART
+Wayne,BERLIN # 1,Governor,,Scott R. Wagner,REP,379,,,Wayne County,BERLIN # 1
+Wayne,BERLIN # 2,Governor,,Scott R. Wagner,REP,386,,,Wayne County,BERLIN # 2
+Wayne,BETHANY,Governor,,Scott R. Wagner,REP,66,,,Wayne County,BETHANY
+Wayne,BUCKINGHAM,Governor,,Scott R. Wagner,REP,128,,,Wayne County,BUCKINGHAM
+Wayne,CANAAN,Governor,,Scott R. Wagner,REP,236,,,Wayne County,CANAAN
+Wayne,CHERRY RIDGE,Governor,,Scott R. Wagner,REP,471,,,Wayne County,CHERRY RIDGE
+Wayne,CLINTON # 1,Governor,,Scott R. Wagner,REP,337,,,Wayne County,CLINTON # 1
+Wayne,CLINTON # 2,Governor,,Scott R. Wagner,REP,182,,,Wayne County,CLINTON # 2
+Wayne,DAMASCUS # 1,Governor,,Scott R. Wagner,REP,407,,,Wayne County,DAMASCUS # 1
+Wayne,DAMASCUS # 2,Governor,,Scott R. Wagner,REP,545,,,Wayne County,DAMASCUS # 2
+Wayne,DREHER,Governor,,Scott R. Wagner,REP,308,,,Wayne County,DREHER
+Wayne,DYBERRY,Governor,,Scott R. Wagner,REP,361,,,Wayne County,DYBERRY
+Wayne,HAWLEY,Governor,,Scott R. Wagner,REP,186,,,Wayne County,HAWLEY
+Wayne,HONESDALE # 1,Governor,,Scott R. Wagner,REP,230,,,Wayne County,HONESDALE # 1
+Wayne,HONESDALE # 2,Governor,,Scott R. Wagner,REP,246,,,Wayne County,HONESDALE # 2
+Wayne,HONESDALE # 3,Governor,,Scott R. Wagner,REP,265,,,Wayne County,HONESDALE # 3
+Wayne,LAKE,Governor,,Scott R. Wagner,REP,1206,,,Wayne County,LAKE
+Wayne,LEBANON,Governor,,Scott R. Wagner,REP,208,,,Wayne County,LEBANON
+Wayne,LEHIGH,Governor,,Scott R. Wagner,REP,365,,,Wayne County,LEHIGH
+Wayne,MANCHESTER,Governor,,Scott R. Wagner,REP,245,,,Wayne County,MANCHESTER
+Wayne,MT PLEASANT,Governor,,Scott R. Wagner,REP,396,,,Wayne County,MT PLEASANT
+Wayne,OREGON,Governor,,Scott R. Wagner,REP,218,,,Wayne County,OREGON
+Wayne,PALMYRA,Governor,,Scott R. Wagner,REP,361,,,Wayne County,PALMYRA
+Wayne,PAUPACK,Governor,,Scott R. Wagner,REP,970,,,Wayne County,PAUPACK
+Wayne,PRESTON,Governor,,Scott R. Wagner,REP,270,,,Wayne County,PRESTON
+Wayne,PROMPTON,Governor,,Scott R. Wagner,REP,87,,,Wayne County,PROMPTON
+Wayne,SALEM,Governor,,Scott R. Wagner,REP,951,,,Wayne County,SALEM
+Wayne,SCOTT,Governor,,Scott R. Wagner,REP,113,,,Wayne County,SCOTT
+Wayne,SO CANAAN,Governor,,Scott R. Wagner,REP,479,,,Wayne County,SO CANAAN
+Wayne,STARRUCCA,Governor,,Scott R. Wagner,REP,49,,,Wayne County,STARRUCCA
+Wayne,STERLING,Governor,,Scott R. Wagner,REP,350,,,Wayne County,STERLING
+Wayne,TEXAS # 1,Governor,,Scott R. Wagner,REP,192,,,Wayne County,TEXAS # 1
+Wayne,TEXAS # 2,Governor,,Scott R. Wagner,REP,174,,,Wayne County,TEXAS # 2
+Wayne,TEXAS # 3,Governor,,Scott R. Wagner,REP,119,,,Wayne County,TEXAS # 3
+Wayne,WAYMART,Governor,,Scott R. Wagner,REP,265,,,Wayne County,WAYMART
+Wayne,BERLIN # 1,Governor,,Paul Glover,GRN,5,,,Wayne County,BERLIN # 1
+Wayne,BERLIN # 2,Governor,,Paul Glover,GRN,8,,,Wayne County,BERLIN # 2
+Wayne,BETHANY,Governor,,Paul Glover,GRN,0,,,Wayne County,BETHANY
+Wayne,BUCKINGHAM,Governor,,Paul Glover,GRN,1,,,Wayne County,BUCKINGHAM
+Wayne,CANAAN,Governor,,Paul Glover,GRN,5,,,Wayne County,CANAAN
+Wayne,CHERRY RIDGE,Governor,,Paul Glover,GRN,4,,,Wayne County,CHERRY RIDGE
+Wayne,CLINTON # 1,Governor,,Paul Glover,GRN,3,,,Wayne County,CLINTON # 1
+Wayne,CLINTON # 2,Governor,,Paul Glover,GRN,1,,,Wayne County,CLINTON # 2
+Wayne,DAMASCUS # 1,Governor,,Paul Glover,GRN,6,,,Wayne County,DAMASCUS # 1
+Wayne,DAMASCUS # 2,Governor,,Paul Glover,GRN,5,,,Wayne County,DAMASCUS # 2
+Wayne,DREHER,Governor,,Paul Glover,GRN,2,,,Wayne County,DREHER
+Wayne,DYBERRY,Governor,,Paul Glover,GRN,6,,,Wayne County,DYBERRY
+Wayne,HAWLEY,Governor,,Paul Glover,GRN,4,,,Wayne County,HAWLEY
+Wayne,HONESDALE # 1,Governor,,Paul Glover,GRN,4,,,Wayne County,HONESDALE # 1
+Wayne,HONESDALE # 2,Governor,,Paul Glover,GRN,7,,,Wayne County,HONESDALE # 2
+Wayne,HONESDALE # 3,Governor,,Paul Glover,GRN,1,,,Wayne County,HONESDALE # 3
+Wayne,LAKE,Governor,,Paul Glover,GRN,8,,,Wayne County,LAKE
+Wayne,LEBANON,Governor,,Paul Glover,GRN,2,,,Wayne County,LEBANON
+Wayne,LEHIGH,Governor,,Paul Glover,GRN,6,,,Wayne County,LEHIGH
+Wayne,MANCHESTER,Governor,,Paul Glover,GRN,1,,,Wayne County,MANCHESTER
+Wayne,MT PLEASANT,Governor,,Paul Glover,GRN,3,,,Wayne County,MT PLEASANT
+Wayne,OREGON,Governor,,Paul Glover,GRN,1,,,Wayne County,OREGON
+Wayne,PALMYRA,Governor,,Paul Glover,GRN,3,,,Wayne County,PALMYRA
+Wayne,PAUPACK,Governor,,Paul Glover,GRN,8,,,Wayne County,PAUPACK
+Wayne,PRESTON,Governor,,Paul Glover,GRN,6,,,Wayne County,PRESTON
+Wayne,PROMPTON,Governor,,Paul Glover,GRN,1,,,Wayne County,PROMPTON
+Wayne,SALEM,Governor,,Paul Glover,GRN,13,,,Wayne County,SALEM
+Wayne,SCOTT,Governor,,Paul Glover,GRN,2,,,Wayne County,SCOTT
+Wayne,SO CANAAN,Governor,,Paul Glover,GRN,2,,,Wayne County,SO CANAAN
+Wayne,STARRUCCA,Governor,,Paul Glover,GRN,0,,,Wayne County,STARRUCCA
+Wayne,STERLING,Governor,,Paul Glover,GRN,2,,,Wayne County,STERLING
+Wayne,TEXAS # 1,Governor,,Paul Glover,GRN,4,,,Wayne County,TEXAS # 1
+Wayne,TEXAS # 2,Governor,,Paul Glover,GRN,3,,,Wayne County,TEXAS # 2
+Wayne,TEXAS # 3,Governor,,Paul Glover,GRN,5,,,Wayne County,TEXAS # 3
+Wayne,WAYMART,Governor,,Paul Glover,GRN,2,,,Wayne County,WAYMART
+Wayne,BERLIN # 1,Governor,,Ken V. Krawchuk,LIB,3,,,Wayne County,BERLIN # 1
+Wayne,BERLIN # 2,Governor,,Ken V. Krawchuk,LIB,8,,,Wayne County,BERLIN # 2
+Wayne,BETHANY,Governor,,Ken V. Krawchuk,LIB,2,,,Wayne County,BETHANY
+Wayne,BUCKINGHAM,Governor,,Ken V. Krawchuk,LIB,4,,,Wayne County,BUCKINGHAM
+Wayne,CANAAN,Governor,,Ken V. Krawchuk,LIB,3,,,Wayne County,CANAAN
+Wayne,CHERRY RIDGE,Governor,,Ken V. Krawchuk,LIB,7,,,Wayne County,CHERRY RIDGE
+Wayne,CLINTON # 1,Governor,,Ken V. Krawchuk,LIB,2,,,Wayne County,CLINTON # 1
+Wayne,CLINTON # 2,Governor,,Ken V. Krawchuk,LIB,5,,,Wayne County,CLINTON # 2
+Wayne,DAMASCUS # 1,Governor,,Ken V. Krawchuk,LIB,4,,,Wayne County,DAMASCUS # 1
+Wayne,DAMASCUS # 2,Governor,,Ken V. Krawchuk,LIB,8,,,Wayne County,DAMASCUS # 2
+Wayne,DREHER,Governor,,Ken V. Krawchuk,LIB,8,,,Wayne County,DREHER
+Wayne,DYBERRY,Governor,,Ken V. Krawchuk,LIB,6,,,Wayne County,DYBERRY
+Wayne,HAWLEY,Governor,,Ken V. Krawchuk,LIB,9,,,Wayne County,HAWLEY
+Wayne,HONESDALE # 1,Governor,,Ken V. Krawchuk,LIB,4,,,Wayne County,HONESDALE # 1
+Wayne,HONESDALE # 2,Governor,,Ken V. Krawchuk,LIB,4,,,Wayne County,HONESDALE # 2
+Wayne,HONESDALE # 3,Governor,,Ken V. Krawchuk,LIB,4,,,Wayne County,HONESDALE # 3
+Wayne,LAKE,Governor,,Ken V. Krawchuk,LIB,14,,,Wayne County,LAKE
+Wayne,LEBANON,Governor,,Ken V. Krawchuk,LIB,1,,,Wayne County,LEBANON
+Wayne,LEHIGH,Governor,,Ken V. Krawchuk,LIB,3,,,Wayne County,LEHIGH
+Wayne,MANCHESTER,Governor,,Ken V. Krawchuk,LIB,2,,,Wayne County,MANCHESTER
+Wayne,MT PLEASANT,Governor,,Ken V. Krawchuk,LIB,7,,,Wayne County,MT PLEASANT
+Wayne,OREGON,Governor,,Ken V. Krawchuk,LIB,3,,,Wayne County,OREGON
+Wayne,PALMYRA,Governor,,Ken V. Krawchuk,LIB,8,,,Wayne County,PALMYRA
+Wayne,PAUPACK,Governor,,Ken V. Krawchuk,LIB,11,,,Wayne County,PAUPACK
+Wayne,PRESTON,Governor,,Ken V. Krawchuk,LIB,8,,,Wayne County,PRESTON
+Wayne,PROMPTON,Governor,,Ken V. Krawchuk,LIB,1,,,Wayne County,PROMPTON
+Wayne,SALEM,Governor,,Ken V. Krawchuk,LIB,13,,,Wayne County,SALEM
+Wayne,SCOTT,Governor,,Ken V. Krawchuk,LIB,1,,,Wayne County,SCOTT
+Wayne,SO CANAAN,Governor,,Ken V. Krawchuk,LIB,10,,,Wayne County,SO CANAAN
+Wayne,STARRUCCA,Governor,,Ken V. Krawchuk,LIB,0,,,Wayne County,STARRUCCA
+Wayne,STERLING,Governor,,Ken V. Krawchuk,LIB,4,,,Wayne County,STERLING
+Wayne,TEXAS # 1,Governor,,Ken V. Krawchuk,LIB,3,,,Wayne County,TEXAS # 1
+Wayne,TEXAS # 2,Governor,,Ken V. Krawchuk,LIB,3,,,Wayne County,TEXAS # 2
+Wayne,TEXAS # 3,Governor,,Ken V. Krawchuk,LIB,1,,,Wayne County,TEXAS # 3
+Wayne,WAYMART,Governor,,Ken V. Krawchuk,LIB,4,,,Wayne County,WAYMART
+Wayne,BERLIN # 1,U.S. House,8.0,Matt Cartwright,DEM,166,,,Wayne County,BERLIN # 1
+Wayne,BERLIN # 2,U.S. House,8.0,Matt Cartwright,DEM,160,,,Wayne County,BERLIN # 2
+Wayne,BETHANY,U.S. House,8.0,Matt Cartwright,DEM,58,,,Wayne County,BETHANY
+Wayne,BUCKINGHAM,U.S. House,8.0,Matt Cartwright,DEM,101,,,Wayne County,BUCKINGHAM
+Wayne,CANAAN,U.S. House,8.0,Matt Cartwright,DEM,149,,,Wayne County,CANAAN
+Wayne,CHERRY RIDGE,U.S. House,8.0,Matt Cartwright,DEM,293,,,Wayne County,CHERRY RIDGE
+Wayne,CLINTON # 1,U.S. House,8.0,Matt Cartwright,DEM,206,,,Wayne County,CLINTON # 1
+Wayne,CLINTON # 2,U.S. House,8.0,Matt Cartwright,DEM,142,,,Wayne County,CLINTON # 2
+Wayne,DAMASCUS # 1,U.S. House,8.0,Matt Cartwright,DEM,236,,,Wayne County,DAMASCUS # 1
+Wayne,DAMASCUS # 2,U.S. House,8.0,Matt Cartwright,DEM,333,,,Wayne County,DAMASCUS # 2
+Wayne,DREHER,U.S. House,8.0,Matt Cartwright,DEM,198,,,Wayne County,DREHER
+Wayne,DYBERRY,U.S. House,8.0,Matt Cartwright,DEM,271,,,Wayne County,DYBERRY
+Wayne,HAWLEY,U.S. House,8.0,Matt Cartwright,DEM,233,,,Wayne County,HAWLEY
+Wayne,HONESDALE # 1,U.S. House,8.0,Matt Cartwright,DEM,211,,,Wayne County,HONESDALE # 1
+Wayne,HONESDALE # 2,U.S. House,8.0,Matt Cartwright,DEM,344,,,Wayne County,HONESDALE # 2
+Wayne,HONESDALE # 3,U.S. House,8.0,Matt Cartwright,DEM,228,,,Wayne County,HONESDALE # 3
+Wayne,LAKE,U.S. House,8.0,Matt Cartwright,DEM,752,,,Wayne County,LAKE
+Wayne,LEBANON,U.S. House,8.0,Matt Cartwright,DEM,84,,,Wayne County,LEBANON
+Wayne,LEHIGH,U.S. House,8.0,Matt Cartwright,DEM,311,,,Wayne County,LEHIGH
+Wayne,MANCHESTER,U.S. House,8.0,Matt Cartwright,DEM,92,,,Wayne County,MANCHESTER
+Wayne,MT PLEASANT,U.S. House,8.0,Matt Cartwright,DEM,258,,,Wayne County,MT PLEASANT
+Wayne,OREGON,U.S. House,8.0,Matt Cartwright,DEM,102,,,Wayne County,OREGON
+Wayne,PALMYRA,U.S. House,8.0,Matt Cartwright,DEM,171,,,Wayne County,PALMYRA
+Wayne,PAUPACK,U.S. House,8.0,Matt Cartwright,DEM,568,,,Wayne County,PAUPACK
+Wayne,PRESTON,U.S. House,8.0,Matt Cartwright,DEM,143,,,Wayne County,PRESTON
+Wayne,PROMPTON,U.S. House,8.0,Matt Cartwright,DEM,30,,,Wayne County,PROMPTON
+Wayne,SALEM,U.S. House,8.0,Matt Cartwright,DEM,601,,,Wayne County,SALEM
+Wayne,SCOTT,U.S. House,8.0,Matt Cartwright,DEM,43,,,Wayne County,SCOTT
+Wayne,SO CANAAN,U.S. House,8.0,Matt Cartwright,DEM,285,,,Wayne County,SO CANAAN
+Wayne,STARRUCCA,U.S. House,8.0,Matt Cartwright,DEM,23,,,Wayne County,STARRUCCA
+Wayne,STERLING,U.S. House,8.0,Matt Cartwright,DEM,209,,,Wayne County,STERLING
+Wayne,TEXAS # 1,U.S. House,8.0,Matt Cartwright,DEM,121,,,Wayne County,TEXAS # 1
+Wayne,TEXAS # 2,U.S. House,8.0,Matt Cartwright,DEM,150,,,Wayne County,TEXAS # 2
+Wayne,TEXAS # 3,U.S. House,8.0,Matt Cartwright,DEM,94,,,Wayne County,TEXAS # 3
+Wayne,WAYMART,U.S. House,8.0,Matt Cartwright,DEM,184,,,Wayne County,WAYMART
+Wayne,BERLIN # 1,U.S. House,8.0,John Chrin,REP,395,,,Wayne County,BERLIN # 1
+Wayne,BERLIN # 2,U.S. House,8.0,John Chrin,REP,413,,,Wayne County,BERLIN # 2
+Wayne,BETHANY,U.S. House,8.0,John Chrin,REP,71,,,Wayne County,BETHANY
+Wayne,BUCKINGHAM,U.S. House,8.0,John Chrin,REP,137,,,Wayne County,BUCKINGHAM
+Wayne,CANAAN,U.S. House,8.0,John Chrin,REP,249,,,Wayne County,CANAAN
+Wayne,CHERRY RIDGE,U.S. House,8.0,John Chrin,REP,502,,,Wayne County,CHERRY RIDGE
+Wayne,CLINTON # 1,U.S. House,8.0,John Chrin,REP,364,,,Wayne County,CLINTON # 1
+Wayne,CLINTON # 2,U.S. House,8.0,John Chrin,REP,191,,,Wayne County,CLINTON # 2
+Wayne,DAMASCUS # 1,U.S. House,8.0,John Chrin,REP,416,,,Wayne County,DAMASCUS # 1
+Wayne,DAMASCUS # 2,U.S. House,8.0,John Chrin,REP,572,,,Wayne County,DAMASCUS # 2
+Wayne,DREHER,U.S. House,8.0,John Chrin,REP,345,,,Wayne County,DREHER
+Wayne,DYBERRY,U.S. House,8.0,John Chrin,REP,395,,,Wayne County,DYBERRY
+Wayne,HAWLEY,U.S. House,8.0,John Chrin,REP,210,,,Wayne County,HAWLEY
+Wayne,HONESDALE # 1,U.S. House,8.0,John Chrin,REP,245,,,Wayne County,HONESDALE # 1
+Wayne,HONESDALE # 2,U.S. House,8.0,John Chrin,REP,268,,,Wayne County,HONESDALE # 2
+Wayne,HONESDALE # 3,U.S. House,8.0,John Chrin,REP,295,,,Wayne County,HONESDALE # 3
+Wayne,LAKE,U.S. House,8.0,John Chrin,REP,1295,,,Wayne County,LAKE
+Wayne,LEBANON,U.S. House,8.0,John Chrin,REP,226,,,Wayne County,LEBANON
+Wayne,LEHIGH,U.S. House,8.0,John Chrin,REP,370,,,Wayne County,LEHIGH
+Wayne,MANCHESTER,U.S. House,8.0,John Chrin,REP,253,,,Wayne County,MANCHESTER
+Wayne,MT PLEASANT,U.S. House,8.0,John Chrin,REP,411,,,Wayne County,MT PLEASANT
+Wayne,OREGON,U.S. House,8.0,John Chrin,REP,243,,,Wayne County,OREGON
+Wayne,PALMYRA,U.S. House,8.0,John Chrin,REP,382,,,Wayne County,PALMYRA
+Wayne,PAUPACK,U.S. House,8.0,John Chrin,REP,1059,,,Wayne County,PAUPACK
+Wayne,PRESTON,U.S. House,8.0,John Chrin,REP,289,,,Wayne County,PRESTON
+Wayne,PROMPTON,U.S. House,8.0,John Chrin,REP,86,,,Wayne County,PROMPTON
+Wayne,SALEM,U.S. House,8.0,John Chrin,REP,1001,,,Wayne County,SALEM
+Wayne,SCOTT,U.S. House,8.0,John Chrin,REP,114,,,Wayne County,SCOTT
+Wayne,SO CANAAN,U.S. House,8.0,John Chrin,REP,503,,,Wayne County,SO CANAAN
+Wayne,STARRUCCA,U.S. House,8.0,John Chrin,REP,52,,,Wayne County,STARRUCCA
+Wayne,STERLING,U.S. House,8.0,John Chrin,REP,376,,,Wayne County,STERLING
+Wayne,TEXAS # 1,U.S. House,8.0,John Chrin,REP,219,,,Wayne County,TEXAS # 1
+Wayne,TEXAS # 2,U.S. House,8.0,John Chrin,REP,187,,,Wayne County,TEXAS # 2
+Wayne,TEXAS # 3,U.S. House,8.0,John Chrin,REP,124,,,Wayne County,TEXAS # 3
+Wayne,WAYMART,U.S. House,8.0,John Chrin,REP,282,,,Wayne County,WAYMART
+Wayne,BERLIN # 1,State Senate,20.0,Lisa Baker,REP,452,,,Wayne County,BERLIN # 1
+Wayne,BERLIN # 2,State Senate,20.0,Lisa Baker,REP,496,,,Wayne County,BERLIN # 2
+Wayne,BETHANY,State Senate,20.0,Lisa Baker,REP,97,,,Wayne County,BETHANY
+Wayne,BUCKINGHAM,State Senate,20.0,Lisa Baker,REP,174,,,Wayne County,BUCKINGHAM
+Wayne,CANAAN,State Senate,20.0,Lisa Baker,REP,325,,,Wayne County,CANAAN
+Wayne,CHERRY RIDGE,State Senate,20.0,Lisa Baker,REP,615,,,Wayne County,CHERRY RIDGE
+Wayne,CLINTON # 1,State Senate,20.0,Lisa Baker,REP,455,,,Wayne County,CLINTON # 1
+Wayne,CLINTON # 2,State Senate,20.0,Lisa Baker,REP,250,,,Wayne County,CLINTON # 2
+Wayne,DAMASCUS # 1,State Senate,20.0,Lisa Baker,REP,472,,,Wayne County,DAMASCUS # 1
+Wayne,DAMASCUS # 2,State Senate,20.0,Lisa Baker,REP,650,,,Wayne County,DAMASCUS # 2
+Wayne,DREHER,State Senate,20.0,Lisa Baker,REP,401,,,Wayne County,DREHER
+Wayne,DYBERRY,State Senate,20.0,Lisa Baker,REP,498,,,Wayne County,DYBERRY
+Wayne,HAWLEY,State Senate,20.0,Lisa Baker,REP,287,,,Wayne County,HAWLEY
+Wayne,HONESDALE # 1,State Senate,20.0,Lisa Baker,REP,312,,,Wayne County,HONESDALE # 1
+Wayne,HONESDALE # 2,State Senate,20.0,Lisa Baker,REP,380,,,Wayne County,HONESDALE # 2
+Wayne,HONESDALE # 3,State Senate,20.0,Lisa Baker,REP,384,,,Wayne County,HONESDALE # 3
+Wayne,LAKE,State Senate,20.0,Lisa Baker,REP,1469,,,Wayne County,LAKE
+Wayne,LEBANON,State Senate,20.0,Lisa Baker,REP,261,,,Wayne County,LEBANON
+Wayne,LEHIGH,State Senate,20.0,Lisa Baker,REP,440,,,Wayne County,LEHIGH
+Wayne,MANCHESTER,State Senate,20.0,Lisa Baker,REP,277,,,Wayne County,MANCHESTER
+Wayne,MT PLEASANT,State Senate,20.0,Lisa Baker,REP,525,,,Wayne County,MT PLEASANT
+Wayne,OREGON,State Senate,20.0,Lisa Baker,REP,280,,,Wayne County,OREGON
+Wayne,PALMYRA,State Senate,20.0,Lisa Baker,REP,459,,,Wayne County,PALMYRA
+Wayne,PAUPACK,State Senate,20.0,Lisa Baker,REP,1193,,,Wayne County,PAUPACK
+Wayne,PRESTON,State Senate,20.0,Lisa Baker,REP,332,,,Wayne County,PRESTON
+Wayne,PROMPTON,State Senate,20.0,Lisa Baker,REP,104,,,Wayne County,PROMPTON
+Wayne,SALEM,State Senate,20.0,Lisa Baker,REP,1158,,,Wayne County,SALEM
+Wayne,SCOTT,State Senate,20.0,Lisa Baker,REP,128,,,Wayne County,SCOTT
+Wayne,SO CANAAN,State Senate,20.0,Lisa Baker,REP,609,,,Wayne County,SO CANAAN
+Wayne,STARRUCCA,State Senate,20.0,Lisa Baker,REP,57,,,Wayne County,STARRUCCA
+Wayne,STERLING,State Senate,20.0,Lisa Baker,REP,434,,,Wayne County,STERLING
+Wayne,TEXAS # 1,State Senate,20.0,Lisa Baker,REP,271,,,Wayne County,TEXAS # 1
+Wayne,TEXAS # 2,State Senate,20.0,Lisa Baker,REP,261,,,Wayne County,TEXAS # 2
+Wayne,TEXAS # 3,State Senate,20.0,Lisa Baker,REP,151,,,Wayne County,TEXAS # 3
+Wayne,WAYMART,State Senate,20.0,Lisa Baker,REP,352,,,Wayne County,WAYMART
+Wayne,BERLIN # 1,State Senate,20.0,John J. Sweeney,GRN,61,,,Wayne County,BERLIN # 1
+Wayne,BERLIN # 2,State Senate,20.0,John J. Sweeney,GRN,46,,,Wayne County,BERLIN # 2
+Wayne,BETHANY,State Senate,20.0,John J. Sweeney,GRN,24,,,Wayne County,BETHANY
+Wayne,BUCKINGHAM,State Senate,20.0,John J. Sweeney,GRN,40,,,Wayne County,BUCKINGHAM
+Wayne,CANAAN,State Senate,20.0,John J. Sweeney,GRN,42,,,Wayne County,CANAAN
+Wayne,CHERRY RIDGE,State Senate,20.0,John J. Sweeney,GRN,93,,,Wayne County,CHERRY RIDGE
+Wayne,CLINTON # 1,State Senate,20.0,John J. Sweeney,GRN,55,,,Wayne County,CLINTON # 1
+Wayne,CLINTON # 2,State Senate,20.0,John J. Sweeney,GRN,38,,,Wayne County,CLINTON # 2
+Wayne,DAMASCUS # 1,State Senate,20.0,John J. Sweeney,GRN,104,,,Wayne County,DAMASCUS # 1
+Wayne,DAMASCUS # 2,State Senate,20.0,John J. Sweeney,GRN,157,,,Wayne County,DAMASCUS # 2
+Wayne,DREHER,State Senate,20.0,John J. Sweeney,GRN,83,,,Wayne County,DREHER
+Wayne,DYBERRY,State Senate,20.0,John J. Sweeney,GRN,108,,,Wayne County,DYBERRY
+Wayne,HAWLEY,State Senate,20.0,John J. Sweeney,GRN,89,,,Wayne County,HAWLEY
+Wayne,HONESDALE # 1,State Senate,20.0,John J. Sweeney,GRN,60,,,Wayne County,HONESDALE # 1
+Wayne,HONESDALE # 2,State Senate,20.0,John J. Sweeney,GRN,170,,,Wayne County,HONESDALE # 2
+Wayne,HONESDALE # 3,State Senate,20.0,John J. Sweeney,GRN,82,,,Wayne County,HONESDALE # 3
+Wayne,LAKE,State Senate,20.0,John J. Sweeney,GRN,285,,,Wayne County,LAKE
+Wayne,LEBANON,State Senate,20.0,John J. Sweeney,GRN,30,,,Wayne County,LEBANON
+Wayne,LEHIGH,State Senate,20.0,John J. Sweeney,GRN,106,,,Wayne County,LEHIGH
+Wayne,MANCHESTER,State Senate,20.0,John J. Sweeney,GRN,43,,,Wayne County,MANCHESTER
+Wayne,MT PLEASANT,State Senate,20.0,John J. Sweeney,GRN,71,,,Wayne County,MT PLEASANT
+Wayne,OREGON,State Senate,20.0,John J. Sweeney,GRN,31,,,Wayne County,OREGON
+Wayne,PALMYRA,State Senate,20.0,John J. Sweeney,GRN,49,,,Wayne County,PALMYRA
+Wayne,PAUPACK,State Senate,20.0,John J. Sweeney,GRN,231,,,Wayne County,PAUPACK
+Wayne,PRESTON,State Senate,20.0,John J. Sweeney,GRN,54,,,Wayne County,PRESTON
+Wayne,PROMPTON,State Senate,20.0,John J. Sweeney,GRN,9,,,Wayne County,PROMPTON
+Wayne,SALEM,State Senate,20.0,John J. Sweeney,GRN,215,,,Wayne County,SALEM
+Wayne,SCOTT,State Senate,20.0,John J. Sweeney,GRN,18,,,Wayne County,SCOTT
+Wayne,SO CANAAN,State Senate,20.0,John J. Sweeney,GRN,89,,,Wayne County,SO CANAAN
+Wayne,STARRUCCA,State Senate,20.0,John J. Sweeney,GRN,12,,,Wayne County,STARRUCCA
+Wayne,STERLING,State Senate,20.0,John J. Sweeney,GRN,79,,,Wayne County,STERLING
+Wayne,TEXAS # 1,State Senate,20.0,John J. Sweeney,GRN,38,,,Wayne County,TEXAS # 1
+Wayne,TEXAS # 2,State Senate,20.0,John J. Sweeney,GRN,39,,,Wayne County,TEXAS # 2
+Wayne,TEXAS # 3,State Senate,20.0,John J. Sweeney,GRN,35,,,Wayne County,TEXAS # 3
+Wayne,WAYMART,State Senate,20.0,John J. Sweeney,GRN,68,,,Wayne County,WAYMART
+Wayne,BETHANY,State House,111.0,Becky Kerr-Kinney,DEM,35,,,Wayne County,BETHANY
+Wayne,BUCKINGHAM,State House,111.0,Becky Kerr-Kinney,DEM,75,,,Wayne County,BUCKINGHAM
+Wayne,CANAAN,State House,111.0,Becky Kerr-Kinney,DEM,79,,,Wayne County,CANAAN
+Wayne,CLINTON # 1,State House,111.0,Becky Kerr-Kinney,DEM,116,,,Wayne County,CLINTON # 1
+Wayne,CLINTON # 2,State House,111.0,Becky Kerr-Kinney,DEM,111,,,Wayne County,CLINTON # 2
+Wayne,DYBERRY,State House,111.0,Becky Kerr-Kinney,DEM,195,,,Wayne County,DYBERRY
+Wayne,HONESDALE # 1,State House,111.0,Becky Kerr-Kinney,DEM,142,,,Wayne County,HONESDALE # 1
+Wayne,HONESDALE # 2,State House,111.0,Becky Kerr-Kinney,DEM,247,,,Wayne County,HONESDALE # 2
+Wayne,HONESDALE # 3,State House,111.0,Becky Kerr-Kinney,DEM,156,,,Wayne County,HONESDALE # 3
+Wayne,LAKE,State House,111.0,Becky Kerr-Kinney,DEM,622,,,Wayne County,LAKE
+Wayne,LEBANON,State House,111.0,Becky Kerr-Kinney,DEM,54,,,Wayne County,LEBANON
+Wayne,MANCHESTER,State House,111.0,Becky Kerr-Kinney,DEM,75,,,Wayne County,MANCHESTER
+Wayne,MT PLEASANT,State House,111.0,Becky Kerr-Kinney,DEM,173,,,Wayne County,MT PLEASANT
+Wayne,PRESTON,State House,111.0,Becky Kerr-Kinney,DEM,104,,,Wayne County,PRESTON
+Wayne,PROMPTON,State House,111.0,Becky Kerr-Kinney,DEM,13,,,Wayne County,PROMPTON
+Wayne,SCOTT,State House,111.0,Becky Kerr-Kinney,DEM,35,,,Wayne County,SCOTT
+Wayne,SO CANAAN,State House,111.0,Becky Kerr-Kinney,DEM,180,,,Wayne County,SO CANAAN
+Wayne,STARRUCCA,State House,111.0,Becky Kerr-Kinney,DEM,22,,,Wayne County,STARRUCCA
+Wayne,TEXAS # 1,State House,111.0,Becky Kerr-Kinney,DEM,82,,,Wayne County,TEXAS # 1
+Wayne,TEXAS # 2,State House,111.0,Becky Kerr-Kinney,DEM,83,,,Wayne County,TEXAS # 2
+Wayne,TEXAS # 3,State House,111.0,Becky Kerr-Kinney,DEM,67,,,Wayne County,TEXAS # 3
+Wayne,WAYMART,State House,111.0,Becky Kerr-Kinney,DEM,115,,,Wayne County,WAYMART
+Wayne,BETHANY,State House,111.0,Jonathan Fritz,REP,93,,,Wayne County,BETHANY
+Wayne,BUCKINGHAM,State House,111.0,Jonathan Fritz,REP,162,,,Wayne County,BUCKINGHAM
+Wayne,CANAAN,State House,111.0,Jonathan Fritz,REP,317,,,Wayne County,CANAAN
+Wayne,CLINTON # 1,State House,111.0,Jonathan Fritz,REP,454,,,Wayne County,CLINTON # 1
+Wayne,CLINTON # 2,State House,111.0,Jonathan Fritz,REP,220,,,Wayne County,CLINTON # 2
+Wayne,DYBERRY,State House,111.0,Jonathan Fritz,REP,478,,,Wayne County,DYBERRY
+Wayne,HONESDALE # 1,State House,111.0,Jonathan Fritz,REP,303,,,Wayne County,HONESDALE # 1
+Wayne,HONESDALE # 2,State House,111.0,Jonathan Fritz,REP,366,,,Wayne County,HONESDALE # 2
+Wayne,HONESDALE # 3,State House,111.0,Jonathan Fritz,REP,368,,,Wayne County,HONESDALE # 3
+Wayne,LAKE,State House,111.0,Jonathan Fritz,REP,1412,,,Wayne County,LAKE
+Wayne,LEBANON,State House,111.0,Jonathan Fritz,REP,255,,,Wayne County,LEBANON
+Wayne,MANCHESTER,State House,111.0,Jonathan Fritz,REP,271,,,Wayne County,MANCHESTER
+Wayne,MT PLEASANT,State House,111.0,Jonathan Fritz,REP,494,,,Wayne County,MT PLEASANT
+Wayne,PRESTON,State House,111.0,Jonathan Fritz,REP,327,,,Wayne County,PRESTON
+Wayne,PROMPTON,State House,111.0,Jonathan Fritz,REP,103,,,Wayne County,PROMPTON
+Wayne,SCOTT,State House,111.0,Jonathan Fritz,REP,123,,,Wayne County,SCOTT
+Wayne,SO CANAAN,State House,111.0,Jonathan Fritz,REP,602,,,Wayne County,SO CANAAN
+Wayne,STARRUCCA,State House,111.0,Jonathan Fritz,REP,54,,,Wayne County,STARRUCCA
+Wayne,TEXAS # 1,State House,111.0,Jonathan Fritz,REP,255,,,Wayne County,TEXAS # 1
+Wayne,TEXAS # 2,State House,111.0,Jonathan Fritz,REP,250,,,Wayne County,TEXAS # 2
+Wayne,TEXAS # 3,State House,111.0,Jonathan Fritz,REP,147,,,Wayne County,TEXAS # 3
+Wayne,WAYMART,State House,111.0,Jonathan Fritz,REP,348,,,Wayne County,WAYMART
+Wayne,BERLIN # 1,State House,139.0,Orlando Marrero,DEM,118,,,Wayne County,BERLIN # 1
+Wayne,BERLIN # 2,State House,139.0,Orlando Marrero,DEM,99,,,Wayne County,BERLIN # 2
+Wayne,CHERRY RIDGE,State House,139.0,Orlando Marrero,DEM,196,,,Wayne County,CHERRY RIDGE
+Wayne,DAMASCUS # 1,State House,139.0,Orlando Marrero,DEM,192,,,Wayne County,DAMASCUS # 1
+Wayne,DAMASCUS # 2,State House,139.0,Orlando Marrero,DEM,252,,,Wayne County,DAMASCUS # 2
+Wayne,DREHER,State House,139.0,Orlando Marrero,DEM,135,,,Wayne County,DREHER
+Wayne,HAWLEY,State House,139.0,Orlando Marrero,DEM,164,,,Wayne County,HAWLEY
+Wayne,LEHIGH,State House,139.0,Orlando Marrero,DEM,265,,,Wayne County,LEHIGH
+Wayne,OREGON,State House,139.0,Orlando Marrero,DEM,71,,,Wayne County,OREGON
+Wayne,PALMYRA,State House,139.0,Orlando Marrero,DEM,110,,,Wayne County,PALMYRA
+Wayne,PAUPACK,State House,139.0,Orlando Marrero,DEM,442,,,Wayne County,PAUPACK
+Wayne,SALEM,State House,139.0,Orlando Marrero,DEM,475,,,Wayne County,SALEM
+Wayne,STERLING,State House,139.0,Orlando Marrero,DEM,155,,,Wayne County,STERLING
+Wayne,BERLIN # 1,State House,139.0,Michael Peifer,REP,439,,,Wayne County,BERLIN # 1
+Wayne,BERLIN # 2,State House,139.0,Michael Peifer,REP,467,,,Wayne County,BERLIN # 2
+Wayne,CHERRY RIDGE,State House,139.0,Michael Peifer,REP,588,,,Wayne County,CHERRY RIDGE
+Wayne,DAMASCUS # 1,State House,139.0,Michael Peifer,REP,456,,,Wayne County,DAMASCUS # 1
+Wayne,DAMASCUS # 2,State House,139.0,Michael Peifer,REP,644,,,Wayne County,DAMASCUS # 2
+Wayne,DREHER,State House,139.0,Michael Peifer,REP,405,,,Wayne County,DREHER
+Wayne,HAWLEY,State House,139.0,Michael Peifer,REP,272,,,Wayne County,HAWLEY
+Wayne,LEHIGH,State House,139.0,Michael Peifer,REP,397,,,Wayne County,LEHIGH
+Wayne,OREGON,State House,139.0,Michael Peifer,REP,267,,,Wayne County,OREGON
+Wayne,PALMYRA,State House,139.0,Michael Peifer,REP,443,,,Wayne County,PALMYRA
+Wayne,PAUPACK,State House,139.0,Michael Peifer,REP,1174,,,Wayne County,PAUPACK
+Wayne,SALEM,State House,139.0,Michael Peifer,REP,1116,,,Wayne County,SALEM
+Wayne,STERLING,State House,139.0,Michael Peifer,REP,422,,,Wayne County,STERLING

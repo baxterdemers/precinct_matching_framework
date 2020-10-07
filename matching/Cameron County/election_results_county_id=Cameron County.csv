@@ -1,0 +1,161 @@
+county,precinct,office,district,candidate,party,votes,election_day,absentee,county_id,original_precinct_name
+Cameron,Driftwood Boro,U.S. Senate,,Bob Casey Jr.,DEM,5.0,,,Cameron County,Driftwood Boro
+Cameron,Driftwood Boro,U.S. Senate,,Lou Barletta,REP,20.0,,,Cameron County,Driftwood Boro
+Cameron,Driftwood Boro,U.S. Senate,,Neal Gale,GRN,0.0,,,Cameron County,Driftwood Boro
+Cameron,Driftwood Boro,U.S. Senate,,Dale R. Kerns Jr.,LIB,0.0,,,Cameron County,Driftwood Boro
+Cameron,Driftwood Boro,U.S. Senate,,Write-ins,,0.0,,,Cameron County,Driftwood Boro
+Cameron,Driftwood Boro,Governor,,Tom Wolf,DEM,6.0,,,Cameron County,Driftwood Boro
+Cameron,Driftwood Boro,Governor,,Scott R. Wagner,REP,18.0,,,Cameron County,Driftwood Boro
+Cameron,Driftwood Boro,Governor,,Paul Glover,GRN,0.0,,,Cameron County,Driftwood Boro
+Cameron,Driftwood Boro,Governor,,Ken V. Krawchuk,LIB,0.0,,,Cameron County,Driftwood Boro
+Cameron,Driftwood Boro,Governor,,Write-ins,,1.0,,,Cameron County,Driftwood Boro
+Cameron,Driftwood Boro,U.S. House,15.0,Susan Boser,DEM,4.0,,,Cameron County,Driftwood Boro
+Cameron,Driftwood Boro,U.S. House,15.0,Glenn Thompson,REP,21.0,,,Cameron County,Driftwood Boro
+Cameron,Driftwood Boro,U.S. House,15.0,Write-ins,,0.0,,,Cameron County,Driftwood Boro
+Cameron,Driftwood Boro,State House,67.0,Maryanne Cole,DEM,5.0,,,Cameron County,Driftwood Boro
+Cameron,Driftwood Boro,State House,67.0,Martin T. Causer,REP,20.0,,,Cameron County,Driftwood Boro
+Cameron,Driftwood Boro,State House,67.0,Write-ins,,0.0,,,Cameron County,Driftwood Boro
+Cameron,East Ward Boro Emporium,U.S. Senate,,Bob Casey Jr.,DEM,52.0,,,Cameron County,East Ward Boro Emporium
+Cameron,East Ward Boro Emporium,U.S. Senate,,Lou Barletta,REP,53.0,,,Cameron County,East Ward Boro Emporium
+Cameron,East Ward Boro Emporium,U.S. Senate,,Neal Gale,GRN,1.0,,,Cameron County,East Ward Boro Emporium
+Cameron,East Ward Boro Emporium,U.S. Senate,,Dale R. Kerns Jr.,LIB,2.0,,,Cameron County,East Ward Boro Emporium
+Cameron,East Ward Boro Emporium,U.S. Senate,,Write-ins,,0.0,,,Cameron County,East Ward Boro Emporium
+Cameron,East Ward Boro Emporium,Governor,,Tom Wolf,DEM,49.0,,,Cameron County,East Ward Boro Emporium
+Cameron,East Ward Boro Emporium,Governor,,Scott R. Wagner,REP,56.0,,,Cameron County,East Ward Boro Emporium
+Cameron,East Ward Boro Emporium,Governor,,Paul Glover,GRN,1.0,,,Cameron County,East Ward Boro Emporium
+Cameron,East Ward Boro Emporium,Governor,,Ken V. Krawchuk,LIB,1.0,,,Cameron County,East Ward Boro Emporium
+Cameron,East Ward Boro Emporium,Governor,,Write-ins,,0.0,,,Cameron County,East Ward Boro Emporium
+Cameron,East Ward Boro Emporium,U.S. House,15.0,Susan Boser,DEM,35.0,,,Cameron County,East Ward Boro Emporium
+Cameron,East Ward Boro Emporium,U.S. House,15.0,Glenn Thompson,REP,70.0,,,Cameron County,East Ward Boro Emporium
+Cameron,East Ward Boro Emporium,U.S. House,15.0,Write-ins,,0.0,,,Cameron County,East Ward Boro Emporium
+Cameron,East Ward Boro Emporium,State House,67.0,Maryanne Cole,DEM,36.0,,,Cameron County,East Ward Boro Emporium
+Cameron,East Ward Boro Emporium,State House,67.0,Martin T. Causer,REP,70.0,,,Cameron County,East Ward Boro Emporium
+Cameron,East Ward Boro Emporium,State House,67.0,Write-ins,,0.0,,,Cameron County,East Ward Boro Emporium
+Cameron,Middle Wd Boro Emporium,U.S. Senate,,Bob Casey Jr.,DEM,79.0,,,Cameron County,Middle Wd Boro Emporium
+Cameron,Middle Wd Boro Emporium,U.S. Senate,,Lou Barletta,REP,107.0,,,Cameron County,Middle Wd Boro Emporium
+Cameron,Middle Wd Boro Emporium,U.S. Senate,,Neal Gale,GRN,1.0,,,Cameron County,Middle Wd Boro Emporium
+Cameron,Middle Wd Boro Emporium,U.S. Senate,,Dale R. Kerns Jr.,LIB,1.0,,,Cameron County,Middle Wd Boro Emporium
+Cameron,Middle Wd Boro Emporium,U.S. Senate,,Write-ins,,0.0,,,Cameron County,Middle Wd Boro Emporium
+Cameron,Middle Wd Boro Emporium,Governor,,Tom Wolf,DEM,78.0,,,Cameron County,Middle Wd Boro Emporium
+Cameron,Middle Wd Boro Emporium,Governor,,Scott R. Wagner,REP,111.0,,,Cameron County,Middle Wd Boro Emporium
+Cameron,Middle Wd Boro Emporium,Governor,,Paul Glover,GRN,0.0,,,Cameron County,Middle Wd Boro Emporium
+Cameron,Middle Wd Boro Emporium,Governor,,Ken V. Krawchuk,LIB,2.0,,,Cameron County,Middle Wd Boro Emporium
+Cameron,Middle Wd Boro Emporium,Governor,,Write-ins,,0.0,,,Cameron County,Middle Wd Boro Emporium
+Cameron,Middle Wd Boro Emporium,U.S. House,15.0,Susan Boser,DEM,64.0,,,Cameron County,Middle Wd Boro Emporium
+Cameron,Middle Wd Boro Emporium,U.S. House,15.0,Glenn Thompson,REP,125.0,,,Cameron County,Middle Wd Boro Emporium
+Cameron,Middle Wd Boro Emporium,U.S. House,15.0,Write-ins,,0.0,,,Cameron County,Middle Wd Boro Emporium
+Cameron,Middle Wd Boro Emporium,State House,67.0,Maryanne Cole,DEM,52.0,,,Cameron County,Middle Wd Boro Emporium
+Cameron,Middle Wd Boro Emporium,State House,67.0,Martin T. Causer,REP,137.0,,,Cameron County,Middle Wd Boro Emporium
+Cameron,Middle Wd Boro Emporium,State House,67.0,Write-ins,,0.0,,,Cameron County,Middle Wd Boro Emporium
+Cameron,West Ward Boro Emporium,U.S. Senate,,Bob Casey Jr.,DEM,150.0,,,Cameron County,West Ward Boro Emporium
+Cameron,West Ward Boro Emporium,U.S. Senate,,Lou Barletta,REP,185.0,,,Cameron County,West Ward Boro Emporium
+Cameron,West Ward Boro Emporium,U.S. Senate,,Neal Gale,GRN,0.0,,,Cameron County,West Ward Boro Emporium
+Cameron,West Ward Boro Emporium,U.S. Senate,,Dale R. Kerns Jr.,LIB,6.0,,,Cameron County,West Ward Boro Emporium
+Cameron,West Ward Boro Emporium,U.S. Senate,,Write-ins,,0.0,,,Cameron County,West Ward Boro Emporium
+Cameron,West Ward Boro Emporium,Governor,,Tom Wolf,DEM,143.0,,,Cameron County,West Ward Boro Emporium
+Cameron,West Ward Boro Emporium,Governor,,Scott R. Wagner,REP,198.0,,,Cameron County,West Ward Boro Emporium
+Cameron,West Ward Boro Emporium,Governor,,Paul Glover,GRN,2.0,,,Cameron County,West Ward Boro Emporium
+Cameron,West Ward Boro Emporium,Governor,,Ken V. Krawchuk,LIB,3.0,,,Cameron County,West Ward Boro Emporium
+Cameron,West Ward Boro Emporium,Governor,,Write-ins,,0.0,,,Cameron County,West Ward Boro Emporium
+Cameron,West Ward Boro Emporium,U.S. House,15.0,Susan Boser,DEM,123.0,,,Cameron County,West Ward Boro Emporium
+Cameron,West Ward Boro Emporium,U.S. House,15.0,Glenn Thompson,REP,221.0,,,Cameron County,West Ward Boro Emporium
+Cameron,West Ward Boro Emporium,U.S. House,15.0,Write-ins,,0.0,,,Cameron County,West Ward Boro Emporium
+Cameron,West Ward Boro Emporium,State House,67.0,Maryanne Cole,DEM,105.0,,,Cameron County,West Ward Boro Emporium
+Cameron,West Ward Boro Emporium,State House,67.0,Martin T. Causer,REP,240.0,,,Cameron County,West Ward Boro Emporium
+Cameron,West Ward Boro Emporium,State House,67.0,Write-ins,,0.0,,,Cameron County,West Ward Boro Emporium
+Cameron,Gibson Twp,U.S. Senate,,Bob Casey Jr.,DEM,18.0,,,Cameron County,Gibson Twp
+Cameron,Gibson Twp,U.S. Senate,,Lou Barletta,REP,61.0,,,Cameron County,Gibson Twp
+Cameron,Gibson Twp,U.S. Senate,,Neal Gale,GRN,0.0,,,Cameron County,Gibson Twp
+Cameron,Gibson Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,1.0,,,Cameron County,Gibson Twp
+Cameron,Gibson Twp,U.S. Senate,,Write-ins,,0.0,,,Cameron County,Gibson Twp
+Cameron,Gibson Twp,Governor,,Tom Wolf,DEM,19.0,,,Cameron County,Gibson Twp
+Cameron,Gibson Twp,Governor,,Scott R. Wagner,REP,59.0,,,Cameron County,Gibson Twp
+Cameron,Gibson Twp,Governor,,Paul Glover,GRN,1.0,,,Cameron County,Gibson Twp
+Cameron,Gibson Twp,Governor,,Ken V. Krawchuk,LIB,0.0,,,Cameron County,Gibson Twp
+Cameron,Gibson Twp,Governor,,Write-ins,,0.0,,,Cameron County,Gibson Twp
+Cameron,Gibson Twp,U.S. House,15.0,Susan Boser,DEM,15.0,,,Cameron County,Gibson Twp
+Cameron,Gibson Twp,U.S. House,15.0,Glenn Thompson,REP,64.0,,,Cameron County,Gibson Twp
+Cameron,Gibson Twp,U.S. House,15.0,Write-ins,,0.0,,,Cameron County,Gibson Twp
+Cameron,Gibson Twp,State House,67.0,Maryanne Cole,DEM,16.0,,,Cameron County,Gibson Twp
+Cameron,Gibson Twp,State House,67.0,Martin T. Causer,REP,64.0,,,Cameron County,Gibson Twp
+Cameron,Gibson Twp,State House,67.0,Write-ins,,0.0,,,Cameron County,Gibson Twp
+Cameron,Grove Twp,U.S. Senate,,Bob Casey Jr.,DEM,17.0,,,Cameron County,Grove Twp
+Cameron,Grove Twp,U.S. Senate,,Lou Barletta,REP,37.0,,,Cameron County,Grove Twp
+Cameron,Grove Twp,U.S. Senate,,Neal Gale,GRN,1.0,,,Cameron County,Grove Twp
+Cameron,Grove Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,0.0,,,Cameron County,Grove Twp
+Cameron,Grove Twp,U.S. Senate,,Write-ins,,0.0,,,Cameron County,Grove Twp
+Cameron,Grove Twp,Governor,,Tom Wolf,DEM,17.0,,,Cameron County,Grove Twp
+Cameron,Grove Twp,Governor,,Scott R. Wagner,REP,40.0,,,Cameron County,Grove Twp
+Cameron,Grove Twp,Governor,,Paul Glover,GRN,0.0,,,Cameron County,Grove Twp
+Cameron,Grove Twp,Governor,,Ken V. Krawchuk,LIB,0.0,,,Cameron County,Grove Twp
+Cameron,Grove Twp,Governor,,Write-ins,,0.0,,,Cameron County,Grove Twp
+Cameron,Grove Twp,U.S. House,15.0,Susan Boser,DEM,17.0,,,Cameron County,Grove Twp
+Cameron,Grove Twp,U.S. House,15.0,Glenn Thompson,REP,40.0,,,Cameron County,Grove Twp
+Cameron,Grove Twp,U.S. House,15.0,Write-ins,,0.0,,,Cameron County,Grove Twp
+Cameron,Grove Twp,State House,67.0,Maryanne Cole,DEM,15.0,,,Cameron County,Grove Twp
+Cameron,Grove Twp,State House,67.0,Martin T. Causer,REP,42.0,,,Cameron County,Grove Twp
+Cameron,Grove Twp,State House,67.0,Write-ins,,0.0,,,Cameron County,Grove Twp
+Cameron,Lumber Twp,U.S. Senate,,Bob Casey Jr.,DEM,45.0,,,Cameron County,Lumber Twp
+Cameron,Lumber Twp,U.S. Senate,,Lou Barletta,REP,55.0,,,Cameron County,Lumber Twp
+Cameron,Lumber Twp,U.S. Senate,,Neal Gale,GRN,2.0,,,Cameron County,Lumber Twp
+Cameron,Lumber Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,1.0,,,Cameron County,Lumber Twp
+Cameron,Lumber Twp,U.S. Senate,,Write-ins,,0.0,,,Cameron County,Lumber Twp
+Cameron,Lumber Twp,Governor,,Tom Wolf,DEM,49.0,,,Cameron County,Lumber Twp
+Cameron,Lumber Twp,Governor,,Scott R. Wagner,REP,53.0,,,Cameron County,Lumber Twp
+Cameron,Lumber Twp,Governor,,Paul Glover,GRN,1.0,,,Cameron County,Lumber Twp
+Cameron,Lumber Twp,Governor,,Ken V. Krawchuk,LIB,1.0,,,Cameron County,Lumber Twp
+Cameron,Lumber Twp,Governor,,Write-ins,,0.0,,,Cameron County,Lumber Twp
+Cameron,Lumber Twp,U.S. House,15.0,Susan Boser,DEM,39.0,,,Cameron County,Lumber Twp
+Cameron,Lumber Twp,U.S. House,15.0,Glenn Thompson,REP,64.0,,,Cameron County,Lumber Twp
+Cameron,Lumber Twp,U.S. House,15.0,Write-ins,,0.0,,,Cameron County,Lumber Twp
+Cameron,Lumber Twp,State House,67.0,Maryanne Cole,DEM,35.0,,,Cameron County,Lumber Twp
+Cameron,Lumber Twp,State House,67.0,Martin T. Causer,REP,68.0,,,Cameron County,Lumber Twp
+Cameron,Lumber Twp,State House,67.0,Write-ins,,0.0,,,Cameron County,Lumber Twp
+Cameron,Portage Twp,U.S. Senate,,Bob Casey Jr.,DEM,19.0,,,Cameron County,Portage Twp
+Cameron,Portage Twp,U.S. Senate,,Lou Barletta,REP,31.0,,,Cameron County,Portage Twp
+Cameron,Portage Twp,U.S. Senate,,Neal Gale,GRN,1.0,,,Cameron County,Portage Twp
+Cameron,Portage Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,3.0,,,Cameron County,Portage Twp
+Cameron,Portage Twp,U.S. Senate,,Write-ins,,0.0,,,Cameron County,Portage Twp
+Cameron,Portage Twp,Governor,,Tom Wolf,DEM,14.0,,,Cameron County,Portage Twp
+Cameron,Portage Twp,Governor,,Scott R. Wagner,REP,35.0,,,Cameron County,Portage Twp
+Cameron,Portage Twp,Governor,,Paul Glover,GRN,2.0,,,Cameron County,Portage Twp
+Cameron,Portage Twp,Governor,,Ken V. Krawchuk,LIB,3.0,,,Cameron County,Portage Twp
+Cameron,Portage Twp,Governor,,Write-ins,,0.0,,,Cameron County,Portage Twp
+Cameron,Portage Twp,U.S. House,15.0,Susan Boser,DEM,17.0,,,Cameron County,Portage Twp
+Cameron,Portage Twp,U.S. House,15.0,Glenn Thompson,REP,37.0,,,Cameron County,Portage Twp
+Cameron,Portage Twp,U.S. House,15.0,Write-ins,,0.0,,,Cameron County,Portage Twp
+Cameron,Portage Twp,State House,67.0,Maryanne Cole,DEM,13.0,,,Cameron County,Portage Twp
+Cameron,Portage Twp,State House,67.0,Martin T. Causer,REP,42.0,,,Cameron County,Portage Twp
+Cameron,Portage Twp,State House,67.0,Write-ins,,0.0,,,Cameron County,Portage Twp
+Cameron,East Shippen Twp,U.S. Senate,,Bob Casey Jr.,DEM,133.0,,,Cameron County,East Shippen Twp
+Cameron,East Shippen Twp,U.S. Senate,,Lou Barletta,REP,180.0,,,Cameron County,East Shippen Twp
+Cameron,East Shippen Twp,U.S. Senate,,Neal Gale,GRN,2.0,,,Cameron County,East Shippen Twp
+Cameron,East Shippen Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,1.0,,,Cameron County,East Shippen Twp
+Cameron,East Shippen Twp,U.S. Senate,,Write-ins,,0.0,,,Cameron County,East Shippen Twp
+Cameron,East Shippen Twp,Governor,,Tom Wolf,DEM,124.0,,,Cameron County,East Shippen Twp
+Cameron,East Shippen Twp,Governor,,Scott R. Wagner,REP,194.0,,,Cameron County,East Shippen Twp
+Cameron,East Shippen Twp,Governor,,Paul Glover,GRN,2.0,,,Cameron County,East Shippen Twp
+Cameron,East Shippen Twp,Governor,,Ken V. Krawchuk,LIB,1.0,,,Cameron County,East Shippen Twp
+Cameron,East Shippen Twp,Governor,,Write-ins,,0.0,,,Cameron County,East Shippen Twp
+Cameron,East Shippen Twp,U.S. House,15.0,Susan Boser,DEM,109.0,,,Cameron County,East Shippen Twp
+Cameron,East Shippen Twp,U.S. House,15.0,Glenn Thompson,REP,211.0,,,Cameron County,East Shippen Twp
+Cameron,East Shippen Twp,U.S. House,15.0,Write-ins,,0.0,,,Cameron County,East Shippen Twp
+Cameron,East Shippen Twp,State House,67.0,Maryanne Cole,DEM,77.0,,,Cameron County,East Shippen Twp
+Cameron,East Shippen Twp,State House,67.0,Martin T. Causer,REP,242.0,,,Cameron County,East Shippen Twp
+Cameron,East Shippen Twp,State House,67.0,Write-ins,,0.0,,,Cameron County,East Shippen Twp
+Cameron,West Shippen Twp,U.S. Senate,,Bob Casey Jr.,DEM,135.0,,,Cameron County,West Shippen Twp
+Cameron,West Shippen Twp,U.S. Senate,,Lou Barletta,REP,351.0,,,Cameron County,West Shippen Twp
+Cameron,West Shippen Twp,U.S. Senate,,Neal Gale,GRN,2.0,,,Cameron County,West Shippen Twp
+Cameron,West Shippen Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,7.0,,,Cameron County,West Shippen Twp
+Cameron,West Shippen Twp,U.S. Senate,,Write-ins,,0.0,,,Cameron County,West Shippen Twp
+Cameron,West Shippen Twp,Governor,,Tom Wolf,DEM,120.0,,,Cameron County,West Shippen Twp
+Cameron,West Shippen Twp,Governor,,Scott R. Wagner,REP,363.0,,,Cameron County,West Shippen Twp
+Cameron,West Shippen Twp,Governor,,Paul Glover,GRN,1.0,,,Cameron County,West Shippen Twp
+Cameron,West Shippen Twp,Governor,,Ken V. Krawchuk,LIB,6.0,,,Cameron County,West Shippen Twp
+Cameron,West Shippen Twp,Governor,,Write-ins,,1.0,,,Cameron County,West Shippen Twp
+Cameron,West Shippen Twp,U.S. House,15.0,Susan Boser,DEM,104.0,,,Cameron County,West Shippen Twp
+Cameron,West Shippen Twp,U.S. House,15.0,Glenn Thompson,REP,389.0,,,Cameron County,West Shippen Twp
+Cameron,West Shippen Twp,U.S. House,15.0,Write-ins,,0.0,,,Cameron County,West Shippen Twp
+Cameron,West Shippen Twp,State House,67.0,Maryanne Cole,DEM,86.0,,,Cameron County,West Shippen Twp
+Cameron,West Shippen Twp,State House,67.0,Martin T. Causer,REP,404.0,,,Cameron County,West Shippen Twp
+Cameron,West Shippen Twp,State House,67.0,Write-ins,,0.0,,,Cameron County,West Shippen Twp

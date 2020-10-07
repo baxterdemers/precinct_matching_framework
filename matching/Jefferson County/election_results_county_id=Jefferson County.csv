@@ -1,0 +1,593 @@
+county,precinct,office,district,candidate,party,votes,election_day,absentee,county_id,original_precinct_name
+Jefferson,BARNETT,U.S. Senate,,"Bob Casey, Jr.",DEM,39,,,Jefferson County,BARNETT
+Jefferson,BEAVER,U.S. Senate,,"Bob Casey, Jr.",DEM,46,,,Jefferson County,BEAVER
+Jefferson,BELL,U.S. Senate,,"Bob Casey, Jr.",DEM,186,,,Jefferson County,BELL
+Jefferson,BIG RUN,U.S. Senate,,"Bob Casey, Jr.",DEM,58,,,Jefferson County,BIG RUN
+Jefferson,BROCKWAY,U.S. Senate,,"Bob Casey, Jr.",DEM,289,,,Jefferson County,BROCKWAY
+Jefferson,BROOKVILLE 1,U.S. Senate,,"Bob Casey, Jr.",DEM,290,,,Jefferson County,BROOKVILLE 1
+Jefferson,BROOKVILLE 2,U.S. Senate,,"Bob Casey, Jr.",DEM,205,,,Jefferson County,BROOKVILLE 2
+Jefferson,CLOVER,U.S. Senate,,"Bob Casey, Jr.",DEM,43,,,Jefferson County,CLOVER
+Jefferson,CORSICA,U.S. Senate,,"Bob Casey, Jr.",DEM,37,,,Jefferson County,CORSICA
+Jefferson,ELDRED,U.S. Senate,,"Bob Casey, Jr.",DEM,118,,,Jefferson County,ELDRED
+Jefferson,FALLS CREEK,U.S. Senate,,"Bob Casey, Jr.",DEM,122,,,Jefferson County,FALLS CREEK
+Jefferson,GASKILL,U.S. Senate,,"Bob Casey, Jr.",DEM,62,,,Jefferson County,GASKILL
+Jefferson,HEATH,U.S. Senate,,"Bob Casey, Jr.",DEM,16,,,Jefferson County,HEATH
+Jefferson,HENDERSON,U.S. Senate,,"Bob Casey, Jr.",DEM,97,,,Jefferson County,HENDERSON
+Jefferson,KNOX,U.S. Senate,,"Bob Casey, Jr.",DEM,67,,,Jefferson County,KNOX
+Jefferson,MCCALMONT,U.S. Senate,,"Bob Casey, Jr.",DEM,80,,,Jefferson County,MCCALMONT
+Jefferson,OLIVER,U.S. Senate,,"Bob Casey, Jr.",DEM,85,,,Jefferson County,OLIVER
+Jefferson,PERRY,U.S. Senate,,"Bob Casey, Jr.",DEM,99,,,Jefferson County,PERRY
+Jefferson,PINECREEK,U.S. Senate,,"Bob Casey, Jr.",DEM,100,,,Jefferson County,PINECREEK
+Jefferson,POLK,U.S. Senate,,"Bob Casey, Jr.",DEM,23,,,Jefferson County,POLK
+Jefferson,PORTER,U.S. Senate,,"Bob Casey, Jr.",DEM,12,,,Jefferson County,PORTER
+Jefferson,PUNXSUTAWNEY 1,U.S. Senate,,"Bob Casey, Jr.",DEM,291,,,Jefferson County,PUNXSUTAWNEY 1
+Jefferson,PUNXSUTAWNEY 2,U.S. Senate,,"Bob Casey, Jr.",DEM,201,,,Jefferson County,PUNXSUTAWNEY 2
+Jefferson,PUNXSUTAWNEY 3,U.S. Senate,,"Bob Casey, Jr.",DEM,173,,,Jefferson County,PUNXSUTAWNEY 3
+Jefferson,REYNOLDSVILLE,U.S. Senate,,"Bob Casey, Jr.",DEM,264,,,Jefferson County,REYNOLDSVILLE
+Jefferson,RINGGOLD,U.S. Senate,,"Bob Casey, Jr.",DEM,54,,,Jefferson County,RINGGOLD
+Jefferson,ROSE,U.S. Senate,,"Bob Casey, Jr.",DEM,101,,,Jefferson County,ROSE
+Jefferson,SNYDER,U.S. Senate,,"Bob Casey, Jr.",DEM,299,,,Jefferson County,SNYDER
+Jefferson,SUMMERVILLE,U.S. Senate,,"Bob Casey, Jr.",DEM,40,,,Jefferson County,SUMMERVILLE
+Jefferson,SYKESVILLE,U.S. Senate,,"Bob Casey, Jr.",DEM,114,,,Jefferson County,SYKESVILLE
+Jefferson,TIMBLIN,U.S. Senate,,"Bob Casey, Jr.",DEM,5,,,Jefferson County,TIMBLIN
+Jefferson,UNION,U.S. Senate,,"Bob Casey, Jr.",DEM,77,,,Jefferson County,UNION
+Jefferson,WARSAW,U.S. Senate,,"Bob Casey, Jr.",DEM,94,,,Jefferson County,WARSAW
+Jefferson,WASHINGTON,U.S. Senate,,"Bob Casey, Jr.",DEM,191,,,Jefferson County,WASHINGTON
+Jefferson,WINSLOW,U.S. Senate,,"Bob Casey, Jr.",DEM,242,,,Jefferson County,WINSLOW
+Jefferson,WORTHVILLE,U.S. Senate,,"Bob Casey, Jr.",DEM,11,,,Jefferson County,WORTHVILLE
+Jefferson,YOUNG,U.S. Senate,,"Bob Casey, Jr.",DEM,206,,,Jefferson County,YOUNG
+Jefferson,BARNETT,U.S. Senate,,Lou Barletta,REP,93,,,Jefferson County,BARNETT
+Jefferson,BEAVER,U.S. Senate,,Lou Barletta,REP,169,,,Jefferson County,BEAVER
+Jefferson,BELL,U.S. Senate,,Lou Barletta,REP,560,,,Jefferson County,BELL
+Jefferson,BIG RUN,U.S. Senate,,Lou Barletta,REP,148,,,Jefferson County,BIG RUN
+Jefferson,BROCKWAY,U.S. Senate,,Lou Barletta,REP,374,,,Jefferson County,BROCKWAY
+Jefferson,BROOKVILLE 1,U.S. Senate,,Lou Barletta,REP,476,,,Jefferson County,BROOKVILLE 1
+Jefferson,BROOKVILLE 2,U.S. Senate,,Lou Barletta,REP,452,,,Jefferson County,BROOKVILLE 2
+Jefferson,CLOVER,U.S. Senate,,Lou Barletta,REP,155,,,Jefferson County,CLOVER
+Jefferson,CORSICA,U.S. Senate,,Lou Barletta,REP,85,,,Jefferson County,CORSICA
+Jefferson,ELDRED,U.S. Senate,,Lou Barletta,REP,439,,,Jefferson County,ELDRED
+Jefferson,FALLS CREEK,U.S. Senate,,Lou Barletta,REP,216,,,Jefferson County,FALLS CREEK
+Jefferson,GASKILL,U.S. Senate,,Lou Barletta,REP,174,,,Jefferson County,GASKILL
+Jefferson,HEATH,U.S. Senate,,Lou Barletta,REP,50,,,Jefferson County,HEATH
+Jefferson,HENDERSON,U.S. Senate,,Lou Barletta,REP,284,,,Jefferson County,HENDERSON
+Jefferson,KNOX,U.S. Senate,,Lou Barletta,REP,330,,,Jefferson County,KNOX
+Jefferson,MCCALMONT,U.S. Senate,,Lou Barletta,REP,196,,,Jefferson County,MCCALMONT
+Jefferson,OLIVER,U.S. Senate,,Lou Barletta,REP,400,,,Jefferson County,OLIVER
+Jefferson,PERRY,U.S. Senate,,Lou Barletta,REP,332,,,Jefferson County,PERRY
+Jefferson,PINECREEK,U.S. Senate,,Lou Barletta,REP,299,,,Jefferson County,PINECREEK
+Jefferson,POLK,U.S. Senate,,Lou Barletta,REP,91,,,Jefferson County,POLK
+Jefferson,PORTER,U.S. Senate,,Lou Barletta,REP,99,,,Jefferson County,PORTER
+Jefferson,PUNXSUTAWNEY 1,U.S. Senate,,Lou Barletta,REP,443,,,Jefferson County,PUNXSUTAWNEY 1
+Jefferson,PUNXSUTAWNEY 2,U.S. Senate,,Lou Barletta,REP,290,,,Jefferson County,PUNXSUTAWNEY 2
+Jefferson,PUNXSUTAWNEY 3,U.S. Senate,,Lou Barletta,REP,284,,,Jefferson County,PUNXSUTAWNEY 3
+Jefferson,REYNOLDSVILLE,U.S. Senate,,Lou Barletta,REP,493,,,Jefferson County,REYNOLDSVILLE
+Jefferson,RINGGOLD,U.S. Senate,,Lou Barletta,REP,195,,,Jefferson County,RINGGOLD
+Jefferson,ROSE,U.S. Senate,,Lou Barletta,REP,326,,,Jefferson County,ROSE
+Jefferson,SNYDER,U.S. Senate,,Lou Barletta,REP,550,,,Jefferson County,SNYDER
+Jefferson,SUMMERVILLE,U.S. Senate,,Lou Barletta,REP,130,,,Jefferson County,SUMMERVILLE
+Jefferson,SYKESVILLE,U.S. Senate,,Lou Barletta,REP,199,,,Jefferson County,SYKESVILLE
+Jefferson,TIMBLIN,U.S. Senate,,Lou Barletta,REP,38,,,Jefferson County,TIMBLIN
+Jefferson,UNION,U.S. Senate,,Lou Barletta,REP,292,,,Jefferson County,UNION
+Jefferson,WARSAW,U.S. Senate,,Lou Barletta,REP,425,,,Jefferson County,WARSAW
+Jefferson,WASHINGTON,U.S. Senate,,Lou Barletta,REP,525,,,Jefferson County,WASHINGTON
+Jefferson,WINSLOW,U.S. Senate,,Lou Barletta,REP,748,,,Jefferson County,WINSLOW
+Jefferson,WORTHVILLE,U.S. Senate,,Lou Barletta,REP,33,,,Jefferson County,WORTHVILLE
+Jefferson,YOUNG,U.S. Senate,,Lou Barletta,REP,479,,,Jefferson County,YOUNG
+Jefferson,BARNETT,U.S. Senate,,Neal Gale,GRN,1,,,Jefferson County,BARNETT
+Jefferson,BEAVER,U.S. Senate,,Neal Gale,GRN,5,,,Jefferson County,BEAVER
+Jefferson,BELL,U.S. Senate,,Neal Gale,GRN,1,,,Jefferson County,BELL
+Jefferson,BIG RUN,U.S. Senate,,Neal Gale,GRN,6,,,Jefferson County,BIG RUN
+Jefferson,BROCKWAY,U.S. Senate,,Neal Gale,GRN,9,,,Jefferson County,BROCKWAY
+Jefferson,BROOKVILLE 1,U.S. Senate,,Neal Gale,GRN,6,,,Jefferson County,BROOKVILLE 1
+Jefferson,BROOKVILLE 2,U.S. Senate,,Neal Gale,GRN,,,,Jefferson County,BROOKVILLE 2
+Jefferson,CLOVER,U.S. Senate,,Neal Gale,GRN,1,,,Jefferson County,CLOVER
+Jefferson,CORSICA,U.S. Senate,,Neal Gale,GRN,6,,,Jefferson County,CORSICA
+Jefferson,ELDRED,U.S. Senate,,Neal Gale,GRN,3,,,Jefferson County,ELDRED
+Jefferson,FALLS CREEK,U.S. Senate,,Neal Gale,GRN,2,,,Jefferson County,FALLS CREEK
+Jefferson,GASKILL,U.S. Senate,,Neal Gale,GRN,4,,,Jefferson County,GASKILL
+Jefferson,HEATH,U.S. Senate,,Neal Gale,GRN,1,,,Jefferson County,HEATH
+Jefferson,HENDERSON,U.S. Senate,,Neal Gale,GRN,4,,,Jefferson County,HENDERSON
+Jefferson,KNOX,U.S. Senate,,Neal Gale,GRN,1,,,Jefferson County,KNOX
+Jefferson,MCCALMONT,U.S. Senate,,Neal Gale,GRN,,,,Jefferson County,MCCALMONT
+Jefferson,OLIVER,U.S. Senate,,Neal Gale,GRN,3,,,Jefferson County,OLIVER
+Jefferson,PERRY,U.S. Senate,,Neal Gale,GRN,3,,,Jefferson County,PERRY
+Jefferson,PINECREEK,U.S. Senate,,Neal Gale,GRN,,,,Jefferson County,PINECREEK
+Jefferson,POLK,U.S. Senate,,Neal Gale,GRN,,,,Jefferson County,POLK
+Jefferson,PORTER,U.S. Senate,,Neal Gale,GRN,3,,,Jefferson County,PORTER
+Jefferson,PUNXSUTAWNEY 1,U.S. Senate,,Neal Gale,GRN,4,,,Jefferson County,PUNXSUTAWNEY 1
+Jefferson,PUNXSUTAWNEY 2,U.S. Senate,,Neal Gale,GRN,3,,,Jefferson County,PUNXSUTAWNEY 2
+Jefferson,PUNXSUTAWNEY 3,U.S. Senate,,Neal Gale,GRN,7,,,Jefferson County,PUNXSUTAWNEY 3
+Jefferson,REYNOLDSVILLE,U.S. Senate,,Neal Gale,GRN,1,,,Jefferson County,REYNOLDSVILLE
+Jefferson,RINGGOLD,U.S. Senate,,Neal Gale,GRN,1,,,Jefferson County,RINGGOLD
+Jefferson,ROSE,U.S. Senate,,Neal Gale,GRN,6,,,Jefferson County,ROSE
+Jefferson,SNYDER,U.S. Senate,,Neal Gale,GRN,1,,,Jefferson County,SNYDER
+Jefferson,SUMMERVILLE,U.S. Senate,,Neal Gale,GRN,2,,,Jefferson County,SUMMERVILLE
+Jefferson,SYKESVILLE,U.S. Senate,,Neal Gale,GRN,,,,Jefferson County,SYKESVILLE
+Jefferson,TIMBLIN,U.S. Senate,,Neal Gale,GRN,4,,,Jefferson County,TIMBLIN
+Jefferson,UNION,U.S. Senate,,Neal Gale,GRN,2,,,Jefferson County,UNION
+Jefferson,WARSAW,U.S. Senate,,Neal Gale,GRN,2,,,Jefferson County,WARSAW
+Jefferson,WASHINGTON,U.S. Senate,,Neal Gale,GRN,5,,,Jefferson County,WASHINGTON
+Jefferson,WINSLOW,U.S. Senate,,Neal Gale,GRN,,,,Jefferson County,WINSLOW
+Jefferson,WORTHVILLE,U.S. Senate,,Neal Gale,GRN,3,,,Jefferson County,WORTHVILLE
+Jefferson,YOUNG,U.S. Senate,,Neal Gale,GRN,,,,Jefferson County,YOUNG
+Jefferson,BARNETT,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Jefferson County,BARNETT
+Jefferson,BEAVER,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Jefferson County,BEAVER
+Jefferson,BELL,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Jefferson County,BELL
+Jefferson,BIG RUN,U.S. Senate,,Dale R. Kerns Jr.,LIB,8,,,Jefferson County,BIG RUN
+Jefferson,BROCKWAY,U.S. Senate,,Dale R. Kerns Jr.,LIB,24,,,Jefferson County,BROCKWAY
+Jefferson,BROOKVILLE 1,U.S. Senate,,Dale R. Kerns Jr.,LIB,9,,,Jefferson County,BROOKVILLE 1
+Jefferson,BROOKVILLE 2,U.S. Senate,,Dale R. Kerns Jr.,LIB,,,,Jefferson County,BROOKVILLE 2
+Jefferson,CLOVER,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Jefferson County,CLOVER
+Jefferson,CORSICA,U.S. Senate,,Dale R. Kerns Jr.,LIB,10,,,Jefferson County,CORSICA
+Jefferson,ELDRED,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Jefferson County,ELDRED
+Jefferson,FALLS CREEK,U.S. Senate,,Dale R. Kerns Jr.,LIB,,,,Jefferson County,FALLS CREEK
+Jefferson,GASKILL,U.S. Senate,,Dale R. Kerns Jr.,LIB,,,,Jefferson County,GASKILL
+Jefferson,HEATH,U.S. Senate,,Dale R. Kerns Jr.,LIB,6,,,Jefferson County,HEATH
+Jefferson,HENDERSON,U.S. Senate,,Dale R. Kerns Jr.,LIB,6,,,Jefferson County,HENDERSON
+Jefferson,KNOX,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Jefferson County,KNOX
+Jefferson,MCCALMONT,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Jefferson County,MCCALMONT
+Jefferson,OLIVER,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Jefferson County,OLIVER
+Jefferson,PERRY,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Jefferson County,PERRY
+Jefferson,PINECREEK,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Jefferson County,PINECREEK
+Jefferson,POLK,U.S. Senate,,Dale R. Kerns Jr.,LIB,,,,Jefferson County,POLK
+Jefferson,PORTER,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Jefferson County,PORTER
+Jefferson,PUNXSUTAWNEY 1,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Jefferson County,PUNXSUTAWNEY 1
+Jefferson,PUNXSUTAWNEY 2,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Jefferson County,PUNXSUTAWNEY 2
+Jefferson,PUNXSUTAWNEY 3,U.S. Senate,,Dale R. Kerns Jr.,LIB,11,,,Jefferson County,PUNXSUTAWNEY 3
+Jefferson,REYNOLDSVILLE,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Jefferson County,REYNOLDSVILLE
+Jefferson,RINGGOLD,U.S. Senate,,Dale R. Kerns Jr.,LIB,11,,,Jefferson County,RINGGOLD
+Jefferson,ROSE,U.S. Senate,,Dale R. Kerns Jr.,LIB,14,,,Jefferson County,ROSE
+Jefferson,SNYDER,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Jefferson County,SNYDER
+Jefferson,SUMMERVILLE,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Jefferson County,SUMMERVILLE
+Jefferson,SYKESVILLE,U.S. Senate,,Dale R. Kerns Jr.,LIB,,,,Jefferson County,SYKESVILLE
+Jefferson,TIMBLIN,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Jefferson County,TIMBLIN
+Jefferson,UNION,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Jefferson County,UNION
+Jefferson,WARSAW,U.S. Senate,,Dale R. Kerns Jr.,LIB,14,,,Jefferson County,WARSAW
+Jefferson,WASHINGTON,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Jefferson County,WASHINGTON
+Jefferson,WINSLOW,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Jefferson County,WINSLOW
+Jefferson,WORTHVILLE,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Jefferson County,WORTHVILLE
+Jefferson,YOUNG,U.S. Senate,,Dale R. Kerns Jr.,LIB,,,,Jefferson County,YOUNG
+Jefferson,BARNETT,U.S. Senate,,Write-ins,,0,,,Jefferson County,BARNETT
+Jefferson,BEAVER,U.S. Senate,,Write-ins,,0,,,Jefferson County,BEAVER
+Jefferson,BELL,U.S. Senate,,Write-ins,,0,,,Jefferson County,BELL
+Jefferson,BIG RUN,U.S. Senate,,Write-ins,,1,,,Jefferson County,BIG RUN
+Jefferson,BROCKWAY,U.S. Senate,,Write-ins,,0,,,Jefferson County,BROCKWAY
+Jefferson,BROOKVILLE 1,U.S. Senate,,Write-ins,,0,,,Jefferson County,BROOKVILLE 1
+Jefferson,BROOKVILLE 2,U.S. Senate,,Write-ins,,0,,,Jefferson County,BROOKVILLE 2
+Jefferson,CLOVER,U.S. Senate,,Write-ins,,0,,,Jefferson County,CLOVER
+Jefferson,CORSICA,U.S. Senate,,Write-ins,,0,,,Jefferson County,CORSICA
+Jefferson,ELDRED,U.S. Senate,,Write-ins,,0,,,Jefferson County,ELDRED
+Jefferson,FALLS CREEK,U.S. Senate,,Write-ins,,0,,,Jefferson County,FALLS CREEK
+Jefferson,GASKILL,U.S. Senate,,Write-ins,,0,,,Jefferson County,GASKILL
+Jefferson,HEATH,U.S. Senate,,Write-ins,,0,,,Jefferson County,HEATH
+Jefferson,HENDERSON,U.S. Senate,,Write-ins,,1,,,Jefferson County,HENDERSON
+Jefferson,KNOX,U.S. Senate,,Write-ins,,0,,,Jefferson County,KNOX
+Jefferson,MCCALMONT,U.S. Senate,,Write-ins,,0,,,Jefferson County,MCCALMONT
+Jefferson,OLIVER,U.S. Senate,,Write-ins,,0,,,Jefferson County,OLIVER
+Jefferson,PERRY,U.S. Senate,,Write-ins,,0,,,Jefferson County,PERRY
+Jefferson,PINECREEK,U.S. Senate,,Write-ins,,0,,,Jefferson County,PINECREEK
+Jefferson,POLK,U.S. Senate,,Write-ins,,0,,,Jefferson County,POLK
+Jefferson,PORTER,U.S. Senate,,Write-ins,,0,,,Jefferson County,PORTER
+Jefferson,PUNXSUTAWNEY 1,U.S. Senate,,Write-ins,,0,,,Jefferson County,PUNXSUTAWNEY 1
+Jefferson,PUNXSUTAWNEY 2,U.S. Senate,,Write-ins,,0,,,Jefferson County,PUNXSUTAWNEY 2
+Jefferson,PUNXSUTAWNEY 3,U.S. Senate,,Write-ins,,1,,,Jefferson County,PUNXSUTAWNEY 3
+Jefferson,REYNOLDSVILLE,U.S. Senate,,Write-ins,,1,,,Jefferson County,REYNOLDSVILLE
+Jefferson,RINGGOLD,U.S. Senate,,Write-ins,,0,,,Jefferson County,RINGGOLD
+Jefferson,ROSE,U.S. Senate,,Write-ins,,0,,,Jefferson County,ROSE
+Jefferson,SNYDER,U.S. Senate,,Write-ins,,0,,,Jefferson County,SNYDER
+Jefferson,SUMMERVILLE,U.S. Senate,,Write-ins,,0,,,Jefferson County,SUMMERVILLE
+Jefferson,SYKESVILLE,U.S. Senate,,Write-ins,,0,,,Jefferson County,SYKESVILLE
+Jefferson,TIMBLIN,U.S. Senate,,Write-ins,,0,,,Jefferson County,TIMBLIN
+Jefferson,UNION,U.S. Senate,,Write-ins,,0,,,Jefferson County,UNION
+Jefferson,WARSAW,U.S. Senate,,Write-ins,,0,,,Jefferson County,WARSAW
+Jefferson,WASHINGTON,U.S. Senate,,Write-ins,,0,,,Jefferson County,WASHINGTON
+Jefferson,WINSLOW,U.S. Senate,,Write-ins,,0,,,Jefferson County,WINSLOW
+Jefferson,WORTHVILLE,U.S. Senate,,Write-ins,,0,,,Jefferson County,WORTHVILLE
+Jefferson,YOUNG,U.S. Senate,,Write-ins,,0,,,Jefferson County,YOUNG
+Jefferson,BARNETT,Governor,,Tom Wolf,DEM,35,,,Jefferson County,BARNETT
+Jefferson,BEAVER,Governor,,Tom Wolf,DEM,43,,,Jefferson County,BEAVER
+Jefferson,BELL,Governor,,Tom Wolf,DEM,174,,,Jefferson County,BELL
+Jefferson,BIG RUN,Governor,,Tom Wolf,DEM,55,,,Jefferson County,BIG RUN
+Jefferson,BROCKWAY,Governor,,Tom Wolf,DEM,300,,,Jefferson County,BROCKWAY
+Jefferson,BROOKVILLE 1,Governor,,Tom Wolf,DEM,283,,,Jefferson County,BROOKVILLE 1
+Jefferson,BROOKVILLE 2,Governor,,Tom Wolf,DEM,197,,,Jefferson County,BROOKVILLE 2
+Jefferson,CLOVER,Governor,,Tom Wolf,DEM,39,,,Jefferson County,CLOVER
+Jefferson,CORSICA,Governor,,Tom Wolf,DEM,29,,,Jefferson County,CORSICA
+Jefferson,ELDRED,Governor,,Tom Wolf,DEM,127,,,Jefferson County,ELDRED
+Jefferson,FALLS CREEK,Governor,,Tom Wolf,DEM,120,,,Jefferson County,FALLS CREEK
+Jefferson,GASKILL,Governor,,Tom Wolf,DEM,51,,,Jefferson County,GASKILL
+Jefferson,HEATH,Governor,,Tom Wolf,DEM,15,,,Jefferson County,HEATH
+Jefferson,HENDERSON,Governor,,Tom Wolf,DEM,92,,,Jefferson County,HENDERSON
+Jefferson,KNOX,Governor,,Tom Wolf,DEM,58,,,Jefferson County,KNOX
+Jefferson,MCCALMONT,Governor,,Tom Wolf,DEM,69,,,Jefferson County,MCCALMONT
+Jefferson,OLIVER,Governor,,Tom Wolf,DEM,78,,,Jefferson County,OLIVER
+Jefferson,PERRY,Governor,,Tom Wolf,DEM,87,,,Jefferson County,PERRY
+Jefferson,PINECREEK,Governor,,Tom Wolf,DEM,87,,,Jefferson County,PINECREEK
+Jefferson,POLK,Governor,,Tom Wolf,DEM,21,,,Jefferson County,POLK
+Jefferson,PORTER,Governor,,Tom Wolf,DEM,12,,,Jefferson County,PORTER
+Jefferson,PUNXSUTAWNEY 1,Governor,,Tom Wolf,DEM,292,,,Jefferson County,PUNXSUTAWNEY 1
+Jefferson,PUNXSUTAWNEY 2,Governor,,Tom Wolf,DEM,200,,,Jefferson County,PUNXSUTAWNEY 2
+Jefferson,PUNXSUTAWNEY 3,Governor,,Tom Wolf,DEM,176,,,Jefferson County,PUNXSUTAWNEY 3
+Jefferson,REYNOLDSVILLE,Governor,,Tom Wolf,DEM,257,,,Jefferson County,REYNOLDSVILLE
+Jefferson,RINGGOLD,Governor,,Tom Wolf,DEM,50,,,Jefferson County,RINGGOLD
+Jefferson,ROSE,Governor,,Tom Wolf,DEM,103,,,Jefferson County,ROSE
+Jefferson,SNYDER,Governor,,Tom Wolf,DEM,296,,,Jefferson County,SNYDER
+Jefferson,SUMMERVILLE,Governor,,Tom Wolf,DEM,36,,,Jefferson County,SUMMERVILLE
+Jefferson,SYKESVILLE,Governor,,Tom Wolf,DEM,110,,,Jefferson County,SYKESVILLE
+Jefferson,TIMBLIN,Governor,,Tom Wolf,DEM,1,,,Jefferson County,TIMBLIN
+Jefferson,UNION,Governor,,Tom Wolf,DEM,74,,,Jefferson County,UNION
+Jefferson,WARSAW,Governor,,Tom Wolf,DEM,79,,,Jefferson County,WARSAW
+Jefferson,WASHINGTON,Governor,,Tom Wolf,DEM,176,,,Jefferson County,WASHINGTON
+Jefferson,WINSLOW,Governor,,Tom Wolf,DEM,244,,,Jefferson County,WINSLOW
+Jefferson,WORTHVILLE,Governor,,Tom Wolf,DEM,7,,,Jefferson County,WORTHVILLE
+Jefferson,YOUNG,Governor,,Tom Wolf,DEM,204,,,Jefferson County,YOUNG
+Jefferson,BARNETT,Governor,,Scott R. Wagner,REP,92,,,Jefferson County,BARNETT
+Jefferson,BEAVER,Governor,,Scott R. Wagner,REP,171,,,Jefferson County,BEAVER
+Jefferson,BELL,Governor,,Scott R. Wagner,REP,576,,,Jefferson County,BELL
+Jefferson,BIG RUN,Governor,,Scott R. Wagner,REP,151,,,Jefferson County,BIG RUN
+Jefferson,BROCKWAY,Governor,,Scott R. Wagner,REP,360,,,Jefferson County,BROCKWAY
+Jefferson,BROOKVILLE 1,Governor,,Scott R. Wagner,REP,488,,,Jefferson County,BROOKVILLE 1
+Jefferson,BROOKVILLE 2,Governor,,Scott R. Wagner,REP,458,,,Jefferson County,BROOKVILLE 2
+Jefferson,CLOVER,Governor,,Scott R. Wagner,REP,153,,,Jefferson County,CLOVER
+Jefferson,CORSICA,Governor,,Scott R. Wagner,REP,94,,,Jefferson County,CORSICA
+Jefferson,ELDRED,Governor,,Scott R. Wagner,REP,435,,,Jefferson County,ELDRED
+Jefferson,FALLS CREEK,Governor,,Scott R. Wagner,REP,223,,,Jefferson County,FALLS CREEK
+Jefferson,GASKILL,Governor,,Scott R. Wagner,REP,179,,,Jefferson County,GASKILL
+Jefferson,HEATH,Governor,,Scott R. Wagner,REP,50,,,Jefferson County,HEATH
+Jefferson,HENDERSON,Governor,,Scott R. Wagner,REP,290,,,Jefferson County,HENDERSON
+Jefferson,KNOX,Governor,,Scott R. Wagner,REP,338,,,Jefferson County,KNOX
+Jefferson,MCCALMONT,Governor,,Scott R. Wagner,REP,209,,,Jefferson County,MCCALMONT
+Jefferson,OLIVER,Governor,,Scott R. Wagner,REP,411,,,Jefferson County,OLIVER
+Jefferson,PERRY,Governor,,Scott R. Wagner,REP,344,,,Jefferson County,PERRY
+Jefferson,PINECREEK,Governor,,Scott R. Wagner,REP,314,,,Jefferson County,PINECREEK
+Jefferson,POLK,Governor,,Scott R. Wagner,REP,92,,,Jefferson County,POLK
+Jefferson,PORTER,Governor,,Scott R. Wagner,REP,97,,,Jefferson County,PORTER
+Jefferson,PUNXSUTAWNEY 1,Governor,,Scott R. Wagner,REP,438,,,Jefferson County,PUNXSUTAWNEY 1
+Jefferson,PUNXSUTAWNEY 2,Governor,,Scott R. Wagner,REP,284,,,Jefferson County,PUNXSUTAWNEY 2
+Jefferson,PUNXSUTAWNEY 3,Governor,,Scott R. Wagner,REP,281,,,Jefferson County,PUNXSUTAWNEY 3
+Jefferson,REYNOLDSVILLE,Governor,,Scott R. Wagner,REP,510,,,Jefferson County,REYNOLDSVILLE
+Jefferson,RINGGOLD,Governor,,Scott R. Wagner,REP,201,,,Jefferson County,RINGGOLD
+Jefferson,ROSE,Governor,,Scott R. Wagner,REP,323,,,Jefferson County,ROSE
+Jefferson,SNYDER,Governor,,Scott R. Wagner,REP,560,,,Jefferson County,SNYDER
+Jefferson,SUMMERVILLE,Governor,,Scott R. Wagner,REP,132,,,Jefferson County,SUMMERVILLE
+Jefferson,SYKESVILLE,Governor,,Scott R. Wagner,REP,205,,,Jefferson County,SYKESVILLE
+Jefferson,TIMBLIN,Governor,,Scott R. Wagner,REP,42,,,Jefferson County,TIMBLIN
+Jefferson,UNION,Governor,,Scott R. Wagner,REP,293,,,Jefferson County,UNION
+Jefferson,WARSAW,Governor,,Scott R. Wagner,REP,435,,,Jefferson County,WARSAW
+Jefferson,WASHINGTON,Governor,,Scott R. Wagner,REP,537,,,Jefferson County,WASHINGTON
+Jefferson,WINSLOW,Governor,,Scott R. Wagner,REP,753,,,Jefferson County,WINSLOW
+Jefferson,WORTHVILLE,Governor,,Scott R. Wagner,REP,34,,,Jefferson County,WORTHVILLE
+Jefferson,YOUNG,Governor,,Scott R. Wagner,REP,483,,,Jefferson County,YOUNG
+Jefferson,BARNETT,Governor,,Paul Glover,GRN,2,,,Jefferson County,BARNETT
+Jefferson,BEAVER,Governor,,Paul Glover,GRN,2,,,Jefferson County,BEAVER
+Jefferson,BELL,Governor,,Paul Glover,GRN,3,,,Jefferson County,BELL
+Jefferson,BIG RUN,Governor,,Paul Glover,GRN,1,,,Jefferson County,BIG RUN
+Jefferson,BROCKWAY,Governor,,Paul Glover,GRN,4,,,Jefferson County,BROCKWAY
+Jefferson,BROOKVILLE 1,Governor,,Paul Glover,GRN,5,,,Jefferson County,BROOKVILLE 1
+Jefferson,BROOKVILLE 2,Governor,,Paul Glover,GRN,6,,,Jefferson County,BROOKVILLE 2
+Jefferson,CLOVER,Governor,,Paul Glover,GRN,,,,Jefferson County,CLOVER
+Jefferson,CORSICA,Governor,,Paul Glover,GRN,,,,Jefferson County,CORSICA
+Jefferson,ELDRED,Governor,,Paul Glover,GRN,2,,,Jefferson County,ELDRED
+Jefferson,FALLS CREEK,Governor,,Paul Glover,GRN,,,,Jefferson County,FALLS CREEK
+Jefferson,GASKILL,Governor,,Paul Glover,GRN,3,,,Jefferson County,GASKILL
+Jefferson,HEATH,Governor,,Paul Glover,GRN,3,,,Jefferson County,HEATH
+Jefferson,HENDERSON,Governor,,Paul Glover,GRN,4,,,Jefferson County,HENDERSON
+Jefferson,KNOX,Governor,,Paul Glover,GRN,2,,,Jefferson County,KNOX
+Jefferson,MCCALMONT,Governor,,Paul Glover,GRN,,,,Jefferson County,MCCALMONT
+Jefferson,OLIVER,Governor,,Paul Glover,GRN,,,,Jefferson County,OLIVER
+Jefferson,PERRY,Governor,,Paul Glover,GRN,2,,,Jefferson County,PERRY
+Jefferson,PINECREEK,Governor,,Paul Glover,GRN,1,,,Jefferson County,PINECREEK
+Jefferson,POLK,Governor,,Paul Glover,GRN,,,,Jefferson County,POLK
+Jefferson,PORTER,Governor,,Paul Glover,GRN,,,,Jefferson County,PORTER
+Jefferson,PUNXSUTAWNEY 1,Governor,,Paul Glover,GRN,5,,,Jefferson County,PUNXSUTAWNEY 1
+Jefferson,PUNXSUTAWNEY 2,Governor,,Paul Glover,GRN,5,,,Jefferson County,PUNXSUTAWNEY 2
+Jefferson,PUNXSUTAWNEY 3,Governor,,Paul Glover,GRN,4,,,Jefferson County,PUNXSUTAWNEY 3
+Jefferson,REYNOLDSVILLE,Governor,,Paul Glover,GRN,6,,,Jefferson County,REYNOLDSVILLE
+Jefferson,RINGGOLD,Governor,,Paul Glover,GRN,,,,Jefferson County,RINGGOLD
+Jefferson,ROSE,Governor,,Paul Glover,GRN,3,,,Jefferson County,ROSE
+Jefferson,SNYDER,Governor,,Paul Glover,GRN,7,,,Jefferson County,SNYDER
+Jefferson,SUMMERVILLE,Governor,,Paul Glover,GRN,2,,,Jefferson County,SUMMERVILLE
+Jefferson,SYKESVILLE,Governor,,Paul Glover,GRN,1,,,Jefferson County,SYKESVILLE
+Jefferson,TIMBLIN,Governor,,Paul Glover,GRN,,,,Jefferson County,TIMBLIN
+Jefferson,UNION,Governor,,Paul Glover,GRN,4,,,Jefferson County,UNION
+Jefferson,WARSAW,Governor,,Paul Glover,GRN,6,,,Jefferson County,WARSAW
+Jefferson,WASHINGTON,Governor,,Paul Glover,GRN,3,,,Jefferson County,WASHINGTON
+Jefferson,WINSLOW,Governor,,Paul Glover,GRN,1,,,Jefferson County,WINSLOW
+Jefferson,WORTHVILLE,Governor,,Paul Glover,GRN,,,,Jefferson County,WORTHVILLE
+Jefferson,YOUNG,Governor,,Paul Glover,GRN,1,,,Jefferson County,YOUNG
+Jefferson,BARNETT,Governor,,Ken Krawchuk,LIB,,,,Jefferson County,BARNETT
+Jefferson,BEAVER,Governor,,Ken Krawchuk,LIB,1,,,Jefferson County,BEAVER
+Jefferson,BELL,Governor,,Ken Krawchuk,LIB,1,,,Jefferson County,BELL
+Jefferson,BIG RUN,Governor,,Ken Krawchuk,LIB,2,,,Jefferson County,BIG RUN
+Jefferson,BROCKWAY,Governor,,Ken Krawchuk,LIB,14,,,Jefferson County,BROCKWAY
+Jefferson,BROOKVILLE 1,Governor,,Ken Krawchuk,LIB,20,,,Jefferson County,BROOKVILLE 1
+Jefferson,BROOKVILLE 2,Governor,,Ken Krawchuk,LIB,11,,,Jefferson County,BROOKVILLE 2
+Jefferson,CLOVER,Governor,,Ken Krawchuk,LIB,4,,,Jefferson County,CLOVER
+Jefferson,CORSICA,Governor,,Ken Krawchuk,LIB,3,,,Jefferson County,CORSICA
+Jefferson,ELDRED,Governor,,Ken Krawchuk,LIB,10,,,Jefferson County,ELDRED
+Jefferson,FALLS CREEK,Governor,,Ken Krawchuk,LIB,3,,,Jefferson County,FALLS CREEK
+Jefferson,GASKILL,Governor,,Ken Krawchuk,LIB,2,,,Jefferson County,GASKILL
+Jefferson,HEATH,Governor,,Ken Krawchuk,LIB,,,,Jefferson County,HEATH
+Jefferson,HENDERSON,Governor,,Ken Krawchuk,LIB,2,,,Jefferson County,HENDERSON
+Jefferson,KNOX,Governor,,Ken Krawchuk,LIB,9,,,Jefferson County,KNOX
+Jefferson,MCCALMONT,Governor,,Ken Krawchuk,LIB,4,,,Jefferson County,MCCALMONT
+Jefferson,OLIVER,Governor,,Ken Krawchuk,LIB,1,,,Jefferson County,OLIVER
+Jefferson,PERRY,Governor,,Ken Krawchuk,LIB,6,,,Jefferson County,PERRY
+Jefferson,PINECREEK,Governor,,Ken Krawchuk,LIB,6,,,Jefferson County,PINECREEK
+Jefferson,POLK,Governor,,Ken Krawchuk,LIB,2,,,Jefferson County,POLK
+Jefferson,PORTER,Governor,,Ken Krawchuk,LIB,1,,,Jefferson County,PORTER
+Jefferson,PUNXSUTAWNEY 1,Governor,,Ken Krawchuk,LIB,3,,,Jefferson County,PUNXSUTAWNEY 1
+Jefferson,PUNXSUTAWNEY 2,Governor,,Ken Krawchuk,LIB,7,,,Jefferson County,PUNXSUTAWNEY 2
+Jefferson,PUNXSUTAWNEY 3,Governor,,Ken Krawchuk,LIB,5,,,Jefferson County,PUNXSUTAWNEY 3
+Jefferson,REYNOLDSVILLE,Governor,,Ken Krawchuk,LIB,11,,,Jefferson County,REYNOLDSVILLE
+Jefferson,RINGGOLD,Governor,,Ken Krawchuk,LIB,1,,,Jefferson County,RINGGOLD
+Jefferson,ROSE,Governor,,Ken Krawchuk,LIB,10,,,Jefferson County,ROSE
+Jefferson,SNYDER,Governor,,Ken Krawchuk,LIB,6,,,Jefferson County,SNYDER
+Jefferson,SUMMERVILLE,Governor,,Ken Krawchuk,LIB,1,,,Jefferson County,SUMMERVILLE
+Jefferson,SYKESVILLE,Governor,,Ken Krawchuk,LIB,,,,Jefferson County,SYKESVILLE
+Jefferson,TIMBLIN,Governor,,Ken Krawchuk,LIB,,,,Jefferson County,TIMBLIN
+Jefferson,UNION,Governor,,Ken Krawchuk,LIB,3,,,Jefferson County,UNION
+Jefferson,WARSAW,Governor,,Ken Krawchuk,LIB,3,,,Jefferson County,WARSAW
+Jefferson,WASHINGTON,Governor,,Ken Krawchuk,LIB,12,,,Jefferson County,WASHINGTON
+Jefferson,WINSLOW,Governor,,Ken Krawchuk,LIB,4,,,Jefferson County,WINSLOW
+Jefferson,WORTHVILLE,Governor,,Ken Krawchuk,LIB,2,,,Jefferson County,WORTHVILLE
+Jefferson,YOUNG,Governor,,Ken Krawchuk,LIB,3,,,Jefferson County,YOUNG
+Jefferson,BARNETT,Governor,,Write-ins,,0,,,Jefferson County,BARNETT
+Jefferson,BEAVER,Governor,,Write-ins,,0,,,Jefferson County,BEAVER
+Jefferson,BELL,Governor,,Write-ins,,0,,,Jefferson County,BELL
+Jefferson,BIG RUN,Governor,,Write-ins,,0,,,Jefferson County,BIG RUN
+Jefferson,BROCKWAY,Governor,,Write-ins,,2,,,Jefferson County,BROCKWAY
+Jefferson,BROOKVILLE 1,Governor,,Write-ins,,0,,,Jefferson County,BROOKVILLE 1
+Jefferson,BROOKVILLE 2,Governor,,Write-ins,,0,,,Jefferson County,BROOKVILLE 2
+Jefferson,CLOVER,Governor,,Write-ins,,1,,,Jefferson County,CLOVER
+Jefferson,CORSICA,Governor,,Write-ins,,0,,,Jefferson County,CORSICA
+Jefferson,ELDRED,Governor,,Write-ins,,0,,,Jefferson County,ELDRED
+Jefferson,FALLS CREEK,Governor,,Write-ins,,0,,,Jefferson County,FALLS CREEK
+Jefferson,GASKILL,Governor,,Write-ins,,0,,,Jefferson County,GASKILL
+Jefferson,HEATH,Governor,,Write-ins,,0,,,Jefferson County,HEATH
+Jefferson,HENDERSON,Governor,,Write-ins,,1,,,Jefferson County,HENDERSON
+Jefferson,KNOX,Governor,,Write-ins,,0,,,Jefferson County,KNOX
+Jefferson,MCCALMONT,Governor,,Write-ins,,0,,,Jefferson County,MCCALMONT
+Jefferson,OLIVER,Governor,,Write-ins,,0,,,Jefferson County,OLIVER
+Jefferson,PERRY,Governor,,Write-ins,,0,,,Jefferson County,PERRY
+Jefferson,PINECREEK,Governor,,Write-ins,,0,,,Jefferson County,PINECREEK
+Jefferson,POLK,Governor,,Write-ins,,0,,,Jefferson County,POLK
+Jefferson,PORTER,Governor,,Write-ins,,0,,,Jefferson County,PORTER
+Jefferson,PUNXSUTAWNEY 1,Governor,,Write-ins,,0,,,Jefferson County,PUNXSUTAWNEY 1
+Jefferson,PUNXSUTAWNEY 2,Governor,,Write-ins,,0,,,Jefferson County,PUNXSUTAWNEY 2
+Jefferson,PUNXSUTAWNEY 3,Governor,,Write-ins,,1,,,Jefferson County,PUNXSUTAWNEY 3
+Jefferson,REYNOLDSVILLE,Governor,,Write-ins,,0,,,Jefferson County,REYNOLDSVILLE
+Jefferson,RINGGOLD,Governor,,Write-ins,,0,,,Jefferson County,RINGGOLD
+Jefferson,ROSE,Governor,,Write-ins,,0,,,Jefferson County,ROSE
+Jefferson,SNYDER,Governor,,Write-ins,,0,,,Jefferson County,SNYDER
+Jefferson,SUMMERVILLE,Governor,,Write-ins,,1,,,Jefferson County,SUMMERVILLE
+Jefferson,SYKESVILLE,Governor,,Write-ins,,0,,,Jefferson County,SYKESVILLE
+Jefferson,TIMBLIN,Governor,,Write-ins,,0,,,Jefferson County,TIMBLIN
+Jefferson,UNION,Governor,,Write-ins,,0,,,Jefferson County,UNION
+Jefferson,WARSAW,Governor,,Write-ins,,1,,,Jefferson County,WARSAW
+Jefferson,WASHINGTON,Governor,,Write-ins,,2,,,Jefferson County,WASHINGTON
+Jefferson,WINSLOW,Governor,,Write-ins,,0,,,Jefferson County,WINSLOW
+Jefferson,WORTHVILLE,Governor,,Write-ins,,0,,,Jefferson County,WORTHVILLE
+Jefferson,YOUNG,Governor,,Write-ins,,0,,,Jefferson County,YOUNG
+Jefferson,BARNETT,U.S. House,15.0,Susan Boser,DEM,29,,,Jefferson County,BARNETT
+Jefferson,BEAVER,U.S. House,15.0,Susan Boser,DEM,33,,,Jefferson County,BEAVER
+Jefferson,BELL,U.S. House,15.0,Susan Boser,DEM,128,,,Jefferson County,BELL
+Jefferson,BIG RUN,U.S. House,15.0,Susan Boser,DEM,43,,,Jefferson County,BIG RUN
+Jefferson,BROCKWAY,U.S. House,15.0,Susan Boser,DEM,224,,,Jefferson County,BROCKWAY
+Jefferson,BROOKVILLE 1,U.S. House,15.0,Susan Boser,DEM,242,,,Jefferson County,BROOKVILLE 1
+Jefferson,BROOKVILLE 2,U.S. House,15.0,Susan Boser,DEM,164,,,Jefferson County,BROOKVILLE 2
+Jefferson,CLOVER,U.S. House,15.0,Susan Boser,DEM,31,,,Jefferson County,CLOVER
+Jefferson,CORSICA,U.S. House,15.0,Susan Boser,DEM,26,,,Jefferson County,CORSICA
+Jefferson,ELDRED,U.S. House,15.0,Susan Boser,DEM,93,,,Jefferson County,ELDRED
+Jefferson,FALLS CREEK,U.S. House,15.0,Susan Boser,DEM,95,,,Jefferson County,FALLS CREEK
+Jefferson,GASKILL,U.S. House,15.0,Susan Boser,DEM,34,,,Jefferson County,GASKILL
+Jefferson,HEATH,U.S. House,15.0,Susan Boser,DEM,16,,,Jefferson County,HEATH
+Jefferson,HENDERSON,U.S. House,15.0,Susan Boser,DEM,75,,,Jefferson County,HENDERSON
+Jefferson,KNOX,U.S. House,15.0,Susan Boser,DEM,57,,,Jefferson County,KNOX
+Jefferson,MCCALMONT,U.S. House,15.0,Susan Boser,DEM,53,,,Jefferson County,MCCALMONT
+Jefferson,OLIVER,U.S. House,15.0,Susan Boser,DEM,60,,,Jefferson County,OLIVER
+Jefferson,PERRY,U.S. House,15.0,Susan Boser,DEM,63,,,Jefferson County,PERRY
+Jefferson,PINECREEK,U.S. House,15.0,Susan Boser,DEM,72,,,Jefferson County,PINECREEK
+Jefferson,POLK,U.S. House,15.0,Susan Boser,DEM,22,,,Jefferson County,POLK
+Jefferson,PORTER,U.S. House,15.0,Susan Boser,DEM,10,,,Jefferson County,PORTER
+Jefferson,PUNXSUTAWNEY 1,U.S. House,15.0,Susan Boser,DEM,230,,,Jefferson County,PUNXSUTAWNEY 1
+Jefferson,PUNXSUTAWNEY 2,U.S. House,15.0,Susan Boser,DEM,161,,,Jefferson County,PUNXSUTAWNEY 2
+Jefferson,PUNXSUTAWNEY 3,U.S. House,15.0,Susan Boser,DEM,133,,,Jefferson County,PUNXSUTAWNEY 3
+Jefferson,REYNOLDSVILLE,U.S. House,15.0,Susan Boser,DEM,206,,,Jefferson County,REYNOLDSVILLE
+Jefferson,RINGGOLD,U.S. House,15.0,Susan Boser,DEM,31,,,Jefferson County,RINGGOLD
+Jefferson,ROSE,U.S. House,15.0,Susan Boser,DEM,65,,,Jefferson County,ROSE
+Jefferson,SNYDER,U.S. House,15.0,Susan Boser,DEM,235,,,Jefferson County,SNYDER
+Jefferson,SUMMERVILLE,U.S. House,15.0,Susan Boser,DEM,26,,,Jefferson County,SUMMERVILLE
+Jefferson,SYKESVILLE,U.S. House,15.0,Susan Boser,DEM,87,,,Jefferson County,SYKESVILLE
+Jefferson,TIMBLIN,U.S. House,15.0,Susan Boser,DEM,,,,Jefferson County,TIMBLIN
+Jefferson,UNION,U.S. House,15.0,Susan Boser,DEM,56,,,Jefferson County,UNION
+Jefferson,WARSAW,U.S. House,15.0,Susan Boser,DEM,60,,,Jefferson County,WARSAW
+Jefferson,WASHINGTON,U.S. House,15.0,Susan Boser,DEM,156,,,Jefferson County,WASHINGTON
+Jefferson,WINSLOW,U.S. House,15.0,Susan Boser,DEM,188,,,Jefferson County,WINSLOW
+Jefferson,WORTHVILLE,U.S. House,15.0,Susan Boser,DEM,9,,,Jefferson County,WORTHVILLE
+Jefferson,YOUNG,U.S. House,15.0,Susan Boser,DEM,145,,,Jefferson County,YOUNG
+Jefferson,BARNETT,U.S. House,15.0,Glenn Thompson,REP,104,,,Jefferson County,BARNETT
+Jefferson,BEAVER,U.S. House,15.0,Glenn Thompson,REP,184,,,Jefferson County,BEAVER
+Jefferson,BELL,U.S. House,15.0,Glenn Thompson,REP,626,,,Jefferson County,BELL
+Jefferson,BIG RUN,U.S. House,15.0,Glenn Thompson,REP,166,,,Jefferson County,BIG RUN
+Jefferson,BROCKWAY,U.S. House,15.0,Glenn Thompson,REP,454,,,Jefferson County,BROCKWAY
+Jefferson,BROOKVILLE 1,U.S. House,15.0,Glenn Thompson,REP,556,,,Jefferson County,BROOKVILLE 1
+Jefferson,BROOKVILLE 2,U.S. House,15.0,Glenn Thompson,REP,508,,,Jefferson County,BROOKVILLE 2
+Jefferson,CLOVER,U.S. House,15.0,Glenn Thompson,REP,167,,,Jefferson County,CLOVER
+Jefferson,CORSICA,U.S. House,15.0,Glenn Thompson,REP,99,,,Jefferson County,CORSICA
+Jefferson,ELDRED,U.S. House,15.0,Glenn Thompson,REP,478,,,Jefferson County,ELDRED
+Jefferson,FALLS CREEK,U.S. House,15.0,Glenn Thompson,REP,252,,,Jefferson County,FALLS CREEK
+Jefferson,GASKILL,U.S. House,15.0,Glenn Thompson,REP,201,,,Jefferson County,GASKILL
+Jefferson,HEATH,U.S. House,15.0,Glenn Thompson,REP,53,,,Jefferson County,HEATH
+Jefferson,HENDERSON,U.S. House,15.0,Glenn Thompson,REP,312,,,Jefferson County,HENDERSON
+Jefferson,KNOX,U.S. House,15.0,Glenn Thompson,REP,350,,,Jefferson County,KNOX
+Jefferson,MCCALMONT,U.S. House,15.0,Glenn Thompson,REP,228,,,Jefferson County,MCCALMONT
+Jefferson,OLIVER,U.S. House,15.0,Glenn Thompson,REP,427,,,Jefferson County,OLIVER
+Jefferson,PERRY,U.S. House,15.0,Glenn Thompson,REP,375,,,Jefferson County,PERRY
+Jefferson,PINECREEK,U.S. House,15.0,Glenn Thompson,REP,335,,,Jefferson County,PINECREEK
+Jefferson,POLK,U.S. House,15.0,Glenn Thompson,REP,91,,,Jefferson County,POLK
+Jefferson,PORTER,U.S. House,15.0,Glenn Thompson,REP,101,,,Jefferson County,PORTER
+Jefferson,PUNXSUTAWNEY 1,U.S. House,15.0,Glenn Thompson,REP,511,,,Jefferson County,PUNXSUTAWNEY 1
+Jefferson,PUNXSUTAWNEY 2,U.S. House,15.0,Glenn Thompson,REP,334,,,Jefferson County,PUNXSUTAWNEY 2
+Jefferson,PUNXSUTAWNEY 3,U.S. House,15.0,Glenn Thompson,REP,331,,,Jefferson County,PUNXSUTAWNEY 3
+Jefferson,REYNOLDSVILLE,U.S. House,15.0,Glenn Thompson,REP,574,,,Jefferson County,REYNOLDSVILLE
+Jefferson,RINGGOLD,U.S. House,15.0,Glenn Thompson,REP,221,,,Jefferson County,RINGGOLD
+Jefferson,ROSE,U.S. House,15.0,Glenn Thompson,REP,372,,,Jefferson County,ROSE
+Jefferson,SNYDER,U.S. House,15.0,Glenn Thompson,REP,632,,,Jefferson County,SNYDER
+Jefferson,SUMMERVILLE,U.S. House,15.0,Glenn Thompson,REP,146,,,Jefferson County,SUMMERVILLE
+Jefferson,SYKESVILLE,U.S. House,15.0,Glenn Thompson,REP,230,,,Jefferson County,SYKESVILLE
+Jefferson,TIMBLIN,U.S. House,15.0,Glenn Thompson,REP,43,,,Jefferson County,TIMBLIN
+Jefferson,UNION,U.S. House,15.0,Glenn Thompson,REP,320,,,Jefferson County,UNION
+Jefferson,WARSAW,U.S. House,15.0,Glenn Thompson,REP,462,,,Jefferson County,WARSAW
+Jefferson,WASHINGTON,U.S. House,15.0,Glenn Thompson,REP,576,,,Jefferson County,WASHINGTON
+Jefferson,WINSLOW,U.S. House,15.0,Glenn Thompson,REP,814,,,Jefferson County,WINSLOW
+Jefferson,WORTHVILLE,U.S. House,15.0,Glenn Thompson,REP,36,,,Jefferson County,WORTHVILLE
+Jefferson,YOUNG,U.S. House,15.0,Glenn Thompson,REP,545,,,Jefferson County,YOUNG
+Jefferson,BARNETT,U.S. House,15.0,Write-ins,,0,,,Jefferson County,BARNETT
+Jefferson,BEAVER,U.S. House,15.0,Write-ins,,0,,,Jefferson County,BEAVER
+Jefferson,BELL,U.S. House,15.0,Write-ins,,0,,,Jefferson County,BELL
+Jefferson,BIG RUN,U.S. House,15.0,Write-ins,,0,,,Jefferson County,BIG RUN
+Jefferson,BROCKWAY,U.S. House,15.0,Write-ins,,0,,,Jefferson County,BROCKWAY
+Jefferson,BROOKVILLE 1,U.S. House,15.0,Write-ins,,1,,,Jefferson County,BROOKVILLE 1
+Jefferson,BROOKVILLE 2,U.S. House,15.0,Write-ins,,0,,,Jefferson County,BROOKVILLE 2
+Jefferson,CLOVER,U.S. House,15.0,Write-ins,,0,,,Jefferson County,CLOVER
+Jefferson,CORSICA,U.S. House,15.0,Write-ins,,0,,,Jefferson County,CORSICA
+Jefferson,ELDRED,U.S. House,15.0,Write-ins,,0,,,Jefferson County,ELDRED
+Jefferson,FALLS CREEK,U.S. House,15.0,Write-ins,,0,,,Jefferson County,FALLS CREEK
+Jefferson,GASKILL,U.S. House,15.0,Write-ins,,0,,,Jefferson County,GASKILL
+Jefferson,HEATH,U.S. House,15.0,Write-ins,,0,,,Jefferson County,HEATH
+Jefferson,HENDERSON,U.S. House,15.0,Write-ins,,1,,,Jefferson County,HENDERSON
+Jefferson,KNOX,U.S. House,15.0,Write-ins,,0,,,Jefferson County,KNOX
+Jefferson,MCCALMONT,U.S. House,15.0,Write-ins,,1,,,Jefferson County,MCCALMONT
+Jefferson,OLIVER,U.S. House,15.0,Write-ins,,1,,,Jefferson County,OLIVER
+Jefferson,PERRY,U.S. House,15.0,Write-ins,,0,,,Jefferson County,PERRY
+Jefferson,PINECREEK,U.S. House,15.0,Write-ins,,0,,,Jefferson County,PINECREEK
+Jefferson,POLK,U.S. House,15.0,Write-ins,,0,,,Jefferson County,POLK
+Jefferson,PORTER,U.S. House,15.0,Write-ins,,0,,,Jefferson County,PORTER
+Jefferson,PUNXSUTAWNEY 1,U.S. House,15.0,Write-ins,,1,,,Jefferson County,PUNXSUTAWNEY 1
+Jefferson,PUNXSUTAWNEY 2,U.S. House,15.0,Write-ins,,0,,,Jefferson County,PUNXSUTAWNEY 2
+Jefferson,PUNXSUTAWNEY 3,U.S. House,15.0,Write-ins,,1,,,Jefferson County,PUNXSUTAWNEY 3
+Jefferson,REYNOLDSVILLE,U.S. House,15.0,Write-ins,,0,,,Jefferson County,REYNOLDSVILLE
+Jefferson,RINGGOLD,U.S. House,15.0,Write-ins,,0,,,Jefferson County,RINGGOLD
+Jefferson,ROSE,U.S. House,15.0,Write-ins,,0,,,Jefferson County,ROSE
+Jefferson,SNYDER,U.S. House,15.0,Write-ins,,0,,,Jefferson County,SNYDER
+Jefferson,SUMMERVILLE,U.S. House,15.0,Write-ins,,0,,,Jefferson County,SUMMERVILLE
+Jefferson,SYKESVILLE,U.S. House,15.0,Write-ins,,1,,,Jefferson County,SYKESVILLE
+Jefferson,TIMBLIN,U.S. House,15.0,Write-ins,,0,,,Jefferson County,TIMBLIN
+Jefferson,UNION,U.S. House,15.0,Write-ins,,0,,,Jefferson County,UNION
+Jefferson,WARSAW,U.S. House,15.0,Write-ins,,0,,,Jefferson County,WARSAW
+Jefferson,WASHINGTON,U.S. House,15.0,Write-ins,,2,,,Jefferson County,WASHINGTON
+Jefferson,WINSLOW,U.S. House,15.0,Write-ins,,0,,,Jefferson County,WINSLOW
+Jefferson,WORTHVILLE,U.S. House,15.0,Write-ins,,0,,,Jefferson County,WORTHVILLE
+Jefferson,YOUNG,U.S. House,15.0,Write-ins,,1,,,Jefferson County,YOUNG
+Jefferson,BARNETT,State House,66.0,Kerith Strano Taylor,DEM,30,,,Jefferson County,BARNETT
+Jefferson,BEAVER,State House,66.0,Kerith Strano Taylor,DEM,28,,,Jefferson County,BEAVER
+Jefferson,BELL,State House,66.0,Kerith Strano Taylor,DEM,137,,,Jefferson County,BELL
+Jefferson,BIG RUN,State House,66.0,Kerith Strano Taylor,DEM,36,,,Jefferson County,BIG RUN
+Jefferson,BROCKWAY,State House,66.0,Kerith Strano Taylor,DEM,240,,,Jefferson County,BROCKWAY
+Jefferson,BROOKVILLE 1,State House,66.0,Kerith Strano Taylor,DEM,233,,,Jefferson County,BROOKVILLE 1
+Jefferson,BROOKVILLE 2,State House,66.0,Kerith Strano Taylor,DEM,159,,,Jefferson County,BROOKVILLE 2
+Jefferson,CLOVER,State House,66.0,Kerith Strano Taylor,DEM,23,,,Jefferson County,CLOVER
+Jefferson,CORSICA,State House,66.0,Kerith Strano Taylor,DEM,25,,,Jefferson County,CORSICA
+Jefferson,ELDRED,State House,66.0,Kerith Strano Taylor,DEM,83,,,Jefferson County,ELDRED
+Jefferson,FALLS CREEK,State House,66.0,Kerith Strano Taylor,DEM,86,,,Jefferson County,FALLS CREEK
+Jefferson,GASKILL,State House,66.0,Kerith Strano Taylor,DEM,37,,,Jefferson County,GASKILL
+Jefferson,HEATH,State House,66.0,Kerith Strano Taylor,DEM,12,,,Jefferson County,HEATH
+Jefferson,HENDERSON,State House,66.0,Kerith Strano Taylor,DEM,71,,,Jefferson County,HENDERSON
+Jefferson,KNOX,State House,66.0,Kerith Strano Taylor,DEM,46,,,Jefferson County,KNOX
+Jefferson,MCCALMONT,State House,66.0,Kerith Strano Taylor,DEM,45,,,Jefferson County,MCCALMONT
+Jefferson,OLIVER,State House,66.0,Kerith Strano Taylor,DEM,53,,,Jefferson County,OLIVER
+Jefferson,PERRY,State House,66.0,Kerith Strano Taylor,DEM,56,,,Jefferson County,PERRY
+Jefferson,PINECREEK,State House,66.0,Kerith Strano Taylor,DEM,62,,,Jefferson County,PINECREEK
+Jefferson,POLK,State House,66.0,Kerith Strano Taylor,DEM,17,,,Jefferson County,POLK
+Jefferson,PORTER,State House,66.0,Kerith Strano Taylor,DEM,5,,,Jefferson County,PORTER
+Jefferson,PUNXSUTAWNEY 1,State House,66.0,Kerith Strano Taylor,DEM,222,,,Jefferson County,PUNXSUTAWNEY 1
+Jefferson,PUNXSUTAWNEY 2,State House,66.0,Kerith Strano Taylor,DEM,138,,,Jefferson County,PUNXSUTAWNEY 2
+Jefferson,PUNXSUTAWNEY 3,State House,66.0,Kerith Strano Taylor,DEM,116,,,Jefferson County,PUNXSUTAWNEY 3
+Jefferson,REYNOLDSVILLE,State House,66.0,Kerith Strano Taylor,DEM,197,,,Jefferson County,REYNOLDSVILLE
+Jefferson,RINGGOLD,State House,66.0,Kerith Strano Taylor,DEM,28,,,Jefferson County,RINGGOLD
+Jefferson,ROSE,State House,66.0,Kerith Strano Taylor,DEM,67,,,Jefferson County,ROSE
+Jefferson,SNYDER,State House,66.0,Kerith Strano Taylor,DEM,236,,,Jefferson County,SNYDER
+Jefferson,SUMMERVILLE,State House,66.0,Kerith Strano Taylor,DEM,21,,,Jefferson County,SUMMERVILLE
+Jefferson,SYKESVILLE,State House,66.0,Kerith Strano Taylor,DEM,86,,,Jefferson County,SYKESVILLE
+Jefferson,TIMBLIN,State House,66.0,Kerith Strano Taylor,DEM,1,,,Jefferson County,TIMBLIN
+Jefferson,UNION,State House,66.0,Kerith Strano Taylor,DEM,47,,,Jefferson County,UNION
+Jefferson,WARSAW,State House,66.0,Kerith Strano Taylor,DEM,56,,,Jefferson County,WARSAW
+Jefferson,WASHINGTON,State House,66.0,Kerith Strano Taylor,DEM,148,,,Jefferson County,WASHINGTON
+Jefferson,WINSLOW,State House,66.0,Kerith Strano Taylor,DEM,186,,,Jefferson County,WINSLOW
+Jefferson,WORTHVILLE,State House,66.0,Kerith Strano Taylor,DEM,5,,,Jefferson County,WORTHVILLE
+Jefferson,YOUNG,State House,66.0,Kerith Strano Taylor,DEM,150,,,Jefferson County,YOUNG
+Jefferson,BARNETT,State House,66.0,Cris Dush,REP,102,,,Jefferson County,BARNETT
+Jefferson,BEAVER,State House,66.0,Cris Dush,REP,189,,,Jefferson County,BEAVER
+Jefferson,BELL,State House,66.0,Cris Dush,REP,618,,,Jefferson County,BELL
+Jefferson,BIG RUN,State House,66.0,Cris Dush,REP,173,,,Jefferson County,BIG RUN
+Jefferson,BROCKWAY,State House,66.0,Cris Dush,REP,436,,,Jefferson County,BROCKWAY
+Jefferson,BROOKVILLE 1,State House,66.0,Cris Dush,REP,566,,,Jefferson County,BROOKVILLE 1
+Jefferson,BROOKVILLE 2,State House,66.0,Cris Dush,REP,515,,,Jefferson County,BROOKVILLE 2
+Jefferson,CLOVER,State House,66.0,Cris Dush,REP,170,,,Jefferson County,CLOVER
+Jefferson,CORSICA,State House,66.0,Cris Dush,REP,100,,,Jefferson County,CORSICA
+Jefferson,ELDRED,State House,66.0,Cris Dush,REP,490,,,Jefferson County,ELDRED
+Jefferson,FALLS CREEK,State House,66.0,Cris Dush,REP,260,,,Jefferson County,FALLS CREEK
+Jefferson,GASKILL,State House,66.0,Cris Dush,REP,198,,,Jefferson County,GASKILL
+Jefferson,HEATH,State House,66.0,Cris Dush,REP,57,,,Jefferson County,HEATH
+Jefferson,HENDERSON,State House,66.0,Cris Dush,REP,316,,,Jefferson County,HENDERSON
+Jefferson,KNOX,State House,66.0,Cris Dush,REP,361,,,Jefferson County,KNOX
+Jefferson,MCCALMONT,State House,66.0,Cris Dush,REP,237,,,Jefferson County,MCCALMONT
+Jefferson,OLIVER,State House,66.0,Cris Dush,REP,436,,,Jefferson County,OLIVER
+Jefferson,PERRY,State House,66.0,Cris Dush,REP,383,,,Jefferson County,PERRY
+Jefferson,PINECREEK,State House,66.0,Cris Dush,REP,345,,,Jefferson County,PINECREEK
+Jefferson,POLK,State House,66.0,Cris Dush,REP,96,,,Jefferson County,POLK
+Jefferson,PORTER,State House,66.0,Cris Dush,REP,104,,,Jefferson County,PORTER
+Jefferson,PUNXSUTAWNEY 1,State House,66.0,Cris Dush,REP,514,,,Jefferson County,PUNXSUTAWNEY 1
+Jefferson,PUNXSUTAWNEY 2,State House,66.0,Cris Dush,REP,355,,,Jefferson County,PUNXSUTAWNEY 2
+Jefferson,PUNXSUTAWNEY 3,State House,66.0,Cris Dush,REP,342,,,Jefferson County,PUNXSUTAWNEY 3
+Jefferson,REYNOLDSVILLE,State House,66.0,Cris Dush,REP,582,,,Jefferson County,REYNOLDSVILLE
+Jefferson,RINGGOLD,State House,66.0,Cris Dush,REP,223,,,Jefferson County,RINGGOLD
+Jefferson,ROSE,State House,66.0,Cris Dush,REP,366,,,Jefferson County,ROSE
+Jefferson,SNYDER,State House,66.0,Cris Dush,REP,633,,,Jefferson County,SNYDER
+Jefferson,SUMMERVILLE,State House,66.0,Cris Dush,REP,151,,,Jefferson County,SUMMERVILLE
+Jefferson,SYKESVILLE,State House,66.0,Cris Dush,REP,232,,,Jefferson County,SYKESVILLE
+Jefferson,TIMBLIN,State House,66.0,Cris Dush,REP,42,,,Jefferson County,TIMBLIN
+Jefferson,UNION,State House,66.0,Cris Dush,REP,330,,,Jefferson County,UNION
+Jefferson,WARSAW,State House,66.0,Cris Dush,REP,467,,,Jefferson County,WARSAW
+Jefferson,WASHINGTON,State House,66.0,Cris Dush,REP,586,,,Jefferson County,WASHINGTON
+Jefferson,WINSLOW,State House,66.0,Cris Dush,REP,813,,,Jefferson County,WINSLOW
+Jefferson,WORTHVILLE,State House,66.0,Cris Dush,REP,38,,,Jefferson County,WORTHVILLE
+Jefferson,YOUNG,State House,66.0,Cris Dush,REP,541,,,Jefferson County,YOUNG
+Jefferson,BARNETT,State House,66.0,Write-ins,,0,,,Jefferson County,BARNETT
+Jefferson,BEAVER,State House,66.0,Write-ins,,0,,,Jefferson County,BEAVER
+Jefferson,BELL,State House,66.0,Write-ins,,0,,,Jefferson County,BELL
+Jefferson,BIG RUN,State House,66.0,Write-ins,,0,,,Jefferson County,BIG RUN
+Jefferson,BROCKWAY,State House,66.0,Write-ins,,2,,,Jefferson County,BROCKWAY
+Jefferson,BROOKVILLE 1,State House,66.0,Write-ins,,0,,,Jefferson County,BROOKVILLE 1
+Jefferson,BROOKVILLE 2,State House,66.0,Write-ins,,1,,,Jefferson County,BROOKVILLE 2
+Jefferson,CLOVER,State House,66.0,Write-ins,,3,,,Jefferson County,CLOVER
+Jefferson,CORSICA,State House,66.0,Write-ins,,0,,,Jefferson County,CORSICA
+Jefferson,ELDRED,State House,66.0,Write-ins,,0,,,Jefferson County,ELDRED
+Jefferson,FALLS CREEK,State House,66.0,Write-ins,,0,,,Jefferson County,FALLS CREEK
+Jefferson,GASKILL,State House,66.0,Write-ins,,0,,,Jefferson County,GASKILL
+Jefferson,HEATH,State House,66.0,Write-ins,,0,,,Jefferson County,HEATH
+Jefferson,HENDERSON,State House,66.0,Write-ins,,1,,,Jefferson County,HENDERSON
+Jefferson,KNOX,State House,66.0,Write-ins,,0,,,Jefferson County,KNOX
+Jefferson,MCCALMONT,State House,66.0,Write-ins,,0,,,Jefferson County,MCCALMONT
+Jefferson,OLIVER,State House,66.0,Write-ins,,0,,,Jefferson County,OLIVER
+Jefferson,PERRY,State House,66.0,Write-ins,,0,,,Jefferson County,PERRY
+Jefferson,PINECREEK,State House,66.0,Write-ins,,0,,,Jefferson County,PINECREEK
+Jefferson,POLK,State House,66.0,Write-ins,,0,,,Jefferson County,POLK
+Jefferson,PORTER,State House,66.0,Write-ins,,0,,,Jefferson County,PORTER
+Jefferson,PUNXSUTAWNEY 1,State House,66.0,Write-ins,,4,,,Jefferson County,PUNXSUTAWNEY 1
+Jefferson,PUNXSUTAWNEY 2,State House,66.0,Write-ins,,1,,,Jefferson County,PUNXSUTAWNEY 2
+Jefferson,PUNXSUTAWNEY 3,State House,66.0,Write-ins,,3,,,Jefferson County,PUNXSUTAWNEY 3
+Jefferson,REYNOLDSVILLE,State House,66.0,Write-ins,,0,,,Jefferson County,REYNOLDSVILLE
+Jefferson,RINGGOLD,State House,66.0,Write-ins,,0,,,Jefferson County,RINGGOLD
+Jefferson,ROSE,State House,66.0,Write-ins,,0,,,Jefferson County,ROSE
+Jefferson,SNYDER,State House,66.0,Write-ins,,1,,,Jefferson County,SNYDER
+Jefferson,SUMMERVILLE,State House,66.0,Write-ins,,0,,,Jefferson County,SUMMERVILLE
+Jefferson,SYKESVILLE,State House,66.0,Write-ins,,0,,,Jefferson County,SYKESVILLE
+Jefferson,TIMBLIN,State House,66.0,Write-ins,,0,,,Jefferson County,TIMBLIN
+Jefferson,UNION,State House,66.0,Write-ins,,0,,,Jefferson County,UNION
+Jefferson,WARSAW,State House,66.0,Write-ins,,1,,,Jefferson County,WARSAW
+Jefferson,WASHINGTON,State House,66.0,Write-ins,,1,,,Jefferson County,WASHINGTON
+Jefferson,WINSLOW,State House,66.0,Write-ins,,2,,,Jefferson County,WINSLOW
+Jefferson,WORTHVILLE,State House,66.0,Write-ins,,0,,,Jefferson County,WORTHVILLE
+Jefferson,YOUNG,State House,66.0,Write-ins,,1,,,Jefferson County,YOUNG

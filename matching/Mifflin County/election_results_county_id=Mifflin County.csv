@@ -1,0 +1,498 @@
+county,precinct,office,district,candidate,party,votes,election_day,absentee,county_id,original_precinct_name
+Mifflin,0001 ARMAGH - EAST,U.S. Senate,,Bob Casey Jr,DEM,98.0,,,Mifflin County,0001 ARMAGH - EAST
+Mifflin,0001 ARMAGH - EAST,U.S. Senate,,Lou Barletta,REP,310.0,,,Mifflin County,0001 ARMAGH - EAST
+Mifflin,0001 ARMAGH - EAST,U.S. Senate,,Neal Gale,GRN,3.0,,,Mifflin County,0001 ARMAGH - EAST
+Mifflin,0001 ARMAGH - EAST,U.S. Senate,,Dale R Kerns Jr,LIB,2.0,,,Mifflin County,0001 ARMAGH - EAST
+Mifflin,0001 ARMAGH - EAST,U.S. Senate,,Write-ins,,0.0,,,Mifflin County,0001 ARMAGH - EAST
+Mifflin,0001 ARMAGH - EAST,Governor,,"Tom Wolf, Governor",DEM,101.0,,,Mifflin County,0001 ARMAGH - EAST
+Mifflin,0001 ARMAGH - EAST,Governor,,"Scott R Wagner, Governor",REP,307.0,,,Mifflin County,0001 ARMAGH - EAST
+Mifflin,0001 ARMAGH - EAST,Governor,,"Paul Glover, Governor",GRN,3.0,,,Mifflin County,0001 ARMAGH - EAST
+Mifflin,0001 ARMAGH - EAST,Governor,,"Ken V Krawchuk, Governor",LIB,1.0,,,Mifflin County,0001 ARMAGH - EAST
+Mifflin,0001 ARMAGH - EAST,Governor,,Write-ins,,0.0,,,Mifflin County,0001 ARMAGH - EAST
+Mifflin,0001 ARMAGH - EAST,U.S. House,12.0,Marc Friedenberg,DEM,61.0,,,Mifflin County,0001 ARMAGH - EAST
+Mifflin,0001 ARMAGH - EAST,U.S. House,12.0,Tom Marino,REP,346.0,,,Mifflin County,0001 ARMAGH - EAST
+Mifflin,0001 ARMAGH - EAST,U.S. House,12.0,Write-ins,,0.0,,,Mifflin County,0001 ARMAGH - EAST
+Mifflin,0001 ARMAGH - EAST,State Senate,34.0,Ezra Nanes,DEM,67.0,,,Mifflin County,0001 ARMAGH - EAST
+Mifflin,0001 ARMAGH - EAST,State Senate,34.0,Jacob D Corman III,REP,340.0,,,Mifflin County,0001 ARMAGH - EAST
+Mifflin,0001 ARMAGH - EAST,State Senate,34.0,Write-ins,,0.0,,,Mifflin County,0001 ARMAGH - EAST
+Mifflin,0001 ARMAGH - EAST,State House,171.0,Erin McCracken,DEM,55.0,,,Mifflin County,0001 ARMAGH - EAST
+Mifflin,0001 ARMAGH - EAST,State House,171.0,Kerry A Benninghoff,REP,356.0,,,Mifflin County,0001 ARMAGH - EAST
+Mifflin,0001 ARMAGH - EAST,State House,171.0,Write-ins,,0.0,,,Mifflin County,0001 ARMAGH - EAST
+Mifflin,0002 ARMAGH - WEST,U.S. Senate,,Bob Casey Jr,DEM,238.0,,,Mifflin County,0002 ARMAGH - WEST
+Mifflin,0002 ARMAGH - WEST,U.S. Senate,,Lou Barletta,REP,589.0,,,Mifflin County,0002 ARMAGH - WEST
+Mifflin,0002 ARMAGH - WEST,U.S. Senate,,Neal Gale,GRN,6.0,,,Mifflin County,0002 ARMAGH - WEST
+Mifflin,0002 ARMAGH - WEST,U.S. Senate,,Dale R Kerns Jr,LIB,12.0,,,Mifflin County,0002 ARMAGH - WEST
+Mifflin,0002 ARMAGH - WEST,U.S. Senate,,Write-ins,,0.0,,,Mifflin County,0002 ARMAGH - WEST
+Mifflin,0002 ARMAGH - WEST,Governor,,"Tom Wolf, Governor",DEM,248.0,,,Mifflin County,0002 ARMAGH - WEST
+Mifflin,0002 ARMAGH - WEST,Governor,,"Scott R Wagner, Governor",REP,584.0,,,Mifflin County,0002 ARMAGH - WEST
+Mifflin,0002 ARMAGH - WEST,Governor,,"Paul Glover, Governor",GRN,4.0,,,Mifflin County,0002 ARMAGH - WEST
+Mifflin,0002 ARMAGH - WEST,Governor,,"Ken V Krawchuk, Governor",LIB,9.0,,,Mifflin County,0002 ARMAGH - WEST
+Mifflin,0002 ARMAGH - WEST,Governor,,Write-ins,,0.0,,,Mifflin County,0002 ARMAGH - WEST
+Mifflin,0002 ARMAGH - WEST,U.S. House,12.0,Marc Friedenberg,DEM,181.0,,,Mifflin County,0002 ARMAGH - WEST
+Mifflin,0002 ARMAGH - WEST,U.S. House,12.0,Tom Marino,REP,665.0,,,Mifflin County,0002 ARMAGH - WEST
+Mifflin,0002 ARMAGH - WEST,U.S. House,12.0,Write-ins,,0.0,,,Mifflin County,0002 ARMAGH - WEST
+Mifflin,0002 ARMAGH - WEST,State Senate,34.0,Ezra Nanes,DEM,180.0,,,Mifflin County,0002 ARMAGH - WEST
+Mifflin,0002 ARMAGH - WEST,State Senate,34.0,Jacob D Corman III,REP,666.0,,,Mifflin County,0002 ARMAGH - WEST
+Mifflin,0002 ARMAGH - WEST,State Senate,34.0,Write-ins,,1.0,,,Mifflin County,0002 ARMAGH - WEST
+Mifflin,0002 ARMAGH - WEST,State House,171.0,Erin McCracken,DEM,145.0,,,Mifflin County,0002 ARMAGH - WEST
+Mifflin,0002 ARMAGH - WEST,State House,171.0,Kerry A Benninghoff,REP,704.0,,,Mifflin County,0002 ARMAGH - WEST
+Mifflin,0002 ARMAGH - WEST,State House,171.0,Write-ins,,0.0,,,Mifflin County,0002 ARMAGH - WEST
+Mifflin,0003 BRATTON,U.S. Senate,,Bob Casey Jr,DEM,65.0,,,Mifflin County,0003 BRATTON
+Mifflin,0003 BRATTON,U.S. Senate,,Lou Barletta,REP,356.0,,,Mifflin County,0003 BRATTON
+Mifflin,0003 BRATTON,U.S. Senate,,Neal Gale,GRN,2.0,,,Mifflin County,0003 BRATTON
+Mifflin,0003 BRATTON,U.S. Senate,,Dale R Kerns Jr,LIB,3.0,,,Mifflin County,0003 BRATTON
+Mifflin,0003 BRATTON,U.S. Senate,,Write-ins,,0.0,,,Mifflin County,0003 BRATTON
+Mifflin,0003 BRATTON,Governor,,"Tom Wolf, Governor",DEM,77.0,,,Mifflin County,0003 BRATTON
+Mifflin,0003 BRATTON,Governor,,"Scott R Wagner, Governor",REP,340.0,,,Mifflin County,0003 BRATTON
+Mifflin,0003 BRATTON,Governor,,"Paul Glover, Governor",GRN,4.0,,,Mifflin County,0003 BRATTON
+Mifflin,0003 BRATTON,Governor,,"Ken V Krawchuk, Governor",LIB,5.0,,,Mifflin County,0003 BRATTON
+Mifflin,0003 BRATTON,Governor,,Write-ins,,0.0,,,Mifflin County,0003 BRATTON
+Mifflin,0003 BRATTON,U.S. House,12.0,Marc Friedenberg,DEM,48.0,,,Mifflin County,0003 BRATTON
+Mifflin,0003 BRATTON,U.S. House,12.0,Tom Marino,REP,373.0,,,Mifflin County,0003 BRATTON
+Mifflin,0003 BRATTON,U.S. House,12.0,Write-ins,,0.0,,,Mifflin County,0003 BRATTON
+Mifflin,0003 BRATTON,State Senate,34.0,Ezra Nanes,DEM,46.0,,,Mifflin County,0003 BRATTON
+Mifflin,0003 BRATTON,State Senate,34.0,Jacob D Corman III,REP,380.0,,,Mifflin County,0003 BRATTON
+Mifflin,0003 BRATTON,State Senate,34.0,Write-ins,,0.0,,,Mifflin County,0003 BRATTON
+Mifflin,0003 BRATTON,State House,82.0,John Hershey,REP,372.0,,,Mifflin County,0003 BRATTON
+Mifflin,0003 BRATTON,State House,82.0,Elizabeth Book,NOA,39.0,,,Mifflin County,0003 BRATTON
+Mifflin,0003 BRATTON,State House,82.0,Write-ins,,2.0,,,Mifflin County,0003 BRATTON
+Mifflin,0004 BROWN - REEDSVILLE/BIG VA,U.S. Senate,,Bob Casey Jr,DEM,243.0,,,Mifflin County,0004 BROWN - REEDSVILLE/BIG VA
+Mifflin,0004 BROWN - REEDSVILLE/BIG VA,U.S. Senate,,Lou Barletta,REP,610.0,,,Mifflin County,0004 BROWN - REEDSVILLE/BIG VA
+Mifflin,0004 BROWN - REEDSVILLE/BIG VA,U.S. Senate,,Neal Gale,GRN,5.0,,,Mifflin County,0004 BROWN - REEDSVILLE/BIG VA
+Mifflin,0004 BROWN - REEDSVILLE/BIG VA,U.S. Senate,,Dale R Kerns Jr,LIB,7.0,,,Mifflin County,0004 BROWN - REEDSVILLE/BIG VA
+Mifflin,0004 BROWN - REEDSVILLE/BIG VA,U.S. Senate,,Write-ins,,0.0,,,Mifflin County,0004 BROWN - REEDSVILLE/BIG VA
+Mifflin,0004 BROWN - REEDSVILLE/BIG VA,Governor,,"Tom Wolf, Governor",DEM,253.0,,,Mifflin County,0004 BROWN - REEDSVILLE/BIG VA
+Mifflin,0004 BROWN - REEDSVILLE/BIG VA,Governor,,"Scott R Wagner, Governor",REP,594.0,,,Mifflin County,0004 BROWN - REEDSVILLE/BIG VA
+Mifflin,0004 BROWN - REEDSVILLE/BIG VA,Governor,,"Paul Glover, Governor",GRN,5.0,,,Mifflin County,0004 BROWN - REEDSVILLE/BIG VA
+Mifflin,0004 BROWN - REEDSVILLE/BIG VA,Governor,,"Ken V Krawchuk, Governor",LIB,10.0,,,Mifflin County,0004 BROWN - REEDSVILLE/BIG VA
+Mifflin,0004 BROWN - REEDSVILLE/BIG VA,Governor,,Write-ins,,0.0,,,Mifflin County,0004 BROWN - REEDSVILLE/BIG VA
+Mifflin,0004 BROWN - REEDSVILLE/BIG VA,U.S. House,12.0,Marc Friedenberg,DEM,195.0,,,Mifflin County,0004 BROWN - REEDSVILLE/BIG VA
+Mifflin,0004 BROWN - REEDSVILLE/BIG VA,U.S. House,12.0,Tom Marino,REP,661.0,,,Mifflin County,0004 BROWN - REEDSVILLE/BIG VA
+Mifflin,0004 BROWN - REEDSVILLE/BIG VA,U.S. House,12.0,Write-ins,,2.0,,,Mifflin County,0004 BROWN - REEDSVILLE/BIG VA
+Mifflin,0004 BROWN - REEDSVILLE/BIG VA,State Senate,34.0,Ezra Nanes,DEM,194.0,,,Mifflin County,0004 BROWN - REEDSVILLE/BIG VA
+Mifflin,0004 BROWN - REEDSVILLE/BIG VA,State Senate,34.0,Jacob D Corman III,REP,665.0,,,Mifflin County,0004 BROWN - REEDSVILLE/BIG VA
+Mifflin,0004 BROWN - REEDSVILLE/BIG VA,State Senate,34.0,Write-ins,,1.0,,,Mifflin County,0004 BROWN - REEDSVILLE/BIG VA
+Mifflin,0004 BROWN - REEDSVILLE/BIG VA,State House,171.0,Erin McCracken,DEM,178.0,,,Mifflin County,0004 BROWN - REEDSVILLE/BIG VA
+Mifflin,0004 BROWN - REEDSVILLE/BIG VA,State House,171.0,Kerry A Benninghoff,REP,689.0,,,Mifflin County,0004 BROWN - REEDSVILLE/BIG VA
+Mifflin,0004 BROWN - REEDSVILLE/BIG VA,State House,171.0,Write-ins,,1.0,,,Mifflin County,0004 BROWN - REEDSVILLE/BIG VA
+Mifflin,0005 BROWN - CHURCH HILL,U.S. Senate,,Bob Casey Jr,DEM,275.0,,,Mifflin County,0005 BROWN - CHURCH HILL
+Mifflin,0005 BROWN - CHURCH HILL,U.S. Senate,,Lou Barletta,REP,412.0,,,Mifflin County,0005 BROWN - CHURCH HILL
+Mifflin,0005 BROWN - CHURCH HILL,U.S. Senate,,Neal Gale,GRN,10.0,,,Mifflin County,0005 BROWN - CHURCH HILL
+Mifflin,0005 BROWN - CHURCH HILL,U.S. Senate,,Dale R Kerns Jr,LIB,7.0,,,Mifflin County,0005 BROWN - CHURCH HILL
+Mifflin,0005 BROWN - CHURCH HILL,U.S. Senate,,Write-ins,,2.0,,,Mifflin County,0005 BROWN - CHURCH HILL
+Mifflin,0005 BROWN - CHURCH HILL,Governor,,"Tom Wolf, Governor",DEM,299.0,,,Mifflin County,0005 BROWN - CHURCH HILL
+Mifflin,0005 BROWN - CHURCH HILL,Governor,,"Scott R Wagner, Governor",REP,388.0,,,Mifflin County,0005 BROWN - CHURCH HILL
+Mifflin,0005 BROWN - CHURCH HILL,Governor,,"Paul Glover, Governor",GRN,5.0,,,Mifflin County,0005 BROWN - CHURCH HILL
+Mifflin,0005 BROWN - CHURCH HILL,Governor,,"Ken V Krawchuk, Governor",LIB,8.0,,,Mifflin County,0005 BROWN - CHURCH HILL
+Mifflin,0005 BROWN - CHURCH HILL,Governor,,Write-ins,,1.0,,,Mifflin County,0005 BROWN - CHURCH HILL
+Mifflin,0005 BROWN - CHURCH HILL,U.S. House,12.0,Marc Friedenberg,DEM,235.0,,,Mifflin County,0005 BROWN - CHURCH HILL
+Mifflin,0005 BROWN - CHURCH HILL,U.S. House,12.0,Tom Marino,REP,463.0,,,Mifflin County,0005 BROWN - CHURCH HILL
+Mifflin,0005 BROWN - CHURCH HILL,U.S. House,12.0,Write-ins,,1.0,,,Mifflin County,0005 BROWN - CHURCH HILL
+Mifflin,0005 BROWN - CHURCH HILL,State Senate,34.0,Ezra Nanes,DEM,224.0,,,Mifflin County,0005 BROWN - CHURCH HILL
+Mifflin,0005 BROWN - CHURCH HILL,State Senate,34.0,Jacob D Corman III,REP,479.0,,,Mifflin County,0005 BROWN - CHURCH HILL
+Mifflin,0005 BROWN - CHURCH HILL,State Senate,34.0,Write-ins,,1.0,,,Mifflin County,0005 BROWN - CHURCH HILL
+Mifflin,0005 BROWN - CHURCH HILL,State House,171.0,Erin McCracken,DEM,212.0,,,Mifflin County,0005 BROWN - CHURCH HILL
+Mifflin,0005 BROWN - CHURCH HILL,State House,171.0,Kerry A Benninghoff,REP,494.0,,,Mifflin County,0005 BROWN - CHURCH HILL
+Mifflin,0005 BROWN - CHURCH HILL,State House,171.0,Write-ins,,0.0,,,Mifflin County,0005 BROWN - CHURCH HILL
+Mifflin,0006 BURNHAM BORO,U.S. Senate,,Bob Casey Jr,DEM,215.0,,,Mifflin County,0006 BURNHAM BORO
+Mifflin,0006 BURNHAM BORO,U.S. Senate,,Lou Barletta,REP,391.0,,,Mifflin County,0006 BURNHAM BORO
+Mifflin,0006 BURNHAM BORO,U.S. Senate,,Neal Gale,GRN,2.0,,,Mifflin County,0006 BURNHAM BORO
+Mifflin,0006 BURNHAM BORO,U.S. Senate,,Dale R Kerns Jr,LIB,9.0,,,Mifflin County,0006 BURNHAM BORO
+Mifflin,0006 BURNHAM BORO,U.S. Senate,,Write-ins,,0.0,,,Mifflin County,0006 BURNHAM BORO
+Mifflin,0006 BURNHAM BORO,Governor,,"Tom Wolf, Governor",DEM,220.0,,,Mifflin County,0006 BURNHAM BORO
+Mifflin,0006 BURNHAM BORO,Governor,,"Scott R Wagner, Governor",REP,384.0,,,Mifflin County,0006 BURNHAM BORO
+Mifflin,0006 BURNHAM BORO,Governor,,"Paul Glover, Governor",GRN,4.0,,,Mifflin County,0006 BURNHAM BORO
+Mifflin,0006 BURNHAM BORO,Governor,,"Ken V Krawchuk, Governor",LIB,6.0,,,Mifflin County,0006 BURNHAM BORO
+Mifflin,0006 BURNHAM BORO,Governor,,Write-ins,,0.0,,,Mifflin County,0006 BURNHAM BORO
+Mifflin,0006 BURNHAM BORO,U.S. House,12.0,Marc Friedenberg,DEM,174.0,,,Mifflin County,0006 BURNHAM BORO
+Mifflin,0006 BURNHAM BORO,U.S. House,12.0,Tom Marino,REP,439.0,,,Mifflin County,0006 BURNHAM BORO
+Mifflin,0006 BURNHAM BORO,U.S. House,12.0,Write-ins,,0.0,,,Mifflin County,0006 BURNHAM BORO
+Mifflin,0006 BURNHAM BORO,State Senate,34.0,Ezra Nanes,DEM,174.0,,,Mifflin County,0006 BURNHAM BORO
+Mifflin,0006 BURNHAM BORO,State Senate,34.0,Jacob D Corman III,REP,440.0,,,Mifflin County,0006 BURNHAM BORO
+Mifflin,0006 BURNHAM BORO,State Senate,34.0,Write-ins,,0.0,,,Mifflin County,0006 BURNHAM BORO
+Mifflin,0006 BURNHAM BORO,State House,82.0,John Hershey,REP,440.0,,,Mifflin County,0006 BURNHAM BORO
+Mifflin,0006 BURNHAM BORO,State House,82.0,Elizabeth Book,NOA,88.0,,,Mifflin County,0006 BURNHAM BORO
+Mifflin,0006 BURNHAM BORO,State House,82.0,Write-ins,,5.0,,,Mifflin County,0006 BURNHAM BORO
+Mifflin,0007 DECATUR - EAST,U.S. Senate,,Bob Casey Jr,DEM,93.0,,,Mifflin County,0007 DECATUR - EAST
+Mifflin,0007 DECATUR - EAST,U.S. Senate,,Lou Barletta,REP,334.0,,,Mifflin County,0007 DECATUR - EAST
+Mifflin,0007 DECATUR - EAST,U.S. Senate,,Neal Gale,GRN,4.0,,,Mifflin County,0007 DECATUR - EAST
+Mifflin,0007 DECATUR - EAST,U.S. Senate,,Dale R Kerns Jr,LIB,3.0,,,Mifflin County,0007 DECATUR - EAST
+Mifflin,0007 DECATUR - EAST,U.S. Senate,,Write-ins,,0.0,,,Mifflin County,0007 DECATUR - EAST
+Mifflin,0007 DECATUR - EAST,Governor,,"Tom Wolf, Governor",DEM,96.0,,,Mifflin County,0007 DECATUR - EAST
+Mifflin,0007 DECATUR - EAST,Governor,,"Scott R Wagner, Governor",REP,333.0,,,Mifflin County,0007 DECATUR - EAST
+Mifflin,0007 DECATUR - EAST,Governor,,"Paul Glover, Governor",GRN,3.0,,,Mifflin County,0007 DECATUR - EAST
+Mifflin,0007 DECATUR - EAST,Governor,,"Ken V Krawchuk, Governor",LIB,2.0,,,Mifflin County,0007 DECATUR - EAST
+Mifflin,0007 DECATUR - EAST,Governor,,Write-ins,,1.0,,,Mifflin County,0007 DECATUR - EAST
+Mifflin,0007 DECATUR - EAST,U.S. House,12.0,Marc Friedenberg,DEM,66.0,,,Mifflin County,0007 DECATUR - EAST
+Mifflin,0007 DECATUR - EAST,U.S. House,12.0,Tom Marino,REP,367.0,,,Mifflin County,0007 DECATUR - EAST
+Mifflin,0007 DECATUR - EAST,U.S. House,12.0,Write-ins,,0.0,,,Mifflin County,0007 DECATUR - EAST
+Mifflin,0007 DECATUR - EAST,State Senate,34.0,Ezra Nanes,DEM,70.0,,,Mifflin County,0007 DECATUR - EAST
+Mifflin,0007 DECATUR - EAST,State Senate,34.0,Jacob D Corman III,REP,362.0,,,Mifflin County,0007 DECATUR - EAST
+Mifflin,0007 DECATUR - EAST,State Senate,34.0,Write-ins,,1.0,,,Mifflin County,0007 DECATUR - EAST
+Mifflin,0007 DECATUR - EAST,State House,171.0,Erin McCracken,DEM,67.0,,,Mifflin County,0007 DECATUR - EAST
+Mifflin,0007 DECATUR - EAST,State House,171.0,Kerry A Benninghoff,REP,364.0,,,Mifflin County,0007 DECATUR - EAST
+Mifflin,0007 DECATUR - EAST,State House,171.0,Write-ins,,1.0,,,Mifflin County,0007 DECATUR - EAST
+Mifflin,0008 DECATUR - WEST,U.S. Senate,,Bob Casey Jr,DEM,133.0,,,Mifflin County,0008 DECATUR - WEST
+Mifflin,0008 DECATUR - WEST,U.S. Senate,,Lou Barletta,REP,433.0,,,Mifflin County,0008 DECATUR - WEST
+Mifflin,0008 DECATUR - WEST,U.S. Senate,,Neal Gale,GRN,4.0,,,Mifflin County,0008 DECATUR - WEST
+Mifflin,0008 DECATUR - WEST,U.S. Senate,,Dale R Kerns Jr,LIB,10.0,,,Mifflin County,0008 DECATUR - WEST
+Mifflin,0008 DECATUR - WEST,U.S. Senate,,Write-ins,,0.0,,,Mifflin County,0008 DECATUR - WEST
+Mifflin,0008 DECATUR - WEST,Governor,,"Tom Wolf, Governor",DEM,139.0,,,Mifflin County,0008 DECATUR - WEST
+Mifflin,0008 DECATUR - WEST,Governor,,"Scott R Wagner, Governor",REP,428.0,,,Mifflin County,0008 DECATUR - WEST
+Mifflin,0008 DECATUR - WEST,Governor,,"Paul Glover, Governor",GRN,5.0,,,Mifflin County,0008 DECATUR - WEST
+Mifflin,0008 DECATUR - WEST,Governor,,"Ken V Krawchuk, Governor",LIB,7.0,,,Mifflin County,0008 DECATUR - WEST
+Mifflin,0008 DECATUR - WEST,Governor,,Write-ins,,0.0,,,Mifflin County,0008 DECATUR - WEST
+Mifflin,0008 DECATUR - WEST,U.S. House,12.0,Marc Friedenberg,DEM,108.0,,,Mifflin County,0008 DECATUR - WEST
+Mifflin,0008 DECATUR - WEST,U.S. House,12.0,Tom Marino,REP,467.0,,,Mifflin County,0008 DECATUR - WEST
+Mifflin,0008 DECATUR - WEST,U.S. House,12.0,Write-ins,,2.0,,,Mifflin County,0008 DECATUR - WEST
+Mifflin,0008 DECATUR - WEST,State Senate,34.0,Ezra Nanes,DEM,108.0,,,Mifflin County,0008 DECATUR - WEST
+Mifflin,0008 DECATUR - WEST,State Senate,34.0,Jacob D Corman III,REP,469.0,,,Mifflin County,0008 DECATUR - WEST
+Mifflin,0008 DECATUR - WEST,State Senate,34.0,Write-ins,,2.0,,,Mifflin County,0008 DECATUR - WEST
+Mifflin,0008 DECATUR - WEST,State House,171.0,Erin McCracken,DEM,93.0,,,Mifflin County,0008 DECATUR - WEST
+Mifflin,0008 DECATUR - WEST,State House,171.0,Kerry A Benninghoff,REP,486.0,,,Mifflin County,0008 DECATUR - WEST
+Mifflin,0008 DECATUR - WEST,State House,171.0,Write-ins,,2.0,,,Mifflin County,0008 DECATUR - WEST
+Mifflin,0009 DERRY - EAST,U.S. Senate,,Bob Casey Jr,DEM,316.0,,,Mifflin County,0009 DERRY - EAST
+Mifflin,0009 DERRY - EAST,U.S. Senate,,Lou Barletta,REP,700.0,,,Mifflin County,0009 DERRY - EAST
+Mifflin,0009 DERRY - EAST,U.S. Senate,,Neal Gale,GRN,4.0,,,Mifflin County,0009 DERRY - EAST
+Mifflin,0009 DERRY - EAST,U.S. Senate,,Dale R Kerns Jr,LIB,14.0,,,Mifflin County,0009 DERRY - EAST
+Mifflin,0009 DERRY - EAST,U.S. Senate,,Write-ins,,1.0,,,Mifflin County,0009 DERRY - EAST
+Mifflin,0009 DERRY - EAST,Governor,,"Tom Wolf, Governor",DEM,332.0,,,Mifflin County,0009 DERRY - EAST
+Mifflin,0009 DERRY - EAST,Governor,,"Scott R Wagner, Governor",REP,687.0,,,Mifflin County,0009 DERRY - EAST
+Mifflin,0009 DERRY - EAST,Governor,,"Paul Glover, Governor",GRN,9.0,,,Mifflin County,0009 DERRY - EAST
+Mifflin,0009 DERRY - EAST,Governor,,"Ken V Krawchuk, Governor",LIB,8.0,,,Mifflin County,0009 DERRY - EAST
+Mifflin,0009 DERRY - EAST,Governor,,Write-ins,,1.0,,,Mifflin County,0009 DERRY - EAST
+Mifflin,0009 DERRY - EAST,U.S. House,12.0,Marc Friedenberg,DEM,239.0,,,Mifflin County,0009 DERRY - EAST
+Mifflin,0009 DERRY - EAST,U.S. House,12.0,Tom Marino,REP,794.0,,,Mifflin County,0009 DERRY - EAST
+Mifflin,0009 DERRY - EAST,U.S. House,12.0,Write-ins,,0.0,,,Mifflin County,0009 DERRY - EAST
+Mifflin,0009 DERRY - EAST,State Senate,34.0,Ezra Nanes,DEM,242.0,,,Mifflin County,0009 DERRY - EAST
+Mifflin,0009 DERRY - EAST,State Senate,34.0,Jacob D Corman III,REP,790.0,,,Mifflin County,0009 DERRY - EAST
+Mifflin,0009 DERRY - EAST,State Senate,34.0,Write-ins,,1.0,,,Mifflin County,0009 DERRY - EAST
+Mifflin,0009 DERRY - EAST,State House,82.0,John Hershey,REP,784.0,,,Mifflin County,0009 DERRY - EAST
+Mifflin,0009 DERRY - EAST,State House,82.0,Elizabeth Book,NOA,139.0,,,Mifflin County,0009 DERRY - EAST
+Mifflin,0009 DERRY - EAST,State House,82.0,Write-ins,,7.0,,,Mifflin County,0009 DERRY - EAST
+Mifflin,0010 DERRY - NORTH,U.S. Senate,,Bob Casey Jr,DEM,122.0,,,Mifflin County,0010 DERRY - NORTH
+Mifflin,0010 DERRY - NORTH,U.S. Senate,,Lou Barletta,REP,301.0,,,Mifflin County,0010 DERRY - NORTH
+Mifflin,0010 DERRY - NORTH,U.S. Senate,,Neal Gale,GRN,1.0,,,Mifflin County,0010 DERRY - NORTH
+Mifflin,0010 DERRY - NORTH,U.S. Senate,,Dale R Kerns Jr,LIB,4.0,,,Mifflin County,0010 DERRY - NORTH
+Mifflin,0010 DERRY - NORTH,U.S. Senate,,Write-ins,,0.0,,,Mifflin County,0010 DERRY - NORTH
+Mifflin,0010 DERRY - NORTH,Governor,,"Tom Wolf, Governor",DEM,146.0,,,Mifflin County,0010 DERRY - NORTH
+Mifflin,0010 DERRY - NORTH,Governor,,"Scott R Wagner, Governor",REP,278.0,,,Mifflin County,0010 DERRY - NORTH
+Mifflin,0010 DERRY - NORTH,Governor,,"Paul Glover, Governor",GRN,0.0,,,Mifflin County,0010 DERRY - NORTH
+Mifflin,0010 DERRY - NORTH,Governor,,"Ken V Krawchuk, Governor",LIB,3.0,,,Mifflin County,0010 DERRY - NORTH
+Mifflin,0010 DERRY - NORTH,Governor,,Write-ins,,0.0,,,Mifflin County,0010 DERRY - NORTH
+Mifflin,0010 DERRY - NORTH,U.S. House,12.0,Marc Friedenberg,DEM,94.0,,,Mifflin County,0010 DERRY - NORTH
+Mifflin,0010 DERRY - NORTH,U.S. House,12.0,Tom Marino,REP,335.0,,,Mifflin County,0010 DERRY - NORTH
+Mifflin,0010 DERRY - NORTH,U.S. House,12.0,Write-ins,,0.0,,,Mifflin County,0010 DERRY - NORTH
+Mifflin,0010 DERRY - NORTH,State Senate,34.0,Ezra Nanes,DEM,102.0,,,Mifflin County,0010 DERRY - NORTH
+Mifflin,0010 DERRY - NORTH,State Senate,34.0,Jacob D Corman III,REP,327.0,,,Mifflin County,0010 DERRY - NORTH
+Mifflin,0010 DERRY - NORTH,State Senate,34.0,Write-ins,,0.0,,,Mifflin County,0010 DERRY - NORTH
+Mifflin,0010 DERRY - NORTH,State House,82.0,John Hershey,REP,320.0,,,Mifflin County,0010 DERRY - NORTH
+Mifflin,0010 DERRY - NORTH,State House,82.0,Elizabeth Book,NOA,56.0,,,Mifflin County,0010 DERRY - NORTH
+Mifflin,0010 DERRY - NORTH,State House,82.0,Write-ins,,2.0,,,Mifflin County,0010 DERRY - NORTH
+Mifflin,0011 DERRY - SOUTH,U.S. Senate,,Bob Casey Jr,DEM,255.0,,,Mifflin County,0011 DERRY - SOUTH
+Mifflin,0011 DERRY - SOUTH,U.S. Senate,,Lou Barletta,REP,451.0,,,Mifflin County,0011 DERRY - SOUTH
+Mifflin,0011 DERRY - SOUTH,U.S. Senate,,Neal Gale,GRN,4.0,,,Mifflin County,0011 DERRY - SOUTH
+Mifflin,0011 DERRY - SOUTH,U.S. Senate,,Dale R Kerns Jr,LIB,8.0,,,Mifflin County,0011 DERRY - SOUTH
+Mifflin,0011 DERRY - SOUTH,U.S. Senate,,Write-ins,,0.0,,,Mifflin County,0011 DERRY - SOUTH
+Mifflin,0011 DERRY - SOUTH,Governor,,"Tom Wolf, Governor",DEM,285.0,,,Mifflin County,0011 DERRY - SOUTH
+Mifflin,0011 DERRY - SOUTH,Governor,,"Scott R Wagner, Governor",REP,425.0,,,Mifflin County,0011 DERRY - SOUTH
+Mifflin,0011 DERRY - SOUTH,Governor,,"Paul Glover, Governor",GRN,3.0,,,Mifflin County,0011 DERRY - SOUTH
+Mifflin,0011 DERRY - SOUTH,Governor,,"Ken V Krawchuk, Governor",LIB,5.0,,,Mifflin County,0011 DERRY - SOUTH
+Mifflin,0011 DERRY - SOUTH,Governor,,Write-ins,,2.0,,,Mifflin County,0011 DERRY - SOUTH
+Mifflin,0011 DERRY - SOUTH,U.S. House,12.0,Marc Friedenberg,DEM,212.0,,,Mifflin County,0011 DERRY - SOUTH
+Mifflin,0011 DERRY - SOUTH,U.S. House,12.0,Tom Marino,REP,504.0,,,Mifflin County,0011 DERRY - SOUTH
+Mifflin,0011 DERRY - SOUTH,U.S. House,12.0,Write-ins,,0.0,,,Mifflin County,0011 DERRY - SOUTH
+Mifflin,0011 DERRY - SOUTH,State Senate,34.0,Ezra Nanes,DEM,217.0,,,Mifflin County,0011 DERRY - SOUTH
+Mifflin,0011 DERRY - SOUTH,State Senate,34.0,Jacob D Corman III,REP,504.0,,,Mifflin County,0011 DERRY - SOUTH
+Mifflin,0011 DERRY - SOUTH,State Senate,34.0,Write-ins,,0.0,,,Mifflin County,0011 DERRY - SOUTH
+Mifflin,0011 DERRY - SOUTH,State House,82.0,John Hershey,REP,505.0,,,Mifflin County,0011 DERRY - SOUTH
+Mifflin,0011 DERRY - SOUTH,State House,82.0,Elizabeth Book,NOA,124.0,,,Mifflin County,0011 DERRY - SOUTH
+Mifflin,0011 DERRY - SOUTH,State House,82.0,Write-ins,,5.0,,,Mifflin County,0011 DERRY - SOUTH
+Mifflin,0012 GRANVILLE - EAST,U.S. Senate,,Bob Casey Jr,DEM,152.0,,,Mifflin County,0012 GRANVILLE - EAST
+Mifflin,0012 GRANVILLE - EAST,U.S. Senate,,Lou Barletta,REP,358.0,,,Mifflin County,0012 GRANVILLE - EAST
+Mifflin,0012 GRANVILLE - EAST,U.S. Senate,,Neal Gale,GRN,2.0,,,Mifflin County,0012 GRANVILLE - EAST
+Mifflin,0012 GRANVILLE - EAST,U.S. Senate,,Dale R Kerns Jr,LIB,11.0,,,Mifflin County,0012 GRANVILLE - EAST
+Mifflin,0012 GRANVILLE - EAST,U.S. Senate,,Write-ins,,1.0,,,Mifflin County,0012 GRANVILLE - EAST
+Mifflin,0012 GRANVILLE - EAST,Governor,,"Tom Wolf, Governor",DEM,134.0,,,Mifflin County,0012 GRANVILLE - EAST
+Mifflin,0012 GRANVILLE - EAST,Governor,,"Scott R Wagner, Governor",REP,378.0,,,Mifflin County,0012 GRANVILLE - EAST
+Mifflin,0012 GRANVILLE - EAST,Governor,,"Paul Glover, Governor",GRN,3.0,,,Mifflin County,0012 GRANVILLE - EAST
+Mifflin,0012 GRANVILLE - EAST,Governor,,"Ken V Krawchuk, Governor",LIB,7.0,,,Mifflin County,0012 GRANVILLE - EAST
+Mifflin,0012 GRANVILLE - EAST,Governor,,Write-ins,,0.0,,,Mifflin County,0012 GRANVILLE - EAST
+Mifflin,0012 GRANVILLE - EAST,U.S. House,12.0,Marc Friedenberg,DEM,112.0,,,Mifflin County,0012 GRANVILLE - EAST
+Mifflin,0012 GRANVILLE - EAST,U.S. House,12.0,Tom Marino,REP,407.0,,,Mifflin County,0012 GRANVILLE - EAST
+Mifflin,0012 GRANVILLE - EAST,U.S. House,12.0,Write-ins,,0.0,,,Mifflin County,0012 GRANVILLE - EAST
+Mifflin,0012 GRANVILLE - EAST,State Senate,34.0,Ezra Nanes,DEM,109.0,,,Mifflin County,0012 GRANVILLE - EAST
+Mifflin,0012 GRANVILLE - EAST,State Senate,34.0,Jacob D Corman III,REP,414.0,,,Mifflin County,0012 GRANVILLE - EAST
+Mifflin,0012 GRANVILLE - EAST,State Senate,34.0,Write-ins,,0.0,,,Mifflin County,0012 GRANVILLE - EAST
+Mifflin,0012 GRANVILLE - EAST,State House,82.0,John Hershey,REP,412.0,,,Mifflin County,0012 GRANVILLE - EAST
+Mifflin,0012 GRANVILLE - EAST,State House,82.0,Elizabeth Book,NOA,59.0,,,Mifflin County,0012 GRANVILLE - EAST
+Mifflin,0012 GRANVILLE - EAST,State House,82.0,Write-ins,,3.0,,,Mifflin County,0012 GRANVILLE - EAST
+Mifflin,0013 GRANVILLE - WEST,U.S. Senate,,Bob Casey Jr,DEM,322.0,,,Mifflin County,0013 GRANVILLE - WEST
+Mifflin,0013 GRANVILLE - WEST,U.S. Senate,,Lou Barletta,REP,827.0,,,Mifflin County,0013 GRANVILLE - WEST
+Mifflin,0013 GRANVILLE - WEST,U.S. Senate,,Neal Gale,GRN,7.0,,,Mifflin County,0013 GRANVILLE - WEST
+Mifflin,0013 GRANVILLE - WEST,U.S. Senate,,Dale R Kerns Jr,LIB,19.0,,,Mifflin County,0013 GRANVILLE - WEST
+Mifflin,0013 GRANVILLE - WEST,U.S. Senate,,Write-ins,,1.0,,,Mifflin County,0013 GRANVILLE - WEST
+Mifflin,0013 GRANVILLE - WEST,Governor,,"Tom Wolf, Governor",DEM,350.0,,,Mifflin County,0013 GRANVILLE - WEST
+Mifflin,0013 GRANVILLE - WEST,Governor,,"Scott R Wagner, Governor",REP,803.0,,,Mifflin County,0013 GRANVILLE - WEST
+Mifflin,0013 GRANVILLE - WEST,Governor,,"Paul Glover, Governor",GRN,6.0,,,Mifflin County,0013 GRANVILLE - WEST
+Mifflin,0013 GRANVILLE - WEST,Governor,,"Ken V Krawchuk, Governor",LIB,14.0,,,Mifflin County,0013 GRANVILLE - WEST
+Mifflin,0013 GRANVILLE - WEST,Governor,,Write-ins,,1.0,,,Mifflin County,0013 GRANVILLE - WEST
+Mifflin,0013 GRANVILLE - WEST,U.S. House,12.0,Marc Friedenberg,DEM,263.0,,,Mifflin County,0013 GRANVILLE - WEST
+Mifflin,0013 GRANVILLE - WEST,U.S. House,12.0,Tom Marino,REP,898.0,,,Mifflin County,0013 GRANVILLE - WEST
+Mifflin,0013 GRANVILLE - WEST,U.S. House,12.0,Write-ins,,4.0,,,Mifflin County,0013 GRANVILLE - WEST
+Mifflin,0013 GRANVILLE - WEST,State Senate,34.0,Ezra Nanes,DEM,260.0,,,Mifflin County,0013 GRANVILLE - WEST
+Mifflin,0013 GRANVILLE - WEST,State Senate,34.0,Jacob D Corman III,REP,916.0,,,Mifflin County,0013 GRANVILLE - WEST
+Mifflin,0013 GRANVILLE - WEST,State Senate,34.0,Write-ins,,1.0,,,Mifflin County,0013 GRANVILLE - WEST
+Mifflin,0013 GRANVILLE - WEST,State House,82.0,John Hershey,REP,892.0,,,Mifflin County,0013 GRANVILLE - WEST
+Mifflin,0013 GRANVILLE - WEST,State House,82.0,Elizabeth Book,NOA,192.0,,,Mifflin County,0013 GRANVILLE - WEST
+Mifflin,0013 GRANVILLE - WEST,State House,82.0,Write-ins,,8.0,,,Mifflin County,0013 GRANVILLE - WEST
+Mifflin,0014 JUNIATA TERRACE BORO,U.S. Senate,,Bob Casey Jr,DEM,65.0,,,Mifflin County,0014 JUNIATA TERRACE BORO
+Mifflin,0014 JUNIATA TERRACE BORO,U.S. Senate,,Lou Barletta,REP,82.0,,,Mifflin County,0014 JUNIATA TERRACE BORO
+Mifflin,0014 JUNIATA TERRACE BORO,U.S. Senate,,Neal Gale,GRN,1.0,,,Mifflin County,0014 JUNIATA TERRACE BORO
+Mifflin,0014 JUNIATA TERRACE BORO,U.S. Senate,,Dale R Kerns Jr,LIB,2.0,,,Mifflin County,0014 JUNIATA TERRACE BORO
+Mifflin,0014 JUNIATA TERRACE BORO,U.S. Senate,,Write-ins,,0.0,,,Mifflin County,0014 JUNIATA TERRACE BORO
+Mifflin,0014 JUNIATA TERRACE BORO,Governor,,"Tom Wolf, Governor",DEM,66.0,,,Mifflin County,0014 JUNIATA TERRACE BORO
+Mifflin,0014 JUNIATA TERRACE BORO,Governor,,"Scott R Wagner, Governor",REP,80.0,,,Mifflin County,0014 JUNIATA TERRACE BORO
+Mifflin,0014 JUNIATA TERRACE BORO,Governor,,"Paul Glover, Governor",GRN,3.0,,,Mifflin County,0014 JUNIATA TERRACE BORO
+Mifflin,0014 JUNIATA TERRACE BORO,Governor,,"Ken V Krawchuk, Governor",LIB,0.0,,,Mifflin County,0014 JUNIATA TERRACE BORO
+Mifflin,0014 JUNIATA TERRACE BORO,Governor,,Write-ins,,0.0,,,Mifflin County,0014 JUNIATA TERRACE BORO
+Mifflin,0014 JUNIATA TERRACE BORO,U.S. House,12.0,Marc Friedenberg,DEM,62.0,,,Mifflin County,0014 JUNIATA TERRACE BORO
+Mifflin,0014 JUNIATA TERRACE BORO,U.S. House,12.0,Tom Marino,REP,88.0,,,Mifflin County,0014 JUNIATA TERRACE BORO
+Mifflin,0014 JUNIATA TERRACE BORO,U.S. House,12.0,Write-ins,,0.0,,,Mifflin County,0014 JUNIATA TERRACE BORO
+Mifflin,0014 JUNIATA TERRACE BORO,State Senate,34.0,Ezra Nanes,DEM,65.0,,,Mifflin County,0014 JUNIATA TERRACE BORO
+Mifflin,0014 JUNIATA TERRACE BORO,State Senate,34.0,Jacob D Corman III,REP,85.0,,,Mifflin County,0014 JUNIATA TERRACE BORO
+Mifflin,0014 JUNIATA TERRACE BORO,State Senate,34.0,Write-ins,,0.0,,,Mifflin County,0014 JUNIATA TERRACE BORO
+Mifflin,0014 JUNIATA TERRACE BORO,State House,82.0,John Hershey,REP,87.0,,,Mifflin County,0014 JUNIATA TERRACE BORO
+Mifflin,0014 JUNIATA TERRACE BORO,State House,82.0,Elizabeth Book,NOA,36.0,,,Mifflin County,0014 JUNIATA TERRACE BORO
+Mifflin,0014 JUNIATA TERRACE BORO,State House,82.0,Write-ins,,1.0,,,Mifflin County,0014 JUNIATA TERRACE BORO
+Mifflin,0015 KISTLER BORO,U.S. Senate,,Bob Casey Jr,DEM,26.0,,,Mifflin County,0015 KISTLER BORO
+Mifflin,0015 KISTLER BORO,U.S. Senate,,Lou Barletta,REP,60.0,,,Mifflin County,0015 KISTLER BORO
+Mifflin,0015 KISTLER BORO,U.S. Senate,,Neal Gale,GRN,1.0,,,Mifflin County,0015 KISTLER BORO
+Mifflin,0015 KISTLER BORO,U.S. Senate,,Dale R Kerns Jr,LIB,0.0,,,Mifflin County,0015 KISTLER BORO
+Mifflin,0015 KISTLER BORO,U.S. Senate,,Write-ins,,0.0,,,Mifflin County,0015 KISTLER BORO
+Mifflin,0015 KISTLER BORO,Governor,,"Tom Wolf, Governor",DEM,29.0,,,Mifflin County,0015 KISTLER BORO
+Mifflin,0015 KISTLER BORO,Governor,,"Scott R Wagner, Governor",REP,58.0,,,Mifflin County,0015 KISTLER BORO
+Mifflin,0015 KISTLER BORO,Governor,,"Paul Glover, Governor",GRN,1.0,,,Mifflin County,0015 KISTLER BORO
+Mifflin,0015 KISTLER BORO,Governor,,"Ken V Krawchuk, Governor",LIB,0.0,,,Mifflin County,0015 KISTLER BORO
+Mifflin,0015 KISTLER BORO,Governor,,Write-ins,,0.0,,,Mifflin County,0015 KISTLER BORO
+Mifflin,0015 KISTLER BORO,U.S. House,12.0,Marc Friedenberg,DEM,23.0,,,Mifflin County,0015 KISTLER BORO
+Mifflin,0015 KISTLER BORO,U.S. House,12.0,Tom Marino,REP,63.0,,,Mifflin County,0015 KISTLER BORO
+Mifflin,0015 KISTLER BORO,U.S. House,12.0,Write-ins,,0.0,,,Mifflin County,0015 KISTLER BORO
+Mifflin,0015 KISTLER BORO,State Senate,34.0,Ezra Nanes,DEM,25.0,,,Mifflin County,0015 KISTLER BORO
+Mifflin,0015 KISTLER BORO,State Senate,34.0,Jacob D Corman III,REP,61.0,,,Mifflin County,0015 KISTLER BORO
+Mifflin,0015 KISTLER BORO,State Senate,34.0,Write-ins,,0.0,,,Mifflin County,0015 KISTLER BORO
+Mifflin,0015 KISTLER BORO,State House,81.0,Rick Rogers,DEM,29.0,,,Mifflin County,0015 KISTLER BORO
+Mifflin,0015 KISTLER BORO,State House,81.0,Rich Irvin,REP,57.0,,,Mifflin County,0015 KISTLER BORO
+Mifflin,0015 KISTLER BORO,State House,81.0,Joseph P Soloski,LIB,0.0,,,Mifflin County,0015 KISTLER BORO
+Mifflin,0015 KISTLER BORO,State House,81.0,Write-ins,,0.0,,,Mifflin County,0015 KISTLER BORO
+Mifflin,0016 LEWISTOWN - WEST,U.S. Senate,,Bob Casey Jr,DEM,160.0,,,Mifflin County,0016 LEWISTOWN - WEST
+Mifflin,0016 LEWISTOWN - WEST,U.S. Senate,,Lou Barletta,REP,242.0,,,Mifflin County,0016 LEWISTOWN - WEST
+Mifflin,0016 LEWISTOWN - WEST,U.S. Senate,,Neal Gale,GRN,3.0,,,Mifflin County,0016 LEWISTOWN - WEST
+Mifflin,0016 LEWISTOWN - WEST,U.S. Senate,,Dale R Kerns Jr,LIB,10.0,,,Mifflin County,0016 LEWISTOWN - WEST
+Mifflin,0016 LEWISTOWN - WEST,U.S. Senate,,Write-ins,,1.0,,,Mifflin County,0016 LEWISTOWN - WEST
+Mifflin,0016 LEWISTOWN - WEST,Governor,,"Tom Wolf, Governor",DEM,162.0,,,Mifflin County,0016 LEWISTOWN - WEST
+Mifflin,0016 LEWISTOWN - WEST,Governor,,"Scott R Wagner, Governor",REP,242.0,,,Mifflin County,0016 LEWISTOWN - WEST
+Mifflin,0016 LEWISTOWN - WEST,Governor,,"Paul Glover, Governor",GRN,4.0,,,Mifflin County,0016 LEWISTOWN - WEST
+Mifflin,0016 LEWISTOWN - WEST,Governor,,"Ken V Krawchuk, Governor",LIB,9.0,,,Mifflin County,0016 LEWISTOWN - WEST
+Mifflin,0016 LEWISTOWN - WEST,Governor,,Write-ins,,0.0,,,Mifflin County,0016 LEWISTOWN - WEST
+Mifflin,0016 LEWISTOWN - WEST,U.S. House,12.0,Marc Friedenberg,DEM,141.0,,,Mifflin County,0016 LEWISTOWN - WEST
+Mifflin,0016 LEWISTOWN - WEST,U.S. House,12.0,Tom Marino,REP,269.0,,,Mifflin County,0016 LEWISTOWN - WEST
+Mifflin,0016 LEWISTOWN - WEST,U.S. House,12.0,Write-ins,,1.0,,,Mifflin County,0016 LEWISTOWN - WEST
+Mifflin,0016 LEWISTOWN - WEST,State Senate,34.0,Ezra Nanes,DEM,139.0,,,Mifflin County,0016 LEWISTOWN - WEST
+Mifflin,0016 LEWISTOWN - WEST,State Senate,34.0,Jacob D Corman III,REP,275.0,,,Mifflin County,0016 LEWISTOWN - WEST
+Mifflin,0016 LEWISTOWN - WEST,State Senate,34.0,Write-ins,,1.0,,,Mifflin County,0016 LEWISTOWN - WEST
+Mifflin,0016 LEWISTOWN - WEST,State House,82.0,John Hershey,REP,277.0,,,Mifflin County,0016 LEWISTOWN - WEST
+Mifflin,0016 LEWISTOWN - WEST,State House,82.0,Elizabeth Book,NOA,67.0,,,Mifflin County,0016 LEWISTOWN - WEST
+Mifflin,0016 LEWISTOWN - WEST,State House,82.0,Write-ins,,13.0,,,Mifflin County,0016 LEWISTOWN - WEST
+Mifflin,0017 LEWISTOWN - CENTRAL,U.S. Senate,,Bob Casey Jr,DEM,167.0,,,Mifflin County,0017 LEWISTOWN - CENTRAL
+Mifflin,0017 LEWISTOWN - CENTRAL,U.S. Senate,,Lou Barletta,REP,194.0,,,Mifflin County,0017 LEWISTOWN - CENTRAL
+Mifflin,0017 LEWISTOWN - CENTRAL,U.S. Senate,,Neal Gale,GRN,5.0,,,Mifflin County,0017 LEWISTOWN - CENTRAL
+Mifflin,0017 LEWISTOWN - CENTRAL,U.S. Senate,,Dale R Kerns Jr,LIB,8.0,,,Mifflin County,0017 LEWISTOWN - CENTRAL
+Mifflin,0017 LEWISTOWN - CENTRAL,U.S. Senate,,Write-ins,,1.0,,,Mifflin County,0017 LEWISTOWN - CENTRAL
+Mifflin,0017 LEWISTOWN - CENTRAL,Governor,,"Tom Wolf, Governor",DEM,176.0,,,Mifflin County,0017 LEWISTOWN - CENTRAL
+Mifflin,0017 LEWISTOWN - CENTRAL,Governor,,"Scott R Wagner, Governor",REP,188.0,,,Mifflin County,0017 LEWISTOWN - CENTRAL
+Mifflin,0017 LEWISTOWN - CENTRAL,Governor,,"Paul Glover, Governor",GRN,4.0,,,Mifflin County,0017 LEWISTOWN - CENTRAL
+Mifflin,0017 LEWISTOWN - CENTRAL,Governor,,"Ken V Krawchuk, Governor",LIB,9.0,,,Mifflin County,0017 LEWISTOWN - CENTRAL
+Mifflin,0017 LEWISTOWN - CENTRAL,Governor,,Write-ins,,0.0,,,Mifflin County,0017 LEWISTOWN - CENTRAL
+Mifflin,0017 LEWISTOWN - CENTRAL,U.S. House,12.0,Marc Friedenberg,DEM,151.0,,,Mifflin County,0017 LEWISTOWN - CENTRAL
+Mifflin,0017 LEWISTOWN - CENTRAL,U.S. House,12.0,Tom Marino,REP,223.0,,,Mifflin County,0017 LEWISTOWN - CENTRAL
+Mifflin,0017 LEWISTOWN - CENTRAL,U.S. House,12.0,Write-ins,,1.0,,,Mifflin County,0017 LEWISTOWN - CENTRAL
+Mifflin,0017 LEWISTOWN - CENTRAL,State Senate,34.0,Ezra Nanes,DEM,149.0,,,Mifflin County,0017 LEWISTOWN - CENTRAL
+Mifflin,0017 LEWISTOWN - CENTRAL,State Senate,34.0,Jacob D Corman III,REP,229.0,,,Mifflin County,0017 LEWISTOWN - CENTRAL
+Mifflin,0017 LEWISTOWN - CENTRAL,State Senate,34.0,Write-ins,,0.0,,,Mifflin County,0017 LEWISTOWN - CENTRAL
+Mifflin,0017 LEWISTOWN - CENTRAL,State House,82.0,John Hershey,REP,211.0,,,Mifflin County,0017 LEWISTOWN - CENTRAL
+Mifflin,0017 LEWISTOWN - CENTRAL,State House,82.0,Elizabeth Book,NOA,95.0,,,Mifflin County,0017 LEWISTOWN - CENTRAL
+Mifflin,0017 LEWISTOWN - CENTRAL,State House,82.0,Write-ins,,9.0,,,Mifflin County,0017 LEWISTOWN - CENTRAL
+Mifflin,0018 LEWISTOWN - NORTH,U.S. Senate,,Bob Casey Jr,DEM,189.0,,,Mifflin County,0018 LEWISTOWN - NORTH
+Mifflin,0018 LEWISTOWN - NORTH,U.S. Senate,,Lou Barletta,REP,305.0,,,Mifflin County,0018 LEWISTOWN - NORTH
+Mifflin,0018 LEWISTOWN - NORTH,U.S. Senate,,Neal Gale,GRN,2.0,,,Mifflin County,0018 LEWISTOWN - NORTH
+Mifflin,0018 LEWISTOWN - NORTH,U.S. Senate,,Dale R Kerns Jr,LIB,5.0,,,Mifflin County,0018 LEWISTOWN - NORTH
+Mifflin,0018 LEWISTOWN - NORTH,U.S. Senate,,Write-ins,,0.0,,,Mifflin County,0018 LEWISTOWN - NORTH
+Mifflin,0018 LEWISTOWN - NORTH,Governor,,"Tom Wolf, Governor",DEM,187.0,,,Mifflin County,0018 LEWISTOWN - NORTH
+Mifflin,0018 LEWISTOWN - NORTH,Governor,,"Scott R Wagner, Governor",REP,308.0,,,Mifflin County,0018 LEWISTOWN - NORTH
+Mifflin,0018 LEWISTOWN - NORTH,Governor,,"Paul Glover, Governor",GRN,5.0,,,Mifflin County,0018 LEWISTOWN - NORTH
+Mifflin,0018 LEWISTOWN - NORTH,Governor,,"Ken V Krawchuk, Governor",LIB,4.0,,,Mifflin County,0018 LEWISTOWN - NORTH
+Mifflin,0018 LEWISTOWN - NORTH,Governor,,Write-ins,,0.0,,,Mifflin County,0018 LEWISTOWN - NORTH
+Mifflin,0018 LEWISTOWN - NORTH,U.S. House,12.0,Marc Friedenberg,DEM,159.0,,,Mifflin County,0018 LEWISTOWN - NORTH
+Mifflin,0018 LEWISTOWN - NORTH,U.S. House,12.0,Tom Marino,REP,344.0,,,Mifflin County,0018 LEWISTOWN - NORTH
+Mifflin,0018 LEWISTOWN - NORTH,U.S. House,12.0,Write-ins,,0.0,,,Mifflin County,0018 LEWISTOWN - NORTH
+Mifflin,0018 LEWISTOWN - NORTH,State Senate,34.0,Ezra Nanes,DEM,162.0,,,Mifflin County,0018 LEWISTOWN - NORTH
+Mifflin,0018 LEWISTOWN - NORTH,State Senate,34.0,Jacob D Corman III,REP,341.0,,,Mifflin County,0018 LEWISTOWN - NORTH
+Mifflin,0018 LEWISTOWN - NORTH,State Senate,34.0,Write-ins,,0.0,,,Mifflin County,0018 LEWISTOWN - NORTH
+Mifflin,0018 LEWISTOWN - NORTH,State House,82.0,John Hershey,REP,342.0,,,Mifflin County,0018 LEWISTOWN - NORTH
+Mifflin,0018 LEWISTOWN - NORTH,State House,82.0,Elizabeth Book,NOA,94.0,,,Mifflin County,0018 LEWISTOWN - NORTH
+Mifflin,0018 LEWISTOWN - NORTH,State House,82.0,Write-ins,,1.0,,,Mifflin County,0018 LEWISTOWN - NORTH
+Mifflin,0019 LEWISTOWN - SOUTH,U.S. Senate,,Bob Casey Jr,DEM,263.0,,,Mifflin County,0019 LEWISTOWN - SOUTH
+Mifflin,0019 LEWISTOWN - SOUTH,U.S. Senate,,Lou Barletta,REP,393.0,,,Mifflin County,0019 LEWISTOWN - SOUTH
+Mifflin,0019 LEWISTOWN - SOUTH,U.S. Senate,,Neal Gale,GRN,6.0,,,Mifflin County,0019 LEWISTOWN - SOUTH
+Mifflin,0019 LEWISTOWN - SOUTH,U.S. Senate,,Dale R Kerns Jr,LIB,10.0,,,Mifflin County,0019 LEWISTOWN - SOUTH
+Mifflin,0019 LEWISTOWN - SOUTH,U.S. Senate,,Write-ins,,2.0,,,Mifflin County,0019 LEWISTOWN - SOUTH
+Mifflin,0019 LEWISTOWN - SOUTH,Governor,,"Tom Wolf, Governor",DEM,280.0,,,Mifflin County,0019 LEWISTOWN - SOUTH
+Mifflin,0019 LEWISTOWN - SOUTH,Governor,,"Scott R Wagner, Governor",REP,382.0,,,Mifflin County,0019 LEWISTOWN - SOUTH
+Mifflin,0019 LEWISTOWN - SOUTH,Governor,,"Paul Glover, Governor",GRN,4.0,,,Mifflin County,0019 LEWISTOWN - SOUTH
+Mifflin,0019 LEWISTOWN - SOUTH,Governor,,"Ken V Krawchuk, Governor",LIB,7.0,,,Mifflin County,0019 LEWISTOWN - SOUTH
+Mifflin,0019 LEWISTOWN - SOUTH,Governor,,Write-ins,,1.0,,,Mifflin County,0019 LEWISTOWN - SOUTH
+Mifflin,0019 LEWISTOWN - SOUTH,U.S. House,12.0,Marc Friedenberg,DEM,213.0,,,Mifflin County,0019 LEWISTOWN - SOUTH
+Mifflin,0019 LEWISTOWN - SOUTH,U.S. House,12.0,Tom Marino,REP,449.0,,,Mifflin County,0019 LEWISTOWN - SOUTH
+Mifflin,0019 LEWISTOWN - SOUTH,U.S. House,12.0,Write-ins,,2.0,,,Mifflin County,0019 LEWISTOWN - SOUTH
+Mifflin,0019 LEWISTOWN - SOUTH,State Senate,34.0,Ezra Nanes,DEM,221.0,,,Mifflin County,0019 LEWISTOWN - SOUTH
+Mifflin,0019 LEWISTOWN - SOUTH,State Senate,34.0,Jacob D Corman III,REP,452.0,,,Mifflin County,0019 LEWISTOWN - SOUTH
+Mifflin,0019 LEWISTOWN - SOUTH,State Senate,34.0,Write-ins,,0.0,,,Mifflin County,0019 LEWISTOWN - SOUTH
+Mifflin,0019 LEWISTOWN - SOUTH,State House,82.0,John Hershey,REP,448.0,,,Mifflin County,0019 LEWISTOWN - SOUTH
+Mifflin,0019 LEWISTOWN - SOUTH,State House,82.0,Elizabeth Book,NOA,139.0,,,Mifflin County,0019 LEWISTOWN - SOUTH
+Mifflin,0019 LEWISTOWN - SOUTH,State House,82.0,Write-ins,,5.0,,,Mifflin County,0019 LEWISTOWN - SOUTH
+Mifflin,0020 DERRY - WEST,U.S. Senate,,Bob Casey Jr,DEM,159.0,,,Mifflin County,0020 DERRY - WEST
+Mifflin,0020 DERRY - WEST,U.S. Senate,,Lou Barletta,REP,299.0,,,Mifflin County,0020 DERRY - WEST
+Mifflin,0020 DERRY - WEST,U.S. Senate,,Neal Gale,GRN,6.0,,,Mifflin County,0020 DERRY - WEST
+Mifflin,0020 DERRY - WEST,U.S. Senate,,Dale R Kerns Jr,LIB,6.0,,,Mifflin County,0020 DERRY - WEST
+Mifflin,0020 DERRY - WEST,U.S. Senate,,Write-ins,,0.0,,,Mifflin County,0020 DERRY - WEST
+Mifflin,0020 DERRY - WEST,Governor,,"Tom Wolf, Governor",DEM,172.0,,,Mifflin County,0020 DERRY - WEST
+Mifflin,0020 DERRY - WEST,Governor,,"Scott R Wagner, Governor",REP,294.0,,,Mifflin County,0020 DERRY - WEST
+Mifflin,0020 DERRY - WEST,Governor,,"Paul Glover, Governor",GRN,0.0,,,Mifflin County,0020 DERRY - WEST
+Mifflin,0020 DERRY - WEST,Governor,,"Ken V Krawchuk, Governor",LIB,4.0,,,Mifflin County,0020 DERRY - WEST
+Mifflin,0020 DERRY - WEST,Governor,,Write-ins,,2.0,,,Mifflin County,0020 DERRY - WEST
+Mifflin,0020 DERRY - WEST,U.S. House,12.0,Marc Friedenberg,DEM,126.0,,,Mifflin County,0020 DERRY - WEST
+Mifflin,0020 DERRY - WEST,U.S. House,12.0,Tom Marino,REP,342.0,,,Mifflin County,0020 DERRY - WEST
+Mifflin,0020 DERRY - WEST,U.S. House,12.0,Write-ins,,0.0,,,Mifflin County,0020 DERRY - WEST
+Mifflin,0020 DERRY - WEST,State Senate,34.0,Ezra Nanes,DEM,135.0,,,Mifflin County,0020 DERRY - WEST
+Mifflin,0020 DERRY - WEST,State Senate,34.0,Jacob D Corman III,REP,333.0,,,Mifflin County,0020 DERRY - WEST
+Mifflin,0020 DERRY - WEST,State Senate,34.0,Write-ins,,1.0,,,Mifflin County,0020 DERRY - WEST
+Mifflin,0020 DERRY - WEST,State House,82.0,John Hershey,REP,329.0,,,Mifflin County,0020 DERRY - WEST
+Mifflin,0020 DERRY - WEST,State House,82.0,Elizabeth Book,NOA,78.0,,,Mifflin County,0020 DERRY - WEST
+Mifflin,0020 DERRY - WEST,State House,82.0,Write-ins,,5.0,,,Mifflin County,0020 DERRY - WEST
+Mifflin,0021 McVEYTOWN BORO,U.S. Senate,,Bob Casey Jr,DEM,40.0,,,Mifflin County,0021 McVEYTOWN BORO
+Mifflin,0021 McVEYTOWN BORO,U.S. Senate,,Lou Barletta,REP,91.0,,,Mifflin County,0021 McVEYTOWN BORO
+Mifflin,0021 McVEYTOWN BORO,U.S. Senate,,Neal Gale,GRN,2.0,,,Mifflin County,0021 McVEYTOWN BORO
+Mifflin,0021 McVEYTOWN BORO,U.S. Senate,,Dale R Kerns Jr,LIB,2.0,,,Mifflin County,0021 McVEYTOWN BORO
+Mifflin,0021 McVEYTOWN BORO,U.S. Senate,,Write-ins,,0.0,,,Mifflin County,0021 McVEYTOWN BORO
+Mifflin,0021 McVEYTOWN BORO,Governor,,"Tom Wolf, Governor",DEM,50.0,,,Mifflin County,0021 McVEYTOWN BORO
+Mifflin,0021 McVEYTOWN BORO,Governor,,"Scott R Wagner, Governor",REP,83.0,,,Mifflin County,0021 McVEYTOWN BORO
+Mifflin,0021 McVEYTOWN BORO,Governor,,"Paul Glover, Governor",GRN,1.0,,,Mifflin County,0021 McVEYTOWN BORO
+Mifflin,0021 McVEYTOWN BORO,Governor,,"Ken V Krawchuk, Governor",LIB,0.0,,,Mifflin County,0021 McVEYTOWN BORO
+Mifflin,0021 McVEYTOWN BORO,Governor,,Write-ins,,0.0,,,Mifflin County,0021 McVEYTOWN BORO
+Mifflin,0021 McVEYTOWN BORO,U.S. House,12.0,Marc Friedenberg,DEM,27.0,,,Mifflin County,0021 McVEYTOWN BORO
+Mifflin,0021 McVEYTOWN BORO,U.S. House,12.0,Tom Marino,REP,105.0,,,Mifflin County,0021 McVEYTOWN BORO
+Mifflin,0021 McVEYTOWN BORO,U.S. House,12.0,Write-ins,,0.0,,,Mifflin County,0021 McVEYTOWN BORO
+Mifflin,0021 McVEYTOWN BORO,State Senate,34.0,Ezra Nanes,DEM,33.0,,,Mifflin County,0021 McVEYTOWN BORO
+Mifflin,0021 McVEYTOWN BORO,State Senate,34.0,Jacob D Corman III,REP,100.0,,,Mifflin County,0021 McVEYTOWN BORO
+Mifflin,0021 McVEYTOWN BORO,State Senate,34.0,Write-ins,,0.0,,,Mifflin County,0021 McVEYTOWN BORO
+Mifflin,0021 McVEYTOWN BORO,State House,82.0,John Hershey,REP,109.0,,,Mifflin County,0021 McVEYTOWN BORO
+Mifflin,0021 McVEYTOWN BORO,State House,82.0,Elizabeth Book,NOA,19.0,,,Mifflin County,0021 McVEYTOWN BORO
+Mifflin,0021 McVEYTOWN BORO,State House,82.0,Write-ins,,0.0,,,Mifflin County,0021 McVEYTOWN BORO
+Mifflin,0022 MENNO,U.S. Senate,,Bob Casey Jr,DEM,34.0,,,Mifflin County,0022 MENNO
+Mifflin,0022 MENNO,U.S. Senate,,Lou Barletta,REP,250.0,,,Mifflin County,0022 MENNO
+Mifflin,0022 MENNO,U.S. Senate,,Neal Gale,GRN,3.0,,,Mifflin County,0022 MENNO
+Mifflin,0022 MENNO,U.S. Senate,,Dale R Kerns Jr,LIB,3.0,,,Mifflin County,0022 MENNO
+Mifflin,0022 MENNO,U.S. Senate,,Write-ins,,1.0,,,Mifflin County,0022 MENNO
+Mifflin,0022 MENNO,Governor,,"Tom Wolf, Governor",DEM,34.0,,,Mifflin County,0022 MENNO
+Mifflin,0022 MENNO,Governor,,"Scott R Wagner, Governor",REP,252.0,,,Mifflin County,0022 MENNO
+Mifflin,0022 MENNO,Governor,,"Paul Glover, Governor",GRN,1.0,,,Mifflin County,0022 MENNO
+Mifflin,0022 MENNO,Governor,,"Ken V Krawchuk, Governor",LIB,3.0,,,Mifflin County,0022 MENNO
+Mifflin,0022 MENNO,Governor,,Write-ins,,1.0,,,Mifflin County,0022 MENNO
+Mifflin,0022 MENNO,U.S. House,12.0,Marc Friedenberg,DEM,21.0,,,Mifflin County,0022 MENNO
+Mifflin,0022 MENNO,U.S. House,12.0,Tom Marino,REP,269.0,,,Mifflin County,0022 MENNO
+Mifflin,0022 MENNO,U.S. House,12.0,Write-ins,,1.0,,,Mifflin County,0022 MENNO
+Mifflin,0022 MENNO,State Senate,34.0,Ezra Nanes,DEM,26.0,,,Mifflin County,0022 MENNO
+Mifflin,0022 MENNO,State Senate,34.0,Jacob D Corman III,REP,265.0,,,Mifflin County,0022 MENNO
+Mifflin,0022 MENNO,State Senate,34.0,Write-ins,,0.0,,,Mifflin County,0022 MENNO
+Mifflin,0022 MENNO,State House,82.0,John Hershey,REP,263.0,,,Mifflin County,0022 MENNO
+Mifflin,0022 MENNO,State House,82.0,Elizabeth Book,NOA,16.0,,,Mifflin County,0022 MENNO
+Mifflin,0022 MENNO,State House,82.0,Write-ins,,0.0,,,Mifflin County,0022 MENNO
+Mifflin,0023 NEWTON HAMILTON BORO,U.S. Senate,,Bob Casey Jr,DEM,10.0,,,Mifflin County,0023 NEWTON HAMILTON BORO
+Mifflin,0023 NEWTON HAMILTON BORO,U.S. Senate,,Lou Barletta,REP,42.0,,,Mifflin County,0023 NEWTON HAMILTON BORO
+Mifflin,0023 NEWTON HAMILTON BORO,U.S. Senate,,Neal Gale,GRN,1.0,,,Mifflin County,0023 NEWTON HAMILTON BORO
+Mifflin,0023 NEWTON HAMILTON BORO,U.S. Senate,,Dale R Kerns Jr,LIB,1.0,,,Mifflin County,0023 NEWTON HAMILTON BORO
+Mifflin,0023 NEWTON HAMILTON BORO,U.S. Senate,,Write-ins,,0.0,,,Mifflin County,0023 NEWTON HAMILTON BORO
+Mifflin,0023 NEWTON HAMILTON BORO,Governor,,"Tom Wolf, Governor",DEM,11.0,,,Mifflin County,0023 NEWTON HAMILTON BORO
+Mifflin,0023 NEWTON HAMILTON BORO,Governor,,"Scott R Wagner, Governor",REP,41.0,,,Mifflin County,0023 NEWTON HAMILTON BORO
+Mifflin,0023 NEWTON HAMILTON BORO,Governor,,"Paul Glover, Governor",GRN,1.0,,,Mifflin County,0023 NEWTON HAMILTON BORO
+Mifflin,0023 NEWTON HAMILTON BORO,Governor,,"Ken V Krawchuk, Governor",LIB,0.0,,,Mifflin County,0023 NEWTON HAMILTON BORO
+Mifflin,0023 NEWTON HAMILTON BORO,Governor,,Write-ins,,0.0,,,Mifflin County,0023 NEWTON HAMILTON BORO
+Mifflin,0023 NEWTON HAMILTON BORO,U.S. House,12.0,Marc Friedenberg,DEM,8.0,,,Mifflin County,0023 NEWTON HAMILTON BORO
+Mifflin,0023 NEWTON HAMILTON BORO,U.S. House,12.0,Tom Marino,REP,46.0,,,Mifflin County,0023 NEWTON HAMILTON BORO
+Mifflin,0023 NEWTON HAMILTON BORO,U.S. House,12.0,Write-ins,,0.0,,,Mifflin County,0023 NEWTON HAMILTON BORO
+Mifflin,0023 NEWTON HAMILTON BORO,State Senate,34.0,Ezra Nanes,DEM,8.0,,,Mifflin County,0023 NEWTON HAMILTON BORO
+Mifflin,0023 NEWTON HAMILTON BORO,State Senate,34.0,Jacob D Corman III,REP,46.0,,,Mifflin County,0023 NEWTON HAMILTON BORO
+Mifflin,0023 NEWTON HAMILTON BORO,State Senate,34.0,Write-ins,,0.0,,,Mifflin County,0023 NEWTON HAMILTON BORO
+Mifflin,0023 NEWTON HAMILTON BORO,State House,81.0,Rick Rogers,DEM,10.0,,,Mifflin County,0023 NEWTON HAMILTON BORO
+Mifflin,0023 NEWTON HAMILTON BORO,State House,81.0,Rich Irvin,REP,41.0,,,Mifflin County,0023 NEWTON HAMILTON BORO
+Mifflin,0023 NEWTON HAMILTON BORO,State House,81.0,Joseph P Soloski,LIB,3.0,,,Mifflin County,0023 NEWTON HAMILTON BORO
+Mifflin,0023 NEWTON HAMILTON BORO,State House,81.0,Write-ins,,0.0,,,Mifflin County,0023 NEWTON HAMILTON BORO
+Mifflin,0024 OLIVER,U.S. Senate,,Bob Casey Jr,DEM,150.0,,,Mifflin County,0024 OLIVER
+Mifflin,0024 OLIVER,U.S. Senate,,Lou Barletta,REP,552.0,,,Mifflin County,0024 OLIVER
+Mifflin,0024 OLIVER,U.S. Senate,,Neal Gale,GRN,3.0,,,Mifflin County,0024 OLIVER
+Mifflin,0024 OLIVER,U.S. Senate,,Dale R Kerns Jr,LIB,7.0,,,Mifflin County,0024 OLIVER
+Mifflin,0024 OLIVER,U.S. Senate,,Write-ins,,0.0,,,Mifflin County,0024 OLIVER
+Mifflin,0024 OLIVER,Governor,,"Tom Wolf, Governor",DEM,162.0,,,Mifflin County,0024 OLIVER
+Mifflin,0024 OLIVER,Governor,,"Scott R Wagner, Governor",REP,545.0,,,Mifflin County,0024 OLIVER
+Mifflin,0024 OLIVER,Governor,,"Paul Glover, Governor",GRN,0.0,,,Mifflin County,0024 OLIVER
+Mifflin,0024 OLIVER,Governor,,"Ken V Krawchuk, Governor",LIB,8.0,,,Mifflin County,0024 OLIVER
+Mifflin,0024 OLIVER,Governor,,Write-ins,,0.0,,,Mifflin County,0024 OLIVER
+Mifflin,0024 OLIVER,U.S. House,12.0,Marc Friedenberg,DEM,120.0,,,Mifflin County,0024 OLIVER
+Mifflin,0024 OLIVER,U.S. House,12.0,Tom Marino,REP,589.0,,,Mifflin County,0024 OLIVER
+Mifflin,0024 OLIVER,U.S. House,12.0,Write-ins,,0.0,,,Mifflin County,0024 OLIVER
+Mifflin,0024 OLIVER,State Senate,34.0,Ezra Nanes,DEM,126.0,,,Mifflin County,0024 OLIVER
+Mifflin,0024 OLIVER,State Senate,34.0,Jacob D Corman III,REP,586.0,,,Mifflin County,0024 OLIVER
+Mifflin,0024 OLIVER,State Senate,34.0,Write-ins,,0.0,,,Mifflin County,0024 OLIVER
+Mifflin,0024 OLIVER,State House,82.0,John Hershey,REP,575.0,,,Mifflin County,0024 OLIVER
+Mifflin,0024 OLIVER,State House,82.0,Elizabeth Book,NOA,94.0,,,Mifflin County,0024 OLIVER
+Mifflin,0024 OLIVER,State House,82.0,Write-ins,,6.0,,,Mifflin County,0024 OLIVER
+Mifflin,0025 UNION,U.S. Senate,,Bob Casey Jr,DEM,223.0,,,Mifflin County,0025 UNION
+Mifflin,0025 UNION,U.S. Senate,,Lou Barletta,REP,755.0,,,Mifflin County,0025 UNION
+Mifflin,0025 UNION,U.S. Senate,,Neal Gale,GRN,3.0,,,Mifflin County,0025 UNION
+Mifflin,0025 UNION,U.S. Senate,,Dale R Kerns Jr,LIB,12.0,,,Mifflin County,0025 UNION
+Mifflin,0025 UNION,U.S. Senate,,Write-ins,,0.0,,,Mifflin County,0025 UNION
+Mifflin,0025 UNION,Governor,,"Tom Wolf, Governor",DEM,226.0,,,Mifflin County,0025 UNION
+Mifflin,0025 UNION,Governor,,"Scott R Wagner, Governor",REP,750.0,,,Mifflin County,0025 UNION
+Mifflin,0025 UNION,Governor,,"Paul Glover, Governor",GRN,4.0,,,Mifflin County,0025 UNION
+Mifflin,0025 UNION,Governor,,"Ken V Krawchuk, Governor",LIB,9.0,,,Mifflin County,0025 UNION
+Mifflin,0025 UNION,Governor,,Write-ins,,0.0,,,Mifflin County,0025 UNION
+Mifflin,0025 UNION,U.S. House,12.0,Marc Friedenberg,DEM,167.0,,,Mifflin County,0025 UNION
+Mifflin,0025 UNION,U.S. House,12.0,Tom Marino,REP,821.0,,,Mifflin County,0025 UNION
+Mifflin,0025 UNION,U.S. House,12.0,Write-ins,,1.0,,,Mifflin County,0025 UNION
+Mifflin,0025 UNION,State Senate,34.0,Ezra Nanes,DEM,171.0,,,Mifflin County,0025 UNION
+Mifflin,0025 UNION,State Senate,34.0,Jacob D Corman III,REP,820.0,,,Mifflin County,0025 UNION
+Mifflin,0025 UNION,State Senate,34.0,Write-ins,,0.0,,,Mifflin County,0025 UNION
+Mifflin,0025 UNION,State House,171.0,Erin McCracken,DEM,154.0,,,Mifflin County,0025 UNION
+Mifflin,0025 UNION,State House,171.0,Kerry A Benninghoff,REP,837.0,,,Mifflin County,0025 UNION
+Mifflin,0025 UNION,State House,171.0,Write-ins,,0.0,,,Mifflin County,0025 UNION
+Mifflin,0026 WAYNE,U.S. Senate,,Bob Casey Jr,DEM,175.0,,,Mifflin County,0026 WAYNE
+Mifflin,0026 WAYNE,U.S. Senate,,Lou Barletta,REP,600.0,,,Mifflin County,0026 WAYNE
+Mifflin,0026 WAYNE,U.S. Senate,,Neal Gale,GRN,1.0,,,Mifflin County,0026 WAYNE
+Mifflin,0026 WAYNE,U.S. Senate,,Dale R Kerns Jr,LIB,4.0,,,Mifflin County,0026 WAYNE
+Mifflin,0026 WAYNE,U.S. Senate,,Write-ins,,0.0,,,Mifflin County,0026 WAYNE
+Mifflin,0026 WAYNE,Governor,,"Tom Wolf, Governor",DEM,169.0,,,Mifflin County,0026 WAYNE
+Mifflin,0026 WAYNE,Governor,,"Scott R Wagner, Governor",REP,606.0,,,Mifflin County,0026 WAYNE
+Mifflin,0026 WAYNE,Governor,,"Paul Glover, Governor",GRN,3.0,,,Mifflin County,0026 WAYNE
+Mifflin,0026 WAYNE,Governor,,"Ken V Krawchuk, Governor",LIB,0.0,,,Mifflin County,0026 WAYNE
+Mifflin,0026 WAYNE,Governor,,Write-ins,,0.0,,,Mifflin County,0026 WAYNE
+Mifflin,0026 WAYNE,U.S. House,12.0,Marc Friedenberg,DEM,140.0,,,Mifflin County,0026 WAYNE
+Mifflin,0026 WAYNE,U.S. House,12.0,Tom Marino,REP,635.0,,,Mifflin County,0026 WAYNE
+Mifflin,0026 WAYNE,U.S. House,12.0,Write-ins,,1.0,,,Mifflin County,0026 WAYNE
+Mifflin,0026 WAYNE,State Senate,34.0,Ezra Nanes,DEM,134.0,,,Mifflin County,0026 WAYNE
+Mifflin,0026 WAYNE,State Senate,34.0,Jacob D Corman III,REP,642.0,,,Mifflin County,0026 WAYNE
+Mifflin,0026 WAYNE,State Senate,34.0,Write-ins,,1.0,,,Mifflin County,0026 WAYNE
+Mifflin,0026 WAYNE,State House,81.0,Rick Rogers,DEM,145.0,,,Mifflin County,0026 WAYNE
+Mifflin,0026 WAYNE,State House,81.0,Rich Irvin,REP,618.0,,,Mifflin County,0026 WAYNE
+Mifflin,0026 WAYNE,State House,81.0,Joseph P Soloski,LIB,13.0,,,Mifflin County,0026 WAYNE
+Mifflin,0026 WAYNE,State House,81.0,Write-ins,,1.0,,,Mifflin County,0026 WAYNE

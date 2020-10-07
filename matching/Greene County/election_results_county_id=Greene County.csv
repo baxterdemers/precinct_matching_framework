@@ -1,0 +1,617 @@
+county,precinct,office,district,candidate,party,votes,election_day,absentee,county_id,original_precinct_name
+Greene,ALEPPO,U.S. Senate,,Bob Casey Jr.,DEM,73.0,,,Greene County,ALEPPO
+Greene,CARMICHAELS,U.S. Senate,,Bob Casey Jr.,DEM,82.0,,,Greene County,CARMICHAELS
+Greene,CENTER,U.S. Senate,,Bob Casey Jr.,DEM,195.0,,,Greene County,CENTER
+Greene,CLARKSVILLE,U.S. Senate,,Bob Casey Jr.,DEM,35.0,,,Greene County,CLARKSVILLE
+Greene,CUMBERLANDXNEMACOLIN,U.S. Senate,,Bob Casey Jr.,DEM,119.0,,,Greene County,CUMBERLANDXNEMACOLIN
+Greene,CUMBERLANDX1,U.S. Senate,,Bob Casey Jr.,DEM,377.0,,,Greene County,CUMBERLANDX1
+Greene,CUMBERLANDX2,U.S. Senate,,Bob Casey Jr.,DEM,198.0,,,Greene County,CUMBERLANDX2
+Greene,CUMBERLANDX4,U.S. Senate,,Bob Casey Jr.,DEM,378.0,,,Greene County,CUMBERLANDX4
+Greene,DUNKARDXBOBTOWN,U.S. Senate,,Bob Casey Jr.,DEM,127.0,,,Greene County,DUNKARDXBOBTOWN
+Greene,DUNKARDXDILLINER,U.S. Senate,,Bob Casey Jr.,DEM,80.0,,,Greene County,DUNKARDXDILLINER
+Greene,DUNKARDXLOWER,U.S. Senate,,Bob Casey Jr.,DEM,61.0,,,Greene County,DUNKARDXLOWER
+Greene,DUNKARDXUPPER,U.S. Senate,,Bob Casey Jr.,DEM,50.0,,,Greene County,DUNKARDXUPPER
+Greene,FRANKLINXEAST,U.S. Senate,,Bob Casey Jr.,DEM,432.0,,,Greene County,FRANKLINXEAST
+Greene,FRANKLINXNORTH,U.S. Senate,,Bob Casey Jr.,DEM,215.0,,,Greene County,FRANKLINXNORTH
+Greene,FRANKLINXSOUTH,U.S. Senate,,Bob Casey Jr.,DEM,104.0,,,Greene County,FRANKLINXSOUTH
+Greene,FRANKLINXWEST,U.S. Senate,,Bob Casey Jr.,DEM,73.0,,,Greene County,FRANKLINXWEST
+Greene,FREEPORT,U.S. Senate,,Bob Casey Jr.,DEM,44.0,,,Greene County,FREEPORT
+Greene,GILMORE,U.S. Senate,,Bob Casey Jr.,DEM,44.0,,,Greene County,GILMORE
+Greene,GRAY,U.S. Senate,,Bob Casey Jr.,DEM,28.0,,,Greene County,GRAY
+Greene,GREENE,U.S. Senate,,Bob Casey Jr.,DEM,83.0,,,Greene County,GREENE
+Greene,GREENSBORO,U.S. Senate,,Bob Casey Jr.,DEM,46.0,,,Greene County,GREENSBORO
+Greene,JACKSON,U.S. Senate,,Bob Casey Jr.,DEM,54.0,,,Greene County,JACKSON
+Greene,JEFFERSONX1,U.S. Senate,,Bob Casey Jr.,DEM,202.0,,,Greene County,JEFFERSONX1
+Greene,JEFFERSONX2,U.S. Senate,,Bob Casey Jr.,DEM,48.0,,,Greene County,JEFFERSONX2
+Greene,JEFFERSONX3,U.S. Senate,,Bob Casey Jr.,DEM,226.0,,,Greene County,JEFFERSONX3
+Greene,JEFFERSONX4,U.S. Senate,,Bob Casey Jr.,DEM,67.0,,,Greene County,JEFFERSONX4
+Greene,JEFFERSON,U.S. Senate,,Bob Casey Jr.,DEM,72.0,,,Greene County,JEFFERSON
+Greene,MONONGAHELAX1,U.S. Senate,,Bob Casey Jr.,DEM,148.0,,,Greene County,MONONGAHELAX1
+Greene,MONONGAHELAX2,U.S. Senate,,Bob Casey Jr.,DEM,87.0,,,Greene County,MONONGAHELAX2
+Greene,MORGANXCHART/T.GRDN,U.S. Senate,,Bob Casey Jr.,DEM,103.0,,,Greene County,MORGANXCHART/T.GRDN
+Greene,MORGANXLIPPENCOTT,U.S. Senate,,Bob Casey Jr.,DEM,139.0,,,Greene County,MORGANXLIPPENCOTT
+Greene,MORGANXMATHER,U.S. Senate,,Bob Casey Jr.,DEM,243.0,,,Greene County,MORGANXMATHER
+Greene,MORRIS,U.S. Senate,,Bob Casey Jr.,DEM,103.0,,,Greene County,MORRIS
+Greene,PERRY,U.S. Senate,,Bob Casey Jr.,DEM,275.0,,,Greene County,PERRY
+Greene,RICES LANDING,U.S. Senate,,Bob Casey Jr.,DEM,90.0,,,Greene County,RICES LANDING
+Greene,RICHHILL,U.S. Senate,,Bob Casey Jr.,DEM,111.0,,,Greene County,RICHHILL
+Greene,SPRINGHILL,U.S. Senate,,Bob Casey Jr.,DEM,42.0,,,Greene County,SPRINGHILL
+Greene,WASHINGTON,U.S. Senate,,Bob Casey Jr.,DEM,171.0,,,Greene County,WASHINGTON
+Greene,WAYNEXEAST,U.S. Senate,,Bob Casey Jr.,DEM,108.0,,,Greene County,WAYNEXEAST
+Greene,WAYNEXWEST,U.S. Senate,,Bob Casey Jr.,DEM,56.0,,,Greene County,WAYNEXWEST
+Greene,WAYNESBURGW1,U.S. Senate,,Bob Casey Jr.,DEM,194.0,,,Greene County,WAYNESBURGW1
+Greene,WAYNESBURGW2,U.S. Senate,,Bob Casey Jr.,DEM,153.0,,,Greene County,WAYNESBURGW2
+Greene,WAYNESBURGW3,U.S. Senate,,Bob Casey Jr.,DEM,186.0,,,Greene County,WAYNESBURGW3
+Greene,WHITELEY,U.S. Senate,,Bob Casey Jr.,DEM,97.0,,,Greene County,WHITELEY
+Greene,ALEPPO,U.S. Senate,,Lou Barletta,REP,97.0,,,Greene County,ALEPPO
+Greene,CARMICHAELS,U.S. Senate,,Lou Barletta,REP,94.0,,,Greene County,CARMICHAELS
+Greene,CENTER,U.S. Senate,,Lou Barletta,REP,247.0,,,Greene County,CENTER
+Greene,CLARKSVILLE,U.S. Senate,,Lou Barletta,REP,40.0,,,Greene County,CLARKSVILLE
+Greene,CUMBERLANDXNEMACOLIN,U.S. Senate,,Lou Barletta,REP,95.0,,,Greene County,CUMBERLANDXNEMACOLIN
+Greene,CUMBERLANDX1,U.S. Senate,,Lou Barletta,REP,470.0,,,Greene County,CUMBERLANDX1
+Greene,CUMBERLANDX2,U.S. Senate,,Lou Barletta,REP,182.0,,,Greene County,CUMBERLANDX2
+Greene,CUMBERLANDX4,U.S. Senate,,Lou Barletta,REP,377.0,,,Greene County,CUMBERLANDX4
+Greene,DUNKARDXBOBTOWN,U.S. Senate,,Lou Barletta,REP,97.0,,,Greene County,DUNKARDXBOBTOWN
+Greene,DUNKARDXDILLINER,U.S. Senate,,Lou Barletta,REP,109.0,,,Greene County,DUNKARDXDILLINER
+Greene,DUNKARDXLOWER,U.S. Senate,,Lou Barletta,REP,64.0,,,Greene County,DUNKARDXLOWER
+Greene,DUNKARDXUPPER,U.S. Senate,,Lou Barletta,REP,56.0,,,Greene County,DUNKARDXUPPER
+Greene,FRANKLINXEAST,U.S. Senate,,Lou Barletta,REP,507.0,,,Greene County,FRANKLINXEAST
+Greene,FRANKLINXNORTH,U.S. Senate,,Lou Barletta,REP,285.0,,,Greene County,FRANKLINXNORTH
+Greene,FRANKLINXSOUTH,U.S. Senate,,Lou Barletta,REP,129.0,,,Greene County,FRANKLINXSOUTH
+Greene,FRANKLINXWEST,U.S. Senate,,Lou Barletta,REP,117.0,,,Greene County,FRANKLINXWEST
+Greene,FREEPORT,U.S. Senate,,Lou Barletta,REP,48.0,,,Greene County,FREEPORT
+Greene,GILMORE,U.S. Senate,,Lou Barletta,REP,49.0,,,Greene County,GILMORE
+Greene,GRAY,U.S. Senate,,Lou Barletta,REP,43.0,,,Greene County,GRAY
+Greene,GREENE,U.S. Senate,,Lou Barletta,REP,90.0,,,Greene County,GREENE
+Greene,GREENSBORO,U.S. Senate,,Lou Barletta,REP,34.0,,,Greene County,GREENSBORO
+Greene,JACKSON,U.S. Senate,,Lou Barletta,REP,91.0,,,Greene County,JACKSON
+Greene,JEFFERSONX1,U.S. Senate,,Lou Barletta,REP,243.0,,,Greene County,JEFFERSONX1
+Greene,JEFFERSONX2,U.S. Senate,,Lou Barletta,REP,45.0,,,Greene County,JEFFERSONX2
+Greene,JEFFERSONX3,U.S. Senate,,Lou Barletta,REP,177.0,,,Greene County,JEFFERSONX3
+Greene,JEFFERSONX4,U.S. Senate,,Lou Barletta,REP,32.0,,,Greene County,JEFFERSONX4
+Greene,JEFFERSON,U.S. Senate,,Lou Barletta,REP,45.0,,,Greene County,JEFFERSON
+Greene,MONONGAHELAX1,U.S. Senate,,Lou Barletta,REP,158.0,,,Greene County,MONONGAHELAX1
+Greene,MONONGAHELAX2,U.S. Senate,,Lou Barletta,REP,73.0,,,Greene County,MONONGAHELAX2
+Greene,MORGANXCHART/T.GRDN,U.S. Senate,,Lou Barletta,REP,87.0,,,Greene County,MORGANXCHART/T.GRDN
+Greene,MORGANXLIPPENCOTT,U.S. Senate,,Lou Barletta,REP,223.0,,,Greene County,MORGANXLIPPENCOTT
+Greene,MORGANXMATHER,U.S. Senate,,Lou Barletta,REP,171.0,,,Greene County,MORGANXMATHER
+Greene,MORRIS,U.S. Senate,,Lou Barletta,REP,168.0,,,Greene County,MORRIS
+Greene,PERRY,U.S. Senate,,Lou Barletta,REP,308.0,,,Greene County,PERRY
+Greene,RICES LANDING,U.S. Senate,,Lou Barletta,REP,93.0,,,Greene County,RICES LANDING
+Greene,RICHHILL,U.S. Senate,,Lou Barletta,REP,177.0,,,Greene County,RICHHILL
+Greene,SPRINGHILL,U.S. Senate,,Lou Barletta,REP,55.0,,,Greene County,SPRINGHILL
+Greene,WASHINGTON,U.S. Senate,,Lou Barletta,REP,261.0,,,Greene County,WASHINGTON
+Greene,WAYNEXEAST,U.S. Senate,,Lou Barletta,REP,106.0,,,Greene County,WAYNEXEAST
+Greene,WAYNEXWEST,U.S. Senate,,Lou Barletta,REP,78.0,,,Greene County,WAYNEXWEST
+Greene,WAYNESBURGW1,U.S. Senate,,Lou Barletta,REP,179.0,,,Greene County,WAYNESBURGW1
+Greene,WAYNESBURGW2,U.S. Senate,,Lou Barletta,REP,96.0,,,Greene County,WAYNESBURGW2
+Greene,WAYNESBURGW3,U.S. Senate,,Lou Barletta,REP,183.0,,,Greene County,WAYNESBURGW3
+Greene,WHITELEY,U.S. Senate,,Lou Barletta,REP,143.0,,,Greene County,WHITELEY
+Greene,ALEPPO,U.S. Senate,,Neal Gale,GRN,2.0,,,Greene County,ALEPPO
+Greene,CARMICHAELS,U.S. Senate,,Neal Gale,GRN,2.0,,,Greene County,CARMICHAELS
+Greene,CENTER,U.S. Senate,,Neal Gale,GRN,5.0,,,Greene County,CENTER
+Greene,CLARKSVILLE,U.S. Senate,,Neal Gale,GRN,1.0,,,Greene County,CLARKSVILLE
+Greene,CUMBERLANDXNEMACOLIN,U.S. Senate,,Neal Gale,GRN,1.0,,,Greene County,CUMBERLANDXNEMACOLIN
+Greene,CUMBERLANDX1,U.S. Senate,,Neal Gale,GRN,5.0,,,Greene County,CUMBERLANDX1
+Greene,CUMBERLANDX2,U.S. Senate,,Neal Gale,GRN,4.0,,,Greene County,CUMBERLANDX2
+Greene,CUMBERLANDX4,U.S. Senate,,Neal Gale,GRN,4.0,,,Greene County,CUMBERLANDX4
+Greene,DUNKARDXBOBTOWN,U.S. Senate,,Neal Gale,GRN,0.0,,,Greene County,DUNKARDXBOBTOWN
+Greene,DUNKARDXDILLINER,U.S. Senate,,Neal Gale,GRN,1.0,,,Greene County,DUNKARDXDILLINER
+Greene,DUNKARDXLOWER,U.S. Senate,,Neal Gale,GRN,2.0,,,Greene County,DUNKARDXLOWER
+Greene,DUNKARDXUPPER,U.S. Senate,,Neal Gale,GRN,0.0,,,Greene County,DUNKARDXUPPER
+Greene,FRANKLINXEAST,U.S. Senate,,Neal Gale,GRN,4.0,,,Greene County,FRANKLINXEAST
+Greene,FRANKLINXNORTH,U.S. Senate,,Neal Gale,GRN,3.0,,,Greene County,FRANKLINXNORTH
+Greene,FRANKLINXSOUTH,U.S. Senate,,Neal Gale,GRN,1.0,,,Greene County,FRANKLINXSOUTH
+Greene,FRANKLINXWEST,U.S. Senate,,Neal Gale,GRN,2.0,,,Greene County,FRANKLINXWEST
+Greene,FREEPORT,U.S. Senate,,Neal Gale,GRN,0.0,,,Greene County,FREEPORT
+Greene,GILMORE,U.S. Senate,,Neal Gale,GRN,0.0,,,Greene County,GILMORE
+Greene,GRAY,U.S. Senate,,Neal Gale,GRN,0.0,,,Greene County,GRAY
+Greene,GREENE,U.S. Senate,,Neal Gale,GRN,1.0,,,Greene County,GREENE
+Greene,GREENSBORO,U.S. Senate,,Neal Gale,GRN,0.0,,,Greene County,GREENSBORO
+Greene,JACKSON,U.S. Senate,,Neal Gale,GRN,0.0,,,Greene County,JACKSON
+Greene,JEFFERSONX1,U.S. Senate,,Neal Gale,GRN,1.0,,,Greene County,JEFFERSONX1
+Greene,JEFFERSONX2,U.S. Senate,,Neal Gale,GRN,2.0,,,Greene County,JEFFERSONX2
+Greene,JEFFERSONX3,U.S. Senate,,Neal Gale,GRN,2.0,,,Greene County,JEFFERSONX3
+Greene,JEFFERSONX4,U.S. Senate,,Neal Gale,GRN,1.0,,,Greene County,JEFFERSONX4
+Greene,JEFFERSON,U.S. Senate,,Neal Gale,GRN,0.0,,,Greene County,JEFFERSON
+Greene,MONONGAHELAX1,U.S. Senate,,Neal Gale,GRN,1.0,,,Greene County,MONONGAHELAX1
+Greene,MONONGAHELAX2,U.S. Senate,,Neal Gale,GRN,0.0,,,Greene County,MONONGAHELAX2
+Greene,MORGANXCHART/T.GRDN,U.S. Senate,,Neal Gale,GRN,2.0,,,Greene County,MORGANXCHART/T.GRDN
+Greene,MORGANXLIPPENCOTT,U.S. Senate,,Neal Gale,GRN,1.0,,,Greene County,MORGANXLIPPENCOTT
+Greene,MORGANXMATHER,U.S. Senate,,Neal Gale,GRN,2.0,,,Greene County,MORGANXMATHER
+Greene,MORRIS,U.S. Senate,,Neal Gale,GRN,3.0,,,Greene County,MORRIS
+Greene,PERRY,U.S. Senate,,Neal Gale,GRN,1.0,,,Greene County,PERRY
+Greene,RICES LANDING,U.S. Senate,,Neal Gale,GRN,0.0,,,Greene County,RICES LANDING
+Greene,RICHHILL,U.S. Senate,,Neal Gale,GRN,3.0,,,Greene County,RICHHILL
+Greene,SPRINGHILL,U.S. Senate,,Neal Gale,GRN,2.0,,,Greene County,SPRINGHILL
+Greene,WASHINGTON,U.S. Senate,,Neal Gale,GRN,5.0,,,Greene County,WASHINGTON
+Greene,WAYNEXEAST,U.S. Senate,,Neal Gale,GRN,1.0,,,Greene County,WAYNEXEAST
+Greene,WAYNEXWEST,U.S. Senate,,Neal Gale,GRN,1.0,,,Greene County,WAYNEXWEST
+Greene,WAYNESBURGW1,U.S. Senate,,Neal Gale,GRN,3.0,,,Greene County,WAYNESBURGW1
+Greene,WAYNESBURGW2,U.S. Senate,,Neal Gale,GRN,1.0,,,Greene County,WAYNESBURGW2
+Greene,WAYNESBURGW3,U.S. Senate,,Neal Gale,GRN,0.0,,,Greene County,WAYNESBURGW3
+Greene,WHITELEY,U.S. Senate,,Neal Gale,GRN,2.0,,,Greene County,WHITELEY
+Greene,ALEPPO,U.S. Senate,,Dale R. Kerns Jr.,LIB,0.0,,,Greene County,ALEPPO
+Greene,CARMICHAELS,U.S. Senate,,Dale R. Kerns Jr.,LIB,3.0,,,Greene County,CARMICHAELS
+Greene,CENTER,U.S. Senate,,Dale R. Kerns Jr.,LIB,2.0,,,Greene County,CENTER
+Greene,CLARKSVILLE,U.S. Senate,,Dale R. Kerns Jr.,LIB,0.0,,,Greene County,CLARKSVILLE
+Greene,CUMBERLANDXNEMACOLIN,U.S. Senate,,Dale R. Kerns Jr.,LIB,3.0,,,Greene County,CUMBERLANDXNEMACOLIN
+Greene,CUMBERLANDX1,U.S. Senate,,Dale R. Kerns Jr.,LIB,5.0,,,Greene County,CUMBERLANDX1
+Greene,CUMBERLANDX2,U.S. Senate,,Dale R. Kerns Jr.,LIB,2.0,,,Greene County,CUMBERLANDX2
+Greene,CUMBERLANDX4,U.S. Senate,,Dale R. Kerns Jr.,LIB,8.0,,,Greene County,CUMBERLANDX4
+Greene,DUNKARDXBOBTOWN,U.S. Senate,,Dale R. Kerns Jr.,LIB,1.0,,,Greene County,DUNKARDXBOBTOWN
+Greene,DUNKARDXDILLINER,U.S. Senate,,Dale R. Kerns Jr.,LIB,3.0,,,Greene County,DUNKARDXDILLINER
+Greene,DUNKARDXLOWER,U.S. Senate,,Dale R. Kerns Jr.,LIB,2.0,,,Greene County,DUNKARDXLOWER
+Greene,DUNKARDXUPPER,U.S. Senate,,Dale R. Kerns Jr.,LIB,0.0,,,Greene County,DUNKARDXUPPER
+Greene,FRANKLINXEAST,U.S. Senate,,Dale R. Kerns Jr.,LIB,10.0,,,Greene County,FRANKLINXEAST
+Greene,FRANKLINXNORTH,U.S. Senate,,Dale R. Kerns Jr.,LIB,6.0,,,Greene County,FRANKLINXNORTH
+Greene,FRANKLINXSOUTH,U.S. Senate,,Dale R. Kerns Jr.,LIB,2.0,,,Greene County,FRANKLINXSOUTH
+Greene,FRANKLINXWEST,U.S. Senate,,Dale R. Kerns Jr.,LIB,1.0,,,Greene County,FRANKLINXWEST
+Greene,FREEPORT,U.S. Senate,,Dale R. Kerns Jr.,LIB,0.0,,,Greene County,FREEPORT
+Greene,GILMORE,U.S. Senate,,Dale R. Kerns Jr.,LIB,0.0,,,Greene County,GILMORE
+Greene,GRAY,U.S. Senate,,Dale R. Kerns Jr.,LIB,0.0,,,Greene County,GRAY
+Greene,GREENE,U.S. Senate,,Dale R. Kerns Jr.,LIB,1.0,,,Greene County,GREENE
+Greene,GREENSBORO,U.S. Senate,,Dale R. Kerns Jr.,LIB,3.0,,,Greene County,GREENSBORO
+Greene,JACKSON,U.S. Senate,,Dale R. Kerns Jr.,LIB,2.0,,,Greene County,JACKSON
+Greene,JEFFERSONX1,U.S. Senate,,Dale R. Kerns Jr.,LIB,0.0,,,Greene County,JEFFERSONX1
+Greene,JEFFERSONX2,U.S. Senate,,Dale R. Kerns Jr.,LIB,0.0,,,Greene County,JEFFERSONX2
+Greene,JEFFERSONX3,U.S. Senate,,Dale R. Kerns Jr.,LIB,5.0,,,Greene County,JEFFERSONX3
+Greene,JEFFERSONX4,U.S. Senate,,Dale R. Kerns Jr.,LIB,0.0,,,Greene County,JEFFERSONX4
+Greene,JEFFERSON,U.S. Senate,,Dale R. Kerns Jr.,LIB,1.0,,,Greene County,JEFFERSON
+Greene,MONONGAHELAX1,U.S. Senate,,Dale R. Kerns Jr.,LIB,1.0,,,Greene County,MONONGAHELAX1
+Greene,MONONGAHELAX2,U.S. Senate,,Dale R. Kerns Jr.,LIB,2.0,,,Greene County,MONONGAHELAX2
+Greene,MORGANXCHART/T.GRDN,U.S. Senate,,Dale R. Kerns Jr.,LIB,3.0,,,Greene County,MORGANXCHART/T.GRDN
+Greene,MORGANXLIPPENCOTT,U.S. Senate,,Dale R. Kerns Jr.,LIB,3.0,,,Greene County,MORGANXLIPPENCOTT
+Greene,MORGANXMATHER,U.S. Senate,,Dale R. Kerns Jr.,LIB,5.0,,,Greene County,MORGANXMATHER
+Greene,MORRIS,U.S. Senate,,Dale R. Kerns Jr.,LIB,7.0,,,Greene County,MORRIS
+Greene,PERRY,U.S. Senate,,Dale R. Kerns Jr.,LIB,6.0,,,Greene County,PERRY
+Greene,RICES LANDING,U.S. Senate,,Dale R. Kerns Jr.,LIB,3.0,,,Greene County,RICES LANDING
+Greene,RICHHILL,U.S. Senate,,Dale R. Kerns Jr.,LIB,1.0,,,Greene County,RICHHILL
+Greene,SPRINGHILL,U.S. Senate,,Dale R. Kerns Jr.,LIB,2.0,,,Greene County,SPRINGHILL
+Greene,WASHINGTON,U.S. Senate,,Dale R. Kerns Jr.,LIB,6.0,,,Greene County,WASHINGTON
+Greene,WAYNEXEAST,U.S. Senate,,Dale R. Kerns Jr.,LIB,1.0,,,Greene County,WAYNEXEAST
+Greene,WAYNEXWEST,U.S. Senate,,Dale R. Kerns Jr.,LIB,0.0,,,Greene County,WAYNEXWEST
+Greene,WAYNESBURGW1,U.S. Senate,,Dale R. Kerns Jr.,LIB,8.0,,,Greene County,WAYNESBURGW1
+Greene,WAYNESBURGW2,U.S. Senate,,Dale R. Kerns Jr.,LIB,1.0,,,Greene County,WAYNESBURGW2
+Greene,WAYNESBURGW3,U.S. Senate,,Dale R. Kerns Jr.,LIB,3.0,,,Greene County,WAYNESBURGW3
+Greene,WHITELEY,U.S. Senate,,Dale R. Kerns Jr.,LIB,3.0,,,Greene County,WHITELEY
+Greene,ALEPPO,Governor,,Tom Wolf,DEM,70.0,,,Greene County,ALEPPO
+Greene,CARMICHAELS,Governor,,Tom Wolf,DEM,88.0,,,Greene County,CARMICHAELS
+Greene,CENTER,Governor,,Tom Wolf,DEM,185.0,,,Greene County,CENTER
+Greene,CLARKSVILLE,Governor,,Tom Wolf,DEM,37.0,,,Greene County,CLARKSVILLE
+Greene,CUMBERLANDXNEMACOLIN,Governor,,Tom Wolf,DEM,115.0,,,Greene County,CUMBERLANDXNEMACOLIN
+Greene,CUMBERLANDX1,Governor,,Tom Wolf,DEM,398.0,,,Greene County,CUMBERLANDX1
+Greene,CUMBERLANDX2,Governor,,Tom Wolf,DEM,197.0,,,Greene County,CUMBERLANDX2
+Greene,CUMBERLANDX4,Governor,,Tom Wolf,DEM,389.0,,,Greene County,CUMBERLANDX4
+Greene,DUNKARDXBOBTOWN,Governor,,Tom Wolf,DEM,121.0,,,Greene County,DUNKARDXBOBTOWN
+Greene,DUNKARDXDILLINER,Governor,,Tom Wolf,DEM,73.0,,,Greene County,DUNKARDXDILLINER
+Greene,DUNKARDXLOWER,Governor,,Tom Wolf,DEM,55.0,,,Greene County,DUNKARDXLOWER
+Greene,DUNKARDXUPPER,Governor,,Tom Wolf,DEM,50.0,,,Greene County,DUNKARDXUPPER
+Greene,FRANKLINXEAST,Governor,,Tom Wolf,DEM,443.0,,,Greene County,FRANKLINXEAST
+Greene,FRANKLINXNORTH,Governor,,Tom Wolf,DEM,224.0,,,Greene County,FRANKLINXNORTH
+Greene,FRANKLINXSOUTH,Governor,,Tom Wolf,DEM,98.0,,,Greene County,FRANKLINXSOUTH
+Greene,FRANKLINXWEST,Governor,,Tom Wolf,DEM,65.0,,,Greene County,FRANKLINXWEST
+Greene,FREEPORT,Governor,,Tom Wolf,DEM,45.0,,,Greene County,FREEPORT
+Greene,GILMORE,Governor,,Tom Wolf,DEM,46.0,,,Greene County,GILMORE
+Greene,GRAY,Governor,,Tom Wolf,DEM,26.0,,,Greene County,GRAY
+Greene,GREENE,Governor,,Tom Wolf,DEM,82.0,,,Greene County,GREENE
+Greene,GREENSBORO,Governor,,Tom Wolf,DEM,45.0,,,Greene County,GREENSBORO
+Greene,JACKSON,Governor,,Tom Wolf,DEM,51.0,,,Greene County,JACKSON
+Greene,JEFFERSONX1,Governor,,Tom Wolf,DEM,199.0,,,Greene County,JEFFERSONX1
+Greene,JEFFERSONX2,Governor,,Tom Wolf,DEM,53.0,,,Greene County,JEFFERSONX2
+Greene,JEFFERSONX3,Governor,,Tom Wolf,DEM,238.0,,,Greene County,JEFFERSONX3
+Greene,JEFFERSONX4,Governor,,Tom Wolf,DEM,64.0,,,Greene County,JEFFERSONX4
+Greene,JEFFERSON,Governor,,Tom Wolf,DEM,70.0,,,Greene County,JEFFERSON
+Greene,MONONGAHELAX1,Governor,,Tom Wolf,DEM,154.0,,,Greene County,MONONGAHELAX1
+Greene,MONONGAHELAX2,Governor,,Tom Wolf,DEM,84.0,,,Greene County,MONONGAHELAX2
+Greene,MORGANXCHART/T.GRDN,Governor,,Tom Wolf,DEM,101.0,,,Greene County,MORGANXCHART/T.GRDN
+Greene,MORGANXLIPPENCOTT,Governor,,Tom Wolf,DEM,145.0,,,Greene County,MORGANXLIPPENCOTT
+Greene,MORGANXMATHER,Governor,,Tom Wolf,DEM,240.0,,,Greene County,MORGANXMATHER
+Greene,MORRIS,Governor,,Tom Wolf,DEM,105.0,,,Greene County,MORRIS
+Greene,PERRY,Governor,,Tom Wolf,DEM,279.0,,,Greene County,PERRY
+Greene,RICES LANDING,Governor,,Tom Wolf,DEM,86.0,,,Greene County,RICES LANDING
+Greene,RICHHILL,Governor,,Tom Wolf,DEM,106.0,,,Greene County,RICHHILL
+Greene,SPRINGHILL,Governor,,Tom Wolf,DEM,42.0,,,Greene County,SPRINGHILL
+Greene,WASHINGTON,Governor,,Tom Wolf,DEM,177.0,,,Greene County,WASHINGTON
+Greene,WAYNEXEAST,Governor,,Tom Wolf,DEM,94.0,,,Greene County,WAYNEXEAST
+Greene,WAYNEXWEST,Governor,,Tom Wolf,DEM,49.0,,,Greene County,WAYNEXWEST
+Greene,WAYNESBURGW1,Governor,,Tom Wolf,DEM,213.0,,,Greene County,WAYNESBURGW1
+Greene,WAYNESBURGW2,Governor,,Tom Wolf,DEM,152.0,,,Greene County,WAYNESBURGW2
+Greene,WAYNESBURGW3,Governor,,Tom Wolf,DEM,192.0,,,Greene County,WAYNESBURGW3
+Greene,WHITELEY,Governor,,Tom Wolf,DEM,98.0,,,Greene County,WHITELEY
+Greene,ALEPPO,Governor,,Scott Wagner,REP,97.0,,,Greene County,ALEPPO
+Greene,CARMICHAELS,Governor,,Scott Wagner,REP,90.0,,,Greene County,CARMICHAELS
+Greene,CENTER,Governor,,Scott Wagner,REP,255.0,,,Greene County,CENTER
+Greene,CLARKSVILLE,Governor,,Scott Wagner,REP,40.0,,,Greene County,CLARKSVILLE
+Greene,CUMBERLANDXNEMACOLIN,Governor,,Scott Wagner,REP,94.0,,,Greene County,CUMBERLANDXNEMACOLIN
+Greene,CUMBERLANDX1,Governor,,Scott Wagner,REP,447.0,,,Greene County,CUMBERLANDX1
+Greene,CUMBERLANDX2,Governor,,Scott Wagner,REP,183.0,,,Greene County,CUMBERLANDX2
+Greene,CUMBERLANDX4,Governor,,Scott Wagner,REP,368.0,,,Greene County,CUMBERLANDX4
+Greene,DUNKARDXBOBTOWN,Governor,,Scott Wagner,REP,99.0,,,Greene County,DUNKARDXBOBTOWN
+Greene,DUNKARDXDILLINER,Governor,,Scott Wagner,REP,114.0,,,Greene County,DUNKARDXDILLINER
+Greene,DUNKARDXLOWER,Governor,,Scott Wagner,REP,70.0,,,Greene County,DUNKARDXLOWER
+Greene,DUNKARDXUPPER,Governor,,Scott Wagner,REP,52.0,,,Greene County,DUNKARDXUPPER
+Greene,FRANKLINXEAST,Governor,,Scott Wagner,REP,494.0,,,Greene County,FRANKLINXEAST
+Greene,FRANKLINXNORTH,Governor,,Scott Wagner,REP,273.0,,,Greene County,FRANKLINXNORTH
+Greene,FRANKLINXSOUTH,Governor,,Scott Wagner,REP,135.0,,,Greene County,FRANKLINXSOUTH
+Greene,FRANKLINXWEST,Governor,,Scott Wagner,REP,126.0,,,Greene County,FRANKLINXWEST
+Greene,FREEPORT,Governor,,Scott Wagner,REP,47.0,,,Greene County,FREEPORT
+Greene,GILMORE,Governor,,Scott Wagner,REP,47.0,,,Greene County,GILMORE
+Greene,GRAY,Governor,,Scott Wagner,REP,43.0,,,Greene County,GRAY
+Greene,GREENE,Governor,,Scott Wagner,REP,92.0,,,Greene County,GREENE
+Greene,GREENSBORO,Governor,,Scott Wagner,REP,38.0,,,Greene County,GREENSBORO
+Greene,JACKSON,Governor,,Scott Wagner,REP,90.0,,,Greene County,JACKSON
+Greene,JEFFERSONX1,Governor,,Scott Wagner,REP,242.0,,,Greene County,JEFFERSONX1
+Greene,JEFFERSONX2,Governor,,Scott Wagner,REP,41.0,,,Greene County,JEFFERSONX2
+Greene,JEFFERSONX3,Governor,,Scott Wagner,REP,183.0,,,Greene County,JEFFERSONX3
+Greene,JEFFERSONX4,Governor,,Scott Wagner,REP,34.0,,,Greene County,JEFFERSONX4
+Greene,JEFFERSON,Governor,,Scott Wagner,REP,49.0,,,Greene County,JEFFERSON
+Greene,MONONGAHELAX1,Governor,,Scott Wagner,REP,155.0,,,Greene County,MONONGAHELAX1
+Greene,MONONGAHELAX2,Governor,,Scott Wagner,REP,75.0,,,Greene County,MONONGAHELAX2
+Greene,MORGANXCHART/T.GRDN,Governor,,Scott Wagner,REP,90.0,,,Greene County,MORGANXCHART/T.GRDN
+Greene,MORGANXLIPPENCOTT,Governor,,Scott Wagner,REP,213.0,,,Greene County,MORGANXLIPPENCOTT
+Greene,MORGANXMATHER,Governor,,Scott Wagner,REP,174.0,,,Greene County,MORGANXMATHER
+Greene,MORRIS,Governor,,Scott Wagner,REP,166.0,,,Greene County,MORRIS
+Greene,PERRY,Governor,,Scott Wagner,REP,303.0,,,Greene County,PERRY
+Greene,RICES LANDING,Governor,,Scott Wagner,REP,97.0,,,Greene County,RICES LANDING
+Greene,RICHHILL,Governor,,Scott Wagner,REP,182.0,,,Greene County,RICHHILL
+Greene,SPRINGHILL,Governor,,Scott Wagner,REP,56.0,,,Greene County,SPRINGHILL
+Greene,WASHINGTON,Governor,,Scott Wagner,REP,256.0,,,Greene County,WASHINGTON
+Greene,WAYNEXEAST,Governor,,Scott Wagner,REP,113.0,,,Greene County,WAYNEXEAST
+Greene,WAYNEXWEST,Governor,,Scott Wagner,REP,85.0,,,Greene County,WAYNEXWEST
+Greene,WAYNESBURGW1,Governor,,Scott Wagner,REP,162.0,,,Greene County,WAYNESBURGW1
+Greene,WAYNESBURGW2,Governor,,Scott Wagner,REP,96.0,,,Greene County,WAYNESBURGW2
+Greene,WAYNESBURGW3,Governor,,Scott Wagner,REP,170.0,,,Greene County,WAYNESBURGW3
+Greene,WHITELEY,Governor,,Scott Wagner,REP,145.0,,,Greene County,WHITELEY
+Greene,ALEPPO,Governor,,Paul Glover,GRN,5.0,,,Greene County,ALEPPO
+Greene,CARMICHAELS,Governor,,Paul Glover,GRN,0.0,,,Greene County,CARMICHAELS
+Greene,CENTER,Governor,,Paul Glover,GRN,6.0,,,Greene County,CENTER
+Greene,CLARKSVILLE,Governor,,Paul Glover,GRN,0.0,,,Greene County,CLARKSVILLE
+Greene,CUMBERLANDXNEMACOLIN,Governor,,Paul Glover,GRN,1.0,,,Greene County,CUMBERLANDXNEMACOLIN
+Greene,CUMBERLANDX1,Governor,,Paul Glover,GRN,5.0,,,Greene County,CUMBERLANDX1
+Greene,CUMBERLANDX2,Governor,,Paul Glover,GRN,3.0,,,Greene County,CUMBERLANDX2
+Greene,CUMBERLANDX4,Governor,,Paul Glover,GRN,4.0,,,Greene County,CUMBERLANDX4
+Greene,DUNKARDXBOBTOWN,Governor,,Paul Glover,GRN,2.0,,,Greene County,DUNKARDXBOBTOWN
+Greene,DUNKARDXDILLINER,Governor,,Paul Glover,GRN,1.0,,,Greene County,DUNKARDXDILLINER
+Greene,DUNKARDXLOWER,Governor,,Paul Glover,GRN,2.0,,,Greene County,DUNKARDXLOWER
+Greene,DUNKARDXUPPER,Governor,,Paul Glover,GRN,4.0,,,Greene County,DUNKARDXUPPER
+Greene,FRANKLINXEAST,Governor,,Paul Glover,GRN,5.0,,,Greene County,FRANKLINXEAST
+Greene,FRANKLINXNORTH,Governor,,Paul Glover,GRN,4.0,,,Greene County,FRANKLINXNORTH
+Greene,FRANKLINXSOUTH,Governor,,Paul Glover,GRN,5.0,,,Greene County,FRANKLINXSOUTH
+Greene,FRANKLINXWEST,Governor,,Paul Glover,GRN,2.0,,,Greene County,FRANKLINXWEST
+Greene,FREEPORT,Governor,,Paul Glover,GRN,0.0,,,Greene County,FREEPORT
+Greene,GILMORE,Governor,,Paul Glover,GRN,1.0,,,Greene County,GILMORE
+Greene,GRAY,Governor,,Paul Glover,GRN,1.0,,,Greene County,GRAY
+Greene,GREENE,Governor,,Paul Glover,GRN,0.0,,,Greene County,GREENE
+Greene,GREENSBORO,Governor,,Paul Glover,GRN,0.0,,,Greene County,GREENSBORO
+Greene,JACKSON,Governor,,Paul Glover,GRN,4.0,,,Greene County,JACKSON
+Greene,JEFFERSONX1,Governor,,Paul Glover,GRN,2.0,,,Greene County,JEFFERSONX1
+Greene,JEFFERSONX2,Governor,,Paul Glover,GRN,2.0,,,Greene County,JEFFERSONX2
+Greene,JEFFERSONX3,Governor,,Paul Glover,GRN,0.0,,,Greene County,JEFFERSONX3
+Greene,JEFFERSONX4,Governor,,Paul Glover,GRN,2.0,,,Greene County,JEFFERSONX4
+Greene,JEFFERSON,Governor,,Paul Glover,GRN,1.0,,,Greene County,JEFFERSON
+Greene,MONONGAHELAX1,Governor,,Paul Glover,GRN,2.0,,,Greene County,MONONGAHELAX1
+Greene,MONONGAHELAX2,Governor,,Paul Glover,GRN,2.0,,,Greene County,MONONGAHELAX2
+Greene,MORGANXCHART/T.GRDN,Governor,,Paul Glover,GRN,1.0,,,Greene County,MORGANXCHART/T.GRDN
+Greene,MORGANXLIPPENCOTT,Governor,,Paul Glover,GRN,3.0,,,Greene County,MORGANXLIPPENCOTT
+Greene,MORGANXMATHER,Governor,,Paul Glover,GRN,4.0,,,Greene County,MORGANXMATHER
+Greene,MORRIS,Governor,,Paul Glover,GRN,5.0,,,Greene County,MORRIS
+Greene,PERRY,Governor,,Paul Glover,GRN,1.0,,,Greene County,PERRY
+Greene,RICES LANDING,Governor,,Paul Glover,GRN,2.0,,,Greene County,RICES LANDING
+Greene,RICHHILL,Governor,,Paul Glover,GRN,5.0,,,Greene County,RICHHILL
+Greene,SPRINGHILL,Governor,,Paul Glover,GRN,2.0,,,Greene County,SPRINGHILL
+Greene,WASHINGTON,Governor,,Paul Glover,GRN,5.0,,,Greene County,WASHINGTON
+Greene,WAYNEXEAST,Governor,,Paul Glover,GRN,5.0,,,Greene County,WAYNEXEAST
+Greene,WAYNEXWEST,Governor,,Paul Glover,GRN,0.0,,,Greene County,WAYNEXWEST
+Greene,WAYNESBURGW1,Governor,,Paul Glover,GRN,3.0,,,Greene County,WAYNESBURGW1
+Greene,WAYNESBURGW2,Governor,,Paul Glover,GRN,3.0,,,Greene County,WAYNESBURGW2
+Greene,WAYNESBURGW3,Governor,,Paul Glover,GRN,2.0,,,Greene County,WAYNESBURGW3
+Greene,WHITELEY,Governor,,Paul Glover,GRN,1.0,,,Greene County,WHITELEY
+Greene,ALEPPO,Governor,,Ken V. Krawchuk,LIB,2.0,,,Greene County,ALEPPO
+Greene,CARMICHAELS,Governor,,Ken V. Krawchuk,LIB,3.0,,,Greene County,CARMICHAELS
+Greene,CENTER,Governor,,Ken V. Krawchuk,LIB,3.0,,,Greene County,CENTER
+Greene,CLARKSVILLE,Governor,,Ken V. Krawchuk,LIB,0.0,,,Greene County,CLARKSVILLE
+Greene,CUMBERLANDXNEMACOLIN,Governor,,Ken V. Krawchuk,LIB,7.0,,,Greene County,CUMBERLANDXNEMACOLIN
+Greene,CUMBERLANDX1,Governor,,Ken V. Krawchuk,LIB,7.0,,,Greene County,CUMBERLANDX1
+Greene,CUMBERLANDX2,Governor,,Ken V. Krawchuk,LIB,4.0,,,Greene County,CUMBERLANDX2
+Greene,CUMBERLANDX4,Governor,,Ken V. Krawchuk,LIB,7.0,,,Greene County,CUMBERLANDX4
+Greene,DUNKARDXBOBTOWN,Governor,,Ken V. Krawchuk,LIB,1.0,,,Greene County,DUNKARDXBOBTOWN
+Greene,DUNKARDXDILLINER,Governor,,Ken V. Krawchuk,LIB,2.0,,,Greene County,DUNKARDXDILLINER
+Greene,DUNKARDXLOWER,Governor,,Ken V. Krawchuk,LIB,2.0,,,Greene County,DUNKARDXLOWER
+Greene,DUNKARDXUPPER,Governor,,Ken V. Krawchuk,LIB,2.0,,,Greene County,DUNKARDXUPPER
+Greene,FRANKLINXEAST,Governor,,Ken V. Krawchuk,LIB,7.0,,,Greene County,FRANKLINXEAST
+Greene,FRANKLINXNORTH,Governor,,Ken V. Krawchuk,LIB,6.0,,,Greene County,FRANKLINXNORTH
+Greene,FRANKLINXSOUTH,Governor,,Ken V. Krawchuk,LIB,2.0,,,Greene County,FRANKLINXSOUTH
+Greene,FRANKLINXWEST,Governor,,Ken V. Krawchuk,LIB,1.0,,,Greene County,FRANKLINXWEST
+Greene,FREEPORT,Governor,,Ken V. Krawchuk,LIB,0.0,,,Greene County,FREEPORT
+Greene,GILMORE,Governor,,Ken V. Krawchuk,LIB,0.0,,,Greene County,GILMORE
+Greene,GRAY,Governor,,Ken V. Krawchuk,LIB,0.0,,,Greene County,GRAY
+Greene,GREENE,Governor,,Ken V. Krawchuk,LIB,1.0,,,Greene County,GREENE
+Greene,GREENSBORO,Governor,,Ken V. Krawchuk,LIB,1.0,,,Greene County,GREENSBORO
+Greene,JACKSON,Governor,,Ken V. Krawchuk,LIB,2.0,,,Greene County,JACKSON
+Greene,JEFFERSONX1,Governor,,Ken V. Krawchuk,LIB,2.0,,,Greene County,JEFFERSONX1
+Greene,JEFFERSONX2,Governor,,Ken V. Krawchuk,LIB,0.0,,,Greene County,JEFFERSONX2
+Greene,JEFFERSONX3,Governor,,Ken V. Krawchuk,LIB,3.0,,,Greene County,JEFFERSONX3
+Greene,JEFFERSONX4,Governor,,Ken V. Krawchuk,LIB,0.0,,,Greene County,JEFFERSONX4
+Greene,JEFFERSON,Governor,,Ken V. Krawchuk,LIB,1.0,,,Greene County,JEFFERSON
+Greene,MONONGAHELAX1,Governor,,Ken V. Krawchuk,LIB,1.0,,,Greene County,MONONGAHELAX1
+Greene,MONONGAHELAX2,Governor,,Ken V. Krawchuk,LIB,1.0,,,Greene County,MONONGAHELAX2
+Greene,MORGANXCHART/T.GRDN,Governor,,Ken V. Krawchuk,LIB,2.0,,,Greene County,MORGANXCHART/T.GRDN
+Greene,MORGANXLIPPENCOTT,Governor,,Ken V. Krawchuk,LIB,4.0,,,Greene County,MORGANXLIPPENCOTT
+Greene,MORGANXMATHER,Governor,,Ken V. Krawchuk,LIB,6.0,,,Greene County,MORGANXMATHER
+Greene,MORRIS,Governor,,Ken V. Krawchuk,LIB,5.0,,,Greene County,MORRIS
+Greene,PERRY,Governor,,Ken V. Krawchuk,LIB,6.0,,,Greene County,PERRY
+Greene,RICES LANDING,Governor,,Ken V. Krawchuk,LIB,2.0,,,Greene County,RICES LANDING
+Greene,RICHHILL,Governor,,Ken V. Krawchuk,LIB,2.0,,,Greene County,RICHHILL
+Greene,SPRINGHILL,Governor,,Ken V. Krawchuk,LIB,0.0,,,Greene County,SPRINGHILL
+Greene,WASHINGTON,Governor,,Ken V. Krawchuk,LIB,3.0,,,Greene County,WASHINGTON
+Greene,WAYNEXEAST,Governor,,Ken V. Krawchuk,LIB,0.0,,,Greene County,WAYNEXEAST
+Greene,WAYNEXWEST,Governor,,Ken V. Krawchuk,LIB,3.0,,,Greene County,WAYNEXWEST
+Greene,WAYNESBURGW1,Governor,,Ken V. Krawchuk,LIB,7.0,,,Greene County,WAYNESBURGW1
+Greene,WAYNESBURGW2,Governor,,Ken V. Krawchuk,LIB,1.0,,,Greene County,WAYNESBURGW2
+Greene,WAYNESBURGW3,Governor,,Ken V. Krawchuk,LIB,4.0,,,Greene County,WAYNESBURGW3
+Greene,WHITELEY,Governor,,Ken V. Krawchuk,LIB,2.0,,,Greene County,WHITELEY
+Greene,ALEPPO,U.S. House,14.0,Bibiana Boerio,DEM,59.0,,,Greene County,ALEPPO
+Greene,CARMICHAELS,U.S. House,14.0,Bibiana Boerio,DEM,70.0,,,Greene County,CARMICHAELS
+Greene,CENTER,U.S. House,14.0,Bibiana Boerio,DEM,144.0,,,Greene County,CENTER
+Greene,CLARKSVILLE,U.S. House,14.0,Bibiana Boerio,DEM,33.0,,,Greene County,CLARKSVILLE
+Greene,CUMBERLANDXNEMACOLIN,U.S. House,14.0,Bibiana Boerio,DEM,121.0,,,Greene County,CUMBERLANDXNEMACOLIN
+Greene,CUMBERLANDX1,U.S. House,14.0,Bibiana Boerio,DEM,315.0,,,Greene County,CUMBERLANDX1
+Greene,CUMBERLANDX2,U.S. House,14.0,Bibiana Boerio,DEM,166.0,,,Greene County,CUMBERLANDX2
+Greene,CUMBERLANDX4,U.S. House,14.0,Bibiana Boerio,DEM,327.0,,,Greene County,CUMBERLANDX4
+Greene,DUNKARDXBOBTOWN,U.S. House,14.0,Bibiana Boerio,DEM,105.0,,,Greene County,DUNKARDXBOBTOWN
+Greene,DUNKARDXDILLINER,U.S. House,14.0,Bibiana Boerio,DEM,68.0,,,Greene County,DUNKARDXDILLINER
+Greene,DUNKARDXLOWER,U.S. House,14.0,Bibiana Boerio,DEM,46.0,,,Greene County,DUNKARDXLOWER
+Greene,DUNKARDXUPPER,U.S. House,14.0,Bibiana Boerio,DEM,41.0,,,Greene County,DUNKARDXUPPER
+Greene,FRANKLINXEAST,U.S. House,14.0,Bibiana Boerio,DEM,360.0,,,Greene County,FRANKLINXEAST
+Greene,FRANKLINXNORTH,U.S. House,14.0,Bibiana Boerio,DEM,186.0,,,Greene County,FRANKLINXNORTH
+Greene,FRANKLINXSOUTH,U.S. House,14.0,Bibiana Boerio,DEM,83.0,,,Greene County,FRANKLINXSOUTH
+Greene,FRANKLINXWEST,U.S. House,14.0,Bibiana Boerio,DEM,55.0,,,Greene County,FRANKLINXWEST
+Greene,FREEPORT,U.S. House,14.0,Bibiana Boerio,DEM,37.0,,,Greene County,FREEPORT
+Greene,GILMORE,U.S. House,14.0,Bibiana Boerio,DEM,38.0,,,Greene County,GILMORE
+Greene,GRAY,U.S. House,14.0,Bibiana Boerio,DEM,22.0,,,Greene County,GRAY
+Greene,GREENE,U.S. House,14.0,Bibiana Boerio,DEM,66.0,,,Greene County,GREENE
+Greene,GREENSBORO,U.S. House,14.0,Bibiana Boerio,DEM,39.0,,,Greene County,GREENSBORO
+Greene,JACKSON,U.S. House,14.0,Bibiana Boerio,DEM,40.0,,,Greene County,JACKSON
+Greene,JEFFERSONX1,U.S. House,14.0,Bibiana Boerio,DEM,165.0,,,Greene County,JEFFERSONX1
+Greene,JEFFERSONX2,U.S. House,14.0,Bibiana Boerio,DEM,49.0,,,Greene County,JEFFERSONX2
+Greene,JEFFERSONX3,U.S. House,14.0,Bibiana Boerio,DEM,200.0,,,Greene County,JEFFERSONX3
+Greene,JEFFERSONX4,U.S. House,14.0,Bibiana Boerio,DEM,62.0,,,Greene County,JEFFERSONX4
+Greene,JEFFERSON,U.S. House,14.0,Bibiana Boerio,DEM,61.0,,,Greene County,JEFFERSON
+Greene,MONONGAHELAX1,U.S. House,14.0,Bibiana Boerio,DEM,129.0,,,Greene County,MONONGAHELAX1
+Greene,MONONGAHELAX2,U.S. House,14.0,Bibiana Boerio,DEM,74.0,,,Greene County,MONONGAHELAX2
+Greene,MORGANXCHART/T.GRDN,U.S. House,14.0,Bibiana Boerio,DEM,93.0,,,Greene County,MORGANXCHART/T.GRDN
+Greene,MORGANXLIPPENCOTT,U.S. House,14.0,Bibiana Boerio,DEM,113.0,,,Greene County,MORGANXLIPPENCOTT
+Greene,MORGANXMATHER,U.S. House,14.0,Bibiana Boerio,DEM,208.0,,,Greene County,MORGANXMATHER
+Greene,MORRIS,U.S. House,14.0,Bibiana Boerio,DEM,86.0,,,Greene County,MORRIS
+Greene,PERRY,U.S. House,14.0,Bibiana Boerio,DEM,247.0,,,Greene County,PERRY
+Greene,RICES LANDING,U.S. House,14.0,Bibiana Boerio,DEM,82.0,,,Greene County,RICES LANDING
+Greene,RICHHILL,U.S. House,14.0,Bibiana Boerio,DEM,91.0,,,Greene County,RICHHILL
+Greene,SPRINGHILL,U.S. House,14.0,Bibiana Boerio,DEM,38.0,,,Greene County,SPRINGHILL
+Greene,WASHINGTON,U.S. House,14.0,Bibiana Boerio,DEM,143.0,,,Greene County,WASHINGTON
+Greene,WAYNEXEAST,U.S. House,14.0,Bibiana Boerio,DEM,79.0,,,Greene County,WAYNEXEAST
+Greene,WAYNEXWEST,U.S. House,14.0,Bibiana Boerio,DEM,45.0,,,Greene County,WAYNEXWEST
+Greene,WAYNESBURGW1,U.S. House,14.0,Bibiana Boerio,DEM,187.0,,,Greene County,WAYNESBURGW1
+Greene,WAYNESBURGW2,U.S. House,14.0,Bibiana Boerio,DEM,133.0,,,Greene County,WAYNESBURGW2
+Greene,WAYNESBURGW3,U.S. House,14.0,Bibiana Boerio,DEM,162.0,,,Greene County,WAYNESBURGW3
+Greene,WHITELEY,U.S. House,14.0,Bibiana Boerio,DEM,89.0,,,Greene County,WHITELEY
+Greene,ALEPPO,U.S. House,14.0,Guy L. Reschenthaler,REP,112.0,,,Greene County,ALEPPO
+Greene,CARMICHAELS,U.S. House,14.0,Guy L. Reschenthaler,REP,109.0,,,Greene County,CARMICHAELS
+Greene,CENTER,U.S. House,14.0,Guy L. Reschenthaler,REP,292.0,,,Greene County,CENTER
+Greene,CLARKSVILLE,U.S. House,14.0,Guy L. Reschenthaler,REP,40.0,,,Greene County,CLARKSVILLE
+Greene,CUMBERLANDXNEMACOLIN,U.S. House,14.0,Guy L. Reschenthaler,REP,96.0,,,Greene County,CUMBERLANDXNEMACOLIN
+Greene,CUMBERLANDX1,U.S. House,14.0,Guy L. Reschenthaler,REP,532.0,,,Greene County,CUMBERLANDX1
+Greene,CUMBERLANDX2,U.S. House,14.0,Guy L. Reschenthaler,REP,211.0,,,Greene County,CUMBERLANDX2
+Greene,CUMBERLANDX4,U.S. House,14.0,Guy L. Reschenthaler,REP,428.0,,,Greene County,CUMBERLANDX4
+Greene,DUNKARDXBOBTOWN,U.S. House,14.0,Guy L. Reschenthaler,REP,110.0,,,Greene County,DUNKARDXBOBTOWN
+Greene,DUNKARDXDILLINER,U.S. House,14.0,Guy L. Reschenthaler,REP,122.0,,,Greene County,DUNKARDXDILLINER
+Greene,DUNKARDXLOWER,U.S. House,14.0,Guy L. Reschenthaler,REP,79.0,,,Greene County,DUNKARDXLOWER
+Greene,DUNKARDXUPPER,U.S. House,14.0,Guy L. Reschenthaler,REP,65.0,,,Greene County,DUNKARDXUPPER
+Greene,FRANKLINXEAST,U.S. House,14.0,Guy L. Reschenthaler,REP,582.0,,,Greene County,FRANKLINXEAST
+Greene,FRANKLINXNORTH,U.S. House,14.0,Guy L. Reschenthaler,REP,314.0,,,Greene County,FRANKLINXNORTH
+Greene,FRANKLINXSOUTH,U.S. House,14.0,Guy L. Reschenthaler,REP,148.0,,,Greene County,FRANKLINXSOUTH
+Greene,FRANKLINXWEST,U.S. House,14.0,Guy L. Reschenthaler,REP,136.0,,,Greene County,FRANKLINXWEST
+Greene,FREEPORT,U.S. House,14.0,Guy L. Reschenthaler,REP,54.0,,,Greene County,FREEPORT
+Greene,GILMORE,U.S. House,14.0,Guy L. Reschenthaler,REP,56.0,,,Greene County,GILMORE
+Greene,GRAY,U.S. House,14.0,Guy L. Reschenthaler,REP,48.0,,,Greene County,GRAY
+Greene,GREENE,U.S. House,14.0,Guy L. Reschenthaler,REP,106.0,,,Greene County,GREENE
+Greene,GREENSBORO,U.S. House,14.0,Guy L. Reschenthaler,REP,41.0,,,Greene County,GREENSBORO
+Greene,JACKSON,U.S. House,14.0,Guy L. Reschenthaler,REP,106.0,,,Greene County,JACKSON
+Greene,JEFFERSONX1,U.S. House,14.0,Guy L. Reschenthaler,REP,277.0,,,Greene County,JEFFERSONX1
+Greene,JEFFERSONX2,U.S. House,14.0,Guy L. Reschenthaler,REP,46.0,,,Greene County,JEFFERSONX2
+Greene,JEFFERSONX3,U.S. House,14.0,Guy L. Reschenthaler,REP,204.0,,,Greene County,JEFFERSONX3
+Greene,JEFFERSONX4,U.S. House,14.0,Guy L. Reschenthaler,REP,37.0,,,Greene County,JEFFERSONX4
+Greene,JEFFERSON,U.S. House,14.0,Guy L. Reschenthaler,REP,58.0,,,Greene County,JEFFERSON
+Greene,MONONGAHELAX1,U.S. House,14.0,Guy L. Reschenthaler,REP,182.0,,,Greene County,MONONGAHELAX1
+Greene,MONONGAHELAX2,U.S. House,14.0,Guy L. Reschenthaler,REP,86.0,,,Greene County,MONONGAHELAX2
+Greene,MORGANXCHART/T.GRDN,U.S. House,14.0,Guy L. Reschenthaler,REP,99.0,,,Greene County,MORGANXCHART/T.GRDN
+Greene,MORGANXLIPPENCOTT,U.S. House,14.0,Guy L. Reschenthaler,REP,242.0,,,Greene County,MORGANXLIPPENCOTT
+Greene,MORGANXMATHER,U.S. House,14.0,Guy L. Reschenthaler,REP,193.0,,,Greene County,MORGANXMATHER
+Greene,MORRIS,U.S. House,14.0,Guy L. Reschenthaler,REP,184.0,,,Greene County,MORRIS
+Greene,PERRY,U.S. House,14.0,Guy L. Reschenthaler,REP,337.0,,,Greene County,PERRY
+Greene,RICES LANDING,U.S. House,14.0,Guy L. Reschenthaler,REP,101.0,,,Greene County,RICES LANDING
+Greene,RICHHILL,U.S. House,14.0,Guy L. Reschenthaler,REP,195.0,,,Greene County,RICHHILL
+Greene,SPRINGHILL,U.S. House,14.0,Guy L. Reschenthaler,REP,58.0,,,Greene County,SPRINGHILL
+Greene,WASHINGTON,U.S. House,14.0,Guy L. Reschenthaler,REP,294.0,,,Greene County,WASHINGTON
+Greene,WAYNEXEAST,U.S. House,14.0,Guy L. Reschenthaler,REP,131.0,,,Greene County,WAYNEXEAST
+Greene,WAYNEXWEST,U.S. House,14.0,Guy L. Reschenthaler,REP,92.0,,,Greene County,WAYNEXWEST
+Greene,WAYNESBURGW1,U.S. House,14.0,Guy L. Reschenthaler,REP,195.0,,,Greene County,WAYNESBURGW1
+Greene,WAYNESBURGW2,U.S. House,14.0,Guy L. Reschenthaler,REP,115.0,,,Greene County,WAYNESBURGW2
+Greene,WAYNESBURGW3,U.S. House,14.0,Guy L. Reschenthaler,REP,204.0,,,Greene County,WAYNESBURGW3
+Greene,WHITELEY,U.S. House,14.0,Guy L. Reschenthaler,REP,150.0,,,Greene County,WHITELEY
+Greene,ALEPPO,State Senate,46.0,James R. Craig,DEM,54.0,,,Greene County,ALEPPO
+Greene,CARMICHAELS,State Senate,46.0,James R. Craig,DEM,63.0,,,Greene County,CARMICHAELS
+Greene,CENTER,State Senate,46.0,James R. Craig,DEM,130.0,,,Greene County,CENTER
+Greene,CLARKSVILLE,State Senate,46.0,James R. Craig,DEM,30.0,,,Greene County,CLARKSVILLE
+Greene,CUMBERLANDXNEMACOLIN,State Senate,46.0,James R. Craig,DEM,106.0,,,Greene County,CUMBERLANDXNEMACOLIN
+Greene,CUMBERLANDX1,State Senate,46.0,James R. Craig,DEM,272.0,,,Greene County,CUMBERLANDX1
+Greene,CUMBERLANDX2,State Senate,46.0,James R. Craig,DEM,147.0,,,Greene County,CUMBERLANDX2
+Greene,CUMBERLANDX4,State Senate,46.0,James R. Craig,DEM,289.0,,,Greene County,CUMBERLANDX4
+Greene,DUNKARDXBOBTOWN,State Senate,46.0,James R. Craig,DEM,103.0,,,Greene County,DUNKARDXBOBTOWN
+Greene,DUNKARDXDILLINER,State Senate,46.0,James R. Craig,DEM,65.0,,,Greene County,DUNKARDXDILLINER
+Greene,DUNKARDXLOWER,State Senate,46.0,James R. Craig,DEM,44.0,,,Greene County,DUNKARDXLOWER
+Greene,DUNKARDXUPPER,State Senate,46.0,James R. Craig,DEM,42.0,,,Greene County,DUNKARDXUPPER
+Greene,FRANKLINXEAST,State Senate,46.0,James R. Craig,DEM,315.0,,,Greene County,FRANKLINXEAST
+Greene,FRANKLINXNORTH,State Senate,46.0,James R. Craig,DEM,160.0,,,Greene County,FRANKLINXNORTH
+Greene,FRANKLINXSOUTH,State Senate,46.0,James R. Craig,DEM,73.0,,,Greene County,FRANKLINXSOUTH
+Greene,FRANKLINXWEST,State Senate,46.0,James R. Craig,DEM,53.0,,,Greene County,FRANKLINXWEST
+Greene,FREEPORT,State Senate,46.0,James R. Craig,DEM,37.0,,,Greene County,FREEPORT
+Greene,GILMORE,State Senate,46.0,James R. Craig,DEM,39.0,,,Greene County,GILMORE
+Greene,GRAY,State Senate,46.0,James R. Craig,DEM,24.0,,,Greene County,GRAY
+Greene,GREENE,State Senate,46.0,James R. Craig,DEM,58.0,,,Greene County,GREENE
+Greene,GREENSBORO,State Senate,46.0,James R. Craig,DEM,36.0,,,Greene County,GREENSBORO
+Greene,JACKSON,State Senate,46.0,James R. Craig,DEM,39.0,,,Greene County,JACKSON
+Greene,JEFFERSONX1,State Senate,46.0,James R. Craig,DEM,152.0,,,Greene County,JEFFERSONX1
+Greene,JEFFERSONX2,State Senate,46.0,James R. Craig,DEM,42.0,,,Greene County,JEFFERSONX2
+Greene,JEFFERSONX3,State Senate,46.0,James R. Craig,DEM,175.0,,,Greene County,JEFFERSONX3
+Greene,JEFFERSONX4,State Senate,46.0,James R. Craig,DEM,54.0,,,Greene County,JEFFERSONX4
+Greene,JEFFERSON,State Senate,46.0,James R. Craig,DEM,61.0,,,Greene County,JEFFERSON
+Greene,MONONGAHELAX1,State Senate,46.0,James R. Craig,DEM,124.0,,,Greene County,MONONGAHELAX1
+Greene,MONONGAHELAX2,State Senate,46.0,James R. Craig,DEM,70.0,,,Greene County,MONONGAHELAX2
+Greene,MORGANXCHART/T.GRDN,State Senate,46.0,James R. Craig,DEM,82.0,,,Greene County,MORGANXCHART/T.GRDN
+Greene,MORGANXLIPPENCOTT,State Senate,46.0,James R. Craig,DEM,111.0,,,Greene County,MORGANXLIPPENCOTT
+Greene,MORGANXMATHER,State Senate,46.0,James R. Craig,DEM,205.0,,,Greene County,MORGANXMATHER
+Greene,MORRIS,State Senate,46.0,James R. Craig,DEM,91.0,,,Greene County,MORRIS
+Greene,PERRY,State Senate,46.0,James R. Craig,DEM,223.0,,,Greene County,PERRY
+Greene,RICES LANDING,State Senate,46.0,James R. Craig,DEM,78.0,,,Greene County,RICES LANDING
+Greene,RICHHILL,State Senate,46.0,James R. Craig,DEM,90.0,,,Greene County,RICHHILL
+Greene,SPRINGHILL,State Senate,46.0,James R. Craig,DEM,35.0,,,Greene County,SPRINGHILL
+Greene,WASHINGTON,State Senate,46.0,James R. Craig,DEM,128.0,,,Greene County,WASHINGTON
+Greene,WAYNEXEAST,State Senate,46.0,James R. Craig,DEM,72.0,,,Greene County,WAYNEXEAST
+Greene,WAYNEXWEST,State Senate,46.0,James R. Craig,DEM,44.0,,,Greene County,WAYNEXWEST
+Greene,WAYNESBURGW1,State Senate,46.0,James R. Craig,DEM,165.0,,,Greene County,WAYNESBURGW1
+Greene,WAYNESBURGW2,State Senate,46.0,James R. Craig,DEM,123.0,,,Greene County,WAYNESBURGW2
+Greene,WAYNESBURGW3,State Senate,46.0,James R. Craig,DEM,137.0,,,Greene County,WAYNESBURGW3
+Greene,WHITELEY,State Senate,46.0,James R. Craig,DEM,72.0,,,Greene County,WHITELEY
+Greene,ALEPPO,State Senate,46.0,Camera C. Bartolotta,REP,117.0,,,Greene County,ALEPPO
+Greene,CARMICHAELS,State Senate,46.0,Camera C. Bartolotta,REP,118.0,,,Greene County,CARMICHAELS
+Greene,CENTER,State Senate,46.0,Camera C. Bartolotta,REP,313.0,,,Greene County,CENTER
+Greene,CLARKSVILLE,State Senate,46.0,Camera C. Bartolotta,REP,45.0,,,Greene County,CLARKSVILLE
+Greene,CUMBERLANDXNEMACOLIN,State Senate,46.0,Camera C. Bartolotta,REP,109.0,,,Greene County,CUMBERLANDXNEMACOLIN
+Greene,CUMBERLANDX1,State Senate,46.0,Camera C. Bartolotta,REP,578.0,,,Greene County,CUMBERLANDX1
+Greene,CUMBERLANDX2,State Senate,46.0,Camera C. Bartolotta,REP,236.0,,,Greene County,CUMBERLANDX2
+Greene,CUMBERLANDX4,State Senate,46.0,Camera C. Bartolotta,REP,472.0,,,Greene County,CUMBERLANDX4
+Greene,DUNKARDXBOBTOWN,State Senate,46.0,Camera C. Bartolotta,REP,116.0,,,Greene County,DUNKARDXBOBTOWN
+Greene,DUNKARDXDILLINER,State Senate,46.0,Camera C. Bartolotta,REP,124.0,,,Greene County,DUNKARDXDILLINER
+Greene,DUNKARDXLOWER,State Senate,46.0,Camera C. Bartolotta,REP,80.0,,,Greene County,DUNKARDXLOWER
+Greene,DUNKARDXUPPER,State Senate,46.0,Camera C. Bartolotta,REP,65.0,,,Greene County,DUNKARDXUPPER
+Greene,FRANKLINXEAST,State Senate,46.0,Camera C. Bartolotta,REP,634.0,,,Greene County,FRANKLINXEAST
+Greene,FRANKLINXNORTH,State Senate,46.0,Camera C. Bartolotta,REP,343.0,,,Greene County,FRANKLINXNORTH
+Greene,FRANKLINXSOUTH,State Senate,46.0,Camera C. Bartolotta,REP,161.0,,,Greene County,FRANKLINXSOUTH
+Greene,FRANKLINXWEST,State Senate,46.0,Camera C. Bartolotta,REP,139.0,,,Greene County,FRANKLINXWEST
+Greene,FREEPORT,State Senate,46.0,Camera C. Bartolotta,REP,54.0,,,Greene County,FREEPORT
+Greene,GILMORE,State Senate,46.0,Camera C. Bartolotta,REP,55.0,,,Greene County,GILMORE
+Greene,GRAY,State Senate,46.0,Camera C. Bartolotta,REP,47.0,,,Greene County,GRAY
+Greene,GREENE,State Senate,46.0,Camera C. Bartolotta,REP,116.0,,,Greene County,GREENE
+Greene,GREENSBORO,State Senate,46.0,Camera C. Bartolotta,REP,46.0,,,Greene County,GREENSBORO
+Greene,JACKSON,State Senate,46.0,Camera C. Bartolotta,REP,109.0,,,Greene County,JACKSON
+Greene,JEFFERSONX1,State Senate,46.0,Camera C. Bartolotta,REP,294.0,,,Greene County,JEFFERSONX1
+Greene,JEFFERSONX2,State Senate,46.0,Camera C. Bartolotta,REP,54.0,,,Greene County,JEFFERSONX2
+Greene,JEFFERSONX3,State Senate,46.0,Camera C. Bartolotta,REP,232.0,,,Greene County,JEFFERSONX3
+Greene,JEFFERSONX4,State Senate,46.0,Camera C. Bartolotta,REP,45.0,,,Greene County,JEFFERSONX4
+Greene,JEFFERSON,State Senate,46.0,Camera C. Bartolotta,REP,58.0,,,Greene County,JEFFERSON
+Greene,MONONGAHELAX1,State Senate,46.0,Camera C. Bartolotta,REP,187.0,,,Greene County,MONONGAHELAX1
+Greene,MONONGAHELAX2,State Senate,46.0,Camera C. Bartolotta,REP,91.0,,,Greene County,MONONGAHELAX2
+Greene,MORGANXCHART/T.GRDN,State Senate,46.0,Camera C. Bartolotta,REP,114.0,,,Greene County,MORGANXCHART/T.GRDN
+Greene,MORGANXLIPPENCOTT,State Senate,46.0,Camera C. Bartolotta,REP,251.0,,,Greene County,MORGANXLIPPENCOTT
+Greene,MORGANXMATHER,State Senate,46.0,Camera C. Bartolotta,REP,206.0,,,Greene County,MORGANXMATHER
+Greene,MORRIS,State Senate,46.0,Camera C. Bartolotta,REP,181.0,,,Greene County,MORRIS
+Greene,PERRY,State Senate,46.0,Camera C. Bartolotta,REP,361.0,,,Greene County,PERRY
+Greene,RICES LANDING,State Senate,46.0,Camera C. Bartolotta,REP,108.0,,,Greene County,RICES LANDING
+Greene,RICHHILL,State Senate,46.0,Camera C. Bartolotta,REP,203.0,,,Greene County,RICHHILL
+Greene,SPRINGHILL,State Senate,46.0,Camera C. Bartolotta,REP,64.0,,,Greene County,SPRINGHILL
+Greene,WASHINGTON,State Senate,46.0,Camera C. Bartolotta,REP,312.0,,,Greene County,WASHINGTON
+Greene,WAYNEXEAST,State Senate,46.0,Camera C. Bartolotta,REP,142.0,,,Greene County,WAYNEXEAST
+Greene,WAYNEXWEST,State Senate,46.0,Camera C. Bartolotta,REP,89.0,,,Greene County,WAYNEXWEST
+Greene,WAYNESBURGW1,State Senate,46.0,Camera C. Bartolotta,REP,217.0,,,Greene County,WAYNESBURGW1
+Greene,WAYNESBURGW2,State Senate,46.0,Camera C. Bartolotta,REP,124.0,,,Greene County,WAYNESBURGW2
+Greene,WAYNESBURGW3,State Senate,46.0,Camera C. Bartolotta,REP,231.0,,,Greene County,WAYNESBURGW3
+Greene,WHITELEY,State Senate,46.0,Camera C. Bartolotta,REP,169.0,,,Greene County,WHITELEY
+Greene,ALEPPO,State House,50.0,Pamela Snyder,DEM,92.0,,,Greene County,ALEPPO
+Greene,CARMICHAELS,State House,50.0,Pamela Snyder,DEM,97.0,,,Greene County,CARMICHAELS
+Greene,CENTER,State House,50.0,Pamela Snyder,DEM,208.0,,,Greene County,CENTER
+Greene,CLARKSVILLE,State House,50.0,Pamela Snyder,DEM,45.0,,,Greene County,CLARKSVILLE
+Greene,CUMBERLANDXNEMACOLIN,State House,50.0,Pamela Snyder,DEM,129.0,,,Greene County,CUMBERLANDXNEMACOLIN
+Greene,CUMBERLANDX1,State House,50.0,Pamela Snyder,DEM,477.0,,,Greene County,CUMBERLANDX1
+Greene,CUMBERLANDX2,State House,50.0,Pamela Snyder,DEM,219.0,,,Greene County,CUMBERLANDX2
+Greene,CUMBERLANDX4,State House,50.0,Pamela Snyder,DEM,443.0,,,Greene County,CUMBERLANDX4
+Greene,DUNKARDXBOBTOWN,State House,50.0,Pamela Snyder,DEM,143.0,,,Greene County,DUNKARDXBOBTOWN
+Greene,DUNKARDXDILLINER,State House,50.0,Pamela Snyder,DEM,106.0,,,Greene County,DUNKARDXDILLINER
+Greene,DUNKARDXLOWER,State House,50.0,Pamela Snyder,DEM,63.0,,,Greene County,DUNKARDXLOWER
+Greene,DUNKARDXUPPER,State House,50.0,Pamela Snyder,DEM,61.0,,,Greene County,DUNKARDXUPPER
+Greene,FRANKLINXEAST,State House,50.0,Pamela Snyder,DEM,482.0,,,Greene County,FRANKLINXEAST
+Greene,FRANKLINXNORTH,State House,50.0,Pamela Snyder,DEM,253.0,,,Greene County,FRANKLINXNORTH
+Greene,FRANKLINXSOUTH,State House,50.0,Pamela Snyder,DEM,107.0,,,Greene County,FRANKLINXSOUTH
+Greene,FRANKLINXWEST,State House,50.0,Pamela Snyder,DEM,83.0,,,Greene County,FRANKLINXWEST
+Greene,FREEPORT,State House,50.0,Pamela Snyder,DEM,40.0,,,Greene County,FREEPORT
+Greene,GILMORE,State House,50.0,Pamela Snyder,DEM,47.0,,,Greene County,GILMORE
+Greene,GRAY,State House,50.0,Pamela Snyder,DEM,28.0,,,Greene County,GRAY
+Greene,GREENE,State House,50.0,Pamela Snyder,DEM,99.0,,,Greene County,GREENE
+Greene,GREENSBORO,State House,50.0,Pamela Snyder,DEM,52.0,,,Greene County,GREENSBORO
+Greene,JACKSON,State House,50.0,Pamela Snyder,DEM,67.0,,,Greene County,JACKSON
+Greene,JEFFERSONX1,State House,50.0,Pamela Snyder,DEM,266.0,,,Greene County,JEFFERSONX1
+Greene,JEFFERSONX2,State House,50.0,Pamela Snyder,DEM,51.0,,,Greene County,JEFFERSONX2
+Greene,JEFFERSONX3,State House,50.0,Pamela Snyder,DEM,277.0,,,Greene County,JEFFERSONX3
+Greene,JEFFERSONX4,State House,50.0,Pamela Snyder,DEM,73.0,,,Greene County,JEFFERSONX4
+Greene,JEFFERSON,State House,50.0,Pamela Snyder,DEM,87.0,,,Greene County,JEFFERSON
+Greene,MONONGAHELAX1,State House,50.0,Pamela Snyder,DEM,185.0,,,Greene County,MONONGAHELAX1
+Greene,MONONGAHELAX2,State House,50.0,Pamela Snyder,DEM,97.0,,,Greene County,MONONGAHELAX2
+Greene,MORGANXCHART/T.GRDN,State House,50.0,Pamela Snyder,DEM,134.0,,,Greene County,MORGANXCHART/T.GRDN
+Greene,MORGANXLIPPENCOTT,State House,50.0,Pamela Snyder,DEM,179.0,,,Greene County,MORGANXLIPPENCOTT
+Greene,MORGANXMATHER,State House,50.0,Pamela Snyder,DEM,278.0,,,Greene County,MORGANXMATHER
+Greene,MORRIS,State House,50.0,Pamela Snyder,DEM,125.0,,,Greene County,MORRIS
+Greene,PERRY,State House,50.0,Pamela Snyder,DEM,291.0,,,Greene County,PERRY
+Greene,RICES LANDING,State House,50.0,Pamela Snyder,DEM,120.0,,,Greene County,RICES LANDING
+Greene,RICHHILL,State House,50.0,Pamela Snyder,DEM,130.0,,,Greene County,RICHHILL
+Greene,SPRINGHILL,State House,50.0,Pamela Snyder,DEM,41.0,,,Greene County,SPRINGHILL
+Greene,WASHINGTON,State House,50.0,Pamela Snyder,DEM,204.0,,,Greene County,WASHINGTON
+Greene,WAYNEXEAST,State House,50.0,Pamela Snyder,DEM,106.0,,,Greene County,WAYNEXEAST
+Greene,WAYNEXWEST,State House,50.0,Pamela Snyder,DEM,57.0,,,Greene County,WAYNEXWEST
+Greene,WAYNESBURGW1,State House,50.0,Pamela Snyder,DEM,229.0,,,Greene County,WAYNESBURGW1
+Greene,WAYNESBURGW2,State House,50.0,Pamela Snyder,DEM,158.0,,,Greene County,WAYNESBURGW2
+Greene,WAYNESBURGW3,State House,50.0,Pamela Snyder,DEM,198.0,,,Greene County,WAYNESBURGW3
+Greene,WHITELEY,State House,50.0,Pamela Snyder,DEM,105.0,,,Greene County,WHITELEY
+Greene,ALEPPO,State House,50.0,Elizabeth L. Rohanna McClure,REP,83.0,,,Greene County,ALEPPO
+Greene,CARMICHAELS,State House,50.0,Elizabeth L. Rohanna McClure,REP,85.0,,,Greene County,CARMICHAELS
+Greene,CENTER,State House,50.0,Elizabeth L. Rohanna McClure,REP,250.0,,,Greene County,CENTER
+Greene,CLARKSVILLE,State House,50.0,Elizabeth L. Rohanna McClure,REP,31.0,,,Greene County,CLARKSVILLE
+Greene,CUMBERLANDXNEMACOLIN,State House,50.0,Elizabeth L. Rohanna McClure,REP,88.0,,,Greene County,CUMBERLANDXNEMACOLIN
+Greene,CUMBERLANDX1,State House,50.0,Elizabeth L. Rohanna McClure,REP,383.0,,,Greene County,CUMBERLANDX1
+Greene,CUMBERLANDX2,State House,50.0,Elizabeth L. Rohanna McClure,REP,168.0,,,Greene County,CUMBERLANDX2
+Greene,CUMBERLANDX4,State House,50.0,Elizabeth L. Rohanna McClure,REP,331.0,,,Greene County,CUMBERLANDX4
+Greene,DUNKARDXBOBTOWN,State House,50.0,Elizabeth L. Rohanna McClure,REP,83.0,,,Greene County,DUNKARDXBOBTOWN
+Greene,DUNKARDXDILLINER,State House,50.0,Elizabeth L. Rohanna McClure,REP,87.0,,,Greene County,DUNKARDXDILLINER
+Greene,DUNKARDXLOWER,State House,50.0,Elizabeth L. Rohanna McClure,REP,67.0,,,Greene County,DUNKARDXLOWER
+Greene,DUNKARDXUPPER,State House,50.0,Elizabeth L. Rohanna McClure,REP,46.0,,,Greene County,DUNKARDXUPPER
+Greene,FRANKLINXEAST,State House,50.0,Elizabeth L. Rohanna McClure,REP,474.0,,,Greene County,FRANKLINXEAST
+Greene,FRANKLINXNORTH,State House,50.0,Elizabeth L. Rohanna McClure,REP,255.0,,,Greene County,FRANKLINXNORTH
+Greene,FRANKLINXSOUTH,State House,50.0,Elizabeth L. Rohanna McClure,REP,134.0,,,Greene County,FRANKLINXSOUTH
+Greene,FRANKLINXWEST,State House,50.0,Elizabeth L. Rohanna McClure,REP,111.0,,,Greene County,FRANKLINXWEST
+Greene,FREEPORT,State House,50.0,Elizabeth L. Rohanna McClure,REP,52.0,,,Greene County,FREEPORT
+Greene,GILMORE,State House,50.0,Elizabeth L. Rohanna McClure,REP,47.0,,,Greene County,GILMORE
+Greene,GRAY,State House,50.0,Elizabeth L. Rohanna McClure,REP,43.0,,,Greene County,GRAY
+Greene,GREENE,State House,50.0,Elizabeth L. Rohanna McClure,REP,77.0,,,Greene County,GREENE
+Greene,GREENSBORO,State House,50.0,Elizabeth L. Rohanna McClure,REP,33.0,,,Greene County,GREENSBORO
+Greene,JACKSON,State House,50.0,Elizabeth L. Rohanna McClure,REP,82.0,,,Greene County,JACKSON
+Greene,JEFFERSONX1,State House,50.0,Elizabeth L. Rohanna McClure,REP,179.0,,,Greene County,JEFFERSONX1
+Greene,JEFFERSONX2,State House,50.0,Elizabeth L. Rohanna McClure,REP,47.0,,,Greene County,JEFFERSONX2
+Greene,JEFFERSONX3,State House,50.0,Elizabeth L. Rohanna McClure,REP,142.0,,,Greene County,JEFFERSONX3
+Greene,JEFFERSONX4,State House,50.0,Elizabeth L. Rohanna McClure,REP,26.0,,,Greene County,JEFFERSONX4
+Greene,JEFFERSON,State House,50.0,Elizabeth L. Rohanna McClure,REP,34.0,,,Greene County,JEFFERSON
+Greene,MONONGAHELAX1,State House,50.0,Elizabeth L. Rohanna McClure,REP,130.0,,,Greene County,MONONGAHELAX1
+Greene,MONONGAHELAX2,State House,50.0,Elizabeth L. Rohanna McClure,REP,68.0,,,Greene County,MONONGAHELAX2
+Greene,MORGANXCHART/T.GRDN,State House,50.0,Elizabeth L. Rohanna McClure,REP,64.0,,,Greene County,MORGANXCHART/T.GRDN
+Greene,MORGANXLIPPENCOTT,State House,50.0,Elizabeth L. Rohanna McClure,REP,185.0,,,Greene County,MORGANXLIPPENCOTT
+Greene,MORGANXMATHER,State House,50.0,Elizabeth L. Rohanna McClure,REP,148.0,,,Greene County,MORGANXMATHER
+Greene,MORRIS,State House,50.0,Elizabeth L. Rohanna McClure,REP,153.0,,,Greene County,MORRIS
+Greene,PERRY,State House,50.0,Elizabeth L. Rohanna McClure,REP,305.0,,,Greene County,PERRY
+Greene,RICES LANDING,State House,50.0,Elizabeth L. Rohanna McClure,REP,70.0,,,Greene County,RICES LANDING
+Greene,RICHHILL,State House,50.0,Elizabeth L. Rohanna McClure,REP,165.0,,,Greene County,RICHHILL
+Greene,SPRINGHILL,State House,50.0,Elizabeth L. Rohanna McClure,REP,58.0,,,Greene County,SPRINGHILL
+Greene,WASHINGTON,State House,50.0,Elizabeth L. Rohanna McClure,REP,237.0,,,Greene County,WASHINGTON
+Greene,WAYNEXEAST,State House,50.0,Elizabeth L. Rohanna McClure,REP,112.0,,,Greene County,WAYNEXEAST
+Greene,WAYNEXWEST,State House,50.0,Elizabeth L. Rohanna McClure,REP,82.0,,,Greene County,WAYNEXWEST
+Greene,WAYNESBURGW1,State House,50.0,Elizabeth L. Rohanna McClure,REP,157.0,,,Greene County,WAYNESBURGW1
+Greene,WAYNESBURGW2,State House,50.0,Elizabeth L. Rohanna McClure,REP,94.0,,,Greene County,WAYNESBURGW2
+Greene,WAYNESBURGW3,State House,50.0,Elizabeth L. Rohanna McClure,REP,174.0,,,Greene County,WAYNESBURGW3
+Greene,WHITELEY,State House,50.0,Elizabeth L. Rohanna McClure,REP,144.0,,,Greene County,WHITELEY

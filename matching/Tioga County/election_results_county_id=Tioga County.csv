@@ -1,0 +1,657 @@
+county,precinct,office,district,candidate,party,votes,election_day,absentee,county_id,original_precinct_name
+Tioga,Bloss Twp,U.S. Senate,,Bob Casey Jr,DEM,32.0,,,Tioga County,Bloss Twp
+Tioga,Bloss Twp,U.S. Senate,,Lou Barletta,REP,96.0,,,Tioga County,Bloss Twp
+Tioga,Bloss Twp,U.S. Senate,,Neal Gale ,GRN,1.0,,,Tioga County,Bloss Twp
+Tioga,Bloss Twp,U.S. Senate,,Dale R Kerns Jr,LIB,2.0,,,Tioga County,Bloss Twp
+Tioga,Bloss Twp,U.S. Senate,,Write In,,0.0,,,Tioga County,Bloss Twp
+Tioga,Bloss Twp,Governor,,Wolf/Fetterman ,DEM,36.0,,,Tioga County,Bloss Twp
+Tioga,Bloss Twp,Governor,,Wagner/Bartos ,REP,94.0,,,Tioga County,Bloss Twp
+Tioga,Bloss Twp,Governor,,Glover/Bowser-Bostick ,GRN,0.0,,,Tioga County,Bloss Twp
+Tioga,Bloss Twp,Governor,,Krawchuk/Smith ,LIB,2.0,,,Tioga County,Bloss Twp
+Tioga,Bloss Twp,Governor,,Write In,,0.0,,,Tioga County,Bloss Twp
+Tioga,Bloss Twp,U.S. House,12.0,Marc Friedenberg,DEM,26.0,,,Tioga County,Bloss Twp
+Tioga,Bloss Twp,U.S. House,12.0,Tom Marino,REP,104.0,,,Tioga County,Bloss Twp
+Tioga,Bloss Twp,U.S. House,12.0,Write In,,0.0,,,Tioga County,Bloss Twp
+Tioga,Bloss Twp,State House,68.0,Carrie Heath,DEM,31.0,,,Tioga County,Bloss Twp
+Tioga,Bloss Twp,State House,68.0,Clint Owlett,REP,98.0,,,Tioga County,Bloss Twp
+Tioga,Bloss Twp,State House,68.0,Write In,,0.0,,,Tioga County,Bloss Twp
+Tioga,Blossburg Boro,U.S. Senate,,Bob Casey Jr,DEM,185.0,,,Tioga County,Blossburg Boro
+Tioga,Blossburg Boro,U.S. Senate,,Lou Barletta,REP,320.0,,,Tioga County,Blossburg Boro
+Tioga,Blossburg Boro,U.S. Senate,,Neal Gale ,GRN,3.0,,,Tioga County,Blossburg Boro
+Tioga,Blossburg Boro,U.S. Senate,,Dale R Kerns Jr,LIB,6.0,,,Tioga County,Blossburg Boro
+Tioga,Blossburg Boro,U.S. Senate,,Write In,,0.0,,,Tioga County,Blossburg Boro
+Tioga,Blossburg Boro,Governor,,Wolf/Fetterman ,DEM,177.0,,,Tioga County,Blossburg Boro
+Tioga,Blossburg Boro,Governor,,Wagner/Bartos ,REP,325.0,,,Tioga County,Blossburg Boro
+Tioga,Blossburg Boro,Governor,,Glover/Bowser-Bostick ,GRN,4.0,,,Tioga County,Blossburg Boro
+Tioga,Blossburg Boro,Governor,,Krawchuk/Smith ,LIB,8.0,,,Tioga County,Blossburg Boro
+Tioga,Blossburg Boro,Governor,,Write In,,0.0,,,Tioga County,Blossburg Boro
+Tioga,Blossburg Boro,U.S. House,12.0,Marc Friedenberg,DEM,166.0,,,Tioga County,Blossburg Boro
+Tioga,Blossburg Boro,U.S. House,12.0,Tom Marino,REP,345.0,,,Tioga County,Blossburg Boro
+Tioga,Blossburg Boro,U.S. House,12.0,Write In,,0.0,,,Tioga County,Blossburg Boro
+Tioga,Blossburg Boro,State House,68.0,Carrie Heath,DEM,154.0,,,Tioga County,Blossburg Boro
+Tioga,Blossburg Boro,State House,68.0,Clint Owlett,REP,362.0,,,Tioga County,Blossburg Boro
+Tioga,Blossburg Boro,State House,68.0,Write In,,0.0,,,Tioga County,Blossburg Boro
+Tioga,Brookfield Twp,U.S. Senate,,Bob Casey Jr,DEM,40.0,,,Tioga County,Brookfield Twp
+Tioga,Brookfield Twp,U.S. Senate,,Lou Barletta,REP,125.0,,,Tioga County,Brookfield Twp
+Tioga,Brookfield Twp,U.S. Senate,,Neal Gale ,GRN,0.0,,,Tioga County,Brookfield Twp
+Tioga,Brookfield Twp,U.S. Senate,,Dale R Kerns Jr,LIB,6.0,,,Tioga County,Brookfield Twp
+Tioga,Brookfield Twp,U.S. Senate,,Write In,,0.0,,,Tioga County,Brookfield Twp
+Tioga,Brookfield Twp,Governor,,Wolf/Fetterman ,DEM,38.0,,,Tioga County,Brookfield Twp
+Tioga,Brookfield Twp,Governor,,Wagner/Bartos ,REP,128.0,,,Tioga County,Brookfield Twp
+Tioga,Brookfield Twp,Governor,,Glover/Bowser-Bostick ,GRN,1.0,,,Tioga County,Brookfield Twp
+Tioga,Brookfield Twp,Governor,,Krawchuk/Smith ,LIB,0.0,,,Tioga County,Brookfield Twp
+Tioga,Brookfield Twp,Governor,,Write In,,4.0,,,Tioga County,Brookfield Twp
+Tioga,Brookfield Twp,U.S. House,12.0,Marc Friedenberg,DEM,35.0,,,Tioga County,Brookfield Twp
+Tioga,Brookfield Twp,U.S. House,12.0,Tom Marino,REP,133.0,,,Tioga County,Brookfield Twp
+Tioga,Brookfield Twp,U.S. House,12.0,Write In,,1.0,,,Tioga County,Brookfield Twp
+Tioga,Brookfield Twp,State House,68.0,Carrie Heath,DEM,32.0,,,Tioga County,Brookfield Twp
+Tioga,Brookfield Twp,State House,68.0,Clint Owlett,REP,138.0,,,Tioga County,Brookfield Twp
+Tioga,Brookfield Twp,State House,68.0,Write In,,1.0,,,Tioga County,Brookfield Twp
+Tioga,Charleston Twp,U.S. Senate,,Bob Casey Jr,DEM,369.0,,,Tioga County,Charleston Twp
+Tioga,Charleston Twp,U.S. Senate,,Lou Barletta,REP,972.0,,,Tioga County,Charleston Twp
+Tioga,Charleston Twp,U.S. Senate,,Neal Gale ,GRN,17.0,,,Tioga County,Charleston Twp
+Tioga,Charleston Twp,U.S. Senate,,Dale R Kerns Jr,LIB,16.0,,,Tioga County,Charleston Twp
+Tioga,Charleston Twp,U.S. Senate,,Write In,,0.0,,,Tioga County,Charleston Twp
+Tioga,Charleston Twp,Governor,,Wolf/Fetterman ,DEM,386.0,,,Tioga County,Charleston Twp
+Tioga,Charleston Twp,Governor,,Wagner/Bartos ,REP,975.0,,,Tioga County,Charleston Twp
+Tioga,Charleston Twp,Governor,,Glover/Bowser-Bostick ,GRN,13.0,,,Tioga County,Charleston Twp
+Tioga,Charleston Twp,Governor,,Krawchuk/Smith ,LIB,12.0,,,Tioga County,Charleston Twp
+Tioga,Charleston Twp,Governor,,Write In,,0.0,,,Tioga County,Charleston Twp
+Tioga,Charleston Twp,U.S. House,12.0,Marc Friedenberg,DEM,352.0,,,Tioga County,Charleston Twp
+Tioga,Charleston Twp,U.S. House,12.0,Tom Marino,REP,1025.0,,,Tioga County,Charleston Twp
+Tioga,Charleston Twp,U.S. House,12.0,Write In,,2.0,,,Tioga County,Charleston Twp
+Tioga,Charleston Twp,State House,68.0,Carrie Heath,DEM,350.0,,,Tioga County,Charleston Twp
+Tioga,Charleston Twp,State House,68.0,Clint Owlett,REP,1029.0,,,Tioga County,Charleston Twp
+Tioga,Charleston Twp,State House,68.0,Write In,,6.0,,,Tioga County,Charleston Twp
+Tioga,Chatham Twp,U.S. Senate,,Bob Casey Jr,DEM,77.0,,,Tioga County,Chatham Twp
+Tioga,Chatham Twp,U.S. Senate,,Lou Barletta,REP,204.0,,,Tioga County,Chatham Twp
+Tioga,Chatham Twp,U.S. Senate,,Neal Gale ,GRN,2.0,,,Tioga County,Chatham Twp
+Tioga,Chatham Twp,U.S. Senate,,Dale R Kerns Jr,LIB,2.0,,,Tioga County,Chatham Twp
+Tioga,Chatham Twp,U.S. Senate,,Write In,,0.0,,,Tioga County,Chatham Twp
+Tioga,Chatham Twp,Governor,,Wolf/Fetterman ,DEM,71.0,,,Tioga County,Chatham Twp
+Tioga,Chatham Twp,Governor,,Wagner/Bartos ,REP,211.0,,,Tioga County,Chatham Twp
+Tioga,Chatham Twp,Governor,,Glover/Bowser-Bostick ,GRN,2.0,,,Tioga County,Chatham Twp
+Tioga,Chatham Twp,Governor,,Krawchuk/Smith ,LIB,1.0,,,Tioga County,Chatham Twp
+Tioga,Chatham Twp,Governor,,Write In,,0.0,,,Tioga County,Chatham Twp
+Tioga,Chatham Twp,U.S. House,12.0,Marc Friedenberg,DEM,67.0,,,Tioga County,Chatham Twp
+Tioga,Chatham Twp,U.S. House,12.0,Tom Marino,REP,215.0,,,Tioga County,Chatham Twp
+Tioga,Chatham Twp,U.S. House,12.0,Write In,,0.0,,,Tioga County,Chatham Twp
+Tioga,Chatham Twp,State House,68.0,Carrie Heath,DEM,61.0,,,Tioga County,Chatham Twp
+Tioga,Chatham Twp,State House,68.0,Clint Owlett,REP,227.0,,,Tioga County,Chatham Twp
+Tioga,Chatham Twp,State House,68.0,Write In,,0.0,,,Tioga County,Chatham Twp
+Tioga,Clymer Twp,U.S. Senate,,Bob Casey Jr,DEM,65.0,,,Tioga County,Clymer Twp
+Tioga,Clymer Twp,U.S. Senate,,Lou Barletta,REP,158.0,,,Tioga County,Clymer Twp
+Tioga,Clymer Twp,U.S. Senate,,Neal Gale ,GRN,0.0,,,Tioga County,Clymer Twp
+Tioga,Clymer Twp,U.S. Senate,,Dale R Kerns Jr,LIB,2.0,,,Tioga County,Clymer Twp
+Tioga,Clymer Twp,U.S. Senate,,Write In,,1.0,,,Tioga County,Clymer Twp
+Tioga,Clymer Twp,Governor,,Wolf/Fetterman ,DEM,48.0,,,Tioga County,Clymer Twp
+Tioga,Clymer Twp,Governor,,Wagner/Bartos ,REP,179.0,,,Tioga County,Clymer Twp
+Tioga,Clymer Twp,Governor,,Glover/Bowser-Bostick ,GRN,0.0,,,Tioga County,Clymer Twp
+Tioga,Clymer Twp,Governor,,Krawchuk/Smith ,LIB,3.0,,,Tioga County,Clymer Twp
+Tioga,Clymer Twp,Governor,,Write In,,0.0,,,Tioga County,Clymer Twp
+Tioga,Clymer Twp,U.S. House,12.0,Marc Friedenberg,DEM,54.0,,,Tioga County,Clymer Twp
+Tioga,Clymer Twp,U.S. House,12.0,Tom Marino,REP,173.0,,,Tioga County,Clymer Twp
+Tioga,Clymer Twp,U.S. House,12.0,Write In,,0.0,,,Tioga County,Clymer Twp
+Tioga,Clymer Twp,State House,68.0,Carrie Heath,DEM,38.0,,,Tioga County,Clymer Twp
+Tioga,Clymer Twp,State House,68.0,Clint Owlett,REP,192.0,,,Tioga County,Clymer Twp
+Tioga,Clymer Twp,State House,68.0,Write In,,0.0,,,Tioga County,Clymer Twp
+Tioga,Covington Twp,U.S. Senate,,Bob Casey Jr,DEM,78.0,,,Tioga County,Covington Twp
+Tioga,Covington Twp,U.S. Senate,,Lou Barletta,REP,308.0,,,Tioga County,Covington Twp
+Tioga,Covington Twp,U.S. Senate,,Neal Gale ,GRN,3.0,,,Tioga County,Covington Twp
+Tioga,Covington Twp,U.S. Senate,,Dale R Kerns Jr,LIB,1.0,,,Tioga County,Covington Twp
+Tioga,Covington Twp,U.S. Senate,,Write In,,1.0,,,Tioga County,Covington Twp
+Tioga,Covington Twp,Governor,,Wolf/Fetterman ,DEM,80.0,,,Tioga County,Covington Twp
+Tioga,Covington Twp,Governor,,Wagner/Bartos ,REP,305.0,,,Tioga County,Covington Twp
+Tioga,Covington Twp,Governor,,Glover/Bowser-Bostick ,GRN,9.0,,,Tioga County,Covington Twp
+Tioga,Covington Twp,Governor,,Krawchuk/Smith ,LIB,7.0,,,Tioga County,Covington Twp
+Tioga,Covington Twp,Governor,,Write In,,1.0,,,Tioga County,Covington Twp
+Tioga,Covington Twp,U.S. House,12.0,Marc Friedenberg,DEM,72.0,,,Tioga County,Covington Twp
+Tioga,Covington Twp,U.S. House,12.0,Tom Marino,REP,327.0,,,Tioga County,Covington Twp
+Tioga,Covington Twp,U.S. House,12.0,Write In,,0.0,,,Tioga County,Covington Twp
+Tioga,Covington Twp,State House,68.0,Carrie Heath,DEM,68.0,,,Tioga County,Covington Twp
+Tioga,Covington Twp,State House,68.0,Clint Owlett,REP,330.0,,,Tioga County,Covington Twp
+Tioga,Covington Twp,State House,68.0,Write In,,1.0,,,Tioga County,Covington Twp
+Tioga,Deerfield Twp,U.S. Senate,,Bob Casey Jr,DEM,54.0,,,Tioga County,Deerfield Twp
+Tioga,Deerfield Twp,U.S. Senate,,Lou Barletta,REP,191.0,,,Tioga County,Deerfield Twp
+Tioga,Deerfield Twp,U.S. Senate,,Neal Gale ,GRN,5.0,,,Tioga County,Deerfield Twp
+Tioga,Deerfield Twp,U.S. Senate,,Dale R Kerns Jr,LIB,5.0,,,Tioga County,Deerfield Twp
+Tioga,Deerfield Twp,U.S. Senate,,Write In,,0.0,,,Tioga County,Deerfield Twp
+Tioga,Deerfield Twp,Governor,,Wolf/Fetterman ,DEM,38.0,,,Tioga County,Deerfield Twp
+Tioga,Deerfield Twp,Governor,,Wagner/Bartos ,REP,203.0,,,Tioga County,Deerfield Twp
+Tioga,Deerfield Twp,Governor,,Glover/Bowser-Bostick ,GRN,4.0,,,Tioga County,Deerfield Twp
+Tioga,Deerfield Twp,Governor,,Krawchuk/Smith ,LIB,6.0,,,Tioga County,Deerfield Twp
+Tioga,Deerfield Twp,Governor,,Write In,,0.0,,,Tioga County,Deerfield Twp
+Tioga,Deerfield Twp,U.S. House,12.0,Marc Friedenberg,DEM,46.0,,,Tioga County,Deerfield Twp
+Tioga,Deerfield Twp,U.S. House,12.0,Tom Marino,REP,204.0,,,Tioga County,Deerfield Twp
+Tioga,Deerfield Twp,U.S. House,12.0,Write In,,1.0,,,Tioga County,Deerfield Twp
+Tioga,Deerfield Twp,State House,68.0,Carrie Heath,DEM,35.0,,,Tioga County,Deerfield Twp
+Tioga,Deerfield Twp,State House,68.0,Clint Owlett,REP,220.0,,,Tioga County,Deerfield Twp
+Tioga,Deerfield Twp,State House,68.0,Write In,,0.0,,,Tioga County,Deerfield Twp
+Tioga,Delmar Twp North,U.S. Senate,,Bob Casey Jr,DEM,238.0,,,Tioga County,Delmar Twp North
+Tioga,Delmar Twp North,U.S. Senate,,Lou Barletta,REP,500.0,,,Tioga County,Delmar Twp North
+Tioga,Delmar Twp North,U.S. Senate,,Neal Gale ,GRN,7.0,,,Tioga County,Delmar Twp North
+Tioga,Delmar Twp North,U.S. Senate,,Dale R Kerns Jr,LIB,6.0,,,Tioga County,Delmar Twp North
+Tioga,Delmar Twp North,U.S. Senate,,Write In,,0.0,,,Tioga County,Delmar Twp North
+Tioga,Delmar Twp North,Governor,,Wolf/Fetterman ,DEM,238.0,,,Tioga County,Delmar Twp North
+Tioga,Delmar Twp North,Governor,,Wagner/Bartos ,REP,503.0,,,Tioga County,Delmar Twp North
+Tioga,Delmar Twp North,Governor,,Glover/Bowser-Bostick ,GRN,6.0,,,Tioga County,Delmar Twp North
+Tioga,Delmar Twp North,Governor,,Krawchuk/Smith ,LIB,7.0,,,Tioga County,Delmar Twp North
+Tioga,Delmar Twp North,Governor,,Write In,,0.0,,,Tioga County,Delmar Twp North
+Tioga,Delmar Twp North,U.S. House,12.0,Marc Friedenberg,DEM,216.0,,,Tioga County,Delmar Twp North
+Tioga,Delmar Twp North,U.S. House,12.0,Tom Marino,REP,534.0,,,Tioga County,Delmar Twp North
+Tioga,Delmar Twp North,U.S. House,12.0,Write In,,1.0,,,Tioga County,Delmar Twp North
+Tioga,Delmar Twp North,State House,68.0,Carrie Heath,DEM,226.0,,,Tioga County,Delmar Twp North
+Tioga,Delmar Twp North,State House,68.0,Clint Owlett,REP,533.0,,,Tioga County,Delmar Twp North
+Tioga,Delmar Twp North,State House,68.0,Write In,,0.0,,,Tioga County,Delmar Twp North
+Tioga,Delmar Twp South,U.S. Senate,,Bob Casey Jr,DEM,96.0,,,Tioga County,Delmar Twp South
+Tioga,Delmar Twp South,U.S. Senate,,Lou Barletta,REP,295.0,,,Tioga County,Delmar Twp South
+Tioga,Delmar Twp South,U.S. Senate,,Neal Gale ,GRN,3.0,,,Tioga County,Delmar Twp South
+Tioga,Delmar Twp South,U.S. Senate,,Dale R Kerns Jr,LIB,5.0,,,Tioga County,Delmar Twp South
+Tioga,Delmar Twp South,U.S. Senate,,Write In,,0.0,,,Tioga County,Delmar Twp South
+Tioga,Delmar Twp South,Governor,,Wolf/Fetterman ,DEM,86.0,,,Tioga County,Delmar Twp South
+Tioga,Delmar Twp South,Governor,,Wagner/Bartos ,REP,307.0,,,Tioga County,Delmar Twp South
+Tioga,Delmar Twp South,Governor,,Glover/Bowser-Bostick ,GRN,5.0,,,Tioga County,Delmar Twp South
+Tioga,Delmar Twp South,Governor,,Krawchuk/Smith ,LIB,3.0,,,Tioga County,Delmar Twp South
+Tioga,Delmar Twp South,Governor,,Write In,,0.0,,,Tioga County,Delmar Twp South
+Tioga,Delmar Twp South,U.S. House,12.0,Marc Friedenberg,DEM,90.0,,,Tioga County,Delmar Twp South
+Tioga,Delmar Twp South,U.S. House,12.0,Tom Marino,REP,305.0,,,Tioga County,Delmar Twp South
+Tioga,Delmar Twp South,U.S. House,12.0,Write In,,0.0,,,Tioga County,Delmar Twp South
+Tioga,Delmar Twp South,State House,68.0,Carrie Heath,DEM,106.0,,,Tioga County,Delmar Twp South
+Tioga,Delmar Twp South,State House,68.0,Clint Owlett,REP,296.0,,,Tioga County,Delmar Twp South
+Tioga,Delmar Twp South,State House,68.0,Write In,,0.0,,,Tioga County,Delmar Twp South
+Tioga,Duncan Twp,U.S. Senate,,Bob Casey Jr,DEM,21.0,,,Tioga County,Duncan Twp
+Tioga,Duncan Twp,U.S. Senate,,Lou Barletta,REP,48.0,,,Tioga County,Duncan Twp
+Tioga,Duncan Twp,U.S. Senate,,Neal Gale ,GRN,0.0,,,Tioga County,Duncan Twp
+Tioga,Duncan Twp,U.S. Senate,,Dale R Kerns Jr,LIB,1.0,,,Tioga County,Duncan Twp
+Tioga,Duncan Twp,U.S. Senate,,Write In,,0.0,,,Tioga County,Duncan Twp
+Tioga,Duncan Twp,Governor,,Wolf/Fetterman ,DEM,16.0,,,Tioga County,Duncan Twp
+Tioga,Duncan Twp,Governor,,Wagner/Bartos ,REP,54.0,,,Tioga County,Duncan Twp
+Tioga,Duncan Twp,Governor,,Glover/Bowser-Bostick ,GRN,0.0,,,Tioga County,Duncan Twp
+Tioga,Duncan Twp,Governor,,Krawchuk/Smith ,LIB,1.0,,,Tioga County,Duncan Twp
+Tioga,Duncan Twp,Governor,,Write In,,0.0,,,Tioga County,Duncan Twp
+Tioga,Duncan Twp,U.S. House,12.0,Marc Friedenberg,DEM,17.0,,,Tioga County,Duncan Twp
+Tioga,Duncan Twp,U.S. House,12.0,Tom Marino,REP,53.0,,,Tioga County,Duncan Twp
+Tioga,Duncan Twp,U.S. House,12.0,Write In,,0.0,,,Tioga County,Duncan Twp
+Tioga,Duncan Twp,State House,68.0,Carrie Heath,DEM,22.0,,,Tioga County,Duncan Twp
+Tioga,Duncan Twp,State House,68.0,Clint Owlett,REP,48.0,,,Tioga County,Duncan Twp
+Tioga,Duncan Twp,State House,68.0,Write In,,1.0,,,Tioga County,Duncan Twp
+Tioga,Elk Twp,U.S. Senate,,Bob Casey Jr,DEM,4.0,,,Tioga County,Elk Twp
+Tioga,Elk Twp,U.S. Senate,,Lou Barletta,REP,16.0,,,Tioga County,Elk Twp
+Tioga,Elk Twp,U.S. Senate,,Neal Gale ,GRN,0.0,,,Tioga County,Elk Twp
+Tioga,Elk Twp,U.S. Senate,,Dale R Kerns Jr,LIB,1.0,,,Tioga County,Elk Twp
+Tioga,Elk Twp,U.S. Senate,,Write In,,0.0,,,Tioga County,Elk Twp
+Tioga,Elk Twp,Governor,,Wolf/Fetterman ,DEM,4.0,,,Tioga County,Elk Twp
+Tioga,Elk Twp,Governor,,Wagner/Bartos ,REP,16.0,,,Tioga County,Elk Twp
+Tioga,Elk Twp,Governor,,Glover/Bowser-Bostick ,GRN,1.0,,,Tioga County,Elk Twp
+Tioga,Elk Twp,Governor,,Krawchuk/Smith ,LIB,0.0,,,Tioga County,Elk Twp
+Tioga,Elk Twp,Governor,,Write In,,0.0,,,Tioga County,Elk Twp
+Tioga,Elk Twp,U.S. House,12.0,Marc Friedenberg,DEM,4.0,,,Tioga County,Elk Twp
+Tioga,Elk Twp,U.S. House,12.0,Tom Marino,REP,17.0,,,Tioga County,Elk Twp
+Tioga,Elk Twp,U.S. House,12.0,Write In,,0.0,,,Tioga County,Elk Twp
+Tioga,Elk Twp,State House,68.0,Carrie Heath,DEM,3.0,,,Tioga County,Elk Twp
+Tioga,Elk Twp,State House,68.0,Clint Owlett,REP,19.0,,,Tioga County,Elk Twp
+Tioga,Elk Twp,State House,68.0,Write In,,0.0,,,Tioga County,Elk Twp
+Tioga,Elkland Boro,U.S. Senate,,Bob Casey Jr,DEM,183.0,,,Tioga County,Elkland Boro
+Tioga,Elkland Boro,U.S. Senate,,Lou Barletta,REP,281.0,,,Tioga County,Elkland Boro
+Tioga,Elkland Boro,U.S. Senate,,Neal Gale ,GRN,5.0,,,Tioga County,Elkland Boro
+Tioga,Elkland Boro,U.S. Senate,,Dale R Kerns Jr,LIB,8.0,,,Tioga County,Elkland Boro
+Tioga,Elkland Boro,U.S. Senate,,Write In,,0.0,,,Tioga County,Elkland Boro
+Tioga,Elkland Boro,Governor,,Wolf/Fetterman ,DEM,170.0,,,Tioga County,Elkland Boro
+Tioga,Elkland Boro,Governor,,Wagner/Bartos ,REP,300.0,,,Tioga County,Elkland Boro
+Tioga,Elkland Boro,Governor,,Glover/Bowser-Bostick ,GRN,5.0,,,Tioga County,Elkland Boro
+Tioga,Elkland Boro,Governor,,Krawchuk/Smith ,LIB,5.0,,,Tioga County,Elkland Boro
+Tioga,Elkland Boro,Governor,,Write In,,0.0,,,Tioga County,Elkland Boro
+Tioga,Elkland Boro,U.S. House,12.0,Marc Friedenberg,DEM,171.0,,,Tioga County,Elkland Boro
+Tioga,Elkland Boro,U.S. House,12.0,Tom Marino,REP,305.0,,,Tioga County,Elkland Boro
+Tioga,Elkland Boro,U.S. House,12.0,Write In,,0.0,,,Tioga County,Elkland Boro
+Tioga,Elkland Boro,State House,68.0,Carrie Heath,DEM,145.0,,,Tioga County,Elkland Boro
+Tioga,Elkland Boro,State House,68.0,Clint Owlett,REP,331.0,,,Tioga County,Elkland Boro
+Tioga,Elkland Boro,State House,68.0,Write In,,0.0,,,Tioga County,Elkland Boro
+Tioga,Farmington Twp,U.S. Senate,,Bob Casey Jr,DEM,75.0,,,Tioga County,Farmington Twp
+Tioga,Farmington Twp,U.S. Senate,,Lou Barletta,REP,180.0,,,Tioga County,Farmington Twp
+Tioga,Farmington Twp,U.S. Senate,,Neal Gale ,GRN,1.0,,,Tioga County,Farmington Twp
+Tioga,Farmington Twp,U.S. Senate,,Dale R Kerns Jr,LIB,6.0,,,Tioga County,Farmington Twp
+Tioga,Farmington Twp,U.S. Senate,,Write In,,0.0,,,Tioga County,Farmington Twp
+Tioga,Farmington Twp,Governor,,Wolf/Fetterman ,DEM,63.0,,,Tioga County,Farmington Twp
+Tioga,Farmington Twp,Governor,,Wagner/Bartos ,REP,189.0,,,Tioga County,Farmington Twp
+Tioga,Farmington Twp,Governor,,Glover/Bowser-Bostick ,GRN,1.0,,,Tioga County,Farmington Twp
+Tioga,Farmington Twp,Governor,,Krawchuk/Smith ,LIB,7.0,,,Tioga County,Farmington Twp
+Tioga,Farmington Twp,Governor,,Write In,,1.0,,,Tioga County,Farmington Twp
+Tioga,Farmington Twp,U.S. House,12.0,Marc Friedenberg,DEM,63.0,,,Tioga County,Farmington Twp
+Tioga,Farmington Twp,U.S. House,12.0,Tom Marino,REP,199.0,,,Tioga County,Farmington Twp
+Tioga,Farmington Twp,U.S. House,12.0,Write In,,0.0,,,Tioga County,Farmington Twp
+Tioga,Farmington Twp,State House,68.0,Carrie Heath,DEM,64.0,,,Tioga County,Farmington Twp
+Tioga,Farmington Twp,State House,68.0,Clint Owlett,REP,200.0,,,Tioga County,Farmington Twp
+Tioga,Farmington Twp,State House,68.0,Write In,,0.0,,,Tioga County,Farmington Twp
+Tioga,Gaines Twp,U.S. Senate,,Bob Casey Jr,DEM,70.0,,,Tioga County,Gaines Twp
+Tioga,Gaines Twp,U.S. Senate,,Lou Barletta,REP,170.0,,,Tioga County,Gaines Twp
+Tioga,Gaines Twp,U.S. Senate,,Neal Gale ,GRN,0.0,,,Tioga County,Gaines Twp
+Tioga,Gaines Twp,U.S. Senate,,Dale R Kerns Jr,LIB,3.0,,,Tioga County,Gaines Twp
+Tioga,Gaines Twp,U.S. Senate,,Write In,,0.0,,,Tioga County,Gaines Twp
+Tioga,Gaines Twp,Governor,,Wolf/Fetterman ,DEM,62.0,,,Tioga County,Gaines Twp
+Tioga,Gaines Twp,Governor,,Wagner/Bartos ,REP,178.0,,,Tioga County,Gaines Twp
+Tioga,Gaines Twp,Governor,,Glover/Bowser-Bostick ,GRN,0.0,,,Tioga County,Gaines Twp
+Tioga,Gaines Twp,Governor,,Krawchuk/Smith ,LIB,5.0,,,Tioga County,Gaines Twp
+Tioga,Gaines Twp,Governor,,Write In,,0.0,,,Tioga County,Gaines Twp
+Tioga,Gaines Twp,U.S. House,12.0,Marc Friedenberg,DEM,57.0,,,Tioga County,Gaines Twp
+Tioga,Gaines Twp,U.S. House,12.0,Tom Marino,REP,184.0,,,Tioga County,Gaines Twp
+Tioga,Gaines Twp,U.S. House,12.0,Write In,,0.0,,,Tioga County,Gaines Twp
+Tioga,Gaines Twp,State House,68.0,Carrie Heath,DEM,49.0,,,Tioga County,Gaines Twp
+Tioga,Gaines Twp,State House,68.0,Clint Owlett,REP,196.0,,,Tioga County,Gaines Twp
+Tioga,Gaines Twp,State House,68.0,Write In,,0.0,,,Tioga County,Gaines Twp
+Tioga,Hamilton Twp,U.S. Senate,,Bob Casey Jr,DEM,34.0,,,Tioga County,Hamilton Twp
+Tioga,Hamilton Twp,U.S. Senate,,Lou Barletta,REP,96.0,,,Tioga County,Hamilton Twp
+Tioga,Hamilton Twp,U.S. Senate,,Neal Gale ,GRN,2.0,,,Tioga County,Hamilton Twp
+Tioga,Hamilton Twp,U.S. Senate,,Dale R Kerns Jr,LIB,1.0,,,Tioga County,Hamilton Twp
+Tioga,Hamilton Twp,U.S. Senate,,Write In,,0.0,,,Tioga County,Hamilton Twp
+Tioga,Hamilton Twp,Governor,,Wolf/Fetterman ,DEM,33.0,,,Tioga County,Hamilton Twp
+Tioga,Hamilton Twp,Governor,,Wagner/Bartos ,REP,98.0,,,Tioga County,Hamilton Twp
+Tioga,Hamilton Twp,Governor,,Glover/Bowser-Bostick ,GRN,1.0,,,Tioga County,Hamilton Twp
+Tioga,Hamilton Twp,Governor,,Krawchuk/Smith ,LIB,0.0,,,Tioga County,Hamilton Twp
+Tioga,Hamilton Twp,Governor,,Write In,,2.0,,,Tioga County,Hamilton Twp
+Tioga,Hamilton Twp,U.S. House,12.0,Marc Friedenberg,DEM,26.0,,,Tioga County,Hamilton Twp
+Tioga,Hamilton Twp,U.S. House,12.0,Tom Marino,REP,104.0,,,Tioga County,Hamilton Twp
+Tioga,Hamilton Twp,U.S. House,12.0,Write In,,0.0,,,Tioga County,Hamilton Twp
+Tioga,Hamilton Twp,State House,68.0,Carrie Heath,DEM,35.0,,,Tioga County,Hamilton Twp
+Tioga,Hamilton Twp,State House,68.0,Clint Owlett,REP,98.0,,,Tioga County,Hamilton Twp
+Tioga,Hamilton Twp,State House,68.0,Write In,,0.0,,,Tioga County,Hamilton Twp
+Tioga,Jackson Twp,U.S. Senate,,Bob Casey Jr,DEM,151.0,,,Tioga County,Jackson Twp
+Tioga,Jackson Twp,U.S. Senate,,Lou Barletta,REP,511.0,,,Tioga County,Jackson Twp
+Tioga,Jackson Twp,U.S. Senate,,Neal Gale ,GRN,3.0,,,Tioga County,Jackson Twp
+Tioga,Jackson Twp,U.S. Senate,,Dale R Kerns Jr,LIB,10.0,,,Tioga County,Jackson Twp
+Tioga,Jackson Twp,U.S. Senate,,Write In,,0.0,,,Tioga County,Jackson Twp
+Tioga,Jackson Twp,Governor,,Wolf/Fetterman ,DEM,148.0,,,Tioga County,Jackson Twp
+Tioga,Jackson Twp,Governor,,Wagner/Bartos ,REP,513.0,,,Tioga County,Jackson Twp
+Tioga,Jackson Twp,Governor,,Glover/Bowser-Bostick ,GRN,7.0,,,Tioga County,Jackson Twp
+Tioga,Jackson Twp,Governor,,Krawchuk/Smith ,LIB,10.0,,,Tioga County,Jackson Twp
+Tioga,Jackson Twp,Governor,,Write In,,1.0,,,Tioga County,Jackson Twp
+Tioga,Jackson Twp,U.S. House,12.0,Marc Friedenberg,DEM,144.0,,,Tioga County,Jackson Twp
+Tioga,Jackson Twp,U.S. House,12.0,Tom Marino,REP,531.0,,,Tioga County,Jackson Twp
+Tioga,Jackson Twp,U.S. House,12.0,Write In,,0.0,,,Tioga County,Jackson Twp
+Tioga,Jackson Twp,State House,68.0,Carrie Heath,DEM,142.0,,,Tioga County,Jackson Twp
+Tioga,Jackson Twp,State House,68.0,Clint Owlett,REP,533.0,,,Tioga County,Jackson Twp
+Tioga,Jackson Twp,State House,68.0,Write In,,0.0,,,Tioga County,Jackson Twp
+Tioga,Knoxville Boro,U.S. Senate,,Bob Casey Jr,DEM,75.0,,,Tioga County,Knoxville Boro
+Tioga,Knoxville Boro,U.S. Senate,,Lou Barletta,REP,126.0,,,Tioga County,Knoxville Boro
+Tioga,Knoxville Boro,U.S. Senate,,Neal Gale ,GRN,3.0,,,Tioga County,Knoxville Boro
+Tioga,Knoxville Boro,U.S. Senate,,Dale R Kerns Jr,LIB,2.0,,,Tioga County,Knoxville Boro
+Tioga,Knoxville Boro,U.S. Senate,,Write In,,0.0,,,Tioga County,Knoxville Boro
+Tioga,Knoxville Boro,Governor,,Wolf/Fetterman ,DEM,60.0,,,Tioga County,Knoxville Boro
+Tioga,Knoxville Boro,Governor,,Wagner/Bartos ,REP,141.0,,,Tioga County,Knoxville Boro
+Tioga,Knoxville Boro,Governor,,Glover/Bowser-Bostick ,GRN,3.0,,,Tioga County,Knoxville Boro
+Tioga,Knoxville Boro,Governor,,Krawchuk/Smith ,LIB,3.0,,,Tioga County,Knoxville Boro
+Tioga,Knoxville Boro,Governor,,Write In,,0.0,,,Tioga County,Knoxville Boro
+Tioga,Knoxville Boro,U.S. House,12.0,Marc Friedenberg,DEM,66.0,,,Tioga County,Knoxville Boro
+Tioga,Knoxville Boro,U.S. House,12.0,Tom Marino,REP,142.0,,,Tioga County,Knoxville Boro
+Tioga,Knoxville Boro,U.S. House,12.0,Write In,,0.0,,,Tioga County,Knoxville Boro
+Tioga,Knoxville Boro,State House,68.0,Carrie Heath,DEM,59.0,,,Tioga County,Knoxville Boro
+Tioga,Knoxville Boro,State House,68.0,Clint Owlett,REP,150.0,,,Tioga County,Knoxville Boro
+Tioga,Knoxville Boro,State House,68.0,Write In,,0.0,,,Tioga County,Knoxville Boro
+Tioga,Lawrence Twp,U.S. Senate,,Bob Casey Jr,DEM,120.0,,,Tioga County,Lawrence Twp
+Tioga,Lawrence Twp,U.S. Senate,,Lou Barletta,REP,398.0,,,Tioga County,Lawrence Twp
+Tioga,Lawrence Twp,U.S. Senate,,Neal Gale ,GRN,5.0,,,Tioga County,Lawrence Twp
+Tioga,Lawrence Twp,U.S. Senate,,Dale R Kerns Jr,LIB,1.0,,,Tioga County,Lawrence Twp
+Tioga,Lawrence Twp,U.S. Senate,,Write In,,0.0,,,Tioga County,Lawrence Twp
+Tioga,Lawrence Twp,Governor,,Wolf/Fetterman ,DEM,117.0,,,Tioga County,Lawrence Twp
+Tioga,Lawrence Twp,Governor,,Wagner/Bartos ,REP,403.0,,,Tioga County,Lawrence Twp
+Tioga,Lawrence Twp,Governor,,Glover/Bowser-Bostick ,GRN,3.0,,,Tioga County,Lawrence Twp
+Tioga,Lawrence Twp,Governor,,Krawchuk/Smith ,LIB,2.0,,,Tioga County,Lawrence Twp
+Tioga,Lawrence Twp,Governor,,Write In,,2.0,,,Tioga County,Lawrence Twp
+Tioga,Lawrence Twp,U.S. House,12.0,Marc Friedenberg,DEM,101.0,,,Tioga County,Lawrence Twp
+Tioga,Lawrence Twp,U.S. House,12.0,Tom Marino,REP,422.0,,,Tioga County,Lawrence Twp
+Tioga,Lawrence Twp,U.S. House,12.0,Write In,,0.0,,,Tioga County,Lawrence Twp
+Tioga,Lawrence Twp,State House,68.0,Carrie Heath,DEM,93.0,,,Tioga County,Lawrence Twp
+Tioga,Lawrence Twp,State House,68.0,Clint Owlett,REP,431.0,,,Tioga County,Lawrence Twp
+Tioga,Lawrence Twp,State House,68.0,Write In,,1.0,,,Tioga County,Lawrence Twp
+Tioga,Lawrenceville Boro,U.S. Senate,,Bob Casey Jr,DEM,51.0,,,Tioga County,Lawrenceville Boro
+Tioga,Lawrenceville Boro,U.S. Senate,,Lou Barletta,REP,118.0,,,Tioga County,Lawrenceville Boro
+Tioga,Lawrenceville Boro,U.S. Senate,,Neal Gale ,GRN,5.0,,,Tioga County,Lawrenceville Boro
+Tioga,Lawrenceville Boro,U.S. Senate,,Dale R Kerns Jr,LIB,5.0,,,Tioga County,Lawrenceville Boro
+Tioga,Lawrenceville Boro,U.S. Senate,,Write In,,0.0,,,Tioga County,Lawrenceville Boro
+Tioga,Lawrenceville Boro,Governor,,Wolf/Fetterman ,DEM,48.0,,,Tioga County,Lawrenceville Boro
+Tioga,Lawrenceville Boro,Governor,,Wagner/Bartos ,REP,122.0,,,Tioga County,Lawrenceville Boro
+Tioga,Lawrenceville Boro,Governor,,Glover/Bowser-Bostick ,GRN,6.0,,,Tioga County,Lawrenceville Boro
+Tioga,Lawrenceville Boro,Governor,,Krawchuk/Smith ,LIB,3.0,,,Tioga County,Lawrenceville Boro
+Tioga,Lawrenceville Boro,Governor,,Write In,,0.0,,,Tioga County,Lawrenceville Boro
+Tioga,Lawrenceville Boro,U.S. House,12.0,Marc Friedenberg,DEM,51.0,,,Tioga County,Lawrenceville Boro
+Tioga,Lawrenceville Boro,U.S. House,12.0,Tom Marino,REP,127.0,,,Tioga County,Lawrenceville Boro
+Tioga,Lawrenceville Boro,U.S. House,12.0,Write In,,0.0,,,Tioga County,Lawrenceville Boro
+Tioga,Lawrenceville Boro,State House,68.0,Carrie Heath,DEM,40.0,,,Tioga County,Lawrenceville Boro
+Tioga,Lawrenceville Boro,State House,68.0,Clint Owlett,REP,140.0,,,Tioga County,Lawrenceville Boro
+Tioga,Lawrenceville Boro,State House,68.0,Write In,,0.0,,,Tioga County,Lawrenceville Boro
+Tioga,Liberty Twp,U.S. Senate,,Bob Casey Jr,DEM,72.0,,,Tioga County,Liberty Twp
+Tioga,Liberty Twp,U.S. Senate,,Lou Barletta,REP,331.0,,,Tioga County,Liberty Twp
+Tioga,Liberty Twp,U.S. Senate,,Neal Gale ,GRN,2.0,,,Tioga County,Liberty Twp
+Tioga,Liberty Twp,U.S. Senate,,Dale R Kerns Jr,LIB,6.0,,,Tioga County,Liberty Twp
+Tioga,Liberty Twp,U.S. Senate,,Write In,,0.0,,,Tioga County,Liberty Twp
+Tioga,Liberty Twp,Governor,,Wolf/Fetterman ,DEM,73.0,,,Tioga County,Liberty Twp
+Tioga,Liberty Twp,Governor,,Wagner/Bartos ,REP,331.0,,,Tioga County,Liberty Twp
+Tioga,Liberty Twp,Governor,,Glover/Bowser-Bostick ,GRN,2.0,,,Tioga County,Liberty Twp
+Tioga,Liberty Twp,Governor,,Krawchuk/Smith ,LIB,3.0,,,Tioga County,Liberty Twp
+Tioga,Liberty Twp,Governor,,Write In,,0.0,,,Tioga County,Liberty Twp
+Tioga,Liberty Twp,U.S. House,12.0,Marc Friedenberg,DEM,58.0,,,Tioga County,Liberty Twp
+Tioga,Liberty Twp,U.S. House,12.0,Tom Marino,REP,348.0,,,Tioga County,Liberty Twp
+Tioga,Liberty Twp,U.S. House,12.0,Write In,,0.0,,,Tioga County,Liberty Twp
+Tioga,Liberty Twp,State House,68.0,Carrie Heath,DEM,53.0,,,Tioga County,Liberty Twp
+Tioga,Liberty Twp,State House,68.0,Clint Owlett,REP,355.0,,,Tioga County,Liberty Twp
+Tioga,Liberty Twp,State House,68.0,Write In,,0.0,,,Tioga County,Liberty Twp
+Tioga,Liberty Boro,U.S. Senate,,Bob Casey Jr,DEM,20.0,,,Tioga County,Liberty Boro
+Tioga,Liberty Boro,U.S. Senate,,Lou Barletta,REP,61.0,,,Tioga County,Liberty Boro
+Tioga,Liberty Boro,U.S. Senate,,Neal Gale ,GRN,2.0,,,Tioga County,Liberty Boro
+Tioga,Liberty Boro,U.S. Senate,,Dale R Kerns Jr,LIB,3.0,,,Tioga County,Liberty Boro
+Tioga,Liberty Boro,U.S. Senate,,Write In,,0.0,,,Tioga County,Liberty Boro
+Tioga,Liberty Boro,Governor,,Wolf/Fetterman ,DEM,20.0,,,Tioga County,Liberty Boro
+Tioga,Liberty Boro,Governor,,Wagner/Bartos ,REP,64.0,,,Tioga County,Liberty Boro
+Tioga,Liberty Boro,Governor,,Glover/Bowser-Bostick ,GRN,0.0,,,Tioga County,Liberty Boro
+Tioga,Liberty Boro,Governor,,Krawchuk/Smith ,LIB,3.0,,,Tioga County,Liberty Boro
+Tioga,Liberty Boro,Governor,,Write In,,0.0,,,Tioga County,Liberty Boro
+Tioga,Liberty Boro,U.S. House,12.0,Marc Friedenberg,DEM,22.0,,,Tioga County,Liberty Boro
+Tioga,Liberty Boro,U.S. House,12.0,Tom Marino,REP,66.0,,,Tioga County,Liberty Boro
+Tioga,Liberty Boro,U.S. House,12.0,Write In,,0.0,,,Tioga County,Liberty Boro
+Tioga,Liberty Boro,State House,68.0,Carrie Heath,DEM,18.0,,,Tioga County,Liberty Boro
+Tioga,Liberty Boro,State House,68.0,Clint Owlett,REP,70.0,,,Tioga County,Liberty Boro
+Tioga,Liberty Boro,State House,68.0,Write In,,0.0,,,Tioga County,Liberty Boro
+Tioga,Mansfield Boro,U.S. Senate,,Bob Casey Jr,DEM,374.0,,,Tioga County,Mansfield Boro
+Tioga,Mansfield Boro,U.S. Senate,,Lou Barletta,REP,315.0,,,Tioga County,Mansfield Boro
+Tioga,Mansfield Boro,U.S. Senate,,Neal Gale ,GRN,7.0,,,Tioga County,Mansfield Boro
+Tioga,Mansfield Boro,U.S. Senate,,Dale R Kerns Jr,LIB,15.0,,,Tioga County,Mansfield Boro
+Tioga,Mansfield Boro,U.S. Senate,,Write In,,1.0,,,Tioga County,Mansfield Boro
+Tioga,Mansfield Boro,Governor,,Wolf/Fetterman ,DEM,380.0,,,Tioga County,Mansfield Boro
+Tioga,Mansfield Boro,Governor,,Wagner/Bartos ,REP,306.0,,,Tioga County,Mansfield Boro
+Tioga,Mansfield Boro,Governor,,Glover/Bowser-Bostick ,GRN,9.0,,,Tioga County,Mansfield Boro
+Tioga,Mansfield Boro,Governor,,Krawchuk/Smith ,LIB,13.0,,,Tioga County,Mansfield Boro
+Tioga,Mansfield Boro,Governor,,Write In,,1.0,,,Tioga County,Mansfield Boro
+Tioga,Mansfield Boro,U.S. House,12.0,Marc Friedenberg,DEM,355.0,,,Tioga County,Mansfield Boro
+Tioga,Mansfield Boro,U.S. House,12.0,Tom Marino,REP,357.0,,,Tioga County,Mansfield Boro
+Tioga,Mansfield Boro,U.S. House,12.0,Write In,,0.0,,,Tioga County,Mansfield Boro
+Tioga,Mansfield Boro,State House,68.0,Carrie Heath,DEM,346.0,,,Tioga County,Mansfield Boro
+Tioga,Mansfield Boro,State House,68.0,Clint Owlett,REP,365.0,,,Tioga County,Mansfield Boro
+Tioga,Mansfield Boro,State House,68.0,Write In,,1.0,,,Tioga County,Mansfield Boro
+Tioga,Middlebury Twp,U.S. Senate,,Bob Casey Jr,DEM,106.0,,,Tioga County,Middlebury Twp
+Tioga,Middlebury Twp,U.S. Senate,,Lou Barletta,REP,423.0,,,Tioga County,Middlebury Twp
+Tioga,Middlebury Twp,U.S. Senate,,Neal Gale ,GRN,2.0,,,Tioga County,Middlebury Twp
+Tioga,Middlebury Twp,U.S. Senate,,Dale R Kerns Jr,LIB,3.0,,,Tioga County,Middlebury Twp
+Tioga,Middlebury Twp,U.S. Senate,,Write In,,0.0,,,Tioga County,Middlebury Twp
+Tioga,Middlebury Twp,Governor,,Wolf/Fetterman ,DEM,100.0,,,Tioga County,Middlebury Twp
+Tioga,Middlebury Twp,Governor,,Wagner/Bartos ,REP,430.0,,,Tioga County,Middlebury Twp
+Tioga,Middlebury Twp,Governor,,Glover/Bowser-Bostick ,GRN,2.0,,,Tioga County,Middlebury Twp
+Tioga,Middlebury Twp,Governor,,Krawchuk/Smith ,LIB,7.0,,,Tioga County,Middlebury Twp
+Tioga,Middlebury Twp,Governor,,Write In,,0.0,,,Tioga County,Middlebury Twp
+Tioga,Middlebury Twp,U.S. House,12.0,Marc Friedenberg,DEM,90.0,,,Tioga County,Middlebury Twp
+Tioga,Middlebury Twp,U.S. House,12.0,Tom Marino,REP,446.0,,,Tioga County,Middlebury Twp
+Tioga,Middlebury Twp,U.S. House,12.0,Write In,,0.0,,,Tioga County,Middlebury Twp
+Tioga,Middlebury Twp,State House,68.0,Carrie Heath,DEM,78.0,,,Tioga County,Middlebury Twp
+Tioga,Middlebury Twp,State House,68.0,Clint Owlett,REP,462.0,,,Tioga County,Middlebury Twp
+Tioga,Middlebury Twp,State House,68.0,Write In,,0.0,,,Tioga County,Middlebury Twp
+Tioga,Morris Twp,U.S. Senate,,Bob Casey Jr,DEM,53.0,,,Tioga County,Morris Twp
+Tioga,Morris Twp,U.S. Senate,,Lou Barletta,REP,208.0,,,Tioga County,Morris Twp
+Tioga,Morris Twp,U.S. Senate,,Neal Gale ,GRN,3.0,,,Tioga County,Morris Twp
+Tioga,Morris Twp,U.S. Senate,,Dale R Kerns Jr,LIB,1.0,,,Tioga County,Morris Twp
+Tioga,Morris Twp,U.S. Senate,,Write In,,0.0,,,Tioga County,Morris Twp
+Tioga,Morris Twp,Governor,,Wolf/Fetterman ,DEM,48.0,,,Tioga County,Morris Twp
+Tioga,Morris Twp,Governor,,Wagner/Bartos ,REP,212.0,,,Tioga County,Morris Twp
+Tioga,Morris Twp,Governor,,Glover/Bowser-Bostick ,GRN,2.0,,,Tioga County,Morris Twp
+Tioga,Morris Twp,Governor,,Krawchuk/Smith ,LIB,4.0,,,Tioga County,Morris Twp
+Tioga,Morris Twp,Governor,,Write In,,0.0,,,Tioga County,Morris Twp
+Tioga,Morris Twp,U.S. House,12.0,Marc Friedenberg,DEM,47.0,,,Tioga County,Morris Twp
+Tioga,Morris Twp,U.S. House,12.0,Tom Marino,REP,217.0,,,Tioga County,Morris Twp
+Tioga,Morris Twp,U.S. House,12.0,Write In,,0.0,,,Tioga County,Morris Twp
+Tioga,Morris Twp,State House,68.0,Carrie Heath,DEM,42.0,,,Tioga County,Morris Twp
+Tioga,Morris Twp,State House,68.0,Clint Owlett,REP,225.0,,,Tioga County,Morris Twp
+Tioga,Morris Twp,State House,68.0,Write In,,1.0,,,Tioga County,Morris Twp
+Tioga,Nelson Twp,U.S. Senate,,Bob Casey Jr,DEM,38.0,,,Tioga County,Nelson Twp
+Tioga,Nelson Twp,U.S. Senate,,Lou Barletta,REP,121.0,,,Tioga County,Nelson Twp
+Tioga,Nelson Twp,U.S. Senate,,Neal Gale ,GRN,1.0,,,Tioga County,Nelson Twp
+Tioga,Nelson Twp,U.S. Senate,,Dale R Kerns Jr,LIB,6.0,,,Tioga County,Nelson Twp
+Tioga,Nelson Twp,U.S. Senate,,Write In,,0.0,,,Tioga County,Nelson Twp
+Tioga,Nelson Twp,Governor,,Wolf/Fetterman ,DEM,39.0,,,Tioga County,Nelson Twp
+Tioga,Nelson Twp,Governor,,Wagner/Bartos ,REP,123.0,,,Tioga County,Nelson Twp
+Tioga,Nelson Twp,Governor,,Glover/Bowser-Bostick ,GRN,1.0,,,Tioga County,Nelson Twp
+Tioga,Nelson Twp,Governor,,Krawchuk/Smith ,LIB,3.0,,,Tioga County,Nelson Twp
+Tioga,Nelson Twp,Governor,,Write In,,1.0,,,Tioga County,Nelson Twp
+Tioga,Nelson Twp,U.S. House,12.0,Marc Friedenberg,DEM,39.0,,,Tioga County,Nelson Twp
+Tioga,Nelson Twp,U.S. House,12.0,Tom Marino,REP,128.0,,,Tioga County,Nelson Twp
+Tioga,Nelson Twp,U.S. House,12.0,Write In,,0.0,,,Tioga County,Nelson Twp
+Tioga,Nelson Twp,State House,68.0,Carrie Heath,DEM,35.0,,,Tioga County,Nelson Twp
+Tioga,Nelson Twp,State House,68.0,Clint Owlett,REP,131.0,,,Tioga County,Nelson Twp
+Tioga,Nelson Twp,State House,68.0,Write In,,1.0,,,Tioga County,Nelson Twp
+Tioga,Osceola Twp,U.S. Senate,,Bob Casey Jr,DEM,40.0,,,Tioga County,Osceola Twp
+Tioga,Osceola Twp,U.S. Senate,,Lou Barletta,REP,133.0,,,Tioga County,Osceola Twp
+Tioga,Osceola Twp,U.S. Senate,,Neal Gale ,GRN,0.0,,,Tioga County,Osceola Twp
+Tioga,Osceola Twp,U.S. Senate,,Dale R Kerns Jr,LIB,1.0,,,Tioga County,Osceola Twp
+Tioga,Osceola Twp,U.S. Senate,,Write In,,0.0,,,Tioga County,Osceola Twp
+Tioga,Osceola Twp,Governor,,Wolf/Fetterman ,DEM,34.0,,,Tioga County,Osceola Twp
+Tioga,Osceola Twp,Governor,,Wagner/Bartos ,REP,139.0,,,Tioga County,Osceola Twp
+Tioga,Osceola Twp,Governor,,Glover/Bowser-Bostick ,GRN,2.0,,,Tioga County,Osceola Twp
+Tioga,Osceola Twp,Governor,,Krawchuk/Smith ,LIB,1.0,,,Tioga County,Osceola Twp
+Tioga,Osceola Twp,Governor,,Write In,,0.0,,,Tioga County,Osceola Twp
+Tioga,Osceola Twp,U.S. House,12.0,Marc Friedenberg,DEM,31.0,,,Tioga County,Osceola Twp
+Tioga,Osceola Twp,U.S. House,12.0,Tom Marino,REP,144.0,,,Tioga County,Osceola Twp
+Tioga,Osceola Twp,U.S. House,12.0,Write In,,0.0,,,Tioga County,Osceola Twp
+Tioga,Osceola Twp,State House,68.0,Carrie Heath,DEM,25.0,,,Tioga County,Osceola Twp
+Tioga,Osceola Twp,State House,68.0,Clint Owlett,REP,151.0,,,Tioga County,Osceola Twp
+Tioga,Osceola Twp,State House,68.0,Write In,,0.0,,,Tioga County,Osceola Twp
+Tioga,Putnam Twp,U.S. Senate,,Bob Casey Jr,DEM,34.0,,,Tioga County,Putnam Twp
+Tioga,Putnam Twp,U.S. Senate,,Lou Barletta,REP,99.0,,,Tioga County,Putnam Twp
+Tioga,Putnam Twp,U.S. Senate,,Neal Gale ,GRN,0.0,,,Tioga County,Putnam Twp
+Tioga,Putnam Twp,U.S. Senate,,Dale R Kerns Jr,LIB,3.0,,,Tioga County,Putnam Twp
+Tioga,Putnam Twp,U.S. Senate,,Write In,,0.0,,,Tioga County,Putnam Twp
+Tioga,Putnam Twp,Governor,,Wolf/Fetterman ,DEM,31.0,,,Tioga County,Putnam Twp
+Tioga,Putnam Twp,Governor,,Wagner/Bartos ,REP,103.0,,,Tioga County,Putnam Twp
+Tioga,Putnam Twp,Governor,,Glover/Bowser-Bostick ,GRN,3.0,,,Tioga County,Putnam Twp
+Tioga,Putnam Twp,Governor,,Krawchuk/Smith ,LIB,0.0,,,Tioga County,Putnam Twp
+Tioga,Putnam Twp,Governor,,Write In,,0.0,,,Tioga County,Putnam Twp
+Tioga,Putnam Twp,U.S. House,12.0,Marc Friedenberg,DEM,27.0,,,Tioga County,Putnam Twp
+Tioga,Putnam Twp,U.S. House,12.0,Tom Marino,REP,107.0,,,Tioga County,Putnam Twp
+Tioga,Putnam Twp,U.S. House,12.0,Write In,,0.0,,,Tioga County,Putnam Twp
+Tioga,Putnam Twp,State House,68.0,Carrie Heath,DEM,28.0,,,Tioga County,Putnam Twp
+Tioga,Putnam Twp,State House,68.0,Clint Owlett,REP,110.0,,,Tioga County,Putnam Twp
+Tioga,Putnam Twp,State House,68.0,Write In,,0.0,,,Tioga County,Putnam Twp
+Tioga,Richmond Twp,U.S. Senate,,Bob Casey Jr,DEM,255.0,,,Tioga County,Richmond Twp
+Tioga,Richmond Twp,U.S. Senate,,Lou Barletta,REP,593.0,,,Tioga County,Richmond Twp
+Tioga,Richmond Twp,U.S. Senate,,Neal Gale ,GRN,6.0,,,Tioga County,Richmond Twp
+Tioga,Richmond Twp,U.S. Senate,,Dale R Kerns Jr,LIB,9.0,,,Tioga County,Richmond Twp
+Tioga,Richmond Twp,U.S. Senate,,Write In,,0.0,,,Tioga County,Richmond Twp
+Tioga,Richmond Twp,Governor,,Wolf/Fetterman ,DEM,259.0,,,Tioga County,Richmond Twp
+Tioga,Richmond Twp,Governor,,Wagner/Bartos ,REP,599.0,,,Tioga County,Richmond Twp
+Tioga,Richmond Twp,Governor,,Glover/Bowser-Bostick ,GRN,7.0,,,Tioga County,Richmond Twp
+Tioga,Richmond Twp,Governor,,Krawchuk/Smith ,LIB,6.0,,,Tioga County,Richmond Twp
+Tioga,Richmond Twp,Governor,,Write In,,0.0,,,Tioga County,Richmond Twp
+Tioga,Richmond Twp,U.S. House,12.0,Marc Friedenberg,DEM,230.0,,,Tioga County,Richmond Twp
+Tioga,Richmond Twp,U.S. House,12.0,Tom Marino,REP,634.0,,,Tioga County,Richmond Twp
+Tioga,Richmond Twp,U.S. House,12.0,Write In,,1.0,,,Tioga County,Richmond Twp
+Tioga,Richmond Twp,State House,68.0,Carrie Heath,DEM,225.0,,,Tioga County,Richmond Twp
+Tioga,Richmond Twp,State House,68.0,Clint Owlett,REP,640.0,,,Tioga County,Richmond Twp
+Tioga,Richmond Twp,State House,68.0,Write In,,4.0,,,Tioga County,Richmond Twp
+Tioga,Roseville Boro,U.S. Senate,,Bob Casey Jr,DEM,15.0,,,Tioga County,Roseville Boro
+Tioga,Roseville Boro,U.S. Senate,,Lou Barletta,REP,39.0,,,Tioga County,Roseville Boro
+Tioga,Roseville Boro,U.S. Senate,,Neal Gale ,GRN,0.0,,,Tioga County,Roseville Boro
+Tioga,Roseville Boro,U.S. Senate,,Dale R Kerns Jr,LIB,2.0,,,Tioga County,Roseville Boro
+Tioga,Roseville Boro,U.S. Senate,,Write In,,0.0,,,Tioga County,Roseville Boro
+Tioga,Roseville Boro,Governor,,Wolf/Fetterman ,DEM,11.0,,,Tioga County,Roseville Boro
+Tioga,Roseville Boro,Governor,,Wagner/Bartos ,REP,43.0,,,Tioga County,Roseville Boro
+Tioga,Roseville Boro,Governor,,Glover/Bowser-Bostick ,GRN,1.0,,,Tioga County,Roseville Boro
+Tioga,Roseville Boro,Governor,,Krawchuk/Smith ,LIB,1.0,,,Tioga County,Roseville Boro
+Tioga,Roseville Boro,Governor,,Write In,,0.0,,,Tioga County,Roseville Boro
+Tioga,Roseville Boro,U.S. House,12.0,Marc Friedenberg,DEM,13.0,,,Tioga County,Roseville Boro
+Tioga,Roseville Boro,U.S. House,12.0,Tom Marino,REP,42.0,,,Tioga County,Roseville Boro
+Tioga,Roseville Boro,U.S. House,12.0,Write In,,1.0,,,Tioga County,Roseville Boro
+Tioga,Roseville Boro,State House,68.0,Carrie Heath,DEM,10.0,,,Tioga County,Roseville Boro
+Tioga,Roseville Boro,State House,68.0,Clint Owlett,REP,46.0,,,Tioga County,Roseville Boro
+Tioga,Roseville Boro,State House,68.0,Write In,,0.0,,,Tioga County,Roseville Boro
+Tioga,Rutland Twp,U.S. Senate,,Bob Casey Jr,DEM,73.0,,,Tioga County,Rutland Twp
+Tioga,Rutland Twp,U.S. Senate,,Lou Barletta,REP,281.0,,,Tioga County,Rutland Twp
+Tioga,Rutland Twp,U.S. Senate,,Neal Gale ,GRN,5.0,,,Tioga County,Rutland Twp
+Tioga,Rutland Twp,U.S. Senate,,Dale R Kerns Jr,LIB,5.0,,,Tioga County,Rutland Twp
+Tioga,Rutland Twp,U.S. Senate,,Write In,,0.0,,,Tioga County,Rutland Twp
+Tioga,Rutland Twp,Governor,,Wolf/Fetterman ,DEM,67.0,,,Tioga County,Rutland Twp
+Tioga,Rutland Twp,Governor,,Wagner/Bartos ,REP,289.0,,,Tioga County,Rutland Twp
+Tioga,Rutland Twp,Governor,,Glover/Bowser-Bostick ,GRN,5.0,,,Tioga County,Rutland Twp
+Tioga,Rutland Twp,Governor,,Krawchuk/Smith ,LIB,4.0,,,Tioga County,Rutland Twp
+Tioga,Rutland Twp,Governor,,Write In,,0.0,,,Tioga County,Rutland Twp
+Tioga,Rutland Twp,U.S. House,12.0,Marc Friedenberg,DEM,69.0,,,Tioga County,Rutland Twp
+Tioga,Rutland Twp,U.S. House,12.0,Tom Marino,REP,293.0,,,Tioga County,Rutland Twp
+Tioga,Rutland Twp,U.S. House,12.0,Write In,,0.0,,,Tioga County,Rutland Twp
+Tioga,Rutland Twp,State House,68.0,Carrie Heath,DEM,66.0,,,Tioga County,Rutland Twp
+Tioga,Rutland Twp,State House,68.0,Clint Owlett,REP,296.0,,,Tioga County,Rutland Twp
+Tioga,Rutland Twp,State House,68.0,Write In,,3.0,,,Tioga County,Rutland Twp
+Tioga,Shippen Twp,U.S. Senate,,Bob Casey Jr,DEM,34.0,,,Tioga County,Shippen Twp
+Tioga,Shippen Twp,U.S. Senate,,Lou Barletta,REP,146.0,,,Tioga County,Shippen Twp
+Tioga,Shippen Twp,U.S. Senate,,Neal Gale ,GRN,1.0,,,Tioga County,Shippen Twp
+Tioga,Shippen Twp,U.S. Senate,,Dale R Kerns Jr,LIB,1.0,,,Tioga County,Shippen Twp
+Tioga,Shippen Twp,U.S. Senate,,Write In,,0.0,,,Tioga County,Shippen Twp
+Tioga,Shippen Twp,Governor,,Wolf/Fetterman ,DEM,33.0,,,Tioga County,Shippen Twp
+Tioga,Shippen Twp,Governor,,Wagner/Bartos ,REP,149.0,,,Tioga County,Shippen Twp
+Tioga,Shippen Twp,Governor,,Glover/Bowser-Bostick ,GRN,2.0,,,Tioga County,Shippen Twp
+Tioga,Shippen Twp,Governor,,Krawchuk/Smith ,LIB,3.0,,,Tioga County,Shippen Twp
+Tioga,Shippen Twp,Governor,,Write In,,0.0,,,Tioga County,Shippen Twp
+Tioga,Shippen Twp,U.S. House,12.0,Marc Friedenberg,DEM,28.0,,,Tioga County,Shippen Twp
+Tioga,Shippen Twp,U.S. House,12.0,Tom Marino,REP,155.0,,,Tioga County,Shippen Twp
+Tioga,Shippen Twp,U.S. House,12.0,Write In,,0.0,,,Tioga County,Shippen Twp
+Tioga,Shippen Twp,State House,68.0,Carrie Heath,DEM,29.0,,,Tioga County,Shippen Twp
+Tioga,Shippen Twp,State House,68.0,Clint Owlett,REP,158.0,,,Tioga County,Shippen Twp
+Tioga,Shippen Twp,State House,68.0,Write In,,0.0,,,Tioga County,Shippen Twp
+Tioga,Sullivan Twp,U.S. Senate,,Bob Casey Jr,DEM,108.0,,,Tioga County,Sullivan Twp
+Tioga,Sullivan Twp,U.S. Senate,,Lou Barletta,REP,498.0,,,Tioga County,Sullivan Twp
+Tioga,Sullivan Twp,U.S. Senate,,Neal Gale ,GRN,6.0,,,Tioga County,Sullivan Twp
+Tioga,Sullivan Twp,U.S. Senate,,Dale R Kerns Jr,LIB,5.0,,,Tioga County,Sullivan Twp
+Tioga,Sullivan Twp,U.S. Senate,,Write In,,0.0,,,Tioga County,Sullivan Twp
+Tioga,Sullivan Twp,Governor,,Wolf/Fetterman ,DEM,105.0,,,Tioga County,Sullivan Twp
+Tioga,Sullivan Twp,Governor,,Wagner/Bartos ,REP,502.0,,,Tioga County,Sullivan Twp
+Tioga,Sullivan Twp,Governor,,Glover/Bowser-Bostick ,GRN,5.0,,,Tioga County,Sullivan Twp
+Tioga,Sullivan Twp,Governor,,Krawchuk/Smith ,LIB,6.0,,,Tioga County,Sullivan Twp
+Tioga,Sullivan Twp,Governor,,Write In,,0.0,,,Tioga County,Sullivan Twp
+Tioga,Sullivan Twp,U.S. House,12.0,Marc Friedenberg,DEM,106.0,,,Tioga County,Sullivan Twp
+Tioga,Sullivan Twp,U.S. House,12.0,Tom Marino,REP,508.0,,,Tioga County,Sullivan Twp
+Tioga,Sullivan Twp,U.S. House,12.0,Write In,,0.0,,,Tioga County,Sullivan Twp
+Tioga,Sullivan Twp,State House,68.0,Carrie Heath,DEM,96.0,,,Tioga County,Sullivan Twp
+Tioga,Sullivan Twp,State House,68.0,Clint Owlett,REP,525.0,,,Tioga County,Sullivan Twp
+Tioga,Sullivan Twp,State House,68.0,Write In,,0.0,,,Tioga County,Sullivan Twp
+Tioga,Tioga Twp,U.S. Senate,,Bob Casey Jr,DEM,71.0,,,Tioga County,Tioga Twp
+Tioga,Tioga Twp,U.S. Senate,,Lou Barletta,REP,245.0,,,Tioga County,Tioga Twp
+Tioga,Tioga Twp,U.S. Senate,,Neal Gale ,GRN,5.0,,,Tioga County,Tioga Twp
+Tioga,Tioga Twp,U.S. Senate,,Dale R Kerns Jr,LIB,3.0,,,Tioga County,Tioga Twp
+Tioga,Tioga Twp,U.S. Senate,,Write In,,0.0,,,Tioga County,Tioga Twp
+Tioga,Tioga Twp,Governor,,Wolf/Fetterman ,DEM,63.0,,,Tioga County,Tioga Twp
+Tioga,Tioga Twp,Governor,,Wagner/Bartos ,REP,258.0,,,Tioga County,Tioga Twp
+Tioga,Tioga Twp,Governor,,Glover/Bowser-Bostick ,GRN,4.0,,,Tioga County,Tioga Twp
+Tioga,Tioga Twp,Governor,,Krawchuk/Smith ,LIB,4.0,,,Tioga County,Tioga Twp
+Tioga,Tioga Twp,Governor,,Write In,,0.0,,,Tioga County,Tioga Twp
+Tioga,Tioga Twp,U.S. House,12.0,Marc Friedenberg,DEM,63.0,,,Tioga County,Tioga Twp
+Tioga,Tioga Twp,U.S. House,12.0,Tom Marino,REP,266.0,,,Tioga County,Tioga Twp
+Tioga,Tioga Twp,U.S. House,12.0,Write In,,0.0,,,Tioga County,Tioga Twp
+Tioga,Tioga Twp,State House,68.0,Carrie Heath,DEM,56.0,,,Tioga County,Tioga Twp
+Tioga,Tioga Twp,State House,68.0,Clint Owlett,REP,272.0,,,Tioga County,Tioga Twp
+Tioga,Tioga Twp,State House,68.0,Write In,,0.0,,,Tioga County,Tioga Twp
+Tioga,Tioga Boro,U.S. Senate,,Bob Casey Jr,DEM,56.0,,,Tioga County,Tioga Boro
+Tioga,Tioga Boro,U.S. Senate,,Lou Barletta,REP,100.0,,,Tioga County,Tioga Boro
+Tioga,Tioga Boro,U.S. Senate,,Neal Gale ,GRN,4.0,,,Tioga County,Tioga Boro
+Tioga,Tioga Boro,U.S. Senate,,Dale R Kerns Jr,LIB,3.0,,,Tioga County,Tioga Boro
+Tioga,Tioga Boro,U.S. Senate,,Write In,,0.0,,,Tioga County,Tioga Boro
+Tioga,Tioga Boro,Governor,,Wolf/Fetterman ,DEM,50.0,,,Tioga County,Tioga Boro
+Tioga,Tioga Boro,Governor,,Wagner/Bartos ,REP,102.0,,,Tioga County,Tioga Boro
+Tioga,Tioga Boro,Governor,,Glover/Bowser-Bostick ,GRN,5.0,,,Tioga County,Tioga Boro
+Tioga,Tioga Boro,Governor,,Krawchuk/Smith ,LIB,5.0,,,Tioga County,Tioga Boro
+Tioga,Tioga Boro,Governor,,Write In,,0.0,,,Tioga County,Tioga Boro
+Tioga,Tioga Boro,U.S. House,12.0,Marc Friedenberg,DEM,46.0,,,Tioga County,Tioga Boro
+Tioga,Tioga Boro,U.S. House,12.0,Tom Marino,REP,115.0,,,Tioga County,Tioga Boro
+Tioga,Tioga Boro,U.S. House,12.0,Write In,,1.0,,,Tioga County,Tioga Boro
+Tioga,Tioga Boro,State House,68.0,Carrie Heath,DEM,43.0,,,Tioga County,Tioga Boro
+Tioga,Tioga Boro,State House,68.0,Clint Owlett,REP,122.0,,,Tioga County,Tioga Boro
+Tioga,Tioga Boro,State House,68.0,Write In,,1.0,,,Tioga County,Tioga Boro
+Tioga,Union Twp,U.S. Senate,,Bob Casey Jr,DEM,77.0,,,Tioga County,Union Twp
+Tioga,Union Twp,U.S. Senate,,Lou Barletta,REP,265.0,,,Tioga County,Union Twp
+Tioga,Union Twp,U.S. Senate,,Neal Gale ,GRN,1.0,,,Tioga County,Union Twp
+Tioga,Union Twp,U.S. Senate,,Dale R Kerns Jr,LIB,2.0,,,Tioga County,Union Twp
+Tioga,Union Twp,U.S. Senate,,Write In,,1.0,,,Tioga County,Union Twp
+Tioga,Union Twp,Governor,,Wolf/Fetterman ,DEM,70.0,,,Tioga County,Union Twp
+Tioga,Union Twp,Governor,,Wagner/Bartos ,REP,270.0,,,Tioga County,Union Twp
+Tioga,Union Twp,Governor,,Glover/Bowser-Bostick ,GRN,3.0,,,Tioga County,Union Twp
+Tioga,Union Twp,Governor,,Krawchuk/Smith ,LIB,1.0,,,Tioga County,Union Twp
+Tioga,Union Twp,Governor,,Write In,,1.0,,,Tioga County,Union Twp
+Tioga,Union Twp,U.S. House,12.0,Marc Friedenberg,DEM,59.0,,,Tioga County,Union Twp
+Tioga,Union Twp,U.S. House,12.0,Tom Marino,REP,282.0,,,Tioga County,Union Twp
+Tioga,Union Twp,U.S. House,12.0,Write In,,2.0,,,Tioga County,Union Twp
+Tioga,Union Twp,State House,68.0,Carrie Heath,DEM,47.0,,,Tioga County,Union Twp
+Tioga,Union Twp,State House,68.0,Clint Owlett,REP,295.0,,,Tioga County,Union Twp
+Tioga,Union Twp,State House,68.0,Write In,,2.0,,,Tioga County,Union Twp
+Tioga,Ward Twp,U.S. Senate,,Bob Casey Jr,DEM,18.0,,,Tioga County,Ward Twp
+Tioga,Ward Twp,U.S. Senate,,Lou Barletta,REP,64.0,,,Tioga County,Ward Twp
+Tioga,Ward Twp,U.S. Senate,,Neal Gale ,GRN,0.0,,,Tioga County,Ward Twp
+Tioga,Ward Twp,U.S. Senate,,Dale R Kerns Jr,LIB,0.0,,,Tioga County,Ward Twp
+Tioga,Ward Twp,U.S. Senate,,Write In,,0.0,,,Tioga County,Ward Twp
+Tioga,Ward Twp,Governor,,Wolf/Fetterman ,DEM,14.0,,,Tioga County,Ward Twp
+Tioga,Ward Twp,Governor,,Wagner/Bartos ,REP,67.0,,,Tioga County,Ward Twp
+Tioga,Ward Twp,Governor,,Glover/Bowser-Bostick ,GRN,0.0,,,Tioga County,Ward Twp
+Tioga,Ward Twp,Governor,,Krawchuk/Smith ,LIB,2.0,,,Tioga County,Ward Twp
+Tioga,Ward Twp,Governor,,Write In,,0.0,,,Tioga County,Ward Twp
+Tioga,Ward Twp,U.S. House,12.0,Marc Friedenberg,DEM,15.0,,,Tioga County,Ward Twp
+Tioga,Ward Twp,U.S. House,12.0,Tom Marino,REP,67.0,,,Tioga County,Ward Twp
+Tioga,Ward Twp,U.S. House,12.0,Write In,,0.0,,,Tioga County,Ward Twp
+Tioga,Ward Twp,State House,68.0,Carrie Heath,DEM,11.0,,,Tioga County,Ward Twp
+Tioga,Ward Twp,State House,68.0,Clint Owlett,REP,73.0,,,Tioga County,Ward Twp
+Tioga,Ward Twp,State House,68.0,Write In,,0.0,,,Tioga County,Ward Twp
+Tioga,Wellsboro Boro One,U.S. Senate,,Bob Casey Jr,DEM,245.0,,,Tioga County,Wellsboro Boro One
+Tioga,Wellsboro Boro One,U.S. Senate,,Lou Barletta,REP,386.0,,,Tioga County,Wellsboro Boro One
+Tioga,Wellsboro Boro One,U.S. Senate,,Neal Gale ,GRN,5.0,,,Tioga County,Wellsboro Boro One
+Tioga,Wellsboro Boro One,U.S. Senate,,Dale R Kerns Jr,LIB,12.0,,,Tioga County,Wellsboro Boro One
+Tioga,Wellsboro Boro One,U.S. Senate,,Write In,,1.0,,,Tioga County,Wellsboro Boro One
+Tioga,Wellsboro Boro One,Governor,,Wolf/Fetterman ,DEM,238.0,,,Tioga County,Wellsboro Boro One
+Tioga,Wellsboro Boro One,Governor,,Wagner/Bartos ,REP,395.0,,,Tioga County,Wellsboro Boro One
+Tioga,Wellsboro Boro One,Governor,,Glover/Bowser-Bostick ,GRN,6.0,,,Tioga County,Wellsboro Boro One
+Tioga,Wellsboro Boro One,Governor,,Krawchuk/Smith ,LIB,12.0,,,Tioga County,Wellsboro Boro One
+Tioga,Wellsboro Boro One,Governor,,Write In,,1.0,,,Tioga County,Wellsboro Boro One
+Tioga,Wellsboro Boro One,U.S. House,12.0,Marc Friedenberg,DEM,222.0,,,Tioga County,Wellsboro Boro One
+Tioga,Wellsboro Boro One,U.S. House,12.0,Tom Marino,REP,420.0,,,Tioga County,Wellsboro Boro One
+Tioga,Wellsboro Boro One,U.S. House,12.0,Write In,,3.0,,,Tioga County,Wellsboro Boro One
+Tioga,Wellsboro Boro One,State House,68.0,Carrie Heath,DEM,215.0,,,Tioga County,Wellsboro Boro One
+Tioga,Wellsboro Boro One,State House,68.0,Clint Owlett,REP,438.0,,,Tioga County,Wellsboro Boro One
+Tioga,Wellsboro Boro One,State House,68.0,Write In,,1.0,,,Tioga County,Wellsboro Boro One
+Tioga,Wellsboro Boro Two,U.S. Senate,,Bob Casey Jr,DEM,294.0,,,Tioga County,Wellsboro Boro Two
+Tioga,Wellsboro Boro Two,U.S. Senate,,Lou Barletta,REP,410.0,,,Tioga County,Wellsboro Boro Two
+Tioga,Wellsboro Boro Two,U.S. Senate,,Neal Gale ,GRN,6.0,,,Tioga County,Wellsboro Boro Two
+Tioga,Wellsboro Boro Two,U.S. Senate,,Dale R Kerns Jr,LIB,17.0,,,Tioga County,Wellsboro Boro Two
+Tioga,Wellsboro Boro Two,U.S. Senate,,Write In,,1.0,,,Tioga County,Wellsboro Boro Two
+Tioga,Wellsboro Boro Two,Governor,,Wolf/Fetterman ,DEM,309.0,,,Tioga County,Wellsboro Boro Two
+Tioga,Wellsboro Boro Two,Governor,,Wagner/Bartos ,REP,412.0,,,Tioga County,Wellsboro Boro Two
+Tioga,Wellsboro Boro Two,Governor,,Glover/Bowser-Bostick ,GRN,4.0,,,Tioga County,Wellsboro Boro Two
+Tioga,Wellsboro Boro Two,Governor,,Krawchuk/Smith ,LIB,10.0,,,Tioga County,Wellsboro Boro Two
+Tioga,Wellsboro Boro Two,Governor,,Write In,,2.0,,,Tioga County,Wellsboro Boro Two
+Tioga,Wellsboro Boro Two,U.S. House,12.0,Marc Friedenberg,DEM,268.0,,,Tioga County,Wellsboro Boro Two
+Tioga,Wellsboro Boro Two,U.S. House,12.0,Tom Marino,REP,459.0,,,Tioga County,Wellsboro Boro Two
+Tioga,Wellsboro Boro Two,U.S. House,12.0,Write In,,0.0,,,Tioga County,Wellsboro Boro Two
+Tioga,Wellsboro Boro Two,State House,68.0,Carrie Heath,DEM,280.0,,,Tioga County,Wellsboro Boro Two
+Tioga,Wellsboro Boro Two,State House,68.0,Clint Owlett,REP,455.0,,,Tioga County,Wellsboro Boro Two
+Tioga,Wellsboro Boro Two,State House,68.0,Write In,,2.0,,,Tioga County,Wellsboro Boro Two
+Tioga,Westfield Twp,U.S. Senate,,Bob Casey Jr,DEM,72.0,,,Tioga County,Westfield Twp
+Tioga,Westfield Twp,U.S. Senate,,Lou Barletta,REP,216.0,,,Tioga County,Westfield Twp
+Tioga,Westfield Twp,U.S. Senate,,Neal Gale ,GRN,0.0,,,Tioga County,Westfield Twp
+Tioga,Westfield Twp,U.S. Senate,,Dale R Kerns Jr,LIB,5.0,,,Tioga County,Westfield Twp
+Tioga,Westfield Twp,U.S. Senate,,Write In,,0.0,,,Tioga County,Westfield Twp
+Tioga,Westfield Twp,Governor,,Wolf/Fetterman ,DEM,65.0,,,Tioga County,Westfield Twp
+Tioga,Westfield Twp,Governor,,Wagner/Bartos ,REP,227.0,,,Tioga County,Westfield Twp
+Tioga,Westfield Twp,Governor,,Glover/Bowser-Bostick ,GRN,1.0,,,Tioga County,Westfield Twp
+Tioga,Westfield Twp,Governor,,Krawchuk/Smith ,LIB,3.0,,,Tioga County,Westfield Twp
+Tioga,Westfield Twp,Governor,,Write In,,0.0,,,Tioga County,Westfield Twp
+Tioga,Westfield Twp,U.S. House,12.0,Marc Friedenberg,DEM,60.0,,,Tioga County,Westfield Twp
+Tioga,Westfield Twp,U.S. House,12.0,Tom Marino,REP,234.0,,,Tioga County,Westfield Twp
+Tioga,Westfield Twp,U.S. House,12.0,Write In,,0.0,,,Tioga County,Westfield Twp
+Tioga,Westfield Twp,State House,68.0,Carrie Heath,DEM,50.0,,,Tioga County,Westfield Twp
+Tioga,Westfield Twp,State House,68.0,Clint Owlett,REP,247.0,,,Tioga County,Westfield Twp
+Tioga,Westfield Twp,State House,68.0,Write In,,0.0,,,Tioga County,Westfield Twp
+Tioga,Westfield Boro,U.S. Senate,,Bob Casey Jr,DEM,72.0,,,Tioga County,Westfield Boro
+Tioga,Westfield Boro,U.S. Senate,,Lou Barletta,REP,195.0,,,Tioga County,Westfield Boro
+Tioga,Westfield Boro,U.S. Senate,,Neal Gale ,GRN,2.0,,,Tioga County,Westfield Boro
+Tioga,Westfield Boro,U.S. Senate,,Dale R Kerns Jr,LIB,3.0,,,Tioga County,Westfield Boro
+Tioga,Westfield Boro,U.S. Senate,,Write In,,0.0,,,Tioga County,Westfield Boro
+Tioga,Westfield Boro,Governor,,Wolf/Fetterman ,DEM,63.0,,,Tioga County,Westfield Boro
+Tioga,Westfield Boro,Governor,,Wagner/Bartos ,REP,207.0,,,Tioga County,Westfield Boro
+Tioga,Westfield Boro,Governor,,Glover/Bowser-Bostick ,GRN,1.0,,,Tioga County,Westfield Boro
+Tioga,Westfield Boro,Governor,,Krawchuk/Smith ,LIB,3.0,,,Tioga County,Westfield Boro
+Tioga,Westfield Boro,Governor,,Write In,,0.0,,,Tioga County,Westfield Boro
+Tioga,Westfield Boro,U.S. House,12.0,Marc Friedenberg,DEM,61.0,,,Tioga County,Westfield Boro
+Tioga,Westfield Boro,U.S. House,12.0,Tom Marino,REP,212.0,,,Tioga County,Westfield Boro
+Tioga,Westfield Boro,U.S. House,12.0,Write In,,0.0,,,Tioga County,Westfield Boro
+Tioga,Westfield Boro,State House,68.0,Carrie Heath,DEM,60.0,,,Tioga County,Westfield Boro
+Tioga,Westfield Boro,State House,68.0,Clint Owlett,REP,215.0,,,Tioga County,Westfield Boro
+Tioga,Westfield Boro,State House,68.0,Write In,,0.0,,,Tioga County,Westfield Boro

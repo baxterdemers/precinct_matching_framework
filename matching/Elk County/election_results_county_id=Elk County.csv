@@ -1,0 +1,451 @@
+county,precinct,office,district,candidate,party,votes,election_day,absentee,county_id,original_precinct_name
+Elk,Benezette,U.S. Senate,,Bob Casey Jr.,DEM,34,,,Elk County,Benezette
+Elk,Fox #1,U.S. Senate,,Bob Casey Jr.,DEM,318,,,Elk County,Fox #1
+Elk,Fox #2,U.S. Senate,,Bob Casey Jr.,DEM,275,,,Elk County,Fox #2
+Elk,Highland,U.S. Senate,,Bob Casey Jr.,DEM,30,,,Elk County,Highland
+Elk,James City,U.S. Senate,,Bob Casey Jr.,DEM,46,,,Elk County,James City
+Elk,N. Horton,U.S. Senate,,Bob Casey Jr.,DEM,57,,,Elk County,N. Horton
+Elk,S. Horton,U.S. Senate,,Bob Casey Jr.,DEM,118,,,Elk County,S. Horton
+Elk,Jay,U.S. Senate,,Bob Casey Jr.,DEM,294,,,Elk County,Jay
+Elk,Lamont,U.S. Senate,,Bob Casey Jr.,DEM,22,,,Elk County,Lamont
+Elk,Wilcox,U.S. Senate,,Bob Casey Jr.,DEM,198,,,Elk County,Wilcox
+Elk,Millstone,U.S. Senate,,Bob Casey Jr.,DEM,34,,,Elk County,Millstone
+Elk,N. Ridgway,U.S. Senate,,Bob Casey Jr.,DEM,79,,,Elk County,N. Ridgway
+Elk,S. Ridgway,U.S. Senate,,Bob Casey Jr.,DEM,251,,,Elk County,S. Ridgway
+Elk,Spring Creek,U.S. Senate,,Bob Casey Jr.,DEM,38,,,Elk County,Spring Creek
+Elk,Johnsonburg 1st,U.S. Senate,,Bob Casey Jr.,DEM,108,,,Elk County,Johnsonburg 1st
+Elk,Johnsonburg 2nd,U.S. Senate,,Bob Casey Jr.,DEM,81,,,Elk County,Johnsonburg 2nd
+Elk,Johnsonburg 3rd,U.S. Senate,,Bob Casey Jr.,DEM,89,,,Elk County,Johnsonburg 3rd
+Elk,Johnsonburg 4th,U.S. Senate,,Bob Casey Jr.,DEM,62,,,Elk County,Johnsonburg 4th
+Elk,Ridgway 1st,U.S. Senate,,Bob Casey Jr.,DEM,130,,,Elk County,Ridgway 1st
+Elk,Ridgway 2nd,U.S. Senate,,Bob Casey Jr.,DEM,245,,,Elk County,Ridgway 2nd
+Elk,Ridgway 3rd,U.S. Senate,,Bob Casey Jr.,DEM,215,,,Elk County,Ridgway 3rd
+Elk,St. Marys 1st,U.S. Senate,,Bob Casey Jr.,DEM,195,,,Elk County,St. Marys 1st
+Elk,St. Marys 2nd,U.S. Senate,,Bob Casey Jr.,DEM,150,,,Elk County,St. Marys 2nd
+Elk,St. Marys 3rd,U.S. Senate,,Bob Casey Jr.,DEM,205,,,Elk County,St. Marys 3rd
+Elk,St. Marys 4th,U.S. Senate,,Bob Casey Jr.,DEM,166,,,Elk County,St. Marys 4th
+Elk,St. Marys 5th,U.S. Senate,,Bob Casey Jr.,DEM,169,,,Elk County,St. Marys 5th
+Elk,St. Marys 6th,U.S. Senate,,Bob Casey Jr.,DEM,197,,,Elk County,St. Marys 6th
+Elk,St. Marys 7th,U.S. Senate,,Bob Casey Jr.,DEM,198,,,Elk County,St. Marys 7th
+Elk,St. Marys 8th,U.S. Senate,,Bob Casey Jr.,DEM,296,,,Elk County,St. Marys 8th
+Elk,St. Marys 9th,U.S. Senate,,Bob Casey Jr.,DEM,198,,,Elk County,St. Marys 9th
+Elk,Benezette,U.S. Senate,,Lou Barletta,REP,104,,,Elk County,Benezette
+Elk,Fox #1,U.S. Senate,,Lou Barletta,REP,400,,,Elk County,Fox #1
+Elk,Fox #2,U.S. Senate,,Lou Barletta,REP,399,,,Elk County,Fox #2
+Elk,Highland,U.S. Senate,,Lou Barletta,REP,45,,,Elk County,Highland
+Elk,James City,U.S. Senate,,Lou Barletta,REP,41,,,Elk County,James City
+Elk,N. Horton,U.S. Senate,,Lou Barletta,REP,126,,,Elk County,N. Horton
+Elk,S. Horton,U.S. Senate,,Lou Barletta,REP,193,,,Elk County,S. Horton
+Elk,Jay,U.S. Senate,,Lou Barletta,REP,413,,,Elk County,Jay
+Elk,Lamont,U.S. Senate,,Lou Barletta,REP,31,,,Elk County,Lamont
+Elk,Wilcox,U.S. Senate,,Lou Barletta,REP,352,,,Elk County,Wilcox
+Elk,Millstone,U.S. Senate,,Lou Barletta,REP,30,,,Elk County,Millstone
+Elk,N. Ridgway,U.S. Senate,,Lou Barletta,REP,100,,,Elk County,N. Ridgway
+Elk,S. Ridgway,U.S. Senate,,Lou Barletta,REP,464,,,Elk County,S. Ridgway
+Elk,Spring Creek,U.S. Senate,,Lou Barletta,REP,50,,,Elk County,Spring Creek
+Elk,Johnsonburg 1st,U.S. Senate,,Lou Barletta,REP,119,,,Elk County,Johnsonburg 1st
+Elk,Johnsonburg 2nd,U.S. Senate,,Lou Barletta,REP,83,,,Elk County,Johnsonburg 2nd
+Elk,Johnsonburg 3rd,U.S. Senate,,Lou Barletta,REP,91,,,Elk County,Johnsonburg 3rd
+Elk,Johnsonburg 4th,U.S. Senate,,Lou Barletta,REP,92,,,Elk County,Johnsonburg 4th
+Elk,Ridgway 1st,U.S. Senate,,Lou Barletta,REP,155,,,Elk County,Ridgway 1st
+Elk,Ridgway 2nd,U.S. Senate,,Lou Barletta,REP,274,,,Elk County,Ridgway 2nd
+Elk,Ridgway 3rd,U.S. Senate,,Lou Barletta,REP,254,,,Elk County,Ridgway 3rd
+Elk,St. Marys 1st,U.S. Senate,,Lou Barletta,REP,326,,,Elk County,St. Marys 1st
+Elk,St. Marys 2nd,U.S. Senate,,Lou Barletta,REP,220,,,Elk County,St. Marys 2nd
+Elk,St. Marys 3rd,U.S. Senate,,Lou Barletta,REP,454,,,Elk County,St. Marys 3rd
+Elk,St. Marys 4th,U.S. Senate,,Lou Barletta,REP,162,,,Elk County,St. Marys 4th
+Elk,St. Marys 5th,U.S. Senate,,Lou Barletta,REP,350,,,Elk County,St. Marys 5th
+Elk,St. Marys 6th,U.S. Senate,,Lou Barletta,REP,294,,,Elk County,St. Marys 6th
+Elk,St. Marys 7th,U.S. Senate,,Lou Barletta,REP,273,,,Elk County,St. Marys 7th
+Elk,St. Marys 8th,U.S. Senate,,Lou Barletta,REP,455,,,Elk County,St. Marys 8th
+Elk,St. Marys 9th,U.S. Senate,,Lou Barletta,REP,260,,,Elk County,St. Marys 9th
+Elk,Benezette,U.S. Senate,,Neal Gale,GRN,0,,,Elk County,Benezette
+Elk,Fox #1,U.S. Senate,,Neal Gale,GRN,7,,,Elk County,Fox #1
+Elk,Fox #2,U.S. Senate,,Neal Gale,GRN,7,,,Elk County,Fox #2
+Elk,Highland,U.S. Senate,,Neal Gale,GRN,1,,,Elk County,Highland
+Elk,James City,U.S. Senate,,Neal Gale,GRN,1,,,Elk County,James City
+Elk,N. Horton,U.S. Senate,,Neal Gale,GRN,2,,,Elk County,N. Horton
+Elk,S. Horton,U.S. Senate,,Neal Gale,GRN,2,,,Elk County,S. Horton
+Elk,Jay,U.S. Senate,,Neal Gale,GRN,4,,,Elk County,Jay
+Elk,Lamont,U.S. Senate,,Neal Gale,GRN,0,,,Elk County,Lamont
+Elk,Wilcox,U.S. Senate,,Neal Gale,GRN,2,,,Elk County,Wilcox
+Elk,Millstone,U.S. Senate,,Neal Gale,GRN,1,,,Elk County,Millstone
+Elk,N. Ridgway,U.S. Senate,,Neal Gale,GRN,0,,,Elk County,N. Ridgway
+Elk,S. Ridgway,U.S. Senate,,Neal Gale,GRN,0,,,Elk County,S. Ridgway
+Elk,Spring Creek,U.S. Senate,,Neal Gale,GRN,0,,,Elk County,Spring Creek
+Elk,Johnsonburg 1st,U.S. Senate,,Neal Gale,GRN,1,,,Elk County,Johnsonburg 1st
+Elk,Johnsonburg 2nd,U.S. Senate,,Neal Gale,GRN,1,,,Elk County,Johnsonburg 2nd
+Elk,Johnsonburg 3rd,U.S. Senate,,Neal Gale,GRN,2,,,Elk County,Johnsonburg 3rd
+Elk,Johnsonburg 4th,U.S. Senate,,Neal Gale,GRN,1,,,Elk County,Johnsonburg 4th
+Elk,Ridgway 1st,U.S. Senate,,Neal Gale,GRN,3,,,Elk County,Ridgway 1st
+Elk,Ridgway 2nd,U.S. Senate,,Neal Gale,GRN,0,,,Elk County,Ridgway 2nd
+Elk,Ridgway 3rd,U.S. Senate,,Neal Gale,GRN,1,,,Elk County,Ridgway 3rd
+Elk,St. Marys 1st,U.S. Senate,,Neal Gale,GRN,3,,,Elk County,St. Marys 1st
+Elk,St. Marys 2nd,U.S. Senate,,Neal Gale,GRN,0,,,Elk County,St. Marys 2nd
+Elk,St. Marys 3rd,U.S. Senate,,Neal Gale,GRN,2,,,Elk County,St. Marys 3rd
+Elk,St. Marys 4th,U.S. Senate,,Neal Gale,GRN,2,,,Elk County,St. Marys 4th
+Elk,St. Marys 5th,U.S. Senate,,Neal Gale,GRN,6,,,Elk County,St. Marys 5th
+Elk,St. Marys 6th,U.S. Senate,,Neal Gale,GRN,7,,,Elk County,St. Marys 6th
+Elk,St. Marys 7th,U.S. Senate,,Neal Gale,GRN,2,,,Elk County,St. Marys 7th
+Elk,St. Marys 8th,U.S. Senate,,Neal Gale,GRN,4,,,Elk County,St. Marys 8th
+Elk,St. Marys 9th,U.S. Senate,,Neal Gale,GRN,4,,,Elk County,St. Marys 9th
+Elk,Benezette,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Elk County,Benezette
+Elk,Fox #1,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Elk County,Fox #1
+Elk,Fox #2,U.S. Senate,,Dale R. Kerns Jr.,LIB,8,,,Elk County,Fox #2
+Elk,Highland,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Elk County,Highland
+Elk,James City,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Elk County,James City
+Elk,N. Horton,U.S. Senate,,Dale R. Kerns Jr.,LIB,0,,,Elk County,N. Horton
+Elk,S. Horton,U.S. Senate,,Dale R. Kerns Jr.,LIB,6,,,Elk County,S. Horton
+Elk,Jay,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Elk County,Jay
+Elk,Lamont,U.S. Senate,,Dale R. Kerns Jr.,LIB,0,,,Elk County,Lamont
+Elk,Wilcox,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Elk County,Wilcox
+Elk,Millstone,U.S. Senate,,Dale R. Kerns Jr.,LIB,0,,,Elk County,Millstone
+Elk,N. Ridgway,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Elk County,N. Ridgway
+Elk,S. Ridgway,U.S. Senate,,Dale R. Kerns Jr.,LIB,8,,,Elk County,S. Ridgway
+Elk,Spring Creek,U.S. Senate,,Dale R. Kerns Jr.,LIB,0,,,Elk County,Spring Creek
+Elk,Johnsonburg 1st,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Elk County,Johnsonburg 1st
+Elk,Johnsonburg 2nd,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Elk County,Johnsonburg 2nd
+Elk,Johnsonburg 3rd,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Elk County,Johnsonburg 3rd
+Elk,Johnsonburg 4th,U.S. Senate,,Dale R. Kerns Jr.,LIB,0,,,Elk County,Johnsonburg 4th
+Elk,Ridgway 1st,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Elk County,Ridgway 1st
+Elk,Ridgway 2nd,U.S. Senate,,Dale R. Kerns Jr.,LIB,6,,,Elk County,Ridgway 2nd
+Elk,Ridgway 3rd,U.S. Senate,,Dale R. Kerns Jr.,LIB,6,,,Elk County,Ridgway 3rd
+Elk,St. Marys 1st,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Elk County,St. Marys 1st
+Elk,St. Marys 2nd,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Elk County,St. Marys 2nd
+Elk,St. Marys 3rd,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Elk County,St. Marys 3rd
+Elk,St. Marys 4th,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Elk County,St. Marys 4th
+Elk,St. Marys 5th,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Elk County,St. Marys 5th
+Elk,St. Marys 6th,U.S. Senate,,Dale R. Kerns Jr.,LIB,9,,,Elk County,St. Marys 6th
+Elk,St. Marys 7th,U.S. Senate,,Dale R. Kerns Jr.,LIB,7,,,Elk County,St. Marys 7th
+Elk,St. Marys 8th,U.S. Senate,,Dale R. Kerns Jr.,LIB,7,,,Elk County,St. Marys 8th
+Elk,St. Marys 9th,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Elk County,St. Marys 9th
+Elk,Benezette,U.S. Senate,,Write-ins,,0,,,Elk County,Benezette
+Elk,Fox #1,U.S. Senate,,Write-ins,,0,,,Elk County,Fox #1
+Elk,Fox #2,U.S. Senate,,Write-ins,,0,,,Elk County,Fox #2
+Elk,Highland,U.S. Senate,,Write-ins,,0,,,Elk County,Highland
+Elk,James City,U.S. Senate,,Write-ins,,0,,,Elk County,James City
+Elk,N. Horton,U.S. Senate,,Write-ins,,0,,,Elk County,N. Horton
+Elk,S. Horton,U.S. Senate,,Write-ins,,0,,,Elk County,S. Horton
+Elk,Jay,U.S. Senate,,Write-ins,,0,,,Elk County,Jay
+Elk,Lamont,U.S. Senate,,Write-ins,,0,,,Elk County,Lamont
+Elk,Wilcox,U.S. Senate,,Write-ins,,0,,,Elk County,Wilcox
+Elk,Millstone,U.S. Senate,,Write-ins,,0,,,Elk County,Millstone
+Elk,N. Ridgway,U.S. Senate,,Write-ins,,0,,,Elk County,N. Ridgway
+Elk,S. Ridgway,U.S. Senate,,Write-ins,,0,,,Elk County,S. Ridgway
+Elk,Spring Creek,U.S. Senate,,Write-ins,,0,,,Elk County,Spring Creek
+Elk,Johnsonburg 1st,U.S. Senate,,Write-ins,,0,,,Elk County,Johnsonburg 1st
+Elk,Johnsonburg 2nd,U.S. Senate,,Write-ins,,0,,,Elk County,Johnsonburg 2nd
+Elk,Johnsonburg 3rd,U.S. Senate,,Write-ins,,0,,,Elk County,Johnsonburg 3rd
+Elk,Johnsonburg 4th,U.S. Senate,,Write-ins,,0,,,Elk County,Johnsonburg 4th
+Elk,Ridgway 1st,U.S. Senate,,Write-ins,,1,,,Elk County,Ridgway 1st
+Elk,Ridgway 2nd,U.S. Senate,,Write-ins,,0,,,Elk County,Ridgway 2nd
+Elk,Ridgway 3rd,U.S. Senate,,Write-ins,,0,,,Elk County,Ridgway 3rd
+Elk,St. Marys 1st,U.S. Senate,,Write-ins,,0,,,Elk County,St. Marys 1st
+Elk,St. Marys 2nd,U.S. Senate,,Write-ins,,0,,,Elk County,St. Marys 2nd
+Elk,St. Marys 3rd,U.S. Senate,,Write-ins,,0,,,Elk County,St. Marys 3rd
+Elk,St. Marys 4th,U.S. Senate,,Write-ins,,0,,,Elk County,St. Marys 4th
+Elk,St. Marys 5th,U.S. Senate,,Write-ins,,0,,,Elk County,St. Marys 5th
+Elk,St. Marys 6th,U.S. Senate,,Write-ins,,0,,,Elk County,St. Marys 6th
+Elk,St. Marys 7th,U.S. Senate,,Write-ins,,0,,,Elk County,St. Marys 7th
+Elk,St. Marys 8th,U.S. Senate,,Write-ins,,0,,,Elk County,St. Marys 8th
+Elk,St. Marys 9th,U.S. Senate,,Write-ins,,0,,,Elk County,St. Marys 9th
+Elk,Benezette,Governor,,Tom Wolf,DEM,30,,,Elk County,Benezette
+Elk,Fox #1,Governor,,Tom Wolf,DEM,288,,,Elk County,Fox #1
+Elk,Fox #2,Governor,,Tom Wolf,DEM,252,,,Elk County,Fox #2
+Elk,Highland,Governor,,Tom Wolf,DEM,32,,,Elk County,Highland
+Elk,James City,Governor,,Tom Wolf,DEM,40,,,Elk County,James City
+Elk,N. Horton,Governor,,Tom Wolf,DEM,51,,,Elk County,N. Horton
+Elk,S. Horton,Governor,,Tom Wolf,DEM,109,,,Elk County,S. Horton
+Elk,Jay,Governor,,Tom Wolf,DEM,273,,,Elk County,Jay
+Elk,Lamont,Governor,,Tom Wolf,DEM,21,,,Elk County,Lamont
+Elk,Wilcox,Governor,,Tom Wolf,DEM,176,,,Elk County,Wilcox
+Elk,Millstone,Governor,,Tom Wolf,DEM,35,,,Elk County,Millstone
+Elk,N. Ridgway,Governor,,Tom Wolf,DEM,77,,,Elk County,N. Ridgway
+Elk,S. Ridgway,Governor,,Tom Wolf,DEM,234,,,Elk County,S. Ridgway
+Elk,Spring Creek,Governor,,Tom Wolf,DEM,32,,,Elk County,Spring Creek
+Elk,Johnsonburg 1st,Governor,,Tom Wolf,DEM,88,,,Elk County,Johnsonburg 1st
+Elk,Johnsonburg 2nd,Governor,,Tom Wolf,DEM,78,,,Elk County,Johnsonburg 2nd
+Elk,Johnsonburg 3rd,Governor,,Tom Wolf,DEM,84,,,Elk County,Johnsonburg 3rd
+Elk,Johnsonburg 4th,Governor,,Tom Wolf,DEM,66,,,Elk County,Johnsonburg 4th
+Elk,Ridgway 1st,Governor,,Tom Wolf,DEM,132,,,Elk County,Ridgway 1st
+Elk,Ridgway 2nd,Governor,,Tom Wolf,DEM,236,,,Elk County,Ridgway 2nd
+Elk,Ridgway 3rd,Governor,,Tom Wolf,DEM,210,,,Elk County,Ridgway 3rd
+Elk,St. Marys 1st,Governor,,Tom Wolf,DEM,190,,,Elk County,St. Marys 1st
+Elk,St. Marys 2nd,Governor,,Tom Wolf,DEM,140,,,Elk County,St. Marys 2nd
+Elk,St. Marys 3rd,Governor,,Tom Wolf,DEM,190,,,Elk County,St. Marys 3rd
+Elk,St. Marys 4th,Governor,,Tom Wolf,DEM,153,,,Elk County,St. Marys 4th
+Elk,St. Marys 5th,Governor,,Tom Wolf,DEM,169,,,Elk County,St. Marys 5th
+Elk,St. Marys 6th,Governor,,Tom Wolf,DEM,158,,,Elk County,St. Marys 6th
+Elk,St. Marys 7th,Governor,,Tom Wolf,DEM,187,,,Elk County,St. Marys 7th
+Elk,St. Marys 8th,Governor,,Tom Wolf,DEM,284,,,Elk County,St. Marys 8th
+Elk,St. Marys 9th,Governor,,Tom Wolf,DEM,191,,,Elk County,St. Marys 9th
+Elk,Benezette,Governor,,Scott R. Wagner,REP,105,,,Elk County,Benezette
+Elk,Fox #1,Governor,,Scott R. Wagner,REP,431,,,Elk County,Fox #1
+Elk,Fox #2,Governor,,Scott R. Wagner,REP,425,,,Elk County,Fox #2
+Elk,Highland,Governor,,Scott R. Wagner,REP,45,,,Elk County,Highland
+Elk,James City,Governor,,Scott R. Wagner,REP,43,,,Elk County,James City
+Elk,N. Horton,Governor,,Scott R. Wagner,REP,131,,,Elk County,N. Horton
+Elk,S. Horton,Governor,,Scott R. Wagner,REP,206,,,Elk County,S. Horton
+Elk,Jay,Governor,,Scott R. Wagner,REP,434,,,Elk County,Jay
+Elk,Lamont,Governor,,Scott R. Wagner,REP,31,,,Elk County,Lamont
+Elk,Wilcox,Governor,,Scott R. Wagner,REP,374,,,Elk County,Wilcox
+Elk,Millstone,Governor,,Scott R. Wagner,REP,29,,,Elk County,Millstone
+Elk,N. Ridgway,Governor,,Scott R. Wagner,REP,102,,,Elk County,N. Ridgway
+Elk,S. Ridgway,Governor,,Scott R. Wagner,REP,480,,,Elk County,S. Ridgway
+Elk,Spring Creek,Governor,,Scott R. Wagner,REP,56,,,Elk County,Spring Creek
+Elk,Johnsonburg 1st,Governor,,Scott R. Wagner,REP,137,,,Elk County,Johnsonburg 1st
+Elk,Johnsonburg 2nd,Governor,,Scott R. Wagner,REP,84,,,Elk County,Johnsonburg 2nd
+Elk,Johnsonburg 3rd,Governor,,Scott R. Wagner,REP,98,,,Elk County,Johnsonburg 3rd
+Elk,Johnsonburg 4th,Governor,,Scott R. Wagner,REP,90,,,Elk County,Johnsonburg 4th
+Elk,Ridgway 1st,Governor,,Scott R. Wagner,REP,159,,,Elk County,Ridgway 1st
+Elk,Ridgway 2nd,Governor,,Scott R. Wagner,REP,277,,,Elk County,Ridgway 2nd
+Elk,Ridgway 3rd,Governor,,Scott R. Wagner,REP,264,,,Elk County,Ridgway 3rd
+Elk,St. Marys 1st,Governor,,Scott R. Wagner,REP,332,,,Elk County,St. Marys 1st
+Elk,St. Marys 2nd,Governor,,Scott R. Wagner,REP,229,,,Elk County,St. Marys 2nd
+Elk,St. Marys 3rd,Governor,,Scott R. Wagner,REP,469,,,Elk County,St. Marys 3rd
+Elk,St. Marys 4th,Governor,,Scott R. Wagner,REP,180,,,Elk County,St. Marys 4th
+Elk,St. Marys 5th,Governor,,Scott R. Wagner,REP,346,,,Elk County,St. Marys 5th
+Elk,St. Marys 6th,Governor,,Scott R. Wagner,REP,339,,,Elk County,St. Marys 6th
+Elk,St. Marys 7th,Governor,,Scott R. Wagner,REP,282,,,Elk County,St. Marys 7th
+Elk,St. Marys 8th,Governor,,Scott R. Wagner,REP,472,,,Elk County,St. Marys 8th
+Elk,St. Marys 9th,Governor,,Scott R. Wagner,REP,268,,,Elk County,St. Marys 9th
+Elk,Benezette,Governor,,Paul Glover,GRN,0,,,Elk County,Benezette
+Elk,Fox #1,Governor,,Paul Glover,GRN,6,,,Elk County,Fox #1
+Elk,Fox #2,Governor,,Paul Glover,GRN,4,,,Elk County,Fox #2
+Elk,Highland,Governor,,Paul Glover,GRN,2,,,Elk County,Highland
+Elk,James City,Governor,,Paul Glover,GRN,5,,,Elk County,James City
+Elk,N. Horton,Governor,,Paul Glover,GRN,4,,,Elk County,N. Horton
+Elk,S. Horton,Governor,,Paul Glover,GRN,4,,,Elk County,S. Horton
+Elk,Jay,Governor,,Paul Glover,GRN,5,,,Elk County,Jay
+Elk,Lamont,Governor,,Paul Glover,GRN,1,,,Elk County,Lamont
+Elk,Wilcox,Governor,,Paul Glover,GRN,3,,,Elk County,Wilcox
+Elk,Millstone,Governor,,Paul Glover,GRN,0,,,Elk County,Millstone
+Elk,N. Ridgway,Governor,,Paul Glover,GRN,1,,,Elk County,N. Ridgway
+Elk,S. Ridgway,Governor,,Paul Glover,GRN,3,,,Elk County,S. Ridgway
+Elk,Spring Creek,Governor,,Paul Glover,GRN,0,,,Elk County,Spring Creek
+Elk,Johnsonburg 1st,Governor,,Paul Glover,GRN,1,,,Elk County,Johnsonburg 1st
+Elk,Johnsonburg 2nd,Governor,,Paul Glover,GRN,2,,,Elk County,Johnsonburg 2nd
+Elk,Johnsonburg 3rd,Governor,,Paul Glover,GRN,2,,,Elk County,Johnsonburg 3rd
+Elk,Johnsonburg 4th,Governor,,Paul Glover,GRN,0,,,Elk County,Johnsonburg 4th
+Elk,Ridgway 1st,Governor,,Paul Glover,GRN,2,,,Elk County,Ridgway 1st
+Elk,Ridgway 2nd,Governor,,Paul Glover,GRN,4,,,Elk County,Ridgway 2nd
+Elk,Ridgway 3rd,Governor,,Paul Glover,GRN,2,,,Elk County,Ridgway 3rd
+Elk,St. Marys 1st,Governor,,Paul Glover,GRN,4,,,Elk County,St. Marys 1st
+Elk,St. Marys 2nd,Governor,,Paul Glover,GRN,0,,,Elk County,St. Marys 2nd
+Elk,St. Marys 3rd,Governor,,Paul Glover,GRN,1,,,Elk County,St. Marys 3rd
+Elk,St. Marys 4th,Governor,,Paul Glover,GRN,1,,,Elk County,St. Marys 4th
+Elk,St. Marys 5th,Governor,,Paul Glover,GRN,6,,,Elk County,St. Marys 5th
+Elk,St. Marys 6th,Governor,,Paul Glover,GRN,5,,,Elk County,St. Marys 6th
+Elk,St. Marys 7th,Governor,,Paul Glover,GRN,5,,,Elk County,St. Marys 7th
+Elk,St. Marys 8th,Governor,,Paul Glover,GRN,3,,,Elk County,St. Marys 8th
+Elk,St. Marys 9th,Governor,,Paul Glover,GRN,4,,,Elk County,St. Marys 9th
+Elk,Benezette,Governor,,Ken V. Krawchuk,LIB,3,,,Elk County,Benezette
+Elk,Fox #1,Governor,,Ken V. Krawchuk,LIB,5,,,Elk County,Fox #1
+Elk,Fox #2,Governor,,Ken V. Krawchuk,LIB,9,,,Elk County,Fox #2
+Elk,Highland,Governor,,Ken V. Krawchuk,LIB,1,,,Elk County,Highland
+Elk,James City,Governor,,Ken V. Krawchuk,LIB,1,,,Elk County,James City
+Elk,N. Horton,Governor,,Ken V. Krawchuk,LIB,0,,,Elk County,N. Horton
+Elk,S. Horton,Governor,,Ken V. Krawchuk,LIB,4,,,Elk County,S. Horton
+Elk,Jay,Governor,,Ken V. Krawchuk,LIB,5,,,Elk County,Jay
+Elk,Lamont,Governor,,Ken V. Krawchuk,LIB,0,,,Elk County,Lamont
+Elk,Wilcox,Governor,,Ken V. Krawchuk,LIB,4,,,Elk County,Wilcox
+Elk,Millstone,Governor,,Ken V. Krawchuk,LIB,1,,,Elk County,Millstone
+Elk,N. Ridgway,Governor,,Ken V. Krawchuk,LIB,0,,,Elk County,N. Ridgway
+Elk,S. Ridgway,Governor,,Ken V. Krawchuk,LIB,6,,,Elk County,S. Ridgway
+Elk,Spring Creek,Governor,,Ken V. Krawchuk,LIB,0,,,Elk County,Spring Creek
+Elk,Johnsonburg 1st,Governor,,Ken V. Krawchuk,LIB,3,,,Elk County,Johnsonburg 1st
+Elk,Johnsonburg 2nd,Governor,,Ken V. Krawchuk,LIB,2,,,Elk County,Johnsonburg 2nd
+Elk,Johnsonburg 3rd,Governor,,Ken V. Krawchuk,LIB,1,,,Elk County,Johnsonburg 3rd
+Elk,Johnsonburg 4th,Governor,,Ken V. Krawchuk,LIB,0,,,Elk County,Johnsonburg 4th
+Elk,Ridgway 1st,Governor,,Ken V. Krawchuk,LIB,1,,,Elk County,Ridgway 1st
+Elk,Ridgway 2nd,Governor,,Ken V. Krawchuk,LIB,6,,,Elk County,Ridgway 2nd
+Elk,Ridgway 3rd,Governor,,Ken V. Krawchuk,LIB,3,,,Elk County,Ridgway 3rd
+Elk,St. Marys 1st,Governor,,Ken V. Krawchuk,LIB,5,,,Elk County,St. Marys 1st
+Elk,St. Marys 2nd,Governor,,Ken V. Krawchuk,LIB,6,,,Elk County,St. Marys 2nd
+Elk,St. Marys 3rd,Governor,,Ken V. Krawchuk,LIB,6,,,Elk County,St. Marys 3rd
+Elk,St. Marys 4th,Governor,,Ken V. Krawchuk,LIB,2,,,Elk County,St. Marys 4th
+Elk,St. Marys 5th,Governor,,Ken V. Krawchuk,LIB,7,,,Elk County,St. Marys 5th
+Elk,St. Marys 6th,Governor,,Ken V. Krawchuk,LIB,5,,,Elk County,St. Marys 6th
+Elk,St. Marys 7th,Governor,,Ken V. Krawchuk,LIB,7,,,Elk County,St. Marys 7th
+Elk,St. Marys 8th,Governor,,Ken V. Krawchuk,LIB,4,,,Elk County,St. Marys 8th
+Elk,St. Marys 9th,Governor,,Ken V. Krawchuk,LIB,4,,,Elk County,St. Marys 9th
+Elk,Benezette,Governor,,Write-ins,,0,,,Elk County,Benezette
+Elk,Fox #1,Governor,,Write-ins,,0,,,Elk County,Fox #1
+Elk,Fox #2,Governor,,Write-ins,,0,,,Elk County,Fox #2
+Elk,Highland,Governor,,Write-ins,,0,,,Elk County,Highland
+Elk,James City,Governor,,Write-ins,,0,,,Elk County,James City
+Elk,N. Horton,Governor,,Write-ins,,0,,,Elk County,N. Horton
+Elk,S. Horton,Governor,,Write-ins,,0,,,Elk County,S. Horton
+Elk,Jay,Governor,,Write-ins,,0,,,Elk County,Jay
+Elk,Lamont,Governor,,Write-ins,,0,,,Elk County,Lamont
+Elk,Wilcox,Governor,,Write-ins,,0,,,Elk County,Wilcox
+Elk,Millstone,Governor,,Write-ins,,0,,,Elk County,Millstone
+Elk,N. Ridgway,Governor,,Write-ins,,1,,,Elk County,N. Ridgway
+Elk,S. Ridgway,Governor,,Write-ins,,0,,,Elk County,S. Ridgway
+Elk,Spring Creek,Governor,,Write-ins,,0,,,Elk County,Spring Creek
+Elk,Johnsonburg 1st,Governor,,Write-ins,,0,,,Elk County,Johnsonburg 1st
+Elk,Johnsonburg 2nd,Governor,,Write-ins,,0,,,Elk County,Johnsonburg 2nd
+Elk,Johnsonburg 3rd,Governor,,Write-ins,,0,,,Elk County,Johnsonburg 3rd
+Elk,Johnsonburg 4th,Governor,,Write-ins,,0,,,Elk County,Johnsonburg 4th
+Elk,Ridgway 1st,Governor,,Write-ins,,0,,,Elk County,Ridgway 1st
+Elk,Ridgway 2nd,Governor,,Write-ins,,1,,,Elk County,Ridgway 2nd
+Elk,Ridgway 3rd,Governor,,Write-ins,,0,,,Elk County,Ridgway 3rd
+Elk,St. Marys 1st,Governor,,Write-ins,,0,,,Elk County,St. Marys 1st
+Elk,St. Marys 2nd,Governor,,Write-ins,,0,,,Elk County,St. Marys 2nd
+Elk,St. Marys 3rd,Governor,,Write-ins,,0,,,Elk County,St. Marys 3rd
+Elk,St. Marys 4th,Governor,,Write-ins,,0,,,Elk County,St. Marys 4th
+Elk,St. Marys 5th,Governor,,Write-ins,,0,,,Elk County,St. Marys 5th
+Elk,St. Marys 6th,Governor,,Write-ins,,0,,,Elk County,St. Marys 6th
+Elk,St. Marys 7th,Governor,,Write-ins,,0,,,Elk County,St. Marys 7th
+Elk,St. Marys 8th,Governor,,Write-ins,,0,,,Elk County,St. Marys 8th
+Elk,St. Marys 9th,Governor,,Write-ins,,2,,,Elk County,St. Marys 9th
+Elk,Benezette,U.S. House,15.0,Susan Boser,DEM,30,,,Elk County,Benezette
+Elk,Fox #1,U.S. House,15.0,Susan Boser,DEM,265,,,Elk County,Fox #1
+Elk,Fox #2,U.S. House,15.0,Susan Boser,DEM,233,,,Elk County,Fox #2
+Elk,Highland,U.S. House,15.0,Susan Boser,DEM,29,,,Elk County,Highland
+Elk,James City,U.S. House,15.0,Susan Boser,DEM,42,,,Elk County,James City
+Elk,N. Horton,U.S. House,15.0,Susan Boser,DEM,50,,,Elk County,N. Horton
+Elk,S. Horton,U.S. House,15.0,Susan Boser,DEM,92,,,Elk County,S. Horton
+Elk,Jay,U.S. House,15.0,Susan Boser,DEM,245,,,Elk County,Jay
+Elk,Lamont,U.S. House,15.0,Susan Boser,DEM,17,,,Elk County,Lamont
+Elk,Wilcox,U.S. House,15.0,Susan Boser,DEM,152,,,Elk County,Wilcox
+Elk,Millstone,U.S. House,15.0,Susan Boser,DEM,34,,,Elk County,Millstone
+Elk,N. Ridgway,U.S. House,15.0,Susan Boser,DEM,57,,,Elk County,N. Ridgway
+Elk,S. Ridgway,U.S. House,15.0,Susan Boser,DEM,177,,,Elk County,S. Ridgway
+Elk,Spring Creek,U.S. House,15.0,Susan Boser,DEM,30,,,Elk County,Spring Creek
+Elk,Johnsonburg 1st,U.S. House,15.0,Susan Boser,DEM,78,,,Elk County,Johnsonburg 1st
+Elk,Johnsonburg 2nd,U.S. House,15.0,Susan Boser,DEM,69,,,Elk County,Johnsonburg 2nd
+Elk,Johnsonburg 3rd,U.S. House,15.0,Susan Boser,DEM,72,,,Elk County,Johnsonburg 3rd
+Elk,Johnsonburg 4th,U.S. House,15.0,Susan Boser,DEM,54,,,Elk County,Johnsonburg 4th
+Elk,Ridgway 1st,U.S. House,15.0,Susan Boser,DEM,103,,,Elk County,Ridgway 1st
+Elk,Ridgway 2nd,U.S. House,15.0,Susan Boser,DEM,196,,,Elk County,Ridgway 2nd
+Elk,Ridgway 3rd,U.S. House,15.0,Susan Boser,DEM,177,,,Elk County,Ridgway 3rd
+Elk,St. Marys 1st,U.S. House,15.0,Susan Boser,DEM,150,,,Elk County,St. Marys 1st
+Elk,St. Marys 2nd,U.S. House,15.0,Susan Boser,DEM,111,,,Elk County,St. Marys 2nd
+Elk,St. Marys 3rd,U.S. House,15.0,Susan Boser,DEM,141,,,Elk County,St. Marys 3rd
+Elk,St. Marys 4th,U.S. House,15.0,Susan Boser,DEM,139,,,Elk County,St. Marys 4th
+Elk,St. Marys 5th,U.S. House,15.0,Susan Boser,DEM,127,,,Elk County,St. Marys 5th
+Elk,St. Marys 6th,U.S. House,15.0,Susan Boser,DEM,127,,,Elk County,St. Marys 6th
+Elk,St. Marys 7th,U.S. House,15.0,Susan Boser,DEM,168,,,Elk County,St. Marys 7th
+Elk,St. Marys 8th,U.S. House,15.0,Susan Boser,DEM,251,,,Elk County,St. Marys 8th
+Elk,St. Marys 9th,U.S. House,15.0,Susan Boser,DEM,168,,,Elk County,St. Marys 9th
+Elk,Benezette,U.S. House,15.0,Glenn Thompson,REP,109,,,Elk County,Benezette
+Elk,Fox #1,U.S. House,15.0,Glenn Thompson,REP,461,,,Elk County,Fox #1
+Elk,Fox #2,U.S. House,15.0,Glenn Thompson,REP,457,,,Elk County,Fox #2
+Elk,Highland,U.S. House,15.0,Glenn Thompson,REP,50,,,Elk County,Highland
+Elk,James City,U.S. House,15.0,Glenn Thompson,REP,47,,,Elk County,James City
+Elk,N. Horton,U.S. House,15.0,Glenn Thompson,REP,137,,,Elk County,N. Horton
+Elk,S. Horton,U.S. House,15.0,Glenn Thompson,REP,230,,,Elk County,S. Horton
+Elk,Jay,U.S. House,15.0,Glenn Thompson,REP,470,,,Elk County,Jay
+Elk,Lamont,U.S. House,15.0,Glenn Thompson,REP,36,,,Elk County,Lamont
+Elk,Wilcox,U.S. House,15.0,Glenn Thompson,REP,403,,,Elk County,Wilcox
+Elk,Millstone,U.S. House,15.0,Glenn Thompson,REP,31,,,Elk County,Millstone
+Elk,N. Ridgway,U.S. House,15.0,Glenn Thompson,REP,124,,,Elk County,N. Ridgway
+Elk,S. Ridgway,U.S. House,15.0,Glenn Thompson,REP,545,,,Elk County,S. Ridgway
+Elk,Spring Creek,U.S. House,15.0,Glenn Thompson,REP,58,,,Elk County,Spring Creek
+Elk,Johnsonburg 1st,U.S. House,15.0,Glenn Thompson,REP,153,,,Elk County,Johnsonburg 1st
+Elk,Johnsonburg 2nd,U.S. House,15.0,Glenn Thompson,REP,98,,,Elk County,Johnsonburg 2nd
+Elk,Johnsonburg 3rd,U.S. House,15.0,Glenn Thompson,REP,113,,,Elk County,Johnsonburg 3rd
+Elk,Johnsonburg 4th,U.S. House,15.0,Glenn Thompson,REP,100,,,Elk County,Johnsonburg 4th
+Elk,Ridgway 1st,U.S. House,15.0,Glenn Thompson,REP,189,,,Elk County,Ridgway 1st
+Elk,Ridgway 2nd,U.S. House,15.0,Glenn Thompson,REP,327,,,Elk County,Ridgway 2nd
+Elk,Ridgway 3rd,U.S. House,15.0,Glenn Thompson,REP,303,,,Elk County,Ridgway 3rd
+Elk,St. Marys 1st,U.S. House,15.0,Glenn Thompson,REP,380,,,Elk County,St. Marys 1st
+Elk,St. Marys 2nd,U.S. House,15.0,Glenn Thompson,REP,263,,,Elk County,St. Marys 2nd
+Elk,St. Marys 3rd,U.S. House,15.0,Glenn Thompson,REP,525,,,Elk County,St. Marys 3rd
+Elk,St. Marys 4th,U.S. House,15.0,Glenn Thompson,REP,197,,,Elk County,St. Marys 4th
+Elk,St. Marys 5th,U.S. House,15.0,Glenn Thompson,REP,402,,,Elk County,St. Marys 5th
+Elk,St. Marys 6th,U.S. House,15.0,Glenn Thompson,REP,379,,,Elk County,St. Marys 6th
+Elk,St. Marys 7th,U.S. House,15.0,Glenn Thompson,REP,313,,,Elk County,St. Marys 7th
+Elk,St. Marys 8th,U.S. House,15.0,Glenn Thompson,REP,515,,,Elk County,St. Marys 8th
+Elk,St. Marys 9th,U.S. House,15.0,Glenn Thompson,REP,297,,,Elk County,St. Marys 9th
+Elk,Benezette,U.S. House,15.0,Write-ins,,0,,,Elk County,Benezette
+Elk,Fox #1,U.S. House,15.0,Write-ins,,0,,,Elk County,Fox #1
+Elk,Fox #2,U.S. House,15.0,Write-ins,,0,,,Elk County,Fox #2
+Elk,Highland,U.S. House,15.0,Write-ins,,0,,,Elk County,Highland
+Elk,James City,U.S. House,15.0,Write-ins,,1,,,Elk County,James City
+Elk,N. Horton,U.S. House,15.0,Write-ins,,0,,,Elk County,N. Horton
+Elk,S. Horton,U.S. House,15.0,Write-ins,,0,,,Elk County,S. Horton
+Elk,Jay,U.S. House,15.0,Write-ins,,0,,,Elk County,Jay
+Elk,Lamont,U.S. House,15.0,Write-ins,,0,,,Elk County,Lamont
+Elk,Wilcox,U.S. House,15.0,Write-ins,,0,,,Elk County,Wilcox
+Elk,Millstone,U.S. House,15.0,Write-ins,,0,,,Elk County,Millstone
+Elk,N. Ridgway,U.S. House,15.0,Write-ins,,0,,,Elk County,N. Ridgway
+Elk,S. Ridgway,U.S. House,15.0,Write-ins,,1,,,Elk County,S. Ridgway
+Elk,Spring Creek,U.S. House,15.0,Write-ins,,0,,,Elk County,Spring Creek
+Elk,Johnsonburg 1st,U.S. House,15.0,Write-ins,,0,,,Elk County,Johnsonburg 1st
+Elk,Johnsonburg 2nd,U.S. House,15.0,Write-ins,,0,,,Elk County,Johnsonburg 2nd
+Elk,Johnsonburg 3rd,U.S. House,15.0,Write-ins,,0,,,Elk County,Johnsonburg 3rd
+Elk,Johnsonburg 4th,U.S. House,15.0,Write-ins,,0,,,Elk County,Johnsonburg 4th
+Elk,Ridgway 1st,U.S. House,15.0,Write-ins,,0,,,Elk County,Ridgway 1st
+Elk,Ridgway 2nd,U.S. House,15.0,Write-ins,,0,,,Elk County,Ridgway 2nd
+Elk,Ridgway 3rd,U.S. House,15.0,Write-ins,,0,,,Elk County,Ridgway 3rd
+Elk,St. Marys 1st,U.S. House,15.0,Write-ins,,1,,,Elk County,St. Marys 1st
+Elk,St. Marys 2nd,U.S. House,15.0,Write-ins,,0,,,Elk County,St. Marys 2nd
+Elk,St. Marys 3rd,U.S. House,15.0,Write-ins,,0,,,Elk County,St. Marys 3rd
+Elk,St. Marys 4th,U.S. House,15.0,Write-ins,,0,,,Elk County,St. Marys 4th
+Elk,St. Marys 5th,U.S. House,15.0,Write-ins,,0,,,Elk County,St. Marys 5th
+Elk,St. Marys 6th,U.S. House,15.0,Write-ins,,0,,,Elk County,St. Marys 6th
+Elk,St. Marys 7th,U.S. House,15.0,Write-ins,,1,,,Elk County,St. Marys 7th
+Elk,St. Marys 8th,U.S. House,15.0,Write-ins,,0,,,Elk County,St. Marys 8th
+Elk,St. Marys 9th,U.S. House,15.0,Write-ins,,0,,,Elk County,St. Marys 9th
+Elk,Benezette,State House,75.0,Matt Gabler,REP,133,,,Elk County,Benezette
+Elk,Fox #1,State House,75.0,Matt Gabler,REP,679,,,Elk County,Fox #1
+Elk,Fox #2,State House,75.0,Matt Gabler,REP,648,,,Elk County,Fox #2
+Elk,Highland,State House,75.0,Matt Gabler,REP,75,,,Elk County,Highland
+Elk,James City,State House,75.0,Matt Gabler,REP,85,,,Elk County,James City
+Elk,N. Horton,State House,75.0,Matt Gabler,REP,181,,,Elk County,N. Horton
+Elk,S. Horton,State House,75.0,Matt Gabler,REP,313,,,Elk County,S. Horton
+Elk,Jay,State House,75.0,Matt Gabler,REP,678,,,Elk County,Jay
+Elk,Lamont,State House,75.0,Matt Gabler,REP,50,,,Elk County,Lamont
+Elk,Wilcox,State House,75.0,Matt Gabler,REP,534,,,Elk County,Wilcox
+Elk,Millstone,State House,75.0,Matt Gabler,REP,59,,,Elk County,Millstone
+Elk,N. Ridgway,State House,75.0,Matt Gabler,REP,176,,,Elk County,N. Ridgway
+Elk,S. Ridgway,State House,75.0,Matt Gabler,REP,690,,,Elk County,S. Ridgway
+Elk,Spring Creek,State House,75.0,Matt Gabler,REP,84,,,Elk County,Spring Creek
+Elk,Johnsonburg 1st,State House,75.0,Matt Gabler,REP,221,,,Elk County,Johnsonburg 1st
+Elk,Johnsonburg 2nd,State House,75.0,Matt Gabler,REP,159,,,Elk County,Johnsonburg 2nd
+Elk,Johnsonburg 3rd,State House,75.0,Matt Gabler,REP,176,,,Elk County,Johnsonburg 3rd
+Elk,Johnsonburg 4th,State House,75.0,Matt Gabler,REP,148,,,Elk County,Johnsonburg 4th
+Elk,Ridgway 1st,State House,75.0,Matt Gabler,REP,281,,,Elk County,Ridgway 1st
+Elk,Ridgway 2nd,State House,75.0,Matt Gabler,REP,492,,,Elk County,Ridgway 2nd
+Elk,Ridgway 3rd,State House,75.0,Matt Gabler,REP,454,,,Elk County,Ridgway 3rd
+Elk,St. Marys 1st,State House,75.0,Matt Gabler,REP,504,,,Elk County,St. Marys 1st
+Elk,St. Marys 2nd,State House,75.0,Matt Gabler,REP,354,,,Elk County,St. Marys 2nd
+Elk,St. Marys 3rd,State House,75.0,Matt Gabler,REP,627,,,Elk County,St. Marys 3rd
+Elk,St. Marys 4th,State House,75.0,Matt Gabler,REP,314,,,Elk County,St. Marys 4th
+Elk,St. Marys 5th,State House,75.0,Matt Gabler,REP,506,,,Elk County,St. Marys 5th
+Elk,St. Marys 6th,State House,75.0,Matt Gabler,REP,496,,,Elk County,St. Marys 6th
+Elk,St. Marys 7th,State House,75.0,Matt Gabler,REP,453,,,Elk County,St. Marys 7th
+Elk,St. Marys 8th,State House,75.0,Matt Gabler,REP,722,,,Elk County,St. Marys 8th
+Elk,St. Marys 9th,State House,75.0,Matt Gabler,REP,425,,,Elk County,St. Marys 9th
+Elk,Benezette,State House,75.0,Write-ins,,2,,,Elk County,Benezette
+Elk,Fox #1,State House,75.0,Write-ins,,23,,,Elk County,Fox #1
+Elk,Fox #2,State House,75.0,Write-ins,,21,,,Elk County,Fox #2
+Elk,Highland,State House,75.0,Write-ins,,1,,,Elk County,Highland
+Elk,James City,State House,75.0,Write-ins,,2,,,Elk County,James City
+Elk,N. Horton,State House,75.0,Write-ins,,2,,,Elk County,N. Horton
+Elk,S. Horton,State House,75.0,Write-ins,,3,,,Elk County,S. Horton
+Elk,Jay,State House,75.0,Write-ins,,17,,,Elk County,Jay
+Elk,Lamont,State House,75.0,Write-ins,,0,,,Elk County,Lamont
+Elk,Wilcox,State House,75.0,Write-ins,,8,,,Elk County,Wilcox
+Elk,Millstone,State House,75.0,Write-ins,,2,,,Elk County,Millstone
+Elk,N. Ridgway,State House,75.0,Write-ins,,2,,,Elk County,N. Ridgway
+Elk,S. Ridgway,State House,75.0,Write-ins,,15,,,Elk County,S. Ridgway
+Elk,Spring Creek,State House,75.0,Write-ins,,1,,,Elk County,Spring Creek
+Elk,Johnsonburg 1st,State House,75.0,Write-ins,,3,,,Elk County,Johnsonburg 1st
+Elk,Johnsonburg 2nd,State House,75.0,Write-ins,,2,,,Elk County,Johnsonburg 2nd
+Elk,Johnsonburg 3rd,State House,75.0,Write-ins,,2,,,Elk County,Johnsonburg 3rd
+Elk,Johnsonburg 4th,State House,75.0,Write-ins,,1,,,Elk County,Johnsonburg 4th
+Elk,Ridgway 1st,State House,75.0,Write-ins,,3,,,Elk County,Ridgway 1st
+Elk,Ridgway 2nd,State House,75.0,Write-ins,,12,,,Elk County,Ridgway 2nd
+Elk,Ridgway 3rd,State House,75.0,Write-ins,,12,,,Elk County,Ridgway 3rd
+Elk,St. Marys 1st,State House,75.0,Write-ins,,9,,,Elk County,St. Marys 1st
+Elk,St. Marys 2nd,State House,75.0,Write-ins,,5,,,Elk County,St. Marys 2nd
+Elk,St. Marys 3rd,State House,75.0,Write-ins,,14,,,Elk County,St. Marys 3rd
+Elk,St. Marys 4th,State House,75.0,Write-ins,,11,,,Elk County,St. Marys 4th
+Elk,St. Marys 5th,State House,75.0,Write-ins,,10,,,Elk County,St. Marys 5th
+Elk,St. Marys 6th,State House,75.0,Write-ins,,4,,,Elk County,St. Marys 6th
+Elk,St. Marys 7th,State House,75.0,Write-ins,,11,,,Elk County,St. Marys 7th
+Elk,St. Marys 8th,State House,75.0,Write-ins,,19,,,Elk County,St. Marys 8th
+Elk,St. Marys 9th,State House,75.0,Write-ins,,7,,,Elk County,St. Marys 9th

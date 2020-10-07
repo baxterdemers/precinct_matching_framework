@@ -1,0 +1,930 @@
+county,precinct,office,district,candidate,party,votes,election_day,absentee,county_id,original_precinct_name
+Indiana,ARMAGH,U.S. Senate,,Bob Casey Jr.,DEM,11,,,Indiana County,ARMAGH
+Indiana,ARMSTRONG 1,U.S. Senate,,Bob Casey Jr.,DEM,120,,,Indiana County,ARMSTRONG 1
+Indiana,ARMSTRONG 2,U.S. Senate,,Bob Casey Jr.,DEM,277,,,Indiana County,ARMSTRONG 2
+Indiana,BANKS 1,U.S. Senate,,Bob Casey Jr.,DEM,72,,,Indiana County,BANKS 1
+Indiana,BLACKLICK,U.S. Senate,,Bob Casey Jr.,DEM,187,,,Indiana County,BLACKLICK
+Indiana,BLAIRSVILLE 1,U.S. Senate,,Bob Casey Jr.,DEM,193,,,Indiana County,BLAIRSVILLE 1
+Indiana,BLAIRSVILLE 2,U.S. Senate,,Bob Casey Jr.,DEM,191,,,Indiana County,BLAIRSVILLE 2
+Indiana,BLAIRSVILLE 3,U.S. Senate,,Bob Casey Jr.,DEM,223,,,Indiana County,BLAIRSVILLE 3
+Indiana,BRUSH VALLEY,U.S. Senate,,Bob Casey Jr.,DEM,231,,,Indiana County,BRUSH VALLEY
+Indiana,BUFFINGTON 1,U.S. Senate,,Bob Casey Jr.,DEM,129,,,Indiana County,BUFFINGTON 1
+Indiana,BUFFINGTON 2,U.S. Senate,,Bob Casey Jr.,DEM,34,,,Indiana County,BUFFINGTON 2
+Indiana,BURRELL 1,U.S. Senate,,Bob Casey Jr.,DEM,209,,,Indiana County,BURRELL 1
+Indiana,BURRELL 2,U.S. Senate,,Bob Casey Jr.,DEM,291,,,Indiana County,BURRELL 2
+Indiana,CANOE,U.S. Senate,,Bob Casey Jr.,DEM,138,,,Indiana County,CANOE
+Indiana,CENTER 1,U.S. Senate,,Bob Casey Jr.,DEM,207,,,Indiana County,CENTER 1
+Indiana,CENTER 2,U.S. Senate,,Bob Casey Jr.,DEM,238,,,Indiana County,CENTER 2
+Indiana,CENTER 3,U.S. Senate,,Bob Casey Jr.,DEM,457,,,Indiana County,CENTER 3
+Indiana,CHERRY TREE,U.S. Senate,,Bob Casey Jr.,DEM,36,,,Indiana County,CHERRY TREE
+Indiana,CHERRYHILL 1,U.S. Senate,,Bob Casey Jr.,DEM,254,,,Indiana County,CHERRYHILL 1
+Indiana,CHERRYHILL 2,U.S. Senate,,Bob Casey Jr.,DEM,114,,,Indiana County,CHERRYHILL 2
+Indiana,CLYMER 1,U.S. Senate,,Bob Casey Jr.,DEM,186,,,Indiana County,CLYMER 1
+Indiana,CONEMAUGH 1,U.S. Senate,,Bob Casey Jr.,DEM,59,,,Indiana County,CONEMAUGH 1
+Indiana,CONEMAUGH 2,U.S. Senate,,Bob Casey Jr.,DEM,130,,,Indiana County,CONEMAUGH 2
+Indiana,CONEMAUGH 3,U.S. Senate,,Bob Casey Jr.,DEM,99,,,Indiana County,CONEMAUGH 3
+Indiana,CREEKSIDE,U.S. Senate,,Bob Casey Jr.,DEM,46,,,Indiana County,CREEKSIDE
+Indiana,EAST MAHONING,U.S. Senate,,Bob Casey Jr.,DEM,98,,,Indiana County,EAST MAHONING
+Indiana,EAST WHEATFIELD 1,U.S. Senate,,Bob Casey Jr.,DEM,203,,,Indiana County,EAST WHEATFIELD 1
+Indiana,EAST WHEATFIELD 2,U.S. Senate,,Bob Casey Jr.,DEM,126,,,Indiana County,EAST WHEATFIELD 2
+Indiana,ERNEST,U.S. Senate,,Bob Casey Jr.,DEM,45,,,Indiana County,ERNEST
+Indiana,GLEN CAMPBELL,U.S. Senate,,Bob Casey Jr.,DEM,35,,,Indiana County,GLEN CAMPBELL
+Indiana,GRANT,U.S. Senate,,Bob Casey Jr.,DEM,66,,,Indiana County,GRANT
+Indiana,GREEN 1,U.S. Senate,,Bob Casey Jr.,DEM,146,,,Indiana County,GREEN 1
+Indiana,GREEN 2,U.S. Senate,,Bob Casey Jr.,DEM,152,,,Indiana County,GREEN 2
+Indiana,GREEN 3,U.S. Senate,,Bob Casey Jr.,DEM,63,,,Indiana County,GREEN 3
+Indiana,HOMER CITY 1,U.S. Senate,,Bob Casey Jr.,DEM,236,,,Indiana County,HOMER CITY 1
+Indiana,HOMER CITY 2,U.S. Senate,,Bob Casey Jr.,DEM,116,,,Indiana County,HOMER CITY 2
+Indiana,INDIANA 1,U.S. Senate,,Bob Casey Jr.,DEM,410,,,Indiana County,INDIANA 1
+Indiana,INDIANA 2 1,U.S. Senate,,Bob Casey Jr.,DEM,218,,,Indiana County,INDIANA 2 1
+Indiana,INDIANA 2 2,U.S. Senate,,Bob Casey Jr.,DEM,355,,,Indiana County,INDIANA 2 2
+Indiana,INDIANA 3 1,U.S. Senate,,Bob Casey Jr.,DEM,359,,,Indiana County,INDIANA 3 1
+Indiana,INDIANA 3 2,U.S. Senate,,Bob Casey Jr.,DEM,412,,,Indiana County,INDIANA 3 2
+Indiana,INDIANA 3 4,U.S. Senate,,Bob Casey Jr.,DEM,214,,,Indiana County,INDIANA 3 4
+Indiana,INDIANA 4,U.S. Senate,,Bob Casey Jr.,DEM,340,,,Indiana County,INDIANA 4
+Indiana,MARION CENTER,U.S. Senate,,Bob Casey Jr.,DEM,51,,,Indiana County,MARION CENTER
+Indiana,MONTGOMERY,U.S. Senate,,Bob Casey Jr.,DEM,176,,,Indiana County,MONTGOMERY
+Indiana,NORTH MAHONING,U.S. Senate,,Bob Casey Jr.,DEM,82,,,Indiana County,NORTH MAHONING
+Indiana,PINE 1,U.S. Senate,,Bob Casey Jr.,DEM,92,,,Indiana County,PINE 1
+Indiana,PINE 2,U.S. Senate,,Bob Casey Jr.,DEM,78,,,Indiana County,PINE 2
+Indiana,PINE 3,U.S. Senate,,Bob Casey Jr.,DEM,67,,,Indiana County,PINE 3
+Indiana,PLUMVILLE,U.S. Senate,,Bob Casey Jr.,DEM,30,,,Indiana County,PLUMVILLE
+Indiana,RAYNE,U.S. Senate,,Bob Casey Jr.,DEM,380,,,Indiana County,RAYNE
+Indiana,SALTSBURG,U.S. Senate,,Bob Casey Jr.,DEM,136,,,Indiana County,SALTSBURG
+Indiana,SHELOCTA,U.S. Senate,,Bob Casey Jr.,DEM,3,,,Indiana County,SHELOCTA
+Indiana,SMICKSBURG,U.S. Senate,,Bob Casey Jr.,DEM,4,,,Indiana County,SMICKSBURG
+Indiana,SOUTH MAHONING 1,U.S. Senate,,Bob Casey Jr.,DEM,146,,,Indiana County,SOUTH MAHONING 1
+Indiana,WASHINGTON,U.S. Senate,,Bob Casey Jr.,DEM,201,,,Indiana County,WASHINGTON
+Indiana,WEST MAHONING,U.S. Senate,,Bob Casey Jr.,DEM,28,,,Indiana County,WEST MAHONING
+Indiana,WEST WHEATFIELD 1,U.S. Senate,,Bob Casey Jr.,DEM,166,,,Indiana County,WEST WHEATFIELD 1
+Indiana,WEST WHEATFIELD 2,U.S. Senate,,Bob Casey Jr.,DEM,154,,,Indiana County,WEST WHEATFIELD 2
+Indiana,WHITE 1,U.S. Senate,,Bob Casey Jr.,DEM,399,,,Indiana County,WHITE 1
+Indiana,WHITE 2,U.S. Senate,,Bob Casey Jr.,DEM,608,,,Indiana County,WHITE 2
+Indiana,WHITE 3 1,U.S. Senate,,Bob Casey Jr.,DEM,406,,,Indiana County,WHITE 3 1
+Indiana,WHITE 3 2,U.S. Senate,,Bob Casey Jr.,DEM,413,,,Indiana County,WHITE 3 2
+Indiana,WHITE 3 3,U.S. Senate,,Bob Casey Jr.,DEM,387,,,Indiana County,WHITE 3 3
+Indiana,WHITE 4,U.S. Senate,,Bob Casey Jr.,DEM,458,,,Indiana County,WHITE 4
+Indiana,WHITE 6,U.S. Senate,,Bob Casey Jr.,DEM,287,,,Indiana County,WHITE 6
+Indiana,YOUNG 1,U.S. Senate,,Bob Casey Jr.,DEM,122,,,Indiana County,YOUNG 1
+Indiana,YOUNG 2,U.S. Senate,,Bob Casey Jr.,DEM,41,,,Indiana County,YOUNG 2
+Indiana,YOUNG 3,U.S. Senate,,Bob Casey Jr.,DEM,61,,,Indiana County,YOUNG 3
+Indiana,ARMAGH,U.S. Senate,,Lou Barletta,REP,28,,,Indiana County,ARMAGH
+Indiana,ARMSTRONG 1,U.S. Senate,,Lou Barletta,REP,220,,,Indiana County,ARMSTRONG 1
+Indiana,ARMSTRONG 2,U.S. Senate,,Lou Barletta,REP,587,,,Indiana County,ARMSTRONG 2
+Indiana,BANKS 1,U.S. Senate,,Lou Barletta,REP,211,,,Indiana County,BANKS 1
+Indiana,BLACKLICK,U.S. Senate,,Lou Barletta,REP,337,,,Indiana County,BLACKLICK
+Indiana,BLAIRSVILLE 1,U.S. Senate,,Lou Barletta,REP,204,,,Indiana County,BLAIRSVILLE 1
+Indiana,BLAIRSVILLE 2,U.S. Senate,,Lou Barletta,REP,204,,,Indiana County,BLAIRSVILLE 2
+Indiana,BLAIRSVILLE 3,U.S. Senate,,Lou Barletta,REP,201,,,Indiana County,BLAIRSVILLE 3
+Indiana,BRUSH VALLEY,U.S. Senate,,Lou Barletta,REP,429,,,Indiana County,BRUSH VALLEY
+Indiana,BUFFINGTON 1,U.S. Senate,,Lou Barletta,REP,236,,,Indiana County,BUFFINGTON 1
+Indiana,BUFFINGTON 2,U.S. Senate,,Lou Barletta,REP,81,,,Indiana County,BUFFINGTON 2
+Indiana,BURRELL 1,U.S. Senate,,Lou Barletta,REP,260,,,Indiana County,BURRELL 1
+Indiana,BURRELL 2,U.S. Senate,,Lou Barletta,REP,441,,,Indiana County,BURRELL 2
+Indiana,CANOE,U.S. Senate,,Lou Barletta,REP,297,,,Indiana County,CANOE
+Indiana,CENTER 1,U.S. Senate,,Lou Barletta,REP,289,,,Indiana County,CENTER 1
+Indiana,CENTER 2,U.S. Senate,,Lou Barletta,REP,208,,,Indiana County,CENTER 2
+Indiana,CENTER 3,U.S. Senate,,Lou Barletta,REP,395,,,Indiana County,CENTER 3
+Indiana,CHERRY TREE,U.S. Senate,,Lou Barletta,REP,65,,,Indiana County,CHERRY TREE
+Indiana,CHERRYHILL 1,U.S. Senate,,Lou Barletta,REP,466,,,Indiana County,CHERRYHILL 1
+Indiana,CHERRYHILL 2,U.S. Senate,,Lou Barletta,REP,224,,,Indiana County,CHERRYHILL 2
+Indiana,CLYMER 1,U.S. Senate,,Lou Barletta,REP,216,,,Indiana County,CLYMER 1
+Indiana,CONEMAUGH 1,U.S. Senate,,Lou Barletta,REP,95,,,Indiana County,CONEMAUGH 1
+Indiana,CONEMAUGH 2,U.S. Senate,,Lou Barletta,REP,255,,,Indiana County,CONEMAUGH 2
+Indiana,CONEMAUGH 3,U.S. Senate,,Lou Barletta,REP,136,,,Indiana County,CONEMAUGH 3
+Indiana,CREEKSIDE,U.S. Senate,,Lou Barletta,REP,51,,,Indiana County,CREEKSIDE
+Indiana,EAST MAHONING,U.S. Senate,,Lou Barletta,REP,269,,,Indiana County,EAST MAHONING
+Indiana,EAST WHEATFIELD 1,U.S. Senate,,Lou Barletta,REP,305,,,Indiana County,EAST WHEATFIELD 1
+Indiana,EAST WHEATFIELD 2,U.S. Senate,,Lou Barletta,REP,186,,,Indiana County,EAST WHEATFIELD 2
+Indiana,ERNEST,U.S. Senate,,Lou Barletta,REP,62,,,Indiana County,ERNEST
+Indiana,GLEN CAMPBELL,U.S. Senate,,Lou Barletta,REP,39,,,Indiana County,GLEN CAMPBELL
+Indiana,GRANT,U.S. Senate,,Lou Barletta,REP,192,,,Indiana County,GRANT
+Indiana,GREEN 1,U.S. Senate,,Lou Barletta,REP,372,,,Indiana County,GREEN 1
+Indiana,GREEN 2,U.S. Senate,,Lou Barletta,REP,346,,,Indiana County,GREEN 2
+Indiana,GREEN 3,U.S. Senate,,Lou Barletta,REP,136,,,Indiana County,GREEN 3
+Indiana,HOMER CITY 1,U.S. Senate,,Lou Barletta,REP,160,,,Indiana County,HOMER CITY 1
+Indiana,HOMER CITY 2,U.S. Senate,,Lou Barletta,REP,109,,,Indiana County,HOMER CITY 2
+Indiana,INDIANA 1,U.S. Senate,,Lou Barletta,REP,252,,,Indiana County,INDIANA 1
+Indiana,INDIANA 2 1,U.S. Senate,,Lou Barletta,REP,136,,,Indiana County,INDIANA 2 1
+Indiana,INDIANA 2 2,U.S. Senate,,Lou Barletta,REP,223,,,Indiana County,INDIANA 2 2
+Indiana,INDIANA 3 1,U.S. Senate,,Lou Barletta,REP,61,,,Indiana County,INDIANA 3 1
+Indiana,INDIANA 3 2,U.S. Senate,,Lou Barletta,REP,152,,,Indiana County,INDIANA 3 2
+Indiana,INDIANA 3 4,U.S. Senate,,Lou Barletta,REP,111,,,Indiana County,INDIANA 3 4
+Indiana,INDIANA 4,U.S. Senate,,Lou Barletta,REP,187,,,Indiana County,INDIANA 4
+Indiana,MARION CENTER,U.S. Senate,,Lou Barletta,REP,105,,,Indiana County,MARION CENTER
+Indiana,MONTGOMERY,U.S. Senate,,Lou Barletta,REP,299,,,Indiana County,MONTGOMERY
+Indiana,NORTH MAHONING,U.S. Senate,,Lou Barletta,REP,296,,,Indiana County,NORTH MAHONING
+Indiana,PINE 1,U.S. Senate,,Lou Barletta,REP,208,,,Indiana County,PINE 1
+Indiana,PINE 2,U.S. Senate,,Lou Barletta,REP,93,,,Indiana County,PINE 2
+Indiana,PINE 3,U.S. Senate,,Lou Barletta,REP,95,,,Indiana County,PINE 3
+Indiana,PLUMVILLE,U.S. Senate,,Lou Barletta,REP,61,,,Indiana County,PLUMVILLE
+Indiana,RAYNE,U.S. Senate,,Lou Barletta,REP,774,,,Indiana County,RAYNE
+Indiana,SALTSBURG,U.S. Senate,,Lou Barletta,REP,117,,,Indiana County,SALTSBURG
+Indiana,SHELOCTA,U.S. Senate,,Lou Barletta,REP,29,,,Indiana County,SHELOCTA
+Indiana,SMICKSBURG,U.S. Senate,,Lou Barletta,REP,15,,,Indiana County,SMICKSBURG
+Indiana,SOUTH MAHONING 1,U.S. Senate,,Lou Barletta,REP,336,,,Indiana County,SOUTH MAHONING 1
+Indiana,WASHINGTON,U.S. Senate,,Lou Barletta,REP,432,,,Indiana County,WASHINGTON
+Indiana,WEST MAHONING,U.S. Senate,,Lou Barletta,REP,135,,,Indiana County,WEST MAHONING
+Indiana,WEST WHEATFIELD 1,U.S. Senate,,Lou Barletta,REP,213,,,Indiana County,WEST WHEATFIELD 1
+Indiana,WEST WHEATFIELD 2,U.S. Senate,,Lou Barletta,REP,242,,,Indiana County,WEST WHEATFIELD 2
+Indiana,WHITE 1,U.S. Senate,,Lou Barletta,REP,523,,,Indiana County,WHITE 1
+Indiana,WHITE 2,U.S. Senate,,Lou Barletta,REP,714,,,Indiana County,WHITE 2
+Indiana,WHITE 3 1,U.S. Senate,,Lou Barletta,REP,401,,,Indiana County,WHITE 3 1
+Indiana,WHITE 3 2,U.S. Senate,,Lou Barletta,REP,387,,,Indiana County,WHITE 3 2
+Indiana,WHITE 3 3,U.S. Senate,,Lou Barletta,REP,299,,,Indiana County,WHITE 3 3
+Indiana,WHITE 4,U.S. Senate,,Lou Barletta,REP,453,,,Indiana County,WHITE 4
+Indiana,WHITE 6,U.S. Senate,,Lou Barletta,REP,306,,,Indiana County,WHITE 6
+Indiana,YOUNG 1,U.S. Senate,,Lou Barletta,REP,191,,,Indiana County,YOUNG 1
+Indiana,YOUNG 2,U.S. Senate,,Lou Barletta,REP,59,,,Indiana County,YOUNG 2
+Indiana,YOUNG 3,U.S. Senate,,Lou Barletta,REP,97,,,Indiana County,YOUNG 3
+Indiana,ARMAGH,U.S. Senate,,Neal Gale,GRE,0,,,Indiana County,ARMAGH
+Indiana,ARMSTRONG 1,U.S. Senate,,Neal Gale,GRE,2,,,Indiana County,ARMSTRONG 1
+Indiana,ARMSTRONG 2,U.S. Senate,,Neal Gale,GRE,3,,,Indiana County,ARMSTRONG 2
+Indiana,BANKS 1,U.S. Senate,,Neal Gale,GRE,2,,,Indiana County,BANKS 1
+Indiana,BLACKLICK,U.S. Senate,,Neal Gale,GRE,2,,,Indiana County,BLACKLICK
+Indiana,BLAIRSVILLE 1,U.S. Senate,,Neal Gale,GRE,3,,,Indiana County,BLAIRSVILLE 1
+Indiana,BLAIRSVILLE 2,U.S. Senate,,Neal Gale,GRE,3,,,Indiana County,BLAIRSVILLE 2
+Indiana,BLAIRSVILLE 3,U.S. Senate,,Neal Gale,GRE,2,,,Indiana County,BLAIRSVILLE 3
+Indiana,BRUSH VALLEY,U.S. Senate,,Neal Gale,GRE,5,,,Indiana County,BRUSH VALLEY
+Indiana,BUFFINGTON 1,U.S. Senate,,Neal Gale,GRE,3,,,Indiana County,BUFFINGTON 1
+Indiana,BUFFINGTON 2,U.S. Senate,,Neal Gale,GRE,1,,,Indiana County,BUFFINGTON 2
+Indiana,BURRELL 1,U.S. Senate,,Neal Gale,GRE,4,,,Indiana County,BURRELL 1
+Indiana,BURRELL 2,U.S. Senate,,Neal Gale,GRE,3,,,Indiana County,BURRELL 2
+Indiana,CANOE,U.S. Senate,,Neal Gale,GRE,2,,,Indiana County,CANOE
+Indiana,CENTER 1,U.S. Senate,,Neal Gale,GRE,1,,,Indiana County,CENTER 1
+Indiana,CENTER 2,U.S. Senate,,Neal Gale,GRE,3,,,Indiana County,CENTER 2
+Indiana,CENTER 3,U.S. Senate,,Neal Gale,GRE,2,,,Indiana County,CENTER 3
+Indiana,CHERRY TREE,U.S. Senate,,Neal Gale,GRE,1,,,Indiana County,CHERRY TREE
+Indiana,CHERRYHILL 1,U.S. Senate,,Neal Gale,GRE,3,,,Indiana County,CHERRYHILL 1
+Indiana,CHERRYHILL 2,U.S. Senate,,Neal Gale,GRE,3,,,Indiana County,CHERRYHILL 2
+Indiana,CLYMER 1,U.S. Senate,,Neal Gale,GRE,7,,,Indiana County,CLYMER 1
+Indiana,CONEMAUGH 1,U.S. Senate,,Neal Gale,GRE,2,,,Indiana County,CONEMAUGH 1
+Indiana,CONEMAUGH 2,U.S. Senate,,Neal Gale,GRE,2,,,Indiana County,CONEMAUGH 2
+Indiana,CONEMAUGH 3,U.S. Senate,,Neal Gale,GRE,2,,,Indiana County,CONEMAUGH 3
+Indiana,CREEKSIDE,U.S. Senate,,Neal Gale,GRE,1,,,Indiana County,CREEKSIDE
+Indiana,EAST MAHONING,U.S. Senate,,Neal Gale,GRE,3,,,Indiana County,EAST MAHONING
+Indiana,EAST WHEATFIELD 1,U.S. Senate,,Neal Gale,GRE,2,,,Indiana County,EAST WHEATFIELD 1
+Indiana,EAST WHEATFIELD 2,U.S. Senate,,Neal Gale,GRE,2,,,Indiana County,EAST WHEATFIELD 2
+Indiana,ERNEST,U.S. Senate,,Neal Gale,GRE,1,,,Indiana County,ERNEST
+Indiana,GLEN CAMPBELL,U.S. Senate,,Neal Gale,GRE,0,,,Indiana County,GLEN CAMPBELL
+Indiana,GRANT,U.S. Senate,,Neal Gale,GRE,1,,,Indiana County,GRANT
+Indiana,GREEN 1,U.S. Senate,,Neal Gale,GRE,3,,,Indiana County,GREEN 1
+Indiana,GREEN 2,U.S. Senate,,Neal Gale,GRE,4,,,Indiana County,GREEN 2
+Indiana,GREEN 3,U.S. Senate,,Neal Gale,GRE,0,,,Indiana County,GREEN 3
+Indiana,HOMER CITY 1,U.S. Senate,,Neal Gale,GRE,3,,,Indiana County,HOMER CITY 1
+Indiana,HOMER CITY 2,U.S. Senate,,Neal Gale,GRE,2,,,Indiana County,HOMER CITY 2
+Indiana,INDIANA 1,U.S. Senate,,Neal Gale,GRE,8,,,Indiana County,INDIANA 1
+Indiana,INDIANA 2 1,U.S. Senate,,Neal Gale,GRE,9,,,Indiana County,INDIANA 2 1
+Indiana,INDIANA 2 2,U.S. Senate,,Neal Gale,GRE,5,,,Indiana County,INDIANA 2 2
+Indiana,INDIANA 3 1,U.S. Senate,,Neal Gale,GRE,8,,,Indiana County,INDIANA 3 1
+Indiana,INDIANA 3 2,U.S. Senate,,Neal Gale,GRE,21,,,Indiana County,INDIANA 3 2
+Indiana,INDIANA 3 4,U.S. Senate,,Neal Gale,GRE,4,,,Indiana County,INDIANA 3 4
+Indiana,INDIANA 4,U.S. Senate,,Neal Gale,GRE,1,,,Indiana County,INDIANA 4
+Indiana,MARION CENTER,U.S. Senate,,Neal Gale,GRE,0,,,Indiana County,MARION CENTER
+Indiana,MONTGOMERY,U.S. Senate,,Neal Gale,GRE,0,,,Indiana County,MONTGOMERY
+Indiana,NORTH MAHONING,U.S. Senate,,Neal Gale,GRE,3,,,Indiana County,NORTH MAHONING
+Indiana,PINE 1,U.S. Senate,,Neal Gale,GRE,0,,,Indiana County,PINE 1
+Indiana,PINE 2,U.S. Senate,,Neal Gale,GRE,0,,,Indiana County,PINE 2
+Indiana,PINE 3,U.S. Senate,,Neal Gale,GRE,2,,,Indiana County,PINE 3
+Indiana,PLUMVILLE,U.S. Senate,,Neal Gale,GRE,0,,,Indiana County,PLUMVILLE
+Indiana,RAYNE,U.S. Senate,,Neal Gale,GRE,3,,,Indiana County,RAYNE
+Indiana,SALTSBURG,U.S. Senate,,Neal Gale,GRE,1,,,Indiana County,SALTSBURG
+Indiana,SHELOCTA,U.S. Senate,,Neal Gale,GRE,0,,,Indiana County,SHELOCTA
+Indiana,SMICKSBURG,U.S. Senate,,Neal Gale,GRE,0,,,Indiana County,SMICKSBURG
+Indiana,SOUTH MAHONING 1,U.S. Senate,,Neal Gale,GRE,1,,,Indiana County,SOUTH MAHONING 1
+Indiana,WASHINGTON,U.S. Senate,,Neal Gale,GRE,2,,,Indiana County,WASHINGTON
+Indiana,WEST MAHONING,U.S. Senate,,Neal Gale,GRE,1,,,Indiana County,WEST MAHONING
+Indiana,WEST WHEATFIELD 1,U.S. Senate,,Neal Gale,GRE,3,,,Indiana County,WEST WHEATFIELD 1
+Indiana,WEST WHEATFIELD 2,U.S. Senate,,Neal Gale,GRE,1,,,Indiana County,WEST WHEATFIELD 2
+Indiana,WHITE 1,U.S. Senate,,Neal Gale,GRE,4,,,Indiana County,WHITE 1
+Indiana,WHITE 2,U.S. Senate,,Neal Gale,GRE,8,,,Indiana County,WHITE 2
+Indiana,WHITE 3 1,U.S. Senate,,Neal Gale,GRE,3,,,Indiana County,WHITE 3 1
+Indiana,WHITE 3 2,U.S. Senate,,Neal Gale,GRE,4,,,Indiana County,WHITE 3 2
+Indiana,WHITE 3 3,U.S. Senate,,Neal Gale,GRE,5,,,Indiana County,WHITE 3 3
+Indiana,WHITE 4,U.S. Senate,,Neal Gale,GRE,3,,,Indiana County,WHITE 4
+Indiana,WHITE 6,U.S. Senate,,Neal Gale,GRE,3,,,Indiana County,WHITE 6
+Indiana,YOUNG 1,U.S. Senate,,Neal Gale,GRE,1,,,Indiana County,YOUNG 1
+Indiana,YOUNG 2,U.S. Senate,,Neal Gale,GRE,1,,,Indiana County,YOUNG 2
+Indiana,YOUNG 3,U.S. Senate,,Neal Gale,GRE,1,,,Indiana County,YOUNG 3
+Indiana,ARMAGH,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Indiana County,ARMAGH
+Indiana,ARMSTRONG 1,U.S. Senate,,Dale R. Kerns Jr.,LIB,9,,,Indiana County,ARMSTRONG 1
+Indiana,ARMSTRONG 2,U.S. Senate,,Dale R. Kerns Jr.,LIB,13,,,Indiana County,ARMSTRONG 2
+Indiana,BANKS 1,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Indiana County,BANKS 1
+Indiana,BLACKLICK,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Indiana County,BLACKLICK
+Indiana,BLAIRSVILLE 1,U.S. Senate,,Dale R. Kerns Jr.,LIB,9,,,Indiana County,BLAIRSVILLE 1
+Indiana,BLAIRSVILLE 2,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Indiana County,BLAIRSVILLE 2
+Indiana,BLAIRSVILLE 3,U.S. Senate,,Dale R. Kerns Jr.,LIB,9,,,Indiana County,BLAIRSVILLE 3
+Indiana,BRUSH VALLEY,U.S. Senate,,Dale R. Kerns Jr.,LIB,7,,,Indiana County,BRUSH VALLEY
+Indiana,BUFFINGTON 1,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Indiana County,BUFFINGTON 1
+Indiana,BUFFINGTON 2,U.S. Senate,,Dale R. Kerns Jr.,LIB,0,,,Indiana County,BUFFINGTON 2
+Indiana,BURRELL 1,U.S. Senate,,Dale R. Kerns Jr.,LIB,7,,,Indiana County,BURRELL 1
+Indiana,BURRELL 2,U.S. Senate,,Dale R. Kerns Jr.,LIB,8,,,Indiana County,BURRELL 2
+Indiana,CANOE,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Indiana County,CANOE
+Indiana,CENTER 1,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Indiana County,CENTER 1
+Indiana,CENTER 2,U.S. Senate,,Dale R. Kerns Jr.,LIB,8,,,Indiana County,CENTER 2
+Indiana,CENTER 3,U.S. Senate,,Dale R. Kerns Jr.,LIB,6,,,Indiana County,CENTER 3
+Indiana,CHERRY TREE,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Indiana County,CHERRY TREE
+Indiana,CHERRYHILL 1,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Indiana County,CHERRYHILL 1
+Indiana,CHERRYHILL 2,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Indiana County,CHERRYHILL 2
+Indiana,CLYMER 1,U.S. Senate,,Dale R. Kerns Jr.,LIB,7,,,Indiana County,CLYMER 1
+Indiana,CONEMAUGH 1,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Indiana County,CONEMAUGH 1
+Indiana,CONEMAUGH 2,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Indiana County,CONEMAUGH 2
+Indiana,CONEMAUGH 3,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Indiana County,CONEMAUGH 3
+Indiana,CREEKSIDE,U.S. Senate,,Dale R. Kerns Jr.,LIB,0,,,Indiana County,CREEKSIDE
+Indiana,EAST MAHONING,U.S. Senate,,Dale R. Kerns Jr.,LIB,0,,,Indiana County,EAST MAHONING
+Indiana,EAST WHEATFIELD 1,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Indiana County,EAST WHEATFIELD 1
+Indiana,EAST WHEATFIELD 2,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Indiana County,EAST WHEATFIELD 2
+Indiana,ERNEST,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Indiana County,ERNEST
+Indiana,GLEN CAMPBELL,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Indiana County,GLEN CAMPBELL
+Indiana,GRANT,U.S. Senate,,Dale R. Kerns Jr.,LIB,0,,,Indiana County,GRANT
+Indiana,GREEN 1,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Indiana County,GREEN 1
+Indiana,GREEN 2,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Indiana County,GREEN 2
+Indiana,GREEN 3,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Indiana County,GREEN 3
+Indiana,HOMER CITY 1,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Indiana County,HOMER CITY 1
+Indiana,HOMER CITY 2,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Indiana County,HOMER CITY 2
+Indiana,INDIANA 1,U.S. Senate,,Dale R. Kerns Jr.,LIB,10,,,Indiana County,INDIANA 1
+Indiana,INDIANA 2 1,U.S. Senate,,Dale R. Kerns Jr.,LIB,15,,,Indiana County,INDIANA 2 1
+Indiana,INDIANA 2 2,U.S. Senate,,Dale R. Kerns Jr.,LIB,12,,,Indiana County,INDIANA 2 2
+Indiana,INDIANA 3 1,U.S. Senate,,Dale R. Kerns Jr.,LIB,6,,,Indiana County,INDIANA 3 1
+Indiana,INDIANA 3 2,U.S. Senate,,Dale R. Kerns Jr.,LIB,13,,,Indiana County,INDIANA 3 2
+Indiana,INDIANA 3 4,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Indiana County,INDIANA 3 4
+Indiana,INDIANA 4,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Indiana County,INDIANA 4
+Indiana,MARION CENTER,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Indiana County,MARION CENTER
+Indiana,MONTGOMERY,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Indiana County,MONTGOMERY
+Indiana,NORTH MAHONING,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Indiana County,NORTH MAHONING
+Indiana,PINE 1,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Indiana County,PINE 1
+Indiana,PINE 2,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Indiana County,PINE 2
+Indiana,PINE 3,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Indiana County,PINE 3
+Indiana,PLUMVILLE,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Indiana County,PLUMVILLE
+Indiana,RAYNE,U.S. Senate,,Dale R. Kerns Jr.,LIB,14,,,Indiana County,RAYNE
+Indiana,SALTSBURG,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Indiana County,SALTSBURG
+Indiana,SHELOCTA,U.S. Senate,,Dale R. Kerns Jr.,LIB,0,,,Indiana County,SHELOCTA
+Indiana,SMICKSBURG,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Indiana County,SMICKSBURG
+Indiana,SOUTH MAHONING 1,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Indiana County,SOUTH MAHONING 1
+Indiana,WASHINGTON,U.S. Senate,,Dale R. Kerns Jr.,LIB,6,,,Indiana County,WASHINGTON
+Indiana,WEST MAHONING,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Indiana County,WEST MAHONING
+Indiana,WEST WHEATFIELD 1,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Indiana County,WEST WHEATFIELD 1
+Indiana,WEST WHEATFIELD 2,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Indiana County,WEST WHEATFIELD 2
+Indiana,WHITE 1,U.S. Senate,,Dale R. Kerns Jr.,LIB,12,,,Indiana County,WHITE 1
+Indiana,WHITE 2,U.S. Senate,,Dale R. Kerns Jr.,LIB,17,,,Indiana County,WHITE 2
+Indiana,WHITE 3 1,U.S. Senate,,Dale R. Kerns Jr.,LIB,11,,,Indiana County,WHITE 3 1
+Indiana,WHITE 3 2,U.S. Senate,,Dale R. Kerns Jr.,LIB,17,,,Indiana County,WHITE 3 2
+Indiana,WHITE 3 3,U.S. Senate,,Dale R. Kerns Jr.,LIB,10,,,Indiana County,WHITE 3 3
+Indiana,WHITE 4,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Indiana County,WHITE 4
+Indiana,WHITE 6,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Indiana County,WHITE 6
+Indiana,YOUNG 1,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Indiana County,YOUNG 1
+Indiana,YOUNG 2,U.S. Senate,,Dale R. Kerns Jr.,LIB,0,,,Indiana County,YOUNG 2
+Indiana,YOUNG 3,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Indiana County,YOUNG 3
+Indiana,ARMAGH,Governor,,Tom Wolf,DEM,13,,,Indiana County,ARMAGH
+Indiana,ARMSTRONG 1,Governor,,Tom Wolf,DEM,123,,,Indiana County,ARMSTRONG 1
+Indiana,ARMSTRONG 2,Governor,,Tom Wolf,DEM,287,,,Indiana County,ARMSTRONG 2
+Indiana,BANKS 1,Governor,,Tom Wolf,DEM,67,,,Indiana County,BANKS 1
+Indiana,BLACKLICK,Governor,,Tom Wolf,DEM,190,,,Indiana County,BLACKLICK
+Indiana,BLAIRSVILLE 1,Governor,,Tom Wolf,DEM,193,,,Indiana County,BLAIRSVILLE 1
+Indiana,BLAIRSVILLE 2,Governor,,Tom Wolf,DEM,198,,,Indiana County,BLAIRSVILLE 2
+Indiana,BLAIRSVILLE 3,Governor,,Tom Wolf,DEM,231,,,Indiana County,BLAIRSVILLE 3
+Indiana,BRUSH VALLEY,Governor,,Tom Wolf,DEM,229,,,Indiana County,BRUSH VALLEY
+Indiana,BUFFINGTON 1,Governor,,Tom Wolf,DEM,126,,,Indiana County,BUFFINGTON 1
+Indiana,BUFFINGTON 2,Governor,,Tom Wolf,DEM,35,,,Indiana County,BUFFINGTON 2
+Indiana,BURRELL 1,Governor,,Tom Wolf,DEM,201,,,Indiana County,BURRELL 1
+Indiana,BURRELL 2,Governor,,Tom Wolf,DEM,316,,,Indiana County,BURRELL 2
+Indiana,CANOE,Governor,,Tom Wolf,DEM,137,,,Indiana County,CANOE
+Indiana,CENTER 1,Governor,,Tom Wolf,DEM,202,,,Indiana County,CENTER 1
+Indiana,CENTER 2,Governor,,Tom Wolf,DEM,234,,,Indiana County,CENTER 2
+Indiana,CENTER 3,Governor,,Tom Wolf,DEM,461,,,Indiana County,CENTER 3
+Indiana,CHERRY TREE,Governor,,Tom Wolf,DEM,32,,,Indiana County,CHERRY TREE
+Indiana,CHERRYHILL 1,Governor,,Tom Wolf,DEM,249,,,Indiana County,CHERRYHILL 1
+Indiana,CHERRYHILL 2,Governor,,Tom Wolf,DEM,111,,,Indiana County,CHERRYHILL 2
+Indiana,CLYMER 1,Governor,,Tom Wolf,DEM,181,,,Indiana County,CLYMER 1
+Indiana,CONEMAUGH 1,Governor,,Tom Wolf,DEM,60,,,Indiana County,CONEMAUGH 1
+Indiana,CONEMAUGH 2,Governor,,Tom Wolf,DEM,138,,,Indiana County,CONEMAUGH 2
+Indiana,CONEMAUGH 3,Governor,,Tom Wolf,DEM,104,,,Indiana County,CONEMAUGH 3
+Indiana,CREEKSIDE,Governor,,Tom Wolf,DEM,49,,,Indiana County,CREEKSIDE
+Indiana,EAST MAHONING,Governor,,Tom Wolf,DEM,88,,,Indiana County,EAST MAHONING
+Indiana,EAST WHEATFIELD 1,Governor,,Tom Wolf,DEM,199,,,Indiana County,EAST WHEATFIELD 1
+Indiana,EAST WHEATFIELD 2,Governor,,Tom Wolf,DEM,129,,,Indiana County,EAST WHEATFIELD 2
+Indiana,ERNEST,Governor,,Tom Wolf,DEM,50,,,Indiana County,ERNEST
+Indiana,GLEN CAMPBELL,Governor,,Tom Wolf,DEM,33,,,Indiana County,GLEN CAMPBELL
+Indiana,GRANT,Governor,,Tom Wolf,DEM,61,,,Indiana County,GRANT
+Indiana,GREEN 1,Governor,,Tom Wolf,DEM,133,,,Indiana County,GREEN 1
+Indiana,GREEN 2,Governor,,Tom Wolf,DEM,143,,,Indiana County,GREEN 2
+Indiana,GREEN 3,Governor,,Tom Wolf,DEM,57,,,Indiana County,GREEN 3
+Indiana,HOMER CITY 1,Governor,,Tom Wolf,DEM,241,,,Indiana County,HOMER CITY 1
+Indiana,HOMER CITY 2,Governor,,Tom Wolf,DEM,121,,,Indiana County,HOMER CITY 2
+Indiana,INDIANA 1,Governor,,Tom Wolf,DEM,418,,,Indiana County,INDIANA 1
+Indiana,INDIANA 2 1,Governor,,Tom Wolf,DEM,226,,,Indiana County,INDIANA 2 1
+Indiana,INDIANA 2 2,Governor,,Tom Wolf,DEM,376,,,Indiana County,INDIANA 2 2
+Indiana,INDIANA 3 1,Governor,,Tom Wolf,DEM,261,,,Indiana County,INDIANA 3 1
+Indiana,INDIANA 3 2,Governor,,Tom Wolf,DEM,423,,,Indiana County,INDIANA 3 2
+Indiana,INDIANA 3 4,Governor,,Tom Wolf,DEM,216,,,Indiana County,INDIANA 3 4
+Indiana,INDIANA 4,Governor,,Tom Wolf,DEM,346,,,Indiana County,INDIANA 4
+Indiana,MARION CENTER,Governor,,Tom Wolf,DEM,49,,,Indiana County,MARION CENTER
+Indiana,MONTGOMERY,Governor,,Tom Wolf,DEM,163,,,Indiana County,MONTGOMERY
+Indiana,NORTH MAHONING,Governor,,Tom Wolf,DEM,82,,,Indiana County,NORTH MAHONING
+Indiana,PINE 1,Governor,,Tom Wolf,DEM,95,,,Indiana County,PINE 1
+Indiana,PINE 2,Governor,,Tom Wolf,DEM,77,,,Indiana County,PINE 2
+Indiana,PINE 3,Governor,,Tom Wolf,DEM,60,,,Indiana County,PINE 3
+Indiana,PLUMVILLE,Governor,,Tom Wolf,DEM,32,,,Indiana County,PLUMVILLE
+Indiana,RAYNE,Governor,,Tom Wolf,DEM,365,,,Indiana County,RAYNE
+Indiana,SALTSBURG,Governor,,Tom Wolf,DEM,145,,,Indiana County,SALTSBURG
+Indiana,SHELOCTA,Governor,,Tom Wolf,DEM,4,,,Indiana County,SHELOCTA
+Indiana,SMICKSBURG,Governor,,Tom Wolf,DEM,4,,,Indiana County,SMICKSBURG
+Indiana,SOUTH MAHONING 1,Governor,,Tom Wolf,DEM,132,,,Indiana County,SOUTH MAHONING 1
+Indiana,WASHINGTON,Governor,,Tom Wolf,DEM,186,,,Indiana County,WASHINGTON
+Indiana,WEST MAHONING,Governor,,Tom Wolf,DEM,27,,,Indiana County,WEST MAHONING
+Indiana,WEST WHEATFIELD 1,Governor,,Tom Wolf,DEM,167,,,Indiana County,WEST WHEATFIELD 1
+Indiana,WEST WHEATFIELD 2,Governor,,Tom Wolf,DEM,147,,,Indiana County,WEST WHEATFIELD 2
+Indiana,WHITE 1,Governor,,Tom Wolf,DEM,423,,,Indiana County,WHITE 1
+Indiana,WHITE 2,Governor,,Tom Wolf,DEM,641,,,Indiana County,WHITE 2
+Indiana,WHITE 3 1,Governor,,Tom Wolf,DEM,427,,,Indiana County,WHITE 3 1
+Indiana,WHITE 3 2,Governor,,Tom Wolf,DEM,421,,,Indiana County,WHITE 3 2
+Indiana,WHITE 3 3,Governor,,Tom Wolf,DEM,408,,,Indiana County,WHITE 3 3
+Indiana,WHITE 4,Governor,,Tom Wolf,DEM,460,,,Indiana County,WHITE 4
+Indiana,WHITE 6,Governor,,Tom Wolf,DEM,305,,,Indiana County,WHITE 6
+Indiana,YOUNG 1,Governor,,Tom Wolf,DEM,110,,,Indiana County,YOUNG 1
+Indiana,YOUNG 2,Governor,,Tom Wolf,DEM,39,,,Indiana County,YOUNG 2
+Indiana,YOUNG 3,Governor,,Tom Wolf,DEM,58,,,Indiana County,YOUNG 3
+Indiana,ARMAGH,Governor,,Scott R. Wagner,REP,25,,,Indiana County,ARMAGH
+Indiana,ARMSTRONG 1,Governor,,Scott R. Wagner,REP,222,,,Indiana County,ARMSTRONG 1
+Indiana,ARMSTRONG 2,Governor,,Scott R. Wagner,REP,576,,,Indiana County,ARMSTRONG 2
+Indiana,BANKS 1,Governor,,Scott R. Wagner,REP,215,,,Indiana County,BANKS 1
+Indiana,BLACKLICK,Governor,,Scott R. Wagner,REP,330,,,Indiana County,BLACKLICK
+Indiana,BLAIRSVILLE 1,Governor,,Scott R. Wagner,REP,203,,,Indiana County,BLAIRSVILLE 1
+Indiana,BLAIRSVILLE 2,Governor,,Scott R. Wagner,REP,200,,,Indiana County,BLAIRSVILLE 2
+Indiana,BLAIRSVILLE 3,Governor,,Scott R. Wagner,REP,189,,,Indiana County,BLAIRSVILLE 3
+Indiana,BRUSH VALLEY,Governor,,Scott R. Wagner,REP,427,,,Indiana County,BRUSH VALLEY
+Indiana,BUFFINGTON 1,Governor,,Scott R. Wagner,REP,237,,,Indiana County,BUFFINGTON 1
+Indiana,BUFFINGTON 2,Governor,,Scott R. Wagner,REP,79,,,Indiana County,BUFFINGTON 2
+Indiana,BURRELL 1,Governor,,Scott R. Wagner,REP,270,,,Indiana County,BURRELL 1
+Indiana,BURRELL 2,Governor,,Scott R. Wagner,REP,415,,,Indiana County,BURRELL 2
+Indiana,CANOE,Governor,,Scott R. Wagner,REP,302,,,Indiana County,CANOE
+Indiana,CENTER 1,Governor,,Scott R. Wagner,REP,290,,,Indiana County,CENTER 1
+Indiana,CENTER 2,Governor,,Scott R. Wagner,REP,215,,,Indiana County,CENTER 2
+Indiana,CENTER 3,Governor,,Scott R. Wagner,REP,388,,,Indiana County,CENTER 3
+Indiana,CHERRY TREE,Governor,,Scott R. Wagner,REP,68,,,Indiana County,CHERRY TREE
+Indiana,CHERRYHILL 1,Governor,,Scott R. Wagner,REP,469,,,Indiana County,CHERRYHILL 1
+Indiana,CHERRYHILL 2,Governor,,Scott R. Wagner,REP,222,,,Indiana County,CHERRYHILL 2
+Indiana,CLYMER 1,Governor,,Scott R. Wagner,REP,229,,,Indiana County,CLYMER 1
+Indiana,CONEMAUGH 1,Governor,,Scott R. Wagner,REP,93,,,Indiana County,CONEMAUGH 1
+Indiana,CONEMAUGH 2,Governor,,Scott R. Wagner,REP,249,,,Indiana County,CONEMAUGH 2
+Indiana,CONEMAUGH 3,Governor,,Scott R. Wagner,REP,130,,,Indiana County,CONEMAUGH 3
+Indiana,CREEKSIDE,Governor,,Scott R. Wagner,REP,47,,,Indiana County,CREEKSIDE
+Indiana,EAST MAHONING,Governor,,Scott R. Wagner,REP,272,,,Indiana County,EAST MAHONING
+Indiana,EAST WHEATFIELD 1,Governor,,Scott R. Wagner,REP,302,,,Indiana County,EAST WHEATFIELD 1
+Indiana,EAST WHEATFIELD 2,Governor,,Scott R. Wagner,REP,181,,,Indiana County,EAST WHEATFIELD 2
+Indiana,ERNEST,Governor,,Scott R. Wagner,REP,58,,,Indiana County,ERNEST
+Indiana,GLEN CAMPBELL,Governor,,Scott R. Wagner,REP,41,,,Indiana County,GLEN CAMPBELL
+Indiana,GRANT,Governor,,Scott R. Wagner,REP,192,,,Indiana County,GRANT
+Indiana,GREEN 1,Governor,,Scott R. Wagner,REP,388,,,Indiana County,GREEN 1
+Indiana,GREEN 2,Governor,,Scott R. Wagner,REP,351,,,Indiana County,GREEN 2
+Indiana,GREEN 3,Governor,,Scott R. Wagner,REP,143,,,Indiana County,GREEN 3
+Indiana,HOMER CITY 1,Governor,,Scott R. Wagner,REP,158,,,Indiana County,HOMER CITY 1
+Indiana,HOMER CITY 2,Governor,,Scott R. Wagner,REP,105,,,Indiana County,HOMER CITY 2
+Indiana,INDIANA 1,Governor,,Scott R. Wagner,REP,247,,,Indiana County,INDIANA 1
+Indiana,INDIANA 2 1,Governor,,Scott R. Wagner,REP,131,,,Indiana County,INDIANA 2 1
+Indiana,INDIANA 2 2,Governor,,Scott R. Wagner,REP,205,,,Indiana County,INDIANA 2 2
+Indiana,INDIANA 3 1,Governor,,Scott R. Wagner,REP,54,,,Indiana County,INDIANA 3 1
+Indiana,INDIANA 3 2,Governor,,Scott R. Wagner,REP,153,,,Indiana County,INDIANA 3 2
+Indiana,INDIANA 3 4,Governor,,Scott R. Wagner,REP,107,,,Indiana County,INDIANA 3 4
+Indiana,INDIANA 4,Governor,,Scott R. Wagner,REP,176,,,Indiana County,INDIANA 4
+Indiana,MARION CENTER,Governor,,Scott R. Wagner,REP,107,,,Indiana County,MARION CENTER
+Indiana,MONTGOMERY,Governor,,Scott R. Wagner,REP,312,,,Indiana County,MONTGOMERY
+Indiana,NORTH MAHONING,Governor,,Scott R. Wagner,REP,298,,,Indiana County,NORTH MAHONING
+Indiana,PINE 1,Governor,,Scott R. Wagner,REP,202,,,Indiana County,PINE 1
+Indiana,PINE 2,Governor,,Scott R. Wagner,REP,94,,,Indiana County,PINE 2
+Indiana,PINE 3,Governor,,Scott R. Wagner,REP,104,,,Indiana County,PINE 3
+Indiana,PLUMVILLE,Governor,,Scott R. Wagner,REP,57,,,Indiana County,PLUMVILLE
+Indiana,RAYNE,Governor,,Scott R. Wagner,REP,786,,,Indiana County,RAYNE
+Indiana,SALTSBURG,Governor,,Scott R. Wagner,REP,111,,,Indiana County,SALTSBURG
+Indiana,SHELOCTA,Governor,,Scott R. Wagner,REP,28,,,Indiana County,SHELOCTA
+Indiana,SMICKSBURG,Governor,,Scott R. Wagner,REP,17,,,Indiana County,SMICKSBURG
+Indiana,SOUTH MAHONING 1,Governor,,Scott R. Wagner,REP,346,,,Indiana County,SOUTH MAHONING 1
+Indiana,WASHINGTON,Governor,,Scott R. Wagner,REP,447,,,Indiana County,WASHINGTON
+Indiana,WEST MAHONING,Governor,,Scott R. Wagner,REP,134,,,Indiana County,WEST MAHONING
+Indiana,WEST WHEATFIELD 1,Governor,,Scott R. Wagner,REP,210,,,Indiana County,WEST WHEATFIELD 1
+Indiana,WEST WHEATFIELD 2,Governor,,Scott R. Wagner,REP,246,,,Indiana County,WEST WHEATFIELD 2
+Indiana,WHITE 1,Governor,,Scott R. Wagner,REP,506,,,Indiana County,WHITE 1
+Indiana,WHITE 2,Governor,,Scott R. Wagner,REP,683,,,Indiana County,WHITE 2
+Indiana,WHITE 3 1,Governor,,Scott R. Wagner,REP,377,,,Indiana County,WHITE 3 1
+Indiana,WHITE 3 2,Governor,,Scott R. Wagner,REP,379,,,Indiana County,WHITE 3 2
+Indiana,WHITE 3 3,Governor,,Scott R. Wagner,REP,283,,,Indiana County,WHITE 3 3
+Indiana,WHITE 4,Governor,,Scott R. Wagner,REP,443,,,Indiana County,WHITE 4
+Indiana,WHITE 6,Governor,,Scott R. Wagner,REP,290,,,Indiana County,WHITE 6
+Indiana,YOUNG 1,Governor,,Scott R. Wagner,REP,202,,,Indiana County,YOUNG 1
+Indiana,YOUNG 2,Governor,,Scott R. Wagner,REP,64,,,Indiana County,YOUNG 2
+Indiana,YOUNG 3,Governor,,Scott R. Wagner,REP,99,,,Indiana County,YOUNG 3
+Indiana,ARMAGH,Governor,,Paul Glover,GRE,2,,,Indiana County,ARMAGH
+Indiana,ARMSTRONG 1,Governor,,Paul Glover,GRE,1,,,Indiana County,ARMSTRONG 1
+Indiana,ARMSTRONG 2,Governor,,Paul Glover,GRE,7,,,Indiana County,ARMSTRONG 2
+Indiana,BANKS 1,Governor,,Paul Glover,GRE,0,,,Indiana County,BANKS 1
+Indiana,BLACKLICK,Governor,,Paul Glover,GRE,3,,,Indiana County,BLACKLICK
+Indiana,BLAIRSVILLE 1,Governor,,Paul Glover,GRE,4,,,Indiana County,BLAIRSVILLE 1
+Indiana,BLAIRSVILLE 2,Governor,,Paul Glover,GRE,1,,,Indiana County,BLAIRSVILLE 2
+Indiana,BLAIRSVILLE 3,Governor,,Paul Glover,GRE,1,,,Indiana County,BLAIRSVILLE 3
+Indiana,BRUSH VALLEY,Governor,,Paul Glover,GRE,7,,,Indiana County,BRUSH VALLEY
+Indiana,BUFFINGTON 1,Governor,,Paul Glover,GRE,2,,,Indiana County,BUFFINGTON 1
+Indiana,BUFFINGTON 2,Governor,,Paul Glover,GRE,0,,,Indiana County,BUFFINGTON 2
+Indiana,BURRELL 1,Governor,,Paul Glover,GRE,3,,,Indiana County,BURRELL 1
+Indiana,BURRELL 2,Governor,,Paul Glover,GRE,3,,,Indiana County,BURRELL 2
+Indiana,CANOE,Governor,,Paul Glover,GRE,2,,,Indiana County,CANOE
+Indiana,CENTER 1,Governor,,Paul Glover,GRE,1,,,Indiana County,CENTER 1
+Indiana,CENTER 2,Governor,,Paul Glover,GRE,5,,,Indiana County,CENTER 2
+Indiana,CENTER 3,Governor,,Paul Glover,GRE,3,,,Indiana County,CENTER 3
+Indiana,CHERRY TREE,Governor,,Paul Glover,GRE,1,,,Indiana County,CHERRY TREE
+Indiana,CHERRYHILL 1,Governor,,Paul Glover,GRE,3,,,Indiana County,CHERRYHILL 1
+Indiana,CHERRYHILL 2,Governor,,Paul Glover,GRE,4,,,Indiana County,CHERRYHILL 2
+Indiana,CLYMER 1,Governor,,Paul Glover,GRE,5,,,Indiana County,CLYMER 1
+Indiana,CONEMAUGH 1,Governor,,Paul Glover,GRE,4,,,Indiana County,CONEMAUGH 1
+Indiana,CONEMAUGH 2,Governor,,Paul Glover,GRE,2,,,Indiana County,CONEMAUGH 2
+Indiana,CONEMAUGH 3,Governor,,Paul Glover,GRE,1,,,Indiana County,CONEMAUGH 3
+Indiana,CREEKSIDE,Governor,,Paul Glover,GRE,1,,,Indiana County,CREEKSIDE
+Indiana,EAST MAHONING,Governor,,Paul Glover,GRE,4,,,Indiana County,EAST MAHONING
+Indiana,EAST WHEATFIELD 1,Governor,,Paul Glover,GRE,4,,,Indiana County,EAST WHEATFIELD 1
+Indiana,EAST WHEATFIELD 2,Governor,,Paul Glover,GRE,0,,,Indiana County,EAST WHEATFIELD 2
+Indiana,ERNEST,Governor,,Paul Glover,GRE,1,,,Indiana County,ERNEST
+Indiana,GLEN CAMPBELL,Governor,,Paul Glover,GRE,0,,,Indiana County,GLEN CAMPBELL
+Indiana,GRANT,Governor,,Paul Glover,GRE,1,,,Indiana County,GRANT
+Indiana,GREEN 1,Governor,,Paul Glover,GRE,2,,,Indiana County,GREEN 1
+Indiana,GREEN 2,Governor,,Paul Glover,GRE,1,,,Indiana County,GREEN 2
+Indiana,GREEN 3,Governor,,Paul Glover,GRE,2,,,Indiana County,GREEN 3
+Indiana,HOMER CITY 1,Governor,,Paul Glover,GRE,4,,,Indiana County,HOMER CITY 1
+Indiana,HOMER CITY 2,Governor,,Paul Glover,GRE,2,,,Indiana County,HOMER CITY 2
+Indiana,INDIANA 1,Governor,,Paul Glover,GRE,7,,,Indiana County,INDIANA 1
+Indiana,INDIANA 2 1,Governor,,Paul Glover,GRE,7,,,Indiana County,INDIANA 2 1
+Indiana,INDIANA 2 2,Governor,,Paul Glover,GRE,3,,,Indiana County,INDIANA 2 2
+Indiana,INDIANA 3 1,Governor,,Paul Glover,GRE,13,,,Indiana County,INDIANA 3 1
+Indiana,INDIANA 3 2,Governor,,Paul Glover,GRE,15,,,Indiana County,INDIANA 3 2
+Indiana,INDIANA 3 4,Governor,,Paul Glover,GRE,5,,,Indiana County,INDIANA 3 4
+Indiana,INDIANA 4,Governor,,Paul Glover,GRE,4,,,Indiana County,INDIANA 4
+Indiana,MARION CENTER,Governor,,Paul Glover,GRE,1,,,Indiana County,MARION CENTER
+Indiana,MONTGOMERY,Governor,,Paul Glover,GRE,3,,,Indiana County,MONTGOMERY
+Indiana,NORTH MAHONING,Governor,,Paul Glover,GRE,0,,,Indiana County,NORTH MAHONING
+Indiana,PINE 1,Governor,,Paul Glover,GRE,0,,,Indiana County,PINE 1
+Indiana,PINE 2,Governor,,Paul Glover,GRE,1,,,Indiana County,PINE 2
+Indiana,PINE 3,Governor,,Paul Glover,GRE,1,,,Indiana County,PINE 3
+Indiana,PLUMVILLE,Governor,,Paul Glover,GRE,1,,,Indiana County,PLUMVILLE
+Indiana,RAYNE,Governor,,Paul Glover,GRE,10,,,Indiana County,RAYNE
+Indiana,SALTSBURG,Governor,,Paul Glover,GRE,0,,,Indiana County,SALTSBURG
+Indiana,SHELOCTA,Governor,,Paul Glover,GRE,1,,,Indiana County,SHELOCTA
+Indiana,SMICKSBURG,Governor,,Paul Glover,GRE,0,,,Indiana County,SMICKSBURG
+Indiana,SOUTH MAHONING 1,Governor,,Paul Glover,GRE,3,,,Indiana County,SOUTH MAHONING 1
+Indiana,WASHINGTON,Governor,,Paul Glover,GRE,4,,,Indiana County,WASHINGTON
+Indiana,WEST MAHONING,Governor,,Paul Glover,GRE,3,,,Indiana County,WEST MAHONING
+Indiana,WEST WHEATFIELD 1,Governor,,Paul Glover,GRE,4,,,Indiana County,WEST WHEATFIELD 1
+Indiana,WEST WHEATFIELD 2,Governor,,Paul Glover,GRE,2,,,Indiana County,WEST WHEATFIELD 2
+Indiana,WHITE 1,Governor,,Paul Glover,GRE,0,,,Indiana County,WHITE 1
+Indiana,WHITE 2,Governor,,Paul Glover,GRE,7,,,Indiana County,WHITE 2
+Indiana,WHITE 3 1,Governor,,Paul Glover,GRE,4,,,Indiana County,WHITE 3 1
+Indiana,WHITE 3 2,Governor,,Paul Glover,GRE,8,,,Indiana County,WHITE 3 2
+Indiana,WHITE 3 3,Governor,,Paul Glover,GRE,4,,,Indiana County,WHITE 3 3
+Indiana,WHITE 4,Governor,,Paul Glover,GRE,6,,,Indiana County,WHITE 4
+Indiana,WHITE 6,Governor,,Paul Glover,GRE,4,,,Indiana County,WHITE 6
+Indiana,YOUNG 1,Governor,,Paul Glover,GRE,4,,,Indiana County,YOUNG 1
+Indiana,YOUNG 2,Governor,,Paul Glover,GRE,1,,,Indiana County,YOUNG 2
+Indiana,YOUNG 3,Governor,,Paul Glover,GRE,0,,,Indiana County,YOUNG 3
+Indiana,ARMAGH,Governor,,Ken V. Krawchuk,LIB,1,,,Indiana County,ARMAGH
+Indiana,ARMSTRONG 1,Governor,,Ken V. Krawchuk,LIB,3,,,Indiana County,ARMSTRONG 1
+Indiana,ARMSTRONG 2,Governor,,Ken V. Krawchuk,LIB,9,,,Indiana County,ARMSTRONG 2
+Indiana,BANKS 1,Governor,,Ken V. Krawchuk,LIB,3,,,Indiana County,BANKS 1
+Indiana,BLACKLICK,Governor,,Ken V. Krawchuk,LIB,2,,,Indiana County,BLACKLICK
+Indiana,BLAIRSVILLE 1,Governor,,Ken V. Krawchuk,LIB,9,,,Indiana County,BLAIRSVILLE 1
+Indiana,BLAIRSVILLE 2,Governor,,Ken V. Krawchuk,LIB,2,,,Indiana County,BLAIRSVILLE 2
+Indiana,BLAIRSVILLE 3,Governor,,Ken V. Krawchuk,LIB,7,,,Indiana County,BLAIRSVILLE 3
+Indiana,BRUSH VALLEY,Governor,,Ken V. Krawchuk,LIB,8,,,Indiana County,BRUSH VALLEY
+Indiana,BUFFINGTON 1,Governor,,Ken V. Krawchuk,LIB,3,,,Indiana County,BUFFINGTON 1
+Indiana,BUFFINGTON 2,Governor,,Ken V. Krawchuk,LIB,2,,,Indiana County,BUFFINGTON 2
+Indiana,BURRELL 1,Governor,,Ken V. Krawchuk,LIB,6,,,Indiana County,BURRELL 1
+Indiana,BURRELL 2,Governor,,Ken V. Krawchuk,LIB,7,,,Indiana County,BURRELL 2
+Indiana,CANOE,Governor,,Ken V. Krawchuk,LIB,2,,,Indiana County,CANOE
+Indiana,CENTER 1,Governor,,Ken V. Krawchuk,LIB,6,,,Indiana County,CENTER 1
+Indiana,CENTER 2,Governor,,Ken V. Krawchuk,LIB,2,,,Indiana County,CENTER 2
+Indiana,CENTER 3,Governor,,Ken V. Krawchuk,LIB,8,,,Indiana County,CENTER 3
+Indiana,CHERRY TREE,Governor,,Ken V. Krawchuk,LIB,1,,,Indiana County,CHERRY TREE
+Indiana,CHERRYHILL 1,Governor,,Ken V. Krawchuk,LIB,2,,,Indiana County,CHERRYHILL 1
+Indiana,CHERRYHILL 2,Governor,,Ken V. Krawchuk,LIB,4,,,Indiana County,CHERRYHILL 2
+Indiana,CLYMER 1,Governor,,Ken V. Krawchuk,LIB,4,,,Indiana County,CLYMER 1
+Indiana,CONEMAUGH 1,Governor,,Ken V. Krawchuk,LIB,1,,,Indiana County,CONEMAUGH 1
+Indiana,CONEMAUGH 2,Governor,,Ken V. Krawchuk,LIB,4,,,Indiana County,CONEMAUGH 2
+Indiana,CONEMAUGH 3,Governor,,Ken V. Krawchuk,LIB,3,,,Indiana County,CONEMAUGH 3
+Indiana,CREEKSIDE,Governor,,Ken V. Krawchuk,LIB,0,,,Indiana County,CREEKSIDE
+Indiana,EAST MAHONING,Governor,,Ken V. Krawchuk,LIB,4,,,Indiana County,EAST MAHONING
+Indiana,EAST WHEATFIELD 1,Governor,,Ken V. Krawchuk,LIB,5,,,Indiana County,EAST WHEATFIELD 1
+Indiana,EAST WHEATFIELD 2,Governor,,Ken V. Krawchuk,LIB,5,,,Indiana County,EAST WHEATFIELD 2
+Indiana,ERNEST,Governor,,Ken V. Krawchuk,LIB,3,,,Indiana County,ERNEST
+Indiana,GLEN CAMPBELL,Governor,,Ken V. Krawchuk,LIB,1,,,Indiana County,GLEN CAMPBELL
+Indiana,GRANT,Governor,,Ken V. Krawchuk,LIB,3,,,Indiana County,GRANT
+Indiana,GREEN 1,Governor,,Ken V. Krawchuk,LIB,3,,,Indiana County,GREEN 1
+Indiana,GREEN 2,Governor,,Ken V. Krawchuk,LIB,8,,,Indiana County,GREEN 2
+Indiana,GREEN 3,Governor,,Ken V. Krawchuk,LIB,0,,,Indiana County,GREEN 3
+Indiana,HOMER CITY 1,Governor,,Ken V. Krawchuk,LIB,3,,,Indiana County,HOMER CITY 1
+Indiana,HOMER CITY 2,Governor,,Ken V. Krawchuk,LIB,2,,,Indiana County,HOMER CITY 2
+Indiana,INDIANA 1,Governor,,Ken V. Krawchuk,LIB,6,,,Indiana County,INDIANA 1
+Indiana,INDIANA 2 1,Governor,,Ken V. Krawchuk,LIB,11,,,Indiana County,INDIANA 2 1
+Indiana,INDIANA 2 2,Governor,,Ken V. Krawchuk,LIB,9,,,Indiana County,INDIANA 2 2
+Indiana,INDIANA 3 1,Governor,,Ken V. Krawchuk,LIB,6,,,Indiana County,INDIANA 3 1
+Indiana,INDIANA 3 2,Governor,,Ken V. Krawchuk,LIB,9,,,Indiana County,INDIANA 3 2
+Indiana,INDIANA 3 4,Governor,,Ken V. Krawchuk,LIB,3,,,Indiana County,INDIANA 3 4
+Indiana,INDIANA 4,Governor,,Ken V. Krawchuk,LIB,5,,,Indiana County,INDIANA 4
+Indiana,MARION CENTER,Governor,,Ken V. Krawchuk,LIB,2,,,Indiana County,MARION CENTER
+Indiana,MONTGOMERY,Governor,,Ken V. Krawchuk,LIB,4,,,Indiana County,MONTGOMERY
+Indiana,NORTH MAHONING,Governor,,Ken V. Krawchuk,LIB,5,,,Indiana County,NORTH MAHONING
+Indiana,PINE 1,Governor,,Ken V. Krawchuk,LIB,5,,,Indiana County,PINE 1
+Indiana,PINE 2,Governor,,Ken V. Krawchuk,LIB,1,,,Indiana County,PINE 2
+Indiana,PINE 3,Governor,,Ken V. Krawchuk,LIB,0,,,Indiana County,PINE 3
+Indiana,PLUMVILLE,Governor,,Ken V. Krawchuk,LIB,4,,,Indiana County,PLUMVILLE
+Indiana,RAYNE,Governor,,Ken V. Krawchuk,LIB,9,,,Indiana County,RAYNE
+Indiana,SALTSBURG,Governor,,Ken V. Krawchuk,LIB,3,,,Indiana County,SALTSBURG
+Indiana,SHELOCTA,Governor,,Ken V. Krawchuk,LIB,0,,,Indiana County,SHELOCTA
+Indiana,SMICKSBURG,Governor,,Ken V. Krawchuk,LIB,0,,,Indiana County,SMICKSBURG
+Indiana,SOUTH MAHONING 1,Governor,,Ken V. Krawchuk,LIB,4,,,Indiana County,SOUTH MAHONING 1
+Indiana,WASHINGTON,Governor,,Ken V. Krawchuk,LIB,3,,,Indiana County,WASHINGTON
+Indiana,WEST MAHONING,Governor,,Ken V. Krawchuk,LIB,0,,,Indiana County,WEST MAHONING
+Indiana,WEST WHEATFIELD 1,Governor,,Ken V. Krawchuk,LIB,2,,,Indiana County,WEST WHEATFIELD 1
+Indiana,WEST WHEATFIELD 2,Governor,,Ken V. Krawchuk,LIB,3,,,Indiana County,WEST WHEATFIELD 2
+Indiana,WHITE 1,Governor,,Ken V. Krawchuk,LIB,7,,,Indiana County,WHITE 1
+Indiana,WHITE 2,Governor,,Ken V. Krawchuk,LIB,13,,,Indiana County,WHITE 2
+Indiana,WHITE 3 1,Governor,,Ken V. Krawchuk,LIB,9,,,Indiana County,WHITE 3 1
+Indiana,WHITE 3 2,Governor,,Ken V. Krawchuk,LIB,9,,,Indiana County,WHITE 3 2
+Indiana,WHITE 3 3,Governor,,Ken V. Krawchuk,LIB,7,,,Indiana County,WHITE 3 3
+Indiana,WHITE 4,Governor,,Ken V. Krawchuk,LIB,6,,,Indiana County,WHITE 4
+Indiana,WHITE 6,Governor,,Ken V. Krawchuk,LIB,2,,,Indiana County,WHITE 6
+Indiana,YOUNG 1,Governor,,Ken V. Krawchuk,LIB,3,,,Indiana County,YOUNG 1
+Indiana,YOUNG 2,Governor,,Ken V. Krawchuk,LIB,0,,,Indiana County,YOUNG 2
+Indiana,YOUNG 3,Governor,,Ken V. Krawchuk,LIB,3,,,Indiana County,YOUNG 3
+Indiana,ARMAGH,U.S. House,15.0,Susan Boser,DEM,9,,,Indiana County,ARMAGH
+Indiana,ARMSTRONG 1,U.S. House,15.0,Susan Boser,DEM,106,,,Indiana County,ARMSTRONG 1
+Indiana,ARMSTRONG 2,U.S. House,15.0,Susan Boser,DEM,224,,,Indiana County,ARMSTRONG 2
+Indiana,BANKS 1,U.S. House,15.0,Susan Boser,DEM,50,,,Indiana County,BANKS 1
+Indiana,BLACKLICK,U.S. House,15.0,Susan Boser,DEM,153,,,Indiana County,BLACKLICK
+Indiana,BLAIRSVILLE 1,U.S. House,15.0,Susan Boser,DEM,182,,,Indiana County,BLAIRSVILLE 1
+Indiana,BLAIRSVILLE 2,U.S. House,15.0,Susan Boser,DEM,176,,,Indiana County,BLAIRSVILLE 2
+Indiana,BLAIRSVILLE 3,U.S. House,15.0,Susan Boser,DEM,216,,,Indiana County,BLAIRSVILLE 3
+Indiana,BRUSH VALLEY,U.S. House,15.0,Susan Boser,DEM,196,,,Indiana County,BRUSH VALLEY
+Indiana,BUFFINGTON 1,U.S. House,15.0,Susan Boser,DEM,99,,,Indiana County,BUFFINGTON 1
+Indiana,BUFFINGTON 2,U.S. House,15.0,Susan Boser,DEM,29,,,Indiana County,BUFFINGTON 2
+Indiana,BURRELL 1,U.S. House,15.0,Susan Boser,DEM,194,,,Indiana County,BURRELL 1
+Indiana,BURRELL 2,U.S. House,15.0,Susan Boser,DEM,260,,,Indiana County,BURRELL 2
+Indiana,CANOE,U.S. House,15.0,Susan Boser,DEM,102,,,Indiana County,CANOE
+Indiana,CENTER 1,U.S. House,15.0,Susan Boser,DEM,171,,,Indiana County,CENTER 1
+Indiana,CENTER 2,U.S. House,15.0,Susan Boser,DEM,225,,,Indiana County,CENTER 2
+Indiana,CENTER 3,U.S. House,15.0,Susan Boser,DEM,420,,,Indiana County,CENTER 3
+Indiana,CHERRY TREE,U.S. House,15.0,Susan Boser,DEM,25,,,Indiana County,CHERRY TREE
+Indiana,CHERRYHILL 1,U.S. House,15.0,Susan Boser,DEM,207,,,Indiana County,CHERRYHILL 1
+Indiana,CHERRYHILL 2,U.S. House,15.0,Susan Boser,DEM,105,,,Indiana County,CHERRYHILL 2
+Indiana,CLYMER 1,U.S. House,15.0,Susan Boser,DEM,155,,,Indiana County,CLYMER 1
+Indiana,CONEMAUGH 1,U.S. House,15.0,Susan Boser,DEM,58,,,Indiana County,CONEMAUGH 1
+Indiana,CONEMAUGH 2,U.S. House,15.0,Susan Boser,DEM,129,,,Indiana County,CONEMAUGH 2
+Indiana,CONEMAUGH 3,U.S. House,15.0,Susan Boser,DEM,89,,,Indiana County,CONEMAUGH 3
+Indiana,CREEKSIDE,U.S. House,15.0,Susan Boser,DEM,45,,,Indiana County,CREEKSIDE
+Indiana,EAST MAHONING,U.S. House,15.0,Susan Boser,DEM,74,,,Indiana County,EAST MAHONING
+Indiana,EAST WHEATFIELD 1,U.S. House,15.0,Susan Boser,DEM,169,,,Indiana County,EAST WHEATFIELD 1
+Indiana,EAST WHEATFIELD 2,U.S. House,15.0,Susan Boser,DEM,102,,,Indiana County,EAST WHEATFIELD 2
+Indiana,ERNEST,U.S. House,15.0,Susan Boser,DEM,49,,,Indiana County,ERNEST
+Indiana,GLEN CAMPBELL,U.S. House,15.0,Susan Boser,DEM,30,,,Indiana County,GLEN CAMPBELL
+Indiana,GRANT,U.S. House,15.0,Susan Boser,DEM,61,,,Indiana County,GRANT
+Indiana,GREEN 1,U.S. House,15.0,Susan Boser,DEM,111,,,Indiana County,GREEN 1
+Indiana,GREEN 2,U.S. House,15.0,Susan Boser,DEM,123,,,Indiana County,GREEN 2
+Indiana,GREEN 3,U.S. House,15.0,Susan Boser,DEM,50,,,Indiana County,GREEN 3
+Indiana,HOMER CITY 1,U.S. House,15.0,Susan Boser,DEM,207,,,Indiana County,HOMER CITY 1
+Indiana,HOMER CITY 2,U.S. House,15.0,Susan Boser,DEM,114,,,Indiana County,HOMER CITY 2
+Indiana,INDIANA 1,U.S. House,15.0,Susan Boser,DEM,393,,,Indiana County,INDIANA 1
+Indiana,INDIANA 2 1,U.S. House,15.0,Susan Boser,DEM,218,,,Indiana County,INDIANA 2 1
+Indiana,INDIANA 2 2,U.S. House,15.0,Susan Boser,DEM,334,,,Indiana County,INDIANA 2 2
+Indiana,INDIANA 3 1,U.S. House,15.0,Susan Boser,DEM,262,,,Indiana County,INDIANA 3 1
+Indiana,INDIANA 3 2,U.S. House,15.0,Susan Boser,DEM,433,,,Indiana County,INDIANA 3 2
+Indiana,INDIANA 3 4,U.S. House,15.0,Susan Boser,DEM,194,,,Indiana County,INDIANA 3 4
+Indiana,INDIANA 4,U.S. House,15.0,Susan Boser,DEM,322,,,Indiana County,INDIANA 4
+Indiana,MARION CENTER,U.S. House,15.0,Susan Boser,DEM,37,,,Indiana County,MARION CENTER
+Indiana,MONTGOMERY,U.S. House,15.0,Susan Boser,DEM,156,,,Indiana County,MONTGOMERY
+Indiana,NORTH MAHONING,U.S. House,15.0,Susan Boser,DEM,67,,,Indiana County,NORTH MAHONING
+Indiana,PINE 1,U.S. House,15.0,Susan Boser,DEM,75,,,Indiana County,PINE 1
+Indiana,PINE 2,U.S. House,15.0,Susan Boser,DEM,75,,,Indiana County,PINE 2
+Indiana,PINE 3,U.S. House,15.0,Susan Boser,DEM,63,,,Indiana County,PINE 3
+Indiana,PLUMVILLE,U.S. House,15.0,Susan Boser,DEM,27,,,Indiana County,PLUMVILLE
+Indiana,RAYNE,U.S. House,15.0,Susan Boser,DEM,310,,,Indiana County,RAYNE
+Indiana,SALTSBURG,U.S. House,15.0,Susan Boser,DEM,119,,,Indiana County,SALTSBURG
+Indiana,SHELOCTA,U.S. House,15.0,Susan Boser,DEM,5,,,Indiana County,SHELOCTA
+Indiana,SMICKSBURG,U.S. House,15.0,Susan Boser,DEM,4,,,Indiana County,SMICKSBURG
+Indiana,SOUTH MAHONING 1,U.S. House,15.0,Susan Boser,DEM,123,,,Indiana County,SOUTH MAHONING 1
+Indiana,WASHINGTON,U.S. House,15.0,Susan Boser,DEM,156,,,Indiana County,WASHINGTON
+Indiana,WEST MAHONING,U.S. House,15.0,Susan Boser,DEM,23,,,Indiana County,WEST MAHONING
+Indiana,WEST WHEATFIELD 1,U.S. House,15.0,Susan Boser,DEM,133,,,Indiana County,WEST WHEATFIELD 1
+Indiana,WEST WHEATFIELD 2,U.S. House,15.0,Susan Boser,DEM,118,,,Indiana County,WEST WHEATFIELD 2
+Indiana,WHITE 1,U.S. House,15.0,Susan Boser,DEM,354,,,Indiana County,WHITE 1
+Indiana,WHITE 2,U.S. House,15.0,Susan Boser,DEM,544,,,Indiana County,WHITE 2
+Indiana,WHITE 3 1,U.S. House,15.0,Susan Boser,DEM,360,,,Indiana County,WHITE 3 1
+Indiana,WHITE 3 2,U.S. House,15.0,Susan Boser,DEM,384,,,Indiana County,WHITE 3 2
+Indiana,WHITE 3 3,U.S. House,15.0,Susan Boser,DEM,366,,,Indiana County,WHITE 3 3
+Indiana,WHITE 4,U.S. House,15.0,Susan Boser,DEM,403,,,Indiana County,WHITE 4
+Indiana,WHITE 6,U.S. House,15.0,Susan Boser,DEM,243,,,Indiana County,WHITE 6
+Indiana,YOUNG 1,U.S. House,15.0,Susan Boser,DEM,106,,,Indiana County,YOUNG 1
+Indiana,YOUNG 2,U.S. House,15.0,Susan Boser,DEM,35,,,Indiana County,YOUNG 2
+Indiana,YOUNG 3,U.S. House,15.0,Susan Boser,DEM,54,,,Indiana County,YOUNG 3
+Indiana,ARMAGH,U.S. House,15.0,Glenn Thompson,REP,32,,,Indiana County,ARMAGH
+Indiana,ARMSTRONG 1,U.S. House,15.0,Glenn Thompson,REP,243,,,Indiana County,ARMSTRONG 1
+Indiana,ARMSTRONG 2,U.S. House,15.0,Glenn Thompson,REP,646,,,Indiana County,ARMSTRONG 2
+Indiana,BANKS 1,U.S. House,15.0,Glenn Thompson,REP,237,,,Indiana County,BANKS 1
+Indiana,BLACKLICK,U.S. House,15.0,Glenn Thompson,REP,370,,,Indiana County,BLACKLICK
+Indiana,BLAIRSVILLE 1,U.S. House,15.0,Glenn Thompson,REP,226,,,Indiana County,BLAIRSVILLE 1
+Indiana,BLAIRSVILLE 2,U.S. House,15.0,Glenn Thompson,REP,225,,,Indiana County,BLAIRSVILLE 2
+Indiana,BLAIRSVILLE 3,U.S. House,15.0,Glenn Thompson,REP,217,,,Indiana County,BLAIRSVILLE 3
+Indiana,BRUSH VALLEY,U.S. House,15.0,Glenn Thompson,REP,473,,,Indiana County,BRUSH VALLEY
+Indiana,BUFFINGTON 1,U.S. House,15.0,Glenn Thompson,REP,267,,,Indiana County,BUFFINGTON 1
+Indiana,BUFFINGTON 2,U.S. House,15.0,Glenn Thompson,REP,87,,,Indiana County,BUFFINGTON 2
+Indiana,BURRELL 1,U.S. House,15.0,Glenn Thompson,REP,281,,,Indiana County,BURRELL 1
+Indiana,BURRELL 2,U.S. House,15.0,Glenn Thompson,REP,477,,,Indiana County,BURRELL 2
+Indiana,CANOE,U.S. House,15.0,Glenn Thompson,REP,334,,,Indiana County,CANOE
+Indiana,CENTER 1,U.S. House,15.0,Glenn Thompson,REP,326,,,Indiana County,CENTER 1
+Indiana,CENTER 2,U.S. House,15.0,Glenn Thompson,REP,229,,,Indiana County,CENTER 2
+Indiana,CENTER 3,U.S. House,15.0,Glenn Thompson,REP,437,,,Indiana County,CENTER 3
+Indiana,CHERRY TREE,U.S. House,15.0,Glenn Thompson,REP,78,,,Indiana County,CHERRY TREE
+Indiana,CHERRYHILL 1,U.S. House,15.0,Glenn Thompson,REP,509,,,Indiana County,CHERRYHILL 1
+Indiana,CHERRYHILL 2,U.S. House,15.0,Glenn Thompson,REP,235,,,Indiana County,CHERRYHILL 2
+Indiana,CLYMER 1,U.S. House,15.0,Glenn Thompson,REP,261,,,Indiana County,CLYMER 1
+Indiana,CONEMAUGH 1,U.S. House,15.0,Glenn Thompson,REP,98,,,Indiana County,CONEMAUGH 1
+Indiana,CONEMAUGH 2,U.S. House,15.0,Glenn Thompson,REP,263,,,Indiana County,CONEMAUGH 2
+Indiana,CONEMAUGH 3,U.S. House,15.0,Glenn Thompson,REP,148,,,Indiana County,CONEMAUGH 3
+Indiana,CREEKSIDE,U.S. House,15.0,Glenn Thompson,REP,52,,,Indiana County,CREEKSIDE
+Indiana,EAST MAHONING,U.S. House,15.0,Glenn Thompson,REP,295,,,Indiana County,EAST MAHONING
+Indiana,EAST WHEATFIELD 1,U.S. House,15.0,Glenn Thompson,REP,340,,,Indiana County,EAST WHEATFIELD 1
+Indiana,EAST WHEATFIELD 2,U.S. House,15.0,Glenn Thompson,REP,213,,,Indiana County,EAST WHEATFIELD 2
+Indiana,ERNEST,U.S. House,15.0,Glenn Thompson,REP,63,,,Indiana County,ERNEST
+Indiana,GLEN CAMPBELL,U.S. House,15.0,Glenn Thompson,REP,44,,,Indiana County,GLEN CAMPBELL
+Indiana,GRANT,U.S. House,15.0,Glenn Thompson,REP,197,,,Indiana County,GRANT
+Indiana,GREEN 1,U.S. House,15.0,Glenn Thompson,REP,415,,,Indiana County,GREEN 1
+Indiana,GREEN 2,U.S. House,15.0,Glenn Thompson,REP,377,,,Indiana County,GREEN 2
+Indiana,GREEN 3,U.S. House,15.0,Glenn Thompson,REP,149,,,Indiana County,GREEN 3
+Indiana,HOMER CITY 1,U.S. House,15.0,Glenn Thompson,REP,194,,,Indiana County,HOMER CITY 1
+Indiana,HOMER CITY 2,U.S. House,15.0,Glenn Thompson,REP,114,,,Indiana County,HOMER CITY 2
+Indiana,INDIANA 1,U.S. House,15.0,Glenn Thompson,REP,282,,,Indiana County,INDIANA 1
+Indiana,INDIANA 2 1,U.S. House,15.0,Glenn Thompson,REP,157,,,Indiana County,INDIANA 2 1
+Indiana,INDIANA 2 2,U.S. House,15.0,Glenn Thompson,REP,253,,,Indiana County,INDIANA 2 2
+Indiana,INDIANA 3 1,U.S. House,15.0,Glenn Thompson,REP,67,,,Indiana County,INDIANA 3 1
+Indiana,INDIANA 3 2,U.S. House,15.0,Glenn Thompson,REP,163,,,Indiana County,INDIANA 3 2
+Indiana,INDIANA 3 4,U.S. House,15.0,Glenn Thompson,REP,139,,,Indiana County,INDIANA 3 4
+Indiana,INDIANA 4,U.S. House,15.0,Glenn Thompson,REP,206,,,Indiana County,INDIANA 4
+Indiana,MARION CENTER,U.S. House,15.0,Glenn Thompson,REP,119,,,Indiana County,MARION CENTER
+Indiana,MONTGOMERY,U.S. House,15.0,Glenn Thompson,REP,324,,,Indiana County,MONTGOMERY
+Indiana,NORTH MAHONING,U.S. House,15.0,Glenn Thompson,REP,319,,,Indiana County,NORTH MAHONING
+Indiana,PINE 1,U.S. House,15.0,Glenn Thompson,REP,225,,,Indiana County,PINE 1
+Indiana,PINE 2,U.S. House,15.0,Glenn Thompson,REP,97,,,Indiana County,PINE 2
+Indiana,PINE 3,U.S. House,15.0,Glenn Thompson,REP,101,,,Indiana County,PINE 3
+Indiana,PLUMVILLE,U.S. House,15.0,Glenn Thompson,REP,61,,,Indiana County,PLUMVILLE
+Indiana,RAYNE,U.S. House,15.0,Glenn Thompson,REP,847,,,Indiana County,RAYNE
+Indiana,SALTSBURG,U.S. House,15.0,Glenn Thompson,REP,138,,,Indiana County,SALTSBURG
+Indiana,SHELOCTA,U.S. House,15.0,Glenn Thompson,REP,28,,,Indiana County,SHELOCTA
+Indiana,SMICKSBURG,U.S. House,15.0,Glenn Thompson,REP,17,,,Indiana County,SMICKSBURG
+Indiana,SOUTH MAHONING 1,U.S. House,15.0,Glenn Thompson,REP,360,,,Indiana County,SOUTH MAHONING 1
+Indiana,WASHINGTON,U.S. House,15.0,Glenn Thompson,REP,486,,,Indiana County,WASHINGTON
+Indiana,WEST MAHONING,U.S. House,15.0,Glenn Thompson,REP,141,,,Indiana County,WEST MAHONING
+Indiana,WEST WHEATFIELD 1,U.S. House,15.0,Glenn Thompson,REP,251,,,Indiana County,WEST WHEATFIELD 1
+Indiana,WEST WHEATFIELD 2,U.S. House,15.0,Glenn Thompson,REP,281,,,Indiana County,WEST WHEATFIELD 2
+Indiana,WHITE 1,U.S. House,15.0,Glenn Thompson,REP,580,,,Indiana County,WHITE 1
+Indiana,WHITE 2,U.S. House,15.0,Glenn Thompson,REP,788,,,Indiana County,WHITE 2
+Indiana,WHITE 3 1,U.S. House,15.0,Glenn Thompson,REP,454,,,Indiana County,WHITE 3 1
+Indiana,WHITE 3 2,U.S. House,15.0,Glenn Thompson,REP,433,,,Indiana County,WHITE 3 2
+Indiana,WHITE 3 3,U.S. House,15.0,Glenn Thompson,REP,333,,,Indiana County,WHITE 3 3
+Indiana,WHITE 4,U.S. House,15.0,Glenn Thompson,REP,513,,,Indiana County,WHITE 4
+Indiana,WHITE 6,U.S. House,15.0,Glenn Thompson,REP,357,,,Indiana County,WHITE 6
+Indiana,YOUNG 1,U.S. House,15.0,Glenn Thompson,REP,212,,,Indiana County,YOUNG 1
+Indiana,YOUNG 2,U.S. House,15.0,Glenn Thompson,REP,65,,,Indiana County,YOUNG 2
+Indiana,YOUNG 3,U.S. House,15.0,Glenn Thompson,REP,104,,,Indiana County,YOUNG 3
+Indiana,SALTSBURG,State House,55.0,Joseph A. Petrarca,REP,182,,,Indiana County,SALTSBURG
+Indiana,BLACKLICK,State House,60.0,Jeff Pyle,REP,408,,,Indiana County,BLACKLICK
+Indiana,CONEMAUGH 1,State House,60.0,Jeff Pyle,REP,110,,,Indiana County,CONEMAUGH 1
+Indiana,CONEMAUGH 2,State House,60.0,Jeff Pyle,REP,327,,,Indiana County,CONEMAUGH 2
+Indiana,CONEMAUGH 3,State House,60.0,Jeff Pyle,REP,184,,,Indiana County,CONEMAUGH 3
+Indiana,YOUNG 1,State House,60.0,Jeff Pyle,REP,242,,,Indiana County,YOUNG 1
+Indiana,YOUNG 2,State House,60.0,Jeff Pyle,REP,71,,,Indiana County,YOUNG 2
+Indiana,YOUNG 3,State House,60.0,Jeff Pyle,REP,130,,,Indiana County,YOUNG 3
+Indiana,ARMAGH,State House,62.0,Logan Dellafiora,DEM,11,,,Indiana County,ARMAGH
+Indiana,ARMSTRONG 1,State House,62.0,Logan Dellafiora,DEM,94,,,Indiana County,ARMSTRONG 1
+Indiana,ARMSTRONG 2,State House,62.0,Logan Dellafiora,DEM,214,,,Indiana County,ARMSTRONG 2
+Indiana,BLAIRSVILLE 1,State House,62.0,Logan Dellafiora,DEM,179,,,Indiana County,BLAIRSVILLE 1
+Indiana,BLAIRSVILLE 2,State House,62.0,Logan Dellafiora,DEM,173,,,Indiana County,BLAIRSVILLE 2
+Indiana,BLAIRSVILLE 3,State House,62.0,Logan Dellafiora,DEM,220,,,Indiana County,BLAIRSVILLE 3
+Indiana,BRUSH VALLEY,State House,62.0,Logan Dellafiora,DEM,225,,,Indiana County,BRUSH VALLEY
+Indiana,BUFFINGTON 1,State House,62.0,Logan Dellafiora,DEM,98,,,Indiana County,BUFFINGTON 1
+Indiana,BUFFINGTON 2,State House,62.0,Logan Dellafiora,DEM,28,,,Indiana County,BUFFINGTON 2
+Indiana,BURRELL 1,State House,62.0,Logan Dellafiora,DEM,207,,,Indiana County,BURRELL 1
+Indiana,BURRELL 2,State House,62.0,Logan Dellafiora,DEM,284,,,Indiana County,BURRELL 2
+Indiana,CENTER 1,State House,62.0,Logan Dellafiora,DEM,197,,,Indiana County,CENTER 1
+Indiana,CENTER 2,State House,62.0,Logan Dellafiora,DEM,251,,,Indiana County,CENTER 2
+Indiana,CENTER 3,State House,62.0,Logan Dellafiora,DEM,442,,,Indiana County,CENTER 3
+Indiana,CHERRYHILL 1,State House,62.0,Logan Dellafiora,DEM,221,,,Indiana County,CHERRYHILL 1
+Indiana,CHERRYHILL 2,State House,62.0,Logan Dellafiora,DEM,91,,,Indiana County,CHERRYHILL 2
+Indiana,CLYMER 1,State House,62.0,Logan Dellafiora,DEM,156,,,Indiana County,CLYMER 1
+Indiana,CREEKSIDE,State House,62.0,Logan Dellafiora,DEM,44,,,Indiana County,CREEKSIDE
+Indiana,EAST WHEATFIELD 1,State House,62.0,Logan Dellafiora,DEM,163,,,Indiana County,EAST WHEATFIELD 1
+Indiana,EAST WHEATFIELD 2,State House,62.0,Logan Dellafiora,DEM,91,,,Indiana County,EAST WHEATFIELD 2
+Indiana,HOMER CITY 1,State House,62.0,Logan Dellafiora,DEM,216,,,Indiana County,HOMER CITY 1
+Indiana,HOMER CITY 2,State House,62.0,Logan Dellafiora,DEM,110,,,Indiana County,HOMER CITY 2
+Indiana,INDIANA 1,State House,62.0,Logan Dellafiora,DEM,353,,,Indiana County,INDIANA 1
+Indiana,INDIANA 2 1,State House,62.0,Logan Dellafiora,DEM,201,,,Indiana County,INDIANA 2 1
+Indiana,INDIANA 2 2,State House,62.0,Logan Dellafiora,DEM,321,,,Indiana County,INDIANA 2 2
+Indiana,INDIANA 3 1,State House,62.0,Logan Dellafiora,DEM,265,,,Indiana County,INDIANA 3 1
+Indiana,INDIANA 3 2,State House,62.0,Logan Dellafiora,DEM,419,,,Indiana County,INDIANA 3 2
+Indiana,INDIANA 3 4,State House,62.0,Logan Dellafiora,DEM,184,,,Indiana County,INDIANA 3 4
+Indiana,INDIANA 4,State House,62.0,Logan Dellafiora,DEM,302,,,Indiana County,INDIANA 4
+Indiana,PINE 1,State House,62.0,Logan Dellafiora,DEM,69,,,Indiana County,PINE 1
+Indiana,PINE 2,State House,62.0,Logan Dellafiora,DEM,78,,,Indiana County,PINE 2
+Indiana,PINE 3,State House,62.0,Logan Dellafiora,DEM,65,,,Indiana County,PINE 3
+Indiana,SHELOCTA,State House,62.0,Logan Dellafiora,DEM,5,,,Indiana County,SHELOCTA
+Indiana,WASHINGTON,State House,62.0,Logan Dellafiora,DEM,146,,,Indiana County,WASHINGTON
+Indiana,WEST WHEATFIELD 1,State House,62.0,Logan Dellafiora,DEM,133,,,Indiana County,WEST WHEATFIELD 1
+Indiana,WEST WHEATFIELD 2,State House,62.0,Logan Dellafiora,DEM,129,,,Indiana County,WEST WHEATFIELD 2
+Indiana,WHITE 1,State House,62.0,Logan Dellafiora,DEM,319,,,Indiana County,WHITE 1
+Indiana,WHITE 2,State House,62.0,Logan Dellafiora,DEM,484,,,Indiana County,WHITE 2
+Indiana,WHITE 3 1,State House,62.0,Logan Dellafiora,DEM,335,,,Indiana County,WHITE 3 1
+Indiana,WHITE 3 2,State House,62.0,Logan Dellafiora,DEM,372,,,Indiana County,WHITE 3 2
+Indiana,WHITE 3 3,State House,62.0,Logan Dellafiora,DEM,363,,,Indiana County,WHITE 3 3
+Indiana,WHITE 4,State House,62.0,Logan Dellafiora,DEM,369,,,Indiana County,WHITE 4
+Indiana,WHITE 6,State House,62.0,Logan Dellafiora,DEM,231,,,Indiana County,WHITE 6
+Indiana,ARMAGH,State House,62.0,Jim Struzzi,REP,29,,,Indiana County,ARMAGH
+Indiana,ARMSTRONG 1,State House,62.0,Jim Struzzi,REP,252,,,Indiana County,ARMSTRONG 1
+Indiana,ARMSTRONG 2,State House,62.0,Jim Struzzi,REP,658,,,Indiana County,ARMSTRONG 2
+Indiana,BLAIRSVILLE 1,State House,62.0,Jim Struzzi,REP,227,,,Indiana County,BLAIRSVILLE 1
+Indiana,BLAIRSVILLE 2,State House,62.0,Jim Struzzi,REP,220,,,Indiana County,BLAIRSVILLE 2
+Indiana,BLAIRSVILLE 3,State House,62.0,Jim Struzzi,REP,214,,,Indiana County,BLAIRSVILLE 3
+Indiana,BRUSH VALLEY,State House,62.0,Jim Struzzi,REP,435,,,Indiana County,BRUSH VALLEY
+Indiana,BUFFINGTON 1,State House,62.0,Jim Struzzi,REP,269,,,Indiana County,BUFFINGTON 1
+Indiana,BUFFINGTON 2,State House,62.0,Jim Struzzi,REP,88,,,Indiana County,BUFFINGTON 2
+Indiana,BURRELL 1,State House,62.0,Jim Struzzi,REP,264,,,Indiana County,BURRELL 1
+Indiana,BURRELL 2,State House,62.0,Jim Struzzi,REP,454,,,Indiana County,BURRELL 2
+Indiana,CENTER 1,State House,62.0,Jim Struzzi,REP,302,,,Indiana County,CENTER 1
+Indiana,CENTER 2,State House,62.0,Jim Struzzi,REP,205,,,Indiana County,CENTER 2
+Indiana,CENTER 3,State House,62.0,Jim Struzzi,REP,409,,,Indiana County,CENTER 3
+Indiana,CHERRYHILL 1,State House,62.0,Jim Struzzi,REP,501,,,Indiana County,CHERRYHILL 1
+Indiana,CHERRYHILL 2,State House,62.0,Jim Struzzi,REP,244,,,Indiana County,CHERRYHILL 2
+Indiana,CLYMER 1,State House,62.0,Jim Struzzi,REP,259,,,Indiana County,CLYMER 1
+Indiana,CREEKSIDE,State House,62.0,Jim Struzzi,REP,53,,,Indiana County,CREEKSIDE
+Indiana,EAST WHEATFIELD 1,State House,62.0,Jim Struzzi,REP,342,,,Indiana County,EAST WHEATFIELD 1
+Indiana,EAST WHEATFIELD 2,State House,62.0,Jim Struzzi,REP,223,,,Indiana County,EAST WHEATFIELD 2
+Indiana,HOMER CITY 1,State House,62.0,Jim Struzzi,REP,180,,,Indiana County,HOMER CITY 1
+Indiana,HOMER CITY 2,State House,62.0,Jim Struzzi,REP,121,,,Indiana County,HOMER CITY 2
+Indiana,INDIANA 1,State House,62.0,Jim Struzzi,REP,322,,,Indiana County,INDIANA 1
+Indiana,INDIANA 2 1,State House,62.0,Jim Struzzi,REP,171,,,Indiana County,INDIANA 2 1
+Indiana,INDIANA 2 2,State House,62.0,Jim Struzzi,REP,261,,,Indiana County,INDIANA 2 2
+Indiana,INDIANA 3 1,State House,62.0,Jim Struzzi,REP,62,,,Indiana County,INDIANA 3 1
+Indiana,INDIANA 3 2,State House,62.0,Jim Struzzi,REP,172,,,Indiana County,INDIANA 3 2
+Indiana,INDIANA 3 4,State House,62.0,Jim Struzzi,REP,148,,,Indiana County,INDIANA 3 4
+Indiana,INDIANA 4,State House,62.0,Jim Struzzi,REP,225,,,Indiana County,INDIANA 4
+Indiana,PINE 1,State House,62.0,Jim Struzzi,REP,229,,,Indiana County,PINE 1
+Indiana,PINE 2,State House,62.0,Jim Struzzi,REP,94,,,Indiana County,PINE 2
+Indiana,PINE 3,State House,62.0,Jim Struzzi,REP,100,,,Indiana County,PINE 3
+Indiana,SHELOCTA,State House,62.0,Jim Struzzi,REP,28,,,Indiana County,SHELOCTA
+Indiana,WASHINGTON,State House,62.0,Jim Struzzi,REP,487,,,Indiana County,WASHINGTON
+Indiana,WEST WHEATFIELD 1,State House,62.0,Jim Struzzi,REP,252,,,Indiana County,WEST WHEATFIELD 1
+Indiana,WEST WHEATFIELD 2,State House,62.0,Jim Struzzi,REP,268,,,Indiana County,WEST WHEATFIELD 2
+Indiana,WHITE 1,State House,62.0,Jim Struzzi,REP,603,,,Indiana County,WHITE 1
+Indiana,WHITE 2,State House,62.0,Jim Struzzi,REP,828,,,Indiana County,WHITE 2
+Indiana,WHITE 3 1,State House,62.0,Jim Struzzi,REP,474,,,Indiana County,WHITE 3 1
+Indiana,WHITE 3 2,State House,62.0,Jim Struzzi,REP,422,,,Indiana County,WHITE 3 2
+Indiana,WHITE 3 3,State House,62.0,Jim Struzzi,REP,331,,,Indiana County,WHITE 3 3
+Indiana,WHITE 4,State House,62.0,Jim Struzzi,REP,526,,,Indiana County,WHITE 4
+Indiana,WHITE 6,State House,62.0,Jim Struzzi,REP,369,,,Indiana County,WHITE 6
+Indiana,BANKS 1,State House,66.0,Kerith Strano Taylor,DEM,37,,,Indiana County,BANKS 1
+Indiana,CANOE,State House,66.0,Kerith Strano Taylor,DEM,82,,,Indiana County,CANOE
+Indiana,CHERRY TREE,State House,66.0,Kerith Strano Taylor,DEM,16,,,Indiana County,CHERRY TREE
+Indiana,EAST MAHONING,State House,66.0,Kerith Strano Taylor,DEM,57,,,Indiana County,EAST MAHONING
+Indiana,ERNEST,State House,66.0,Kerith Strano Taylor,DEM,45,,,Indiana County,ERNEST
+Indiana,GLEN CAMPBELL,State House,66.0,Kerith Strano Taylor,DEM,22,,,Indiana County,GLEN CAMPBELL
+Indiana,GRANT,State House,66.0,Kerith Strano Taylor,DEM,49,,,Indiana County,GRANT
+Indiana,GREEN 1,State House,66.0,Kerith Strano Taylor,DEM,93,,,Indiana County,GREEN 1
+Indiana,GREEN 2,State House,66.0,Kerith Strano Taylor,DEM,104,,,Indiana County,GREEN 2
+Indiana,GREEN 3,State House,66.0,Kerith Strano Taylor,DEM,35,,,Indiana County,GREEN 3
+Indiana,MARION CENTER,State House,66.0,Kerith Strano Taylor,DEM,31,,,Indiana County,MARION CENTER
+Indiana,MONTGOMERY,State House,66.0,Kerith Strano Taylor,DEM,129,,,Indiana County,MONTGOMERY
+Indiana,NORTH MAHONING,State House,66.0,Kerith Strano Taylor,DEM,56,,,Indiana County,NORTH MAHONING
+Indiana,PLUMVILLE,State House,66.0,Kerith Strano Taylor,DEM,26,,,Indiana County,PLUMVILLE
+Indiana,RAYNE,State House,66.0,Kerith Strano Taylor,DEM,281,,,Indiana County,RAYNE
+Indiana,SMICKSBURG,State House,66.0,Kerith Strano Taylor,DEM,3,,,Indiana County,SMICKSBURG
+Indiana,SOUTH MAHONING 1,State House,66.0,Kerith Strano Taylor,DEM,97,,,Indiana County,SOUTH MAHONING 1
+Indiana,WEST MAHONING,State House,66.0,Kerith Strano Taylor,DEM,18,,,Indiana County,WEST MAHONING
+Indiana,BANKS 1,State House,66.0,Cris Dush,REP,250,,,Indiana County,BANKS 1
+Indiana,CANOE,State House,66.0,Cris Dush,REP,360,,,Indiana County,CANOE
+Indiana,CHERRY TREE,State House,66.0,Cris Dush,REP,87,,,Indiana County,CHERRY TREE
+Indiana,EAST MAHONING,State House,66.0,Cris Dush,REP,309,,,Indiana County,EAST MAHONING
+Indiana,ERNEST,State House,66.0,Cris Dush,REP,67,,,Indiana County,ERNEST
+Indiana,GLEN CAMPBELL,State House,66.0,Cris Dush,REP,54,,,Indiana County,GLEN CAMPBELL
+Indiana,GRANT,State House,66.0,Cris Dush,REP,208,,,Indiana County,GRANT
+Indiana,GREEN 1,State House,66.0,Cris Dush,REP,428,,,Indiana County,GREEN 1
+Indiana,GREEN 2,State House,66.0,Cris Dush,REP,398,,,Indiana County,GREEN 2
+Indiana,GREEN 3,State House,66.0,Cris Dush,REP,166,,,Indiana County,GREEN 3
+Indiana,MARION CENTER,State House,66.0,Cris Dush,REP,125,,,Indiana County,MARION CENTER
+Indiana,MONTGOMERY,State House,66.0,Cris Dush,REP,355,,,Indiana County,MONTGOMERY
+Indiana,NORTH MAHONING,State House,66.0,Cris Dush,REP,329,,,Indiana County,NORTH MAHONING
+Indiana,PLUMVILLE,State House,66.0,Cris Dush,REP,66,,,Indiana County,PLUMVILLE
+Indiana,RAYNE,State House,66.0,Cris Dush,REP,883,,,Indiana County,RAYNE
+Indiana,SMICKSBURG,State House,66.0,Cris Dush,REP,18,,,Indiana County,SMICKSBURG
+Indiana,SOUTH MAHONING 1,State House,66.0,Cris Dush,REP,391,,,Indiana County,SOUTH MAHONING 1
+Indiana,WEST MAHONING,State House,66.0,Cris Dush,REP,146,,,Indiana County,WEST MAHONING
+Indiana,ARMSTRONG 1,State House,62.0,Daniel Wilson,,3,,,Indiana County,ARMSTRONG 1
+Indiana,ARMSTRONG 2,State House,62.0,Daniel Wilson,,3,,,Indiana County,ARMSTRONG 2
+Indiana,BLAIRSVILLE 1,State House,62.0,Daniel Wilson,,1,,,Indiana County,BLAIRSVILLE 1
+Indiana,BLAIRSVILLE 2,State House,62.0,Daniel Wilson,,8,,,Indiana County,BLAIRSVILLE 2
+Indiana,BRUSH VALLEY,State House,62.0,Daniel Wilson,,9,,,Indiana County,BRUSH VALLEY
+Indiana,BUFFINGTON 2,State House,62.0,Daniel Wilson,,2,,,Indiana County,BUFFINGTON 2
+Indiana,BURRELL 1,State House,62.0,Daniel Wilson,,6,,,Indiana County,BURRELL 1
+Indiana,CENTER 1,State House,62.0,Daniel Wilson,,2,,,Indiana County,CENTER 1
+Indiana,CENTER 2,State House,62.0,Daniel Wilson,,5,,,Indiana County,CENTER 2
+Indiana,CENTER 3,State House,62.0,Daniel Wilson,,4,,,Indiana County,CENTER 3
+Indiana,CHERRYHILL 1,State House,62.0,Daniel Wilson,,3,,,Indiana County,CHERRYHILL 1
+Indiana,CHERRYHILL 2,State House,62.0,Daniel Wilson,,7,,,Indiana County,CHERRYHILL 2
+Indiana,CLYMER 1,State House,62.0,Daniel Wilson,,3,,,Indiana County,CLYMER 1
+Indiana,EAST WHEATFIELD 1,State House,62.0,Daniel Wilson,,5,,,Indiana County,EAST WHEATFIELD 1
+Indiana,HOMER CITY 1,State House,62.0,Daniel Wilson,,6,,,Indiana County,HOMER CITY 1
+Indiana,INDIANA 1,State House,62.0,Daniel Wilson,,2,,,Indiana County,INDIANA 1
+Indiana,INDIANA 2 1,State House,62.0,Daniel Wilson,,2,,,Indiana County,INDIANA 2 1
+Indiana,INDIANA 2 2,State House,62.0,Daniel Wilson,,10,,,Indiana County,INDIANA 2 2
+Indiana,INDIANA 3 2,State House,62.0,Daniel Wilson,,4,,,Indiana County,INDIANA 3 2
+Indiana,INDIANA 3 4,State House,62.0,Daniel Wilson,,1,,,Indiana County,INDIANA 3 4
+Indiana,INDIANA 4,State House,62.0,Daniel Wilson,,4,,,Indiana County,INDIANA 4
+Indiana,WASHINGTON,State House,62.0,Daniel Wilson,,7,,,Indiana County,WASHINGTON
+Indiana,WHITE 1,State House,62.0,Daniel Wilson,,8,,,Indiana County,WHITE 1
+Indiana,WHITE 2,State House,62.0,Daniel Wilson,,26,,,Indiana County,WHITE 2
+Indiana,WHITE 3 1,State House,62.0,Daniel Wilson,,8,,,Indiana County,WHITE 3 1
+Indiana,WHITE 3 2,State House,62.0,Daniel Wilson,,19,,,Indiana County,WHITE 3 2
+Indiana,WHITE 3 3,State House,62.0,Daniel Wilson,,1,,,Indiana County,WHITE 3 3
+Indiana,WHITE 4,State House,62.0,Daniel Wilson,,25,,,Indiana County,WHITE 4
+Indiana,ARMSTRONG 2,U.S. Senate,,Write-ins,,1,,,Indiana County,ARMSTRONG 2
+Indiana,BLAIRSVILLE 1,U.S. Senate,,Write-ins,,1,,,Indiana County,BLAIRSVILLE 1
+Indiana,BURRELL 1,U.S. Senate,,Write-ins,,1,,,Indiana County,BURRELL 1
+Indiana,CENTER 2,U.S. Senate,,Write-ins,,2,,,Indiana County,CENTER 2
+Indiana,EAST MAHONING,U.S. Senate,,Write-ins,,1,,,Indiana County,EAST MAHONING
+Indiana,GREEN 2,U.S. Senate,,Write-ins,,1,,,Indiana County,GREEN 2
+Indiana,SALTSBURG,U.S. Senate,,Write-ins,,1,,,Indiana County,SALTSBURG
+Indiana,SHELOCTA,U.S. Senate,,Write-ins,,1,,,Indiana County,SHELOCTA
+Indiana,ARMSTRONG 2,Governor,,Write-ins,,1,,,Indiana County,ARMSTRONG 2
+Indiana,BLAIRSVILLE 3,Governor,,Write-ins,,2,,,Indiana County,BLAIRSVILLE 3
+Indiana,BUFFINGTON 2,Governor,,Write-ins,,1,,,Indiana County,BUFFINGTON 2
+Indiana,CENTER 3,Governor,,Write-ins,,3,,,Indiana County,CENTER 3
+Indiana,EAST MAHONING,Governor,,Write-ins,,2,,,Indiana County,EAST MAHONING
+Indiana,GRANT,Governor,,Write-ins,,1,,,Indiana County,GRANT
+Indiana,INDIANA 3 4,Governor,,Write-ins,,1,,,Indiana County,INDIANA 3 4
+Indiana,RAYNE,Governor,,Write-ins,,2,,,Indiana County,RAYNE
+Indiana,WEST WHEATFIELD 1,Governor,,Write-ins,,1,,,Indiana County,WEST WHEATFIELD 1
+Indiana,WHITE 2,Governor,,Write-ins,,1,,,Indiana County,WHITE 2
+Indiana,WHITE 3 1,Governor,,Write-ins,,1,,,Indiana County,WHITE 3 1
+Indiana,WHITE 4,Governor,,Write-ins,,1,,,Indiana County,WHITE 4
+Indiana,WHITE 6,Governor,,Write-ins,,1,,,Indiana County,WHITE 6
+Indiana,ARMSTRONG 1,U.S. House,15.0,Write-ins,,1,,,Indiana County,ARMSTRONG 1
+Indiana,ARMSTRONG 2,U.S. House,15.0,Write-ins,,3,,,Indiana County,ARMSTRONG 2
+Indiana,BLAIRSVILLE 2,U.S. House,15.0,Write-ins,,1,,,Indiana County,BLAIRSVILLE 2
+Indiana,BLAIRSVILLE 3,U.S. House,15.0,Write-ins,,1,,,Indiana County,BLAIRSVILLE 3
+Indiana,BRUSH VALLEY,U.S. House,15.0,Write-ins,,1,,,Indiana County,BRUSH VALLEY
+Indiana,BURRELL 2,U.S. House,15.0,Write-ins,,1,,,Indiana County,BURRELL 2
+Indiana,CANOE,U.S. House,15.0,Write-ins,,1,,,Indiana County,CANOE
+Indiana,CENTER 2,U.S. House,15.0,Write-ins,,5,,,Indiana County,CENTER 2
+Indiana,CHERRYHILL 1,U.S. House,15.0,Write-ins,,1,,,Indiana County,CHERRYHILL 1
+Indiana,EAST MAHONING,U.S. House,15.0,Write-ins,,1,,,Indiana County,EAST MAHONING
+Indiana,GRANT,U.S. House,15.0,Write-ins,,1,,,Indiana County,GRANT
+Indiana,INDIANA 3 4,U.S. House,15.0,Write-ins,,2,,,Indiana County,INDIANA 3 4
+Indiana,INDIANA 4,U.S. House,15.0,Write-ins,,2,,,Indiana County,INDIANA 4
+Indiana,MARION CENTER,U.S. House,15.0,Write-ins,,1,,,Indiana County,MARION CENTER
+Indiana,PLUMVILLE,U.S. House,15.0,Write-ins,,1,,,Indiana County,PLUMVILLE
+Indiana,RAYNE,U.S. House,15.0,Write-ins,,7,,,Indiana County,RAYNE
+Indiana,SALTSBURG,U.S. House,15.0,Write-ins,,2,,,Indiana County,SALTSBURG
+Indiana,WEST WHEATFIELD 2,U.S. House,15.0,Write-ins,,1,,,Indiana County,WEST WHEATFIELD 2
+Indiana,WHITE 1,U.S. House,15.0,Write-ins,,1,,,Indiana County,WHITE 1
+Indiana,WHITE 2,U.S. House,15.0,Write-ins,,1,,,Indiana County,WHITE 2
+Indiana,WHITE 3 1,U.S. House,15.0,Write-ins,,1,,,Indiana County,WHITE 3 1
+Indiana,WHITE 3 2,U.S. House,15.0,Write-ins,,2,,,Indiana County,WHITE 3 2
+Indiana,WHITE 4,U.S. House,15.0,Write-ins,,2,,,Indiana County,WHITE 4
+Indiana,SALTSBURG,State House,55.0,Write-ins,,5,,,Indiana County,SALTSBURG
+Indiana,BLACKLICK,State House,60.0,Write-ins,,10,,,Indiana County,BLACKLICK
+Indiana,CONEMAUGH 1,State House,60.0,Write-ins,,1,,,Indiana County,CONEMAUGH 1
+Indiana,CONEMAUGH 2,State House,60.0,Write-ins,,7,,,Indiana County,CONEMAUGH 2
+Indiana,CONEMAUGH 3,State House,60.0,Write-ins,,2,,,Indiana County,CONEMAUGH 3
+Indiana,YOUNG 1,State House,60.0,Write-ins,,12,,,Indiana County,YOUNG 1
+Indiana,YOUNG 2,State House,60.0,Write-ins,,4,,,Indiana County,YOUNG 2
+Indiana,ARMSTRONG 2,State House,62.0,Write-ins,,2,,,Indiana County,ARMSTRONG 2
+Indiana,BLAIRSVILLE 3,State House,62.0,Write-ins,,3,,,Indiana County,BLAIRSVILLE 3
+Indiana,BRUSH VALLEY,State House,62.0,Write-ins,,2,,,Indiana County,BRUSH VALLEY
+Indiana,BURRELL 1,State House,62.0,Write-ins,,2,,,Indiana County,BURRELL 1
+Indiana,CENTER 2,State House,62.0,Write-ins,,1,,,Indiana County,CENTER 2
+Indiana,CENTER 3,State House,62.0,Write-ins,,3,,,Indiana County,CENTER 3
+Indiana,CHERRYHILL 1,State House,62.0,Write-ins,,2,,,Indiana County,CHERRYHILL 1
+Indiana,CHERRYHILL 2,State House,62.0,Write-ins,,2,,,Indiana County,CHERRYHILL 2
+Indiana,EAST WHEATFIELD 1,State House,62.0,Write-ins,,1,,,Indiana County,EAST WHEATFIELD 1
+Indiana,HOMER CITY 2,State House,62.0,Write-ins,,2,,,Indiana County,HOMER CITY 2
+Indiana,INDIANA 1,State House,62.0,Write-ins,,2,,,Indiana County,INDIANA 1
+Indiana,INDIANA 2 1,State House,62.0,Write-ins,,1,,,Indiana County,INDIANA 2 1
+Indiana,INDIANA 2 2,State House,62.0,Write-ins,,1,,,Indiana County,INDIANA 2 2
+Indiana,INDIANA 3 2,State House,62.0,Write-ins,,1,,,Indiana County,INDIANA 3 2
+Indiana,INDIANA 3 4,State House,62.0,Write-ins,,1,,,Indiana County,INDIANA 3 4
+Indiana,INDIANA 4,State House,62.0,Write-ins,,1,,,Indiana County,INDIANA 4
+Indiana,PINE 1,State House,62.0,Write-ins,,2,,,Indiana County,PINE 1
+Indiana,WHITE 1,State House,62.0,Write-ins,,1,,,Indiana County,WHITE 1
+Indiana,WHITE 2,State House,62.0,Write-ins,,3,,,Indiana County,WHITE 2
+Indiana,WHITE 3 1,State House,62.0,Write-ins,,1,,,Indiana County,WHITE 3 1
+Indiana,WHITE 3 2,State House,62.0,Write-ins,,1,,,Indiana County,WHITE 3 2
+Indiana,WHITE 3 3,State House,62.0,Write-ins,,1,,,Indiana County,WHITE 3 3
+Indiana,WHITE 6,State House,62.0,Write-ins,,1,,,Indiana County,WHITE 6
+Indiana,EAST MAHONING,State House,66.0,Write-ins,,3,,,Indiana County,EAST MAHONING
+Indiana,GRANT,State House,66.0,Write-ins,,1,,,Indiana County,GRANT
+Indiana,GREEN 1,State House,66.0,Write-ins,,2,,,Indiana County,GREEN 1
+Indiana,GREEN 2,State House,66.0,Write-ins,,2,,,Indiana County,GREEN 2
+Indiana,MARION CENTER,State House,66.0,Write-ins,,1,,,Indiana County,MARION CENTER
+Indiana,MONTGOMERY,State House,66.0,Write-ins,,1,,,Indiana County,MONTGOMERY
+Indiana,RAYNE,State House,66.0,Write-ins,,4,,,Indiana County,RAYNE

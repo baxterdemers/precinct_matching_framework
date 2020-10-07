@@ -1,0 +1,785 @@
+county,precinct,office,district,candidate,party,votes,election_day,absentee,county_id,original_precinct_name
+Adams,Abbottstown,U.S. Senate,,Bob Casey Jr.,,120,,,Adams County,Abbottstown
+Adams,Abbottstown,U.S. Senate,,Lou Barletta,,183,,,Adams County,Abbottstown
+Adams,Abbottstown,U.S. Senate,,Neale Gale,,2,,,Adams County,Abbottstown
+Adams,Abbottstown,U.S. Senate,,Dale R. Kerns Jr.,,5,,,Adams County,Abbottstown
+Adams,Abbottstown,U.S. Senate,,Write In,,0,,,Adams County,Abbottstown
+Adams,Arendtsville,U.S. Senate,,Bob Casey Jr.,,151,,,Adams County,Arendtsville
+Adams,Arendtsville,U.S. Senate,,Lou Barletta,,178,,,Adams County,Arendtsville
+Adams,Arendtsville,U.S. Senate,,Neale Gale,,3,,,Adams County,Arendtsville
+Adams,Arendtsville,U.S. Senate,,Dale R. Kerns Jr.,,6,,,Adams County,Arendtsville
+Adams,Arendtsville,U.S. Senate,,Write In,,0,,,Adams County,Arendtsville
+Adams,Bendersville,U.S. Senate,,Bob Casey Jr.,,74,,,Adams County,Bendersville
+Adams,Bendersville,U.S. Senate,,Lou Barletta,,103,,,Adams County,Bendersville
+Adams,Bendersville,U.S. Senate,,Neale Gale,,2,,,Adams County,Bendersville
+Adams,Bendersville,U.S. Senate,,Dale R. Kerns Jr.,,1,,,Adams County,Bendersville
+Adams,Bendersville,U.S. Senate,,Write In,,0,,,Adams County,Bendersville
+Adams,Berwick,U.S. Senate,,Bob Casey Jr.,,289,,,Adams County,Berwick
+Adams,Berwick,U.S. Senate,,Lou Barletta,,575,,,Adams County,Berwick
+Adams,Berwick,U.S. Senate,,Neale Gale,,5,,,Adams County,Berwick
+Adams,Berwick,U.S. Senate,,Dale R. Kerns Jr.,,14,,,Adams County,Berwick
+Adams,Berwick,U.S. Senate,,Write In,,0,,,Adams County,Berwick
+Adams,Biglerville,U.S. Senate,,Bob Casey Jr.,,152,,,Adams County,Biglerville
+Adams,Biglerville,U.S. Senate,,Lou Barletta,,231,,,Adams County,Biglerville
+Adams,Biglerville,U.S. Senate,,Neale Gale,,7,,,Adams County,Biglerville
+Adams,Biglerville,U.S. Senate,,Dale R. Kerns Jr.,,3,,,Adams County,Biglerville
+Adams,Biglerville,U.S. Senate,,Write In,,1,,,Adams County,Biglerville
+Adams,Bonneauville,U.S. Senate,,Bob Casey Jr.,,222,,,Adams County,Bonneauville
+Adams,Bonneauville,U.S. Senate,,Lou Barletta,,375,,,Adams County,Bonneauville
+Adams,Bonneauville,U.S. Senate,,Neale Gale,,6,,,Adams County,Bonneauville
+Adams,Bonneauville,U.S. Senate,,Dale R. Kerns Jr.,,7,,,Adams County,Bonneauville
+Adams,Bonneauville,U.S. Senate,,Write In,,0,,,Adams County,Bonneauville
+Adams,Butler,U.S. Senate,,Bob Casey Jr.,,330,,,Adams County,Butler
+Adams,Butler,U.S. Senate,,Lou Barletta,,696,,,Adams County,Butler
+Adams,Butler,U.S. Senate,,Neale Gale,,6,,,Adams County,Butler
+Adams,Butler,U.S. Senate,,Dale R. Kerns Jr.,,10,,,Adams County,Butler
+Adams,Butler,U.S. Senate,,Write In,,0,,,Adams County,Butler
+Adams,Carroll Valley #1,U.S. Senate,,Bob Casey Jr.,,333,,,Adams County,Carroll Valley #1
+Adams,Carroll Valley #1,U.S. Senate,,Lou Barletta,,592,,,Adams County,Carroll Valley #1
+Adams,Carroll Valley #1,U.S. Senate,,Neale Gale,,10,,,Adams County,Carroll Valley #1
+Adams,Carroll Valley #1,U.S. Senate,,Dale R. Kerns Jr.,,11,,,Adams County,Carroll Valley #1
+Adams,Carroll Valley #1,U.S. Senate,,Write In,,0,,,Adams County,Carroll Valley #1
+Adams,Carroll Valley #2,U.S. Senate,,Bob Casey Jr.,,296,,,Adams County,Carroll Valley #2
+Adams,Carroll Valley #2,U.S. Senate,,Lou Barletta,,481,,,Adams County,Carroll Valley #2
+Adams,Carroll Valley #2,U.S. Senate,,Neale Gale,,4,,,Adams County,Carroll Valley #2
+Adams,Carroll Valley #2,U.S. Senate,,Dale R. Kerns Jr.,,9,,,Adams County,Carroll Valley #2
+Adams,Carroll Valley #2,U.S. Senate,,Write In,,0,,,Adams County,Carroll Valley #2
+Adams,Conewago #1,U.S. Senate,,Bob Casey Jr.,,497,,,Adams County,Conewago #1
+Adams,Conewago #1,U.S. Senate,,Lou Barletta,,720,,,Adams County,Conewago #1
+Adams,Conewago #1,U.S. Senate,,Neale Gale,,2,,,Adams County,Conewago #1
+Adams,Conewago #1,U.S. Senate,,Dale R. Kerns Jr.,,7,,,Adams County,Conewago #1
+Adams,Conewago #1,U.S. Senate,,Write In,,0,,,Adams County,Conewago #1
+Adams,Conewago #2,U.S. Senate,,Bob Casey Jr.,,477,,,Adams County,Conewago #2
+Adams,Conewago #2,U.S. Senate,,Lou Barletta,,863,,,Adams County,Conewago #2
+Adams,Conewago #2,U.S. Senate,,Neale Gale,,8,,,Adams County,Conewago #2
+Adams,Conewago #2,U.S. Senate,,Dale R. Kerns Jr.,,6,,,Adams County,Conewago #2
+Adams,Conewago #2,U.S. Senate,,Write In,,1,,,Adams County,Conewago #2
+Adams,Cumberland #1,U.S. Senate,,Bob Casey Jr.,,495,,,Adams County,Cumberland #1
+Adams,Cumberland #1,U.S. Senate,,Lou Barletta,,456,,,Adams County,Cumberland #1
+Adams,Cumberland #1,U.S. Senate,,Neale Gale,,3,,,Adams County,Cumberland #1
+Adams,Cumberland #1,U.S. Senate,,Dale R. Kerns Jr.,,8,,,Adams County,Cumberland #1
+Adams,Cumberland #1,U.S. Senate,,Write In,,1,,,Adams County,Cumberland #1
+Adams,Cumberland #2,U.S. Senate,,Bob Casey Jr.,,210,,,Adams County,Cumberland #2
+Adams,Cumberland #2,U.S. Senate,,Lou Barletta,,448,,,Adams County,Cumberland #2
+Adams,Cumberland #2,U.S. Senate,,Neale Gale,,6,,,Adams County,Cumberland #2
+Adams,Cumberland #2,U.S. Senate,,Dale R. Kerns Jr.,,8,,,Adams County,Cumberland #2
+Adams,Cumberland #2,U.S. Senate,,Write In,,0,,,Adams County,Cumberland #2
+Adams,Cumberland #3,U.S. Senate,,Bob Casey Jr.,,421,,,Adams County,Cumberland #3
+Adams,Cumberland #3,U.S. Senate,,Lou Barletta,,436,,,Adams County,Cumberland #3
+Adams,Cumberland #3,U.S. Senate,,Neale Gale,,5,,,Adams County,Cumberland #3
+Adams,Cumberland #3,U.S. Senate,,Dale R. Kerns Jr.,,17,,,Adams County,Cumberland #3
+Adams,Cumberland #3,U.S. Senate,,Write In,,1,,,Adams County,Cumberland #3
+Adams,Cumberland #4,U.S. Senate,,Bob Casey Jr.,,505,,,Adams County,Cumberland #4
+Adams,Cumberland #4,U.S. Senate,,Lou Barletta,,432,,,Adams County,Cumberland #4
+Adams,Cumberland #4,U.S. Senate,,Neale Gale,,7,,,Adams County,Cumberland #4
+Adams,Cumberland #4,U.S. Senate,,Dale R. Kerns Jr.,,11,,,Adams County,Cumberland #4
+Adams,Cumberland #4,U.S. Senate,,Write In,,0,,,Adams County,Cumberland #4
+Adams,East Berlin,U.S. Senate,,Bob Casey Jr.,,232,,,Adams County,East Berlin
+Adams,East Berlin,U.S. Senate,,Lou Barletta,,389,,,Adams County,East Berlin
+Adams,East Berlin,U.S. Senate,,Neale Gale,,6,,,Adams County,East Berlin
+Adams,East Berlin,U.S. Senate,,Dale R. Kerns Jr.,,7,,,Adams County,East Berlin
+Adams,East Berlin,U.S. Senate,,Write In,,2,,,Adams County,East Berlin
+Adams,Fairfield,U.S. Senate,,Bob Casey Jr.,,109,,,Adams County,Fairfield
+Adams,Fairfield,U.S. Senate,,Lou Barletta,,134,,,Adams County,Fairfield
+Adams,Fairfield,U.S. Senate,,Neale Gale,,2,,,Adams County,Fairfield
+Adams,Fairfield,U.S. Senate,,Dale R. Kerns Jr.,,2,,,Adams County,Fairfield
+Adams,Fairfield,U.S. Senate,,Write In,,0,,,Adams County,Fairfield
+Adams,Franklin #1,U.S. Senate,,Bob Casey Jr.,,338,,,Adams County,Franklin #1
+Adams,Franklin #1,U.S. Senate,,Lou Barletta,,617,,,Adams County,Franklin #1
+Adams,Franklin #1,U.S. Senate,,Neale Gale,,7,,,Adams County,Franklin #1
+Adams,Franklin #1,U.S. Senate,,Dale R. Kerns Jr.,,22,,,Adams County,Franklin #1
+Adams,Franklin #1,U.S. Senate,,Write In,,0,,,Adams County,Franklin #1
+Adams,Franklin #2,U.S. Senate,,Bob Casey Jr.,,300,,,Adams County,Franklin #2
+Adams,Franklin #2,U.S. Senate,,Lou Barletta,,584,,,Adams County,Franklin #2
+Adams,Franklin #2,U.S. Senate,,Neale Gale,,8,,,Adams County,Franklin #2
+Adams,Franklin #2,U.S. Senate,,Dale R. Kerns Jr.,,15,,,Adams County,Franklin #2
+Adams,Franklin #2,U.S. Senate,,Write In,,1,,,Adams County,Franklin #2
+Adams,Freedom,U.S. Senate,,Bob Casey Jr.,,158,,,Adams County,Freedom
+Adams,Freedom,U.S. Senate,,Lou Barletta,,280,,,Adams County,Freedom
+Adams,Freedom,U.S. Senate,,Neale Gale,,4,,,Adams County,Freedom
+Adams,Freedom,U.S. Senate,,Dale R. Kerns Jr.,,6,,,Adams County,Freedom
+Adams,Freedom,U.S. Senate,,Write In,,0,,,Adams County,Freedom
+Adams,Germany,U.S. Senate,,Bob Casey Jr.,,302,,,Adams County,Germany
+Adams,Germany,U.S. Senate,,Lou Barletta,,798,,,Adams County,Germany
+Adams,Germany,U.S. Senate,,Neale Gale,,14,,,Adams County,Germany
+Adams,Germany,U.S. Senate,,Dale R. Kerns Jr.,,10,,,Adams County,Germany
+Adams,Germany,U.S. Senate,,Write In,,0,,,Adams County,Germany
+Adams,Gettysburg #1,U.S. Senate,,Bob Casey Jr.,,470,,,Adams County,Gettysburg #1
+Adams,Gettysburg #1,U.S. Senate,,Lou Barletta,,208,,,Adams County,Gettysburg #1
+Adams,Gettysburg #1,U.S. Senate,,Neale Gale,,13,,,Adams County,Gettysburg #1
+Adams,Gettysburg #1,U.S. Senate,,Dale R. Kerns Jr.,,10,,,Adams County,Gettysburg #1
+Adams,Gettysburg #1,U.S. Senate,,Write In,,0,,,Adams County,Gettysburg #1
+Adams,Gettysburg #2,U.S. Senate,,Bob Casey Jr.,,672,,,Adams County,Gettysburg #2
+Adams,Gettysburg #2,U.S. Senate,,Lou Barletta,,193,,,Adams County,Gettysburg #2
+Adams,Gettysburg #2,U.S. Senate,,Neale Gale,,11,,,Adams County,Gettysburg #2
+Adams,Gettysburg #2,U.S. Senate,,Dale R. Kerns Jr.,,14,,,Adams County,Gettysburg #2
+Adams,Gettysburg #2,U.S. Senate,,Write In,,0,,,Adams County,Gettysburg #2
+Adams,Gettysburg #3,U.S. Senate,,Bob Casey Jr.,,386,,,Adams County,Gettysburg #3
+Adams,Gettysburg #3,U.S. Senate,,Lou Barletta,,255,,,Adams County,Gettysburg #3
+Adams,Gettysburg #3,U.S. Senate,,Neale Gale,,7,,,Adams County,Gettysburg #3
+Adams,Gettysburg #3,U.S. Senate,,Dale R. Kerns Jr.,,9,,,Adams County,Gettysburg #3
+Adams,Gettysburg #3,U.S. Senate,,Write In,,0,,,Adams County,Gettysburg #3
+Adams,Hamilton,U.S. Senate,,Bob Casey Jr.,,311,,,Adams County,Hamilton
+Adams,Hamilton,U.S. Senate,,Lou Barletta,,722,,,Adams County,Hamilton
+Adams,Hamilton,U.S. Senate,,Neale Gale,,8,,,Adams County,Hamilton
+Adams,Hamilton,U.S. Senate,,Dale R. Kerns Jr.,,10,,,Adams County,Hamilton
+Adams,Hamilton,U.S. Senate,,Write In,,0,,,Adams County,Hamilton
+Adams,Hamiltonban,U.S. Senate,,Bob Casey Jr.,,290,,,Adams County,Hamiltonban
+Adams,Hamiltonban,U.S. Senate,,Lou Barletta,,566,,,Adams County,Hamiltonban
+Adams,Hamiltonban,U.S. Senate,,Neale Gale,,7,,,Adams County,Hamiltonban
+Adams,Hamiltonban,U.S. Senate,,Dale R. Kerns Jr.,,11,,,Adams County,Hamiltonban
+Adams,Hamiltonban,U.S. Senate,,Write In,,1,,,Adams County,Hamiltonban
+Adams,Highland,U.S. Senate,,Bob Casey Jr.,,177,,,Adams County,Highland
+Adams,Highland,U.S. Senate,,Lou Barletta,,275,,,Adams County,Highland
+Adams,Highland,U.S. Senate,,Neale Gale,,5,,,Adams County,Highland
+Adams,Highland,U.S. Senate,,Dale R. Kerns Jr.,,5,,,Adams County,Highland
+Adams,Highland,U.S. Senate,,Write In,,1,,,Adams County,Highland
+Adams,Huntington,U.S. Senate,,Bob Casey Jr.,,216,,,Adams County,Huntington
+Adams,Huntington,U.S. Senate,,Lou Barletta,,688,,,Adams County,Huntington
+Adams,Huntington,U.S. Senate,,Neale Gale,,7,,,Adams County,Huntington
+Adams,Huntington,U.S. Senate,,Dale R. Kerns Jr.,,7,,,Adams County,Huntington
+Adams,Huntington,U.S. Senate,,Write In,,0,,,Adams County,Huntington
+Adams,Latimore,U.S. Senate,,Bob Casey Jr.,,341,,,Adams County,Latimore
+Adams,Latimore,U.S. Senate,,Lou Barletta,,760,,,Adams County,Latimore
+Adams,Latimore,U.S. Senate,,Neale Gale,,12,,,Adams County,Latimore
+Adams,Latimore,U.S. Senate,,Dale R. Kerns Jr.,,17,,,Adams County,Latimore
+Adams,Latimore,U.S. Senate,,Write In,,1,,,Adams County,Latimore
+Adams,Liberty,U.S. Senate,,Bob Casey Jr.,,214,,,Adams County,Liberty
+Adams,Liberty,U.S. Senate,,Lou Barletta,,385,,,Adams County,Liberty
+Adams,Liberty,U.S. Senate,,Neale Gale,,3,,,Adams County,Liberty
+Adams,Liberty,U.S. Senate,,Dale R. Kerns Jr.,,9,,,Adams County,Liberty
+Adams,Liberty,U.S. Senate,,Write In,,0,,,Adams County,Liberty
+Adams,Littlestown #1,U.S. Senate,,Bob Casey Jr.,,207,,,Adams County,Littlestown #1
+Adams,Littlestown #1,U.S. Senate,,Lou Barletta,,489,,,Adams County,Littlestown #1
+Adams,Littlestown #1,U.S. Senate,,Neale Gale,,6,,,Adams County,Littlestown #1
+Adams,Littlestown #1,U.S. Senate,,Dale R. Kerns Jr.,,16,,,Adams County,Littlestown #1
+Adams,Littlestown #1,U.S. Senate,,Write In,,0,,,Adams County,Littlestown #1
+Adams,Littlestown #2,U.S. Senate,,Bob Casey Jr.,,293,,,Adams County,Littlestown #2
+Adams,Littlestown #2,U.S. Senate,,Lou Barletta,,540,,,Adams County,Littlestown #2
+Adams,Littlestown #2,U.S. Senate,,Neale Gale,,8,,,Adams County,Littlestown #2
+Adams,Littlestown #2,U.S. Senate,,Dale R. Kerns Jr.,,16,,,Adams County,Littlestown #2
+Adams,Littlestown #2,U.S. Senate,,Write In,,0,,,Adams County,Littlestown #2
+Adams,McSherrystown #1,U.S. Senate,,Bob Casey Jr.,,232,,,Adams County,McSherrystown #1
+Adams,McSherrystown #1,U.S. Senate,,Lou Barletta,,254,,,Adams County,McSherrystown #1
+Adams,McSherrystown #1,U.S. Senate,,Neale Gale,,6,,,Adams County,McSherrystown #1
+Adams,McSherrystown #1,U.S. Senate,,Dale R. Kerns Jr.,,13,,,Adams County,McSherrystown #1
+Adams,McSherrystown #1,U.S. Senate,,Write In,,0,,,Adams County,McSherrystown #1
+Adams,McSherrystown #2,U.S. Senate,,Bob Casey Jr.,,145,,,Adams County,McSherrystown #2
+Adams,McSherrystown #2,U.S. Senate,,Lou Barletta,,193,,,Adams County,McSherrystown #2
+Adams,McSherrystown #2,U.S. Senate,,Neale Gale,,3,,,Adams County,McSherrystown #2
+Adams,McSherrystown #2,U.S. Senate,,Dale R. Kerns Jr.,,4,,,Adams County,McSherrystown #2
+Adams,McSherrystown #2,U.S. Senate,,Write In,,1,,,Adams County,McSherrystown #2
+Adams,Menallen,U.S. Senate,,Bob Casey Jr.,,397,,,Adams County,Menallen
+Adams,Menallen,U.S. Senate,,Lou Barletta,,851,,,Adams County,Menallen
+Adams,Menallen,U.S. Senate,,Neale Gale,,9,,,Adams County,Menallen
+Adams,Menallen,U.S. Senate,,Dale R. Kerns Jr.,,15,,,Adams County,Menallen
+Adams,Menallen,U.S. Senate,,Write In,,0,,,Adams County,Menallen
+Adams,Mt Joy #1,U.S. Senate,,Bob Casey Jr.,,372,,,Adams County,Mt Joy #1
+Adams,Mt Joy #1,U.S. Senate,,Lou Barletta,,447,,,Adams County,Mt Joy #1
+Adams,Mt Joy #1,U.S. Senate,,Neale Gale,,3,,,Adams County,Mt Joy #1
+Adams,Mt Joy #1,U.S. Senate,,Dale R. Kerns Jr.,,11,,,Adams County,Mt Joy #1
+Adams,Mt Joy #1,U.S. Senate,,Write In,,0,,,Adams County,Mt Joy #1
+Adams,Mt Joy #2,U.S. Senate,,Bob Casey Jr.,,312,,,Adams County,Mt Joy #2
+Adams,Mt Joy #2,U.S. Senate,,Lou Barletta,,596,,,Adams County,Mt Joy #2
+Adams,Mt Joy #2,U.S. Senate,,Neale Gale,,8,,,Adams County,Mt Joy #2
+Adams,Mt Joy #2,U.S. Senate,,Dale R. Kerns Jr.,,13,,,Adams County,Mt Joy #2
+Adams,Mt Joy #2,U.S. Senate,,Write In,,1,,,Adams County,Mt Joy #2
+Adams,Mt Pleasant #1,U.S. Senate,,Bob Casey Jr.,,373,,,Adams County,Mt Pleasant #1
+Adams,Mt Pleasant #1,U.S. Senate,,Lou Barletta,,628,,,Adams County,Mt Pleasant #1
+Adams,Mt Pleasant #1,U.S. Senate,,Neale Gale,,5,,,Adams County,Mt Pleasant #1
+Adams,Mt Pleasant #1,U.S. Senate,,Dale R. Kerns Jr.,,19,,,Adams County,Mt Pleasant #1
+Adams,Mt Pleasant #1,U.S. Senate,,Write In,,0,,,Adams County,Mt Pleasant #1
+Adams,Mt Pleasant #2,U.S. Senate,,Bob Casey Jr.,,205,,,Adams County,Mt Pleasant #2
+Adams,Mt Pleasant #2,U.S. Senate,,Lou Barletta,,371,,,Adams County,Mt Pleasant #2
+Adams,Mt Pleasant #2,U.S. Senate,,Neale Gale,,9,,,Adams County,Mt Pleasant #2
+Adams,Mt Pleasant #2,U.S. Senate,,Dale R. Kerns Jr.,,7,,,Adams County,Mt Pleasant #2
+Adams,Mt Pleasant #2,U.S. Senate,,Write In,,1,,,Adams County,Mt Pleasant #2
+Adams,New Oxford,U.S. Senate,,Bob Casey Jr.,,235,,,Adams County,New Oxford
+Adams,New Oxford,U.S. Senate,,Lou Barletta,,236,,,Adams County,New Oxford
+Adams,New Oxford,U.S. Senate,,Neale Gale,,2,,,Adams County,New Oxford
+Adams,New Oxford,U.S. Senate,,Dale R. Kerns Jr.,,4,,,Adams County,New Oxford
+Adams,New Oxford,U.S. Senate,,Write In,,0,,,Adams County,New Oxford
+Adams,Oxford #1,U.S. Senate,,Bob Casey Jr.,,348,,,Adams County,Oxford #1
+Adams,Oxford #1,U.S. Senate,,Lou Barletta,,606,,,Adams County,Oxford #1
+Adams,Oxford #1,U.S. Senate,,Neale Gale,,3,,,Adams County,Oxford #1
+Adams,Oxford #1,U.S. Senate,,Dale R. Kerns Jr.,,12,,,Adams County,Oxford #1
+Adams,Oxford #1,U.S. Senate,,Write In,,0,,,Adams County,Oxford #1
+Adams,Oxford #2,U.S. Senate,,Bob Casey Jr.,,462,,,Adams County,Oxford #2
+Adams,Oxford #2,U.S. Senate,,Lou Barletta,,659,,,Adams County,Oxford #2
+Adams,Oxford #2,U.S. Senate,,Neale Gale,,7,,,Adams County,Oxford #2
+Adams,Oxford #2,U.S. Senate,,Dale R. Kerns Jr.,,10,,,Adams County,Oxford #2
+Adams,Oxford #2,U.S. Senate,,Write In,,0,,,Adams County,Oxford #2
+Adams,Reading #1,U.S. Senate,,Bob Casey Jr.,,405,,,Adams County,Reading #1
+Adams,Reading #1,U.S. Senate,,Lou Barletta,,832,,,Adams County,Reading #1
+Adams,Reading #1,U.S. Senate,,Neale Gale,,8,,,Adams County,Reading #1
+Adams,Reading #1,U.S. Senate,,Dale R. Kerns Jr.,,20,,,Adams County,Reading #1
+Adams,Reading #1,U.S. Senate,,Write In,,0,,,Adams County,Reading #1
+Adams,Reading #2,U.S. Senate,,Bob Casey Jr.,,320,,,Adams County,Reading #2
+Adams,Reading #2,U.S. Senate,,Lou Barletta,,571,,,Adams County,Reading #2
+Adams,Reading #2,U.S. Senate,,Neale Gale,,5,,,Adams County,Reading #2
+Adams,Reading #2,U.S. Senate,,Dale R. Kerns Jr.,,22,,,Adams County,Reading #2
+Adams,Reading #2,U.S. Senate,,Write In,,1,,,Adams County,Reading #2
+Adams,Straban #1,U.S. Senate,,Bob Casey Jr.,,508,,,Adams County,Straban #1
+Adams,Straban #1,U.S. Senate,,Lou Barletta,,532,,,Adams County,Straban #1
+Adams,Straban #1,U.S. Senate,,Neale Gale,,3,,,Adams County,Straban #1
+Adams,Straban #1,U.S. Senate,,Dale R. Kerns Jr.,,15,,,Adams County,Straban #1
+Adams,Straban #1,U.S. Senate,,Write In,,0,,,Adams County,Straban #1
+Adams,Straban #2,U.S. Senate,,Bob Casey Jr.,,326,,,Adams County,Straban #2
+Adams,Straban #2,U.S. Senate,,Lou Barletta,,540,,,Adams County,Straban #2
+Adams,Straban #2,U.S. Senate,,Neale Gale,,3,,,Adams County,Straban #2
+Adams,Straban #2,U.S. Senate,,Dale R. Kerns Jr.,,14,,,Adams County,Straban #2
+Adams,Straban #2,U.S. Senate,,Write In,,1,,,Adams County,Straban #2
+Adams,Tyrone,U.S. Senate,,Bob Casey Jr.,,241,,,Adams County,Tyrone
+Adams,Tyrone,U.S. Senate,,Lou Barletta,,500,,,Adams County,Tyrone
+Adams,Tyrone,U.S. Senate,,Neale Gale,,6,,,Adams County,Tyrone
+Adams,Tyrone,U.S. Senate,,Dale R. Kerns Jr.,,11,,,Adams County,Tyrone
+Adams,Tyrone,U.S. Senate,,Write In,,0,,,Adams County,Tyrone
+Adams,Union,U.S. Senate,,Bob Casey Jr.,,342,,,Adams County,Union
+Adams,Union,U.S. Senate,,Lou Barletta,,881,,,Adams County,Union
+Adams,Union,U.S. Senate,,Neale Gale,,4,,,Adams County,Union
+Adams,Union,U.S. Senate,,Dale R. Kerns Jr.,,10,,,Adams County,Union
+Adams,Union,U.S. Senate,,Write In,,0,,,Adams County,Union
+Adams,York Springs,U.S. Senate,,Bob Casey Jr.,,69,,,Adams County,York Springs
+Adams,York Springs,U.S. Senate,,Lou Barletta,,70,,,Adams County,York Springs
+Adams,York Springs,U.S. Senate,,Neale Gale,,4,,,Adams County,York Springs
+Adams,York Springs,U.S. Senate,,Dale R. Kerns Jr.,,2,,,Adams County,York Springs
+Adams,York Springs,U.S. Senate,,Write In,,0,,,Adams County,York Springs
+Adams,Abbottstown,Governor,,Tom Wolf / John Fetterman,,120,,,Adams County,Abbottstown
+Adams,Abbottstown,Governor,,Scott R. Wagner / Jeff Bartos,,185,,,Adams County,Abbottstown
+Adams,Abbottstown,Governor,,Paul Glover / J. Bowser Bostick,,2,,,Adams County,Abbottstown
+Adams,Abbottstown,Governor,,Ken V. Krawchuk / K. S. Smith,,2,,,Adams County,Abbottstown
+Adams,Abbottstown,Governor,,Write In,,0,,,Adams County,Abbottstown
+Adams,Arendtsville,Governor,,Tom Wolf / John Fetterman,,160,,,Adams County,Arendtsville
+Adams,Arendtsville,Governor,,Scott R. Wagner / Jeff Bartos,,172,,,Adams County,Arendtsville
+Adams,Arendtsville,Governor,,Paul Glover / J. Bowser Bostick,,2,,,Adams County,Arendtsville
+Adams,Arendtsville,Governor,,Ken V. Krawchuk / K. S. Smith,,4,,,Adams County,Arendtsville
+Adams,Arendtsville,Governor,,Write In,,0,,,Adams County,Arendtsville
+Adams,Bendersville,Governor,,Tom Wolf / John Fetterman,,76,,,Adams County,Bendersville
+Adams,Bendersville,Governor,,Scott R. Wagner / Jeff Bartos,,98,,,Adams County,Bendersville
+Adams,Bendersville,Governor,,Paul Glover / J. Bowser Bostick,,2,,,Adams County,Bendersville
+Adams,Bendersville,Governor,,Ken V. Krawchuk / K. S. Smith,,3,,,Adams County,Bendersville
+Adams,Bendersville,Governor,,Write In,,0,,,Adams County,Bendersville
+Adams,Berwick,Governor,,Tom Wolf / John Fetterman,,318,,,Adams County,Berwick
+Adams,Berwick,Governor,,Scott R. Wagner / Jeff Bartos,,554,,,Adams County,Berwick
+Adams,Berwick,Governor,,Paul Glover / J. Bowser Bostick,,5,,,Adams County,Berwick
+Adams,Berwick,Governor,,Ken V. Krawchuk / K. S. Smith,,9,,,Adams County,Berwick
+Adams,Berwick,Governor,,Write In,,0,,,Adams County,Berwick
+Adams,Biglerville,Governor,,Tom Wolf / John Fetterman,,168,,,Adams County,Biglerville
+Adams,Biglerville,Governor,,Scott R. Wagner / Jeff Bartos,,215,,,Adams County,Biglerville
+Adams,Biglerville,Governor,,Paul Glover / J. Bowser Bostick,,2,,,Adams County,Biglerville
+Adams,Biglerville,Governor,,Ken V. Krawchuk / K. S. Smith,,5,,,Adams County,Biglerville
+Adams,Biglerville,Governor,,Write In,,1,,,Adams County,Biglerville
+Adams,Bonneauville,Governor,,Tom Wolf / John Fetterman,,231,,,Adams County,Bonneauville
+Adams,Bonneauville,Governor,,Scott R. Wagner / Jeff Bartos,,368,,,Adams County,Bonneauville
+Adams,Bonneauville,Governor,,Paul Glover / J. Bowser Bostick,,5,,,Adams County,Bonneauville
+Adams,Bonneauville,Governor,,Ken V. Krawchuk / K. S. Smith,,6,,,Adams County,Bonneauville
+Adams,Bonneauville,Governor,,Write In,,1,,,Adams County,Bonneauville
+Adams,Butler,Governor,,Tom Wolf / John Fetterman,,362,,,Adams County,Butler
+Adams,Butler,Governor,,Scott R. Wagner / Jeff Bartos,,657,,,Adams County,Butler
+Adams,Butler,Governor,,Paul Glover / J. Bowser Bostick,,5,,,Adams County,Butler
+Adams,Butler,Governor,,Ken V. Krawchuk / K. S. Smith,,9,,,Adams County,Butler
+Adams,Butler,Governor,,Write In,,2,,,Adams County,Butler
+Adams,Carroll Valley #1,Governor,,Tom Wolf / John Fetterman,,331,,,Adams County,Carroll Valley #1
+Adams,Carroll Valley #1,Governor,,Scott R. Wagner / Jeff Bartos,,592,,,Adams County,Carroll Valley #1
+Adams,Carroll Valley #1,Governor,,Paul Glover / J. Bowser Bostick,,5,,,Adams County,Carroll Valley #1
+Adams,Carroll Valley #1,Governor,,Ken V. Krawchuk / K. S. Smith,,13,,,Adams County,Carroll Valley #1
+Adams,Carroll Valley #1,Governor,,Write In,,0,,,Adams County,Carroll Valley #1
+Adams,Carroll Valley #2,Governor,,Tom Wolf / John Fetterman,,307,,,Adams County,Carroll Valley #2
+Adams,Carroll Valley #2,Governor,,Scott R. Wagner / Jeff Bartos,,463,,,Adams County,Carroll Valley #2
+Adams,Carroll Valley #2,Governor,,Paul Glover / J. Bowser Bostick,,5,,,Adams County,Carroll Valley #2
+Adams,Carroll Valley #2,Governor,,Ken V. Krawchuk / K. S. Smith,,10,,,Adams County,Carroll Valley #2
+Adams,Carroll Valley #2,Governor,,Write In,,0,,,Adams County,Carroll Valley #2
+Adams,Conewago #1,Governor,,Tom Wolf / John Fetterman,,527,,,Adams County,Conewago #1
+Adams,Conewago #1,Governor,,Scott R. Wagner / Jeff Bartos,,679,,,Adams County,Conewago #1
+Adams,Conewago #1,Governor,,Paul Glover / J. Bowser Bostick,,5,,,Adams County,Conewago #1
+Adams,Conewago #1,Governor,,Ken V. Krawchuk / K. S. Smith,,15,,,Adams County,Conewago #1
+Adams,Conewago #1,Governor,,Write In,,0,,,Adams County,Conewago #1
+Adams,Conewago #2,Governor,,Tom Wolf / John Fetterman,,506,,,Adams County,Conewago #2
+Adams,Conewago #2,Governor,,Scott R. Wagner / Jeff Bartos,,827,,,Adams County,Conewago #2
+Adams,Conewago #2,Governor,,Paul Glover / J. Bowser Bostick,,7,,,Adams County,Conewago #2
+Adams,Conewago #2,Governor,,Ken V. Krawchuk / K. S. Smith,,9,,,Adams County,Conewago #2
+Adams,Conewago #2,Governor,,Write In,,3,,,Adams County,Conewago #2
+Adams,Cumberland #1,Governor,,Tom Wolf / John Fetterman,,533,,,Adams County,Cumberland #1
+Adams,Cumberland #1,Governor,,Scott R. Wagner / Jeff Bartos,,422,,,Adams County,Cumberland #1
+Adams,Cumberland #1,Governor,,Paul Glover / J. Bowser Bostick,,2,,,Adams County,Cumberland #1
+Adams,Cumberland #1,Governor,,Ken V. Krawchuk / K. S. Smith,,5,,,Adams County,Cumberland #1
+Adams,Cumberland #1,Governor,,Write In,,0,,,Adams County,Cumberland #1
+Adams,Cumberland #2,Governor,,Tom Wolf / John Fetterman,,237,,,Adams County,Cumberland #2
+Adams,Cumberland #2,Governor,,Scott R. Wagner / Jeff Bartos,,424,,,Adams County,Cumberland #2
+Adams,Cumberland #2,Governor,,Paul Glover / J. Bowser Bostick,,2,,,Adams County,Cumberland #2
+Adams,Cumberland #2,Governor,,Ken V. Krawchuk / K. S. Smith,,11,,,Adams County,Cumberland #2
+Adams,Cumberland #2,Governor,,Write In,,1,,,Adams County,Cumberland #2
+Adams,Cumberland #3,Governor,,Tom Wolf / John Fetterman,,452,,,Adams County,Cumberland #3
+Adams,Cumberland #3,Governor,,Scott R. Wagner / Jeff Bartos,,409,,,Adams County,Cumberland #3
+Adams,Cumberland #3,Governor,,Paul Glover / J. Bowser Bostick,,5,,,Adams County,Cumberland #3
+Adams,Cumberland #3,Governor,,Ken V. Krawchuk / K. S. Smith,,11,,,Adams County,Cumberland #3
+Adams,Cumberland #3,Governor,,Write In,,0,,,Adams County,Cumberland #3
+Adams,Cumberland #4,Governor,,Tom Wolf / John Fetterman,,526,,,Adams County,Cumberland #4
+Adams,Cumberland #4,Governor,,Scott R. Wagner / Jeff Bartos,,412,,,Adams County,Cumberland #4
+Adams,Cumberland #4,Governor,,Paul Glover / J. Bowser Bostick,,6,,,Adams County,Cumberland #4
+Adams,Cumberland #4,Governor,,Ken V. Krawchuk / K. S. Smith,,8,,,Adams County,Cumberland #4
+Adams,Cumberland #4,Governor,,Write In,,0,,,Adams County,Cumberland #4
+Adams,East Berlin,Governor,,Tom Wolf / John Fetterman,,246,,,Adams County,East Berlin
+Adams,East Berlin,Governor,,Scott R. Wagner / Jeff Bartos,,379,,,Adams County,East Berlin
+Adams,East Berlin,Governor,,Paul Glover / J. Bowser Bostick,,3,,,Adams County,East Berlin
+Adams,East Berlin,Governor,,Ken V. Krawchuk / K. S. Smith,,6,,,Adams County,East Berlin
+Adams,East Berlin,Governor,,Write In,,2,,,Adams County,East Berlin
+Adams,Fairfield,Governor,,Tom Wolf / John Fetterman,,112,,,Adams County,Fairfield
+Adams,Fairfield,Governor,,Scott R. Wagner / Jeff Bartos,,132,,,Adams County,Fairfield
+Adams,Fairfield,Governor,,Paul Glover / J. Bowser Bostick,,1,,,Adams County,Fairfield
+Adams,Fairfield,Governor,,Ken V. Krawchuk / K. S. Smith,,3,,,Adams County,Fairfield
+Adams,Fairfield,Governor,,Write In,,0,,,Adams County,Fairfield
+Adams,Franklin #1,Governor,,Tom Wolf / John Fetterman,,350,,,Adams County,Franklin #1
+Adams,Franklin #1,Governor,,Scott R. Wagner / Jeff Bartos,,605,,,Adams County,Franklin #1
+Adams,Franklin #1,Governor,,Paul Glover / J. Bowser Bostick,,12,,,Adams County,Franklin #1
+Adams,Franklin #1,Governor,,Ken V. Krawchuk / K. S. Smith,,15,,,Adams County,Franklin #1
+Adams,Franklin #1,Governor,,Write In,,0,,,Adams County,Franklin #1
+Adams,Franklin #2,Governor,,Tom Wolf / John Fetterman,,334,,,Adams County,Franklin #2
+Adams,Franklin #2,Governor,,Scott R. Wagner / Jeff Bartos,,555,,,Adams County,Franklin #2
+Adams,Franklin #2,Governor,,Paul Glover / J. Bowser Bostick,,2,,,Adams County,Franklin #2
+Adams,Franklin #2,Governor,,Ken V. Krawchuk / K. S. Smith,,14,,,Adams County,Franklin #2
+Adams,Franklin #2,Governor,,Write In,,1,,,Adams County,Franklin #2
+Adams,Freedom,Governor,,Tom Wolf / John Fetterman,,169,,,Adams County,Freedom
+Adams,Freedom,Governor,,Scott R. Wagner / Jeff Bartos,,273,,,Adams County,Freedom
+Adams,Freedom,Governor,,Paul Glover / J. Bowser Bostick,,1,,,Adams County,Freedom
+Adams,Freedom,Governor,,Ken V. Krawchuk / K. S. Smith,,6,,,Adams County,Freedom
+Adams,Freedom,Governor,,Write In,,0,,,Adams County,Freedom
+Adams,Germany,Governor,,Tom Wolf / John Fetterman,,336,,,Adams County,Germany
+Adams,Germany,Governor,,Scott R. Wagner / Jeff Bartos,,771,,,Adams County,Germany
+Adams,Germany,Governor,,Paul Glover / J. Bowser Bostick,,7,,,Adams County,Germany
+Adams,Germany,Governor,,Ken V. Krawchuk / K. S. Smith,,7,,,Adams County,Germany
+Adams,Germany,Governor,,Write In,,2,,,Adams County,Germany
+Adams,Gettysburg #1,Governor,,Tom Wolf / John Fetterman,,478,,,Adams County,Gettysburg #1
+Adams,Gettysburg #1,Governor,,Scott R. Wagner / Jeff Bartos,,206,,,Adams County,Gettysburg #1
+Adams,Gettysburg #1,Governor,,Paul Glover / J. Bowser Bostick,,8,,,Adams County,Gettysburg #1
+Adams,Gettysburg #1,Governor,,Ken V. Krawchuk / K. S. Smith,,10,,,Adams County,Gettysburg #1
+Adams,Gettysburg #1,Governor,,Write In,,0,,,Adams County,Gettysburg #1
+Adams,Gettysburg #2,Governor,,Tom Wolf / John Fetterman,,689,,,Adams County,Gettysburg #2
+Adams,Gettysburg #2,Governor,,Scott R. Wagner / Jeff Bartos,,174,,,Adams County,Gettysburg #2
+Adams,Gettysburg #2,Governor,,Paul Glover / J. Bowser Bostick,,9,,,Adams County,Gettysburg #2
+Adams,Gettysburg #2,Governor,,Ken V. Krawchuk / K. S. Smith,,15,,,Adams County,Gettysburg #2
+Adams,Gettysburg #2,Governor,,Write In,,1,,,Adams County,Gettysburg #2
+Adams,Gettysburg #3,Governor,,Tom Wolf / John Fetterman,,392,,,Adams County,Gettysburg #3
+Adams,Gettysburg #3,Governor,,Scott R. Wagner / Jeff Bartos,,250,,,Adams County,Gettysburg #3
+Adams,Gettysburg #3,Governor,,Paul Glover / J. Bowser Bostick,,5,,,Adams County,Gettysburg #3
+Adams,Gettysburg #3,Governor,,Ken V. Krawchuk / K. S. Smith,,8,,,Adams County,Gettysburg #3
+Adams,Gettysburg #3,Governor,,Write In,,0,,,Adams County,Gettysburg #3
+Adams,Hamilton,Governor,,Tom Wolf / John Fetterman,,357,,,Adams County,Hamilton
+Adams,Hamilton,Governor,,Scott R. Wagner / Jeff Bartos,,687,,,Adams County,Hamilton
+Adams,Hamilton,Governor,,Paul Glover / J. Bowser Bostick,,2,,,Adams County,Hamilton
+Adams,Hamilton,Governor,,Ken V. Krawchuk / K. S. Smith,,7,,,Adams County,Hamilton
+Adams,Hamilton,Governor,,Write In,,0,,,Adams County,Hamilton
+Adams,Hamiltonban,Governor,,Tom Wolf / John Fetterman,,301,,,Adams County,Hamiltonban
+Adams,Hamiltonban,Governor,,Scott R. Wagner / Jeff Bartos,,551,,,Adams County,Hamiltonban
+Adams,Hamiltonban,Governor,,Paul Glover / J. Bowser Bostick,,11,,,Adams County,Hamiltonban
+Adams,Hamiltonban,Governor,,Ken V. Krawchuk / K. S. Smith,,6,,,Adams County,Hamiltonban
+Adams,Hamiltonban,Governor,,Write In,,1,,,Adams County,Hamiltonban
+Adams,Highland,Governor,,Tom Wolf / John Fetterman,,186,,,Adams County,Highland
+Adams,Highland,Governor,,Scott R. Wagner / Jeff Bartos,,267,,,Adams County,Highland
+Adams,Highland,Governor,,Paul Glover / J. Bowser Bostick,,5,,,Adams County,Highland
+Adams,Highland,Governor,,Ken V. Krawchuk / K. S. Smith,,4,,,Adams County,Highland
+Adams,Highland,Governor,,Write In,,1,,,Adams County,Highland
+Adams,Huntington,Governor,,Tom Wolf / John Fetterman,,226,,,Adams County,Huntington
+Adams,Huntington,Governor,,Scott R. Wagner / Jeff Bartos,,674,,,Adams County,Huntington
+Adams,Huntington,Governor,,Paul Glover / J. Bowser Bostick,,9,,,Adams County,Huntington
+Adams,Huntington,Governor,,Ken V. Krawchuk / K. S. Smith,,6,,,Adams County,Huntington
+Adams,Huntington,Governor,,Write In,,3,,,Adams County,Huntington
+Adams,Latimore,Governor,,Tom Wolf / John Fetterman,,383,,,Adams County,Latimore
+Adams,Latimore,Governor,,Scott R. Wagner / Jeff Bartos,,718,,,Adams County,Latimore
+Adams,Latimore,Governor,,Paul Glover / J. Bowser Bostick,,10,,,Adams County,Latimore
+Adams,Latimore,Governor,,Ken V. Krawchuk / K. S. Smith,,19,,,Adams County,Latimore
+Adams,Latimore,Governor,,Write In,,2,,,Adams County,Latimore
+Adams,Liberty,Governor,,Tom Wolf / John Fetterman,,226,,,Adams County,Liberty
+Adams,Liberty,Governor,,Scott R. Wagner / Jeff Bartos,,375,,,Adams County,Liberty
+Adams,Liberty,Governor,,Paul Glover / J. Bowser Bostick,,3,,,Adams County,Liberty
+Adams,Liberty,Governor,,Ken V. Krawchuk / K. S. Smith,,4,,,Adams County,Liberty
+Adams,Liberty,Governor,,Write In,,1,,,Adams County,Liberty
+Adams,Littlestown #1,Governor,,Tom Wolf / John Fetterman,,220,,,Adams County,Littlestown #1
+Adams,Littlestown #1,Governor,,Scott R. Wagner / Jeff Bartos,,482,,,Adams County,Littlestown #1
+Adams,Littlestown #1,Governor,,Paul Glover / J. Bowser Bostick,,4,,,Adams County,Littlestown #1
+Adams,Littlestown #1,Governor,,Ken V. Krawchuk / K. S. Smith,,15,,,Adams County,Littlestown #1
+Adams,Littlestown #1,Governor,,Write In,,0,,,Adams County,Littlestown #1
+Adams,Littlestown #2,Governor,,Tom Wolf / John Fetterman,,315,,,Adams County,Littlestown #2
+Adams,Littlestown #2,Governor,,Scott R. Wagner / Jeff Bartos,,522,,,Adams County,Littlestown #2
+Adams,Littlestown #2,Governor,,Paul Glover / J. Bowser Bostick,,5,,,Adams County,Littlestown #2
+Adams,Littlestown #2,Governor,,Ken V. Krawchuk / K. S. Smith,,12,,,Adams County,Littlestown #2
+Adams,Littlestown #2,Governor,,Write In,,0,,,Adams County,Littlestown #2
+Adams,McSherrystown #1,Governor,,Tom Wolf / John Fetterman,,240,,,Adams County,McSherrystown #1
+Adams,McSherrystown #1,Governor,,Scott R. Wagner / Jeff Bartos,,253,,,Adams County,McSherrystown #1
+Adams,McSherrystown #1,Governor,,Paul Glover / J. Bowser Bostick,,5,,,Adams County,McSherrystown #1
+Adams,McSherrystown #1,Governor,,Ken V. Krawchuk / K. S. Smith,,4,,,Adams County,McSherrystown #1
+Adams,McSherrystown #1,Governor,,Write In,,0,,,Adams County,McSherrystown #1
+Adams,McSherrystown #2,Governor,,Tom Wolf / John Fetterman,,157,,,Adams County,McSherrystown #2
+Adams,McSherrystown #2,Governor,,Scott R. Wagner / Jeff Bartos,,173,,,Adams County,McSherrystown #2
+Adams,McSherrystown #2,Governor,,Paul Glover / J. Bowser Bostick,,6,,,Adams County,McSherrystown #2
+Adams,McSherrystown #2,Governor,,Ken V. Krawchuk / K. S. Smith,,9,,,Adams County,McSherrystown #2
+Adams,McSherrystown #2,Governor,,Write In,,0,,,Adams County,McSherrystown #2
+Adams,Menallen,Governor,,Tom Wolf / John Fetterman,,418,,,Adams County,Menallen
+Adams,Menallen,Governor,,Scott R. Wagner / Jeff Bartos,,828,,,Adams County,Menallen
+Adams,Menallen,Governor,,Paul Glover / J. Bowser Bostick,,9,,,Adams County,Menallen
+Adams,Menallen,Governor,,Ken V. Krawchuk / K. S. Smith,,10,,,Adams County,Menallen
+Adams,Menallen,Governor,,Write In,,1,,,Adams County,Menallen
+Adams,Mt Joy #1,Governor,,Tom Wolf / John Fetterman,,398,,,Adams County,Mt Joy #1
+Adams,Mt Joy #1,Governor,,Scott R. Wagner / Jeff Bartos,,425,,,Adams County,Mt Joy #1
+Adams,Mt Joy #1,Governor,,Paul Glover / J. Bowser Bostick,,2,,,Adams County,Mt Joy #1
+Adams,Mt Joy #1,Governor,,Ken V. Krawchuk / K. S. Smith,,8,,,Adams County,Mt Joy #1
+Adams,Mt Joy #1,Governor,,Write In,,0,,,Adams County,Mt Joy #1
+Adams,Mt Joy #2,Governor,,Tom Wolf / John Fetterman,,335,,,Adams County,Mt Joy #2
+Adams,Mt Joy #2,Governor,,Scott R. Wagner / Jeff Bartos,,582,,,Adams County,Mt Joy #2
+Adams,Mt Joy #2,Governor,,Paul Glover / J. Bowser Bostick,,4,,,Adams County,Mt Joy #2
+Adams,Mt Joy #2,Governor,,Ken V. Krawchuk / K. S. Smith,,10,,,Adams County,Mt Joy #2
+Adams,Mt Joy #2,Governor,,Write In,,0,,,Adams County,Mt Joy #2
+Adams,Mt Pleasant #1,Governor,,Tom Wolf / John Fetterman,,389,,,Adams County,Mt Pleasant #1
+Adams,Mt Pleasant #1,Governor,,Scott R. Wagner / Jeff Bartos,,612,,,Adams County,Mt Pleasant #1
+Adams,Mt Pleasant #1,Governor,,Paul Glover / J. Bowser Bostick,,7,,,Adams County,Mt Pleasant #1
+Adams,Mt Pleasant #1,Governor,,Ken V. Krawchuk / K. S. Smith,,15,,,Adams County,Mt Pleasant #1
+Adams,Mt Pleasant #1,Governor,,Write In,,1,,,Adams County,Mt Pleasant #1
+Adams,Mt Pleasant #2,Governor,,Tom Wolf / John Fetterman,,212,,,Adams County,Mt Pleasant #2
+Adams,Mt Pleasant #2,Governor,,Scott R. Wagner / Jeff Bartos,,363,,,Adams County,Mt Pleasant #2
+Adams,Mt Pleasant #2,Governor,,Paul Glover / J. Bowser Bostick,,10,,,Adams County,Mt Pleasant #2
+Adams,Mt Pleasant #2,Governor,,Ken V. Krawchuk / K. S. Smith,,7,,,Adams County,Mt Pleasant #2
+Adams,Mt Pleasant #2,Governor,,Write In,,0,,,Adams County,Mt Pleasant #2
+Adams,New Oxford,Governor,,Tom Wolf / John Fetterman,,243,,,Adams County,New Oxford
+Adams,New Oxford,Governor,,Scott R. Wagner / Jeff Bartos,,224,,,Adams County,New Oxford
+Adams,New Oxford,Governor,,Paul Glover / J. Bowser Bostick,,1,,,Adams County,New Oxford
+Adams,New Oxford,Governor,,Ken V. Krawchuk / K. S. Smith,,7,,,Adams County,New Oxford
+Adams,New Oxford,Governor,,Write In,,1,,,Adams County,New Oxford
+Adams,Oxford #1,Governor,,Tom Wolf / John Fetterman,,355,,,Adams County,Oxford #1
+Adams,Oxford #1,Governor,,Scott R. Wagner / Jeff Bartos,,599,,,Adams County,Oxford #1
+Adams,Oxford #1,Governor,,Paul Glover / J. Bowser Bostick,,7,,,Adams County,Oxford #1
+Adams,Oxford #1,Governor,,Ken V. Krawchuk / K. S. Smith,,9,,,Adams County,Oxford #1
+Adams,Oxford #1,Governor,,Write In,,0,,,Adams County,Oxford #1
+Adams,Oxford #2,Governor,,Tom Wolf / John Fetterman,,524,,,Adams County,Oxford #2
+Adams,Oxford #2,Governor,,Scott R. Wagner / Jeff Bartos,,604,,,Adams County,Oxford #2
+Adams,Oxford #2,Governor,,Paul Glover / J. Bowser Bostick,,6,,,Adams County,Oxford #2
+Adams,Oxford #2,Governor,,Ken V. Krawchuk / K. S. Smith,,12,,,Adams County,Oxford #2
+Adams,Oxford #2,Governor,,Write In,,0,,,Adams County,Oxford #2
+Adams,Reading #1,Governor,,Tom Wolf / John Fetterman,,453,,,Adams County,Reading #1
+Adams,Reading #1,Governor,,Scott R. Wagner / Jeff Bartos,,787,,,Adams County,Reading #1
+Adams,Reading #1,Governor,,Paul Glover / J. Bowser Bostick,,12,,,Adams County,Reading #1
+Adams,Reading #1,Governor,,Ken V. Krawchuk / K. S. Smith,,13,,,Adams County,Reading #1
+Adams,Reading #1,Governor,,Write In,,0,,,Adams County,Reading #1
+Adams,Reading #2,Governor,,Tom Wolf / John Fetterman,,357,,,Adams County,Reading #2
+Adams,Reading #2,Governor,,Scott R. Wagner / Jeff Bartos,,549,,,Adams County,Reading #2
+Adams,Reading #2,Governor,,Paul Glover / J. Bowser Bostick,,5,,,Adams County,Reading #2
+Adams,Reading #2,Governor,,Ken V. Krawchuk / K. S. Smith,,13,,,Adams County,Reading #2
+Adams,Reading #2,Governor,,Write In,,0,,,Adams County,Reading #2
+Adams,Straban #1,Governor,,Tom Wolf / John Fetterman,,551,,,Adams County,Straban #1
+Adams,Straban #1,Governor,,Scott R. Wagner / Jeff Bartos,,486,,,Adams County,Straban #1
+Adams,Straban #1,Governor,,Paul Glover / J. Bowser Bostick,,6,,,Adams County,Straban #1
+Adams,Straban #1,Governor,,Ken V. Krawchuk / K. S. Smith,,10,,,Adams County,Straban #1
+Adams,Straban #1,Governor,,Write In,,2,,,Adams County,Straban #1
+Adams,Straban #2,Governor,,Tom Wolf / John Fetterman,,339,,,Adams County,Straban #2
+Adams,Straban #2,Governor,,Scott R. Wagner / Jeff Bartos,,532,,,Adams County,Straban #2
+Adams,Straban #2,Governor,,Paul Glover / J. Bowser Bostick,,3,,,Adams County,Straban #2
+Adams,Straban #2,Governor,,Ken V. Krawchuk / K. S. Smith,,9,,,Adams County,Straban #2
+Adams,Straban #2,Governor,,Write In,,0,,,Adams County,Straban #2
+Adams,Tyrone,Governor,,Tom Wolf / John Fetterman,,259,,,Adams County,Tyrone
+Adams,Tyrone,Governor,,Scott R. Wagner / Jeff Bartos,,485,,,Adams County,Tyrone
+Adams,Tyrone,Governor,,Paul Glover / J. Bowser Bostick,,7,,,Adams County,Tyrone
+Adams,Tyrone,Governor,,Ken V. Krawchuk / K. S. Smith,,8,,,Adams County,Tyrone
+Adams,Tyrone,Governor,,Write In,,0,,,Adams County,Tyrone
+Adams,Union,Governor,,Tom Wolf / John Fetterman,,380,,,Adams County,Union
+Adams,Union,Governor,,Scott R. Wagner / Jeff Bartos,,839,,,Adams County,Union
+Adams,Union,Governor,,Paul Glover / J. Bowser Bostick,,6,,,Adams County,Union
+Adams,Union,Governor,,Ken V. Krawchuk / K. S. Smith,,11,,,Adams County,Union
+Adams,Union,Governor,,Write In,,1,,,Adams County,Union
+Adams,York Springs,Governor,,Tom Wolf / John Fetterman,,78,,,Adams County,York Springs
+Adams,York Springs,Governor,,Scott R. Wagner / Jeff Bartos,,62,,,Adams County,York Springs
+Adams,York Springs,Governor,,Paul Glover / J. Bowser Bostick,,2,,,Adams County,York Springs
+Adams,York Springs,Governor,,Ken V. Krawchuk / K. S. Smith,,3,,,Adams County,York Springs
+Adams,York Springs,Governor,,Write In,,0,,,Adams County,York Springs
+Adams,Abbottstown,U.S. House,13.0,Brent Ottaway,,108,,,Adams County,Abbottstown
+Adams,Abbottstown,U.S. House,13.0,John Joyce,,201,,,Adams County,Abbottstown
+Adams,Abbottstown,U.S. House,13.0,Write In,,0,,,Adams County,Abbottstown
+Adams,Arendtsville,U.S. House,13.0,Brent Ottaway,,132,,,Adams County,Arendtsville
+Adams,Arendtsville,U.S. House,13.0,John Joyce,,204,,,Adams County,Arendtsville
+Adams,Arendtsville,U.S. House,13.0,Write In,,1,,,Adams County,Arendtsville
+Adams,Bendersville,U.S. House,13.0,Brent Ottaway,,66,,,Adams County,Bendersville
+Adams,Bendersville,U.S. House,13.0,John Joyce,,111,,,Adams County,Bendersville
+Adams,Bendersville,U.S. House,13.0,Write In,,0,,,Adams County,Bendersville
+Adams,Berwick,U.S. House,13.0,Brent Ottaway,,252,,,Adams County,Berwick
+Adams,Berwick,U.S. House,13.0,John Joyce,,631,,,Adams County,Berwick
+Adams,Berwick,U.S. House,13.0,Write In,,0,,,Adams County,Berwick
+Adams,Biglerville,U.S. House,13.0,Brent Ottaway,,133,,,Adams County,Biglerville
+Adams,Biglerville,U.S. House,13.0,John Joyce,,261,,,Adams County,Biglerville
+Adams,Biglerville,U.S. House,13.0,Write In,,0,,,Adams County,Biglerville
+Adams,Bonneauville,U.S. House,13.0,Brent Ottaway,,204,,,Adams County,Bonneauville
+Adams,Bonneauville,U.S. House,13.0,John Joyce,,404,,,Adams County,Bonneauville
+Adams,Bonneauville,U.S. House,13.0,Write In,,0,,,Adams County,Bonneauville
+Adams,Butler,U.S. House,13.0,Brent Ottaway,,261,,,Adams County,Butler
+Adams,Butler,U.S. House,13.0,John Joyce,,773,,,Adams County,Butler
+Adams,Butler,U.S. House,13.0,Write In,,3,,,Adams County,Butler
+Adams,Carroll Valley #1,U.S. House,13.0,Brent Ottaway,,313,,,Adams County,Carroll Valley #1
+Adams,Carroll Valley #1,U.S. House,13.0,John Joyce,,627,,,Adams County,Carroll Valley #1
+Adams,Carroll Valley #1,U.S. House,13.0,Write In,,0,,,Adams County,Carroll Valley #1
+Adams,Carroll Valley #2,U.S. House,13.0,Brent Ottaway,,277,,,Adams County,Carroll Valley #2
+Adams,Carroll Valley #2,U.S. House,13.0,John Joyce,,509,,,Adams County,Carroll Valley #2
+Adams,Carroll Valley #2,U.S. House,13.0,Write In,,0,,,Adams County,Carroll Valley #2
+Adams,Conewago #1,U.S. House,13.0,Brent Ottaway,,423,,,Adams County,Conewago #1
+Adams,Conewago #1,U.S. House,13.0,John Joyce,,798,,,Adams County,Conewago #1
+Adams,Conewago #1,U.S. House,13.0,Write In,,1,,,Adams County,Conewago #1
+Adams,Conewago #2,U.S. House,13.0,Brent Ottaway,,421,,,Adams County,Conewago #2
+Adams,Conewago #2,U.S. House,13.0,John Joyce,,921,,,Adams County,Conewago #2
+Adams,Conewago #2,U.S. House,13.0,Write In,,3,,,Adams County,Conewago #2
+Adams,Cumberland #1,U.S. House,13.0,Brent Ottaway,,455,,,Adams County,Cumberland #1
+Adams,Cumberland #1,U.S. House,13.0,John Joyce,,499,,,Adams County,Cumberland #1
+Adams,Cumberland #1,U.S. House,13.0,Write In,,0,,,Adams County,Cumberland #1
+Adams,Cumberland #2,U.S. House,13.0,Brent Ottaway,,181,,,Adams County,Cumberland #2
+Adams,Cumberland #2,U.S. House,13.0,John Joyce,,489,,,Adams County,Cumberland #2
+Adams,Cumberland #2,U.S. House,13.0,Write In,,0,,,Adams County,Cumberland #2
+Adams,Cumberland #3,U.S. House,13.0,Brent Ottaway,,380,,,Adams County,Cumberland #3
+Adams,Cumberland #3,U.S. House,13.0,John Joyce,,494,,,Adams County,Cumberland #3
+Adams,Cumberland #3,U.S. House,13.0,Write In,,0,,,Adams County,Cumberland #3
+Adams,Cumberland #4,U.S. House,13.0,Brent Ottaway,,472,,,Adams County,Cumberland #4
+Adams,Cumberland #4,U.S. House,13.0,John Joyce,,478,,,Adams County,Cumberland #4
+Adams,Cumberland #4,U.S. House,13.0,Write In,,2,,,Adams County,Cumberland #4
+Adams,East Berlin,U.S. House,13.0,Brent Ottaway,,204,,,Adams County,East Berlin
+Adams,East Berlin,U.S. House,13.0,John Joyce,,422,,,Adams County,East Berlin
+Adams,East Berlin,U.S. House,13.0,Write In,,4,,,Adams County,East Berlin
+Adams,Fairfield,U.S. House,13.0,Brent Ottaway,,93,,,Adams County,Fairfield
+Adams,Fairfield,U.S. House,13.0,John Joyce,,153,,,Adams County,Fairfield
+Adams,Fairfield,U.S. House,13.0,Write In,,1,,,Adams County,Fairfield
+Adams,Franklin #1,U.S. House,13.0,Brent Ottaway,,304,,,Adams County,Franklin #1
+Adams,Franklin #1,U.S. House,13.0,John Joyce,,674,,,Adams County,Franklin #1
+Adams,Franklin #1,U.S. House,13.0,Write In,,0,,,Adams County,Franklin #1
+Adams,Franklin #2,U.S. House,13.0,Brent Ottaway,,250,,,Adams County,Franklin #2
+Adams,Franklin #2,U.S. House,13.0,John Joyce,,647,,,Adams County,Franklin #2
+Adams,Franklin #2,U.S. House,13.0,Write In,,3,,,Adams County,Franklin #2
+Adams,Freedom,U.S. House,13.0,Brent Ottaway,,140,,,Adams County,Freedom
+Adams,Freedom,U.S. House,13.0,John Joyce,,306,,,Adams County,Freedom
+Adams,Freedom,U.S. House,13.0,Write In,,0,,,Adams County,Freedom
+Adams,Germany,U.S. House,13.0,Brent Ottaway,,272,,,Adams County,Germany
+Adams,Germany,U.S. House,13.0,John Joyce,,854,,,Adams County,Germany
+Adams,Germany,U.S. House,13.0,Write In,,1,,,Adams County,Germany
+Adams,Gettysburg #1,U.S. House,13.0,Brent Ottaway,,456,,,Adams County,Gettysburg #1
+Adams,Gettysburg #1,U.S. House,13.0,John Joyce,,240,,,Adams County,Gettysburg #1
+Adams,Gettysburg #1,U.S. House,13.0,Write In,,4,,,Adams County,Gettysburg #1
+Adams,Gettysburg #2,U.S. House,13.0,Brent Ottaway,,672,,,Adams County,Gettysburg #2
+Adams,Gettysburg #2,U.S. House,13.0,John Joyce,,213,,,Adams County,Gettysburg #2
+Adams,Gettysburg #2,U.S. House,13.0,Write In,,1,,,Adams County,Gettysburg #2
+Adams,Gettysburg #3,U.S. House,13.0,Brent Ottaway,,364,,,Adams County,Gettysburg #3
+Adams,Gettysburg #3,U.S. House,13.0,John Joyce,,288,,,Adams County,Gettysburg #3
+Adams,Gettysburg #3,U.S. House,13.0,Write In,,2,,,Adams County,Gettysburg #3
+Adams,Hamilton,U.S. House,13.0,Brent Ottaway,,266,,,Adams County,Hamilton
+Adams,Hamilton,U.S. House,13.0,John Joyce,,782,,,Adams County,Hamilton
+Adams,Hamilton,U.S. House,13.0,Write In,,1,,,Adams County,Hamilton
+Adams,Hamiltonban,U.S. House,13.0,Brent Ottaway,,256,,,Adams County,Hamiltonban
+Adams,Hamiltonban,U.S. House,13.0,John Joyce,,614,,,Adams County,Hamiltonban
+Adams,Hamiltonban,U.S. House,13.0,Write In,,3,,,Adams County,Hamiltonban
+Adams,Highland,U.S. House,13.0,Brent Ottaway,,155,,,Adams County,Highland
+Adams,Highland,U.S. House,13.0,John Joyce,,305,,,Adams County,Highland
+Adams,Highland,U.S. House,13.0,Write In,,0,,,Adams County,Highland
+Adams,Huntington,U.S. House,13.0,Brent Ottaway,,180,,,Adams County,Huntington
+Adams,Huntington,U.S. House,13.0,John Joyce,,735,,,Adams County,Huntington
+Adams,Huntington,U.S. House,13.0,Write In,,0,,,Adams County,Huntington
+Adams,Latimore,U.S. House,13.0,Brent Ottaway,,298,,,Adams County,Latimore
+Adams,Latimore,U.S. House,13.0,John Joyce,,824,,,Adams County,Latimore
+Adams,Latimore,U.S. House,13.0,Write In,,3,,,Adams County,Latimore
+Adams,Liberty,U.S. House,13.0,Brent Ottaway,,198,,,Adams County,Liberty
+Adams,Liberty,U.S. House,13.0,John Joyce,,411,,,Adams County,Liberty
+Adams,Liberty,U.S. House,13.0,Write In,,0,,,Adams County,Liberty
+Adams,Littlestown #1,U.S. House,13.0,Brent Ottaway,,185,,,Adams County,Littlestown #1
+Adams,Littlestown #1,U.S. House,13.0,John Joyce,,527,,,Adams County,Littlestown #1
+Adams,Littlestown #1,U.S. House,13.0,Write In,,1,,,Adams County,Littlestown #1
+Adams,Littlestown #2,U.S. House,13.0,Brent Ottaway,,251,,,Adams County,Littlestown #2
+Adams,Littlestown #2,U.S. House,13.0,John Joyce,,600,,,Adams County,Littlestown #2
+Adams,Littlestown #2,U.S. House,13.0,Write In,,2,,,Adams County,Littlestown #2
+Adams,McSherrystown #1,U.S. House,13.0,Brent Ottaway,,218,,,Adams County,McSherrystown #1
+Adams,McSherrystown #1,U.S. House,13.0,John Joyce,,283,,,Adams County,McSherrystown #1
+Adams,McSherrystown #1,U.S. House,13.0,Write In,,0,,,Adams County,McSherrystown #1
+Adams,McSherrystown #2,U.S. House,13.0,Brent Ottaway,,125,,,Adams County,McSherrystown #2
+Adams,McSherrystown #2,U.S. House,13.0,John Joyce,,217,,,Adams County,McSherrystown #2
+Adams,McSherrystown #2,U.S. House,13.0,Write In,,1,,,Adams County,McSherrystown #2
+Adams,Menallen,U.S. House,13.0,Brent Ottaway,,355,,,Adams County,Menallen
+Adams,Menallen,U.S. House,13.0,John Joyce,,913,,,Adams County,Menallen
+Adams,Menallen,U.S. House,13.0,Write In,,1,,,Adams County,Menallen
+Adams,Mt Joy #1,U.S. House,13.0,Brent Ottaway,,329,,,Adams County,Mt Joy #1
+Adams,Mt Joy #1,U.S. House,13.0,John Joyce,,496,,,Adams County,Mt Joy #1
+Adams,Mt Joy #1,U.S. House,13.0,Write In,,2,,,Adams County,Mt Joy #1
+Adams,Mt Joy #2,U.S. House,13.0,Brent Ottaway,,287,,,Adams County,Mt Joy #2
+Adams,Mt Joy #2,U.S. House,13.0,John Joyce,,639,,,Adams County,Mt Joy #2
+Adams,Mt Joy #2,U.S. House,13.0,Write In,,0,,,Adams County,Mt Joy #2
+Adams,Mt Pleasant #1,U.S. House,13.0,Brent Ottaway,,327,,,Adams County,Mt Pleasant #1
+Adams,Mt Pleasant #1,U.S. House,13.0,John Joyce,,695,,,Adams County,Mt Pleasant #1
+Adams,Mt Pleasant #1,U.S. House,13.0,Write In,,0,,,Adams County,Mt Pleasant #1
+Adams,Mt Pleasant #2,U.S. House,13.0,Brent Ottaway,,156,,,Adams County,Mt Pleasant #2
+Adams,Mt Pleasant #2,U.S. House,13.0,John Joyce,,430,,,Adams County,Mt Pleasant #2
+Adams,Mt Pleasant #2,U.S. House,13.0,Write In,,1,,,Adams County,Mt Pleasant #2
+Adams,New Oxford,U.S. House,13.0,Brent Ottaway,,218,,,Adams County,New Oxford
+Adams,New Oxford,U.S. House,13.0,John Joyce,,258,,,Adams County,New Oxford
+Adams,New Oxford,U.S. House,13.0,Write In,,0,,,Adams County,New Oxford
+Adams,Oxford #1,U.S. House,13.0,Brent Ottaway,,315,,,Adams County,Oxford #1
+Adams,Oxford #1,U.S. House,13.0,John Joyce,,650,,,Adams County,Oxford #1
+Adams,Oxford #1,U.S. House,13.0,Write In,,0,,,Adams County,Oxford #1
+Adams,Oxford #2,U.S. House,13.0,Brent Ottaway,,403,,,Adams County,Oxford #2
+Adams,Oxford #2,U.S. House,13.0,John Joyce,,731,,,Adams County,Oxford #2
+Adams,Oxford #2,U.S. House,13.0,Write In,,2,,,Adams County,Oxford #2
+Adams,Reading #1,U.S. House,13.0,Brent Ottaway,,370,,,Adams County,Reading #1
+Adams,Reading #1,U.S. House,13.0,John Joyce,,888,,,Adams County,Reading #1
+Adams,Reading #1,U.S. House,13.0,Write In,,1,,,Adams County,Reading #1
+Adams,Reading #2,U.S. House,13.0,Brent Ottaway,,275,,,Adams County,Reading #2
+Adams,Reading #2,U.S. House,13.0,John Joyce,,642,,,Adams County,Reading #2
+Adams,Reading #2,U.S. House,13.0,Write In,,3,,,Adams County,Reading #2
+Adams,Straban #1,U.S. House,13.0,Brent Ottaway,,457,,,Adams County,Straban #1
+Adams,Straban #1,U.S. House,13.0,John Joyce,,589,,,Adams County,Straban #1
+Adams,Straban #1,U.S. House,13.0,Write In,,1,,,Adams County,Straban #1
+Adams,Straban #2,U.S. House,13.0,Brent Ottaway,,273,,,Adams County,Straban #2
+Adams,Straban #2,U.S. House,13.0,John Joyce,,605,,,Adams County,Straban #2
+Adams,Straban #2,U.S. House,13.0,Write In,,1,,,Adams County,Straban #2
+Adams,Tyrone,U.S. House,13.0,Brent Ottaway,,209,,,Adams County,Tyrone
+Adams,Tyrone,U.S. House,13.0,John Joyce,,543,,,Adams County,Tyrone
+Adams,Tyrone,U.S. House,13.0,Write In,,2,,,Adams County,Tyrone
+Adams,Union,U.S. House,13.0,Brent Ottaway,,293,,,Adams County,Union
+Adams,Union,U.S. House,13.0,John Joyce,,937,,,Adams County,Union
+Adams,Union,U.S. House,13.0,Write In,,0,,,Adams County,Union
+Adams,York Springs,U.S. House,13.0,Brent Ottaway,,59,,,Adams County,York Springs
+Adams,York Springs,U.S. House,13.0,John Joyce,,85,,,Adams County,York Springs
+Adams,York Springs,U.S. House,13.0,Write In,,0,,,Adams County,York Springs
+Adams,Bonneauville,State House,91.0,Marty Qually,,212,,,Adams County,Bonneauville
+Adams,Bonneauville,State House,91.0,Dan Moul,,400,,,Adams County,Bonneauville
+Adams,Bonneauville,State House,91.0,Write In,,0,,,Adams County,Bonneauville
+Adams,Carroll Valley #1,State House,91.0,Marty Qually,,321,,,Adams County,Carroll Valley #1
+Adams,Carroll Valley #1,State House,91.0,Dan Moul,,625,,,Adams County,Carroll Valley #1
+Adams,Carroll Valley #1,State House,91.0,Write In,,0,,,Adams County,Carroll Valley #1
+Adams,Carroll Valley #2,State House,91.0,Marty Qually,,291,,,Adams County,Carroll Valley #2
+Adams,Carroll Valley #2,State House,91.0,Dan Moul,,497,,,Adams County,Carroll Valley #2
+Adams,Carroll Valley #2,State House,91.0,Write In,,0,,,Adams County,Carroll Valley #2
+Adams,Conewago #1,State House,91.0,Marty Qually,,429,,,Adams County,Conewago #1
+Adams,Conewago #1,State House,91.0,Dan Moul,,794,,,Adams County,Conewago #1
+Adams,Conewago #1,State House,91.0,Write In,,2,,,Adams County,Conewago #1
+Adams,Conewago #2,State House,91.0,Marty Qually,,414,,,Adams County,Conewago #2
+Adams,Conewago #2,State House,91.0,Dan Moul,,927,,,Adams County,Conewago #2
+Adams,Conewago #2,State House,91.0,Write In,,6,,,Adams County,Conewago #2
+Adams,Cumberland #1,State House,91.0,Marty Qually,,487,,,Adams County,Cumberland #1
+Adams,Cumberland #1,State House,91.0,Dan Moul,,476,,,Adams County,Cumberland #1
+Adams,Cumberland #1,State House,91.0,Write In,,0,,,Adams County,Cumberland #1
+Adams,Cumberland #2,State House,91.0,Marty Qually,,199,,,Adams County,Cumberland #2
+Adams,Cumberland #2,State House,91.0,Dan Moul,,473,,,Adams County,Cumberland #2
+Adams,Cumberland #2,State House,91.0,Write In,,2,,,Adams County,Cumberland #2
+Adams,Cumberland #3,State House,91.0,Marty Qually,,390,,,Adams County,Cumberland #3
+Adams,Cumberland #3,State House,91.0,Dan Moul,,493,,,Adams County,Cumberland #3
+Adams,Cumberland #3,State House,91.0,Write In,,0,,,Adams County,Cumberland #3
+Adams,Cumberland #4,State House,91.0,Marty Qually,,499,,,Adams County,Cumberland #4
+Adams,Cumberland #4,State House,91.0,Dan Moul,,455,,,Adams County,Cumberland #4
+Adams,Cumberland #4,State House,91.0,Write In,,0,,,Adams County,Cumberland #4
+Adams,Fairfield,State House,91.0,Marty Qually,,92,,,Adams County,Fairfield
+Adams,Fairfield,State House,91.0,Dan Moul,,156,,,Adams County,Fairfield
+Adams,Fairfield,State House,91.0,Write In,,0,,,Adams County,Fairfield
+Adams,Franklin #1,State House,91.0,Marty Qually,,307,,,Adams County,Franklin #1
+Adams,Franklin #1,State House,91.0,Dan Moul,,671,,,Adams County,Franklin #1
+Adams,Franklin #1,State House,91.0,Write In,,0,,,Adams County,Franklin #1
+Adams,Franklin #2,State House,91.0,Marty Qually,,251,,,Adams County,Franklin #2
+Adams,Franklin #2,State House,91.0,Dan Moul,,654,,,Adams County,Franklin #2
+Adams,Franklin #2,State House,91.0,Write In,,1,,,Adams County,Franklin #2
+Adams,Freedom,State House,91.0,Marty Qually,,142,,,Adams County,Freedom
+Adams,Freedom,State House,91.0,Dan Moul,,303,,,Adams County,Freedom
+Adams,Freedom,State House,91.0,Write In,,2,,,Adams County,Freedom
+Adams,Germany,State House,91.0,Marty Qually,,279,,,Adams County,Germany
+Adams,Germany,State House,91.0,Dan Moul,,847,,,Adams County,Germany
+Adams,Germany,State House,91.0,Write In,,1,,,Adams County,Germany
+Adams,Gettysburg #1,State House,91.0,Marty Qually,,460,,,Adams County,Gettysburg #1
+Adams,Gettysburg #1,State House,91.0,Dan Moul,,239,,,Adams County,Gettysburg #1
+Adams,Gettysburg #1,State House,91.0,Write In,,2,,,Adams County,Gettysburg #1
+Adams,Gettysburg #2,State House,91.0,Marty Qually,,677,,,Adams County,Gettysburg #2
+Adams,Gettysburg #2,State House,91.0,Dan Moul,,205,,,Adams County,Gettysburg #2
+Adams,Gettysburg #2,State House,91.0,Write In,,3,,,Adams County,Gettysburg #2
+Adams,Gettysburg #3,State House,91.0,Marty Qually,,369,,,Adams County,Gettysburg #3
+Adams,Gettysburg #3,State House,91.0,Dan Moul,,286,,,Adams County,Gettysburg #3
+Adams,Gettysburg #3,State House,91.0,Write In,,1,,,Adams County,Gettysburg #3
+Adams,Hamiltonban,State House,91.0,Marty Qually,,259,,,Adams County,Hamiltonban
+Adams,Hamiltonban,State House,91.0,Dan Moul,,618,,,Adams County,Hamiltonban
+Adams,Hamiltonban,State House,91.0,Write In,,2,,,Adams County,Hamiltonban
+Adams,Highland,State House,91.0,Marty Qually,,159,,,Adams County,Highland
+Adams,Highland,State House,91.0,Dan Moul,,304,,,Adams County,Highland
+Adams,Highland,State House,91.0,Write In,,0,,,Adams County,Highland
+Adams,Liberty,State House,91.0,Marty Qually,,196,,,Adams County,Liberty
+Adams,Liberty,State House,91.0,Dan Moul,,412,,,Adams County,Liberty
+Adams,Liberty,State House,91.0,Write In,,0,,,Adams County,Liberty
+Adams,Littlestown #1,State House,91.0,Marty Qually,,187,,,Adams County,Littlestown #1
+Adams,Littlestown #1,State House,91.0,Dan Moul,,530,,,Adams County,Littlestown #1
+Adams,Littlestown #1,State House,91.0,Write In,,0,,,Adams County,Littlestown #1
+Adams,Littlestown #2,State House,91.0,Marty Qually,,260,,,Adams County,Littlestown #2
+Adams,Littlestown #2,State House,91.0,Dan Moul,,599,,,Adams County,Littlestown #2
+Adams,Littlestown #2,State House,91.0,Write In,,0,,,Adams County,Littlestown #2
+Adams,McSherrystown #1,State House,91.0,Marty Qually,,205,,,Adams County,McSherrystown #1
+Adams,McSherrystown #1,State House,91.0,Dan Moul,,298,,,Adams County,McSherrystown #1
+Adams,McSherrystown #1,State House,91.0,Write In,,1,,,Adams County,McSherrystown #1
+Adams,McSherrystown #2,State House,91.0,Marty Qually,,144,,,Adams County,McSherrystown #2
+Adams,McSherrystown #2,State House,91.0,Dan Moul,,203,,,Adams County,McSherrystown #2
+Adams,McSherrystown #2,State House,91.0,Write In,,0,,,Adams County,McSherrystown #2
+Adams,Mt Joy #1,State House,91.0,Marty Qually,,327,,,Adams County,Mt Joy #1
+Adams,Mt Joy #1,State House,91.0,Dan Moul,,505,,,Adams County,Mt Joy #1
+Adams,Mt Joy #1,State House,91.0,Write In,,1,,,Adams County,Mt Joy #1
+Adams,Mt Joy #2,State House,91.0,Marty Qually,,274,,,Adams County,Mt Joy #2
+Adams,Mt Joy #2,State House,91.0,Dan Moul,,658,,,Adams County,Mt Joy #2
+Adams,Mt Joy #2,State House,91.0,Write In,,2,,,Adams County,Mt Joy #2
+Adams,Mt Pleasant #1,State House,91.0,Marty Qually,,302,,,Adams County,Mt Pleasant #1
+Adams,Mt Pleasant #1,State House,91.0,Dan Moul,,721,,,Adams County,Mt Pleasant #1
+Adams,Mt Pleasant #1,State House,91.0,Write In,,2,,,Adams County,Mt Pleasant #1
+Adams,Mt Pleasant #2,State House,91.0,Marty Qually,,142,,,Adams County,Mt Pleasant #2
+Adams,Mt Pleasant #2,State House,91.0,Dan Moul,,447,,,Adams County,Mt Pleasant #2
+Adams,Mt Pleasant #2,State House,91.0,Write In,,2,,,Adams County,Mt Pleasant #2
+Adams,Straban #1,State House,91.0,Marty Qually,,477,,,Adams County,Straban #1
+Adams,Straban #1,State House,91.0,Dan Moul,,581,,,Adams County,Straban #1
+Adams,Straban #1,State House,91.0,Write In,,0,,,Adams County,Straban #1
+Adams,Straban #2,State House,91.0,Marty Qually,,270,,,Adams County,Straban #2
+Adams,Straban #2,State House,91.0,Dan Moul,,613,,,Adams County,Straban #2
+Adams,Straban #2,State House,91.0,Write In,,0,,,Adams County,Straban #2
+Adams,Union,State House,91.0,Marty Qually,,303,,,Adams County,Union
+Adams,Union,State House,91.0,Dan Moul,,930,,,Adams County,Union
+Adams,Union,State House,91.0,Write In,,3,,,Adams County,Union
+Adams,Abbottstown,State House,193.0,Matthew Nelson,,103,,,Adams County,Abbottstown
+Adams,Abbottstown,State House,193.0,Torren Ecker,,204,,,Adams County,Abbottstown
+Adams,Abbottstown,State House,193.0,Write In,,1,,,Adams County,Abbottstown
+Adams,Arendtsville,State House,193.0,Matthew Nelson,,133,,,Adams County,Arendtsville
+Adams,Arendtsville,State House,193.0,Torren Ecker,,205,,,Adams County,Arendtsville
+Adams,Arendtsville,State House,193.0,Write In,,0,,,Adams County,Arendtsville
+Adams,Bendersville,State House,193.0,Matthew Nelson,,67,,,Adams County,Bendersville
+Adams,Bendersville,State House,193.0,Torren Ecker,,111,,,Adams County,Bendersville
+Adams,Bendersville,State House,193.0,Write In,,0,,,Adams County,Bendersville
+Adams,Berwick,State House,193.0,Matthew Nelson,,260,,,Adams County,Berwick
+Adams,Berwick,State House,193.0,Torren Ecker,,623,,,Adams County,Berwick
+Adams,Berwick,State House,193.0,Write In,,3,,,Adams County,Berwick
+Adams,Biglerville,State House,193.0,Matthew Nelson,,126,,,Adams County,Biglerville
+Adams,Biglerville,State House,193.0,Torren Ecker,,263,,,Adams County,Biglerville
+Adams,Biglerville,State House,193.0,Write In,,0,,,Adams County,Biglerville
+Adams,Butler,State House,193.0,Matthew Nelson,,266,,,Adams County,Butler
+Adams,Butler,State House,193.0,Torren Ecker,,767,,,Adams County,Butler
+Adams,Butler,State House,193.0,Write In,,0,,,Adams County,Butler
+Adams,East Berlin,State House,193.0,Matthew Nelson,,208,,,Adams County,East Berlin
+Adams,East Berlin,State House,193.0,Torren Ecker,,421,,,Adams County,East Berlin
+Adams,East Berlin,State House,193.0,Write In,,5,,,Adams County,East Berlin
+Adams,Hamilton,State House,193.0,Matthew Nelson,,247,,,Adams County,Hamilton
+Adams,Hamilton,State House,193.0,Torren Ecker,,807,,,Adams County,Hamilton
+Adams,Hamilton,State House,193.0,Write In,,1,,,Adams County,Hamilton
+Adams,Huntington,State House,193.0,Matthew Nelson,,172,,,Adams County,Huntington
+Adams,Huntington,State House,193.0,Torren Ecker,,741,,,Adams County,Huntington
+Adams,Huntington,State House,193.0,Write In,,2,,,Adams County,Huntington
+Adams,Latimore,State House,193.0,Matthew Nelson,,332,,,Adams County,Latimore
+Adams,Latimore,State House,193.0,Torren Ecker,,793,,,Adams County,Latimore
+Adams,Latimore,State House,193.0,Write In,,5,,,Adams County,Latimore
+Adams,Menallen,State House,193.0,Matthew Nelson,,357,,,Adams County,Menallen
+Adams,Menallen,State House,193.0,Torren Ecker,,910,,,Adams County,Menallen
+Adams,Menallen,State House,193.0,Write In,,0,,,Adams County,Menallen
+Adams,New Oxford,State House,193.0,Matthew Nelson,,211,,,Adams County,New Oxford
+Adams,New Oxford,State House,193.0,Torren Ecker,,262,,,Adams County,New Oxford
+Adams,New Oxford,State House,193.0,Write In,,1,,,Adams County,New Oxford
+Adams,Oxford #1,State House,193.0,Matthew Nelson,,315,,,Adams County,Oxford #1
+Adams,Oxford #1,State House,193.0,Torren Ecker,,650,,,Adams County,Oxford #1
+Adams,Oxford #1,State House,193.0,Write In,,1,,,Adams County,Oxford #1
+Adams,Oxford #2,State House,193.0,Matthew Nelson,,404,,,Adams County,Oxford #2
+Adams,Oxford #2,State House,193.0,Torren Ecker,,729,,,Adams County,Oxford #2
+Adams,Oxford #2,State House,193.0,Write In,,4,,,Adams County,Oxford #2
+Adams,Reading #1,State House,193.0,Matthew Nelson,,383,,,Adams County,Reading #1
+Adams,Reading #1,State House,193.0,Torren Ecker,,879,,,Adams County,Reading #1
+Adams,Reading #1,State House,193.0,Write In,,1,,,Adams County,Reading #1
+Adams,Reading #2,State House,193.0,Matthew Nelson,,285,,,Adams County,Reading #2
+Adams,Reading #2,State House,193.0,Torren Ecker,,638,,,Adams County,Reading #2
+Adams,Reading #2,State House,193.0,Write In,,1,,,Adams County,Reading #2
+Adams,Tyrone,State House,193.0,Matthew Nelson,,210,,,Adams County,Tyrone
+Adams,Tyrone,State House,193.0,Torren Ecker,,544,,,Adams County,Tyrone
+Adams,Tyrone,State House,193.0,Write In,,1,,,Adams County,Tyrone
+Adams,York Springs,State House,193.0,Matthew Nelson,,59,,,Adams County,York Springs
+Adams,York Springs,State House,193.0,Torren Ecker,,85,,,Adams County,York Springs
+Adams,York Springs,State House,193.0,Write In,,0,,,Adams County,York Springs

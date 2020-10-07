@@ -1,0 +1,993 @@
+county,precinct,office,district,candidate,party,votes,election_day,absentee,county_id,original_precinct_name
+Armstrong,Apollo Borough,U.S. Senate,,"Bob Casey, Jr.",DEM,199.0,196.0,3.0,Armstrong County,Apollo Borough
+Armstrong,Apollo Borough,U.S. Senate,,Lou Barletta,REP,201.0,198.0,3.0,Armstrong County,Apollo Borough
+Armstrong,Apollo Borough,U.S. Senate,,Neal Gale,GRN,4.0,4.0,0.0,Armstrong County,Apollo Borough
+Armstrong,Apollo Borough,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,11.0,11.0,0.0,Armstrong County,Apollo Borough
+Armstrong,Apollo Borough,Governor,,Wolf/Fetterman,DEM,203.0,200.0,3.0,Armstrong County,Apollo Borough
+Armstrong,Apollo Borough,Governor,,Wagner/Bartos,REP,206.0,203.0,3.0,Armstrong County,Apollo Borough
+Armstrong,Apollo Borough,Governor,,Glover/Bowser-Bos,GREEN,5.0,5.0,0.0,Armstrong County,Apollo Borough
+Armstrong,Apollo Borough,Governor,,Krawchuk/Smith,LIB,4.0,4.0,0.0,Armstrong County,Apollo Borough
+Armstrong,Apollo Borough,Governor,,Write-ins,,1.0,1.0,0.0,Armstrong County,Apollo Borough
+Armstrong,Apollo Borough,U.S. House,15.0,Susan Boser,DEM,182.0,179.0,3.0,Armstrong County,Apollo Borough
+Armstrong,Apollo Borough,U.S. House,15.0,Glenn GT Thompson,REP,229.0,226.0,3.0,Armstrong County,Apollo Borough
+Armstrong,Apollo Borough,U.S. House,15.0,Write-ins,,1.0,1.0,0.0,Armstrong County,Apollo Borough
+Armstrong,Apollo Borough,State House,55.0,Joseph A. Petrarca,DEM,305.0,302.0,3.0,Armstrong County,Apollo Borough
+Armstrong,Apollo Borough,State House,55.0,Write-ins,,13.0,13.0,0.0,Armstrong County,Apollo Borough
+Armstrong,Applewold Borough,U.S. Senate,,"Bob Casey, Jr.",DEM,57.0,56.0,1.0,Armstrong County,Applewold Borough
+Armstrong,Applewold Borough,U.S. Senate,,Lou Barletta,REP,66.0,66.0,0.0,Armstrong County,Applewold Borough
+Armstrong,Applewold Borough,U.S. Senate,,Neal Gale,GRN,0.0,0.0,0.0,Armstrong County,Applewold Borough
+Armstrong,Applewold Borough,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,3.0,3.0,0.0,Armstrong County,Applewold Borough
+Armstrong,Applewold Borough,Governor,,Wolf/Fetterman,DEM,54.0,53.0,1.0,Armstrong County,Applewold Borough
+Armstrong,Applewold Borough,Governor,,Wagner/Bartos,REP,67.0,67.0,0.0,Armstrong County,Applewold Borough
+Armstrong,Applewold Borough,Governor,,Glover/Bowser-Bos,GREEN,2.0,2.0,0.0,Armstrong County,Applewold Borough
+Armstrong,Applewold Borough,Governor,,Krawchuk/Smith,LIB,3.0,3.0,0.0,Armstrong County,Applewold Borough
+Armstrong,Applewold Borough,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Applewold Borough
+Armstrong,Applewold Borough,U.S. House,15.0,Susan Boser,DEM,49.0,48.0,1.0,Armstrong County,Applewold Borough
+Armstrong,Applewold Borough,U.S. House,15.0,Glenn GT Thompson,REP,76.0,76.0,0.0,Armstrong County,Applewold Borough
+Armstrong,Applewold Borough,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Applewold Borough
+Armstrong,Applewold Borough,State House,60.0,Jeff Pyle,REP,97.0,97.0,0.0,Armstrong County,Applewold Borough
+Armstrong,Applewold Borough,State House,60.0,Write-ins,,9.0,9.0,0.0,Armstrong County,Applewold Borough
+Armstrong,Atwood Borough,U.S. Senate,,"Bob Casey, Jr.",DEM,15.0,15.0,0.0,Armstrong County,Atwood Borough
+Armstrong,Atwood Borough,U.S. Senate,,Lou Barletta,REP,31.0,31.0,0.0,Armstrong County,Atwood Borough
+Armstrong,Atwood Borough,U.S. Senate,,Neal Gale,GRN,0.0,0.0,0.0,Armstrong County,Atwood Borough
+Armstrong,Atwood Borough,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,0.0,0.0,0.0,Armstrong County,Atwood Borough
+Armstrong,Atwood Borough,Governor,,Wolf/Fetterman,DEM,12.0,12.0,0.0,Armstrong County,Atwood Borough
+Armstrong,Atwood Borough,Governor,,Wagner/Bartos,REP,33.0,33.0,0.0,Armstrong County,Atwood Borough
+Armstrong,Atwood Borough,Governor,,Glover/Bowser-Bos,GREEN,0.0,0.0,0.0,Armstrong County,Atwood Borough
+Armstrong,Atwood Borough,Governor,,Krawchuk/Smith,LIB,0.0,0.0,0.0,Armstrong County,Atwood Borough
+Armstrong,Atwood Borough,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Atwood Borough
+Armstrong,Atwood Borough,U.S. House,15.0,Susan Boser,DEM,11.0,11.0,0.0,Armstrong County,Atwood Borough
+Armstrong,Atwood Borough,U.S. House,15.0,Glenn GT Thompson,REP,33.0,33.0,0.0,Armstrong County,Atwood Borough
+Armstrong,Atwood Borough,U.S. House,15.0,Write-ins,,1.0,1.0,0.0,Armstrong County,Atwood Borough
+Armstrong,Atwood Borough,State House,63.0,Conrad Warner,DEM,10.0,10.0,0.0,Armstrong County,Atwood Borough
+Armstrong,Atwood Borough,State House,63.0,Donna Oberlander,REP,35.0,35.0,0.0,Armstrong County,Atwood Borough
+Armstrong,Atwood Borough,State House,63.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Atwood Borough
+Armstrong,Bethel Township,U.S. Senate,,"Bob Casey, Jr.",DEM,168.0,163.0,5.0,Armstrong County,Bethel Township
+Armstrong,Bethel Township,U.S. Senate,,Lou Barletta,REP,300.0,294.0,6.0,Armstrong County,Bethel Township
+Armstrong,Bethel Township,U.S. Senate,,Neal Gale,GRN,6.0,6.0,0.0,Armstrong County,Bethel Township
+Armstrong,Bethel Township,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,1.0,1.0,0.0,Armstrong County,Bethel Township
+Armstrong,Bethel Township,Governor,,Wolf/Fetterman,DEM,166.0,162.0,4.0,Armstrong County,Bethel Township
+Armstrong,Bethel Township,Governor,,Wagner/Bartos,REP,304.0,298.0,6.0,Armstrong County,Bethel Township
+Armstrong,Bethel Township,Governor,,Glover/Bowser-Bos,GREEN,2.0,2.0,0.0,Armstrong County,Bethel Township
+Armstrong,Bethel Township,Governor,,Krawchuk/Smith,LIB,2.0,2.0,0.0,Armstrong County,Bethel Township
+Armstrong,Bethel Township,Governor,,Write-ins,,1.0,1.0,0.0,Armstrong County,Bethel Township
+Armstrong,Bethel Township,U.S. House,15.0,Susan Boser,DEM,134.0,130.0,4.0,Armstrong County,Bethel Township
+Armstrong,Bethel Township,U.S. House,15.0,Glenn GT Thompson,REP,336.0,329.0,7.0,Armstrong County,Bethel Township
+Armstrong,Bethel Township,U.S. House,15.0,Write-ins,,1.0,1.0,0.0,Armstrong County,Bethel Township
+Armstrong,Bethel Township,State House,60.0,Jeff Pyle,REP,392.0,385.0,7.0,Armstrong County,Bethel Township
+Armstrong,Bethel Township,State House,60.0,Write-ins,,10.0,8.0,2.0,Armstrong County,Bethel Township
+Armstrong,Boggs Township,U.S. Senate,,"Bob Casey, Jr.",DEM,57.0,54.0,3.0,Armstrong County,Boggs Township
+Armstrong,Boggs Township,U.S. Senate,,Lou Barletta,REP,291.0,284.0,7.0,Armstrong County,Boggs Township
+Armstrong,Boggs Township,U.S. Senate,,Neal Gale,GRN,2.0,2.0,0.0,Armstrong County,Boggs Township
+Armstrong,Boggs Township,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,2.0,2.0,0.0,Armstrong County,Boggs Township
+Armstrong,Boggs Township,Governor,,Wolf/Fetterman,DEM,63.0,60.0,3.0,Armstrong County,Boggs Township
+Armstrong,Boggs Township,Governor,,Wagner/Bartos,REP,283.0,276.0,7.0,Armstrong County,Boggs Township
+Armstrong,Boggs Township,Governor,,Glover/Bowser-Bos,GREEN,4.0,4.0,0.0,Armstrong County,Boggs Township
+Armstrong,Boggs Township,Governor,,Krawchuk/Smith,LIB,4.0,4.0,0.0,Armstrong County,Boggs Township
+Armstrong,Boggs Township,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Boggs Township
+Armstrong,Boggs Township,U.S. House,15.0,Susan Boser,DEM,52.0,50.0,2.0,Armstrong County,Boggs Township
+Armstrong,Boggs Township,U.S. House,15.0,Glenn GT Thompson,REP,297.0,289.0,8.0,Armstrong County,Boggs Township
+Armstrong,Boggs Township,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Boggs Township
+Armstrong,Boggs Township,State House,60.0,Jeff Pyle,REP,328.0,320.0,8.0,Armstrong County,Boggs Township
+Armstrong,Boggs Township,State House,60.0,Write-ins,,3.0,2.0,1.0,Armstrong County,Boggs Township
+Armstrong,Bradys Bend Township,U.S. Senate,,"Bob Casey, Jr.",DEM,115.0,111.0,4.0,Armstrong County,Bradys Bend Township
+Armstrong,Bradys Bend Township,U.S. Senate,,Lou Barletta,REP,186.0,173.0,13.0,Armstrong County,Bradys Bend Township
+Armstrong,Bradys Bend Township,U.S. Senate,,Neal Gale,GRN,2.0,2.0,0.0,Armstrong County,Bradys Bend Township
+Armstrong,Bradys Bend Township,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,5.0,5.0,0.0,Armstrong County,Bradys Bend Township
+Armstrong,Bradys Bend Township,Governor,,Wolf/Fetterman,DEM,116.0,112.0,4.0,Armstrong County,Bradys Bend Township
+Armstrong,Bradys Bend Township,Governor,,Wagner/Bartos,REP,187.0,174.0,13.0,Armstrong County,Bradys Bend Township
+Armstrong,Bradys Bend Township,Governor,,Glover/Bowser-Bos,GREEN,1.0,1.0,0.0,Armstrong County,Bradys Bend Township
+Armstrong,Bradys Bend Township,Governor,,Krawchuk/Smith,LIB,5.0,5.0,0.0,Armstrong County,Bradys Bend Township
+Armstrong,Bradys Bend Township,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Bradys Bend Township
+Armstrong,Bradys Bend Township,U.S. House,15.0,Susan Boser,DEM,98.0,94.0,4.0,Armstrong County,Bradys Bend Township
+Armstrong,Bradys Bend Township,U.S. House,15.0,Glenn GT Thompson,REP,209.0,196.0,13.0,Armstrong County,Bradys Bend Township
+Armstrong,Bradys Bend Township,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Bradys Bend Township
+Armstrong,Bradys Bend Township,State House,63.0,Conrad Warner,DEM,91.0,87.0,4.0,Armstrong County,Bradys Bend Township
+Armstrong,Bradys Bend Township,State House,63.0,Donna Oberlander,REP,216.0,203.0,13.0,Armstrong County,Bradys Bend Township
+Armstrong,Bradys Bend Township,State House,63.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Bradys Bend Township
+Armstrong,Burrell Township,U.S. Senate,,"Bob Casey, Jr.",DEM,76.0,71.0,5.0,Armstrong County,Burrell Township
+Armstrong,Burrell Township,U.S. Senate,,Lou Barletta,REP,192.0,187.0,5.0,Armstrong County,Burrell Township
+Armstrong,Burrell Township,U.S. Senate,,Neal Gale,GRN,0.0,0.0,0.0,Armstrong County,Burrell Township
+Armstrong,Burrell Township,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,2.0,2.0,0.0,Armstrong County,Burrell Township
+Armstrong,Burrell Township,Governor,,Wolf/Fetterman,DEM,68.0,63.0,5.0,Armstrong County,Burrell Township
+Armstrong,Burrell Township,Governor,,Wagner/Bartos,REP,201.0,196.0,5.0,Armstrong County,Burrell Township
+Armstrong,Burrell Township,Governor,,Glover/Bowser-Bos,GREEN,1.0,1.0,0.0,Armstrong County,Burrell Township
+Armstrong,Burrell Township,Governor,,Krawchuk/Smith,LIB,2.0,2.0,0.0,Armstrong County,Burrell Township
+Armstrong,Burrell Township,Governor,,Write-ins,,1.0,1.0,0.0,Armstrong County,Burrell Township
+Armstrong,Burrell Township,U.S. House,15.0,Susan Boser,DEM,63.0,58.0,5.0,Armstrong County,Burrell Township
+Armstrong,Burrell Township,U.S. House,15.0,Glenn GT Thompson,REP,205.0,200.0,5.0,Armstrong County,Burrell Township
+Armstrong,Burrell Township,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Burrell Township
+Armstrong,Burrell Township,State House,60.0,Jeff Pyle,REP,242.0,236.0,6.0,Armstrong County,Burrell Township
+Armstrong,Burrell Township,State House,60.0,Write-ins,,8.0,7.0,1.0,Armstrong County,Burrell Township
+Armstrong,Cadogan Township,U.S. Senate,,"Bob Casey, Jr.",DEM,39.0,39.0,0.0,Armstrong County,Cadogan Township
+Armstrong,Cadogan Township,U.S. Senate,,Lou Barletta,REP,67.0,66.0,1.0,Armstrong County,Cadogan Township
+Armstrong,Cadogan Township,U.S. Senate,,Neal Gale,GRN,1.0,1.0,0.0,Armstrong County,Cadogan Township
+Armstrong,Cadogan Township,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,1.0,1.0,0.0,Armstrong County,Cadogan Township
+Armstrong,Cadogan Township,Governor,,Wolf/Fetterman,DEM,40.0,40.0,0.0,Armstrong County,Cadogan Township
+Armstrong,Cadogan Township,Governor,,Wagner/Bartos,REP,68.0,67.0,1.0,Armstrong County,Cadogan Township
+Armstrong,Cadogan Township,Governor,,Glover/Bowser-Bos,GREEN,0.0,0.0,0.0,Armstrong County,Cadogan Township
+Armstrong,Cadogan Township,Governor,,Krawchuk/Smith,LIB,1.0,1.0,0.0,Armstrong County,Cadogan Township
+Armstrong,Cadogan Township,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Cadogan Township
+Armstrong,Cadogan Township,U.S. House,15.0,Susan Boser,DEM,40.0,40.0,0.0,Armstrong County,Cadogan Township
+Armstrong,Cadogan Township,U.S. House,15.0,Glenn GT Thompson,REP,69.0,68.0,1.0,Armstrong County,Cadogan Township
+Armstrong,Cadogan Township,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Cadogan Township
+Armstrong,Cadogan Township,State House,60.0,Jeff Pyle,REP,89.0,88.0,1.0,Armstrong County,Cadogan Township
+Armstrong,Cadogan Township,State House,60.0,Write-ins,,4.0,4.0,0.0,Armstrong County,Cadogan Township
+Armstrong,Cowanshannock Township - East,U.S. Senate,,"Bob Casey, Jr.",DEM,108.0,107.0,1.0,Armstrong County,Cowanshannock Township - East
+Armstrong,Cowanshannock Township - East,U.S. Senate,,Lou Barletta,REP,259.0,254.0,5.0,Armstrong County,Cowanshannock Township - East
+Armstrong,Cowanshannock Township - East,U.S. Senate,,Neal Gale,GRN,2.0,2.0,0.0,Armstrong County,Cowanshannock Township - East
+Armstrong,Cowanshannock Township - East,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,4.0,4.0,0.0,Armstrong County,Cowanshannock Township - East
+Armstrong,Cowanshannock Township - East,Governor,,Wolf/Fetterman,DEM,106.0,105.0,1.0,Armstrong County,Cowanshannock Township - East
+Armstrong,Cowanshannock Township - East,Governor,,Wagner/Bartos,REP,268.0,263.0,5.0,Armstrong County,Cowanshannock Township - East
+Armstrong,Cowanshannock Township - East,Governor,,Glover/Bowser-Bos,GREEN,2.0,2.0,0.0,Armstrong County,Cowanshannock Township - East
+Armstrong,Cowanshannock Township - East,Governor,,Krawchuk/Smith,LIB,1.0,1.0,0.0,Armstrong County,Cowanshannock Township - East
+Armstrong,Cowanshannock Township - East,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Cowanshannock Township - East
+Armstrong,Cowanshannock Township - East,U.S. House,15.0,Susan Boser,DEM,83.0,82.0,1.0,Armstrong County,Cowanshannock Township - East
+Armstrong,Cowanshannock Township - East,U.S. House,15.0,Glenn GT Thompson,REP,269.0,264.0,5.0,Armstrong County,Cowanshannock Township - East
+Armstrong,Cowanshannock Township - East,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Cowanshannock Township - East
+Armstrong,Cowanshannock Township - East,State House,63.0,Conrad Warner,DEM,70.0,69.0,1.0,Armstrong County,Cowanshannock Township - East
+Armstrong,Cowanshannock Township - East,State House,63.0,Donna Oberlander,REP,304.0,299.0,5.0,Armstrong County,Cowanshannock Township - East
+Armstrong,Cowanshannock Township - East,State House,63.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Cowanshannock Township - East
+Armstrong,Cowanshannock Township - Sag,U.S. Senate,,"Bob Casey, Jr.",DEM,47.0,44.0,3.0,Armstrong County,Cowanshannock Township - Sag
+Armstrong,Cowanshannock Township - Sag,U.S. Senate,,Lou Barletta,REP,69.0,69.0,0.0,Armstrong County,Cowanshannock Township - Sag
+Armstrong,Cowanshannock Township - Sag,U.S. Senate,,Neal Gale,GRN,1.0,1.0,0.0,Armstrong County,Cowanshannock Township - Sag
+Armstrong,Cowanshannock Township - Sag,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,0.0,0.0,0.0,Armstrong County,Cowanshannock Township - Sag
+Armstrong,Cowanshannock Township - Sag,Governor,,Wolf/Fetterman,DEM,49.0,46.0,3.0,Armstrong County,Cowanshannock Township - Sag
+Armstrong,Cowanshannock Township - Sag,Governor,,Wagner/Bartos,REP,67.0,67.0,0.0,Armstrong County,Cowanshannock Township - Sag
+Armstrong,Cowanshannock Township - Sag,Governor,,Glover/Bowser-Bos,GREEN,1.0,1.0,0.0,Armstrong County,Cowanshannock Township - Sag
+Armstrong,Cowanshannock Township - Sag,Governor,,Krawchuk/Smith,LIB,1.0,1.0,0.0,Armstrong County,Cowanshannock Township - Sag
+Armstrong,Cowanshannock Township - Sag,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Cowanshannock Township - Sag
+Armstrong,Cowanshannock Township - Sag,U.S. House,15.0,Susan Boser,DEM,47.0,44.0,3.0,Armstrong County,Cowanshannock Township - Sag
+Armstrong,Cowanshannock Township - Sag,U.S. House,15.0,Glenn GT Thompson,REP,72.0,72.0,0.0,Armstrong County,Cowanshannock Township - Sag
+Armstrong,Cowanshannock Township - Sag,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Cowanshannock Township - Sag
+Armstrong,Cowanshannock Township - Sag,State House,63.0,Conrad Warner,DEM,36.0,34.0,2.0,Armstrong County,Cowanshannock Township - Sag
+Armstrong,Cowanshannock Township - Sag,State House,63.0,Donna Oberlander,REP,83.0,82.0,1.0,Armstrong County,Cowanshannock Township - Sag
+Armstrong,Cowanshannock Township - Sag,State House,63.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Cowanshannock Township - Sag
+Armstrong,Cowanshannock Township - West,U.S. Senate,,"Bob Casey, Jr.",DEM,170.0,166.0,4.0,Armstrong County,Cowanshannock Township - West
+Armstrong,Cowanshannock Township - West,U.S. Senate,,Lou Barletta,REP,241.0,233.0,8.0,Armstrong County,Cowanshannock Township - West
+Armstrong,Cowanshannock Township - West,U.S. Senate,,Neal Gale,GRN,3.0,3.0,0.0,Armstrong County,Cowanshannock Township - West
+Armstrong,Cowanshannock Township - West,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,6.0,6.0,0.0,Armstrong County,Cowanshannock Township - West
+Armstrong,Cowanshannock Township - West,Governor,,Wolf/Fetterman,DEM,162.0,158.0,4.0,Armstrong County,Cowanshannock Township - West
+Armstrong,Cowanshannock Township - West,Governor,,Wagner/Bartos,REP,254.0,246.0,8.0,Armstrong County,Cowanshannock Township - West
+Armstrong,Cowanshannock Township - West,Governor,,Glover/Bowser-Bos,GREEN,2.0,2.0,0.0,Armstrong County,Cowanshannock Township - West
+Armstrong,Cowanshannock Township - West,Governor,,Krawchuk/Smith,LIB,5.0,5.0,0.0,Armstrong County,Cowanshannock Township - West
+Armstrong,Cowanshannock Township - West,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Cowanshannock Township - West
+Armstrong,Cowanshannock Township - West,U.S. House,15.0,Susan Boser,DEM,141.0,138.0,3.0,Armstrong County,Cowanshannock Township - West
+Armstrong,Cowanshannock Township - West,U.S. House,15.0,Glenn GT Thompson,REP,279.0,270.0,9.0,Armstrong County,Cowanshannock Township - West
+Armstrong,Cowanshannock Township - West,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Cowanshannock Township - West
+Armstrong,Cowanshannock Township - West,State House,63.0,Conrad Warner,DEM,116.0,112.0,4.0,Armstrong County,Cowanshannock Township - West
+Armstrong,Cowanshannock Township - West,State House,63.0,Donna Oberlander,REP,307.0,299.0,8.0,Armstrong County,Cowanshannock Township - West
+Armstrong,Cowanshannock Township - West,State House,63.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Cowanshannock Township - West
+Armstrong,Dayton Borough,U.S. Senate,,"Bob Casey, Jr.",DEM,51.0,51.0,0.0,Armstrong County,Dayton Borough
+Armstrong,Dayton Borough,U.S. Senate,,Lou Barletta,REP,149.0,146.0,3.0,Armstrong County,Dayton Borough
+Armstrong,Dayton Borough,U.S. Senate,,Neal Gale,GRN,1.0,1.0,0.0,Armstrong County,Dayton Borough
+Armstrong,Dayton Borough,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,3.0,3.0,0.0,Armstrong County,Dayton Borough
+Armstrong,Dayton Borough,Governor,,Wolf/Fetterman,DEM,46.0,46.0,0.0,Armstrong County,Dayton Borough
+Armstrong,Dayton Borough,Governor,,Wagner/Bartos,REP,155.0,151.0,4.0,Armstrong County,Dayton Borough
+Armstrong,Dayton Borough,Governor,,Glover/Bowser-Bos,GREEN,2.0,2.0,0.0,Armstrong County,Dayton Borough
+Armstrong,Dayton Borough,Governor,,Krawchuk/Smith,LIB,2.0,2.0,0.0,Armstrong County,Dayton Borough
+Armstrong,Dayton Borough,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Dayton Borough
+Armstrong,Dayton Borough,U.S. House,15.0,Susan Boser,DEM,37.0,37.0,0.0,Armstrong County,Dayton Borough
+Armstrong,Dayton Borough,U.S. House,15.0,Glenn GT Thompson,REP,162.0,159.0,3.0,Armstrong County,Dayton Borough
+Armstrong,Dayton Borough,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Dayton Borough
+Armstrong,Dayton Borough,State House,63.0,Conrad Warner,DEM,21.0,21.0,0.0,Armstrong County,Dayton Borough
+Armstrong,Dayton Borough,State House,63.0,Donna Oberlander,REP,182.0,179.0,3.0,Armstrong County,Dayton Borough
+Armstrong,Dayton Borough,State House,63.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Dayton Borough
+Armstrong,East Franklin Township - East,U.S. Senate,,"Bob Casey, Jr.",DEM,242.0,231.0,11.0,Armstrong County,East Franklin Township - East
+Armstrong,East Franklin Township - East,U.S. Senate,,Lou Barletta,REP,371.0,360.0,11.0,Armstrong County,East Franklin Township - East
+Armstrong,East Franklin Township - East,U.S. Senate,,Neal Gale,GRN,3.0,3.0,0.0,Armstrong County,East Franklin Township - East
+Armstrong,East Franklin Township - East,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,7.0,7.0,0.0,Armstrong County,East Franklin Township - East
+Armstrong,East Franklin Township - East,Governor,,Wolf/Fetterman,DEM,263.0,254.0,9.0,Armstrong County,East Franklin Township - East
+Armstrong,East Franklin Township - East,Governor,,Wagner/Bartos,REP,357.0,345.0,12.0,Armstrong County,East Franklin Township - East
+Armstrong,East Franklin Township - East,Governor,,Glover/Bowser-Bos,GREEN,3.0,2.0,1.0,Armstrong County,East Franklin Township - East
+Armstrong,East Franklin Township - East,Governor,,Krawchuk/Smith,LIB,5.0,5.0,0.0,Armstrong County,East Franklin Township - East
+Armstrong,East Franklin Township - East,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,East Franklin Township - East
+Armstrong,East Franklin Township - East,U.S. House,15.0,Susan Boser,DEM,212.0,203.0,9.0,Armstrong County,East Franklin Township - East
+Armstrong,East Franklin Township - East,U.S. House,15.0,Glenn GT Thompson,REP,404.0,392.0,12.0,Armstrong County,East Franklin Township - East
+Armstrong,East Franklin Township - East,U.S. House,15.0,Write-ins,,1.0,1.0,0.0,Armstrong County,East Franklin Township - East
+Armstrong,East Franklin Township - East,State House,60.0,Jeff Pyle,REP,512.0,498.0,14.0,Armstrong County,East Franklin Township - East
+Armstrong,East Franklin Township - East,State House,60.0,Write-ins,,8.0,7.0,1.0,Armstrong County,East Franklin Township - East
+Armstrong,East Franklin Township - North,U.S. Senate,,"Bob Casey, Jr.",DEM,146.0,144.0,2.0,Armstrong County,East Franklin Township - North
+Armstrong,East Franklin Township - North,U.S. Senate,,Lou Barletta,REP,326.0,320.0,6.0,Armstrong County,East Franklin Township - North
+Armstrong,East Franklin Township - North,U.S. Senate,,Neal Gale,GRN,1.0,1.0,0.0,Armstrong County,East Franklin Township - North
+Armstrong,East Franklin Township - North,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,4.0,4.0,0.0,Armstrong County,East Franklin Township - North
+Armstrong,East Franklin Township - North,Governor,,Wolf/Fetterman,DEM,154.0,151.0,3.0,Armstrong County,East Franklin Township - North
+Armstrong,East Franklin Township - North,Governor,,Wagner/Bartos,REP,323.0,318.0,5.0,Armstrong County,East Franklin Township - North
+Armstrong,East Franklin Township - North,Governor,,Glover/Bowser-Bos,GREEN,2.0,2.0,0.0,Armstrong County,East Franklin Township - North
+Armstrong,East Franklin Township - North,Governor,,Krawchuk/Smith,LIB,3.0,3.0,0.0,Armstrong County,East Franklin Township - North
+Armstrong,East Franklin Township - North,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,East Franklin Township - North
+Armstrong,East Franklin Township - North,U.S. House,15.0,Susan Boser,DEM,130.0,128.0,2.0,Armstrong County,East Franklin Township - North
+Armstrong,East Franklin Township - North,U.S. House,15.0,Glenn GT Thompson,REP,346.0,340.0,6.0,Armstrong County,East Franklin Township - North
+Armstrong,East Franklin Township - North,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,East Franklin Township - North
+Armstrong,East Franklin Township - North,State House,60.0,Jeff Pyle,REP,425.0,418.0,7.0,Armstrong County,East Franklin Township - North
+Armstrong,East Franklin Township - North,State House,60.0,Write-ins,,6.0,6.0,0.0,Armstrong County,East Franklin Township - North
+Armstrong,East Franklin Township - West,U.S. Senate,,"Bob Casey, Jr.",DEM,188.0,176.0,12.0,Armstrong County,East Franklin Township - West
+Armstrong,East Franklin Township - West,U.S. Senate,,Lou Barletta,REP,372.0,358.0,14.0,Armstrong County,East Franklin Township - West
+Armstrong,East Franklin Township - West,U.S. Senate,,Neal Gale,GRN,7.0,7.0,0.0,Armstrong County,East Franklin Township - West
+Armstrong,East Franklin Township - West,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,5.0,4.0,1.0,Armstrong County,East Franklin Township - West
+Armstrong,East Franklin Township - West,Governor,,Wolf/Fetterman,DEM,210.0,198.0,12.0,Armstrong County,East Franklin Township - West
+Armstrong,East Franklin Township - West,Governor,,Wagner/Bartos,REP,358.0,343.0,15.0,Armstrong County,East Franklin Township - West
+Armstrong,East Franklin Township - West,Governor,,Glover/Bowser-Bos,GREEN,8.0,8.0,0.0,Armstrong County,East Franklin Township - West
+Armstrong,East Franklin Township - West,Governor,,Krawchuk/Smith,LIB,2.0,2.0,0.0,Armstrong County,East Franklin Township - West
+Armstrong,East Franklin Township - West,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,East Franklin Township - West
+Armstrong,East Franklin Township - West,U.S. House,15.0,Susan Boser,DEM,162.0,152.0,10.0,Armstrong County,East Franklin Township - West
+Armstrong,East Franklin Township - West,U.S. House,15.0,Glenn GT Thompson,REP,409.0,393.0,16.0,Armstrong County,East Franklin Township - West
+Armstrong,East Franklin Township - West,U.S. House,15.0,Write-ins,,1.0,0.0,1.0,Armstrong County,East Franklin Township - West
+Armstrong,East Franklin Township - West,State House,60.0,Jeff Pyle,REP,485.0,463.0,22.0,Armstrong County,East Franklin Township - West
+Armstrong,East Franklin Township - West,State House,60.0,Write-ins,,9.0,9.0,0.0,Armstrong County,East Franklin Township - West
+Armstrong,Elderton Borough,U.S. Senate,,"Bob Casey, Jr.",DEM,41.0,41.0,0.0,Armstrong County,Elderton Borough
+Armstrong,Elderton Borough,U.S. Senate,,Lou Barletta,REP,89.0,89.0,0.0,Armstrong County,Elderton Borough
+Armstrong,Elderton Borough,U.S. Senate,,Neal Gale,GRN,0.0,0.0,0.0,Armstrong County,Elderton Borough
+Armstrong,Elderton Borough,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,3.0,3.0,0.0,Armstrong County,Elderton Borough
+Armstrong,Elderton Borough,Governor,,Wolf/Fetterman,DEM,46.0,46.0,0.0,Armstrong County,Elderton Borough
+Armstrong,Elderton Borough,Governor,,Wagner/Bartos,REP,87.0,87.0,0.0,Armstrong County,Elderton Borough
+Armstrong,Elderton Borough,Governor,,Glover/Bowser-Bos,GREEN,0.0,0.0,0.0,Armstrong County,Elderton Borough
+Armstrong,Elderton Borough,Governor,,Krawchuk/Smith,LIB,2.0,2.0,0.0,Armstrong County,Elderton Borough
+Armstrong,Elderton Borough,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Elderton Borough
+Armstrong,Elderton Borough,U.S. House,15.0,Susan Boser,DEM,34.0,34.0,0.0,Armstrong County,Elderton Borough
+Armstrong,Elderton Borough,U.S. House,15.0,Glenn GT Thompson,REP,99.0,99.0,0.0,Armstrong County,Elderton Borough
+Armstrong,Elderton Borough,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Elderton Borough
+Armstrong,Elderton Borough,State House,63.0,Conrad Warner,DEM,21.0,21.0,0.0,Armstrong County,Elderton Borough
+Armstrong,Elderton Borough,State House,63.0,Donna Oberlander,REP,112.0,112.0,0.0,Armstrong County,Elderton Borough
+Armstrong,Elderton Borough,State House,63.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Elderton Borough
+Armstrong,Ford City Borough - 1st Ward North,U.S. Senate,,"Bob Casey, Jr.",DEM,110.0,109.0,1.0,Armstrong County,Ford City Borough - 1st Ward North
+Armstrong,Ford City Borough - 1st Ward North,U.S. Senate,,Lou Barletta,REP,77.0,73.0,4.0,Armstrong County,Ford City Borough - 1st Ward North
+Armstrong,Ford City Borough - 1st Ward North,U.S. Senate,,Neal Gale,GRN,1.0,1.0,0.0,Armstrong County,Ford City Borough - 1st Ward North
+Armstrong,Ford City Borough - 1st Ward North,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,4.0,4.0,0.0,Armstrong County,Ford City Borough - 1st Ward North
+Armstrong,Ford City Borough - 1st Ward North,Governor,,Wolf/Fetterman,DEM,106.0,103.0,3.0,Armstrong County,Ford City Borough - 1st Ward North
+Armstrong,Ford City Borough - 1st Ward North,Governor,,Wagner/Bartos,REP,84.0,82.0,2.0,Armstrong County,Ford City Borough - 1st Ward North
+Armstrong,Ford City Borough - 1st Ward North,Governor,,Glover/Bowser-Bos,GREEN,2.0,2.0,0.0,Armstrong County,Ford City Borough - 1st Ward North
+Armstrong,Ford City Borough - 1st Ward North,Governor,,Krawchuk/Smith,LIB,1.0,1.0,0.0,Armstrong County,Ford City Borough - 1st Ward North
+Armstrong,Ford City Borough - 1st Ward North,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Ford City Borough - 1st Ward North
+Armstrong,Ford City Borough - 1st Ward North,U.S. House,15.0,Susan Boser,DEM,105.0,103.0,2.0,Armstrong County,Ford City Borough - 1st Ward North
+Armstrong,Ford City Borough - 1st Ward North,U.S. House,15.0,Glenn GT Thompson,REP,83.0,81.0,2.0,Armstrong County,Ford City Borough - 1st Ward North
+Armstrong,Ford City Borough - 1st Ward North,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Ford City Borough - 1st Ward North
+Armstrong,Ford City Borough - 1st Ward North,State House,60.0,Jeff Pyle,REP,140.0,136.0,4.0,Armstrong County,Ford City Borough - 1st Ward North
+Armstrong,Ford City Borough - 1st Ward North,State House,60.0,Write-ins,,6.0,5.0,1.0,Armstrong County,Ford City Borough - 1st Ward North
+Armstrong,Ford City Borough - 1st Ward South,U.S. Senate,,"Bob Casey, Jr.",DEM,134.0,130.0,4.0,Armstrong County,Ford City Borough - 1st Ward South
+Armstrong,Ford City Borough - 1st Ward South,U.S. Senate,,Lou Barletta,REP,113.0,110.0,3.0,Armstrong County,Ford City Borough - 1st Ward South
+Armstrong,Ford City Borough - 1st Ward South,U.S. Senate,,Neal Gale,GRN,2.0,2.0,0.0,Armstrong County,Ford City Borough - 1st Ward South
+Armstrong,Ford City Borough - 1st Ward South,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,1.0,1.0,0.0,Armstrong County,Ford City Borough - 1st Ward South
+Armstrong,Ford City Borough - 1st Ward South,Governor,,Wolf/Fetterman,DEM,135.0,129.0,6.0,Armstrong County,Ford City Borough - 1st Ward South
+Armstrong,Ford City Borough - 1st Ward South,Governor,,Wagner/Bartos,REP,115.0,114.0,1.0,Armstrong County,Ford City Borough - 1st Ward South
+Armstrong,Ford City Borough - 1st Ward South,Governor,,Glover/Bowser-Bos,GREEN,2.0,2.0,0.0,Armstrong County,Ford City Borough - 1st Ward South
+Armstrong,Ford City Borough - 1st Ward South,Governor,,Krawchuk/Smith,LIB,2.0,2.0,0.0,Armstrong County,Ford City Borough - 1st Ward South
+Armstrong,Ford City Borough - 1st Ward South,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Ford City Borough - 1st Ward South
+Armstrong,Ford City Borough - 1st Ward South,U.S. House,15.0,Susan Boser,DEM,112.0,106.0,6.0,Armstrong County,Ford City Borough - 1st Ward South
+Armstrong,Ford City Borough - 1st Ward South,U.S. House,15.0,Glenn GT Thompson,REP,130.0,129.0,1.0,Armstrong County,Ford City Borough - 1st Ward South
+Armstrong,Ford City Borough - 1st Ward South,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Ford City Borough - 1st Ward South
+Armstrong,Ford City Borough - 1st Ward South,State House,60.0,Jeff Pyle,REP,193.0,189.0,4.0,Armstrong County,Ford City Borough - 1st Ward South
+Armstrong,Ford City Borough - 1st Ward South,State House,60.0,Write-ins,,6.0,5.0,1.0,Armstrong County,Ford City Borough - 1st Ward South
+Armstrong,Ford City Borough - 2nd Ward North,U.S. Senate,,"Bob Casey, Jr.",DEM,98.0,93.0,5.0,Armstrong County,Ford City Borough - 2nd Ward North
+Armstrong,Ford City Borough - 2nd Ward North,U.S. Senate,,Lou Barletta,REP,105.0,101.0,4.0,Armstrong County,Ford City Borough - 2nd Ward North
+Armstrong,Ford City Borough - 2nd Ward North,U.S. Senate,,Neal Gale,GRN,1.0,1.0,0.0,Armstrong County,Ford City Borough - 2nd Ward North
+Armstrong,Ford City Borough - 2nd Ward North,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,2.0,2.0,0.0,Armstrong County,Ford City Borough - 2nd Ward North
+Armstrong,Ford City Borough - 2nd Ward North,Governor,,Wolf/Fetterman,DEM,102.0,97.0,5.0,Armstrong County,Ford City Borough - 2nd Ward North
+Armstrong,Ford City Borough - 2nd Ward North,Governor,,Wagner/Bartos,REP,102.0,100.0,2.0,Armstrong County,Ford City Borough - 2nd Ward North
+Armstrong,Ford City Borough - 2nd Ward North,Governor,,Glover/Bowser-Bos,GREEN,1.0,1.0,0.0,Armstrong County,Ford City Borough - 2nd Ward North
+Armstrong,Ford City Borough - 2nd Ward North,Governor,,Krawchuk/Smith,LIB,3.0,1.0,2.0,Armstrong County,Ford City Borough - 2nd Ward North
+Armstrong,Ford City Borough - 2nd Ward North,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Ford City Borough - 2nd Ward North
+Armstrong,Ford City Borough - 2nd Ward North,U.S. House,15.0,Susan Boser,DEM,93.0,87.0,6.0,Armstrong County,Ford City Borough - 2nd Ward North
+Armstrong,Ford City Borough - 2nd Ward North,U.S. House,15.0,Glenn GT Thompson,REP,112.0,108.0,4.0,Armstrong County,Ford City Borough - 2nd Ward North
+Armstrong,Ford City Borough - 2nd Ward North,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Ford City Borough - 2nd Ward North
+Armstrong,Ford City Borough - 2nd Ward North,State House,60.0,Jeff Pyle,REP,162.0,155.0,7.0,Armstrong County,Ford City Borough - 2nd Ward North
+Armstrong,Ford City Borough - 2nd Ward North,State House,60.0,Write-ins,,7.0,7.0,0.0,Armstrong County,Ford City Borough - 2nd Ward North
+Armstrong,Ford City Borough - 2nd Ward South,U.S. Senate,,"Bob Casey, Jr.",DEM,145.0,141.0,4.0,Armstrong County,Ford City Borough - 2nd Ward South
+Armstrong,Ford City Borough - 2nd Ward South,U.S. Senate,,Lou Barletta,REP,147.0,138.0,9.0,Armstrong County,Ford City Borough - 2nd Ward South
+Armstrong,Ford City Borough - 2nd Ward South,U.S. Senate,,Neal Gale,GRN,2.0,2.0,0.0,Armstrong County,Ford City Borough - 2nd Ward South
+Armstrong,Ford City Borough - 2nd Ward South,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,2.0,2.0,0.0,Armstrong County,Ford City Borough - 2nd Ward South
+Armstrong,Ford City Borough - 2nd Ward South,Governor,,Wolf/Fetterman,DEM,137.0,133.0,4.0,Armstrong County,Ford City Borough - 2nd Ward South
+Armstrong,Ford City Borough - 2nd Ward South,Governor,,Wagner/Bartos,REP,146.0,138.0,8.0,Armstrong County,Ford City Borough - 2nd Ward South
+Armstrong,Ford City Borough - 2nd Ward South,Governor,,Glover/Bowser-Bos,GREEN,3.0,3.0,0.0,Armstrong County,Ford City Borough - 2nd Ward South
+Armstrong,Ford City Borough - 2nd Ward South,Governor,,Krawchuk/Smith,LIB,6.0,6.0,0.0,Armstrong County,Ford City Borough - 2nd Ward South
+Armstrong,Ford City Borough - 2nd Ward South,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Ford City Borough - 2nd Ward South
+Armstrong,Ford City Borough - 2nd Ward South,U.S. House,15.0,Susan Boser,DEM,146.0,142.0,4.0,Armstrong County,Ford City Borough - 2nd Ward South
+Armstrong,Ford City Borough - 2nd Ward South,U.S. House,15.0,Glenn GT Thompson,REP,149.0,140.0,9.0,Armstrong County,Ford City Borough - 2nd Ward South
+Armstrong,Ford City Borough - 2nd Ward South,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Ford City Borough - 2nd Ward South
+Armstrong,Ford City Borough - 2nd Ward South,State House,60.0,Jeff Pyle,REP,223.0,213.0,10.0,Armstrong County,Ford City Borough - 2nd Ward South
+Armstrong,Ford City Borough - 2nd Ward South,State House,60.0,Write-ins,,8.0,7.0,1.0,Armstrong County,Ford City Borough - 2nd Ward South
+Armstrong,Ford Cliff Borough,U.S. Senate,,"Bob Casey, Jr.",DEM,70.0,68.0,2.0,Armstrong County,Ford Cliff Borough
+Armstrong,Ford Cliff Borough,U.S. Senate,,Lou Barletta,REP,71.0,68.0,3.0,Armstrong County,Ford Cliff Borough
+Armstrong,Ford Cliff Borough,U.S. Senate,,Neal Gale,GRN,1.0,1.0,0.0,Armstrong County,Ford Cliff Borough
+Armstrong,Ford Cliff Borough,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,3.0,3.0,0.0,Armstrong County,Ford Cliff Borough
+Armstrong,Ford Cliff Borough,Governor,,Wolf/Fetterman,DEM,70.0,68.0,2.0,Armstrong County,Ford Cliff Borough
+Armstrong,Ford Cliff Borough,Governor,,Wagner/Bartos,REP,74.0,71.0,3.0,Armstrong County,Ford Cliff Borough
+Armstrong,Ford Cliff Borough,Governor,,Glover/Bowser-Bos,GREEN,2.0,2.0,0.0,Armstrong County,Ford Cliff Borough
+Armstrong,Ford Cliff Borough,Governor,,Krawchuk/Smith,LIB,1.0,1.0,0.0,Armstrong County,Ford Cliff Borough
+Armstrong,Ford Cliff Borough,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Ford Cliff Borough
+Armstrong,Ford Cliff Borough,U.S. House,15.0,Susan Boser,DEM,62.0,60.0,2.0,Armstrong County,Ford Cliff Borough
+Armstrong,Ford Cliff Borough,U.S. House,15.0,Glenn GT Thompson,REP,79.0,76.0,3.0,Armstrong County,Ford Cliff Borough
+Armstrong,Ford Cliff Borough,U.S. House,15.0,Write-ins,,1.0,1.0,0.0,Armstrong County,Ford Cliff Borough
+Armstrong,Ford Cliff Borough,State House,60.0,Jeff Pyle,REP,114.0,111.0,3.0,Armstrong County,Ford Cliff Borough
+Armstrong,Ford Cliff Borough,State House,60.0,Write-ins,,4.0,4.0,0.0,Armstrong County,Ford Cliff Borough
+Armstrong,Freeport Borough - #1,U.S. Senate,,"Bob Casey, Jr.",DEM,140.0,137.0,3.0,Armstrong County,Freeport Borough - #1
+Armstrong,Freeport Borough - #1,U.S. Senate,,Lou Barletta,REP,131.0,130.0,1.0,Armstrong County,Freeport Borough - #1
+Armstrong,Freeport Borough - #1,U.S. Senate,,Neal Gale,GRN,5.0,5.0,0.0,Armstrong County,Freeport Borough - #1
+Armstrong,Freeport Borough - #1,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,8.0,7.0,1.0,Armstrong County,Freeport Borough - #1
+Armstrong,Freeport Borough - #1,Governor,,Wolf/Fetterman,DEM,153.0,149.0,4.0,Armstrong County,Freeport Borough - #1
+Armstrong,Freeport Borough - #1,Governor,,Wagner/Bartos,REP,131.0,130.0,1.0,Armstrong County,Freeport Borough - #1
+Armstrong,Freeport Borough - #1,Governor,,Glover/Bowser-Bos,GREEN,3.0,3.0,0.0,Armstrong County,Freeport Borough - #1
+Armstrong,Freeport Borough - #1,Governor,,Krawchuk/Smith,LIB,4.0,4.0,0.0,Armstrong County,Freeport Borough - #1
+Armstrong,Freeport Borough - #1,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Freeport Borough - #1
+Armstrong,Freeport Borough - #1,U.S. House,15.0,Susan Boser,DEM,141.0,137.0,4.0,Armstrong County,Freeport Borough - #1
+Armstrong,Freeport Borough - #1,U.S. House,15.0,Glenn GT Thompson,REP,143.0,142.0,1.0,Armstrong County,Freeport Borough - #1
+Armstrong,Freeport Borough - #1,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Freeport Borough - #1
+Armstrong,Freeport Borough - #1,State House,60.0,Jeff Pyle,REP,212.0,210.0,2.0,Armstrong County,Freeport Borough - #1
+Armstrong,Freeport Borough - #1,State House,60.0,Write-ins,,4.0,4.0,0.0,Armstrong County,Freeport Borough - #1
+Armstrong,Freeport Borough - #2,U.S. Senate,,"Bob Casey, Jr.",DEM,173.0,167.0,6.0,Armstrong County,Freeport Borough - #2
+Armstrong,Freeport Borough - #2,U.S. Senate,,Lou Barletta,REP,143.0,141.0,2.0,Armstrong County,Freeport Borough - #2
+Armstrong,Freeport Borough - #2,U.S. Senate,,Neal Gale,GRN,5.0,5.0,0.0,Armstrong County,Freeport Borough - #2
+Armstrong,Freeport Borough - #2,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,10.0,10.0,0.0,Armstrong County,Freeport Borough - #2
+Armstrong,Freeport Borough - #2,Governor,,Wolf/Fetterman,DEM,176.0,170.0,6.0,Armstrong County,Freeport Borough - #2
+Armstrong,Freeport Borough - #2,Governor,,Wagner/Bartos,REP,146.0,145.0,1.0,Armstrong County,Freeport Borough - #2
+Armstrong,Freeport Borough - #2,Governor,,Glover/Bowser-Bos,GREEN,3.0,3.0,0.0,Armstrong County,Freeport Borough - #2
+Armstrong,Freeport Borough - #2,Governor,,Krawchuk/Smith,LIB,7.0,7.0,0.0,Armstrong County,Freeport Borough - #2
+Armstrong,Freeport Borough - #2,Governor,,Write-ins,,1.0,0.0,1.0,Armstrong County,Freeport Borough - #2
+Armstrong,Freeport Borough - #2,U.S. House,15.0,Susan Boser,DEM,159.0,153.0,6.0,Armstrong County,Freeport Borough - #2
+Armstrong,Freeport Borough - #2,U.S. House,15.0,Glenn GT Thompson,REP,171.0,169.0,2.0,Armstrong County,Freeport Borough - #2
+Armstrong,Freeport Borough - #2,U.S. House,15.0,Write-ins,,1.0,1.0,0.0,Armstrong County,Freeport Borough - #2
+Armstrong,Freeport Borough - #2,State House,60.0,Jeff Pyle,REP,242.0,236.0,6.0,Armstrong County,Freeport Borough - #2
+Armstrong,Freeport Borough - #2,State House,60.0,Write-ins,,13.0,12.0,1.0,Armstrong County,Freeport Borough - #2
+Armstrong,Gilpin Township - #1,U.S. Senate,,"Bob Casey, Jr.",DEM,313.0,305.0,8.0,Armstrong County,Gilpin Township - #1
+Armstrong,Gilpin Township - #1,U.S. Senate,,Lou Barletta,REP,390.0,380.0,10.0,Armstrong County,Gilpin Township - #1
+Armstrong,Gilpin Township - #1,U.S. Senate,,Neal Gale,GRN,4.0,4.0,0.0,Armstrong County,Gilpin Township - #1
+Armstrong,Gilpin Township - #1,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,6.0,6.0,0.0,Armstrong County,Gilpin Township - #1
+Armstrong,Gilpin Township - #1,Governor,,Wolf/Fetterman,DEM,327.0,319.0,8.0,Armstrong County,Gilpin Township - #1
+Armstrong,Gilpin Township - #1,Governor,,Wagner/Bartos,REP,391.0,382.0,9.0,Armstrong County,Gilpin Township - #1
+Armstrong,Gilpin Township - #1,Governor,,Glover/Bowser-Bos,GREEN,3.0,3.0,0.0,Armstrong County,Gilpin Township - #1
+Armstrong,Gilpin Township - #1,Governor,,Krawchuk/Smith,LIB,3.0,3.0,0.0,Armstrong County,Gilpin Township - #1
+Armstrong,Gilpin Township - #1,Governor,,Write-ins,,1.0,1.0,0.0,Armstrong County,Gilpin Township - #1
+Armstrong,Gilpin Township - #1,U.S. House,15.0,Susan Boser,DEM,281.0,274.0,7.0,Armstrong County,Gilpin Township - #1
+Armstrong,Gilpin Township - #1,U.S. House,15.0,Glenn GT Thompson,REP,427.0,416.0,11.0,Armstrong County,Gilpin Township - #1
+Armstrong,Gilpin Township - #1,U.S. House,15.0,Write-ins,,1.0,1.0,0.0,Armstrong County,Gilpin Township - #1
+Armstrong,Gilpin Township - #1,State House,60.0,Jeff Pyle,REP,548.0,535.0,13.0,Armstrong County,Gilpin Township - #1
+Armstrong,Gilpin Township - #1,State House,60.0,Write-ins,,10.0,10.0,0.0,Armstrong County,Gilpin Township - #1
+Armstrong,Gilpin Township - #2,U.S. Senate,,"Bob Casey, Jr.",DEM,96.0,94.0,2.0,Armstrong County,Gilpin Township - #2
+Armstrong,Gilpin Township - #2,U.S. Senate,,Lou Barletta,REP,122.0,118.0,4.0,Armstrong County,Gilpin Township - #2
+Armstrong,Gilpin Township - #2,U.S. Senate,,Neal Gale,GRN,0.0,0.0,0.0,Armstrong County,Gilpin Township - #2
+Armstrong,Gilpin Township - #2,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,2.0,2.0,0.0,Armstrong County,Gilpin Township - #2
+Armstrong,Gilpin Township - #2,Governor,,Wolf/Fetterman,DEM,97.0,96.0,1.0,Armstrong County,Gilpin Township - #2
+Armstrong,Gilpin Township - #2,Governor,,Wagner/Bartos,REP,119.0,115.0,4.0,Armstrong County,Gilpin Township - #2
+Armstrong,Gilpin Township - #2,Governor,,Glover/Bowser-Bos,GREEN,1.0,0.0,1.0,Armstrong County,Gilpin Township - #2
+Armstrong,Gilpin Township - #2,Governor,,Krawchuk/Smith,LIB,3.0,3.0,0.0,Armstrong County,Gilpin Township - #2
+Armstrong,Gilpin Township - #2,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Gilpin Township - #2
+Armstrong,Gilpin Township - #2,U.S. House,15.0,Susan Boser,DEM,86.0,85.0,1.0,Armstrong County,Gilpin Township - #2
+Armstrong,Gilpin Township - #2,U.S. House,15.0,Glenn GT Thompson,REP,129.0,124.0,5.0,Armstrong County,Gilpin Township - #2
+Armstrong,Gilpin Township - #2,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Gilpin Township - #2
+Armstrong,Gilpin Township - #2,State House,60.0,Jeff Pyle,REP,162.0,156.0,6.0,Armstrong County,Gilpin Township - #2
+Armstrong,Gilpin Township - #2,State House,60.0,Write-ins,,2.0,2.0,0.0,Armstrong County,Gilpin Township - #2
+Armstrong,Hovey Township,U.S. Senate,,"Bob Casey, Jr.",DEM,15.0,15.0,0.0,Armstrong County,Hovey Township
+Armstrong,Hovey Township,U.S. Senate,,Lou Barletta,REP,24.0,24.0,0.0,Armstrong County,Hovey Township
+Armstrong,Hovey Township,U.S. Senate,,Neal Gale,GRN,0.0,0.0,0.0,Armstrong County,Hovey Township
+Armstrong,Hovey Township,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,0.0,0.0,0.0,Armstrong County,Hovey Township
+Armstrong,Hovey Township,Governor,,Wolf/Fetterman,DEM,13.0,13.0,0.0,Armstrong County,Hovey Township
+Armstrong,Hovey Township,Governor,,Wagner/Bartos,REP,24.0,24.0,0.0,Armstrong County,Hovey Township
+Armstrong,Hovey Township,Governor,,Glover/Bowser-Bos,GREEN,1.0,1.0,0.0,Armstrong County,Hovey Township
+Armstrong,Hovey Township,Governor,,Krawchuk/Smith,LIB,1.0,1.0,0.0,Armstrong County,Hovey Township
+Armstrong,Hovey Township,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Hovey Township
+Armstrong,Hovey Township,U.S. House,15.0,Susan Boser,DEM,11.0,11.0,0.0,Armstrong County,Hovey Township
+Armstrong,Hovey Township,U.S. House,15.0,Glenn GT Thompson,REP,28.0,28.0,0.0,Armstrong County,Hovey Township
+Armstrong,Hovey Township,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Hovey Township
+Armstrong,Hovey Township,State House,63.0,Conrad Warner,DEM,7.0,7.0,0.0,Armstrong County,Hovey Township
+Armstrong,Hovey Township,State House,63.0,Donna Oberlander,REP,31.0,31.0,0.0,Armstrong County,Hovey Township
+Armstrong,Hovey Township,State House,63.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Hovey Township
+Armstrong,Kiskiminetas Township - Horrell,U.S. Senate,,"Bob Casey, Jr.",DEM,102.0,102.0,0.0,Armstrong County,Kiskiminetas Township - Horrell
+Armstrong,Kiskiminetas Township - Horrell,U.S. Senate,,Lou Barletta,REP,209.0,205.0,4.0,Armstrong County,Kiskiminetas Township - Horrell
+Armstrong,Kiskiminetas Township - Horrell,U.S. Senate,,Neal Gale,GRN,3.0,3.0,0.0,Armstrong County,Kiskiminetas Township - Horrell
+Armstrong,Kiskiminetas Township - Horrell,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,1.0,1.0,0.0,Armstrong County,Kiskiminetas Township - Horrell
+Armstrong,Kiskiminetas Township - Horrell,Governor,,Wolf/Fetterman,DEM,103.0,103.0,0.0,Armstrong County,Kiskiminetas Township - Horrell
+Armstrong,Kiskiminetas Township - Horrell,Governor,,Wagner/Bartos,REP,205.0,203.0,2.0,Armstrong County,Kiskiminetas Township - Horrell
+Armstrong,Kiskiminetas Township - Horrell,Governor,,Glover/Bowser-Bos,GREEN,1.0,1.0,0.0,Armstrong County,Kiskiminetas Township - Horrell
+Armstrong,Kiskiminetas Township - Horrell,Governor,,Krawchuk/Smith,LIB,8.0,7.0,1.0,Armstrong County,Kiskiminetas Township - Horrell
+Armstrong,Kiskiminetas Township - Horrell,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Kiskiminetas Township - Horrell
+Armstrong,Kiskiminetas Township - Horrell,U.S. House,15.0,Susan Boser,DEM,79.0,79.0,0.0,Armstrong County,Kiskiminetas Township - Horrell
+Armstrong,Kiskiminetas Township - Horrell,U.S. House,15.0,Glenn GT Thompson,REP,225.0,221.0,4.0,Armstrong County,Kiskiminetas Township - Horrell
+Armstrong,Kiskiminetas Township - Horrell,U.S. House,15.0,Write-ins,,1.0,1.0,0.0,Armstrong County,Kiskiminetas Township - Horrell
+Armstrong,Kiskiminetas Township - Horrell,State House,60.0,Jeff Pyle,REP,267.0,263.0,4.0,Armstrong County,Kiskiminetas Township - Horrell
+Armstrong,Kiskiminetas Township - Horrell,State House,60.0,Write-ins,,9.0,9.0,0.0,Armstrong County,Kiskiminetas Township - Horrell
+Armstrong,Kiskiminetas Township - OHN,U.S. Senate,,"Bob Casey, Jr.",DEM,83.0,83.0,0.0,Armstrong County,Kiskiminetas Township - OHN
+Armstrong,Kiskiminetas Township - OHN,U.S. Senate,,Lou Barletta,REP,131.0,126.0,5.0,Armstrong County,Kiskiminetas Township - OHN
+Armstrong,Kiskiminetas Township - OHN,U.S. Senate,,Neal Gale,GRN,3.0,3.0,0.0,Armstrong County,Kiskiminetas Township - OHN
+Armstrong,Kiskiminetas Township - OHN,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,5.0,5.0,0.0,Armstrong County,Kiskiminetas Township - OHN
+Armstrong,Kiskiminetas Township - OHN,Governor,,Wolf/Fetterman,DEM,85.0,85.0,0.0,Armstrong County,Kiskiminetas Township - OHN
+Armstrong,Kiskiminetas Township - OHN,Governor,,Wagner/Bartos,REP,134.0,129.0,5.0,Armstrong County,Kiskiminetas Township - OHN
+Armstrong,Kiskiminetas Township - OHN,Governor,,Glover/Bowser-Bos,GREEN,0.0,0.0,0.0,Armstrong County,Kiskiminetas Township - OHN
+Armstrong,Kiskiminetas Township - OHN,Governor,,Krawchuk/Smith,LIB,4.0,4.0,0.0,Armstrong County,Kiskiminetas Township - OHN
+Armstrong,Kiskiminetas Township - OHN,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Kiskiminetas Township - OHN
+Armstrong,Kiskiminetas Township - OHN,U.S. House,15.0,Susan Boser,DEM,76.0,75.0,1.0,Armstrong County,Kiskiminetas Township - OHN
+Armstrong,Kiskiminetas Township - OHN,U.S. House,15.0,Glenn GT Thompson,REP,144.0,140.0,4.0,Armstrong County,Kiskiminetas Township - OHN
+Armstrong,Kiskiminetas Township - OHN,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Kiskiminetas Township - OHN
+Armstrong,Kiskiminetas Township - OHN,State House,60.0,Jeff Pyle,REP,176.0,171.0,5.0,Armstrong County,Kiskiminetas Township - OHN
+Armstrong,Kiskiminetas Township - OHN,State House,60.0,Write-ins,,11.0,11.0,0.0,Armstrong County,Kiskiminetas Township - OHN
+Armstrong,Kiskiminetas Township - OHS,U.S. Senate,,"Bob Casey, Jr.",DEM,223.0,215.0,8.0,Armstrong County,Kiskiminetas Township - OHS
+Armstrong,Kiskiminetas Township - OHS,U.S. Senate,,Lou Barletta,REP,312.0,305.0,7.0,Armstrong County,Kiskiminetas Township - OHS
+Armstrong,Kiskiminetas Township - OHS,U.S. Senate,,Neal Gale,GRN,1.0,1.0,0.0,Armstrong County,Kiskiminetas Township - OHS
+Armstrong,Kiskiminetas Township - OHS,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,6.0,5.0,1.0,Armstrong County,Kiskiminetas Township - OHS
+Armstrong,Kiskiminetas Township - OHS,Governor,,Wolf/Fetterman,DEM,236.0,227.0,9.0,Armstrong County,Kiskiminetas Township - OHS
+Armstrong,Kiskiminetas Township - OHS,Governor,,Wagner/Bartos,REP,301.0,294.0,7.0,Armstrong County,Kiskiminetas Township - OHS
+Armstrong,Kiskiminetas Township - OHS,Governor,,Glover/Bowser-Bos,GREEN,4.0,4.0,0.0,Armstrong County,Kiskiminetas Township - OHS
+Armstrong,Kiskiminetas Township - OHS,Governor,,Krawchuk/Smith,LIB,3.0,3.0,0.0,Armstrong County,Kiskiminetas Township - OHS
+Armstrong,Kiskiminetas Township - OHS,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Kiskiminetas Township - OHS
+Armstrong,Kiskiminetas Township - OHS,U.S. House,15.0,Susan Boser,DEM,203.0,196.0,7.0,Armstrong County,Kiskiminetas Township - OHS
+Armstrong,Kiskiminetas Township - OHS,U.S. House,15.0,Glenn GT Thompson,REP,333.0,324.0,9.0,Armstrong County,Kiskiminetas Township - OHS
+Armstrong,Kiskiminetas Township - OHS,U.S. House,15.0,Write-ins,,1.0,1.0,0.0,Armstrong County,Kiskiminetas Township - OHS
+Armstrong,Kiskiminetas Township - OHS,State House,60.0,Jeff Pyle,REP,439.0,428.0,11.0,Armstrong County,Kiskiminetas Township - OHS
+Armstrong,Kiskiminetas Township - OHS,State House,60.0,Write-ins,,19.0,18.0,1.0,Armstrong County,Kiskiminetas Township - OHS
+Armstrong,Kiskiminetas Township - Spring Church,U.S. Senate,,"Bob Casey, Jr.",DEM,207.0,201.0,6.0,Armstrong County,Kiskiminetas Township - Spring Church
+Armstrong,Kiskiminetas Township - Spring Church,U.S. Senate,,Lou Barletta,REP,365.0,358.0,7.0,Armstrong County,Kiskiminetas Township - Spring Church
+Armstrong,Kiskiminetas Township - Spring Church,U.S. Senate,,Neal Gale,GRN,4.0,4.0,0.0,Armstrong County,Kiskiminetas Township - Spring Church
+Armstrong,Kiskiminetas Township - Spring Church,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,6.0,6.0,0.0,Armstrong County,Kiskiminetas Township - Spring Church
+Armstrong,Kiskiminetas Township - Spring Church,Governor,,Wolf/Fetterman,DEM,216.0,210.0,6.0,Armstrong County,Kiskiminetas Township - Spring Church
+Armstrong,Kiskiminetas Township - Spring Church,Governor,,Wagner/Bartos,REP,358.0,351.0,7.0,Armstrong County,Kiskiminetas Township - Spring Church
+Armstrong,Kiskiminetas Township - Spring Church,Governor,,Glover/Bowser-Bos,GREEN,3.0,3.0,0.0,Armstrong County,Kiskiminetas Township - Spring Church
+Armstrong,Kiskiminetas Township - Spring Church,Governor,,Krawchuk/Smith,LIB,9.0,9.0,0.0,Armstrong County,Kiskiminetas Township - Spring Church
+Armstrong,Kiskiminetas Township - Spring Church,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Kiskiminetas Township - Spring Church
+Armstrong,Kiskiminetas Township - Spring Church,U.S. House,15.0,Susan Boser,DEM,189.0,183.0,6.0,Armstrong County,Kiskiminetas Township - Spring Church
+Armstrong,Kiskiminetas Township - Spring Church,U.S. House,15.0,Glenn GT Thompson,REP,387.0,380.0,7.0,Armstrong County,Kiskiminetas Township - Spring Church
+Armstrong,Kiskiminetas Township - Spring Church,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Kiskiminetas Township - Spring Church
+Armstrong,Kiskiminetas Township - Spring Church,State House,60.0,Jeff Pyle,REP,484.0,474.0,10.0,Armstrong County,Kiskiminetas Township - Spring Church
+Armstrong,Kiskiminetas Township - Spring Church,State House,60.0,Write-ins,,15.0,15.0,0.0,Armstrong County,Kiskiminetas Township - Spring Church
+Armstrong,Kittanning Borough - 1st Ward,U.S. Senate,,"Bob Casey, Jr.",DEM,73.0,67.0,6.0,Armstrong County,Kittanning Borough - 1st Ward
+Armstrong,Kittanning Borough - 1st Ward,U.S. Senate,,Lou Barletta,REP,90.0,87.0,3.0,Armstrong County,Kittanning Borough - 1st Ward
+Armstrong,Kittanning Borough - 1st Ward,U.S. Senate,,Neal Gale,GRN,0.0,0.0,0.0,Armstrong County,Kittanning Borough - 1st Ward
+Armstrong,Kittanning Borough - 1st Ward,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,3.0,2.0,1.0,Armstrong County,Kittanning Borough - 1st Ward
+Armstrong,Kittanning Borough - 1st Ward,Governor,,Wolf/Fetterman,DEM,76.0,71.0,5.0,Armstrong County,Kittanning Borough - 1st Ward
+Armstrong,Kittanning Borough - 1st Ward,Governor,,Wagner/Bartos,REP,90.0,86.0,4.0,Armstrong County,Kittanning Borough - 1st Ward
+Armstrong,Kittanning Borough - 1st Ward,Governor,,Glover/Bowser-Bos,GREEN,0.0,0.0,0.0,Armstrong County,Kittanning Borough - 1st Ward
+Armstrong,Kittanning Borough - 1st Ward,Governor,,Krawchuk/Smith,LIB,1.0,0.0,1.0,Armstrong County,Kittanning Borough - 1st Ward
+Armstrong,Kittanning Borough - 1st Ward,Governor,,Write-ins,,2.0,2.0,0.0,Armstrong County,Kittanning Borough - 1st Ward
+Armstrong,Kittanning Borough - 1st Ward,U.S. House,15.0,Susan Boser,DEM,68.0,63.0,5.0,Armstrong County,Kittanning Borough - 1st Ward
+Armstrong,Kittanning Borough - 1st Ward,U.S. House,15.0,Glenn GT Thompson,REP,96.0,91.0,5.0,Armstrong County,Kittanning Borough - 1st Ward
+Armstrong,Kittanning Borough - 1st Ward,U.S. House,15.0,Write-ins,,1.0,1.0,0.0,Armstrong County,Kittanning Borough - 1st Ward
+Armstrong,Kittanning Borough - 1st Ward,State House,60.0,Jeff Pyle,REP,125.0,121.0,4.0,Armstrong County,Kittanning Borough - 1st Ward
+Armstrong,Kittanning Borough - 1st Ward,State House,60.0,Write-ins,,3.0,3.0,0.0,Armstrong County,Kittanning Borough - 1st Ward
+Armstrong,Kittanning Borough - 2nd Ward,U.S. Senate,,"Bob Casey, Jr.",DEM,115.0,109.0,6.0,Armstrong County,Kittanning Borough - 2nd Ward
+Armstrong,Kittanning Borough - 2nd Ward,U.S. Senate,,Lou Barletta,REP,139.0,135.0,4.0,Armstrong County,Kittanning Borough - 2nd Ward
+Armstrong,Kittanning Borough - 2nd Ward,U.S. Senate,,Neal Gale,GRN,4.0,4.0,0.0,Armstrong County,Kittanning Borough - 2nd Ward
+Armstrong,Kittanning Borough - 2nd Ward,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,1.0,1.0,0.0,Armstrong County,Kittanning Borough - 2nd Ward
+Armstrong,Kittanning Borough - 2nd Ward,Governor,,Wolf/Fetterman,DEM,117.0,112.0,5.0,Armstrong County,Kittanning Borough - 2nd Ward
+Armstrong,Kittanning Borough - 2nd Ward,Governor,,Wagner/Bartos,REP,136.0,132.0,4.0,Armstrong County,Kittanning Borough - 2nd Ward
+Armstrong,Kittanning Borough - 2nd Ward,Governor,,Glover/Bowser-Bos,GREEN,3.0,2.0,1.0,Armstrong County,Kittanning Borough - 2nd Ward
+Armstrong,Kittanning Borough - 2nd Ward,Governor,,Krawchuk/Smith,LIB,4.0,4.0,0.0,Armstrong County,Kittanning Borough - 2nd Ward
+Armstrong,Kittanning Borough - 2nd Ward,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Kittanning Borough - 2nd Ward
+Armstrong,Kittanning Borough - 2nd Ward,U.S. House,15.0,Susan Boser,DEM,94.0,89.0,5.0,Armstrong County,Kittanning Borough - 2nd Ward
+Armstrong,Kittanning Borough - 2nd Ward,U.S. House,15.0,Glenn GT Thompson,REP,162.0,157.0,5.0,Armstrong County,Kittanning Borough - 2nd Ward
+Armstrong,Kittanning Borough - 2nd Ward,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Kittanning Borough - 2nd Ward
+Armstrong,Kittanning Borough - 2nd Ward,State House,60.0,Jeff Pyle,REP,201.0,195.0,6.0,Armstrong County,Kittanning Borough - 2nd Ward
+Armstrong,Kittanning Borough - 2nd Ward,State House,60.0,Write-ins,,4.0,4.0,0.0,Armstrong County,Kittanning Borough - 2nd Ward
+Armstrong,Kittanning Borough - 3rd Ward,U.S. Senate,,"Bob Casey, Jr.",DEM,163.0,159.0,4.0,Armstrong County,Kittanning Borough - 3rd Ward
+Armstrong,Kittanning Borough - 3rd Ward,U.S. Senate,,Lou Barletta,REP,213.0,207.0,6.0,Armstrong County,Kittanning Borough - 3rd Ward
+Armstrong,Kittanning Borough - 3rd Ward,U.S. Senate,,Neal Gale,GRN,3.0,3.0,0.0,Armstrong County,Kittanning Borough - 3rd Ward
+Armstrong,Kittanning Borough - 3rd Ward,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,5.0,5.0,0.0,Armstrong County,Kittanning Borough - 3rd Ward
+Armstrong,Kittanning Borough - 3rd Ward,Governor,,Wolf/Fetterman,DEM,171.0,168.0,3.0,Armstrong County,Kittanning Borough - 3rd Ward
+Armstrong,Kittanning Borough - 3rd Ward,Governor,,Wagner/Bartos,REP,212.0,206.0,6.0,Armstrong County,Kittanning Borough - 3rd Ward
+Armstrong,Kittanning Borough - 3rd Ward,Governor,,Glover/Bowser-Bos,GREEN,2.0,2.0,0.0,Armstrong County,Kittanning Borough - 3rd Ward
+Armstrong,Kittanning Borough - 3rd Ward,Governor,,Krawchuk/Smith,LIB,3.0,3.0,0.0,Armstrong County,Kittanning Borough - 3rd Ward
+Armstrong,Kittanning Borough - 3rd Ward,Governor,,Write-ins,,1.0,1.0,0.0,Armstrong County,Kittanning Borough - 3rd Ward
+Armstrong,Kittanning Borough - 3rd Ward,U.S. House,15.0,Susan Boser,DEM,141.0,137.0,4.0,Armstrong County,Kittanning Borough - 3rd Ward
+Armstrong,Kittanning Borough - 3rd Ward,U.S. House,15.0,Glenn GT Thompson,REP,240.0,234.0,6.0,Armstrong County,Kittanning Borough - 3rd Ward
+Armstrong,Kittanning Borough - 3rd Ward,U.S. House,15.0,Write-ins,,2.0,2.0,0.0,Armstrong County,Kittanning Borough - 3rd Ward
+Armstrong,Kittanning Borough - 3rd Ward,State House,60.0,Jeff Pyle,REP,315.0,308.0,7.0,Armstrong County,Kittanning Borough - 3rd Ward
+Armstrong,Kittanning Borough - 3rd Ward,State House,60.0,Write-ins,,17.0,17.0,0.0,Armstrong County,Kittanning Borough - 3rd Ward
+Armstrong,Kittanning Borough - 4th Ward,U.S. Senate,,"Bob Casey, Jr.",DEM,91.0,88.0,3.0,Armstrong County,Kittanning Borough - 4th Ward
+Armstrong,Kittanning Borough - 4th Ward,U.S. Senate,,Lou Barletta,REP,152.0,146.0,6.0,Armstrong County,Kittanning Borough - 4th Ward
+Armstrong,Kittanning Borough - 4th Ward,U.S. Senate,,Neal Gale,GRN,4.0,4.0,0.0,Armstrong County,Kittanning Borough - 4th Ward
+Armstrong,Kittanning Borough - 4th Ward,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,2.0,2.0,0.0,Armstrong County,Kittanning Borough - 4th Ward
+Armstrong,Kittanning Borough - 4th Ward,Governor,,Wolf/Fetterman,DEM,99.0,94.0,5.0,Armstrong County,Kittanning Borough - 4th Ward
+Armstrong,Kittanning Borough - 4th Ward,Governor,,Wagner/Bartos,REP,145.0,141.0,4.0,Armstrong County,Kittanning Borough - 4th Ward
+Armstrong,Kittanning Borough - 4th Ward,Governor,,Glover/Bowser-Bos,GREEN,0.0,0.0,0.0,Armstrong County,Kittanning Borough - 4th Ward
+Armstrong,Kittanning Borough - 4th Ward,Governor,,Krawchuk/Smith,LIB,4.0,4.0,0.0,Armstrong County,Kittanning Borough - 4th Ward
+Armstrong,Kittanning Borough - 4th Ward,Governor,,Write-ins,,2.0,2.0,0.0,Armstrong County,Kittanning Borough - 4th Ward
+Armstrong,Kittanning Borough - 4th Ward,U.S. House,15.0,Susan Boser,DEM,73.0,70.0,3.0,Armstrong County,Kittanning Borough - 4th Ward
+Armstrong,Kittanning Borough - 4th Ward,U.S. House,15.0,Glenn GT Thompson,REP,172.0,166.0,6.0,Armstrong County,Kittanning Borough - 4th Ward
+Armstrong,Kittanning Borough - 4th Ward,U.S. House,15.0,Write-ins,,2.0,2.0,0.0,Armstrong County,Kittanning Borough - 4th Ward
+Armstrong,Kittanning Borough - 4th Ward,State House,60.0,Jeff Pyle,REP,210.0,203.0,7.0,Armstrong County,Kittanning Borough - 4th Ward
+Armstrong,Kittanning Borough - 4th Ward,State House,60.0,Write-ins,,5.0,4.0,1.0,Armstrong County,Kittanning Borough - 4th Ward
+Armstrong,Kittanning Township,U.S. Senate,,"Bob Casey, Jr.",DEM,246.0,236.0,10.0,Armstrong County,Kittanning Township
+Armstrong,Kittanning Township,U.S. Senate,,Lou Barletta,REP,558.0,540.0,18.0,Armstrong County,Kittanning Township
+Armstrong,Kittanning Township,U.S. Senate,,Neal Gale,GRN,4.0,4.0,0.0,Armstrong County,Kittanning Township
+Armstrong,Kittanning Township,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,12.0,12.0,0.0,Armstrong County,Kittanning Township
+Armstrong,Kittanning Township,Governor,,Wolf/Fetterman,DEM,252.0,242.0,10.0,Armstrong County,Kittanning Township
+Armstrong,Kittanning Township,Governor,,Wagner/Bartos,REP,551.0,533.0,18.0,Armstrong County,Kittanning Township
+Armstrong,Kittanning Township,Governor,,Glover/Bowser-Bos,GREEN,8.0,8.0,0.0,Armstrong County,Kittanning Township
+Armstrong,Kittanning Township,Governor,,Krawchuk/Smith,LIB,8.0,8.0,0.0,Armstrong County,Kittanning Township
+Armstrong,Kittanning Township,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Kittanning Township
+Armstrong,Kittanning Township,U.S. House,15.0,Susan Boser,DEM,222.0,213.0,9.0,Armstrong County,Kittanning Township
+Armstrong,Kittanning Township,U.S. House,15.0,Glenn GT Thompson,REP,589.0,572.0,17.0,Armstrong County,Kittanning Township
+Armstrong,Kittanning Township,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Kittanning Township
+Armstrong,Kittanning Township,State House,60.0,Jeff Pyle,REP,692.0,670.0,22.0,Armstrong County,Kittanning Township
+Armstrong,Kittanning Township,State House,60.0,Write-ins,,19.0,16.0,3.0,Armstrong County,Kittanning Township
+Armstrong,Leechburg Borough - #1,U.S. Senate,,"Bob Casey, Jr.",DEM,204.0,201.0,3.0,Armstrong County,Leechburg Borough - #1
+Armstrong,Leechburg Borough - #1,U.S. Senate,,Lou Barletta,REP,187.0,185.0,2.0,Armstrong County,Leechburg Borough - #1
+Armstrong,Leechburg Borough - #1,U.S. Senate,,Neal Gale,GRN,2.0,2.0,0.0,Armstrong County,Leechburg Borough - #1
+Armstrong,Leechburg Borough - #1,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,4.0,4.0,0.0,Armstrong County,Leechburg Borough - #1
+Armstrong,Leechburg Borough - #1,Governor,,Wolf/Fetterman,DEM,205.0,202.0,3.0,Armstrong County,Leechburg Borough - #1
+Armstrong,Leechburg Borough - #1,Governor,,Wagner/Bartos,REP,186.0,184.0,2.0,Armstrong County,Leechburg Borough - #1
+Armstrong,Leechburg Borough - #1,Governor,,Glover/Bowser-Bos,GREEN,4.0,4.0,0.0,Armstrong County,Leechburg Borough - #1
+Armstrong,Leechburg Borough - #1,Governor,,Krawchuk/Smith,LIB,5.0,5.0,0.0,Armstrong County,Leechburg Borough - #1
+Armstrong,Leechburg Borough - #1,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Leechburg Borough - #1
+Armstrong,Leechburg Borough - #1,U.S. House,15.0,Susan Boser,DEM,192.0,190.0,2.0,Armstrong County,Leechburg Borough - #1
+Armstrong,Leechburg Borough - #1,U.S. House,15.0,Glenn GT Thompson,REP,201.0,198.0,3.0,Armstrong County,Leechburg Borough - #1
+Armstrong,Leechburg Borough - #1,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Leechburg Borough - #1
+Armstrong,Leechburg Borough - #1,State House,55.0,Joseph A. Petrarca,DEM,286.0,283.0,3.0,Armstrong County,Leechburg Borough - #1
+Armstrong,Leechburg Borough - #1,State House,55.0,Write-ins,,7.0,7.0,0.0,Armstrong County,Leechburg Borough - #1
+Armstrong,Leechburg Borough - #2,U.S. Senate,,"Bob Casey, Jr.",DEM,151.0,143.0,8.0,Armstrong County,Leechburg Borough - #2
+Armstrong,Leechburg Borough - #2,U.S. Senate,,Lou Barletta,REP,141.0,139.0,2.0,Armstrong County,Leechburg Borough - #2
+Armstrong,Leechburg Borough - #2,U.S. Senate,,Neal Gale,GRN,5.0,5.0,0.0,Armstrong County,Leechburg Borough - #2
+Armstrong,Leechburg Borough - #2,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,8.0,8.0,0.0,Armstrong County,Leechburg Borough - #2
+Armstrong,Leechburg Borough - #2,Governor,,Wolf/Fetterman,DEM,161.0,153.0,8.0,Armstrong County,Leechburg Borough - #2
+Armstrong,Leechburg Borough - #2,Governor,,Wagner/Bartos,REP,139.0,137.0,2.0,Armstrong County,Leechburg Borough - #2
+Armstrong,Leechburg Borough - #2,Governor,,Glover/Bowser-Bos,GREEN,1.0,1.0,0.0,Armstrong County,Leechburg Borough - #2
+Armstrong,Leechburg Borough - #2,Governor,,Krawchuk/Smith,LIB,7.0,7.0,0.0,Armstrong County,Leechburg Borough - #2
+Armstrong,Leechburg Borough - #2,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Leechburg Borough - #2
+Armstrong,Leechburg Borough - #2,U.S. House,15.0,Susan Boser,DEM,149.0,141.0,8.0,Armstrong County,Leechburg Borough - #2
+Armstrong,Leechburg Borough - #2,U.S. House,15.0,Glenn GT Thompson,REP,151.0,149.0,2.0,Armstrong County,Leechburg Borough - #2
+Armstrong,Leechburg Borough - #2,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Leechburg Borough - #2
+Armstrong,Leechburg Borough - #2,State House,55.0,Joseph A. Petrarca,DEM,229.0,219.0,10.0,Armstrong County,Leechburg Borough - #2
+Armstrong,Leechburg Borough - #2,State House,55.0,Write-ins,,9.0,9.0,0.0,Armstrong County,Leechburg Borough - #2
+Armstrong,Madison Township,U.S. Senate,,"Bob Casey, Jr.",DEM,75.0,75.0,0.0,Armstrong County,Madison Township
+Armstrong,Madison Township,U.S. Senate,,Lou Barletta,REP,256.0,249.0,7.0,Armstrong County,Madison Township
+Armstrong,Madison Township,U.S. Senate,,Neal Gale,GRN,0.0,0.0,0.0,Armstrong County,Madison Township
+Armstrong,Madison Township,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,5.0,5.0,0.0,Armstrong County,Madison Township
+Armstrong,Madison Township,Governor,,Wolf/Fetterman,DEM,76.0,76.0,0.0,Armstrong County,Madison Township
+Armstrong,Madison Township,Governor,,Wagner/Bartos,REP,259.0,252.0,7.0,Armstrong County,Madison Township
+Armstrong,Madison Township,Governor,,Glover/Bowser-Bos,GREEN,0.0,0.0,0.0,Armstrong County,Madison Township
+Armstrong,Madison Township,Governor,,Krawchuk/Smith,LIB,2.0,2.0,0.0,Armstrong County,Madison Township
+Armstrong,Madison Township,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Madison Township
+Armstrong,Madison Township,U.S. House,15.0,Susan Boser,DEM,62.0,62.0,0.0,Armstrong County,Madison Township
+Armstrong,Madison Township,U.S. House,15.0,Glenn GT Thompson,REP,271.0,264.0,7.0,Armstrong County,Madison Township
+Armstrong,Madison Township,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Madison Township
+Armstrong,Madison Township,State House,63.0,Conrad Warner,DEM,57.0,57.0,0.0,Armstrong County,Madison Township
+Armstrong,Madison Township,State House,63.0,Donna Oberlander,REP,280.0,273.0,7.0,Armstrong County,Madison Township
+Armstrong,Madison Township,State House,63.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Madison Township
+Armstrong,Mahoning Township,U.S. Senate,,"Bob Casey, Jr.",DEM,172.0,160.0,12.0,Armstrong County,Mahoning Township
+Armstrong,Mahoning Township,U.S. Senate,,Lou Barletta,REP,372.0,364.0,8.0,Armstrong County,Mahoning Township
+Armstrong,Mahoning Township,U.S. Senate,,Neal Gale,GRN,2.0,2.0,0.0,Armstrong County,Mahoning Township
+Armstrong,Mahoning Township,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,4.0,3.0,1.0,Armstrong County,Mahoning Township
+Armstrong,Mahoning Township,Governor,,Wolf/Fetterman,DEM,171.0,159.0,12.0,Armstrong County,Mahoning Township
+Armstrong,Mahoning Township,Governor,,Wagner/Bartos,REP,379.0,372.0,7.0,Armstrong County,Mahoning Township
+Armstrong,Mahoning Township,Governor,,Glover/Bowser-Bos,GREEN,0.0,0.0,0.0,Armstrong County,Mahoning Township
+Armstrong,Mahoning Township,Governor,,Krawchuk/Smith,LIB,5.0,4.0,1.0,Armstrong County,Mahoning Township
+Armstrong,Mahoning Township,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Mahoning Township
+Armstrong,Mahoning Township,U.S. House,15.0,Susan Boser,DEM,128.0,116.0,12.0,Armstrong County,Mahoning Township
+Armstrong,Mahoning Township,U.S. House,15.0,Glenn GT Thompson,REP,414.0,403.0,11.0,Armstrong County,Mahoning Township
+Armstrong,Mahoning Township,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Mahoning Township
+Armstrong,Mahoning Township,State House,63.0,Conrad Warner,DEM,113.0,104.0,9.0,Armstrong County,Mahoning Township
+Armstrong,Mahoning Township,State House,63.0,Donna Oberlander,REP,442.0,429.0,13.0,Armstrong County,Mahoning Township
+Armstrong,Mahoning Township,State House,63.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Mahoning Township
+Armstrong,Manor Township - North,U.S. Senate,,"Bob Casey, Jr.",DEM,245.0,236.0,9.0,Armstrong County,Manor Township - North
+Armstrong,Manor Township - North,U.S. Senate,,Lou Barletta,REP,395.0,387.0,8.0,Armstrong County,Manor Township - North
+Armstrong,Manor Township - North,U.S. Senate,,Neal Gale,GRN,8.0,7.0,1.0,Armstrong County,Manor Township - North
+Armstrong,Manor Township - North,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,6.0,6.0,0.0,Armstrong County,Manor Township - North
+Armstrong,Manor Township - North,Governor,,Wolf/Fetterman,DEM,269.0,260.0,9.0,Armstrong County,Manor Township - North
+Armstrong,Manor Township - North,Governor,,Wagner/Bartos,REP,374.0,366.0,8.0,Armstrong County,Manor Township - North
+Armstrong,Manor Township - North,Governor,,Glover/Bowser-Bos,GREEN,11.0,10.0,1.0,Armstrong County,Manor Township - North
+Armstrong,Manor Township - North,Governor,,Krawchuk/Smith,LIB,6.0,6.0,0.0,Armstrong County,Manor Township - North
+Armstrong,Manor Township - North,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Manor Township - North
+Armstrong,Manor Township - North,U.S. House,15.0,Susan Boser,DEM,231.0,221.0,10.0,Armstrong County,Manor Township - North
+Armstrong,Manor Township - North,U.S. House,15.0,Glenn GT Thompson,REP,417.0,410.0,7.0,Armstrong County,Manor Township - North
+Armstrong,Manor Township - North,U.S. House,15.0,Write-ins,,1.0,1.0,0.0,Armstrong County,Manor Township - North
+Armstrong,Manor Township - North,State House,60.0,Jeff Pyle,REP,544.0,533.0,11.0,Armstrong County,Manor Township - North
+Armstrong,Manor Township - North,State House,60.0,Write-ins,,14.0,12.0,2.0,Armstrong County,Manor Township - North
+Armstrong,Manor Township - South #1,U.S. Senate,,"Bob Casey, Jr.",DEM,157.0,153.0,4.0,Armstrong County,Manor Township - South #1
+Armstrong,Manor Township - South #1,U.S. Senate,,Lou Barletta,REP,245.0,235.0,10.0,Armstrong County,Manor Township - South #1
+Armstrong,Manor Township - South #1,U.S. Senate,,Neal Gale,GRN,3.0,3.0,0.0,Armstrong County,Manor Township - South #1
+Armstrong,Manor Township - South #1,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,2.0,2.0,0.0,Armstrong County,Manor Township - South #1
+Armstrong,Manor Township - South #1,Governor,,Wolf/Fetterman,DEM,173.0,166.0,7.0,Armstrong County,Manor Township - South #1
+Armstrong,Manor Township - South #1,Governor,,Wagner/Bartos,REP,231.0,224.0,7.0,Armstrong County,Manor Township - South #1
+Armstrong,Manor Township - South #1,Governor,,Glover/Bowser-Bos,GREEN,2.0,2.0,0.0,Armstrong County,Manor Township - South #1
+Armstrong,Manor Township - South #1,Governor,,Krawchuk/Smith,LIB,5.0,5.0,0.0,Armstrong County,Manor Township - South #1
+Armstrong,Manor Township - South #1,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Manor Township - South #1
+Armstrong,Manor Township - South #1,U.S. House,15.0,Susan Boser,DEM,123.0,120.0,3.0,Armstrong County,Manor Township - South #1
+Armstrong,Manor Township - South #1,U.S. House,15.0,Glenn GT Thompson,REP,282.0,272.0,10.0,Armstrong County,Manor Township - South #1
+Armstrong,Manor Township - South #1,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Manor Township - South #1
+Armstrong,Manor Township - South #1,State House,60.0,Jeff Pyle,REP,340.0,327.0,13.0,Armstrong County,Manor Township - South #1
+Armstrong,Manor Township - South #1,State House,60.0,Write-ins,,16.0,16.0,0.0,Armstrong County,Manor Township - South #1
+Armstrong,Manor Township - South #2,U.S. Senate,,"Bob Casey, Jr.",DEM,233.0,226.0,7.0,Armstrong County,Manor Township - South #2
+Armstrong,Manor Township - South #2,U.S. Senate,,Lou Barletta,REP,315.0,304.0,11.0,Armstrong County,Manor Township - South #2
+Armstrong,Manor Township - South #2,U.S. Senate,,Neal Gale,GRN,4.0,3.0,1.0,Armstrong County,Manor Township - South #2
+Armstrong,Manor Township - South #2,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,10.0,10.0,0.0,Armstrong County,Manor Township - South #2
+Armstrong,Manor Township - South #2,Governor,,Wolf/Fetterman,DEM,259.0,252.0,7.0,Armstrong County,Manor Township - South #2
+Armstrong,Manor Township - South #2,Governor,,Wagner/Bartos,REP,298.0,287.0,11.0,Armstrong County,Manor Township - South #2
+Armstrong,Manor Township - South #2,Governor,,Glover/Bowser-Bos,GREEN,3.0,2.0,1.0,Armstrong County,Manor Township - South #2
+Armstrong,Manor Township - South #2,Governor,,Krawchuk/Smith,LIB,8.0,8.0,0.0,Armstrong County,Manor Township - South #2
+Armstrong,Manor Township - South #2,Governor,,Write-ins,,1.0,1.0,0.0,Armstrong County,Manor Township - South #2
+Armstrong,Manor Township - South #2,U.S. House,15.0,Susan Boser,DEM,211.0,203.0,8.0,Armstrong County,Manor Township - South #2
+Armstrong,Manor Township - South #2,U.S. House,15.0,Glenn GT Thompson,REP,350.0,338.0,12.0,Armstrong County,Manor Township - South #2
+Armstrong,Manor Township - South #2,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Manor Township - South #2
+Armstrong,Manor Township - South #2,State House,60.0,Jeff Pyle,REP,439.0,424.0,15.0,Armstrong County,Manor Township - South #2
+Armstrong,Manor Township - South #2,State House,60.0,Write-ins,,18.0,18.0,0.0,Armstrong County,Manor Township - South #2
+Armstrong,Manorville Borough,U.S. Senate,,"Bob Casey, Jr.",DEM,64.0,62.0,2.0,Armstrong County,Manorville Borough
+Armstrong,Manorville Borough,U.S. Senate,,Lou Barletta,REP,90.0,89.0,1.0,Armstrong County,Manorville Borough
+Armstrong,Manorville Borough,U.S. Senate,,Neal Gale,GRN,1.0,1.0,0.0,Armstrong County,Manorville Borough
+Armstrong,Manorville Borough,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,2.0,2.0,0.0,Armstrong County,Manorville Borough
+Armstrong,Manorville Borough,Governor,,Wolf/Fetterman,DEM,71.0,69.0,2.0,Armstrong County,Manorville Borough
+Armstrong,Manorville Borough,Governor,,Wagner/Bartos,REP,86.0,85.0,1.0,Armstrong County,Manorville Borough
+Armstrong,Manorville Borough,Governor,,Glover/Bowser-Bos,GREEN,3.0,3.0,0.0,Armstrong County,Manorville Borough
+Armstrong,Manorville Borough,Governor,,Krawchuk/Smith,LIB,2.0,2.0,0.0,Armstrong County,Manorville Borough
+Armstrong,Manorville Borough,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Manorville Borough
+Armstrong,Manorville Borough,U.S. House,15.0,Susan Boser,DEM,53.0,51.0,2.0,Armstrong County,Manorville Borough
+Armstrong,Manorville Borough,U.S. House,15.0,Glenn GT Thompson,REP,103.0,102.0,1.0,Armstrong County,Manorville Borough
+Armstrong,Manorville Borough,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Manorville Borough
+Armstrong,Manorville Borough,State House,60.0,Jeff Pyle,REP,124.0,122.0,2.0,Armstrong County,Manorville Borough
+Armstrong,Manorville Borough,State House,60.0,Write-ins,,3.0,3.0,0.0,Armstrong County,Manorville Borough
+Armstrong,North Apollo Borough,U.S. Senate,,"Bob Casey, Jr.",DEM,159.0,155.0,4.0,Armstrong County,North Apollo Borough
+Armstrong,North Apollo Borough,U.S. Senate,,Lou Barletta,REP,224.0,214.0,10.0,Armstrong County,North Apollo Borough
+Armstrong,North Apollo Borough,U.S. Senate,,Neal Gale,GRN,3.0,3.0,0.0,Armstrong County,North Apollo Borough
+Armstrong,North Apollo Borough,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,29.0,28.0,1.0,Armstrong County,North Apollo Borough
+Armstrong,North Apollo Borough,Governor,,Wolf/Fetterman,DEM,169.0,165.0,4.0,Armstrong County,North Apollo Borough
+Armstrong,North Apollo Borough,Governor,,Wagner/Bartos,REP,219.0,209.0,10.0,Armstrong County,North Apollo Borough
+Armstrong,North Apollo Borough,Governor,,Glover/Bowser-Bos,GREEN,2.0,2.0,0.0,Armstrong County,North Apollo Borough
+Armstrong,North Apollo Borough,Governor,,Krawchuk/Smith,LIB,22.0,21.0,1.0,Armstrong County,North Apollo Borough
+Armstrong,North Apollo Borough,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,North Apollo Borough
+Armstrong,North Apollo Borough,U.S. House,15.0,Susan Boser,DEM,160.0,157.0,3.0,Armstrong County,North Apollo Borough
+Armstrong,North Apollo Borough,U.S. House,15.0,Glenn GT Thompson,REP,249.0,237.0,12.0,Armstrong County,North Apollo Borough
+Armstrong,North Apollo Borough,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,North Apollo Borough
+Armstrong,North Apollo Borough,State House,60.0,Jeff Pyle,REP,314.0,302.0,12.0,Armstrong County,North Apollo Borough
+Armstrong,North Apollo Borough,State House,60.0,Write-ins,,9.0,8.0,1.0,Armstrong County,North Apollo Borough
+Armstrong,North Buffalo Township - East,U.S. Senate,,"Bob Casey, Jr.",DEM,190.0,187.0,3.0,Armstrong County,North Buffalo Township - East
+Armstrong,North Buffalo Township - East,U.S. Senate,,Lou Barletta,REP,401.0,392.0,9.0,Armstrong County,North Buffalo Township - East
+Armstrong,North Buffalo Township - East,U.S. Senate,,Neal Gale,GRN,0.0,0.0,0.0,Armstrong County,North Buffalo Township - East
+Armstrong,North Buffalo Township - East,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,4.0,4.0,0.0,Armstrong County,North Buffalo Township - East
+Armstrong,North Buffalo Township - East,Governor,,Wolf/Fetterman,DEM,190.0,187.0,3.0,Armstrong County,North Buffalo Township - East
+Armstrong,North Buffalo Township - East,Governor,,Wagner/Bartos,REP,395.0,387.0,8.0,Armstrong County,North Buffalo Township - East
+Armstrong,North Buffalo Township - East,Governor,,Glover/Bowser-Bos,GREEN,4.0,3.0,1.0,Armstrong County,North Buffalo Township - East
+Armstrong,North Buffalo Township - East,Governor,,Krawchuk/Smith,LIB,8.0,8.0,0.0,Armstrong County,North Buffalo Township - East
+Armstrong,North Buffalo Township - East,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,North Buffalo Township - East
+Armstrong,North Buffalo Township - East,U.S. House,15.0,Susan Boser,DEM,169.0,166.0,3.0,Armstrong County,North Buffalo Township - East
+Armstrong,North Buffalo Township - East,U.S. House,15.0,Glenn GT Thompson,REP,424.0,415.0,9.0,Armstrong County,North Buffalo Township - East
+Armstrong,North Buffalo Township - East,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,North Buffalo Township - East
+Armstrong,North Buffalo Township - East,State House,60.0,Jeff Pyle,REP,489.0,480.0,9.0,Armstrong County,North Buffalo Township - East
+Armstrong,North Buffalo Township - East,State House,60.0,Write-ins,,19.0,19.0,0.0,Armstrong County,North Buffalo Township - East
+Armstrong,North Buffalo Township - West,U.S. Senate,,"Bob Casey, Jr.",DEM,149.0,145.0,4.0,Armstrong County,North Buffalo Township - West
+Armstrong,North Buffalo Township - West,U.S. Senate,,Lou Barletta,REP,390.0,372.0,18.0,Armstrong County,North Buffalo Township - West
+Armstrong,North Buffalo Township - West,U.S. Senate,,Neal Gale,GRN,5.0,5.0,0.0,Armstrong County,North Buffalo Township - West
+Armstrong,North Buffalo Township - West,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,10.0,10.0,0.0,Armstrong County,North Buffalo Township - West
+Armstrong,North Buffalo Township - West,Governor,,Wolf/Fetterman,DEM,163.0,159.0,4.0,Armstrong County,North Buffalo Township - West
+Armstrong,North Buffalo Township - West,Governor,,Wagner/Bartos,REP,386.0,368.0,18.0,Armstrong County,North Buffalo Township - West
+Armstrong,North Buffalo Township - West,Governor,,Glover/Bowser-Bos,GREEN,2.0,2.0,0.0,Armstrong County,North Buffalo Township - West
+Armstrong,North Buffalo Township - West,Governor,,Krawchuk/Smith,LIB,4.0,4.0,0.0,Armstrong County,North Buffalo Township - West
+Armstrong,North Buffalo Township - West,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,North Buffalo Township - West
+Armstrong,North Buffalo Township - West,U.S. House,15.0,Susan Boser,DEM,122.0,118.0,4.0,Armstrong County,North Buffalo Township - West
+Armstrong,North Buffalo Township - West,U.S. House,15.0,Glenn GT Thompson,REP,425.0,407.0,18.0,Armstrong County,North Buffalo Township - West
+Armstrong,North Buffalo Township - West,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,North Buffalo Township - West
+Armstrong,North Buffalo Township - West,State House,60.0,Jeff Pyle,REP,504.0,483.0,21.0,Armstrong County,North Buffalo Township - West
+Armstrong,North Buffalo Township - West,State House,60.0,Write-ins,,1.0,1.0,0.0,Armstrong County,North Buffalo Township - West
+Armstrong,Parker City - 1st Ward,U.S. Senate,,"Bob Casey, Jr.",DEM,32.0,32.0,0.0,Armstrong County,Parker City - 1st Ward
+Armstrong,Parker City - 1st Ward,U.S. Senate,,Lou Barletta,REP,63.0,61.0,2.0,Armstrong County,Parker City - 1st Ward
+Armstrong,Parker City - 1st Ward,U.S. Senate,,Neal Gale,GRN,0.0,0.0,0.0,Armstrong County,Parker City - 1st Ward
+Armstrong,Parker City - 1st Ward,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,1.0,1.0,0.0,Armstrong County,Parker City - 1st Ward
+Armstrong,Parker City - 1st Ward,Governor,,Wolf/Fetterman,DEM,37.0,35.0,2.0,Armstrong County,Parker City - 1st Ward
+Armstrong,Parker City - 1st Ward,Governor,,Wagner/Bartos,REP,62.0,62.0,0.0,Armstrong County,Parker City - 1st Ward
+Armstrong,Parker City - 1st Ward,Governor,,Glover/Bowser-Bos,GREEN,0.0,0.0,0.0,Armstrong County,Parker City - 1st Ward
+Armstrong,Parker City - 1st Ward,Governor,,Krawchuk/Smith,LIB,0.0,0.0,0.0,Armstrong County,Parker City - 1st Ward
+Armstrong,Parker City - 1st Ward,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Parker City - 1st Ward
+Armstrong,Parker City - 1st Ward,U.S. House,15.0,Susan Boser,DEM,32.0,32.0,0.0,Armstrong County,Parker City - 1st Ward
+Armstrong,Parker City - 1st Ward,U.S. House,15.0,Glenn GT Thompson,REP,66.0,64.0,2.0,Armstrong County,Parker City - 1st Ward
+Armstrong,Parker City - 1st Ward,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Parker City - 1st Ward
+Armstrong,Parker City - 1st Ward,State House,63.0,Conrad Warner,DEM,27.0,27.0,0.0,Armstrong County,Parker City - 1st Ward
+Armstrong,Parker City - 1st Ward,State House,63.0,Donna Oberlander,REP,72.0,70.0,2.0,Armstrong County,Parker City - 1st Ward
+Armstrong,Parker City - 1st Ward,State House,63.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Parker City - 1st Ward
+Armstrong,Parker City - 2nd Ward,U.S. Senate,,"Bob Casey, Jr.",DEM,36.0,35.0,1.0,Armstrong County,Parker City - 2nd Ward
+Armstrong,Parker City - 2nd Ward,U.S. Senate,,Lou Barletta,REP,71.0,71.0,0.0,Armstrong County,Parker City - 2nd Ward
+Armstrong,Parker City - 2nd Ward,U.S. Senate,,Neal Gale,GRN,1.0,1.0,0.0,Armstrong County,Parker City - 2nd Ward
+Armstrong,Parker City - 2nd Ward,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,4.0,4.0,0.0,Armstrong County,Parker City - 2nd Ward
+Armstrong,Parker City - 2nd Ward,Governor,,Wolf/Fetterman,DEM,35.0,34.0,1.0,Armstrong County,Parker City - 2nd Ward
+Armstrong,Parker City - 2nd Ward,Governor,,Wagner/Bartos,REP,74.0,74.0,0.0,Armstrong County,Parker City - 2nd Ward
+Armstrong,Parker City - 2nd Ward,Governor,,Glover/Bowser-Bos,GREEN,3.0,3.0,0.0,Armstrong County,Parker City - 2nd Ward
+Armstrong,Parker City - 2nd Ward,Governor,,Krawchuk/Smith,LIB,1.0,1.0,0.0,Armstrong County,Parker City - 2nd Ward
+Armstrong,Parker City - 2nd Ward,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Parker City - 2nd Ward
+Armstrong,Parker City - 2nd Ward,U.S. House,15.0,Susan Boser,DEM,28.0,27.0,1.0,Armstrong County,Parker City - 2nd Ward
+Armstrong,Parker City - 2nd Ward,U.S. House,15.0,Glenn GT Thompson,REP,83.0,83.0,0.0,Armstrong County,Parker City - 2nd Ward
+Armstrong,Parker City - 2nd Ward,U.S. House,15.0,Write-ins,,1.0,1.0,0.0,Armstrong County,Parker City - 2nd Ward
+Armstrong,Parker City - 2nd Ward,State House,63.0,Conrad Warner,DEM,26.0,25.0,1.0,Armstrong County,Parker City - 2nd Ward
+Armstrong,Parker City - 2nd Ward,State House,63.0,Donna Oberlander,REP,85.0,85.0,0.0,Armstrong County,Parker City - 2nd Ward
+Armstrong,Parker City - 2nd Ward,State House,63.0,Write-ins,,1.0,1.0,0.0,Armstrong County,Parker City - 2nd Ward
+Armstrong,Parks Township - Kepple Hill,U.S. Senate,,"Bob Casey, Jr.",DEM,159.0,152.0,7.0,Armstrong County,Parks Township - Kepple Hill
+Armstrong,Parks Township - Kepple Hill,U.S. Senate,,Lou Barletta,REP,190.0,187.0,3.0,Armstrong County,Parks Township - Kepple Hill
+Armstrong,Parks Township - Kepple Hill,U.S. Senate,,Neal Gale,GRN,4.0,4.0,0.0,Armstrong County,Parks Township - Kepple Hill
+Armstrong,Parks Township - Kepple Hill,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,4.0,4.0,0.0,Armstrong County,Parks Township - Kepple Hill
+Armstrong,Parks Township - Kepple Hill,Governor,,Wolf/Fetterman,DEM,167.0,160.0,7.0,Armstrong County,Parks Township - Kepple Hill
+Armstrong,Parks Township - Kepple Hill,Governor,,Wagner/Bartos,REP,184.0,181.0,3.0,Armstrong County,Parks Township - Kepple Hill
+Armstrong,Parks Township - Kepple Hill,Governor,,Glover/Bowser-Bos,GREEN,1.0,1.0,0.0,Armstrong County,Parks Township - Kepple Hill
+Armstrong,Parks Township - Kepple Hill,Governor,,Krawchuk/Smith,LIB,7.0,7.0,0.0,Armstrong County,Parks Township - Kepple Hill
+Armstrong,Parks Township - Kepple Hill,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Parks Township - Kepple Hill
+Armstrong,Parks Township - Kepple Hill,U.S. House,15.0,Susan Boser,DEM,142.0,135.0,7.0,Armstrong County,Parks Township - Kepple Hill
+Armstrong,Parks Township - Kepple Hill,U.S. House,15.0,Glenn GT Thompson,REP,208.0,205.0,3.0,Armstrong County,Parks Township - Kepple Hill
+Armstrong,Parks Township - Kepple Hill,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Parks Township - Kepple Hill
+Armstrong,Parks Township - Kepple Hill,State House,55.0,Joseph A. Petrarca,DEM,255.0,245.0,10.0,Armstrong County,Parks Township - Kepple Hill
+Armstrong,Parks Township - Kepple Hill,State House,55.0,Write-ins,,9.0,9.0,0.0,Armstrong County,Parks Township - Kepple Hill
+Armstrong,Parks Township - N Vandergrift,U.S. Senate,,"Bob Casey, Jr.",DEM,59.0,58.0,1.0,Armstrong County,Parks Township - N Vandergrift
+Armstrong,Parks Township - N Vandergrift,U.S. Senate,,Lou Barletta,REP,74.0,74.0,0.0,Armstrong County,Parks Township - N Vandergrift
+Armstrong,Parks Township - N Vandergrift,U.S. Senate,,Neal Gale,GRN,1.0,1.0,0.0,Armstrong County,Parks Township - N Vandergrift
+Armstrong,Parks Township - N Vandergrift,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,2.0,2.0,0.0,Armstrong County,Parks Township - N Vandergrift
+Armstrong,Parks Township - N Vandergrift,Governor,,Wolf/Fetterman,DEM,58.0,57.0,1.0,Armstrong County,Parks Township - N Vandergrift
+Armstrong,Parks Township - N Vandergrift,Governor,,Wagner/Bartos,REP,76.0,76.0,0.0,Armstrong County,Parks Township - N Vandergrift
+Armstrong,Parks Township - N Vandergrift,Governor,,Glover/Bowser-Bos,GREEN,0.0,0.0,0.0,Armstrong County,Parks Township - N Vandergrift
+Armstrong,Parks Township - N Vandergrift,Governor,,Krawchuk/Smith,LIB,3.0,3.0,0.0,Armstrong County,Parks Township - N Vandergrift
+Armstrong,Parks Township - N Vandergrift,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Parks Township - N Vandergrift
+Armstrong,Parks Township - N Vandergrift,U.S. House,15.0,Susan Boser,DEM,57.0,55.0,2.0,Armstrong County,Parks Township - N Vandergrift
+Armstrong,Parks Township - N Vandergrift,U.S. House,15.0,Glenn GT Thompson,REP,75.0,75.0,0.0,Armstrong County,Parks Township - N Vandergrift
+Armstrong,Parks Township - N Vandergrift,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Parks Township - N Vandergrift
+Armstrong,Parks Township - N Vandergrift,State House,55.0,Joseph A. Petrarca,DEM,96.0,95.0,1.0,Armstrong County,Parks Township - N Vandergrift
+Armstrong,Parks Township - N Vandergrift,State House,55.0,Write-ins,,1.0,1.0,0.0,Armstrong County,Parks Township - N Vandergrift
+Armstrong,Parks Township - West,U.S. Senate,,"Bob Casey, Jr.",DEM,123.0,117.0,6.0,Armstrong County,Parks Township - West
+Armstrong,Parks Township - West,U.S. Senate,,Lou Barletta,REP,265.0,262.0,3.0,Armstrong County,Parks Township - West
+Armstrong,Parks Township - West,U.S. Senate,,Neal Gale,GRN,5.0,5.0,0.0,Armstrong County,Parks Township - West
+Armstrong,Parks Township - West,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,7.0,7.0,0.0,Armstrong County,Parks Township - West
+Armstrong,Parks Township - West,Governor,,Wolf/Fetterman,DEM,129.0,123.0,6.0,Armstrong County,Parks Township - West
+Armstrong,Parks Township - West,Governor,,Wagner/Bartos,REP,262.0,259.0,3.0,Armstrong County,Parks Township - West
+Armstrong,Parks Township - West,Governor,,Glover/Bowser-Bos,GREEN,4.0,4.0,0.0,Armstrong County,Parks Township - West
+Armstrong,Parks Township - West,Governor,,Krawchuk/Smith,LIB,7.0,7.0,0.0,Armstrong County,Parks Township - West
+Armstrong,Parks Township - West,Governor,,Write-ins,,1.0,1.0,0.0,Armstrong County,Parks Township - West
+Armstrong,Parks Township - West,U.S. House,15.0,Susan Boser,DEM,112.0,106.0,6.0,Armstrong County,Parks Township - West
+Armstrong,Parks Township - West,U.S. House,15.0,Glenn GT Thompson,REP,288.0,285.0,3.0,Armstrong County,Parks Township - West
+Armstrong,Parks Township - West,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Parks Township - West
+Armstrong,Parks Township - West,State House,55.0,Joseph A. Petrarca,DEM,211.0,205.0,6.0,Armstrong County,Parks Township - West
+Armstrong,Parks Township - West,State House,55.0,Write-ins,,9.0,9.0,0.0,Armstrong County,Parks Township - West
+Armstrong,Perry Township,U.S. Senate,,"Bob Casey, Jr.",DEM,50.0,50.0,0.0,Armstrong County,Perry Township
+Armstrong,Perry Township,U.S. Senate,,Lou Barletta,REP,89.0,87.0,2.0,Armstrong County,Perry Township
+Armstrong,Perry Township,U.S. Senate,,Neal Gale,GRN,0.0,0.0,0.0,Armstrong County,Perry Township
+Armstrong,Perry Township,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,1.0,1.0,0.0,Armstrong County,Perry Township
+Armstrong,Perry Township,Governor,,Wolf/Fetterman,DEM,46.0,46.0,0.0,Armstrong County,Perry Township
+Armstrong,Perry Township,Governor,,Wagner/Bartos,REP,96.0,94.0,2.0,Armstrong County,Perry Township
+Armstrong,Perry Township,Governor,,Glover/Bowser-Bos,GREEN,0.0,0.0,0.0,Armstrong County,Perry Township
+Armstrong,Perry Township,Governor,,Krawchuk/Smith,LIB,0.0,0.0,0.0,Armstrong County,Perry Township
+Armstrong,Perry Township,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Perry Township
+Armstrong,Perry Township,U.S. House,15.0,Susan Boser,DEM,43.0,43.0,0.0,Armstrong County,Perry Township
+Armstrong,Perry Township,U.S. House,15.0,Glenn GT Thompson,REP,96.0,94.0,2.0,Armstrong County,Perry Township
+Armstrong,Perry Township,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Perry Township
+Armstrong,Perry Township,State House,63.0,Conrad Warner,DEM,40.0,40.0,0.0,Armstrong County,Perry Township
+Armstrong,Perry Township,State House,63.0,Donna Oberlander,REP,101.0,99.0,2.0,Armstrong County,Perry Township
+Armstrong,Perry Township,State House,63.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Perry Township
+Armstrong,Pine Township,U.S. Senate,,"Bob Casey, Jr.",DEM,17.0,16.0,1.0,Armstrong County,Pine Township
+Armstrong,Pine Township,U.S. Senate,,Lou Barletta,REP,111.0,110.0,1.0,Armstrong County,Pine Township
+Armstrong,Pine Township,U.S. Senate,,Neal Gale,GRN,2.0,2.0,0.0,Armstrong County,Pine Township
+Armstrong,Pine Township,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,1.0,1.0,0.0,Armstrong County,Pine Township
+Armstrong,Pine Township,Governor,,Wolf/Fetterman,DEM,16.0,16.0,0.0,Armstrong County,Pine Township
+Armstrong,Pine Township,Governor,,Wagner/Bartos,REP,115.0,113.0,2.0,Armstrong County,Pine Township
+Armstrong,Pine Township,Governor,,Glover/Bowser-Bos,GREEN,2.0,2.0,0.0,Armstrong County,Pine Township
+Armstrong,Pine Township,Governor,,Krawchuk/Smith,LIB,1.0,1.0,0.0,Armstrong County,Pine Township
+Armstrong,Pine Township,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Pine Township
+Armstrong,Pine Township,U.S. House,15.0,Susan Boser,DEM,14.0,14.0,0.0,Armstrong County,Pine Township
+Armstrong,Pine Township,U.S. House,15.0,Glenn GT Thompson,REP,118.0,116.0,2.0,Armstrong County,Pine Township
+Armstrong,Pine Township,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Pine Township
+Armstrong,Pine Township,State House,63.0,Conrad Warner,DEM,12.0,12.0,0.0,Armstrong County,Pine Township
+Armstrong,Pine Township,State House,63.0,Donna Oberlander,REP,120.0,118.0,2.0,Armstrong County,Pine Township
+Armstrong,Pine Township,State House,63.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Pine Township
+Armstrong,Plumcreek Township,U.S. Senate,,"Bob Casey, Jr.",DEM,215.0,209.0,6.0,Armstrong County,Plumcreek Township
+Armstrong,Plumcreek Township,U.S. Senate,,Lou Barletta,REP,594.0,572.0,22.0,Armstrong County,Plumcreek Township
+Armstrong,Plumcreek Township,U.S. Senate,,Neal Gale,GRN,4.0,4.0,0.0,Armstrong County,Plumcreek Township
+Armstrong,Plumcreek Township,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,10.0,10.0,0.0,Armstrong County,Plumcreek Township
+Armstrong,Plumcreek Township,Governor,,Wolf/Fetterman,DEM,202.0,196.0,6.0,Armstrong County,Plumcreek Township
+Armstrong,Plumcreek Township,Governor,,Wagner/Bartos,REP,617.0,594.0,23.0,Armstrong County,Plumcreek Township
+Armstrong,Plumcreek Township,Governor,,Glover/Bowser-Bos,GREEN,3.0,3.0,0.0,Armstrong County,Plumcreek Township
+Armstrong,Plumcreek Township,Governor,,Krawchuk/Smith,LIB,7.0,7.0,0.0,Armstrong County,Plumcreek Township
+Armstrong,Plumcreek Township,Governor,,Write-ins,,1.0,1.0,0.0,Armstrong County,Plumcreek Township
+Armstrong,Plumcreek Township,U.S. House,15.0,Susan Boser,DEM,172.0,167.0,5.0,Armstrong County,Plumcreek Township
+Armstrong,Plumcreek Township,U.S. House,15.0,Glenn GT Thompson,REP,647.0,623.0,24.0,Armstrong County,Plumcreek Township
+Armstrong,Plumcreek Township,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Plumcreek Township
+Armstrong,Plumcreek Township,State House,63.0,Conrad Warner,DEM,137.0,133.0,4.0,Armstrong County,Plumcreek Township
+Armstrong,Plumcreek Township,State House,63.0,Donna Oberlander,REP,691.0,666.0,25.0,Armstrong County,Plumcreek Township
+Armstrong,Plumcreek Township,State House,63.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Plumcreek Township
+Armstrong,Rayburn Township,U.S. Senate,,"Bob Casey, Jr.",DEM,153.0,151.0,2.0,Armstrong County,Rayburn Township
+Armstrong,Rayburn Township,U.S. Senate,,Lou Barletta,REP,327.0,311.0,16.0,Armstrong County,Rayburn Township
+Armstrong,Rayburn Township,U.S. Senate,,Neal Gale,GRN,5.0,5.0,0.0,Armstrong County,Rayburn Township
+Armstrong,Rayburn Township,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,5.0,5.0,0.0,Armstrong County,Rayburn Township
+Armstrong,Rayburn Township,Governor,,Wolf/Fetterman,DEM,157.0,155.0,2.0,Armstrong County,Rayburn Township
+Armstrong,Rayburn Township,Governor,,Wagner/Bartos,REP,330.0,314.0,16.0,Armstrong County,Rayburn Township
+Armstrong,Rayburn Township,Governor,,Glover/Bowser-Bos,GREEN,6.0,6.0,0.0,Armstrong County,Rayburn Township
+Armstrong,Rayburn Township,Governor,,Krawchuk/Smith,LIB,3.0,2.0,1.0,Armstrong County,Rayburn Township
+Armstrong,Rayburn Township,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Rayburn Township
+Armstrong,Rayburn Township,U.S. House,15.0,Susan Boser,DEM,126.0,123.0,3.0,Armstrong County,Rayburn Township
+Armstrong,Rayburn Township,U.S. House,15.0,Glenn GT Thompson,REP,362.0,346.0,16.0,Armstrong County,Rayburn Township
+Armstrong,Rayburn Township,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Rayburn Township
+Armstrong,Rayburn Township,State House,60.0,Jeff Pyle,REP,414.0,398.0,16.0,Armstrong County,Rayburn Township
+Armstrong,Rayburn Township,State House,60.0,Write-ins,,14.0,14.0,0.0,Armstrong County,Rayburn Township
+Armstrong,Redbank Township,U.S. Senate,,"Bob Casey, Jr.",DEM,64.0,63.0,1.0,Armstrong County,Redbank Township
+Armstrong,Redbank Township,U.S. Senate,,Lou Barletta,REP,281.0,278.0,3.0,Armstrong County,Redbank Township
+Armstrong,Redbank Township,U.S. Senate,,Neal Gale,GRN,0.0,0.0,0.0,Armstrong County,Redbank Township
+Armstrong,Redbank Township,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,1.0,1.0,0.0,Armstrong County,Redbank Township
+Armstrong,Redbank Township,Governor,,Wolf/Fetterman,DEM,72.0,69.0,3.0,Armstrong County,Redbank Township
+Armstrong,Redbank Township,Governor,,Wagner/Bartos,REP,270.0,269.0,1.0,Armstrong County,Redbank Township
+Armstrong,Redbank Township,Governor,,Glover/Bowser-Bos,GREEN,1.0,1.0,0.0,Armstrong County,Redbank Township
+Armstrong,Redbank Township,Governor,,Krawchuk/Smith,LIB,2.0,2.0,0.0,Armstrong County,Redbank Township
+Armstrong,Redbank Township,Governor,,Write-ins,,1.0,1.0,0.0,Armstrong County,Redbank Township
+Armstrong,Redbank Township,U.S. House,15.0,Susan Boser,DEM,54.0,53.0,1.0,Armstrong County,Redbank Township
+Armstrong,Redbank Township,U.S. House,15.0,Glenn GT Thompson,REP,292.0,289.0,3.0,Armstrong County,Redbank Township
+Armstrong,Redbank Township,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Redbank Township
+Armstrong,Redbank Township,State House,63.0,Conrad Warner,DEM,40.0,39.0,1.0,Armstrong County,Redbank Township
+Armstrong,Redbank Township,State House,63.0,Donna Oberlander,REP,304.0,301.0,3.0,Armstrong County,Redbank Township
+Armstrong,Redbank Township,State House,63.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Redbank Township
+Armstrong,Rural Valley Borough,U.S. Senate,,"Bob Casey, Jr.",DEM,120.0,119.0,1.0,Armstrong County,Rural Valley Borough
+Armstrong,Rural Valley Borough,U.S. Senate,,Lou Barletta,REP,176.0,171.0,5.0,Armstrong County,Rural Valley Borough
+Armstrong,Rural Valley Borough,U.S. Senate,,Neal Gale,GRN,1.0,1.0,0.0,Armstrong County,Rural Valley Borough
+Armstrong,Rural Valley Borough,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,4.0,4.0,0.0,Armstrong County,Rural Valley Borough
+Armstrong,Rural Valley Borough,Governor,,Wolf/Fetterman,DEM,126.0,125.0,1.0,Armstrong County,Rural Valley Borough
+Armstrong,Rural Valley Borough,Governor,,Wagner/Bartos,REP,171.0,166.0,5.0,Armstrong County,Rural Valley Borough
+Armstrong,Rural Valley Borough,Governor,,Glover/Bowser-Bos,GREEN,1.0,1.0,0.0,Armstrong County,Rural Valley Borough
+Armstrong,Rural Valley Borough,Governor,,Krawchuk/Smith,LIB,2.0,2.0,0.0,Armstrong County,Rural Valley Borough
+Armstrong,Rural Valley Borough,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Rural Valley Borough
+Armstrong,Rural Valley Borough,U.S. House,15.0,Susan Boser,DEM,97.0,96.0,1.0,Armstrong County,Rural Valley Borough
+Armstrong,Rural Valley Borough,U.S. House,15.0,Glenn GT Thompson,REP,200.0,195.0,5.0,Armstrong County,Rural Valley Borough
+Armstrong,Rural Valley Borough,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Rural Valley Borough
+Armstrong,Rural Valley Borough,State House,63.0,Conrad Warner,DEM,69.0,68.0,1.0,Armstrong County,Rural Valley Borough
+Armstrong,Rural Valley Borough,State House,63.0,Donna Oberlander,REP,232.0,227.0,5.0,Armstrong County,Rural Valley Borough
+Armstrong,Rural Valley Borough,State House,63.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Rural Valley Borough
+Armstrong,South Bend Township,U.S. Senate,,"Bob Casey, Jr.",DEM,121.0,119.0,2.0,Armstrong County,South Bend Township
+Armstrong,South Bend Township,U.S. Senate,,Lou Barletta,REP,274.0,269.0,5.0,Armstrong County,South Bend Township
+Armstrong,South Bend Township,U.S. Senate,,Neal Gale,GRN,1.0,1.0,0.0,Armstrong County,South Bend Township
+Armstrong,South Bend Township,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,3.0,3.0,0.0,Armstrong County,South Bend Township
+Armstrong,South Bend Township,Governor,,Wolf/Fetterman,DEM,120.0,118.0,2.0,Armstrong County,South Bend Township
+Armstrong,South Bend Township,Governor,,Wagner/Bartos,REP,274.0,269.0,5.0,Armstrong County,South Bend Township
+Armstrong,South Bend Township,Governor,,Glover/Bowser-Bos,GREEN,2.0,2.0,0.0,Armstrong County,South Bend Township
+Armstrong,South Bend Township,Governor,,Krawchuk/Smith,LIB,5.0,5.0,0.0,Armstrong County,South Bend Township
+Armstrong,South Bend Township,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,South Bend Township
+Armstrong,South Bend Township,U.S. House,15.0,Susan Boser,DEM,103.0,101.0,2.0,Armstrong County,South Bend Township
+Armstrong,South Bend Township,U.S. House,15.0,Glenn GT Thompson,REP,296.0,291.0,5.0,Armstrong County,South Bend Township
+Armstrong,South Bend Township,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,South Bend Township
+Armstrong,South Bend Township,State House,60.0,Jeff Pyle,REP,341.0,336.0,5.0,Armstrong County,South Bend Township
+Armstrong,South Bend Township,State House,60.0,Write-ins,,5.0,5.0,0.0,Armstrong County,South Bend Township
+Armstrong,South Bethlehem Borough,U.S. Senate,,"Bob Casey, Jr.",DEM,43.0,43.0,0.0,Armstrong County,South Bethlehem Borough
+Armstrong,South Bethlehem Borough,U.S. Senate,,Lou Barletta,REP,117.0,113.0,4.0,Armstrong County,South Bethlehem Borough
+Armstrong,South Bethlehem Borough,U.S. Senate,,Neal Gale,GRN,1.0,1.0,0.0,Armstrong County,South Bethlehem Borough
+Armstrong,South Bethlehem Borough,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,3.0,3.0,0.0,Armstrong County,South Bethlehem Borough
+Armstrong,South Bethlehem Borough,Governor,,Wolf/Fetterman,DEM,46.0,46.0,0.0,Armstrong County,South Bethlehem Borough
+Armstrong,South Bethlehem Borough,Governor,,Wagner/Bartos,REP,112.0,108.0,4.0,Armstrong County,South Bethlehem Borough
+Armstrong,South Bethlehem Borough,Governor,,Glover/Bowser-Bos,GREEN,2.0,2.0,0.0,Armstrong County,South Bethlehem Borough
+Armstrong,South Bethlehem Borough,Governor,,Krawchuk/Smith,LIB,3.0,3.0,0.0,Armstrong County,South Bethlehem Borough
+Armstrong,South Bethlehem Borough,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,South Bethlehem Borough
+Armstrong,South Bethlehem Borough,U.S. House,15.0,Susan Boser,DEM,27.0,27.0,0.0,Armstrong County,South Bethlehem Borough
+Armstrong,South Bethlehem Borough,U.S. House,15.0,Glenn GT Thompson,REP,134.0,130.0,4.0,Armstrong County,South Bethlehem Borough
+Armstrong,South Bethlehem Borough,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,South Bethlehem Borough
+Armstrong,South Bethlehem Borough,State House,63.0,Conrad Warner,DEM,17.0,17.0,0.0,Armstrong County,South Bethlehem Borough
+Armstrong,South Bethlehem Borough,State House,63.0,Donna Oberlander,REP,145.0,141.0,4.0,Armstrong County,South Bethlehem Borough
+Armstrong,South Bethlehem Borough,State House,63.0,Write-ins,,0.0,0.0,0.0,Armstrong County,South Bethlehem Borough
+Armstrong,South Buffalo Township - East,U.S. Senate,,"Bob Casey, Jr.",DEM,161.0,155.0,6.0,Armstrong County,South Buffalo Township - East
+Armstrong,South Buffalo Township - East,U.S. Senate,,Lou Barletta,REP,406.0,396.0,10.0,Armstrong County,South Buffalo Township - East
+Armstrong,South Buffalo Township - East,U.S. Senate,,Neal Gale,GRN,2.0,2.0,0.0,Armstrong County,South Buffalo Township - East
+Armstrong,South Buffalo Township - East,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,4.0,4.0,0.0,Armstrong County,South Buffalo Township - East
+Armstrong,South Buffalo Township - East,Governor,,Wolf/Fetterman,DEM,168.0,161.0,7.0,Armstrong County,South Buffalo Township - East
+Armstrong,South Buffalo Township - East,Governor,,Wagner/Bartos,REP,395.0,386.0,9.0,Armstrong County,South Buffalo Township - East
+Armstrong,South Buffalo Township - East,Governor,,Glover/Bowser-Bos,GREEN,4.0,4.0,0.0,Armstrong County,South Buffalo Township - East
+Armstrong,South Buffalo Township - East,Governor,,Krawchuk/Smith,LIB,6.0,6.0,0.0,Armstrong County,South Buffalo Township - East
+Armstrong,South Buffalo Township - East,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,South Buffalo Township - East
+Armstrong,South Buffalo Township - East,U.S. House,15.0,Susan Boser,DEM,141.0,135.0,6.0,Armstrong County,South Buffalo Township - East
+Armstrong,South Buffalo Township - East,U.S. House,15.0,Glenn GT Thompson,REP,427.0,418.0,9.0,Armstrong County,South Buffalo Township - East
+Armstrong,South Buffalo Township - East,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,South Buffalo Township - East
+Armstrong,South Buffalo Township - East,State House,60.0,Jeff Pyle,REP,499.0,485.0,14.0,Armstrong County,South Buffalo Township - East
+Armstrong,South Buffalo Township - East,State House,60.0,Write-ins,,8.0,8.0,0.0,Armstrong County,South Buffalo Township - East
+Armstrong,South Buffalo Township - West,U.S. Senate,,"Bob Casey, Jr.",DEM,192.0,189.0,3.0,Armstrong County,South Buffalo Township - West
+Armstrong,South Buffalo Township - West,U.S. Senate,,Lou Barletta,REP,479.0,462.0,17.0,Armstrong County,South Buffalo Township - West
+Armstrong,South Buffalo Township - West,U.S. Senate,,Neal Gale,GRN,1.0,1.0,0.0,Armstrong County,South Buffalo Township - West
+Armstrong,South Buffalo Township - West,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,8.0,8.0,0.0,Armstrong County,South Buffalo Township - West
+Armstrong,South Buffalo Township - West,Governor,,Wolf/Fetterman,DEM,206.0,201.0,5.0,Armstrong County,South Buffalo Township - West
+Armstrong,South Buffalo Township - West,Governor,,Wagner/Bartos,REP,472.0,457.0,15.0,Armstrong County,South Buffalo Township - West
+Armstrong,South Buffalo Township - West,Governor,,Glover/Bowser-Bos,GREEN,2.0,2.0,0.0,Armstrong County,South Buffalo Township - West
+Armstrong,South Buffalo Township - West,Governor,,Krawchuk/Smith,LIB,9.0,9.0,0.0,Armstrong County,South Buffalo Township - West
+Armstrong,South Buffalo Township - West,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,South Buffalo Township - West
+Armstrong,South Buffalo Township - West,U.S. House,15.0,Susan Boser,DEM,170.0,167.0,3.0,Armstrong County,South Buffalo Township - West
+Armstrong,South Buffalo Township - West,U.S. House,15.0,Glenn GT Thompson,REP,511.0,494.0,17.0,Armstrong County,South Buffalo Township - West
+Armstrong,South Buffalo Township - West,U.S. House,15.0,Write-ins,,1.0,1.0,0.0,Armstrong County,South Buffalo Township - West
+Armstrong,South Buffalo Township - West,State House,60.0,Jeff Pyle,REP,586.0,570.0,16.0,Armstrong County,South Buffalo Township - West
+Armstrong,South Buffalo Township - West,State House,60.0,Write-ins,,12.0,11.0,1.0,Armstrong County,South Buffalo Township - West
+Armstrong,Sugarcreek Township,U.S. Senate,,"Bob Casey, Jr.",DEM,149.0,144.0,5.0,Armstrong County,Sugarcreek Township
+Armstrong,Sugarcreek Township,U.S. Senate,,Lou Barletta,REP,349.0,336.0,13.0,Armstrong County,Sugarcreek Township
+Armstrong,Sugarcreek Township,U.S. Senate,,Neal Gale,GRN,3.0,1.0,2.0,Armstrong County,Sugarcreek Township
+Armstrong,Sugarcreek Township,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,6.0,6.0,0.0,Armstrong County,Sugarcreek Township
+Armstrong,Sugarcreek Township,Governor,,Wolf/Fetterman,DEM,150.0,144.0,6.0,Armstrong County,Sugarcreek Township
+Armstrong,Sugarcreek Township,Governor,,Wagner/Bartos,REP,351.0,339.0,12.0,Armstrong County,Sugarcreek Township
+Armstrong,Sugarcreek Township,Governor,,Glover/Bowser-Bos,GREEN,2.0,2.0,0.0,Armstrong County,Sugarcreek Township
+Armstrong,Sugarcreek Township,Governor,,Krawchuk/Smith,LIB,5.0,3.0,2.0,Armstrong County,Sugarcreek Township
+Armstrong,Sugarcreek Township,Governor,,Write-ins,,1.0,1.0,0.0,Armstrong County,Sugarcreek Township
+Armstrong,Sugarcreek Township,U.S. House,15.0,Susan Boser,DEM,144.0,141.0,3.0,Armstrong County,Sugarcreek Township
+Armstrong,Sugarcreek Township,U.S. House,15.0,Glenn GT Thompson,REP,366.0,349.0,17.0,Armstrong County,Sugarcreek Township
+Armstrong,Sugarcreek Township,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Sugarcreek Township
+Armstrong,Sugarcreek Township,State House,63.0,Conrad Warner,DEM,103.0,100.0,3.0,Armstrong County,Sugarcreek Township
+Armstrong,Sugarcreek Township,State House,63.0,Donna Oberlander,REP,407.0,389.0,18.0,Armstrong County,Sugarcreek Township
+Armstrong,Sugarcreek Township,State House,63.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Sugarcreek Township
+Armstrong,Total,U.S. Senate,,"Bob Casey, Jr.",DEM,8570.0,8314.0,256.0,Armstrong County,Total
+Armstrong,Total,U.S. Senate,,Lou Barletta,REP,15449.0,15013.0,436.0,Armstrong County,Total
+Armstrong,Total,U.S. Senate,,Neal Gale,GRN,159.0,154.0,5.0,Armstrong County,Total
+Armstrong,Total,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,310.0,304.0,6.0,Armstrong County,Total
+Armstrong,Total,Governor,,Wolf/Fetterman,DEM,8839.0,8571.0,268.0,Armstrong County,Total
+Armstrong,Total,Governor,,Wagner/Bartos,REP,15373.0,14958.0,415.0,Armstrong County,Total
+Armstrong,Total,Governor,,Glover/Bowser-Bos,GREEN,153.0,147.0,6.0,Armstrong County,Total
+Armstrong,Total,Governor,,Krawchuk/Smith,LIB,278.0,269.0,9.0,Armstrong County,Total
+Armstrong,Total,Governor,,Write-ins,,16.0,15.0,1.0,Armstrong County,Total
+Armstrong,Total,U.S. House,15.0,Susan Boser,DEM,7521.0,7276.0,245.0,Armstrong County,Total
+Armstrong,Total,U.S. House,15.0,Glenn GT Thompson,REP,16760.0,16305.0,455.0,Armstrong County,Total
+Armstrong,Total,U.S. House,15.0,Write-ins,,20.0,19.0,1.0,Armstrong County,Total
+Armstrong,Total,State House,55.0,Joseph A. Petrarca,DEM,1382.0,1349.0,33.0,Armstrong County,Total
+Armstrong,Total,State House,55.0,Write-ins,,48.0,48.0,0.0,Armstrong County,Total
+Armstrong,Total,State House,60.0,Jeff Pyle,REP,13679.0,13307.0,372.0,Armstrong County,Total
+Armstrong,Total,State House,60.0,Write-ins,,359.0,339.0,20.0,Armstrong County,Total
+Armstrong,Total,State House,63.0,Conrad Warner,DEM,1141.0,1103.0,38.0,Armstrong County,Total
+Armstrong,Total,State House,63.0,Donna Oberlander,REP,4830.0,4698.0,132.0,Armstrong County,Total
+Armstrong,Total,State House,63.0,Write-ins,,1.0,1.0,0.0,Armstrong County,Total
+Armstrong,Valley Township,U.S. Senate,,"Bob Casey, Jr.",DEM,67.0,66.0,1.0,Armstrong County,Valley Township
+Armstrong,Valley Township,U.S. Senate,,Lou Barletta,REP,233.0,226.0,7.0,Armstrong County,Valley Township
+Armstrong,Valley Township,U.S. Senate,,Neal Gale,GRN,2.0,2.0,0.0,Armstrong County,Valley Township
+Armstrong,Valley Township,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,2.0,2.0,0.0,Armstrong County,Valley Township
+Armstrong,Valley Township,Governor,,Wolf/Fetterman,DEM,65.0,64.0,1.0,Armstrong County,Valley Township
+Armstrong,Valley Township,Governor,,Wagner/Bartos,REP,240.0,233.0,7.0,Armstrong County,Valley Township
+Armstrong,Valley Township,Governor,,Glover/Bowser-Bos,GREEN,2.0,2.0,0.0,Armstrong County,Valley Township
+Armstrong,Valley Township,Governor,,Krawchuk/Smith,LIB,0.0,0.0,0.0,Armstrong County,Valley Township
+Armstrong,Valley Township,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Valley Township
+Armstrong,Valley Township,U.S. House,15.0,Susan Boser,DEM,53.0,52.0,1.0,Armstrong County,Valley Township
+Armstrong,Valley Township,U.S. House,15.0,Glenn GT Thompson,REP,248.0,241.0,7.0,Armstrong County,Valley Township
+Armstrong,Valley Township,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Valley Township
+Armstrong,Valley Township,State House,60.0,Jeff Pyle,REP,269.0,262.0,7.0,Armstrong County,Valley Township
+Armstrong,Valley Township,State House,60.0,Write-ins,,2.0,2.0,0.0,Armstrong County,Valley Township
+Armstrong,Washington Township,U.S. Senate,,"Bob Casey, Jr.",DEM,127.0,122.0,5.0,Armstrong County,Washington Township
+Armstrong,Washington Township,U.S. Senate,,Lou Barletta,REP,236.0,229.0,7.0,Armstrong County,Washington Township
+Armstrong,Washington Township,U.S. Senate,,Neal Gale,GRN,4.0,4.0,0.0,Armstrong County,Washington Township
+Armstrong,Washington Township,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,1.0,1.0,0.0,Armstrong County,Washington Township
+Armstrong,Washington Township,Governor,,Wolf/Fetterman,DEM,123.0,118.0,5.0,Armstrong County,Washington Township
+Armstrong,Washington Township,Governor,,Wagner/Bartos,REP,243.0,236.0,7.0,Armstrong County,Washington Township
+Armstrong,Washington Township,Governor,,Glover/Bowser-Bos,GREEN,2.0,2.0,0.0,Armstrong County,Washington Township
+Armstrong,Washington Township,Governor,,Krawchuk/Smith,LIB,4.0,4.0,0.0,Armstrong County,Washington Township
+Armstrong,Washington Township,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Washington Township
+Armstrong,Washington Township,U.S. House,15.0,Susan Boser,DEM,111.0,106.0,5.0,Armstrong County,Washington Township
+Armstrong,Washington Township,U.S. House,15.0,Glenn GT Thompson,REP,259.0,252.0,7.0,Armstrong County,Washington Township
+Armstrong,Washington Township,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Washington Township
+Armstrong,Washington Township,State House,63.0,Conrad Warner,DEM,77.0,73.0,4.0,Armstrong County,Washington Township
+Armstrong,Washington Township,State House,63.0,Donna Oberlander,REP,295.0,287.0,8.0,Armstrong County,Washington Township
+Armstrong,Washington Township,State House,63.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Washington Township
+Armstrong,Wayne Township,U.S. Senate,,"Bob Casey, Jr.",DEM,86.0,80.0,6.0,Armstrong County,Wayne Township
+Armstrong,Wayne Township,U.S. Senate,,Lou Barletta,REP,349.0,338.0,11.0,Armstrong County,Wayne Township
+Armstrong,Wayne Township,U.S. Senate,,Neal Gale,GRN,1.0,1.0,0.0,Armstrong County,Wayne Township
+Armstrong,Wayne Township,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,5.0,5.0,0.0,Armstrong County,Wayne Township
+Armstrong,Wayne Township,Governor,,Wolf/Fetterman,DEM,87.0,82.0,5.0,Armstrong County,Wayne Township
+Armstrong,Wayne Township,Governor,,Wagner/Bartos,REP,348.0,337.0,11.0,Armstrong County,Wayne Township
+Armstrong,Wayne Township,Governor,,Glover/Bowser-Bos,GREEN,0.0,0.0,0.0,Armstrong County,Wayne Township
+Armstrong,Wayne Township,Governor,,Krawchuk/Smith,LIB,5.0,5.0,0.0,Armstrong County,Wayne Township
+Armstrong,Wayne Township,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Wayne Township
+Armstrong,Wayne Township,U.S. House,15.0,Susan Boser,DEM,59.0,54.0,5.0,Armstrong County,Wayne Township
+Armstrong,Wayne Township,U.S. House,15.0,Glenn GT Thompson,REP,374.0,363.0,11.0,Armstrong County,Wayne Township
+Armstrong,Wayne Township,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Wayne Township
+Armstrong,Wayne Township,State House,63.0,Conrad Warner,DEM,51.0,47.0,4.0,Armstrong County,Wayne Township
+Armstrong,Wayne Township,State House,63.0,Donna Oberlander,REP,386.0,373.0,13.0,Armstrong County,Wayne Township
+Armstrong,Wayne Township,State House,63.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Wayne Township
+Armstrong,West Franklin Township,U.S. Senate,,"Bob Casey, Jr.",DEM,215.0,205.0,10.0,Armstrong County,West Franklin Township
+Armstrong,West Franklin Township,U.S. Senate,,Lou Barletta,REP,581.0,556.0,25.0,Armstrong County,West Franklin Township
+Armstrong,West Franklin Township,U.S. Senate,,Neal Gale,GRN,3.0,2.0,1.0,Armstrong County,West Franklin Township
+Armstrong,West Franklin Township,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,7.0,7.0,0.0,Armstrong County,West Franklin Township
+Armstrong,West Franklin Township,Governor,,Wolf/Fetterman,DEM,224.0,213.0,11.0,Armstrong County,West Franklin Township
+Armstrong,West Franklin Township,Governor,,Wagner/Bartos,REP,574.0,549.0,25.0,Armstrong County,West Franklin Township
+Armstrong,West Franklin Township,Governor,,Glover/Bowser-Bos,GREEN,2.0,2.0,0.0,Armstrong County,West Franklin Township
+Armstrong,West Franklin Township,Governor,,Krawchuk/Smith,LIB,7.0,7.0,0.0,Armstrong County,West Franklin Township
+Armstrong,West Franklin Township,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,West Franklin Township
+Armstrong,West Franklin Township,U.S. House,15.0,Susan Boser,DEM,189.0,179.0,10.0,Armstrong County,West Franklin Township
+Armstrong,West Franklin Township,U.S. House,15.0,Glenn GT Thompson,REP,609.0,584.0,25.0,Armstrong County,West Franklin Township
+Armstrong,West Franklin Township,U.S. House,15.0,Write-ins,,1.0,1.0,0.0,Armstrong County,West Franklin Township
+Armstrong,West Franklin Township,State House,60.0,Jeff Pyle,REP,700.0,676.0,24.0,Armstrong County,West Franklin Township
+Armstrong,West Franklin Township,State House,60.0,Write-ins,,10.0,9.0,1.0,Armstrong County,West Franklin Township
+Armstrong,West Kittanning Borough,U.S. Senate,,"Bob Casey, Jr.",DEM,198.0,198.0,0.0,Armstrong County,West Kittanning Borough
+Armstrong,West Kittanning Borough,U.S. Senate,,Lou Barletta,REP,310.0,300.0,10.0,Armstrong County,West Kittanning Borough
+Armstrong,West Kittanning Borough,U.S. Senate,,Neal Gale,GRN,2.0,2.0,0.0,Armstrong County,West Kittanning Borough
+Armstrong,West Kittanning Borough,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,6.0,6.0,0.0,Armstrong County,West Kittanning Borough
+Armstrong,West Kittanning Borough,Governor,,Wolf/Fetterman,DEM,194.0,194.0,0.0,Armstrong County,West Kittanning Borough
+Armstrong,West Kittanning Borough,Governor,,Wagner/Bartos,REP,321.0,311.0,10.0,Armstrong County,West Kittanning Borough
+Armstrong,West Kittanning Borough,Governor,,Glover/Bowser-Bos,GREEN,4.0,4.0,0.0,Armstrong County,West Kittanning Borough
+Armstrong,West Kittanning Borough,Governor,,Krawchuk/Smith,LIB,6.0,6.0,0.0,Armstrong County,West Kittanning Borough
+Armstrong,West Kittanning Borough,Governor,,Write-ins,,1.0,1.0,0.0,Armstrong County,West Kittanning Borough
+Armstrong,West Kittanning Borough,U.S. House,15.0,Susan Boser,DEM,164.0,164.0,0.0,Armstrong County,West Kittanning Borough
+Armstrong,West Kittanning Borough,U.S. House,15.0,Glenn GT Thompson,REP,355.0,345.0,10.0,Armstrong County,West Kittanning Borough
+Armstrong,West Kittanning Borough,U.S. House,15.0,Write-ins,,1.0,1.0,0.0,Armstrong County,West Kittanning Borough
+Armstrong,West Kittanning Borough,State House,60.0,Jeff Pyle,REP,443.0,433.0,10.0,Armstrong County,West Kittanning Borough
+Armstrong,West Kittanning Borough,State House,60.0,Write-ins,,6.0,6.0,0.0,Armstrong County,West Kittanning Borough
+Armstrong,Worthington Borough,U.S. Senate,,"Bob Casey, Jr.",DEM,68.0,64.0,4.0,Armstrong County,Worthington Borough
+Armstrong,Worthington Borough,U.S. Senate,,Lou Barletta,REP,156.0,154.0,2.0,Armstrong County,Worthington Borough
+Armstrong,Worthington Borough,U.S. Senate,,Neal Gale,GRN,3.0,3.0,0.0,Armstrong County,Worthington Borough
+Armstrong,Worthington Borough,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,5.0,5.0,0.0,Armstrong County,Worthington Borough
+Armstrong,Worthington Borough,Governor,,Wolf/Fetterman,DEM,75.0,71.0,4.0,Armstrong County,Worthington Borough
+Armstrong,Worthington Borough,Governor,,Wagner/Bartos,REP,152.0,150.0,2.0,Armstrong County,Worthington Borough
+Armstrong,Worthington Borough,Governor,,Glover/Bowser-Bos,GREEN,1.0,1.0,0.0,Armstrong County,Worthington Borough
+Armstrong,Worthington Borough,Governor,,Krawchuk/Smith,LIB,4.0,4.0,0.0,Armstrong County,Worthington Borough
+Armstrong,Worthington Borough,Governor,,Write-ins,,0.0,0.0,0.0,Armstrong County,Worthington Borough
+Armstrong,Worthington Borough,U.S. House,15.0,Susan Boser,DEM,67.0,63.0,4.0,Armstrong County,Worthington Borough
+Armstrong,Worthington Borough,U.S. House,15.0,Glenn GT Thompson,REP,166.0,164.0,2.0,Armstrong County,Worthington Borough
+Armstrong,Worthington Borough,U.S. House,15.0,Write-ins,,0.0,0.0,0.0,Armstrong County,Worthington Borough
+Armstrong,Worthington Borough,State House,60.0,Jeff Pyle,REP,198.0,197.0,1.0,Armstrong County,Worthington Borough
+Armstrong,Worthington Borough,State House,60.0,Write-ins,,3.0,2.0,1.0,Armstrong County,Worthington Borough

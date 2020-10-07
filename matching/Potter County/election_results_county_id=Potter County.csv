@@ -1,0 +1,529 @@
+county,precinct,office,district,candidate,party,votes,election_day,absentee,county_id,original_precinct_name
+Potter,Abbott Twp,U.S. Senate,,Bob Casey Jr.,DEM,23.0,,,Potter County,Abbott Twp
+Potter,Allegany Twp,U.S. Senate,,Bob Casey Jr.,DEM,28.0,,,Potter County,Allegany Twp
+Potter,Austin Boro,U.S. Senate,,Bob Casey Jr.,DEM,83.0,,,Potter County,Austin Boro
+Potter,Bingham Twp,U.S. Senate,,Bob Casey Jr.,DEM,36.0,,,Potter County,Bingham Twp
+Potter,Clara Twp,U.S. Senate,,Bob Casey Jr.,DEM,14.0,,,Potter County,Clara Twp
+Potter,Coudersport First Ward,U.S. Senate,,Bob Casey Jr.,DEM,141.0,,,Potter County,Coudersport First Ward
+Potter,Coudersport Second Ward,U.S. Senate,,Bob Casey Jr.,DEM,179.0,,,Potter County,Coudersport Second Ward
+Potter,Eulalia Twp,U.S. Senate,,Bob Casey Jr.,DEM,75.0,,,Potter County,Eulalia Twp
+Potter,Galeton First Ward,U.S. Senate,,Bob Casey Jr.,DEM,64.0,,,Potter County,Galeton First Ward
+Potter,Galeton Second Ward,U.S. Senate,,Bob Casey Jr.,DEM,50.0,,,Potter County,Galeton Second Ward
+Potter,Genesee Twp,U.S. Senate,,Bob Casey Jr.,DEM,55.0,,,Potter County,Genesee Twp
+Potter,Harrison Twp,U.S. Senate,,Bob Casey Jr.,DEM,37.0,,,Potter County,Harrison Twp
+Potter,Hebron Twp,U.S. Senate,,Bob Casey Jr.,DEM,50.0,,,Potter County,Hebron Twp
+Potter,Hector Twp,U.S. Senate,,Bob Casey Jr.,DEM,18.0,,,Potter County,Hector Twp
+Potter,Homer Twp,U.S. Senate,,Bob Casey Jr.,DEM,53.0,,,Potter County,Homer Twp
+Potter,Keating Twp,U.S. Senate,,Bob Casey Jr.,DEM,24.0,,,Potter County,Keating Twp
+Potter,Oswayo Boro,U.S. Senate,,Bob Casey Jr.,DEM,9.0,,,Potter County,Oswayo Boro
+Potter,Oswayo Twp,U.S. Senate,,Bob Casey Jr.,DEM,19.0,,,Potter County,Oswayo Twp
+Potter,Pike Twp,U.S. Senate,,Bob Casey Jr.,DEM,31.0,,,Potter County,Pike Twp
+Potter,Pleasant Valley Twp,U.S. Senate,,Bob Casey Jr.,DEM,7.0,,,Potter County,Pleasant Valley Twp
+Potter,Portage Twp,U.S. Senate,,Bob Casey Jr.,DEM,26.0,,,Potter County,Portage Twp
+Potter,Roulette Twp,U.S. Senate,,Bob Casey Jr.,DEM,104.0,,,Potter County,Roulette Twp
+Potter,N. Sharon Twp,U.S. Senate,,Bob Casey Jr.,DEM,23.0,,,Potter County,N. Sharon Twp
+Potter,S. Sharon Twp,U.S. Senate,,Bob Casey Jr.,DEM,35.0,,,Potter County,S. Sharon Twp
+Potter,Shinglehouse Boro,U.S. Senate,,Bob Casey Jr.,DEM,78.0,,,Potter County,Shinglehouse Boro
+Potter,Stewardson Twp,U.S. Senate,,Bob Casey Jr.,DEM,9.0,,,Potter County,Stewardson Twp
+Potter,Summit Twp,U.S. Senate,,Bob Casey Jr.,DEM,19.0,,,Potter County,Summit Twp
+Potter,Sweden Twp,U.S. Senate,,Bob Casey Jr.,DEM,84.0,,,Potter County,Sweden Twp
+Potter,Sylvania Twp,U.S. Senate,,Bob Casey Jr.,DEM,8.0,,,Potter County,Sylvania Twp
+Potter,Ulysses Boro,U.S. Senate,,Bob Casey Jr.,DEM,48.0,,,Potter County,Ulysses Boro
+Potter,Ulysses Twp,U.S. Senate,,Bob Casey Jr.,DEM,46.0,,,Potter County,Ulysses Twp
+Potter,West Branch Twp,U.S. Senate,,Bob Casey Jr.,DEM,45.0,,,Potter County,West Branch Twp
+Potter,Wharton Twp,U.S. Senate,,Bob Casey Jr.,DEM,16.0,,,Potter County,Wharton Twp
+Potter,Abbott Twp,U.S. Senate,,Lou Barletta,REP,93.0,,,Potter County,Abbott Twp
+Potter,Allegany Twp,U.S. Senate,,Lou Barletta,REP,153.0,,,Potter County,Allegany Twp
+Potter,Austin Boro,U.S. Senate,,Lou Barletta,REP,97.0,,,Potter County,Austin Boro
+Potter,Bingham Twp,U.S. Senate,,Lou Barletta,REP,151.0,,,Potter County,Bingham Twp
+Potter,Clara Twp,U.S. Senate,,Lou Barletta,REP,56.0,,,Potter County,Clara Twp
+Potter,Coudersport First Ward,U.S. Senate,,Lou Barletta,REP,220.0,,,Potter County,Coudersport First Ward
+Potter,Coudersport Second Ward,U.S. Senate,,Lou Barletta,REP,249.0,,,Potter County,Coudersport Second Ward
+Potter,Eulalia Twp,U.S. Senate,,Lou Barletta,REP,256.0,,,Potter County,Eulalia Twp
+Potter,Galeton First Ward,U.S. Senate,,Lou Barletta,REP,87.0,,,Potter County,Galeton First Ward
+Potter,Galeton Second Ward,U.S. Senate,,Lou Barletta,REP,116.0,,,Potter County,Galeton Second Ward
+Potter,Genesee Twp,U.S. Senate,,Lou Barletta,REP,206.0,,,Potter County,Genesee Twp
+Potter,Harrison Twp,U.S. Senate,,Lou Barletta,REP,269.0,,,Potter County,Harrison Twp
+Potter,Hebron Twp,U.S. Senate,,Lou Barletta,REP,225.0,,,Potter County,Hebron Twp
+Potter,Hector Twp,U.S. Senate,,Lou Barletta,REP,115.0,,,Potter County,Hector Twp
+Potter,Homer Twp,U.S. Senate,,Lou Barletta,REP,163.0,,,Potter County,Homer Twp
+Potter,Keating Twp,U.S. Senate,,Lou Barletta,REP,100.0,,,Potter County,Keating Twp
+Potter,Oswayo Boro,U.S. Senate,,Lou Barletta,REP,35.0,,,Potter County,Oswayo Boro
+Potter,Oswayo Twp,U.S. Senate,,Lou Barletta,REP,71.0,,,Potter County,Oswayo Twp
+Potter,Pike Twp,U.S. Senate,,Lou Barletta,REP,86.0,,,Potter County,Pike Twp
+Potter,Pleasant Valley Twp,U.S. Senate,,Lou Barletta,REP,31.0,,,Potter County,Pleasant Valley Twp
+Potter,Portage Twp,U.S. Senate,,Lou Barletta,REP,60.0,,,Potter County,Portage Twp
+Potter,Roulette Twp,U.S. Senate,,Lou Barletta,REP,279.0,,,Potter County,Roulette Twp
+Potter,N. Sharon Twp,U.S. Senate,,Lou Barletta,REP,97.0,,,Potter County,N. Sharon Twp
+Potter,S. Sharon Twp,U.S. Senate,,Lou Barletta,REP,151.0,,,Potter County,S. Sharon Twp
+Potter,Shinglehouse Boro,U.S. Senate,,Lou Barletta,REP,254.0,,,Potter County,Shinglehouse Boro
+Potter,Stewardson Twp,U.S. Senate,,Lou Barletta,REP,28.0,,,Potter County,Stewardson Twp
+Potter,Summit Twp,U.S. Senate,,Lou Barletta,REP,68.0,,,Potter County,Summit Twp
+Potter,Sweden Twp,U.S. Senate,,Lou Barletta,REP,267.0,,,Potter County,Sweden Twp
+Potter,Sylvania Twp,U.S. Senate,,Lou Barletta,REP,31.0,,,Potter County,Sylvania Twp
+Potter,Ulysses Boro,U.S. Senate,,Lou Barletta,REP,155.0,,,Potter County,Ulysses Boro
+Potter,Ulysses Twp,U.S. Senate,,Lou Barletta,REP,212.0,,,Potter County,Ulysses Twp
+Potter,West Branch Twp,U.S. Senate,,Lou Barletta,REP,136.0,,,Potter County,West Branch Twp
+Potter,Wharton Twp,U.S. Senate,,Lou Barletta,REP,47.0,,,Potter County,Wharton Twp
+Potter,Abbott Twp,U.S. Senate,,Neal Gale,GRN,1.0,,,Potter County,Abbott Twp
+Potter,Allegany Twp,U.S. Senate,,Neal Gale,GRN,3.0,,,Potter County,Allegany Twp
+Potter,Austin Boro,U.S. Senate,,Neal Gale,GRN,0.0,,,Potter County,Austin Boro
+Potter,Bingham Twp,U.S. Senate,,Neal Gale,GRN,0.0,,,Potter County,Bingham Twp
+Potter,Clara Twp,U.S. Senate,,Neal Gale,GRN,0.0,,,Potter County,Clara Twp
+Potter,Coudersport First Ward,U.S. Senate,,Neal Gale,GRN,1.0,,,Potter County,Coudersport First Ward
+Potter,Coudersport Second Ward,U.S. Senate,,Neal Gale,GRN,3.0,,,Potter County,Coudersport Second Ward
+Potter,Eulalia Twp,U.S. Senate,,Neal Gale,GRN,0.0,,,Potter County,Eulalia Twp
+Potter,Galeton First Ward,U.S. Senate,,Neal Gale,GRN,0.0,,,Potter County,Galeton First Ward
+Potter,Galeton Second Ward,U.S. Senate,,Neal Gale,GRN,4.0,,,Potter County,Galeton Second Ward
+Potter,Genesee Twp,U.S. Senate,,Neal Gale,GRN,1.0,,,Potter County,Genesee Twp
+Potter,Harrison Twp,U.S. Senate,,Neal Gale,GRN,2.0,,,Potter County,Harrison Twp
+Potter,Hebron Twp,U.S. Senate,,Neal Gale,GRN,2.0,,,Potter County,Hebron Twp
+Potter,Hector Twp,U.S. Senate,,Neal Gale,GRN,0.0,,,Potter County,Hector Twp
+Potter,Homer Twp,U.S. Senate,,Neal Gale,GRN,0.0,,,Potter County,Homer Twp
+Potter,Keating Twp,U.S. Senate,,Neal Gale,GRN,0.0,,,Potter County,Keating Twp
+Potter,Oswayo Boro,U.S. Senate,,Neal Gale,GRN,1.0,,,Potter County,Oswayo Boro
+Potter,Oswayo Twp,U.S. Senate,,Neal Gale,GRN,0.0,,,Potter County,Oswayo Twp
+Potter,Pike Twp,U.S. Senate,,Neal Gale,GRN,0.0,,,Potter County,Pike Twp
+Potter,Pleasant Valley Twp,U.S. Senate,,Neal Gale,GRN,0.0,,,Potter County,Pleasant Valley Twp
+Potter,Portage Twp,U.S. Senate,,Neal Gale,GRN,0.0,,,Potter County,Portage Twp
+Potter,Roulette Twp,U.S. Senate,,Neal Gale,GRN,3.0,,,Potter County,Roulette Twp
+Potter,N. Sharon Twp,U.S. Senate,,Neal Gale,GRN,1.0,,,Potter County,N. Sharon Twp
+Potter,S. Sharon Twp,U.S. Senate,,Neal Gale,GRN,1.0,,,Potter County,S. Sharon Twp
+Potter,Shinglehouse Boro,U.S. Senate,,Neal Gale,GRN,2.0,,,Potter County,Shinglehouse Boro
+Potter,Stewardson Twp,U.S. Senate,,Neal Gale,GRN,0.0,,,Potter County,Stewardson Twp
+Potter,Summit Twp,U.S. Senate,,Neal Gale,GRN,1.0,,,Potter County,Summit Twp
+Potter,Sweden Twp,U.S. Senate,,Neal Gale,GRN,6.0,,,Potter County,Sweden Twp
+Potter,Sylvania Twp,U.S. Senate,,Neal Gale,GRN,0.0,,,Potter County,Sylvania Twp
+Potter,Ulysses Boro,U.S. Senate,,Neal Gale,GRN,1.0,,,Potter County,Ulysses Boro
+Potter,Ulysses Twp,U.S. Senate,,Neal Gale,GRN,2.0,,,Potter County,Ulysses Twp
+Potter,West Branch Twp,U.S. Senate,,Neal Gale,GRN,2.0,,,Potter County,West Branch Twp
+Potter,Wharton Twp,U.S. Senate,,Neal Gale,GRN,1.0,,,Potter County,Wharton Twp
+Potter,Abbott Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,1.0,,,Potter County,Abbott Twp
+Potter,Allegany Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,2.0,,,Potter County,Allegany Twp
+Potter,Austin Boro,U.S. Senate,,Dale R. Kerns Jr.,LIB,2.0,,,Potter County,Austin Boro
+Potter,Bingham Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,3.0,,,Potter County,Bingham Twp
+Potter,Clara Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,0.0,,,Potter County,Clara Twp
+Potter,Coudersport First Ward,U.S. Senate,,Dale R. Kerns Jr.,LIB,2.0,,,Potter County,Coudersport First Ward
+Potter,Coudersport Second Ward,U.S. Senate,,Dale R. Kerns Jr.,LIB,17.0,,,Potter County,Coudersport Second Ward
+Potter,Eulalia Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,1.0,,,Potter County,Eulalia Twp
+Potter,Galeton First Ward,U.S. Senate,,Dale R. Kerns Jr.,LIB,2.0,,,Potter County,Galeton First Ward
+Potter,Galeton Second Ward,U.S. Senate,,Dale R. Kerns Jr.,LIB,5.0,,,Potter County,Galeton Second Ward
+Potter,Genesee Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,2.0,,,Potter County,Genesee Twp
+Potter,Harrison Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,1.0,,,Potter County,Harrison Twp
+Potter,Hebron Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,1.0,,,Potter County,Hebron Twp
+Potter,Hector Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,2.0,,,Potter County,Hector Twp
+Potter,Homer Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,0.0,,,Potter County,Homer Twp
+Potter,Keating Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,2.0,,,Potter County,Keating Twp
+Potter,Oswayo Boro,U.S. Senate,,Dale R. Kerns Jr.,LIB,0.0,,,Potter County,Oswayo Boro
+Potter,Oswayo Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,1.0,,,Potter County,Oswayo Twp
+Potter,Pike Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,3.0,,,Potter County,Pike Twp
+Potter,Pleasant Valley Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,0.0,,,Potter County,Pleasant Valley Twp
+Potter,Portage Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,0.0,,,Potter County,Portage Twp
+Potter,Roulette Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,0.0,,,Potter County,Roulette Twp
+Potter,N. Sharon Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,0.0,,,Potter County,N. Sharon Twp
+Potter,S. Sharon Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,3.0,,,Potter County,S. Sharon Twp
+Potter,Shinglehouse Boro,U.S. Senate,,Dale R. Kerns Jr.,LIB,3.0,,,Potter County,Shinglehouse Boro
+Potter,Stewardson Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,0.0,,,Potter County,Stewardson Twp
+Potter,Summit Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,0.0,,,Potter County,Summit Twp
+Potter,Sweden Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,2.0,,,Potter County,Sweden Twp
+Potter,Sylvania Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,0.0,,,Potter County,Sylvania Twp
+Potter,Ulysses Boro,U.S. Senate,,Dale R. Kerns Jr.,LIB,4.0,,,Potter County,Ulysses Boro
+Potter,Ulysses Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,2.0,,,Potter County,Ulysses Twp
+Potter,West Branch Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,2.0,,,Potter County,West Branch Twp
+Potter,Wharton Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,0.0,,,Potter County,Wharton Twp
+Potter,Abbott Twp,U.S. Senate,,Write-ins,,0.0,,,Potter County,Abbott Twp
+Potter,Allegany Twp,U.S. Senate,,Write-ins,,0.0,,,Potter County,Allegany Twp
+Potter,Austin Boro,U.S. Senate,,Write-ins,,0.0,,,Potter County,Austin Boro
+Potter,Bingham Twp,U.S. Senate,,Write-ins,,0.0,,,Potter County,Bingham Twp
+Potter,Clara Twp,U.S. Senate,,Write-ins,,0.0,,,Potter County,Clara Twp
+Potter,Coudersport First Ward,U.S. Senate,,Write-ins,,0.0,,,Potter County,Coudersport First Ward
+Potter,Coudersport Second Ward,U.S. Senate,,Write-ins,,0.0,,,Potter County,Coudersport Second Ward
+Potter,Eulalia Twp,U.S. Senate,,Write-ins,,1.0,,,Potter County,Eulalia Twp
+Potter,Galeton First Ward,U.S. Senate,,Write-ins,,0.0,,,Potter County,Galeton First Ward
+Potter,Galeton Second Ward,U.S. Senate,,Write-ins,,0.0,,,Potter County,Galeton Second Ward
+Potter,Genesee Twp,U.S. Senate,,Write-ins,,0.0,,,Potter County,Genesee Twp
+Potter,Harrison Twp,U.S. Senate,,Write-ins,,0.0,,,Potter County,Harrison Twp
+Potter,Hebron Twp,U.S. Senate,,Write-ins,,2.0,,,Potter County,Hebron Twp
+Potter,Hector Twp,U.S. Senate,,Write-ins,,0.0,,,Potter County,Hector Twp
+Potter,Homer Twp,U.S. Senate,,Write-ins,,0.0,,,Potter County,Homer Twp
+Potter,Keating Twp,U.S. Senate,,Write-ins,,0.0,,,Potter County,Keating Twp
+Potter,Oswayo Boro,U.S. Senate,,Write-ins,,0.0,,,Potter County,Oswayo Boro
+Potter,Oswayo Twp,U.S. Senate,,Write-ins,,0.0,,,Potter County,Oswayo Twp
+Potter,Pike Twp,U.S. Senate,,Write-ins,,0.0,,,Potter County,Pike Twp
+Potter,Pleasant Valley Twp,U.S. Senate,,Write-ins,,0.0,,,Potter County,Pleasant Valley Twp
+Potter,Portage Twp,U.S. Senate,,Write-ins,,0.0,,,Potter County,Portage Twp
+Potter,Roulette Twp,U.S. Senate,,Write-ins,,0.0,,,Potter County,Roulette Twp
+Potter,N. Sharon Twp,U.S. Senate,,Write-ins,,0.0,,,Potter County,N. Sharon Twp
+Potter,S. Sharon Twp,U.S. Senate,,Write-ins,,0.0,,,Potter County,S. Sharon Twp
+Potter,Shinglehouse Boro,U.S. Senate,,Write-ins,,0.0,,,Potter County,Shinglehouse Boro
+Potter,Stewardson Twp,U.S. Senate,,Write-ins,,0.0,,,Potter County,Stewardson Twp
+Potter,Summit Twp,U.S. Senate,,Write-ins,,0.0,,,Potter County,Summit Twp
+Potter,Sweden Twp,U.S. Senate,,Write-ins,,0.0,,,Potter County,Sweden Twp
+Potter,Sylvania Twp,U.S. Senate,,Write-ins,,0.0,,,Potter County,Sylvania Twp
+Potter,Ulysses Boro,U.S. Senate,,Write-ins,,1.0,,,Potter County,Ulysses Boro
+Potter,Ulysses Twp,U.S. Senate,,Write-ins,,0.0,,,Potter County,Ulysses Twp
+Potter,West Branch Twp,U.S. Senate,,Write-ins,,1.0,,,Potter County,West Branch Twp
+Potter,Wharton Twp,U.S. Senate,,Write-ins,,0.0,,,Potter County,Wharton Twp
+Potter,Abbott Twp,Governor,,Tom Wolf,DEM,20.0,,,Potter County,Abbott Twp
+Potter,Allegany Twp,Governor,,Tom Wolf,DEM,30.0,,,Potter County,Allegany Twp
+Potter,Austin Boro,Governor,,Tom Wolf,DEM,68.0,,,Potter County,Austin Boro
+Potter,Bingham Twp,Governor,,Tom Wolf,DEM,32.0,,,Potter County,Bingham Twp
+Potter,Clara Twp,Governor,,Tom Wolf,DEM,14.0,,,Potter County,Clara Twp
+Potter,Coudersport First Ward,Governor,,Tom Wolf,DEM,135.0,,,Potter County,Coudersport First Ward
+Potter,Coudersport Second Ward,Governor,,Tom Wolf,DEM,171.0,,,Potter County,Coudersport Second Ward
+Potter,Eulalia Twp,Governor,,Tom Wolf,DEM,68.0,,,Potter County,Eulalia Twp
+Potter,Galeton First Ward,Governor,,Tom Wolf,DEM,61.0,,,Potter County,Galeton First Ward
+Potter,Galeton Second Ward,Governor,,Tom Wolf,DEM,43.0,,,Potter County,Galeton Second Ward
+Potter,Genesee Twp,Governor,,Tom Wolf,DEM,46.0,,,Potter County,Genesee Twp
+Potter,Harrison Twp,Governor,,Tom Wolf,DEM,34.0,,,Potter County,Harrison Twp
+Potter,Hebron Twp,Governor,,Tom Wolf,DEM,52.0,,,Potter County,Hebron Twp
+Potter,Hector Twp,Governor,,Tom Wolf,DEM,16.0,,,Potter County,Hector Twp
+Potter,Homer Twp,Governor,,Tom Wolf,DEM,50.0,,,Potter County,Homer Twp
+Potter,Keating Twp,Governor,,Tom Wolf,DEM,23.0,,,Potter County,Keating Twp
+Potter,Oswayo Boro,Governor,,Tom Wolf,DEM,6.0,,,Potter County,Oswayo Boro
+Potter,Oswayo Twp,Governor,,Tom Wolf,DEM,20.0,,,Potter County,Oswayo Twp
+Potter,Pike Twp,Governor,,Tom Wolf,DEM,36.0,,,Potter County,Pike Twp
+Potter,Pleasant Valley Twp,Governor,,Tom Wolf,DEM,6.0,,,Potter County,Pleasant Valley Twp
+Potter,Portage Twp,Governor,,Tom Wolf,DEM,23.0,,,Potter County,Portage Twp
+Potter,Roulette Twp,Governor,,Tom Wolf,DEM,99.0,,,Potter County,Roulette Twp
+Potter,N. Sharon Twp,Governor,,Tom Wolf,DEM,20.0,,,Potter County,N. Sharon Twp
+Potter,S. Sharon Twp,Governor,,Tom Wolf,DEM,32.0,,,Potter County,S. Sharon Twp
+Potter,Shinglehouse Boro,Governor,,Tom Wolf,DEM,69.0,,,Potter County,Shinglehouse Boro
+Potter,Stewardson Twp,Governor,,Tom Wolf,DEM,11.0,,,Potter County,Stewardson Twp
+Potter,Summit Twp,Governor,,Tom Wolf,DEM,17.0,,,Potter County,Summit Twp
+Potter,Sweden Twp,Governor,,Tom Wolf,DEM,84.0,,,Potter County,Sweden Twp
+Potter,Sylvania Twp,Governor,,Tom Wolf,DEM,9.0,,,Potter County,Sylvania Twp
+Potter,Ulysses Boro,Governor,,Tom Wolf,DEM,49.0,,,Potter County,Ulysses Boro
+Potter,Ulysses Twp,Governor,,Tom Wolf,DEM,48.0,,,Potter County,Ulysses Twp
+Potter,West Branch Twp,Governor,,Tom Wolf,DEM,46.0,,,Potter County,West Branch Twp
+Potter,Wharton Twp,Governor,,Tom Wolf,DEM,14.0,,,Potter County,Wharton Twp
+Potter,Abbott Twp,Governor,,Scott R. Wagner,REP,98.0,,,Potter County,Abbott Twp
+Potter,Allegany Twp,Governor,,Scott R. Wagner,REP,151.0,,,Potter County,Allegany Twp
+Potter,Austin Boro,Governor,,Scott R. Wagner,REP,108.0,,,Potter County,Austin Boro
+Potter,Bingham Twp,Governor,,Scott R. Wagner,REP,156.0,,,Potter County,Bingham Twp
+Potter,Clara Twp,Governor,,Scott R. Wagner,REP,56.0,,,Potter County,Clara Twp
+Potter,Coudersport First Ward,Governor,,Scott R. Wagner,REP,223.0,,,Potter County,Coudersport First Ward
+Potter,Coudersport Second Ward,Governor,,Scott R. Wagner,REP,270.0,,,Potter County,Coudersport Second Ward
+Potter,Eulalia Twp,Governor,,Scott R. Wagner,REP,266.0,,,Potter County,Eulalia Twp
+Potter,Galeton First Ward,Governor,,Scott R. Wagner,REP,88.0,,,Potter County,Galeton First Ward
+Potter,Galeton Second Ward,Governor,,Scott R. Wagner,REP,129.0,,,Potter County,Galeton Second Ward
+Potter,Genesee Twp,Governor,,Scott R. Wagner,REP,216.0,,,Potter County,Genesee Twp
+Potter,Harrison Twp,Governor,,Scott R. Wagner,REP,276.0,,,Potter County,Harrison Twp
+Potter,Hebron Twp,Governor,,Scott R. Wagner,REP,224.0,,,Potter County,Hebron Twp
+Potter,Hector Twp,Governor,,Scott R. Wagner,REP,118.0,,,Potter County,Hector Twp
+Potter,Homer Twp,Governor,,Scott R. Wagner,REP,164.0,,,Potter County,Homer Twp
+Potter,Keating Twp,Governor,,Scott R. Wagner,REP,100.0,,,Potter County,Keating Twp
+Potter,Oswayo Boro,Governor,,Scott R. Wagner,REP,37.0,,,Potter County,Oswayo Boro
+Potter,Oswayo Twp,Governor,,Scott R. Wagner,REP,75.0,,,Potter County,Oswayo Twp
+Potter,Pike Twp,Governor,,Scott R. Wagner,REP,85.0,,,Potter County,Pike Twp
+Potter,Pleasant Valley Twp,Governor,,Scott R. Wagner,REP,32.0,,,Potter County,Pleasant Valley Twp
+Potter,Portage Twp,Governor,,Scott R. Wagner,REP,61.0,,,Potter County,Portage Twp
+Potter,Roulette Twp,Governor,,Scott R. Wagner,REP,284.0,,,Potter County,Roulette Twp
+Potter,N. Sharon Twp,Governor,,Scott R. Wagner,REP,100.0,,,Potter County,N. Sharon Twp
+Potter,S. Sharon Twp,Governor,,Scott R. Wagner,REP,153.0,,,Potter County,S. Sharon Twp
+Potter,Shinglehouse Boro,Governor,,Scott R. Wagner,REP,259.0,,,Potter County,Shinglehouse Boro
+Potter,Stewardson Twp,Governor,,Scott R. Wagner,REP,26.0,,,Potter County,Stewardson Twp
+Potter,Summit Twp,Governor,,Scott R. Wagner,REP,71.0,,,Potter County,Summit Twp
+Potter,Sweden Twp,Governor,,Scott R. Wagner,REP,271.0,,,Potter County,Sweden Twp
+Potter,Sylvania Twp,Governor,,Scott R. Wagner,REP,31.0,,,Potter County,Sylvania Twp
+Potter,Ulysses Boro,Governor,,Scott R. Wagner,REP,156.0,,,Potter County,Ulysses Boro
+Potter,Ulysses Twp,Governor,,Scott R. Wagner,REP,214.0,,,Potter County,Ulysses Twp
+Potter,West Branch Twp,Governor,,Scott R. Wagner,REP,139.0,,,Potter County,West Branch Twp
+Potter,Wharton Twp,Governor,,Scott R. Wagner,REP,50.0,,,Potter County,Wharton Twp
+Potter,Abbott Twp,Governor,,Paul Glover,GRN,2.0,,,Potter County,Abbott Twp
+Potter,Allegany Twp,Governor,,Paul Glover,GRN,3.0,,,Potter County,Allegany Twp
+Potter,Austin Boro,Governor,,Paul Glover,GRN,0.0,,,Potter County,Austin Boro
+Potter,Bingham Twp,Governor,,Paul Glover,GRN,0.0,,,Potter County,Bingham Twp
+Potter,Clara Twp,Governor,,Paul Glover,GRN,0.0,,,Potter County,Clara Twp
+Potter,Coudersport First Ward,Governor,,Paul Glover,GRN,4.0,,,Potter County,Coudersport First Ward
+Potter,Coudersport Second Ward,Governor,,Paul Glover,GRN,1.0,,,Potter County,Coudersport Second Ward
+Potter,Eulalia Twp,Governor,,Paul Glover,GRN,0.0,,,Potter County,Eulalia Twp
+Potter,Galeton First Ward,Governor,,Paul Glover,GRN,3.0,,,Potter County,Galeton First Ward
+Potter,Galeton Second Ward,Governor,,Paul Glover,GRN,4.0,,,Potter County,Galeton Second Ward
+Potter,Genesee Twp,Governor,,Paul Glover,GRN,3.0,,,Potter County,Genesee Twp
+Potter,Harrison Twp,Governor,,Paul Glover,GRN,1.0,,,Potter County,Harrison Twp
+Potter,Hebron Twp,Governor,,Paul Glover,GRN,1.0,,,Potter County,Hebron Twp
+Potter,Hector Twp,Governor,,Paul Glover,GRN,0.0,,,Potter County,Hector Twp
+Potter,Homer Twp,Governor,,Paul Glover,GRN,0.0,,,Potter County,Homer Twp
+Potter,Keating Twp,Governor,,Paul Glover,GRN,1.0,,,Potter County,Keating Twp
+Potter,Oswayo Boro,Governor,,Paul Glover,GRN,1.0,,,Potter County,Oswayo Boro
+Potter,Oswayo Twp,Governor,,Paul Glover,GRN,0.0,,,Potter County,Oswayo Twp
+Potter,Pike Twp,Governor,,Paul Glover,GRN,0.0,,,Potter County,Pike Twp
+Potter,Pleasant Valley Twp,Governor,,Paul Glover,GRN,0.0,,,Potter County,Pleasant Valley Twp
+Potter,Portage Twp,Governor,,Paul Glover,GRN,0.0,,,Potter County,Portage Twp
+Potter,Roulette Twp,Governor,,Paul Glover,GRN,2.0,,,Potter County,Roulette Twp
+Potter,N. Sharon Twp,Governor,,Paul Glover,GRN,1.0,,,Potter County,N. Sharon Twp
+Potter,S. Sharon Twp,Governor,,Paul Glover,GRN,2.0,,,Potter County,S. Sharon Twp
+Potter,Shinglehouse Boro,Governor,,Paul Glover,GRN,4.0,,,Potter County,Shinglehouse Boro
+Potter,Stewardson Twp,Governor,,Paul Glover,GRN,0.0,,,Potter County,Stewardson Twp
+Potter,Summit Twp,Governor,,Paul Glover,GRN,1.0,,,Potter County,Summit Twp
+Potter,Sweden Twp,Governor,,Paul Glover,GRN,4.0,,,Potter County,Sweden Twp
+Potter,Sylvania Twp,Governor,,Paul Glover,GRN,0.0,,,Potter County,Sylvania Twp
+Potter,Ulysses Boro,Governor,,Paul Glover,GRN,1.0,,,Potter County,Ulysses Boro
+Potter,Ulysses Twp,Governor,,Paul Glover,GRN,2.0,,,Potter County,Ulysses Twp
+Potter,West Branch Twp,Governor,,Paul Glover,GRN,0.0,,,Potter County,West Branch Twp
+Potter,Wharton Twp,Governor,,Paul Glover,GRN,1.0,,,Potter County,Wharton Twp
+Potter,Abbott Twp,Governor,,Ken V. Krawchuk,LIB,0.0,,,Potter County,Abbott Twp
+Potter,Allegany Twp,Governor,,Ken V. Krawchuk,LIB,2.0,,,Potter County,Allegany Twp
+Potter,Austin Boro,Governor,,Ken V. Krawchuk,LIB,6.0,,,Potter County,Austin Boro
+Potter,Bingham Twp,Governor,,Ken V. Krawchuk,LIB,4.0,,,Potter County,Bingham Twp
+Potter,Clara Twp,Governor,,Ken V. Krawchuk,LIB,0.0,,,Potter County,Clara Twp
+Potter,Coudersport First Ward,Governor,,Ken V. Krawchuk,LIB,2.0,,,Potter County,Coudersport First Ward
+Potter,Coudersport Second Ward,Governor,,Ken V. Krawchuk,LIB,9.0,,,Potter County,Coudersport Second Ward
+Potter,Eulalia Twp,Governor,,Ken V. Krawchuk,LIB,2.0,,,Potter County,Eulalia Twp
+Potter,Galeton First Ward,Governor,,Ken V. Krawchuk,LIB,2.0,,,Potter County,Galeton First Ward
+Potter,Galeton Second Ward,Governor,,Ken V. Krawchuk,LIB,4.0,,,Potter County,Galeton Second Ward
+Potter,Genesee Twp,Governor,,Ken V. Krawchuk,LIB,3.0,,,Potter County,Genesee Twp
+Potter,Harrison Twp,Governor,,Ken V. Krawchuk,LIB,1.0,,,Potter County,Harrison Twp
+Potter,Hebron Twp,Governor,,Ken V. Krawchuk,LIB,2.0,,,Potter County,Hebron Twp
+Potter,Hector Twp,Governor,,Ken V. Krawchuk,LIB,1.0,,,Potter County,Hector Twp
+Potter,Homer Twp,Governor,,Ken V. Krawchuk,LIB,3.0,,,Potter County,Homer Twp
+Potter,Keating Twp,Governor,,Ken V. Krawchuk,LIB,3.0,,,Potter County,Keating Twp
+Potter,Oswayo Boro,Governor,,Ken V. Krawchuk,LIB,0.0,,,Potter County,Oswayo Boro
+Potter,Oswayo Twp,Governor,,Ken V. Krawchuk,LIB,0.0,,,Potter County,Oswayo Twp
+Potter,Pike Twp,Governor,,Ken V. Krawchuk,LIB,1.0,,,Potter County,Pike Twp
+Potter,Pleasant Valley Twp,Governor,,Ken V. Krawchuk,LIB,0.0,,,Potter County,Pleasant Valley Twp
+Potter,Portage Twp,Governor,,Ken V. Krawchuk,LIB,1.0,,,Potter County,Portage Twp
+Potter,Roulette Twp,Governor,,Ken V. Krawchuk,LIB,2.0,,,Potter County,Roulette Twp
+Potter,N. Sharon Twp,Governor,,Ken V. Krawchuk,LIB,2.0,,,Potter County,N. Sharon Twp
+Potter,S. Sharon Twp,Governor,,Ken V. Krawchuk,LIB,4.0,,,Potter County,S. Sharon Twp
+Potter,Shinglehouse Boro,Governor,,Ken V. Krawchuk,LIB,4.0,,,Potter County,Shinglehouse Boro
+Potter,Stewardson Twp,Governor,,Ken V. Krawchuk,LIB,0.0,,,Potter County,Stewardson Twp
+Potter,Summit Twp,Governor,,Ken V. Krawchuk,LIB,0.0,,,Potter County,Summit Twp
+Potter,Sweden Twp,Governor,,Ken V. Krawchuk,LIB,1.0,,,Potter County,Sweden Twp
+Potter,Sylvania Twp,Governor,,Ken V. Krawchuk,LIB,0.0,,,Potter County,Sylvania Twp
+Potter,Ulysses Boro,Governor,,Ken V. Krawchuk,LIB,4.0,,,Potter County,Ulysses Boro
+Potter,Ulysses Twp,Governor,,Ken V. Krawchuk,LIB,2.0,,,Potter County,Ulysses Twp
+Potter,West Branch Twp,Governor,,Ken V. Krawchuk,LIB,2.0,,,Potter County,West Branch Twp
+Potter,Wharton Twp,Governor,,Ken V. Krawchuk,LIB,0.0,,,Potter County,Wharton Twp
+Potter,Abbott Twp,Governor,,Write-ins,,0.0,,,Potter County,Abbott Twp
+Potter,Allegany Twp,Governor,,Write-ins,,0.0,,,Potter County,Allegany Twp
+Potter,Austin Boro,Governor,,Write-ins,,0.0,,,Potter County,Austin Boro
+Potter,Bingham Twp,Governor,,Write-ins,,0.0,,,Potter County,Bingham Twp
+Potter,Clara Twp,Governor,,Write-ins,,0.0,,,Potter County,Clara Twp
+Potter,Coudersport First Ward,Governor,,Write-ins,,0.0,,,Potter County,Coudersport First Ward
+Potter,Coudersport Second Ward,Governor,,Write-ins,,0.0,,,Potter County,Coudersport Second Ward
+Potter,Eulalia Twp,Governor,,Write-ins,,1.0,,,Potter County,Eulalia Twp
+Potter,Galeton First Ward,Governor,,Write-ins,,0.0,,,Potter County,Galeton First Ward
+Potter,Galeton Second Ward,Governor,,Write-ins,,0.0,,,Potter County,Galeton Second Ward
+Potter,Genesee Twp,Governor,,Write-ins,,0.0,,,Potter County,Genesee Twp
+Potter,Harrison Twp,Governor,,Write-ins,,0.0,,,Potter County,Harrison Twp
+Potter,Hebron Twp,Governor,,Write-ins,,3.0,,,Potter County,Hebron Twp
+Potter,Hector Twp,Governor,,Write-ins,,0.0,,,Potter County,Hector Twp
+Potter,Homer Twp,Governor,,Write-ins,,0.0,,,Potter County,Homer Twp
+Potter,Keating Twp,Governor,,Write-ins,,0.0,,,Potter County,Keating Twp
+Potter,Oswayo Boro,Governor,,Write-ins,,0.0,,,Potter County,Oswayo Boro
+Potter,Oswayo Twp,Governor,,Write-ins,,0.0,,,Potter County,Oswayo Twp
+Potter,Pike Twp,Governor,,Write-ins,,0.0,,,Potter County,Pike Twp
+Potter,Pleasant Valley Twp,Governor,,Write-ins,,0.0,,,Potter County,Pleasant Valley Twp
+Potter,Portage Twp,Governor,,Write-ins,,0.0,,,Potter County,Portage Twp
+Potter,Roulette Twp,Governor,,Write-ins,,0.0,,,Potter County,Roulette Twp
+Potter,N. Sharon Twp,Governor,,Write-ins,,0.0,,,Potter County,N. Sharon Twp
+Potter,S. Sharon Twp,Governor,,Write-ins,,0.0,,,Potter County,S. Sharon Twp
+Potter,Shinglehouse Boro,Governor,,Write-ins,,0.0,,,Potter County,Shinglehouse Boro
+Potter,Stewardson Twp,Governor,,Write-ins,,0.0,,,Potter County,Stewardson Twp
+Potter,Summit Twp,Governor,,Write-ins,,0.0,,,Potter County,Summit Twp
+Potter,Sweden Twp,Governor,,Write-ins,,0.0,,,Potter County,Sweden Twp
+Potter,Sylvania Twp,Governor,,Write-ins,,0.0,,,Potter County,Sylvania Twp
+Potter,Ulysses Boro,Governor,,Write-ins,,0.0,,,Potter County,Ulysses Boro
+Potter,Ulysses Twp,Governor,,Write-ins,,0.0,,,Potter County,Ulysses Twp
+Potter,West Branch Twp,Governor,,Write-ins,,0.0,,,Potter County,West Branch Twp
+Potter,Wharton Twp,Governor,,Write-ins,,0.0,,,Potter County,Wharton Twp
+Potter,Abbott Twp,U.S. House,12.0,Marc Friedenberg,DEM,23.0,,,Potter County,Abbott Twp
+Potter,Allegany Twp,U.S. House,12.0,Marc Friedenberg,DEM,27.0,,,Potter County,Allegany Twp
+Potter,Austin Boro,U.S. House,12.0,Marc Friedenberg,DEM,76.0,,,Potter County,Austin Boro
+Potter,Bingham Twp,U.S. House,12.0,Marc Friedenberg,DEM,33.0,,,Potter County,Bingham Twp
+Potter,Clara Twp,U.S. House,12.0,Marc Friedenberg,DEM,14.0,,,Potter County,Clara Twp
+Potter,Coudersport First Ward,U.S. House,12.0,Marc Friedenberg,DEM,130.0,,,Potter County,Coudersport First Ward
+Potter,Coudersport Second Ward,U.S. House,12.0,Marc Friedenberg,DEM,163.0,,,Potter County,Coudersport Second Ward
+Potter,Eulalia Twp,U.S. House,12.0,Marc Friedenberg,DEM,59.0,,,Potter County,Eulalia Twp
+Potter,Galeton First Ward,U.S. House,12.0,Marc Friedenberg,DEM,58.0,,,Potter County,Galeton First Ward
+Potter,Galeton Second Ward,U.S. House,12.0,Marc Friedenberg,DEM,47.0,,,Potter County,Galeton Second Ward
+Potter,Genesee Twp,U.S. House,12.0,Marc Friedenberg,DEM,48.0,,,Potter County,Genesee Twp
+Potter,Harrison Twp,U.S. House,12.0,Marc Friedenberg,DEM,37.0,,,Potter County,Harrison Twp
+Potter,Hebron Twp,U.S. House,12.0,Marc Friedenberg,DEM,48.0,,,Potter County,Hebron Twp
+Potter,Hector Twp,U.S. House,12.0,Marc Friedenberg,DEM,18.0,,,Potter County,Hector Twp
+Potter,Homer Twp,U.S. House,12.0,Marc Friedenberg,DEM,48.0,,,Potter County,Homer Twp
+Potter,Keating Twp,U.S. House,12.0,Marc Friedenberg,DEM,18.0,,,Potter County,Keating Twp
+Potter,Oswayo Boro,U.S. House,12.0,Marc Friedenberg,DEM,8.0,,,Potter County,Oswayo Boro
+Potter,Oswayo Twp,U.S. House,12.0,Marc Friedenberg,DEM,15.0,,,Potter County,Oswayo Twp
+Potter,Pike Twp,U.S. House,12.0,Marc Friedenberg,DEM,35.0,,,Potter County,Pike Twp
+Potter,Pleasant Valley Twp,U.S. House,12.0,Marc Friedenberg,DEM,6.0,,,Potter County,Pleasant Valley Twp
+Potter,Portage Twp,U.S. House,12.0,Marc Friedenberg,DEM,22.0,,,Potter County,Portage Twp
+Potter,Roulette Twp,U.S. House,12.0,Marc Friedenberg,DEM,90.0,,,Potter County,Roulette Twp
+Potter,N. Sharon Twp,U.S. House,12.0,Marc Friedenberg,DEM,21.0,,,Potter County,N. Sharon Twp
+Potter,S. Sharon Twp,U.S. House,12.0,Marc Friedenberg,DEM,32.0,,,Potter County,S. Sharon Twp
+Potter,Shinglehouse Boro,U.S. House,12.0,Marc Friedenberg,DEM,65.0,,,Potter County,Shinglehouse Boro
+Potter,Stewardson Twp,U.S. House,12.0,Marc Friedenberg,DEM,6.0,,,Potter County,Stewardson Twp
+Potter,Summit Twp,U.S. House,12.0,Marc Friedenberg,DEM,19.0,,,Potter County,Summit Twp
+Potter,Sweden Twp,U.S. House,12.0,Marc Friedenberg,DEM,82.0,,,Potter County,Sweden Twp
+Potter,Sylvania Twp,U.S. House,12.0,Marc Friedenberg,DEM,8.0,,,Potter County,Sylvania Twp
+Potter,Ulysses Boro,U.S. House,12.0,Marc Friedenberg,DEM,51.0,,,Potter County,Ulysses Boro
+Potter,Ulysses Twp,U.S. House,12.0,Marc Friedenberg,DEM,49.0,,,Potter County,Ulysses Twp
+Potter,West Branch Twp,U.S. House,12.0,Marc Friedenberg,DEM,48.0,,,Potter County,West Branch Twp
+Potter,Wharton Twp,U.S. House,12.0,Marc Friedenberg,DEM,14.0,,,Potter County,Wharton Twp
+Potter,Abbott Twp,U.S. House,12.0,Tom Marino,REP,95.0,,,Potter County,Abbott Twp
+Potter,Allegany Twp,U.S. House,12.0,Tom Marino,REP,159.0,,,Potter County,Allegany Twp
+Potter,Austin Boro,U.S. House,12.0,Tom Marino,REP,106.0,,,Potter County,Austin Boro
+Potter,Bingham Twp,U.S. House,12.0,Tom Marino,REP,159.0,,,Potter County,Bingham Twp
+Potter,Clara Twp,U.S. House,12.0,Tom Marino,REP,58.0,,,Potter County,Clara Twp
+Potter,Coudersport First Ward,U.S. House,12.0,Tom Marino,REP,235.0,,,Potter County,Coudersport First Ward
+Potter,Coudersport Second Ward,U.S. House,12.0,Tom Marino,REP,282.0,,,Potter County,Coudersport Second Ward
+Potter,Eulalia Twp,U.S. House,12.0,Tom Marino,REP,274.0,,,Potter County,Eulalia Twp
+Potter,Galeton First Ward,U.S. House,12.0,Tom Marino,REP,95.0,,,Potter County,Galeton First Ward
+Potter,Galeton Second Ward,U.S. House,12.0,Tom Marino,REP,131.0,,,Potter County,Galeton Second Ward
+Potter,Genesee Twp,U.S. House,12.0,Tom Marino,REP,217.0,,,Potter County,Genesee Twp
+Potter,Harrison Twp,U.S. House,12.0,Tom Marino,REP,278.0,,,Potter County,Harrison Twp
+Potter,Hebron Twp,U.S. House,12.0,Tom Marino,REP,231.0,,,Potter County,Hebron Twp
+Potter,Hector Twp,U.S. House,12.0,Tom Marino,REP,117.0,,,Potter County,Hector Twp
+Potter,Homer Twp,U.S. House,12.0,Tom Marino,REP,168.0,,,Potter County,Homer Twp
+Potter,Keating Twp,U.S. House,12.0,Tom Marino,REP,107.0,,,Potter County,Keating Twp
+Potter,Oswayo Boro,U.S. House,12.0,Tom Marino,REP,36.0,,,Potter County,Oswayo Boro
+Potter,Oswayo Twp,U.S. House,12.0,Tom Marino,REP,77.0,,,Potter County,Oswayo Twp
+Potter,Pike Twp,U.S. House,12.0,Tom Marino,REP,88.0,,,Potter County,Pike Twp
+Potter,Pleasant Valley Twp,U.S. House,12.0,Tom Marino,REP,32.0,,,Potter County,Pleasant Valley Twp
+Potter,Portage Twp,U.S. House,12.0,Tom Marino,REP,63.0,,,Potter County,Portage Twp
+Potter,Roulette Twp,U.S. House,12.0,Tom Marino,REP,296.0,,,Potter County,Roulette Twp
+Potter,N. Sharon Twp,U.S. House,12.0,Tom Marino,REP,101.0,,,Potter County,N. Sharon Twp
+Potter,S. Sharon Twp,U.S. House,12.0,Tom Marino,REP,158.0,,,Potter County,S. Sharon Twp
+Potter,Shinglehouse Boro,U.S. House,12.0,Tom Marino,REP,273.0,,,Potter County,Shinglehouse Boro
+Potter,Stewardson Twp,U.S. House,12.0,Tom Marino,REP,31.0,,,Potter County,Stewardson Twp
+Potter,Summit Twp,U.S. House,12.0,Tom Marino,REP,70.0,,,Potter County,Summit Twp
+Potter,Sweden Twp,U.S. House,12.0,Tom Marino,REP,277.0,,,Potter County,Sweden Twp
+Potter,Sylvania Twp,U.S. House,12.0,Tom Marino,REP,32.0,,,Potter County,Sylvania Twp
+Potter,Ulysses Boro,U.S. House,12.0,Tom Marino,REP,158.0,,,Potter County,Ulysses Boro
+Potter,Ulysses Twp,U.S. House,12.0,Tom Marino,REP,215.0,,,Potter County,Ulysses Twp
+Potter,West Branch Twp,U.S. House,12.0,Tom Marino,REP,139.0,,,Potter County,West Branch Twp
+Potter,Wharton Twp,U.S. House,12.0,Tom Marino,REP,51.0,,,Potter County,Wharton Twp
+Potter,Abbott Twp,U.S. House,12.0,Write-ins,,0.0,,,Potter County,Abbott Twp
+Potter,Allegany Twp,U.S. House,12.0,Write-ins,,0.0,,,Potter County,Allegany Twp
+Potter,Austin Boro,U.S. House,12.0,Write-ins,,0.0,,,Potter County,Austin Boro
+Potter,Bingham Twp,U.S. House,12.0,Write-ins,,0.0,,,Potter County,Bingham Twp
+Potter,Clara Twp,U.S. House,12.0,Write-ins,,0.0,,,Potter County,Clara Twp
+Potter,Coudersport First Ward,U.S. House,12.0,Write-ins,,0.0,,,Potter County,Coudersport First Ward
+Potter,Coudersport Second Ward,U.S. House,12.0,Write-ins,,2.0,,,Potter County,Coudersport Second Ward
+Potter,Eulalia Twp,U.S. House,12.0,Write-ins,,0.0,,,Potter County,Eulalia Twp
+Potter,Galeton First Ward,U.S. House,12.0,Write-ins,,0.0,,,Potter County,Galeton First Ward
+Potter,Galeton Second Ward,U.S. House,12.0,Write-ins,,0.0,,,Potter County,Galeton Second Ward
+Potter,Genesee Twp,U.S. House,12.0,Write-ins,,0.0,,,Potter County,Genesee Twp
+Potter,Harrison Twp,U.S. House,12.0,Write-ins,,0.0,,,Potter County,Harrison Twp
+Potter,Hebron Twp,U.S. House,12.0,Write-ins,,2.0,,,Potter County,Hebron Twp
+Potter,Hector Twp,U.S. House,12.0,Write-ins,,0.0,,,Potter County,Hector Twp
+Potter,Homer Twp,U.S. House,12.0,Write-ins,,0.0,,,Potter County,Homer Twp
+Potter,Keating Twp,U.S. House,12.0,Write-ins,,0.0,,,Potter County,Keating Twp
+Potter,Oswayo Boro,U.S. House,12.0,Write-ins,,0.0,,,Potter County,Oswayo Boro
+Potter,Oswayo Twp,U.S. House,12.0,Write-ins,,0.0,,,Potter County,Oswayo Twp
+Potter,Pike Twp,U.S. House,12.0,Write-ins,,0.0,,,Potter County,Pike Twp
+Potter,Pleasant Valley Twp,U.S. House,12.0,Write-ins,,0.0,,,Potter County,Pleasant Valley Twp
+Potter,Portage Twp,U.S. House,12.0,Write-ins,,0.0,,,Potter County,Portage Twp
+Potter,Roulette Twp,U.S. House,12.0,Write-ins,,0.0,,,Potter County,Roulette Twp
+Potter,N. Sharon Twp,U.S. House,12.0,Write-ins,,0.0,,,Potter County,N. Sharon Twp
+Potter,S. Sharon Twp,U.S. House,12.0,Write-ins,,0.0,,,Potter County,S. Sharon Twp
+Potter,Shinglehouse Boro,U.S. House,12.0,Write-ins,,0.0,,,Potter County,Shinglehouse Boro
+Potter,Stewardson Twp,U.S. House,12.0,Write-ins,,0.0,,,Potter County,Stewardson Twp
+Potter,Summit Twp,U.S. House,12.0,Write-ins,,0.0,,,Potter County,Summit Twp
+Potter,Sweden Twp,U.S. House,12.0,Write-ins,,0.0,,,Potter County,Sweden Twp
+Potter,Sylvania Twp,U.S. House,12.0,Write-ins,,0.0,,,Potter County,Sylvania Twp
+Potter,Ulysses Boro,U.S. House,12.0,Write-ins,,0.0,,,Potter County,Ulysses Boro
+Potter,Ulysses Twp,U.S. House,12.0,Write-ins,,0.0,,,Potter County,Ulysses Twp
+Potter,West Branch Twp,U.S. House,12.0,Write-ins,,0.0,,,Potter County,West Branch Twp
+Potter,Wharton Twp,U.S. House,12.0,Write-ins,,0.0,,,Potter County,Wharton Twp
+Potter,Abbott Twp,State House,67.0,Maryanne Cole,DEM,21.0,,,Potter County,Abbott Twp
+Potter,Allegany Twp,State House,67.0,Maryanne Cole,DEM,25.0,,,Potter County,Allegany Twp
+Potter,Austin Boro,State House,67.0,Maryanne Cole,DEM,55.0,,,Potter County,Austin Boro
+Potter,Bingham Twp,State House,67.0,Maryanne Cole,DEM,21.0,,,Potter County,Bingham Twp
+Potter,Clara Twp,State House,67.0,Maryanne Cole,DEM,11.0,,,Potter County,Clara Twp
+Potter,Coudersport First Ward,State House,67.0,Maryanne Cole,DEM,97.0,,,Potter County,Coudersport First Ward
+Potter,Coudersport Second Ward,State House,67.0,Maryanne Cole,DEM,137.0,,,Potter County,Coudersport Second Ward
+Potter,Eulalia Twp,State House,67.0,Maryanne Cole,DEM,44.0,,,Potter County,Eulalia Twp
+Potter,Genesee Twp,State House,67.0,Maryanne Cole,DEM,33.0,,,Potter County,Genesee Twp
+Potter,Harrison Twp,State House,67.0,Maryanne Cole,DEM,27.0,,,Potter County,Harrison Twp
+Potter,Hebron Twp,State House,67.0,Maryanne Cole,DEM,36.0,,,Potter County,Hebron Twp
+Potter,Hector Twp,State House,67.0,Maryanne Cole,DEM,18.0,,,Potter County,Hector Twp
+Potter,Homer Twp,State House,67.0,Maryanne Cole,DEM,34.0,,,Potter County,Homer Twp
+Potter,Keating Twp,State House,67.0,Maryanne Cole,DEM,13.0,,,Potter County,Keating Twp
+Potter,Oswayo Boro,State House,67.0,Maryanne Cole,DEM,7.0,,,Potter County,Oswayo Boro
+Potter,Oswayo Twp,State House,67.0,Maryanne Cole,DEM,14.0,,,Potter County,Oswayo Twp
+Potter,Pleasant Valley Twp,State House,67.0,Maryanne Cole,DEM,3.0,,,Potter County,Pleasant Valley Twp
+Potter,Portage Twp,State House,67.0,Maryanne Cole,DEM,18.0,,,Potter County,Portage Twp
+Potter,Roulette Twp,State House,67.0,Maryanne Cole,DEM,54.0,,,Potter County,Roulette Twp
+Potter,N. Sharon Twp,State House,67.0,Maryanne Cole,DEM,12.0,,,Potter County,N. Sharon Twp
+Potter,S. Sharon Twp,State House,67.0,Maryanne Cole,DEM,25.0,,,Potter County,S. Sharon Twp
+Potter,Shinglehouse Boro,State House,67.0,Maryanne Cole,DEM,56.0,,,Potter County,Shinglehouse Boro
+Potter,Stewardson Twp,State House,67.0,Maryanne Cole,DEM,4.0,,,Potter County,Stewardson Twp
+Potter,Summit Twp,State House,67.0,Maryanne Cole,DEM,16.0,,,Potter County,Summit Twp
+Potter,Sweden Twp,State House,67.0,Maryanne Cole,DEM,58.0,,,Potter County,Sweden Twp
+Potter,Sylvania Twp,State House,67.0,Maryanne Cole,DEM,6.0,,,Potter County,Sylvania Twp
+Potter,Ulysses Boro,State House,67.0,Maryanne Cole,DEM,38.0,,,Potter County,Ulysses Boro
+Potter,Ulysses Twp,State House,67.0,Maryanne Cole,DEM,36.0,,,Potter County,Ulysses Twp
+Potter,West Branch Twp,State House,67.0,Maryanne Cole,DEM,35.0,,,Potter County,West Branch Twp
+Potter,Wharton Twp,State House,67.0,Maryanne Cole,DEM,12.0,,,Potter County,Wharton Twp
+Potter,Abbott Twp,State House,67.0,Martin T. Causer,REP,97.0,,,Potter County,Abbott Twp
+Potter,Allegany Twp,State House,67.0,Martin T. Causer,REP,163.0,,,Potter County,Allegany Twp
+Potter,Austin Boro,State House,67.0,Martin T. Causer,REP,127.0,,,Potter County,Austin Boro
+Potter,Bingham Twp,State House,67.0,Martin T. Causer,REP,171.0,,,Potter County,Bingham Twp
+Potter,Clara Twp,State House,67.0,Martin T. Causer,REP,60.0,,,Potter County,Clara Twp
+Potter,Coudersport First Ward,State House,67.0,Martin T. Causer,REP,267.0,,,Potter County,Coudersport First Ward
+Potter,Coudersport Second Ward,State House,67.0,Martin T. Causer,REP,314.0,,,Potter County,Coudersport Second Ward
+Potter,Eulalia Twp,State House,67.0,Martin T. Causer,REP,293.0,,,Potter County,Eulalia Twp
+Potter,Genesee Twp,State House,67.0,Martin T. Causer,REP,231.0,,,Potter County,Genesee Twp
+Potter,Harrison Twp,State House,67.0,Martin T. Causer,REP,288.0,,,Potter County,Harrison Twp
+Potter,Hebron Twp,State House,67.0,Martin T. Causer,REP,240.0,,,Potter County,Hebron Twp
+Potter,Hector Twp,State House,67.0,Martin T. Causer,REP,117.0,,,Potter County,Hector Twp
+Potter,Homer Twp,State House,67.0,Martin T. Causer,REP,179.0,,,Potter County,Homer Twp
+Potter,Keating Twp,State House,67.0,Martin T. Causer,REP,114.0,,,Potter County,Keating Twp
+Potter,Oswayo Boro,State House,67.0,Martin T. Causer,REP,37.0,,,Potter County,Oswayo Boro
+Potter,Oswayo Twp,State House,67.0,Martin T. Causer,REP,82.0,,,Potter County,Oswayo Twp
+Potter,Pleasant Valley Twp,State House,67.0,Martin T. Causer,REP,35.0,,,Potter County,Pleasant Valley Twp
+Potter,Portage Twp,State House,67.0,Martin T. Causer,REP,67.0,,,Potter County,Portage Twp
+Potter,Roulette Twp,State House,67.0,Martin T. Causer,REP,334.0,,,Potter County,Roulette Twp
+Potter,N. Sharon Twp,State House,67.0,Martin T. Causer,REP,109.0,,,Potter County,N. Sharon Twp
+Potter,S. Sharon Twp,State House,67.0,Martin T. Causer,REP,164.0,,,Potter County,S. Sharon Twp
+Potter,Shinglehouse Boro,State House,67.0,Martin T. Causer,REP,286.0,,,Potter County,Shinglehouse Boro
+Potter,Stewardson Twp,State House,67.0,Martin T. Causer,REP,33.0,,,Potter County,Stewardson Twp
+Potter,Summit Twp,State House,67.0,Martin T. Causer,REP,73.0,,,Potter County,Summit Twp
+Potter,Sweden Twp,State House,67.0,Martin T. Causer,REP,301.0,,,Potter County,Sweden Twp
+Potter,Sylvania Twp,State House,67.0,Martin T. Causer,REP,34.0,,,Potter County,Sylvania Twp
+Potter,Ulysses Boro,State House,67.0,Martin T. Causer,REP,172.0,,,Potter County,Ulysses Boro
+Potter,Ulysses Twp,State House,67.0,Martin T. Causer,REP,228.0,,,Potter County,Ulysses Twp
+Potter,West Branch Twp,State House,67.0,Martin T. Causer,REP,152.0,,,Potter County,West Branch Twp
+Potter,Wharton Twp,State House,67.0,Martin T. Causer,REP,53.0,,,Potter County,Wharton Twp
+Potter,Abbott Twp,State House,67.0,Write-ins,,0.0,,,Potter County,Abbott Twp
+Potter,Allegany Twp,State House,67.0,Write-ins,,0.0,,,Potter County,Allegany Twp
+Potter,Austin Boro,State House,67.0,Write-ins,,0.0,,,Potter County,Austin Boro
+Potter,Bingham Twp,State House,67.0,Write-ins,,0.0,,,Potter County,Bingham Twp
+Potter,Clara Twp,State House,67.0,Write-ins,,0.0,,,Potter County,Clara Twp
+Potter,Coudersport First Ward,State House,67.0,Write-ins,,0.0,,,Potter County,Coudersport First Ward
+Potter,Coudersport Second Ward,State House,67.0,Write-ins,,0.0,,,Potter County,Coudersport Second Ward
+Potter,Eulalia Twp,State House,67.0,Write-ins,,0.0,,,Potter County,Eulalia Twp
+Potter,Genesee Twp,State House,67.0,Write-ins,,0.0,,,Potter County,Genesee Twp
+Potter,Harrison Twp,State House,67.0,Write-ins,,0.0,,,Potter County,Harrison Twp
+Potter,Hebron Twp,State House,67.0,Write-ins,,2.0,,,Potter County,Hebron Twp
+Potter,Hector Twp,State House,67.0,Write-ins,,0.0,,,Potter County,Hector Twp
+Potter,Homer Twp,State House,67.0,Write-ins,,1.0,,,Potter County,Homer Twp
+Potter,Keating Twp,State House,67.0,Write-ins,,0.0,,,Potter County,Keating Twp
+Potter,Oswayo Boro,State House,67.0,Write-ins,,0.0,,,Potter County,Oswayo Boro
+Potter,Oswayo Twp,State House,67.0,Write-ins,,0.0,,,Potter County,Oswayo Twp
+Potter,Pleasant Valley Twp,State House,67.0,Write-ins,,0.0,,,Potter County,Pleasant Valley Twp
+Potter,Portage Twp,State House,67.0,Write-ins,,0.0,,,Potter County,Portage Twp
+Potter,Roulette Twp,State House,67.0,Write-ins,,1.0,,,Potter County,Roulette Twp
+Potter,N. Sharon Twp,State House,67.0,Write-ins,,0.0,,,Potter County,N. Sharon Twp
+Potter,S. Sharon Twp,State House,67.0,Write-ins,,0.0,,,Potter County,S. Sharon Twp
+Potter,Shinglehouse Boro,State House,67.0,Write-ins,,0.0,,,Potter County,Shinglehouse Boro
+Potter,Stewardson Twp,State House,67.0,Write-ins,,0.0,,,Potter County,Stewardson Twp
+Potter,Summit Twp,State House,67.0,Write-ins,,0.0,,,Potter County,Summit Twp
+Potter,Sweden Twp,State House,67.0,Write-ins,,0.0,,,Potter County,Sweden Twp
+Potter,Sylvania Twp,State House,67.0,Write-ins,,0.0,,,Potter County,Sylvania Twp
+Potter,Ulysses Boro,State House,67.0,Write-ins,,0.0,,,Potter County,Ulysses Boro
+Potter,Ulysses Twp,State House,67.0,Write-ins,,0.0,,,Potter County,Ulysses Twp
+Potter,West Branch Twp,State House,67.0,Write-ins,,0.0,,,Potter County,West Branch Twp
+Potter,Wharton Twp,State House,67.0,Write-ins,,0.0,,,Potter County,Wharton Twp
+Potter,Galeton First Ward,State House,68.0,Carrie Heath,DEM,47.0,,,Potter County,Galeton First Ward
+Potter,Galeton Second Ward,State House,68.0,Carrie Heath,DEM,42.0,,,Potter County,Galeton Second Ward
+Potter,Pike Twp,State House,68.0,Carrie Heath,DEM,33.0,,,Potter County,Pike Twp
+Potter,Galeton First Ward,State House,68.0,Clint Owlett,REP,107.0,,,Potter County,Galeton First Ward
+Potter,Galeton Second Ward,State House,68.0,Clint Owlett,REP,136.0,,,Potter County,Galeton Second Ward
+Potter,Pike Twp,State House,68.0,Clint Owlett,REP,89.0,,,Potter County,Pike Twp
+Potter,Galeton First Ward,State House,68.0,Write-ins,,0.0,,,Potter County,Galeton First Ward
+Potter,Galeton Second Ward,State House,68.0,Write-ins,,0.0,,,Potter County,Galeton Second Ward
+Potter,Pike Twp,State House,68.0,Write-ins,,0.0,,,Potter County,Pike Twp

@@ -1,0 +1,508 @@
+county,precinct,office,district,candidate,party,votes,election_day,absentee,county_id,original_precinct_name
+Warren,BEAR LAKE Boro,U.S. Senate,,Bob Casey Jr.,DEM,15,,,Warren County,BEAR LAKE Boro
+Warren,BROKENSTRAW Twp,U.S. Senate,,Bob Casey Jr.,DEM,200,,,Warren County,BROKENSTRAW Twp
+Warren,CHERRY GROVE Twp,U.S. Senate,,Bob Casey Jr.,DEM,16,,,Warren County,CHERRY GROVE Twp
+Warren,CLARENDON Boro,U.S. Senate,,Bob Casey Jr.,DEM,37,,,Warren County,CLARENDON Boro
+Warren,COLUMBUS Twp,U.S. Senate,,Bob Casey Jr.,DEM,205,,,Warren County,COLUMBUS Twp
+Warren,CONEWANGO Twp 1,U.S. Senate,,Bob Casey Jr.,DEM,343,,,Warren County,CONEWANGO Twp 1
+Warren,CONEWANGO Twp 2,U.S. Senate,,Bob Casey Jr.,DEM,189,,,Warren County,CONEWANGO Twp 2
+Warren,DEERFIELD Twp,U.S. Senate,,Bob Casey Jr.,DEM,46,,,Warren County,DEERFIELD Twp
+Warren,ELDRED Twp,U.S. Senate,,Bob Casey Jr.,DEM,61,,,Warren County,ELDRED Twp
+Warren,ELK Twp,U.S. Senate,,Bob Casey Jr.,DEM,72,,,Warren County,ELK Twp
+Warren,FARMINGTON Twp,U.S. Senate,,Bob Casey Jr.,DEM,147,,,Warren County,FARMINGTON Twp
+Warren,FREEHOLD Twp,U.S. Senate,,Bob Casey Jr.,DEM,96,,,Warren County,FREEHOLD Twp
+Warren,GLADE Twp,U.S. Senate,,Bob Casey Jr.,DEM,316,,,Warren County,GLADE Twp
+Warren,LIMESTONE Twp,U.S. Senate,,Bob Casey Jr.,DEM,58,,,Warren County,LIMESTONE Twp
+Warren,MEAD Twp,U.S. Senate,,Bob Casey Jr.,DEM,176,,,Warren County,MEAD Twp
+Warren,PINE GROVE Twp,U.S. Senate,,Bob Casey Jr.,DEM,432,,,Warren County,PINE GROVE Twp
+Warren,PITTSFIELD Twp,U.S. Senate,,Bob Casey Jr.,DEM,145,,,Warren County,PITTSFIELD Twp
+Warren,PLEASANT Twp,U.S. Senate,,Bob Casey Jr.,DEM,397,,,Warren County,PLEASANT Twp
+Warren,SHEFFIELD Twp,U.S. Senate,,Bob Casey Jr.,DEM,254,,,Warren County,SHEFFIELD Twp
+Warren,SOUTHWEST Twp,U.S. Senate,,Bob Casey Jr.,DEM,28,,,Warren County,SOUTHWEST Twp
+Warren,SPRING CREEK Twp,U.S. Senate,,Bob Casey Jr.,DEM,87,,,Warren County,SPRING CREEK Twp
+Warren,SUGAR GROVE Twp,U.S. Senate,,Bob Casey Jr.,DEM,153,,,Warren County,SUGAR GROVE Twp
+Warren,SUGAR GROVE Boro,U.S. Senate,,Bob Casey Jr.,DEM,65,,,Warren County,SUGAR GROVE Boro
+Warren,TIDIOUTE Boro,U.S. Senate,,Bob Casey Jr.,DEM,91,,,Warren County,TIDIOUTE Boro
+Warren,TRIUMPH Twp,U.S. Senate,,Bob Casey Jr.,DEM,33,,,Warren County,TRIUMPH Twp
+Warren,WARREN City CENTRAL,U.S. Senate,,Bob Casey Jr.,DEM,184,,,Warren County,WARREN City CENTRAL
+Warren,WARREN City EAST,U.S. Senate,,Bob Casey Jr.,DEM,402,,,Warren County,WARREN City EAST
+Warren,WARREN City NORTH,U.S. Senate,,Bob Casey Jr.,DEM,223,,,Warren County,WARREN City NORTH
+Warren,WARREN City SOUTH,U.S. Senate,,Bob Casey Jr.,DEM,102,,,Warren County,WARREN City SOUTH
+Warren,WARREN City SOUTH EAST,U.S. Senate,,Bob Casey Jr.,DEM,346,,,Warren County,WARREN City SOUTH EAST
+Warren,WARREN City WEST,U.S. Senate,,Bob Casey Jr.,DEM,217,,,Warren County,WARREN City WEST
+Warren,WATSON Twp,U.S. Senate,,Bob Casey Jr.,DEM,51,,,Warren County,WATSON Twp
+Warren,YOUNGSVILLE Boro,U.S. Senate,,Bob Casey Jr.,DEM,203,,,Warren County,YOUNGSVILLE Boro
+Warren,BEAR LAKE Boro,U.S. Senate,,Lou Barletta,REP,43,,,Warren County,BEAR LAKE Boro
+Warren,BROKENSTRAW Twp,U.S. Senate,,Lou Barletta,REP,373,,,Warren County,BROKENSTRAW Twp
+Warren,CHERRY GROVE Twp,U.S. Senate,,Lou Barletta,REP,60,,,Warren County,CHERRY GROVE Twp
+Warren,CLARENDON Boro,U.S. Senate,,Lou Barletta,REP,72,,,Warren County,CLARENDON Boro
+Warren,COLUMBUS Twp,U.S. Senate,,Lou Barletta,REP,395,,,Warren County,COLUMBUS Twp
+Warren,CONEWANGO Twp 1,U.S. Senate,,Lou Barletta,REP,437,,,Warren County,CONEWANGO Twp 1
+Warren,CONEWANGO Twp 2,U.S. Senate,,Lou Barletta,REP,334,,,Warren County,CONEWANGO Twp 2
+Warren,DEERFIELD Twp,U.S. Senate,,Lou Barletta,REP,68,,,Warren County,DEERFIELD Twp
+Warren,ELDRED Twp,U.S. Senate,,Lou Barletta,REP,145,,,Warren County,ELDRED Twp
+Warren,ELK Twp,U.S. Senate,,Lou Barletta,REP,175,,,Warren County,ELK Twp
+Warren,FARMINGTON Twp,U.S. Senate,,Lou Barletta,REP,322,,,Warren County,FARMINGTON Twp
+Warren,FREEHOLD Twp,U.S. Senate,,Lou Barletta,REP,259,,,Warren County,FREEHOLD Twp
+Warren,GLADE Twp,U.S. Senate,,Lou Barletta,REP,592,,,Warren County,GLADE Twp
+Warren,LIMESTONE Twp,U.S. Senate,,Lou Barletta,REP,92,,,Warren County,LIMESTONE Twp
+Warren,MEAD Twp,U.S. Senate,,Lou Barletta,REP,311,,,Warren County,MEAD Twp
+Warren,PINE GROVE Twp,U.S. Senate,,Lou Barletta,REP,716,,,Warren County,PINE GROVE Twp
+Warren,PITTSFIELD Twp,U.S. Senate,,Lou Barletta,REP,297,,,Warren County,PITTSFIELD Twp
+Warren,PLEASANT Twp,U.S. Senate,,Lou Barletta,REP,582,,,Warren County,PLEASANT Twp
+Warren,SHEFFIELD Twp,U.S. Senate,,Lou Barletta,REP,363,,,Warren County,SHEFFIELD Twp
+Warren,SOUTHWEST Twp,U.S. Senate,,Lou Barletta,REP,106,,,Warren County,SOUTHWEST Twp
+Warren,SPRING CREEK Twp,U.S. Senate,,Lou Barletta,REP,197,,,Warren County,SPRING CREEK Twp
+Warren,SUGAR GROVE Twp,U.S. Senate,,Lou Barletta,REP,366,,,Warren County,SUGAR GROVE Twp
+Warren,SUGAR GROVE Boro,U.S. Senate,,Lou Barletta,REP,161,,,Warren County,SUGAR GROVE Boro
+Warren,TIDIOUTE Boro,U.S. Senate,,Lou Barletta,REP,148,,,Warren County,TIDIOUTE Boro
+Warren,TRIUMPH Twp,U.S. Senate,,Lou Barletta,REP,73,,,Warren County,TRIUMPH Twp
+Warren,WARREN City CENTRAL,U.S. Senate,,Lou Barletta,REP,173,,,Warren County,WARREN City CENTRAL
+Warren,WARREN City EAST,U.S. Senate,,Lou Barletta,REP,415,,,Warren County,WARREN City EAST
+Warren,WARREN City NORTH,U.S. Senate,,Lou Barletta,REP,292,,,Warren County,WARREN City NORTH
+Warren,WARREN City SOUTH,U.S. Senate,,Lou Barletta,REP,123,,,Warren County,WARREN City SOUTH
+Warren,WARREN City SOUTH EAST,U.S. Senate,,Lou Barletta,REP,371,,,Warren County,WARREN City SOUTH EAST
+Warren,WARREN City WEST,U.S. Senate,,Lou Barletta,REP,209,,,Warren County,WARREN City WEST
+Warren,WATSON Twp,U.S. Senate,,Lou Barletta,REP,65,,,Warren County,WATSON Twp
+Warren,YOUNGSVILLE Boro,U.S. Senate,,Lou Barletta,REP,399,,,Warren County,YOUNGSVILLE Boro
+Warren,BEAR LAKE Boro,U.S. Senate,,Neal Gale,GRN,0,,,Warren County,BEAR LAKE Boro
+Warren,BROKENSTRAW Twp,U.S. Senate,,Neal Gale,GRN,3,,,Warren County,BROKENSTRAW Twp
+Warren,CHERRY GROVE Twp,U.S. Senate,,Neal Gale,GRN,1,,,Warren County,CHERRY GROVE Twp
+Warren,CLARENDON Boro,U.S. Senate,,Neal Gale,GRN,1,,,Warren County,CLARENDON Boro
+Warren,COLUMBUS Twp,U.S. Senate,,Neal Gale,GRN,3,,,Warren County,COLUMBUS Twp
+Warren,CONEWANGO Twp 1,U.S. Senate,,Neal Gale,GRN,6,,,Warren County,CONEWANGO Twp 1
+Warren,CONEWANGO Twp 2,U.S. Senate,,Neal Gale,GRN,2,,,Warren County,CONEWANGO Twp 2
+Warren,DEERFIELD Twp,U.S. Senate,,Neal Gale,GRN,2,,,Warren County,DEERFIELD Twp
+Warren,ELDRED Twp,U.S. Senate,,Neal Gale,GRN,1,,,Warren County,ELDRED Twp
+Warren,ELK Twp,U.S. Senate,,Neal Gale,GRN,3,,,Warren County,ELK Twp
+Warren,FARMINGTON Twp,U.S. Senate,,Neal Gale,GRN,2,,,Warren County,FARMINGTON Twp
+Warren,FREEHOLD Twp,U.S. Senate,,Neal Gale,GRN,2,,,Warren County,FREEHOLD Twp
+Warren,GLADE Twp,U.S. Senate,,Neal Gale,GRN,6,,,Warren County,GLADE Twp
+Warren,LIMESTONE Twp,U.S. Senate,,Neal Gale,GRN,0,,,Warren County,LIMESTONE Twp
+Warren,MEAD Twp,U.S. Senate,,Neal Gale,GRN,4,,,Warren County,MEAD Twp
+Warren,PINE GROVE Twp,U.S. Senate,,Neal Gale,GRN,5,,,Warren County,PINE GROVE Twp
+Warren,PITTSFIELD Twp,U.S. Senate,,Neal Gale,GRN,5,,,Warren County,PITTSFIELD Twp
+Warren,PLEASANT Twp,U.S. Senate,,Neal Gale,GRN,2,,,Warren County,PLEASANT Twp
+Warren,SHEFFIELD Twp,U.S. Senate,,Neal Gale,GRN,2,,,Warren County,SHEFFIELD Twp
+Warren,SOUTHWEST Twp,U.S. Senate,,Neal Gale,GRN,3,,,Warren County,SOUTHWEST Twp
+Warren,SPRING CREEK Twp,U.S. Senate,,Neal Gale,GRN,2,,,Warren County,SPRING CREEK Twp
+Warren,SUGAR GROVE Twp,U.S. Senate,,Neal Gale,GRN,6,,,Warren County,SUGAR GROVE Twp
+Warren,SUGAR GROVE Boro,U.S. Senate,,Neal Gale,GRN,1,,,Warren County,SUGAR GROVE Boro
+Warren,TIDIOUTE Boro,U.S. Senate,,Neal Gale,GRN,2,,,Warren County,TIDIOUTE Boro
+Warren,TRIUMPH Twp,U.S. Senate,,Neal Gale,GRN,1,,,Warren County,TRIUMPH Twp
+Warren,WARREN City CENTRAL,U.S. Senate,,Neal Gale,GRN,2,,,Warren County,WARREN City CENTRAL
+Warren,WARREN City EAST,U.S. Senate,,Neal Gale,GRN,7,,,Warren County,WARREN City EAST
+Warren,WARREN City NORTH,U.S. Senate,,Neal Gale,GRN,3,,,Warren County,WARREN City NORTH
+Warren,WARREN City SOUTH,U.S. Senate,,Neal Gale,GRN,1,,,Warren County,WARREN City SOUTH
+Warren,WARREN City SOUTH EAST,U.S. Senate,,Neal Gale,GRN,6,,,Warren County,WARREN City SOUTH EAST
+Warren,WARREN City WEST,U.S. Senate,,Neal Gale,GRN,3,,,Warren County,WARREN City WEST
+Warren,WATSON Twp,U.S. Senate,,Neal Gale,GRN,0,,,Warren County,WATSON Twp
+Warren,YOUNGSVILLE Boro,U.S. Senate,,Neal Gale,GRN,5,,,Warren County,YOUNGSVILLE Boro
+Warren,BEAR LAKE Boro,U.S. Senate,,Dale R. Kerns Jr.,LIB,0,,,Warren County,BEAR LAKE Boro
+Warren,BROKENSTRAW Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,6,,,Warren County,BROKENSTRAW Twp
+Warren,CHERRY GROVE Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,0,,,Warren County,CHERRY GROVE Twp
+Warren,CLARENDON Boro,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Warren County,CLARENDON Boro
+Warren,COLUMBUS Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Warren County,COLUMBUS Twp
+Warren,CONEWANGO Twp 1,U.S. Senate,,Dale R. Kerns Jr.,LIB,14,,,Warren County,CONEWANGO Twp 1
+Warren,CONEWANGO Twp 2,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Warren County,CONEWANGO Twp 2
+Warren,DEERFIELD Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Warren County,DEERFIELD Twp
+Warren,ELDRED Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Warren County,ELDRED Twp
+Warren,ELK Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Warren County,ELK Twp
+Warren,FARMINGTON Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Warren County,FARMINGTON Twp
+Warren,FREEHOLD Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Warren County,FREEHOLD Twp
+Warren,GLADE Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Warren County,GLADE Twp
+Warren,LIMESTONE Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Warren County,LIMESTONE Twp
+Warren,MEAD Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Warren County,MEAD Twp
+Warren,PINE GROVE Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,10,,,Warren County,PINE GROVE Twp
+Warren,PITTSFIELD Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,6,,,Warren County,PITTSFIELD Twp
+Warren,PLEASANT Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,12,,,Warren County,PLEASANT Twp
+Warren,SHEFFIELD Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,11,,,Warren County,SHEFFIELD Twp
+Warren,SOUTHWEST Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Warren County,SOUTHWEST Twp
+Warren,SPRING CREEK Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,0,,,Warren County,SPRING CREEK Twp
+Warren,SUGAR GROVE Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Warren County,SUGAR GROVE Twp
+Warren,SUGAR GROVE Boro,U.S. Senate,,Dale R. Kerns Jr.,LIB,6,,,Warren County,SUGAR GROVE Boro
+Warren,TIDIOUTE Boro,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Warren County,TIDIOUTE Boro
+Warren,TRIUMPH Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,0,,,Warren County,TRIUMPH Twp
+Warren,WARREN City CENTRAL,U.S. Senate,,Dale R. Kerns Jr.,LIB,6,,,Warren County,WARREN City CENTRAL
+Warren,WARREN City EAST,U.S. Senate,,Dale R. Kerns Jr.,LIB,12,,,Warren County,WARREN City EAST
+Warren,WARREN City NORTH,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Warren County,WARREN City NORTH
+Warren,WARREN City SOUTH,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Warren County,WARREN City SOUTH
+Warren,WARREN City SOUTH EAST,U.S. Senate,,Dale R. Kerns Jr.,LIB,6,,,Warren County,WARREN City SOUTH EAST
+Warren,WARREN City WEST,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Warren County,WARREN City WEST
+Warren,WATSON Twp,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Warren County,WATSON Twp
+Warren,YOUNGSVILLE Boro,U.S. Senate,,Dale R. Kerns Jr.,LIB,10,,,Warren County,YOUNGSVILLE Boro
+Warren,BEAR LAKE Boro,Governor,,Tom Wolf,DEM,13,,,Warren County,BEAR LAKE Boro
+Warren,BROKENSTRAW Twp,Governor,,Tom Wolf,DEM,211,,,Warren County,BROKENSTRAW Twp
+Warren,CHERRY GROVE Twp,Governor,,Tom Wolf,DEM,12,,,Warren County,CHERRY GROVE Twp
+Warren,CLARENDON Boro,Governor,,Tom Wolf,DEM,36,,,Warren County,CLARENDON Boro
+Warren,COLUMBUS Twp,Governor,,Tom Wolf,DEM,227,,,Warren County,COLUMBUS Twp
+Warren,CONEWANGO Twp 1,Governor,,Tom Wolf,DEM,347,,,Warren County,CONEWANGO Twp 1
+Warren,CONEWANGO Twp 2,Governor,,Tom Wolf,DEM,194,,,Warren County,CONEWANGO Twp 2
+Warren,DEERFIELD Twp,Governor,,Tom Wolf,DEM,44,,,Warren County,DEERFIELD Twp
+Warren,ELDRED Twp,Governor,,Tom Wolf,DEM,54,,,Warren County,ELDRED Twp
+Warren,ELK Twp,Governor,,Tom Wolf,DEM,78,,,Warren County,ELK Twp
+Warren,FARMINGTON Twp,Governor,,Tom Wolf,DEM,144,,,Warren County,FARMINGTON Twp
+Warren,FREEHOLD Twp,Governor,,Tom Wolf,DEM,94,,,Warren County,FREEHOLD Twp
+Warren,GLADE Twp,Governor,,Tom Wolf,DEM,328,,,Warren County,GLADE Twp
+Warren,LIMESTONE Twp,Governor,,Tom Wolf,DEM,49,,,Warren County,LIMESTONE Twp
+Warren,MEAD Twp,Governor,,Tom Wolf,DEM,168,,,Warren County,MEAD Twp
+Warren,PINE GROVE Twp,Governor,,Tom Wolf,DEM,439,,,Warren County,PINE GROVE Twp
+Warren,PITTSFIELD Twp,Governor,,Tom Wolf,DEM,155,,,Warren County,PITTSFIELD Twp
+Warren,PLEASANT Twp,Governor,,Tom Wolf,DEM,401,,,Warren County,PLEASANT Twp
+Warren,SHEFFIELD Twp,Governor,,Tom Wolf,DEM,246,,,Warren County,SHEFFIELD Twp
+Warren,SOUTHWEST Twp,Governor,,Tom Wolf,DEM,25,,,Warren County,SOUTHWEST Twp
+Warren,SPRING CREEK Twp,Governor,,Tom Wolf,DEM,81,,,Warren County,SPRING CREEK Twp
+Warren,SUGAR GROVE Twp,Governor,,Tom Wolf,DEM,149,,,Warren County,SUGAR GROVE Twp
+Warren,SUGAR GROVE Boro,Governor,,Tom Wolf,DEM,66,,,Warren County,SUGAR GROVE Boro
+Warren,TIDIOUTE Boro,Governor,,Tom Wolf,DEM,86,,,Warren County,TIDIOUTE Boro
+Warren,TRIUMPH Twp,Governor,,Tom Wolf,DEM,34,,,Warren County,TRIUMPH Twp
+Warren,WARREN City CENTRAL,Governor,,Tom Wolf,DEM,188,,,Warren County,WARREN City CENTRAL
+Warren,WARREN City EAST,Governor,,Tom Wolf,DEM,407,,,Warren County,WARREN City EAST
+Warren,WARREN City NORTH,Governor,,Tom Wolf,DEM,246,,,Warren County,WARREN City NORTH
+Warren,WARREN City SOUTH,Governor,,Tom Wolf,DEM,109,,,Warren County,WARREN City SOUTH
+Warren,WARREN City SOUTH EAST,Governor,,Tom Wolf,DEM,348,,,Warren County,WARREN City SOUTH EAST
+Warren,WARREN City WEST,Governor,,Tom Wolf,DEM,206,,,Warren County,WARREN City WEST
+Warren,WATSON Twp,Governor,,Tom Wolf,DEM,54,,,Warren County,WATSON Twp
+Warren,YOUNGSVILLE Boro,Governor,,Tom Wolf,DEM,208,,,Warren County,YOUNGSVILLE Boro
+Warren,BEAR LAKE Boro,Governor,,Scott R. Wagner,REP,46,,,Warren County,BEAR LAKE Boro
+Warren,BROKENSTRAW Twp,Governor,,Scott R. Wagner,REP,370,,,Warren County,BROKENSTRAW Twp
+Warren,CHERRY GROVE Twp,Governor,,Scott R. Wagner,REP,64,,,Warren County,CHERRY GROVE Twp
+Warren,CLARENDON Boro,Governor,,Scott R. Wagner,REP,77,,,Warren County,CLARENDON Boro
+Warren,COLUMBUS Twp,Governor,,Scott R. Wagner,REP,375,,,Warren County,COLUMBUS Twp
+Warren,CONEWANGO Twp 1,Governor,,Scott R. Wagner,REP,437,,,Warren County,CONEWANGO Twp 1
+Warren,CONEWANGO Twp 2,Governor,,Scott R. Wagner,REP,327,,,Warren County,CONEWANGO Twp 2
+Warren,DEERFIELD Twp,Governor,,Scott R. Wagner,REP,71,,,Warren County,DEERFIELD Twp
+Warren,ELDRED Twp,Governor,,Scott R. Wagner,REP,150,,,Warren County,ELDRED Twp
+Warren,ELK Twp,Governor,,Scott R. Wagner,REP,173,,,Warren County,ELK Twp
+Warren,FARMINGTON Twp,Governor,,Scott R. Wagner,REP,324,,,Warren County,FARMINGTON Twp
+Warren,FREEHOLD Twp,Governor,,Scott R. Wagner,REP,268,,,Warren County,FREEHOLD Twp
+Warren,GLADE Twp,Governor,,Scott R. Wagner,REP,583,,,Warren County,GLADE Twp
+Warren,LIMESTONE Twp,Governor,,Scott R. Wagner,REP,100,,,Warren County,LIMESTONE Twp
+Warren,MEAD Twp,Governor,,Scott R. Wagner,REP,323,,,Warren County,MEAD Twp
+Warren,PINE GROVE Twp,Governor,,Scott R. Wagner,REP,710,,,Warren County,PINE GROVE Twp
+Warren,PITTSFIELD Twp,Governor,,Scott R. Wagner,REP,293,,,Warren County,PITTSFIELD Twp
+Warren,PLEASANT Twp,Governor,,Scott R. Wagner,REP,572,,,Warren County,PLEASANT Twp
+Warren,SHEFFIELD Twp,Governor,,Scott R. Wagner,REP,384,,,Warren County,SHEFFIELD Twp
+Warren,SOUTHWEST Twp,Governor,,Scott R. Wagner,REP,112,,,Warren County,SOUTHWEST Twp
+Warren,SPRING CREEK Twp,Governor,,Scott R. Wagner,REP,203,,,Warren County,SPRING CREEK Twp
+Warren,SUGAR GROVE Twp,Governor,,Scott R. Wagner,REP,377,,,Warren County,SUGAR GROVE Twp
+Warren,SUGAR GROVE Boro,Governor,,Scott R. Wagner,REP,160,,,Warren County,SUGAR GROVE Boro
+Warren,TIDIOUTE Boro,Governor,,Scott R. Wagner,REP,150,,,Warren County,TIDIOUTE Boro
+Warren,TRIUMPH Twp,Governor,,Scott R. Wagner,REP,74,,,Warren County,TRIUMPH Twp
+Warren,WARREN City CENTRAL,Governor,,Scott R. Wagner,REP,171,,,Warren County,WARREN City CENTRAL
+Warren,WARREN City EAST,Governor,,Scott R. Wagner,REP,418,,,Warren County,WARREN City EAST
+Warren,WARREN City NORTH,Governor,,Scott R. Wagner,REP,279,,,Warren County,WARREN City NORTH
+Warren,WARREN City SOUTH,Governor,,Scott R. Wagner,REP,119,,,Warren County,WARREN City SOUTH
+Warren,WARREN City SOUTH EAST,Governor,,Scott R. Wagner,REP,374,,,Warren County,WARREN City SOUTH EAST
+Warren,WARREN City WEST,Governor,,Scott R. Wagner,REP,218,,,Warren County,WARREN City WEST
+Warren,WATSON Twp,Governor,,Scott R. Wagner,REP,64,,,Warren County,WATSON Twp
+Warren,YOUNGSVILLE Boro,Governor,,Scott R. Wagner,REP,400,,,Warren County,YOUNGSVILLE Boro
+Warren,BEAR LAKE Boro,Governor,,Paul Glover,GRN,1,,,Warren County,BEAR LAKE Boro
+Warren,BROKENSTRAW Twp,Governor,,Paul Glover,GRN,6,,,Warren County,BROKENSTRAW Twp
+Warren,CHERRY GROVE Twp,Governor,,Paul Glover,GRN,0,,,Warren County,CHERRY GROVE Twp
+Warren,CLARENDON Boro,Governor,,Paul Glover,GRN,1,,,Warren County,CLARENDON Boro
+Warren,COLUMBUS Twp,Governor,,Paul Glover,GRN,4,,,Warren County,COLUMBUS Twp
+Warren,CONEWANGO Twp 1,Governor,,Paul Glover,GRN,5,,,Warren County,CONEWANGO Twp 1
+Warren,CONEWANGO Twp 2,Governor,,Paul Glover,GRN,2,,,Warren County,CONEWANGO Twp 2
+Warren,DEERFIELD Twp,Governor,,Paul Glover,GRN,3,,,Warren County,DEERFIELD Twp
+Warren,ELDRED Twp,Governor,,Paul Glover,GRN,1,,,Warren County,ELDRED Twp
+Warren,ELK Twp,Governor,,Paul Glover,GRN,3,,,Warren County,ELK Twp
+Warren,FARMINGTON Twp,Governor,,Paul Glover,GRN,6,,,Warren County,FARMINGTON Twp
+Warren,FREEHOLD Twp,Governor,,Paul Glover,GRN,1,,,Warren County,FREEHOLD Twp
+Warren,GLADE Twp,Governor,,Paul Glover,GRN,11,,,Warren County,GLADE Twp
+Warren,LIMESTONE Twp,Governor,,Paul Glover,GRN,0,,,Warren County,LIMESTONE Twp
+Warren,MEAD Twp,Governor,,Paul Glover,GRN,4,,,Warren County,MEAD Twp
+Warren,PINE GROVE Twp,Governor,,Paul Glover,GRN,9,,,Warren County,PINE GROVE Twp
+Warren,PITTSFIELD Twp,Governor,,Paul Glover,GRN,5,,,Warren County,PITTSFIELD Twp
+Warren,PLEASANT Twp,Governor,,Paul Glover,GRN,7,,,Warren County,PLEASANT Twp
+Warren,SHEFFIELD Twp,Governor,,Paul Glover,GRN,5,,,Warren County,SHEFFIELD Twp
+Warren,SOUTHWEST Twp,Governor,,Paul Glover,GRN,2,,,Warren County,SOUTHWEST Twp
+Warren,SPRING CREEK Twp,Governor,,Paul Glover,GRN,1,,,Warren County,SPRING CREEK Twp
+Warren,SUGAR GROVE Twp,Governor,,Paul Glover,GRN,6,,,Warren County,SUGAR GROVE Twp
+Warren,SUGAR GROVE Boro,Governor,,Paul Glover,GRN,3,,,Warren County,SUGAR GROVE Boro
+Warren,TIDIOUTE Boro,Governor,,Paul Glover,GRN,2,,,Warren County,TIDIOUTE Boro
+Warren,TRIUMPH Twp,Governor,,Paul Glover,GRN,0,,,Warren County,TRIUMPH Twp
+Warren,WARREN City CENTRAL,Governor,,Paul Glover,GRN,1,,,Warren County,WARREN City CENTRAL
+Warren,WARREN City EAST,Governor,,Paul Glover,GRN,7,,,Warren County,WARREN City EAST
+Warren,WARREN City NORTH,Governor,,Paul Glover,GRN,4,,,Warren County,WARREN City NORTH
+Warren,WARREN City SOUTH,Governor,,Paul Glover,GRN,0,,,Warren County,WARREN City SOUTH
+Warren,WARREN City SOUTH EAST,Governor,,Paul Glover,GRN,5,,,Warren County,WARREN City SOUTH EAST
+Warren,WARREN City WEST,Governor,,Paul Glover,GRN,0,,,Warren County,WARREN City WEST
+Warren,WATSON Twp,Governor,,Paul Glover,GRN,1,,,Warren County,WATSON Twp
+Warren,YOUNGSVILLE Boro,Governor,,Paul Glover,GRN,2,,,Warren County,YOUNGSVILLE Boro
+Warren,BEAR LAKE Boro,Governor,,Ken V. Krawchuk,LIB,0,,,Warren County,BEAR LAKE Boro
+Warren,BROKENSTRAW Twp,Governor,,Ken V. Krawchuk,LIB,3,,,Warren County,BROKENSTRAW Twp
+Warren,CHERRY GROVE Twp,Governor,,Ken V. Krawchuk,LIB,1,,,Warren County,CHERRY GROVE Twp
+Warren,CLARENDON Boro,Governor,,Ken V. Krawchuk,LIB,5,,,Warren County,CLARENDON Boro
+Warren,COLUMBUS Twp,Governor,,Ken V. Krawchuk,LIB,5,,,Warren County,COLUMBUS Twp
+Warren,CONEWANGO Twp 1,Governor,,Ken V. Krawchuk,LIB,12,,,Warren County,CONEWANGO Twp 1
+Warren,CONEWANGO Twp 2,Governor,,Ken V. Krawchuk,LIB,6,,,Warren County,CONEWANGO Twp 2
+Warren,DEERFIELD Twp,Governor,,Ken V. Krawchuk,LIB,3,,,Warren County,DEERFIELD Twp
+Warren,ELDRED Twp,Governor,,Ken V. Krawchuk,LIB,5,,,Warren County,ELDRED Twp
+Warren,ELK Twp,Governor,,Ken V. Krawchuk,LIB,0,,,Warren County,ELK Twp
+Warren,FARMINGTON Twp,Governor,,Ken V. Krawchuk,LIB,7,,,Warren County,FARMINGTON Twp
+Warren,FREEHOLD Twp,Governor,,Ken V. Krawchuk,LIB,4,,,Warren County,FREEHOLD Twp
+Warren,GLADE Twp,Governor,,Ken V. Krawchuk,LIB,3,,,Warren County,GLADE Twp
+Warren,LIMESTONE Twp,Governor,,Ken V. Krawchuk,LIB,2,,,Warren County,LIMESTONE Twp
+Warren,MEAD Twp,Governor,,Ken V. Krawchuk,LIB,4,,,Warren County,MEAD Twp
+Warren,PINE GROVE Twp,Governor,,Ken V. Krawchuk,LIB,14,,,Warren County,PINE GROVE Twp
+Warren,PITTSFIELD Twp,Governor,,Ken V. Krawchuk,LIB,6,,,Warren County,PITTSFIELD Twp
+Warren,PLEASANT Twp,Governor,,Ken V. Krawchuk,LIB,18,,,Warren County,PLEASANT Twp
+Warren,SHEFFIELD Twp,Governor,,Ken V. Krawchuk,LIB,9,,,Warren County,SHEFFIELD Twp
+Warren,SOUTHWEST Twp,Governor,,Ken V. Krawchuk,LIB,2,,,Warren County,SOUTHWEST Twp
+Warren,SPRING CREEK Twp,Governor,,Ken V. Krawchuk,LIB,3,,,Warren County,SPRING CREEK Twp
+Warren,SUGAR GROVE Twp,Governor,,Ken V. Krawchuk,LIB,1,,,Warren County,SUGAR GROVE Twp
+Warren,SUGAR GROVE Boro,Governor,,Ken V. Krawchuk,LIB,3,,,Warren County,SUGAR GROVE Boro
+Warren,TIDIOUTE Boro,Governor,,Ken V. Krawchuk,LIB,3,,,Warren County,TIDIOUTE Boro
+Warren,TRIUMPH Twp,Governor,,Ken V. Krawchuk,LIB,0,,,Warren County,TRIUMPH Twp
+Warren,WARREN City CENTRAL,Governor,,Ken V. Krawchuk,LIB,6,,,Warren County,WARREN City CENTRAL
+Warren,WARREN City EAST,Governor,,Ken V. Krawchuk,LIB,9,,,Warren County,WARREN City EAST
+Warren,WARREN City NORTH,Governor,,Ken V. Krawchuk,LIB,5,,,Warren County,WARREN City NORTH
+Warren,WARREN City SOUTH,Governor,,Ken V. Krawchuk,LIB,3,,,Warren County,WARREN City SOUTH
+Warren,WARREN City SOUTH EAST,Governor,,Ken V. Krawchuk,LIB,6,,,Warren County,WARREN City SOUTH EAST
+Warren,WARREN City WEST,Governor,,Ken V. Krawchuk,LIB,5,,,Warren County,WARREN City WEST
+Warren,WATSON Twp,Governor,,Ken V. Krawchuk,LIB,2,,,Warren County,WATSON Twp
+Warren,YOUNGSVILLE Boro,Governor,,Ken V. Krawchuk,LIB,7,,,Warren County,YOUNGSVILLE Boro
+Warren,BEAR LAKE Boro,U.S. House,15.0,Susan Boser,DEM,12,,,Warren County,BEAR LAKE Boro
+Warren,BROKENSTRAW Twp,U.S. House,15.0,Susan Boser,DEM,179,,,Warren County,BROKENSTRAW Twp
+Warren,CHERRY GROVE Twp,U.S. House,15.0,Susan Boser,DEM,12,,,Warren County,CHERRY GROVE Twp
+Warren,CLARENDON Boro,U.S. House,15.0,Susan Boser,DEM,30,,,Warren County,CLARENDON Boro
+Warren,COLUMBUS Twp,U.S. House,15.0,Susan Boser,DEM,189,,,Warren County,COLUMBUS Twp
+Warren,CONEWANGO Twp 1,U.S. House,15.0,Susan Boser,DEM,298,,,Warren County,CONEWANGO Twp 1
+Warren,CONEWANGO Twp 2,U.S. House,15.0,Susan Boser,DEM,173,,,Warren County,CONEWANGO Twp 2
+Warren,DEERFIELD Twp,U.S. House,15.0,Susan Boser,DEM,46,,,Warren County,DEERFIELD Twp
+Warren,ELDRED Twp,U.S. House,15.0,Susan Boser,DEM,56,,,Warren County,ELDRED Twp
+Warren,ELK Twp,U.S. House,15.0,Susan Boser,DEM,66,,,Warren County,ELK Twp
+Warren,FARMINGTON Twp,U.S. House,15.0,Susan Boser,DEM,116,,,Warren County,FARMINGTON Twp
+Warren,FREEHOLD Twp,U.S. House,15.0,Susan Boser,DEM,85,,,Warren County,FREEHOLD Twp
+Warren,GLADE Twp,U.S. House,15.0,Susan Boser,DEM,276,,,Warren County,GLADE Twp
+Warren,LIMESTONE Twp,U.S. House,15.0,Susan Boser,DEM,49,,,Warren County,LIMESTONE Twp
+Warren,MEAD Twp,U.S. House,15.0,Susan Boser,DEM,149,,,Warren County,MEAD Twp
+Warren,PINE GROVE Twp,U.S. House,15.0,Susan Boser,DEM,385,,,Warren County,PINE GROVE Twp
+Warren,PITTSFIELD Twp,U.S. House,15.0,Susan Boser,DEM,144,,,Warren County,PITTSFIELD Twp
+Warren,PLEASANT Twp,U.S. House,15.0,Susan Boser,DEM,343,,,Warren County,PLEASANT Twp
+Warren,SHEFFIELD Twp,U.S. House,15.0,Susan Boser,DEM,195,,,Warren County,SHEFFIELD Twp
+Warren,SOUTHWEST Twp,U.S. House,15.0,Susan Boser,DEM,24,,,Warren County,SOUTHWEST Twp
+Warren,SPRING CREEK Twp,U.S. House,15.0,Susan Boser,DEM,69,,,Warren County,SPRING CREEK Twp
+Warren,SUGAR GROVE Twp,U.S. House,15.0,Susan Boser,DEM,141,,,Warren County,SUGAR GROVE Twp
+Warren,SUGAR GROVE Boro,U.S. House,15.0,Susan Boser,DEM,59,,,Warren County,SUGAR GROVE Boro
+Warren,TIDIOUTE Boro,U.S. House,15.0,Susan Boser,DEM,76,,,Warren County,TIDIOUTE Boro
+Warren,TRIUMPH Twp,U.S. House,15.0,Susan Boser,DEM,29,,,Warren County,TRIUMPH Twp
+Warren,WARREN City CENTRAL,U.S. House,15.0,Susan Boser,DEM,181,,,Warren County,WARREN City CENTRAL
+Warren,WARREN City EAST,U.S. House,15.0,Susan Boser,DEM,377,,,Warren County,WARREN City EAST
+Warren,WARREN City NORTH,U.S. House,15.0,Susan Boser,DEM,201,,,Warren County,WARREN City NORTH
+Warren,WARREN City SOUTH,U.S. House,15.0,Susan Boser,DEM,87,,,Warren County,WARREN City SOUTH
+Warren,WARREN City SOUTH EAST,U.S. House,15.0,Susan Boser,DEM,314,,,Warren County,WARREN City SOUTH EAST
+Warren,WARREN City WEST,U.S. House,15.0,Susan Boser,DEM,182,,,Warren County,WARREN City WEST
+Warren,WATSON Twp,U.S. House,15.0,Susan Boser,DEM,49,,,Warren County,WATSON Twp
+Warren,YOUNGSVILLE Boro,U.S. House,15.0,Susan Boser,DEM,178,,,Warren County,YOUNGSVILLE Boro
+Warren,BEAR LAKE Boro,U.S. House,15.0,Glenn Thompson,REP,49,,,Warren County,BEAR LAKE Boro
+Warren,BROKENSTRAW Twp,U.S. House,15.0,Glenn Thompson,REP,408,,,Warren County,BROKENSTRAW Twp
+Warren,CHERRY GROVE Twp,U.S. House,15.0,Glenn Thompson,REP,64,,,Warren County,CHERRY GROVE Twp
+Warren,CLARENDON Boro,U.S. House,15.0,Glenn Thompson,REP,91,,,Warren County,CLARENDON Boro
+Warren,COLUMBUS Twp,U.S. House,15.0,Glenn Thompson,REP,423,,,Warren County,COLUMBUS Twp
+Warren,CONEWANGO Twp 1,U.S. House,15.0,Glenn Thompson,REP,507,,,Warren County,CONEWANGO Twp 1
+Warren,CONEWANGO Twp 2,U.S. House,15.0,Glenn Thompson,REP,354,,,Warren County,CONEWANGO Twp 2
+Warren,DEERFIELD Twp,U.S. House,15.0,Glenn Thompson,REP,72,,,Warren County,DEERFIELD Twp
+Warren,ELDRED Twp,U.S. House,15.0,Glenn Thompson,REP,156,,,Warren County,ELDRED Twp
+Warren,ELK Twp,U.S. House,15.0,Glenn Thompson,REP,186,,,Warren County,ELK Twp
+Warren,FARMINGTON Twp,U.S. House,15.0,Glenn Thompson,REP,360,,,Warren County,FARMINGTON Twp
+Warren,FREEHOLD Twp,U.S. House,15.0,Glenn Thompson,REP,277,,,Warren County,FREEHOLD Twp
+Warren,GLADE Twp,U.S. House,15.0,Glenn Thompson,REP,652,,,Warren County,GLADE Twp
+Warren,LIMESTONE Twp,U.S. House,15.0,Glenn Thompson,REP,100,,,Warren County,LIMESTONE Twp
+Warren,MEAD Twp,U.S. House,15.0,Glenn Thompson,REP,348,,,Warren County,MEAD Twp
+Warren,PINE GROVE Twp,U.S. House,15.0,Glenn Thompson,REP,785,,,Warren County,PINE GROVE Twp
+Warren,PITTSFIELD Twp,U.S. House,15.0,Glenn Thompson,REP,315,,,Warren County,PITTSFIELD Twp
+Warren,PLEASANT Twp,U.S. House,15.0,Glenn Thompson,REP,651,,,Warren County,PLEASANT Twp
+Warren,SHEFFIELD Twp,U.S. House,15.0,Glenn Thompson,REP,436,,,Warren County,SHEFFIELD Twp
+Warren,SOUTHWEST Twp,U.S. House,15.0,Glenn Thompson,REP,118,,,Warren County,SOUTHWEST Twp
+Warren,SPRING CREEK Twp,U.S. House,15.0,Glenn Thompson,REP,219,,,Warren County,SPRING CREEK Twp
+Warren,SUGAR GROVE Twp,U.S. House,15.0,Glenn Thompson,REP,387,,,Warren County,SUGAR GROVE Twp
+Warren,SUGAR GROVE Boro,U.S. House,15.0,Glenn Thompson,REP,174,,,Warren County,SUGAR GROVE Boro
+Warren,TIDIOUTE Boro,U.S. House,15.0,Glenn Thompson,REP,168,,,Warren County,TIDIOUTE Boro
+Warren,TRIUMPH Twp,U.S. House,15.0,Glenn Thompson,REP,78,,,Warren County,TRIUMPH Twp
+Warren,WARREN City CENTRAL,U.S. House,15.0,Glenn Thompson,REP,184,,,Warren County,WARREN City CENTRAL
+Warren,WARREN City EAST,U.S. House,15.0,Glenn Thompson,REP,455,,,Warren County,WARREN City EAST
+Warren,WARREN City NORTH,U.S. House,15.0,Glenn Thompson,REP,324,,,Warren County,WARREN City NORTH
+Warren,WARREN City SOUTH,U.S. House,15.0,Glenn Thompson,REP,144,,,Warren County,WARREN City SOUTH
+Warren,WARREN City SOUTH EAST,U.S. House,15.0,Glenn Thompson,REP,414,,,Warren County,WARREN City SOUTH EAST
+Warren,WARREN City WEST,U.S. House,15.0,Glenn Thompson,REP,252,,,Warren County,WARREN City WEST
+Warren,WATSON Twp,U.S. House,15.0,Glenn Thompson,REP,70,,,Warren County,WATSON Twp
+Warren,YOUNGSVILLE Boro,U.S. House,15.0,Glenn Thompson,REP,439,,,Warren County,YOUNGSVILLE Boro
+Warren,COLUMBUS Twp,State Senate,50.0,Sue Mulvey,DEM,171,,,Warren County,COLUMBUS Twp
+Warren,ELDRED Twp,State Senate,50.0,Sue Mulvey,DEM,49,,,Warren County,ELDRED Twp
+Warren,SOUTHWEST Twp,State Senate,50.0,Sue Mulvey,DEM,17,,,Warren County,SOUTHWEST Twp
+Warren,SPRING CREEK Twp,State Senate,50.0,Sue Mulvey,DEM,64,,,Warren County,SPRING CREEK Twp
+Warren,COLUMBUS Twp,State Senate,50.0,Michele Brooks,REP,444,,,Warren County,COLUMBUS Twp
+Warren,ELDRED Twp,State Senate,50.0,Michele Brooks,REP,162,,,Warren County,ELDRED Twp
+Warren,SOUTHWEST Twp,State Senate,50.0,Michele Brooks,REP,123,,,Warren County,SOUTHWEST Twp
+Warren,SPRING CREEK Twp,State Senate,50.0,Michele Brooks,REP,223,,,Warren County,SPRING CREEK Twp
+Warren,BEAR LAKE Boro,State House,65.0,Kathy L. Rapp,REP,54,,,Warren County,BEAR LAKE Boro
+Warren,BROKENSTRAW Twp,State House,65.0,Kathy L. Rapp,REP,466,,,Warren County,BROKENSTRAW Twp
+Warren,CHERRY GROVE Twp,State House,65.0,Kathy L. Rapp,REP,69,,,Warren County,CHERRY GROVE Twp
+Warren,CLARENDON Boro,State House,65.0,Kathy L. Rapp,REP,93,,,Warren County,CLARENDON Boro
+Warren,COLUMBUS Twp,State House,65.0,Kathy L. Rapp,REP,484,,,Warren County,COLUMBUS Twp
+Warren,CONEWANGO Twp 1,State House,65.0,Kathy L. Rapp,REP,582,,,Warren County,CONEWANGO Twp 1
+Warren,CONEWANGO Twp 2,State House,65.0,Kathy L. Rapp,REP,400,,,Warren County,CONEWANGO Twp 2
+Warren,DEERFIELD Twp,State House,65.0,Kathy L. Rapp,REP,87,,,Warren County,DEERFIELD Twp
+Warren,ELDRED Twp,State House,65.0,Kathy L. Rapp,REP,185,,,Warren County,ELDRED Twp
+Warren,ELK Twp,State House,65.0,Kathy L. Rapp,REP,207,,,Warren County,ELK Twp
+Warren,FARMINGTON Twp,State House,65.0,Kathy L. Rapp,REP,398,,,Warren County,FARMINGTON Twp
+Warren,FREEHOLD Twp,State House,65.0,Kathy L. Rapp,REP,305,,,Warren County,FREEHOLD Twp
+Warren,GLADE Twp,State House,65.0,Kathy L. Rapp,REP,703,,,Warren County,GLADE Twp
+Warren,LIMESTONE Twp,State House,65.0,Kathy L. Rapp,REP,116,,,Warren County,LIMESTONE Twp
+Warren,MEAD Twp,State House,65.0,Kathy L. Rapp,REP,406,,,Warren County,MEAD Twp
+Warren,PINE GROVE Twp,State House,65.0,Kathy L. Rapp,REP,903,,,Warren County,PINE GROVE Twp
+Warren,PITTSFIELD Twp,State House,65.0,Kathy L. Rapp,REP,359,,,Warren County,PITTSFIELD Twp
+Warren,PLEASANT Twp,State House,65.0,Kathy L. Rapp,REP,745,,,Warren County,PLEASANT Twp
+Warren,SHEFFIELD Twp,State House,65.0,Kathy L. Rapp,REP,515,,,Warren County,SHEFFIELD Twp
+Warren,SOUTHWEST Twp,State House,65.0,Kathy L. Rapp,REP,126,,,Warren County,SOUTHWEST Twp
+Warren,SPRING CREEK Twp,State House,65.0,Kathy L. Rapp,REP,246,,,Warren County,SPRING CREEK Twp
+Warren,SUGAR GROVE Twp,State House,65.0,Kathy L. Rapp,REP,445,,,Warren County,SUGAR GROVE Twp
+Warren,SUGAR GROVE Boro,State House,65.0,Kathy L. Rapp,REP,193,,,Warren County,SUGAR GROVE Boro
+Warren,TIDIOUTE Boro,State House,65.0,Kathy L. Rapp,REP,194,,,Warren County,TIDIOUTE Boro
+Warren,TRIUMPH Twp,State House,65.0,Kathy L. Rapp,REP,84,,,Warren County,TRIUMPH Twp
+Warren,WARREN City CENTRAL,State House,65.0,Kathy L. Rapp,REP,239,,,Warren County,WARREN City CENTRAL
+Warren,WARREN City EAST,State House,65.0,Kathy L. Rapp,REP,574,,,Warren County,WARREN City EAST
+Warren,WARREN City NORTH,State House,65.0,Kathy L. Rapp,REP,379,,,Warren County,WARREN City NORTH
+Warren,WARREN City SOUTH,State House,65.0,Kathy L. Rapp,REP,173,,,Warren County,WARREN City SOUTH
+Warren,WARREN City SOUTH EAST,State House,65.0,Kathy L. Rapp,REP,502,,,Warren County,WARREN City SOUTH EAST
+Warren,WARREN City WEST,State House,65.0,Kathy L. Rapp,REP,307,,,Warren County,WARREN City WEST
+Warren,WATSON Twp,State House,65.0,Kathy L. Rapp,REP,92,,,Warren County,WATSON Twp
+Warren,YOUNGSVILLE Boro,State House,65.0,Kathy L. Rapp,REP,473,,,Warren County,YOUNGSVILLE Boro
+Warren,BEAR LAKE Boro,U.S. Senate,,Write-ins,,0,,,Warren County,BEAR LAKE Boro
+Warren,BROKENSTRAW Twp,U.S. Senate,,Write-ins,,0,,,Warren County,BROKENSTRAW Twp
+Warren,CHERRY GROVE Twp,U.S. Senate,,Write-ins,,0,,,Warren County,CHERRY GROVE Twp
+Warren,CLARENDON Boro,U.S. Senate,,Write-ins,,0,,,Warren County,CLARENDON Boro
+Warren,COLUMBUS Twp,U.S. Senate,,Write-ins,,0,,,Warren County,COLUMBUS Twp
+Warren,CONEWANGO Twp 1,U.S. Senate,,Write-ins,,0,,,Warren County,CONEWANGO Twp 1
+Warren,CONEWANGO Twp 2,U.S. Senate,,Write-ins,,0,,,Warren County,CONEWANGO Twp 2
+Warren,DEERFIELD Twp,U.S. Senate,,Write-ins,,0,,,Warren County,DEERFIELD Twp
+Warren,ELDRED Twp,U.S. Senate,,Write-ins,,0,,,Warren County,ELDRED Twp
+Warren,ELK Twp,U.S. Senate,,Write-ins,,0,,,Warren County,ELK Twp
+Warren,FARMINGTON Twp,U.S. Senate,,Write-ins,,0,,,Warren County,FARMINGTON Twp
+Warren,FREEHOLD Twp,U.S. Senate,,Write-ins,,0,,,Warren County,FREEHOLD Twp
+Warren,GLADE Twp,U.S. Senate,,Write-ins,,1,,,Warren County,GLADE Twp
+Warren,LIMESTONE Twp,U.S. Senate,,Write-ins,,0,,,Warren County,LIMESTONE Twp
+Warren,MEAD Twp,U.S. Senate,,Write-ins,,0,,,Warren County,MEAD Twp
+Warren,PINE GROVE Twp,U.S. Senate,,Write-ins,,0,,,Warren County,PINE GROVE Twp
+Warren,PITTSFIELD Twp,U.S. Senate,,Write-ins,,0,,,Warren County,PITTSFIELD Twp
+Warren,PLEASANT Twp,U.S. Senate,,Write-ins,,0,,,Warren County,PLEASANT Twp
+Warren,SHEFFIELD Twp,U.S. Senate,,Write-ins,,1,,,Warren County,SHEFFIELD Twp
+Warren,SOUTHWEST Twp,U.S. Senate,,Write-ins,,0,,,Warren County,SOUTHWEST Twp
+Warren,SPRING CREEK Twp,U.S. Senate,,Write-ins,,0,,,Warren County,SPRING CREEK Twp
+Warren,SUGAR GROVE Twp,U.S. Senate,,Write-ins,,0,,,Warren County,SUGAR GROVE Twp
+Warren,SUGAR GROVE Boro,U.S. Senate,,Write-ins,,0,,,Warren County,SUGAR GROVE Boro
+Warren,TIDIOUTE Boro,U.S. Senate,,Write-ins,,1,,,Warren County,TIDIOUTE Boro
+Warren,TRIUMPH Twp,U.S. Senate,,Write-ins,,0,,,Warren County,TRIUMPH Twp
+Warren,WARREN City CENTRAL,U.S. Senate,,Write-ins,,2,,,Warren County,WARREN City CENTRAL
+Warren,WARREN City EAST,U.S. Senate,,Write-ins,,1,,,Warren County,WARREN City EAST
+Warren,WARREN City NORTH,U.S. Senate,,Write-ins,,0,,,Warren County,WARREN City NORTH
+Warren,WARREN City SOUTH,U.S. Senate,,Write-ins,,0,,,Warren County,WARREN City SOUTH
+Warren,WARREN City SOUTH EAST,U.S. Senate,,Write-ins,,0,,,Warren County,WARREN City SOUTH EAST
+Warren,WARREN City WEST,U.S. Senate,,Write-ins,,1,,,Warren County,WARREN City WEST
+Warren,WATSON Twp,U.S. Senate,,Write-ins,,0,,,Warren County,WATSON Twp
+Warren,YOUNGSVILLE Boro,U.S. Senate,,Write-ins,,0,,,Warren County,YOUNGSVILLE Boro
+Warren,BEAR LAKE Boro,Governor,,Write-ins,,0,,,Warren County,BEAR LAKE Boro
+Warren,BROKENSTRAW Twp,Governor,,Write-ins,,0,,,Warren County,BROKENSTRAW Twp
+Warren,CHERRY GROVE Twp,Governor,,Write-ins,,0,,,Warren County,CHERRY GROVE Twp
+Warren,CLARENDON Boro,Governor,,Write-ins,,0,,,Warren County,CLARENDON Boro
+Warren,COLUMBUS Twp,Governor,,Write-ins,,4,,,Warren County,COLUMBUS Twp
+Warren,CONEWANGO Twp 1,Governor,,Write-ins,,0,,,Warren County,CONEWANGO Twp 1
+Warren,CONEWANGO Twp 2,Governor,,Write-ins,,0,,,Warren County,CONEWANGO Twp 2
+Warren,DEERFIELD Twp,Governor,,Write-ins,,0,,,Warren County,DEERFIELD Twp
+Warren,ELDRED Twp,Governor,,Write-ins,,0,,,Warren County,ELDRED Twp
+Warren,ELK Twp,Governor,,Write-ins,,0,,,Warren County,ELK Twp
+Warren,FARMINGTON Twp,Governor,,Write-ins,,0,,,Warren County,FARMINGTON Twp
+Warren,FREEHOLD Twp,Governor,,Write-ins,,0,,,Warren County,FREEHOLD Twp
+Warren,GLADE Twp,Governor,,Write-ins,,1,,,Warren County,GLADE Twp
+Warren,LIMESTONE Twp,Governor,,Write-ins,,0,,,Warren County,LIMESTONE Twp
+Warren,MEAD Twp,Governor,,Write-ins,,1,,,Warren County,MEAD Twp
+Warren,PINE GROVE Twp,Governor,,Write-ins,,1,,,Warren County,PINE GROVE Twp
+Warren,PITTSFIELD Twp,Governor,,Write-ins,,0,,,Warren County,PITTSFIELD Twp
+Warren,PLEASANT Twp,Governor,,Write-ins,,0,,,Warren County,PLEASANT Twp
+Warren,SHEFFIELD Twp,Governor,,Write-ins,,0,,,Warren County,SHEFFIELD Twp
+Warren,SOUTHWEST Twp,Governor,,Write-ins,,0,,,Warren County,SOUTHWEST Twp
+Warren,SPRING CREEK Twp,Governor,,Write-ins,,0,,,Warren County,SPRING CREEK Twp
+Warren,SUGAR GROVE Twp,Governor,,Write-ins,,0,,,Warren County,SUGAR GROVE Twp
+Warren,SUGAR GROVE Boro,Governor,,Write-ins,,0,,,Warren County,SUGAR GROVE Boro
+Warren,TIDIOUTE Boro,Governor,,Write-ins,,3,,,Warren County,TIDIOUTE Boro
+Warren,TRIUMPH Twp,Governor,,Write-ins,,0,,,Warren County,TRIUMPH Twp
+Warren,WARREN City CENTRAL,Governor,,Write-ins,,0,,,Warren County,WARREN City CENTRAL
+Warren,WARREN City EAST,Governor,,Write-ins,,1,,,Warren County,WARREN City EAST
+Warren,WARREN City NORTH,Governor,,Write-ins,,0,,,Warren County,WARREN City NORTH
+Warren,WARREN City SOUTH,Governor,,Write-ins,,0,,,Warren County,WARREN City SOUTH
+Warren,WARREN City SOUTH EAST,Governor,,Write-ins,,0,,,Warren County,WARREN City SOUTH EAST
+Warren,WARREN City WEST,Governor,,Write-ins,,2,,,Warren County,WARREN City WEST
+Warren,WATSON Twp,Governor,,Write-ins,,0,,,Warren County,WATSON Twp
+Warren,YOUNGSVILLE Boro,Governor,,Write-ins,,0,,,Warren County,YOUNGSVILLE Boro
+Warren,BEAR LAKE Boro,U.S. House,15.0,Write-ins,,0,,,Warren County,BEAR LAKE Boro
+Warren,BROKENSTRAW Twp,U.S. House,15.0,Write-ins,,0,,,Warren County,BROKENSTRAW Twp
+Warren,CHERRY GROVE Twp,U.S. House,15.0,Write-ins,,0,,,Warren County,CHERRY GROVE Twp
+Warren,CLARENDON Boro,U.S. House,15.0,Write-ins,,1,,,Warren County,CLARENDON Boro
+Warren,COLUMBUS Twp,U.S. House,15.0,Write-ins,,1,,,Warren County,COLUMBUS Twp
+Warren,CONEWANGO Twp 1,U.S. House,15.0,Write-ins,,0,,,Warren County,CONEWANGO Twp 1
+Warren,CONEWANGO Twp 2,U.S. House,15.0,Write-ins,,0,,,Warren County,CONEWANGO Twp 2
+Warren,DEERFIELD Twp,U.S. House,15.0,Write-ins,,0,,,Warren County,DEERFIELD Twp
+Warren,ELDRED Twp,U.S. House,15.0,Write-ins,,0,,,Warren County,ELDRED Twp
+Warren,ELK Twp,U.S. House,15.0,Write-ins,,0,,,Warren County,ELK Twp
+Warren,FARMINGTON Twp,U.S. House,15.0,Write-ins,,1,,,Warren County,FARMINGTON Twp
+Warren,FREEHOLD Twp,U.S. House,15.0,Write-ins,,0,,,Warren County,FREEHOLD Twp
+Warren,GLADE Twp,U.S. House,15.0,Write-ins,,1,,,Warren County,GLADE Twp
+Warren,LIMESTONE Twp,U.S. House,15.0,Write-ins,,0,,,Warren County,LIMESTONE Twp
+Warren,MEAD Twp,U.S. House,15.0,Write-ins,,0,,,Warren County,MEAD Twp
+Warren,PINE GROVE Twp,U.S. House,15.0,Write-ins,,1,,,Warren County,PINE GROVE Twp
+Warren,PITTSFIELD Twp,U.S. House,15.0,Write-ins,,0,,,Warren County,PITTSFIELD Twp
+Warren,PLEASANT Twp,U.S. House,15.0,Write-ins,,1,,,Warren County,PLEASANT Twp
+Warren,SHEFFIELD Twp,U.S. House,15.0,Write-ins,,2,,,Warren County,SHEFFIELD Twp
+Warren,SOUTHWEST Twp,U.S. House,15.0,Write-ins,,0,,,Warren County,SOUTHWEST Twp
+Warren,SPRING CREEK Twp,U.S. House,15.0,Write-ins,,0,,,Warren County,SPRING CREEK Twp
+Warren,SUGAR GROVE Twp,U.S. House,15.0,Write-ins,,1,,,Warren County,SUGAR GROVE Twp
+Warren,SUGAR GROVE Boro,U.S. House,15.0,Write-ins,,0,,,Warren County,SUGAR GROVE Boro
+Warren,TIDIOUTE Boro,U.S. House,15.0,Write-ins,,0,,,Warren County,TIDIOUTE Boro
+Warren,TRIUMPH Twp,U.S. House,15.0,Write-ins,,0,,,Warren County,TRIUMPH Twp
+Warren,WARREN City CENTRAL,U.S. House,15.0,Write-ins,,1,,,Warren County,WARREN City CENTRAL
+Warren,WARREN City EAST,U.S. House,15.0,Write-ins,,2,,,Warren County,WARREN City EAST
+Warren,WARREN City NORTH,U.S. House,15.0,Write-ins,,1,,,Warren County,WARREN City NORTH
+Warren,WARREN City SOUTH,U.S. House,15.0,Write-ins,,0,,,Warren County,WARREN City SOUTH
+Warren,WARREN City SOUTH EAST,U.S. House,15.0,Write-ins,,1,,,Warren County,WARREN City SOUTH EAST
+Warren,WARREN City WEST,U.S. House,15.0,Write-ins,,0,,,Warren County,WARREN City WEST
+Warren,WATSON Twp,U.S. House,15.0,Write-ins,,0,,,Warren County,WATSON Twp
+Warren,YOUNGSVILLE Boro,U.S. House,15.0,Write-ins,,2,,,Warren County,YOUNGSVILLE Boro
+Warren,COLUMBUS Twp,State Senate,50.0,Write-ins,,1,,,Warren County,COLUMBUS Twp
+Warren,ELDRED Twp,State Senate,50.0,Write-ins,,0,,,Warren County,ELDRED Twp
+Warren,SOUTHWEST Twp,State Senate,50.0,Write-ins,,0,,,Warren County,SOUTHWEST Twp
+Warren,SPRING CREEK Twp,State Senate,50.0,Write-ins,,0,,,Warren County,SPRING CREEK Twp
+Warren,BEAR LAKE Boro,State House,65.0,Write-ins,,2,,,Warren County,BEAR LAKE Boro
+Warren,BROKENSTRAW Twp,State House,65.0,Write-ins,,11,,,Warren County,BROKENSTRAW Twp
+Warren,CHERRY GROVE Twp,State House,65.0,Write-ins,,1,,,Warren County,CHERRY GROVE Twp
+Warren,CLARENDON Boro,State House,65.0,Write-ins,,3,,,Warren County,CLARENDON Boro
+Warren,COLUMBUS Twp,State House,65.0,Write-ins,,15,,,Warren County,COLUMBUS Twp
+Warren,CONEWANGO Twp 1,State House,65.0,Write-ins,,59,,,Warren County,CONEWANGO Twp 1
+Warren,CONEWANGO Twp 2,State House,65.0,Write-ins,,22,,,Warren County,CONEWANGO Twp 2
+Warren,DEERFIELD Twp,State House,65.0,Write-ins,,4,,,Warren County,DEERFIELD Twp
+Warren,ELDRED Twp,State House,65.0,Write-ins,,4,,,Warren County,ELDRED Twp
+Warren,ELK Twp,State House,65.0,Write-ins,,6,,,Warren County,ELK Twp
+Warren,FARMINGTON Twp,State House,65.0,Write-ins,,16,,,Warren County,FARMINGTON Twp
+Warren,FREEHOLD Twp,State House,65.0,Write-ins,,1,,,Warren County,FREEHOLD Twp
+Warren,GLADE Twp,State House,65.0,Write-ins,,48,,,Warren County,GLADE Twp
+Warren,LIMESTONE Twp,State House,65.0,Write-ins,,1,,,Warren County,LIMESTONE Twp
+Warren,MEAD Twp,State House,65.0,Write-ins,,19,,,Warren County,MEAD Twp
+Warren,PINE GROVE Twp,State House,65.0,Write-ins,,51,,,Warren County,PINE GROVE Twp
+Warren,PITTSFIELD Twp,State House,65.0,Write-ins,,24,,,Warren County,PITTSFIELD Twp
+Warren,PLEASANT Twp,State House,65.0,Write-ins,,52,,,Warren County,PLEASANT Twp
+Warren,SHEFFIELD Twp,State House,65.0,Write-ins,,22,,,Warren County,SHEFFIELD Twp
+Warren,SOUTHWEST Twp,State House,65.0,Write-ins,,1,,,Warren County,SOUTHWEST Twp
+Warren,SPRING CREEK Twp,State House,65.0,Write-ins,,2,,,Warren County,SPRING CREEK Twp
+Warren,SUGAR GROVE Twp,State House,65.0,Write-ins,,17,,,Warren County,SUGAR GROVE Twp
+Warren,SUGAR GROVE Boro,State House,65.0,Write-ins,,9,,,Warren County,SUGAR GROVE Boro
+Warren,TIDIOUTE Boro,State House,65.0,Write-ins,,4,,,Warren County,TIDIOUTE Boro
+Warren,TRIUMPH Twp,State House,65.0,Write-ins,,3,,,Warren County,TRIUMPH Twp
+Warren,WARREN City CENTRAL,State House,65.0,Write-ins,,40,,,Warren County,WARREN City CENTRAL
+Warren,WARREN City EAST,State House,65.0,Write-ins,,69,,,Warren County,WARREN City EAST
+Warren,WARREN City NORTH,State House,65.0,Write-ins,,32,,,Warren County,WARREN City NORTH
+Warren,WARREN City SOUTH,State House,65.0,Write-ins,,16,,,Warren County,WARREN City SOUTH
+Warren,WARREN City SOUTH EAST,State House,65.0,Write-ins,,55,,,Warren County,WARREN City SOUTH EAST
+Warren,WARREN City WEST,State House,65.0,Write-ins,,29,,,Warren County,WARREN City WEST
+Warren,WATSON Twp,State House,65.0,Write-ins,,5,,,Warren County,WATSON Twp
+Warren,YOUNGSVILLE Boro,State House,65.0,Write-ins,,22,,,Warren County,YOUNGSVILLE Boro

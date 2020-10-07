@@ -1,0 +1,1482 @@
+county,precinct,office,district,candidate,party,votes,election_day,absentee,county_id,original_precinct_name
+Fayette,BelleVernon,U.S. Senate,,Bob Casey Jr.,DEM,156,,,Fayette County,BelleVernon
+Fayette,BvilleTwp,U.S. Senate,,Bob Casey Jr.,DEM,136,,,Fayette County,BvilleTwp
+Fayette,BvilleW1,U.S. Senate,,Bob Casey Jr.,DEM,118,,,Fayette County,BvilleW1
+Fayette,BvilleW2,U.S. Senate,,Bob Casey Jr.,DEM,133,,,Fayette County,BvilleW2
+Fayette,BvilleW3,U.S. Senate,,Bob Casey Jr.,DEM,165,,,Fayette County,BvilleW3
+Fayette,BullskinD1,U.S. Senate,,Bob Casey Jr.,DEM,504,,,Fayette County,BullskinD1
+Fayette,BullskinD2,U.S. Senate,,Bob Casey Jr.,DEM,151,,,Fayette County,BullskinD2
+Fayette,BullskinD3,U.S. Senate,,Bob Casey Jr.,DEM,225,,,Fayette County,BullskinD3
+Fayette,CvilleW1,U.S. Senate,,Bob Casey Jr.,DEM,345,,,Fayette County,CvilleW1
+Fayette,CvilleW2,U.S. Senate,,Bob Casey Jr.,DEM,277,,,Fayette County,CvilleW2
+Fayette,CvilleW3,U.S. Senate,,Bob Casey Jr.,DEM,129,,,Fayette County,CvilleW3
+Fayette,CvilleW4,U.S. Senate,,Bob Casey Jr.,DEM,246,,,Fayette County,CvilleW4
+Fayette,CvilleTwp,U.S. Senate,,Bob Casey Jr.,DEM,313,,,Fayette County,CvilleTwp
+Fayette,DawsonBoro,U.S. Senate,,Bob Casey Jr.,DEM,46,,,Fayette County,DawsonBoro
+Fayette,DunbarTwp1,U.S. Senate,,Bob Casey Jr.,DEM,347,,,Fayette County,DunbarTwp1
+Fayette,DunbarTwp2,U.S. Senate,,Bob Casey Jr.,DEM,611,,,Fayette County,DunbarTwp2
+Fayette,DunbarBoro,U.S. Senate,,Bob Casey Jr.,DEM,124,,,Fayette County,DunbarBoro
+Fayette,Everson,U.S. Senate,,Bob Casey Jr.,DEM,94,,,Fayette County,Everson
+Fayette,Fchance,U.S. Senate,,Bob Casey Jr.,DEM,281,,,Fayette County,Fchance
+Fayette,FayCtyBoro,U.S. Senate,,Bob Casey Jr.,DEM,75,,,Fayette County,FayCtyBoro
+Fayette,FranklinD1,U.S. Senate,,Bob Casey Jr.,DEM,198,,,Fayette County,FranklinD1
+Fayette,FranklinD2,U.S. Senate,,Bob Casey Jr.,DEM,155,,,Fayette County,FranklinD2
+Fayette,GeorgesD1,U.S. Senate,,Bob Casey Jr.,DEM,199,,,Fayette County,GeorgesD1
+Fayette,GeorgesD2,U.S. Senate,,Bob Casey Jr.,DEM,318,,,Fayette County,GeorgesD2
+Fayette,GeorgesD3,U.S. Senate,,Bob Casey Jr.,DEM,332,,,Fayette County,GeorgesD3
+Fayette,GermanD1,U.S. Senate,,Bob Casey Jr.,DEM,356,,,Fayette County,GermanD1
+Fayette,GermanD2,U.S. Senate,,Bob Casey Jr.,DEM,184,,,Fayette County,GermanD2
+Fayette,GermanD3,U.S. Senate,,Bob Casey Jr.,DEM,180,,,Fayette County,GermanD3
+Fayette,GermanD4,U.S. Senate,,Bob Casey Jr.,DEM,76,,,Fayette County,GermanD4
+Fayette,HenryClay,U.S. Senate,,Bob Casey Jr.,DEM,181,,,Fayette County,HenryClay
+Fayette,JeffTwp,U.S. Senate,,Bob Casey Jr.,DEM,331,,,Fayette County,JeffTwp
+Fayette,LTyroneTwp,U.S. Senate,,Bob Casey Jr.,DEM,160,,,Fayette County,LTyroneTwp
+Fayette,LuzerneD1,U.S. Senate,,Bob Casey Jr.,DEM,247,,,Fayette County,LuzerneD1
+Fayette,LuzerneD2,U.S. Senate,,Bob Casey Jr.,DEM,325,,,Fayette County,LuzerneD2
+Fayette,LuzerneD3,U.S. Senate,,Bob Casey Jr.,DEM,144,,,Fayette County,LuzerneD3
+Fayette,LuzerneD4,U.S. Senate,,Bob Casey Jr.,DEM,76,,,Fayette County,LuzerneD4
+Fayette,Markleysbrg,U.S. Senate,,Bob Casey Jr.,DEM,22,,,Fayette County,Markleysbrg
+Fayette,Masontwn,U.S. Senate,,Bob Casey Jr.,DEM,534,,,Fayette County,Masontwn
+Fayette,Menallen1,U.S. Senate,,Bob Casey Jr.,DEM,214,,,Fayette County,Menallen1
+Fayette,Menallen2,U.S. Senate,,Bob Casey Jr.,DEM,297,,,Fayette County,Menallen2
+Fayette,Menallen3,U.S. Senate,,Bob Casey Jr.,DEM,168,,,Fayette County,Menallen3
+Fayette,NewellBoro,U.S. Senate,,Bob Casey Jr.,DEM,99,,,Fayette County,NewellBoro
+Fayette,Nicholson,U.S. Senate,,Bob Casey Jr.,DEM,254,,,Fayette County,Nicholson
+Fayette,NUnion1,U.S. Senate,,Bob Casey Jr.,DEM,438,,,Fayette County,NUnion1
+Fayette,NUnion2,U.S. Senate,,Bob Casey Jr.,DEM,541,,,Fayette County,NUnion2
+Fayette,NUnion3,U.S. Senate,,Bob Casey Jr.,DEM,169,,,Fayette County,NUnion3
+Fayette,NUnion4,U.S. Senate,,Bob Casey Jr.,DEM,509,,,Fayette County,NUnion4
+Fayette,NUnion5,U.S. Senate,,Bob Casey Jr.,DEM,107,,,Fayette County,NUnion5
+Fayette,Ohiopyle,U.S. Senate,,Bob Casey Jr.,DEM,11,,,Fayette County,Ohiopyle
+Fayette,PerryTwp,U.S. Senate,,Bob Casey Jr.,DEM,388,,,Fayette County,PerryTwp
+Fayette,Perryopolis,U.S. Senate,,Bob Casey Jr.,DEM,352,,,Fayette County,Perryopolis
+Fayette,PtMarion,U.S. Senate,,Bob Casey Jr.,DEM,136,,,Fayette County,PtMarion
+Fayette,Redstone1,U.S. Senate,,Bob Casey Jr.,DEM,316,,,Fayette County,Redstone1
+Fayette,Redstone2,U.S. Senate,,Bob Casey Jr.,DEM,350,,,Fayette County,Redstone2
+Fayette,Redstone3,U.S. Senate,,Bob Casey Jr.,DEM,84,,,Fayette County,Redstone3
+Fayette,Redstone4,U.S. Senate,,Bob Casey Jr.,DEM,106,,,Fayette County,Redstone4
+Fayette,Saltlick,U.S. Senate,,Bob Casey Jr.,DEM,354,,,Fayette County,Saltlick
+Fayette,Smithfield,U.S. Senate,,Bob Casey Jr.,DEM,120,,,Fayette County,Smithfield
+Fayette,SCvilleBoro,U.S. Senate,,Bob Casey Jr.,DEM,234,,,Fayette County,SCvilleBoro
+Fayette,SUnion1,U.S. Senate,,Bob Casey Jr.,DEM,1103,,,Fayette County,SUnion1
+Fayette,SUnion2,U.S. Senate,,Bob Casey Jr.,DEM,503,,,Fayette County,SUnion2
+Fayette,SUnion3,U.S. Senate,,Bob Casey Jr.,DEM,554,,,Fayette County,SUnion3
+Fayette,Spfield1,U.S. Senate,,Bob Casey Jr.,DEM,126,,,Fayette County,Spfield1
+Fayette,Spfield2,U.S. Senate,,Bob Casey Jr.,DEM,114,,,Fayette County,Spfield2
+Fayette,Sphill1,U.S. Senate,,Bob Casey Jr.,DEM,132,,,Fayette County,Sphill1
+Fayette,Sphill2,U.S. Senate,,Bob Casey Jr.,DEM,162,,,Fayette County,Sphill2
+Fayette,Stewart,U.S. Senate,,Bob Casey Jr.,DEM,64,,,Fayette County,Stewart
+Fayette,UtownW1,U.S. Senate,,Bob Casey Jr.,DEM,270,,,Fayette County,UtownW1
+Fayette,UtownW2,U.S. Senate,,Bob Casey Jr.,DEM,228,,,Fayette County,UtownW2
+Fayette,UtownW3,U.S. Senate,,Bob Casey Jr.,DEM,269,,,Fayette County,UtownW3
+Fayette,UtownW4,U.S. Senate,,Bob Casey Jr.,DEM,212,,,Fayette County,UtownW4
+Fayette,UtownW5,U.S. Senate,,Bob Casey Jr.,DEM,304,,,Fayette County,UtownW5
+Fayette,UtownW6,U.S. Senate,,Bob Casey Jr.,DEM,156,,,Fayette County,UtownW6
+Fayette,UtownW7,U.S. Senate,,Bob Casey Jr.,DEM,279,,,Fayette County,UtownW7
+Fayette,UTyroneTwp,U.S. Senate,,Bob Casey Jr.,DEM,176,,,Fayette County,UTyroneTwp
+Fayette,VbiltBoro,U.S. Senate,,Bob Casey Jr.,DEM,68,,,Fayette County,VbiltBoro
+Fayette,Washington,U.S. Senate,,Bob Casey Jr.,DEM,644,,,Fayette County,Washington
+Fayette,Wharton,U.S. Senate,,Bob Casey Jr.,DEM,458,,,Fayette County,Wharton
+Fayette,BelleVernon,U.S. Senate,,Lou Barletta,REP,140,,,Fayette County,BelleVernon
+Fayette,BvilleTwp,U.S. Senate,,Lou Barletta,REP,58,,,Fayette County,BvilleTwp
+Fayette,BvilleW1,U.S. Senate,,Lou Barletta,REP,42,,,Fayette County,BvilleW1
+Fayette,BvilleW2,U.S. Senate,,Lou Barletta,REP,79,,,Fayette County,BvilleW2
+Fayette,BvilleW3,U.S. Senate,,Lou Barletta,REP,73,,,Fayette County,BvilleW3
+Fayette,BullskinD1,U.S. Senate,,Lou Barletta,REP,931,,,Fayette County,BullskinD1
+Fayette,BullskinD2,U.S. Senate,,Lou Barletta,REP,343,,,Fayette County,BullskinD2
+Fayette,BullskinD3,U.S. Senate,,Lou Barletta,REP,330,,,Fayette County,BullskinD3
+Fayette,CvilleW1,U.S. Senate,,Lou Barletta,REP,318,,,Fayette County,CvilleW1
+Fayette,CvilleW2,U.S. Senate,,Lou Barletta,REP,218,,,Fayette County,CvilleW2
+Fayette,CvilleW3,U.S. Senate,,Lou Barletta,REP,178,,,Fayette County,CvilleW3
+Fayette,CvilleW4,U.S. Senate,,Lou Barletta,REP,189,,,Fayette County,CvilleW4
+Fayette,CvilleTwp,U.S. Senate,,Lou Barletta,REP,392,,,Fayette County,CvilleTwp
+Fayette,DawsonBoro,U.S. Senate,,Lou Barletta,REP,60,,,Fayette County,DawsonBoro
+Fayette,DunbarTwp1,U.S. Senate,,Lou Barletta,REP,490,,,Fayette County,DunbarTwp1
+Fayette,DunbarTwp2,U.S. Senate,,Lou Barletta,REP,702,,,Fayette County,DunbarTwp2
+Fayette,DunbarBoro,U.S. Senate,,Lou Barletta,REP,185,,,Fayette County,DunbarBoro
+Fayette,Everson,U.S. Senate,,Lou Barletta,REP,91,,,Fayette County,Everson
+Fayette,Fchance,U.S. Senate,,Lou Barletta,REP,273,,,Fayette County,Fchance
+Fayette,FayCtyBoro,U.S. Senate,,Lou Barletta,REP,80,,,Fayette County,FayCtyBoro
+Fayette,FranklinD1,U.S. Senate,,Lou Barletta,REP,278,,,Fayette County,FranklinD1
+Fayette,FranklinD2,U.S. Senate,,Lou Barletta,REP,189,,,Fayette County,FranklinD2
+Fayette,GeorgesD1,U.S. Senate,,Lou Barletta,REP,264,,,Fayette County,GeorgesD1
+Fayette,GeorgesD2,U.S. Senate,,Lou Barletta,REP,375,,,Fayette County,GeorgesD2
+Fayette,GeorgesD3,U.S. Senate,,Lou Barletta,REP,326,,,Fayette County,GeorgesD3
+Fayette,GermanD1,U.S. Senate,,Lou Barletta,REP,357,,,Fayette County,GermanD1
+Fayette,GermanD2,U.S. Senate,,Lou Barletta,REP,121,,,Fayette County,GermanD2
+Fayette,GermanD3,U.S. Senate,,Lou Barletta,REP,139,,,Fayette County,GermanD3
+Fayette,GermanD4,U.S. Senate,,Lou Barletta,REP,45,,,Fayette County,GermanD4
+Fayette,HenryClay,U.S. Senate,,Lou Barletta,REP,372,,,Fayette County,HenryClay
+Fayette,JeffTwp,U.S. Senate,,Lou Barletta,REP,431,,,Fayette County,JeffTwp
+Fayette,LTyroneTwp,U.S. Senate,,Lou Barletta,REP,250,,,Fayette County,LTyroneTwp
+Fayette,LuzerneD1,U.S. Senate,,Lou Barletta,REP,187,,,Fayette County,LuzerneD1
+Fayette,LuzerneD2,U.S. Senate,,Lou Barletta,REP,213,,,Fayette County,LuzerneD2
+Fayette,LuzerneD3,U.S. Senate,,Lou Barletta,REP,53,,,Fayette County,LuzerneD3
+Fayette,LuzerneD4,U.S. Senate,,Lou Barletta,REP,58,,,Fayette County,LuzerneD4
+Fayette,Markleysbrg,U.S. Senate,,Lou Barletta,REP,40,,,Fayette County,Markleysbrg
+Fayette,Masontwn,U.S. Senate,,Lou Barletta,REP,379,,,Fayette County,Masontwn
+Fayette,Menallen1,U.S. Senate,,Lou Barletta,REP,188,,,Fayette County,Menallen1
+Fayette,Menallen2,U.S. Senate,,Lou Barletta,REP,346,,,Fayette County,Menallen2
+Fayette,Menallen3,U.S. Senate,,Lou Barletta,REP,113,,,Fayette County,Menallen3
+Fayette,NewellBoro,U.S. Senate,,Lou Barletta,REP,68,,,Fayette County,NewellBoro
+Fayette,Nicholson,U.S. Senate,,Lou Barletta,REP,296,,,Fayette County,Nicholson
+Fayette,NUnion1,U.S. Senate,,Lou Barletta,REP,320,,,Fayette County,NUnion1
+Fayette,NUnion2,U.S. Senate,,Lou Barletta,REP,611,,,Fayette County,NUnion2
+Fayette,NUnion3,U.S. Senate,,Lou Barletta,REP,234,,,Fayette County,NUnion3
+Fayette,NUnion4,U.S. Senate,,Lou Barletta,REP,431,,,Fayette County,NUnion4
+Fayette,NUnion5,U.S. Senate,,Lou Barletta,REP,120,,,Fayette County,NUnion5
+Fayette,Ohiopyle,U.S. Senate,,Lou Barletta,REP,8,,,Fayette County,Ohiopyle
+Fayette,PerryTwp,U.S. Senate,,Lou Barletta,REP,433,,,Fayette County,PerryTwp
+Fayette,Perryopolis,U.S. Senate,,Lou Barletta,REP,304,,,Fayette County,Perryopolis
+Fayette,PtMarion,U.S. Senate,,Lou Barletta,REP,135,,,Fayette County,PtMarion
+Fayette,Redstone1,U.S. Senate,,Lou Barletta,REP,270,,,Fayette County,Redstone1
+Fayette,Redstone2,U.S. Senate,,Lou Barletta,REP,242,,,Fayette County,Redstone2
+Fayette,Redstone3,U.S. Senate,,Lou Barletta,REP,91,,,Fayette County,Redstone3
+Fayette,Redstone4,U.S. Senate,,Lou Barletta,REP,65,,,Fayette County,Redstone4
+Fayette,Saltlick,U.S. Senate,,Lou Barletta,REP,637,,,Fayette County,Saltlick
+Fayette,Smithfield,U.S. Senate,,Lou Barletta,REP,158,,,Fayette County,Smithfield
+Fayette,SCvilleBoro,U.S. Senate,,Lou Barletta,REP,311,,,Fayette County,SCvilleBoro
+Fayette,SUnion1,U.S. Senate,,Lou Barletta,REP,897,,,Fayette County,SUnion1
+Fayette,SUnion2,U.S. Senate,,Lou Barletta,REP,587,,,Fayette County,SUnion2
+Fayette,SUnion3,U.S. Senate,,Lou Barletta,REP,508,,,Fayette County,SUnion3
+Fayette,Spfield1,U.S. Senate,,Lou Barletta,REP,287,,,Fayette County,Spfield1
+Fayette,Spfield2,U.S. Senate,,Lou Barletta,REP,208,,,Fayette County,Spfield2
+Fayette,Sphill1,U.S. Senate,,Lou Barletta,REP,233,,,Fayette County,Sphill1
+Fayette,Sphill2,U.S. Senate,,Lou Barletta,REP,234,,,Fayette County,Sphill2
+Fayette,Stewart,U.S. Senate,,Lou Barletta,REP,174,,,Fayette County,Stewart
+Fayette,UtownW1,U.S. Senate,,Lou Barletta,REP,231,,,Fayette County,UtownW1
+Fayette,UtownW2,U.S. Senate,,Lou Barletta,REP,84,,,Fayette County,UtownW2
+Fayette,UtownW3,U.S. Senate,,Lou Barletta,REP,89,,,Fayette County,UtownW3
+Fayette,UtownW4,U.S. Senate,,Lou Barletta,REP,51,,,Fayette County,UtownW4
+Fayette,UtownW5,U.S. Senate,,Lou Barletta,REP,159,,,Fayette County,UtownW5
+Fayette,UtownW6,U.S. Senate,,Lou Barletta,REP,121,,,Fayette County,UtownW6
+Fayette,UtownW7,U.S. Senate,,Lou Barletta,REP,179,,,Fayette County,UtownW7
+Fayette,UTyroneTwp,U.S. Senate,,Lou Barletta,REP,372,,,Fayette County,UTyroneTwp
+Fayette,VbiltBoro,U.S. Senate,,Lou Barletta,REP,84,,,Fayette County,VbiltBoro
+Fayette,Washington,U.S. Senate,,Lou Barletta,REP,693,,,Fayette County,Washington
+Fayette,Wharton,U.S. Senate,,Lou Barletta,REP,693,,,Fayette County,Wharton
+Fayette,BelleVernon,U.S. Senate,,Neal Gale,GRN,1,,,Fayette County,BelleVernon
+Fayette,BvilleTwp,U.S. Senate,,Neal Gale,GRN,0,,,Fayette County,BvilleTwp
+Fayette,BvilleW1,U.S. Senate,,Neal Gale,GRN,1,,,Fayette County,BvilleW1
+Fayette,BvilleW2,U.S. Senate,,Neal Gale,GRN,4,,,Fayette County,BvilleW2
+Fayette,BvilleW3,U.S. Senate,,Neal Gale,GRN,1,,,Fayette County,BvilleW3
+Fayette,BullskinD1,U.S. Senate,,Neal Gale,GRN,8,,,Fayette County,BullskinD1
+Fayette,BullskinD2,U.S. Senate,,Neal Gale,GRN,3,,,Fayette County,BullskinD2
+Fayette,BullskinD3,U.S. Senate,,Neal Gale,GRN,6,,,Fayette County,BullskinD3
+Fayette,CvilleW1,U.S. Senate,,Neal Gale,GRN,7,,,Fayette County,CvilleW1
+Fayette,CvilleW2,U.S. Senate,,Neal Gale,GRN,0,,,Fayette County,CvilleW2
+Fayette,CvilleW3,U.S. Senate,,Neal Gale,GRN,0,,,Fayette County,CvilleW3
+Fayette,CvilleW4,U.S. Senate,,Neal Gale,GRN,2,,,Fayette County,CvilleW4
+Fayette,CvilleTwp,U.S. Senate,,Neal Gale,GRN,2,,,Fayette County,CvilleTwp
+Fayette,DawsonBoro,U.S. Senate,,Neal Gale,GRN,1,,,Fayette County,DawsonBoro
+Fayette,DunbarTwp1,U.S. Senate,,Neal Gale,GRN,3,,,Fayette County,DunbarTwp1
+Fayette,DunbarTwp2,U.S. Senate,,Neal Gale,GRN,5,,,Fayette County,DunbarTwp2
+Fayette,DunbarBoro,U.S. Senate,,Neal Gale,GRN,5,,,Fayette County,DunbarBoro
+Fayette,Everson,U.S. Senate,,Neal Gale,GRN,1,,,Fayette County,Everson
+Fayette,Fchance,U.S. Senate,,Neal Gale,GRN,4,,,Fayette County,Fchance
+Fayette,FayCtyBoro,U.S. Senate,,Neal Gale,GRN,1,,,Fayette County,FayCtyBoro
+Fayette,FranklinD1,U.S. Senate,,Neal Gale,GRN,3,,,Fayette County,FranklinD1
+Fayette,FranklinD2,U.S. Senate,,Neal Gale,GRN,0,,,Fayette County,FranklinD2
+Fayette,GeorgesD1,U.S. Senate,,Neal Gale,GRN,7,,,Fayette County,GeorgesD1
+Fayette,GeorgesD2,U.S. Senate,,Neal Gale,GRN,3,,,Fayette County,GeorgesD2
+Fayette,GeorgesD3,U.S. Senate,,Neal Gale,GRN,4,,,Fayette County,GeorgesD3
+Fayette,GermanD1,U.S. Senate,,Neal Gale,GRN,3,,,Fayette County,GermanD1
+Fayette,GermanD2,U.S. Senate,,Neal Gale,GRN,1,,,Fayette County,GermanD2
+Fayette,GermanD3,U.S. Senate,,Neal Gale,GRN,0,,,Fayette County,GermanD3
+Fayette,GermanD4,U.S. Senate,,Neal Gale,GRN,0,,,Fayette County,GermanD4
+Fayette,HenryClay,U.S. Senate,,Neal Gale,GRN,5,,,Fayette County,HenryClay
+Fayette,JeffTwp,U.S. Senate,,Neal Gale,GRN,2,,,Fayette County,JeffTwp
+Fayette,LTyroneTwp,U.S. Senate,,Neal Gale,GRN,2,,,Fayette County,LTyroneTwp
+Fayette,LuzerneD1,U.S. Senate,,Neal Gale,GRN,2,,,Fayette County,LuzerneD1
+Fayette,LuzerneD2,U.S. Senate,,Neal Gale,GRN,0,,,Fayette County,LuzerneD2
+Fayette,LuzerneD3,U.S. Senate,,Neal Gale,GRN,0,,,Fayette County,LuzerneD3
+Fayette,LuzerneD4,U.S. Senate,,Neal Gale,GRN,0,,,Fayette County,LuzerneD4
+Fayette,Markleysbrg,U.S. Senate,,Neal Gale,GRN,0,,,Fayette County,Markleysbrg
+Fayette,Masontwn,U.S. Senate,,Neal Gale,GRN,6,,,Fayette County,Masontwn
+Fayette,Menallen1,U.S. Senate,,Neal Gale,GRN,0,,,Fayette County,Menallen1
+Fayette,Menallen2,U.S. Senate,,Neal Gale,GRN,2,,,Fayette County,Menallen2
+Fayette,Menallen3,U.S. Senate,,Neal Gale,GRN,2,,,Fayette County,Menallen3
+Fayette,NewellBoro,U.S. Senate,,Neal Gale,GRN,2,,,Fayette County,NewellBoro
+Fayette,Nicholson,U.S. Senate,,Neal Gale,GRN,5,,,Fayette County,Nicholson
+Fayette,NUnion1,U.S. Senate,,Neal Gale,GRN,4,,,Fayette County,NUnion1
+Fayette,NUnion2,U.S. Senate,,Neal Gale,GRN,4,,,Fayette County,NUnion2
+Fayette,NUnion3,U.S. Senate,,Neal Gale,GRN,1,,,Fayette County,NUnion3
+Fayette,NUnion4,U.S. Senate,,Neal Gale,GRN,2,,,Fayette County,NUnion4
+Fayette,NUnion5,U.S. Senate,,Neal Gale,GRN,2,,,Fayette County,NUnion5
+Fayette,Ohiopyle,U.S. Senate,,Neal Gale,GRN,0,,,Fayette County,Ohiopyle
+Fayette,PerryTwp,U.S. Senate,,Neal Gale,GRN,4,,,Fayette County,PerryTwp
+Fayette,Perryopolis,U.S. Senate,,Neal Gale,GRN,3,,,Fayette County,Perryopolis
+Fayette,PtMarion,U.S. Senate,,Neal Gale,GRN,3,,,Fayette County,PtMarion
+Fayette,Redstone1,U.S. Senate,,Neal Gale,GRN,1,,,Fayette County,Redstone1
+Fayette,Redstone2,U.S. Senate,,Neal Gale,GRN,5,,,Fayette County,Redstone2
+Fayette,Redstone3,U.S. Senate,,Neal Gale,GRN,1,,,Fayette County,Redstone3
+Fayette,Redstone4,U.S. Senate,,Neal Gale,GRN,0,,,Fayette County,Redstone4
+Fayette,Saltlick,U.S. Senate,,Neal Gale,GRN,7,,,Fayette County,Saltlick
+Fayette,Smithfield,U.S. Senate,,Neal Gale,GRN,4,,,Fayette County,Smithfield
+Fayette,SCvilleBoro,U.S. Senate,,Neal Gale,GRN,2,,,Fayette County,SCvilleBoro
+Fayette,SUnion1,U.S. Senate,,Neal Gale,GRN,2,,,Fayette County,SUnion1
+Fayette,SUnion2,U.S. Senate,,Neal Gale,GRN,4,,,Fayette County,SUnion2
+Fayette,SUnion3,U.S. Senate,,Neal Gale,GRN,7,,,Fayette County,SUnion3
+Fayette,Spfield1,U.S. Senate,,Neal Gale,GRN,7,,,Fayette County,Spfield1
+Fayette,Spfield2,U.S. Senate,,Neal Gale,GRN,2,,,Fayette County,Spfield2
+Fayette,Sphill1,U.S. Senate,,Neal Gale,GRN,1,,,Fayette County,Sphill1
+Fayette,Sphill2,U.S. Senate,,Neal Gale,GRN,1,,,Fayette County,Sphill2
+Fayette,Stewart,U.S. Senate,,Neal Gale,GRN,2,,,Fayette County,Stewart
+Fayette,UtownW1,U.S. Senate,,Neal Gale,GRN,5,,,Fayette County,UtownW1
+Fayette,UtownW2,U.S. Senate,,Neal Gale,GRN,2,,,Fayette County,UtownW2
+Fayette,UtownW3,U.S. Senate,,Neal Gale,GRN,0,,,Fayette County,UtownW3
+Fayette,UtownW4,U.S. Senate,,Neal Gale,GRN,1,,,Fayette County,UtownW4
+Fayette,UtownW5,U.S. Senate,,Neal Gale,GRN,4,,,Fayette County,UtownW5
+Fayette,UtownW6,U.S. Senate,,Neal Gale,GRN,0,,,Fayette County,UtownW6
+Fayette,UtownW7,U.S. Senate,,Neal Gale,GRN,2,,,Fayette County,UtownW7
+Fayette,UTyroneTwp,U.S. Senate,,Neal Gale,GRN,0,,,Fayette County,UTyroneTwp
+Fayette,VbiltBoro,U.S. Senate,,Neal Gale,GRN,0,,,Fayette County,VbiltBoro
+Fayette,Washington,U.S. Senate,,Neal Gale,GRN,7,,,Fayette County,Washington
+Fayette,Wharton,U.S. Senate,,Neal Gale,GRN,7,,,Fayette County,Wharton
+Fayette,BelleVernon,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Fayette County,BelleVernon
+Fayette,BvilleTwp,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Fayette County,BvilleTwp
+Fayette,BvilleW1,U.S. Senate,,Dale R. Kerns Jr.,LIB,0,,,Fayette County,BvilleW1
+Fayette,BvilleW2,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Fayette County,BvilleW2
+Fayette,BvilleW3,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Fayette County,BvilleW3
+Fayette,BullskinD1,U.S. Senate,,Dale R. Kerns Jr.,LIB,13,,,Fayette County,BullskinD1
+Fayette,BullskinD2,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Fayette County,BullskinD2
+Fayette,BullskinD3,U.S. Senate,,Dale R. Kerns Jr.,LIB,6,,,Fayette County,BullskinD3
+Fayette,CvilleW1,U.S. Senate,,Dale R. Kerns Jr.,LIB,11,,,Fayette County,CvilleW1
+Fayette,CvilleW2,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Fayette County,CvilleW2
+Fayette,CvilleW3,U.S. Senate,,Dale R. Kerns Jr.,LIB,6,,,Fayette County,CvilleW3
+Fayette,CvilleW4,U.S. Senate,,Dale R. Kerns Jr.,LIB,13,,,Fayette County,CvilleW4
+Fayette,CvilleTwp,U.S. Senate,,Dale R. Kerns Jr.,LIB,10,,,Fayette County,CvilleTwp
+Fayette,DawsonBoro,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Fayette County,DawsonBoro
+Fayette,DunbarTwp1,U.S. Senate,,Dale R. Kerns Jr.,LIB,10,,,Fayette County,DunbarTwp1
+Fayette,DunbarTwp2,U.S. Senate,,Dale R. Kerns Jr.,LIB,12,,,Fayette County,DunbarTwp2
+Fayette,DunbarBoro,U.S. Senate,,Dale R. Kerns Jr.,LIB,8,,,Fayette County,DunbarBoro
+Fayette,Everson,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Fayette County,Everson
+Fayette,Fchance,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Fayette County,Fchance
+Fayette,FayCtyBoro,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Fayette County,FayCtyBoro
+Fayette,FranklinD1,U.S. Senate,,Dale R. Kerns Jr.,LIB,6,,,Fayette County,FranklinD1
+Fayette,FranklinD2,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Fayette County,FranklinD2
+Fayette,GeorgesD1,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Fayette County,GeorgesD1
+Fayette,GeorgesD2,U.S. Senate,,Dale R. Kerns Jr.,LIB,8,,,Fayette County,GeorgesD2
+Fayette,GeorgesD3,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Fayette County,GeorgesD3
+Fayette,GermanD1,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Fayette County,GermanD1
+Fayette,GermanD2,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Fayette County,GermanD2
+Fayette,GermanD3,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Fayette County,GermanD3
+Fayette,GermanD4,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Fayette County,GermanD4
+Fayette,HenryClay,U.S. Senate,,Dale R. Kerns Jr.,LIB,9,,,Fayette County,HenryClay
+Fayette,JeffTwp,U.S. Senate,,Dale R. Kerns Jr.,LIB,6,,,Fayette County,JeffTwp
+Fayette,LTyroneTwp,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Fayette County,LTyroneTwp
+Fayette,LuzerneD1,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Fayette County,LuzerneD1
+Fayette,LuzerneD2,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Fayette County,LuzerneD2
+Fayette,LuzerneD3,U.S. Senate,,Dale R. Kerns Jr.,LIB,0,,,Fayette County,LuzerneD3
+Fayette,LuzerneD4,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Fayette County,LuzerneD4
+Fayette,Markleysbrg,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Fayette County,Markleysbrg
+Fayette,Masontwn,U.S. Senate,,Dale R. Kerns Jr.,LIB,8,,,Fayette County,Masontwn
+Fayette,Menallen1,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Fayette County,Menallen1
+Fayette,Menallen2,U.S. Senate,,Dale R. Kerns Jr.,LIB,8,,,Fayette County,Menallen2
+Fayette,Menallen3,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Fayette County,Menallen3
+Fayette,NewellBoro,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Fayette County,NewellBoro
+Fayette,Nicholson,U.S. Senate,,Dale R. Kerns Jr.,LIB,8,,,Fayette County,Nicholson
+Fayette,NUnion1,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Fayette County,NUnion1
+Fayette,NUnion2,U.S. Senate,,Dale R. Kerns Jr.,LIB,11,,,Fayette County,NUnion2
+Fayette,NUnion3,U.S. Senate,,Dale R. Kerns Jr.,LIB,7,,,Fayette County,NUnion3
+Fayette,NUnion4,U.S. Senate,,Dale R. Kerns Jr.,LIB,11,,,Fayette County,NUnion4
+Fayette,NUnion5,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Fayette County,NUnion5
+Fayette,Ohiopyle,U.S. Senate,,Dale R. Kerns Jr.,LIB,0,,,Fayette County,Ohiopyle
+Fayette,PerryTwp,U.S. Senate,,Dale R. Kerns Jr.,LIB,7,,,Fayette County,PerryTwp
+Fayette,Perryopolis,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Fayette County,Perryopolis
+Fayette,PtMarion,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Fayette County,PtMarion
+Fayette,Redstone1,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Fayette County,Redstone1
+Fayette,Redstone2,U.S. Senate,,Dale R. Kerns Jr.,LIB,6,,,Fayette County,Redstone2
+Fayette,Redstone3,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Fayette County,Redstone3
+Fayette,Redstone4,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Fayette County,Redstone4
+Fayette,Saltlick,U.S. Senate,,Dale R. Kerns Jr.,LIB,17,,,Fayette County,Saltlick
+Fayette,Smithfield,U.S. Senate,,Dale R. Kerns Jr.,LIB,6,,,Fayette County,Smithfield
+Fayette,SCvilleBoro,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Fayette County,SCvilleBoro
+Fayette,SUnion1,U.S. Senate,,Dale R. Kerns Jr.,LIB,17,,,Fayette County,SUnion1
+Fayette,SUnion2,U.S. Senate,,Dale R. Kerns Jr.,LIB,6,,,Fayette County,SUnion2
+Fayette,SUnion3,U.S. Senate,,Dale R. Kerns Jr.,LIB,12,,,Fayette County,SUnion3
+Fayette,Spfield1,U.S. Senate,,Dale R. Kerns Jr.,LIB,8,,,Fayette County,Spfield1
+Fayette,Spfield2,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Fayette County,Spfield2
+Fayette,Sphill1,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Fayette County,Sphill1
+Fayette,Sphill2,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Fayette County,Sphill2
+Fayette,Stewart,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Fayette County,Stewart
+Fayette,UtownW1,U.S. Senate,,Dale R. Kerns Jr.,LIB,7,,,Fayette County,UtownW1
+Fayette,UtownW2,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Fayette County,UtownW2
+Fayette,UtownW3,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Fayette County,UtownW3
+Fayette,UtownW4,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Fayette County,UtownW4
+Fayette,UtownW5,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Fayette County,UtownW5
+Fayette,UtownW6,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Fayette County,UtownW6
+Fayette,UtownW7,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Fayette County,UtownW7
+Fayette,UTyroneTwp,U.S. Senate,,Dale R. Kerns Jr.,LIB,9,,,Fayette County,UTyroneTwp
+Fayette,VbiltBoro,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Fayette County,VbiltBoro
+Fayette,Washington,U.S. Senate,,Dale R. Kerns Jr.,LIB,18,,,Fayette County,Washington
+Fayette,Wharton,U.S. Senate,,Dale R. Kerns Jr.,LIB,10,,,Fayette County,Wharton
+Fayette,BelleVernon,U.S. Senate,,Write-ins,,0,,,Fayette County,BelleVernon
+Fayette,BvilleTwp,U.S. Senate,,Write-ins,,0,,,Fayette County,BvilleTwp
+Fayette,BvilleW1,U.S. Senate,,Write-ins,,0,,,Fayette County,BvilleW1
+Fayette,BvilleW2,U.S. Senate,,Write-ins,,0,,,Fayette County,BvilleW2
+Fayette,BvilleW3,U.S. Senate,,Write-ins,,0,,,Fayette County,BvilleW3
+Fayette,BullskinD1,U.S. Senate,,Write-ins,,1,,,Fayette County,BullskinD1
+Fayette,BullskinD2,U.S. Senate,,Write-ins,,0,,,Fayette County,BullskinD2
+Fayette,BullskinD3,U.S. Senate,,Write-ins,,0,,,Fayette County,BullskinD3
+Fayette,CvilleW1,U.S. Senate,,Write-ins,,2,,,Fayette County,CvilleW1
+Fayette,CvilleW2,U.S. Senate,,Write-ins,,0,,,Fayette County,CvilleW2
+Fayette,CvilleW3,U.S. Senate,,Write-ins,,0,,,Fayette County,CvilleW3
+Fayette,CvilleW4,U.S. Senate,,Write-ins,,0,,,Fayette County,CvilleW4
+Fayette,CvilleTwp,U.S. Senate,,Write-ins,,1,,,Fayette County,CvilleTwp
+Fayette,DawsonBoro,U.S. Senate,,Write-ins,,1,,,Fayette County,DawsonBoro
+Fayette,DunbarTwp1,U.S. Senate,,Write-ins,,1,,,Fayette County,DunbarTwp1
+Fayette,DunbarTwp2,U.S. Senate,,Write-ins,,0,,,Fayette County,DunbarTwp2
+Fayette,DunbarBoro,U.S. Senate,,Write-ins,,0,,,Fayette County,DunbarBoro
+Fayette,Everson,U.S. Senate,,Write-ins,,0,,,Fayette County,Everson
+Fayette,Fchance,U.S. Senate,,Write-ins,,0,,,Fayette County,Fchance
+Fayette,FayCtyBoro,U.S. Senate,,Write-ins,,0,,,Fayette County,FayCtyBoro
+Fayette,FranklinD1,U.S. Senate,,Write-ins,,0,,,Fayette County,FranklinD1
+Fayette,FranklinD2,U.S. Senate,,Write-ins,,0,,,Fayette County,FranklinD2
+Fayette,GeorgesD1,U.S. Senate,,Write-ins,,0,,,Fayette County,GeorgesD1
+Fayette,GeorgesD2,U.S. Senate,,Write-ins,,0,,,Fayette County,GeorgesD2
+Fayette,GeorgesD3,U.S. Senate,,Write-ins,,0,,,Fayette County,GeorgesD3
+Fayette,GermanD1,U.S. Senate,,Write-ins,,2,,,Fayette County,GermanD1
+Fayette,GermanD2,U.S. Senate,,Write-ins,,0,,,Fayette County,GermanD2
+Fayette,GermanD3,U.S. Senate,,Write-ins,,0,,,Fayette County,GermanD3
+Fayette,GermanD4,U.S. Senate,,Write-ins,,0,,,Fayette County,GermanD4
+Fayette,HenryClay,U.S. Senate,,Write-ins,,1,,,Fayette County,HenryClay
+Fayette,JeffTwp,U.S. Senate,,Write-ins,,0,,,Fayette County,JeffTwp
+Fayette,LTyroneTwp,U.S. Senate,,Write-ins,,0,,,Fayette County,LTyroneTwp
+Fayette,LuzerneD1,U.S. Senate,,Write-ins,,0,,,Fayette County,LuzerneD1
+Fayette,LuzerneD2,U.S. Senate,,Write-ins,,0,,,Fayette County,LuzerneD2
+Fayette,LuzerneD3,U.S. Senate,,Write-ins,,0,,,Fayette County,LuzerneD3
+Fayette,LuzerneD4,U.S. Senate,,Write-ins,,0,,,Fayette County,LuzerneD4
+Fayette,Markleysbrg,U.S. Senate,,Write-ins,,0,,,Fayette County,Markleysbrg
+Fayette,Masontwn,U.S. Senate,,Write-ins,,1,,,Fayette County,Masontwn
+Fayette,Menallen1,U.S. Senate,,Write-ins,,0,,,Fayette County,Menallen1
+Fayette,Menallen2,U.S. Senate,,Write-ins,,0,,,Fayette County,Menallen2
+Fayette,Menallen3,U.S. Senate,,Write-ins,,0,,,Fayette County,Menallen3
+Fayette,NewellBoro,U.S. Senate,,Write-ins,,0,,,Fayette County,NewellBoro
+Fayette,Nicholson,U.S. Senate,,Write-ins,,0,,,Fayette County,Nicholson
+Fayette,NUnion1,U.S. Senate,,Write-ins,,1,,,Fayette County,NUnion1
+Fayette,NUnion2,U.S. Senate,,Write-ins,,0,,,Fayette County,NUnion2
+Fayette,NUnion3,U.S. Senate,,Write-ins,,0,,,Fayette County,NUnion3
+Fayette,NUnion4,U.S. Senate,,Write-ins,,1,,,Fayette County,NUnion4
+Fayette,NUnion5,U.S. Senate,,Write-ins,,0,,,Fayette County,NUnion5
+Fayette,Ohiopyle,U.S. Senate,,Write-ins,,0,,,Fayette County,Ohiopyle
+Fayette,PerryTwp,U.S. Senate,,Write-ins,,0,,,Fayette County,PerryTwp
+Fayette,Perryopolis,U.S. Senate,,Write-ins,,0,,,Fayette County,Perryopolis
+Fayette,PtMarion,U.S. Senate,,Write-ins,,1,,,Fayette County,PtMarion
+Fayette,Redstone1,U.S. Senate,,Write-ins,,0,,,Fayette County,Redstone1
+Fayette,Redstone2,U.S. Senate,,Write-ins,,0,,,Fayette County,Redstone2
+Fayette,Redstone3,U.S. Senate,,Write-ins,,0,,,Fayette County,Redstone3
+Fayette,Redstone4,U.S. Senate,,Write-ins,,0,,,Fayette County,Redstone4
+Fayette,Saltlick,U.S. Senate,,Write-ins,,0,,,Fayette County,Saltlick
+Fayette,Smithfield,U.S. Senate,,Write-ins,,0,,,Fayette County,Smithfield
+Fayette,SCvilleBoro,U.S. Senate,,Write-ins,,0,,,Fayette County,SCvilleBoro
+Fayette,SUnion1,U.S. Senate,,Write-ins,,0,,,Fayette County,SUnion1
+Fayette,SUnion2,U.S. Senate,,Write-ins,,1,,,Fayette County,SUnion2
+Fayette,SUnion3,U.S. Senate,,Write-ins,,2,,,Fayette County,SUnion3
+Fayette,Spfield1,U.S. Senate,,Write-ins,,2,,,Fayette County,Spfield1
+Fayette,Spfield2,U.S. Senate,,Write-ins,,0,,,Fayette County,Spfield2
+Fayette,Sphill1,U.S. Senate,,Write-ins,,0,,,Fayette County,Sphill1
+Fayette,Sphill2,U.S. Senate,,Write-ins,,0,,,Fayette County,Sphill2
+Fayette,Stewart,U.S. Senate,,Write-ins,,0,,,Fayette County,Stewart
+Fayette,UtownW1,U.S. Senate,,Write-ins,,0,,,Fayette County,UtownW1
+Fayette,UtownW2,U.S. Senate,,Write-ins,,0,,,Fayette County,UtownW2
+Fayette,UtownW3,U.S. Senate,,Write-ins,,1,,,Fayette County,UtownW3
+Fayette,UtownW4,U.S. Senate,,Write-ins,,0,,,Fayette County,UtownW4
+Fayette,UtownW5,U.S. Senate,,Write-ins,,0,,,Fayette County,UtownW5
+Fayette,UtownW6,U.S. Senate,,Write-ins,,1,,,Fayette County,UtownW6
+Fayette,UtownW7,U.S. Senate,,Write-ins,,0,,,Fayette County,UtownW7
+Fayette,UTyroneTwp,U.S. Senate,,Write-ins,,0,,,Fayette County,UTyroneTwp
+Fayette,VbiltBoro,U.S. Senate,,Write-ins,,0,,,Fayette County,VbiltBoro
+Fayette,Washington,U.S. Senate,,Write-ins,,0,,,Fayette County,Washington
+Fayette,Wharton,U.S. Senate,,Write-ins,,1,,,Fayette County,Wharton
+Fayette,BelleVernon,Governor,,Tom Wolf,DEM,160,,,Fayette County,BelleVernon
+Fayette,BvilleTwp,Governor,,Tom Wolf,DEM,128,,,Fayette County,BvilleTwp
+Fayette,BvilleW1,Governor,,Tom Wolf,DEM,121,,,Fayette County,BvilleW1
+Fayette,BvilleW2,Governor,,Tom Wolf,DEM,134,,,Fayette County,BvilleW2
+Fayette,BvilleW3,Governor,,Tom Wolf,DEM,176,,,Fayette County,BvilleW3
+Fayette,BullskinD1,Governor,,Tom Wolf,DEM,512,,,Fayette County,BullskinD1
+Fayette,BullskinD2,Governor,,Tom Wolf,DEM,144,,,Fayette County,BullskinD2
+Fayette,BullskinD3,Governor,,Tom Wolf,DEM,227,,,Fayette County,BullskinD3
+Fayette,CvilleW1,Governor,,Tom Wolf,DEM,349,,,Fayette County,CvilleW1
+Fayette,CvilleW2,Governor,,Tom Wolf,DEM,281,,,Fayette County,CvilleW2
+Fayette,CvilleW3,Governor,,Tom Wolf,DEM,128,,,Fayette County,CvilleW3
+Fayette,CvilleW4,Governor,,Tom Wolf,DEM,252,,,Fayette County,CvilleW4
+Fayette,CvilleTwp,Governor,,Tom Wolf,DEM,326,,,Fayette County,CvilleTwp
+Fayette,DawsonBoro,Governor,,Tom Wolf,DEM,41,,,Fayette County,DawsonBoro
+Fayette,DunbarTwp1,Governor,,Tom Wolf,DEM,338,,,Fayette County,DunbarTwp1
+Fayette,DunbarTwp2,Governor,,Tom Wolf,DEM,612,,,Fayette County,DunbarTwp2
+Fayette,DunbarBoro,Governor,,Tom Wolf,DEM,126,,,Fayette County,DunbarBoro
+Fayette,Everson,Governor,,Tom Wolf,DEM,96,,,Fayette County,Everson
+Fayette,Fchance,Governor,,Tom Wolf,DEM,287,,,Fayette County,Fchance
+Fayette,FayCtyBoro,Governor,,Tom Wolf,DEM,78,,,Fayette County,FayCtyBoro
+Fayette,FranklinD1,Governor,,Tom Wolf,DEM,201,,,Fayette County,FranklinD1
+Fayette,FranklinD2,Governor,,Tom Wolf,DEM,155,,,Fayette County,FranklinD2
+Fayette,GeorgesD1,Governor,,Tom Wolf,DEM,198,,,Fayette County,GeorgesD1
+Fayette,GeorgesD2,Governor,,Tom Wolf,DEM,316,,,Fayette County,GeorgesD2
+Fayette,GeorgesD3,Governor,,Tom Wolf,DEM,330,,,Fayette County,GeorgesD3
+Fayette,GermanD1,Governor,,Tom Wolf,DEM,365,,,Fayette County,GermanD1
+Fayette,GermanD2,Governor,,Tom Wolf,DEM,175,,,Fayette County,GermanD2
+Fayette,GermanD3,Governor,,Tom Wolf,DEM,182,,,Fayette County,GermanD3
+Fayette,GermanD4,Governor,,Tom Wolf,DEM,72,,,Fayette County,GermanD4
+Fayette,HenryClay,Governor,,Tom Wolf,DEM,170,,,Fayette County,HenryClay
+Fayette,JeffTwp,Governor,,Tom Wolf,DEM,331,,,Fayette County,JeffTwp
+Fayette,LTyroneTwp,Governor,,Tom Wolf,DEM,152,,,Fayette County,LTyroneTwp
+Fayette,LuzerneD1,Governor,,Tom Wolf,DEM,246,,,Fayette County,LuzerneD1
+Fayette,LuzerneD2,Governor,,Tom Wolf,DEM,334,,,Fayette County,LuzerneD2
+Fayette,LuzerneD3,Governor,,Tom Wolf,DEM,141,,,Fayette County,LuzerneD3
+Fayette,LuzerneD4,Governor,,Tom Wolf,DEM,74,,,Fayette County,LuzerneD4
+Fayette,Markleysbrg,Governor,,Tom Wolf,DEM,22,,,Fayette County,Markleysbrg
+Fayette,Masontwn,Governor,,Tom Wolf,DEM,536,,,Fayette County,Masontwn
+Fayette,Menallen1,Governor,,Tom Wolf,DEM,214,,,Fayette County,Menallen1
+Fayette,Menallen2,Governor,,Tom Wolf,DEM,303,,,Fayette County,Menallen2
+Fayette,Menallen3,Governor,,Tom Wolf,DEM,168,,,Fayette County,Menallen3
+Fayette,NewellBoro,Governor,,Tom Wolf,DEM,101,,,Fayette County,NewellBoro
+Fayette,Nicholson,Governor,,Tom Wolf,DEM,259,,,Fayette County,Nicholson
+Fayette,NUnion1,Governor,,Tom Wolf,DEM,437,,,Fayette County,NUnion1
+Fayette,NUnion2,Governor,,Tom Wolf,DEM,522,,,Fayette County,NUnion2
+Fayette,NUnion3,Governor,,Tom Wolf,DEM,170,,,Fayette County,NUnion3
+Fayette,NUnion4,Governor,,Tom Wolf,DEM,530,,,Fayette County,NUnion4
+Fayette,NUnion5,Governor,,Tom Wolf,DEM,105,,,Fayette County,NUnion5
+Fayette,Ohiopyle,Governor,,Tom Wolf,DEM,12,,,Fayette County,Ohiopyle
+Fayette,PerryTwp,Governor,,Tom Wolf,DEM,404,,,Fayette County,PerryTwp
+Fayette,Perryopolis,Governor,,Tom Wolf,DEM,368,,,Fayette County,Perryopolis
+Fayette,PtMarion,Governor,,Tom Wolf,DEM,139,,,Fayette County,PtMarion
+Fayette,Redstone1,Governor,,Tom Wolf,DEM,326,,,Fayette County,Redstone1
+Fayette,Redstone2,Governor,,Tom Wolf,DEM,349,,,Fayette County,Redstone2
+Fayette,Redstone3,Governor,,Tom Wolf,DEM,83,,,Fayette County,Redstone3
+Fayette,Redstone4,Governor,,Tom Wolf,DEM,109,,,Fayette County,Redstone4
+Fayette,Saltlick,Governor,,Tom Wolf,DEM,351,,,Fayette County,Saltlick
+Fayette,Smithfield,Governor,,Tom Wolf,DEM,111,,,Fayette County,Smithfield
+Fayette,SCvilleBoro,Governor,,Tom Wolf,DEM,234,,,Fayette County,SCvilleBoro
+Fayette,SUnion1,Governor,,Tom Wolf,DEM,1149,,,Fayette County,SUnion1
+Fayette,SUnion2,Governor,,Tom Wolf,DEM,538,,,Fayette County,SUnion2
+Fayette,SUnion3,Governor,,Tom Wolf,DEM,571,,,Fayette County,SUnion3
+Fayette,Spfield1,Governor,,Tom Wolf,DEM,132,,,Fayette County,Spfield1
+Fayette,Spfield2,Governor,,Tom Wolf,DEM,126,,,Fayette County,Spfield2
+Fayette,Sphill1,Governor,,Tom Wolf,DEM,131,,,Fayette County,Sphill1
+Fayette,Sphill2,Governor,,Tom Wolf,DEM,150,,,Fayette County,Sphill2
+Fayette,Stewart,Governor,,Tom Wolf,DEM,72,,,Fayette County,Stewart
+Fayette,UtownW1,Governor,,Tom Wolf,DEM,284,,,Fayette County,UtownW1
+Fayette,UtownW2,Governor,,Tom Wolf,DEM,225,,,Fayette County,UtownW2
+Fayette,UtownW3,Governor,,Tom Wolf,DEM,268,,,Fayette County,UtownW3
+Fayette,UtownW4,Governor,,Tom Wolf,DEM,220,,,Fayette County,UtownW4
+Fayette,UtownW5,Governor,,Tom Wolf,DEM,298,,,Fayette County,UtownW5
+Fayette,UtownW6,Governor,,Tom Wolf,DEM,162,,,Fayette County,UtownW6
+Fayette,UtownW7,Governor,,Tom Wolf,DEM,282,,,Fayette County,UtownW7
+Fayette,UTyroneTwp,Governor,,Tom Wolf,DEM,180,,,Fayette County,UTyroneTwp
+Fayette,VbiltBoro,Governor,,Tom Wolf,DEM,70,,,Fayette County,VbiltBoro
+Fayette,Washington,Governor,,Tom Wolf,DEM,665,,,Fayette County,Washington
+Fayette,Wharton,Governor,,Tom Wolf,DEM,457,,,Fayette County,Wharton
+Fayette,BelleVernon,Governor,,Scott R. Wagner,REP,137,,,Fayette County,BelleVernon
+Fayette,BvilleTwp,Governor,,Scott R. Wagner,REP,65,,,Fayette County,BvilleTwp
+Fayette,BvilleW1,Governor,,Scott R. Wagner,REP,37,,,Fayette County,BvilleW1
+Fayette,BvilleW2,Governor,,Scott R. Wagner,REP,79,,,Fayette County,BvilleW2
+Fayette,BvilleW3,Governor,,Scott R. Wagner,REP,65,,,Fayette County,BvilleW3
+Fayette,BullskinD1,Governor,,Scott R. Wagner,REP,929,,,Fayette County,BullskinD1
+Fayette,BullskinD2,Governor,,Scott R. Wagner,REP,352,,,Fayette County,BullskinD2
+Fayette,BullskinD3,Governor,,Scott R. Wagner,REP,331,,,Fayette County,BullskinD3
+Fayette,CvilleW1,Governor,,Scott R. Wagner,REP,318,,,Fayette County,CvilleW1
+Fayette,CvilleW2,Governor,,Scott R. Wagner,REP,217,,,Fayette County,CvilleW2
+Fayette,CvilleW3,Governor,,Scott R. Wagner,REP,180,,,Fayette County,CvilleW3
+Fayette,CvilleW4,Governor,,Scott R. Wagner,REP,190,,,Fayette County,CvilleW4
+Fayette,CvilleTwp,Governor,,Scott R. Wagner,REP,375,,,Fayette County,CvilleTwp
+Fayette,DawsonBoro,Governor,,Scott R. Wagner,REP,64,,,Fayette County,DawsonBoro
+Fayette,DunbarTwp1,Governor,,Scott R. Wagner,REP,498,,,Fayette County,DunbarTwp1
+Fayette,DunbarTwp2,Governor,,Scott R. Wagner,REP,694,,,Fayette County,DunbarTwp2
+Fayette,DunbarBoro,Governor,,Scott R. Wagner,REP,190,,,Fayette County,DunbarBoro
+Fayette,Everson,Governor,,Scott R. Wagner,REP,92,,,Fayette County,Everson
+Fayette,Fchance,Governor,,Scott R. Wagner,REP,274,,,Fayette County,Fchance
+Fayette,FayCtyBoro,Governor,,Scott R. Wagner,REP,81,,,Fayette County,FayCtyBoro
+Fayette,FranklinD1,Governor,,Scott R. Wagner,REP,282,,,Fayette County,FranklinD1
+Fayette,FranklinD2,Governor,,Scott R. Wagner,REP,186,,,Fayette County,FranklinD2
+Fayette,GeorgesD1,Governor,,Scott R. Wagner,REP,272,,,Fayette County,GeorgesD1
+Fayette,GeorgesD2,Governor,,Scott R. Wagner,REP,380,,,Fayette County,GeorgesD2
+Fayette,GeorgesD3,Governor,,Scott R. Wagner,REP,329,,,Fayette County,GeorgesD3
+Fayette,GermanD1,Governor,,Scott R. Wagner,REP,355,,,Fayette County,GermanD1
+Fayette,GermanD2,Governor,,Scott R. Wagner,REP,132,,,Fayette County,GermanD2
+Fayette,GermanD3,Governor,,Scott R. Wagner,REP,136,,,Fayette County,GermanD3
+Fayette,GermanD4,Governor,,Scott R. Wagner,REP,57,,,Fayette County,GermanD4
+Fayette,HenryClay,Governor,,Scott R. Wagner,REP,386,,,Fayette County,HenryClay
+Fayette,JeffTwp,Governor,,Scott R. Wagner,REP,430,,,Fayette County,JeffTwp
+Fayette,LTyroneTwp,Governor,,Scott R. Wagner,REP,257,,,Fayette County,LTyroneTwp
+Fayette,LuzerneD1,Governor,,Scott R. Wagner,REP,189,,,Fayette County,LuzerneD1
+Fayette,LuzerneD2,Governor,,Scott R. Wagner,REP,205,,,Fayette County,LuzerneD2
+Fayette,LuzerneD3,Governor,,Scott R. Wagner,REP,55,,,Fayette County,LuzerneD3
+Fayette,LuzerneD4,Governor,,Scott R. Wagner,REP,62,,,Fayette County,LuzerneD4
+Fayette,Markleysbrg,Governor,,Scott R. Wagner,REP,41,,,Fayette County,Markleysbrg
+Fayette,Masontwn,Governor,,Scott R. Wagner,REP,382,,,Fayette County,Masontwn
+Fayette,Menallen1,Governor,,Scott R. Wagner,REP,193,,,Fayette County,Menallen1
+Fayette,Menallen2,Governor,,Scott R. Wagner,REP,339,,,Fayette County,Menallen2
+Fayette,Menallen3,Governor,,Scott R. Wagner,REP,119,,,Fayette County,Menallen3
+Fayette,NewellBoro,Governor,,Scott R. Wagner,REP,69,,,Fayette County,NewellBoro
+Fayette,Nicholson,Governor,,Scott R. Wagner,REP,293,,,Fayette County,Nicholson
+Fayette,NUnion1,Governor,,Scott R. Wagner,REP,321,,,Fayette County,NUnion1
+Fayette,NUnion2,Governor,,Scott R. Wagner,REP,637,,,Fayette County,NUnion2
+Fayette,NUnion3,Governor,,Scott R. Wagner,REP,233,,,Fayette County,NUnion3
+Fayette,NUnion4,Governor,,Scott R. Wagner,REP,418,,,Fayette County,NUnion4
+Fayette,NUnion5,Governor,,Scott R. Wagner,REP,124,,,Fayette County,NUnion5
+Fayette,Ohiopyle,Governor,,Scott R. Wagner,REP,7,,,Fayette County,Ohiopyle
+Fayette,PerryTwp,Governor,,Scott R. Wagner,REP,436,,,Fayette County,PerryTwp
+Fayette,Perryopolis,Governor,,Scott R. Wagner,REP,292,,,Fayette County,Perryopolis
+Fayette,PtMarion,Governor,,Scott R. Wagner,REP,134,,,Fayette County,PtMarion
+Fayette,Redstone1,Governor,,Scott R. Wagner,REP,262,,,Fayette County,Redstone1
+Fayette,Redstone2,Governor,,Scott R. Wagner,REP,249,,,Fayette County,Redstone2
+Fayette,Redstone3,Governor,,Scott R. Wagner,REP,88,,,Fayette County,Redstone3
+Fayette,Redstone4,Governor,,Scott R. Wagner,REP,64,,,Fayette County,Redstone4
+Fayette,Saltlick,Governor,,Scott R. Wagner,REP,640,,,Fayette County,Saltlick
+Fayette,Smithfield,Governor,,Scott R. Wagner,REP,170,,,Fayette County,Smithfield
+Fayette,SCvilleBoro,Governor,,Scott R. Wagner,REP,315,,,Fayette County,SCvilleBoro
+Fayette,SUnion1,Governor,,Scott R. Wagner,REP,858,,,Fayette County,SUnion1
+Fayette,SUnion2,Governor,,Scott R. Wagner,REP,554,,,Fayette County,SUnion2
+Fayette,SUnion3,Governor,,Scott R. Wagner,REP,495,,,Fayette County,SUnion3
+Fayette,Spfield1,Governor,,Scott R. Wagner,REP,286,,,Fayette County,Spfield1
+Fayette,Spfield2,Governor,,Scott R. Wagner,REP,194,,,Fayette County,Spfield2
+Fayette,Sphill1,Governor,,Scott R. Wagner,REP,240,,,Fayette County,Sphill1
+Fayette,Sphill2,Governor,,Scott R. Wagner,REP,242,,,Fayette County,Sphill2
+Fayette,Stewart,Governor,,Scott R. Wagner,REP,165,,,Fayette County,Stewart
+Fayette,UtownW1,Governor,,Scott R. Wagner,REP,221,,,Fayette County,UtownW1
+Fayette,UtownW2,Governor,,Scott R. Wagner,REP,87,,,Fayette County,UtownW2
+Fayette,UtownW3,Governor,,Scott R. Wagner,REP,93,,,Fayette County,UtownW3
+Fayette,UtownW4,Governor,,Scott R. Wagner,REP,48,,,Fayette County,UtownW4
+Fayette,UtownW5,Governor,,Scott R. Wagner,REP,162,,,Fayette County,UtownW5
+Fayette,UtownW6,Governor,,Scott R. Wagner,REP,120,,,Fayette County,UtownW6
+Fayette,UtownW7,Governor,,Scott R. Wagner,REP,171,,,Fayette County,UtownW7
+Fayette,UTyroneTwp,Governor,,Scott R. Wagner,REP,370,,,Fayette County,UTyroneTwp
+Fayette,VbiltBoro,Governor,,Scott R. Wagner,REP,81,,,Fayette County,VbiltBoro
+Fayette,Washington,Governor,,Scott R. Wagner,REP,678,,,Fayette County,Washington
+Fayette,Wharton,Governor,,Scott R. Wagner,REP,699,,,Fayette County,Wharton
+Fayette,BelleVernon,Governor,,Paul Glover,GRN,1,,,Fayette County,BelleVernon
+Fayette,BvilleTwp,Governor,,Paul Glover,GRN,2,,,Fayette County,BvilleTwp
+Fayette,BvilleW1,Governor,,Paul Glover,GRN,1,,,Fayette County,BvilleW1
+Fayette,BvilleW2,Governor,,Paul Glover,GRN,3,,,Fayette County,BvilleW2
+Fayette,BvilleW3,Governor,,Paul Glover,GRN,3,,,Fayette County,BvilleW3
+Fayette,BullskinD1,Governor,,Paul Glover,GRN,14,,,Fayette County,BullskinD1
+Fayette,BullskinD2,Governor,,Paul Glover,GRN,2,,,Fayette County,BullskinD2
+Fayette,BullskinD3,Governor,,Paul Glover,GRN,3,,,Fayette County,BullskinD3
+Fayette,CvilleW1,Governor,,Paul Glover,GRN,5,,,Fayette County,CvilleW1
+Fayette,CvilleW2,Governor,,Paul Glover,GRN,0,,,Fayette County,CvilleW2
+Fayette,CvilleW3,Governor,,Paul Glover,GRN,2,,,Fayette County,CvilleW3
+Fayette,CvilleW4,Governor,,Paul Glover,GRN,2,,,Fayette County,CvilleW4
+Fayette,CvilleTwp,Governor,,Paul Glover,GRN,7,,,Fayette County,CvilleTwp
+Fayette,DawsonBoro,Governor,,Paul Glover,GRN,3,,,Fayette County,DawsonBoro
+Fayette,DunbarTwp1,Governor,,Paul Glover,GRN,4,,,Fayette County,DunbarTwp1
+Fayette,DunbarTwp2,Governor,,Paul Glover,GRN,8,,,Fayette County,DunbarTwp2
+Fayette,DunbarBoro,Governor,,Paul Glover,GRN,2,,,Fayette County,DunbarBoro
+Fayette,Everson,Governor,,Paul Glover,GRN,2,,,Fayette County,Everson
+Fayette,Fchance,Governor,,Paul Glover,GRN,2,,,Fayette County,Fchance
+Fayette,FayCtyBoro,Governor,,Paul Glover,GRN,0,,,Fayette County,FayCtyBoro
+Fayette,FranklinD1,Governor,,Paul Glover,GRN,3,,,Fayette County,FranklinD1
+Fayette,FranklinD2,Governor,,Paul Glover,GRN,2,,,Fayette County,FranklinD2
+Fayette,GeorgesD1,Governor,,Paul Glover,GRN,3,,,Fayette County,GeorgesD1
+Fayette,GeorgesD2,Governor,,Paul Glover,GRN,5,,,Fayette County,GeorgesD2
+Fayette,GeorgesD3,Governor,,Paul Glover,GRN,3,,,Fayette County,GeorgesD3
+Fayette,GermanD1,Governor,,Paul Glover,GRN,3,,,Fayette County,GermanD1
+Fayette,GermanD2,Governor,,Paul Glover,GRN,3,,,Fayette County,GermanD2
+Fayette,GermanD3,Governor,,Paul Glover,GRN,1,,,Fayette County,GermanD3
+Fayette,GermanD4,Governor,,Paul Glover,GRN,0,,,Fayette County,GermanD4
+Fayette,HenryClay,Governor,,Paul Glover,GRN,5,,,Fayette County,HenryClay
+Fayette,JeffTwp,Governor,,Paul Glover,GRN,5,,,Fayette County,JeffTwp
+Fayette,LTyroneTwp,Governor,,Paul Glover,GRN,3,,,Fayette County,LTyroneTwp
+Fayette,LuzerneD1,Governor,,Paul Glover,GRN,3,,,Fayette County,LuzerneD1
+Fayette,LuzerneD2,Governor,,Paul Glover,GRN,3,,,Fayette County,LuzerneD2
+Fayette,LuzerneD3,Governor,,Paul Glover,GRN,0,,,Fayette County,LuzerneD3
+Fayette,LuzerneD4,Governor,,Paul Glover,GRN,1,,,Fayette County,LuzerneD4
+Fayette,Markleysbrg,Governor,,Paul Glover,GRN,0,,,Fayette County,Markleysbrg
+Fayette,Masontwn,Governor,,Paul Glover,GRN,9,,,Fayette County,Masontwn
+Fayette,Menallen1,Governor,,Paul Glover,GRN,2,,,Fayette County,Menallen1
+Fayette,Menallen2,Governor,,Paul Glover,GRN,5,,,Fayette County,Menallen2
+Fayette,Menallen3,Governor,,Paul Glover,GRN,2,,,Fayette County,Menallen3
+Fayette,NewellBoro,Governor,,Paul Glover,GRN,1,,,Fayette County,NewellBoro
+Fayette,Nicholson,Governor,,Paul Glover,GRN,5,,,Fayette County,Nicholson
+Fayette,NUnion1,Governor,,Paul Glover,GRN,6,,,Fayette County,NUnion1
+Fayette,NUnion2,Governor,,Paul Glover,GRN,5,,,Fayette County,NUnion2
+Fayette,NUnion3,Governor,,Paul Glover,GRN,4,,,Fayette County,NUnion3
+Fayette,NUnion4,Governor,,Paul Glover,GRN,4,,,Fayette County,NUnion4
+Fayette,NUnion5,Governor,,Paul Glover,GRN,1,,,Fayette County,NUnion5
+Fayette,Ohiopyle,Governor,,Paul Glover,GRN,0,,,Fayette County,Ohiopyle
+Fayette,PerryTwp,Governor,,Paul Glover,GRN,5,,,Fayette County,PerryTwp
+Fayette,Perryopolis,Governor,,Paul Glover,GRN,0,,,Fayette County,Perryopolis
+Fayette,PtMarion,Governor,,Paul Glover,GRN,5,,,Fayette County,PtMarion
+Fayette,Redstone1,Governor,,Paul Glover,GRN,1,,,Fayette County,Redstone1
+Fayette,Redstone2,Governor,,Paul Glover,GRN,5,,,Fayette County,Redstone2
+Fayette,Redstone3,Governor,,Paul Glover,GRN,2,,,Fayette County,Redstone3
+Fayette,Redstone4,Governor,,Paul Glover,GRN,1,,,Fayette County,Redstone4
+Fayette,Saltlick,Governor,,Paul Glover,GRN,10,,,Fayette County,Saltlick
+Fayette,Smithfield,Governor,,Paul Glover,GRN,1,,,Fayette County,Smithfield
+Fayette,SCvilleBoro,Governor,,Paul Glover,GRN,2,,,Fayette County,SCvilleBoro
+Fayette,SUnion1,Governor,,Paul Glover,GRN,10,,,Fayette County,SUnion1
+Fayette,SUnion2,Governor,,Paul Glover,GRN,7,,,Fayette County,SUnion2
+Fayette,SUnion3,Governor,,Paul Glover,GRN,9,,,Fayette County,SUnion3
+Fayette,Spfield1,Governor,,Paul Glover,GRN,9,,,Fayette County,Spfield1
+Fayette,Spfield2,Governor,,Paul Glover,GRN,3,,,Fayette County,Spfield2
+Fayette,Sphill1,Governor,,Paul Glover,GRN,0,,,Fayette County,Sphill1
+Fayette,Sphill2,Governor,,Paul Glover,GRN,2,,,Fayette County,Sphill2
+Fayette,Stewart,Governor,,Paul Glover,GRN,1,,,Fayette County,Stewart
+Fayette,UtownW1,Governor,,Paul Glover,GRN,4,,,Fayette County,UtownW1
+Fayette,UtownW2,Governor,,Paul Glover,GRN,3,,,Fayette County,UtownW2
+Fayette,UtownW3,Governor,,Paul Glover,GRN,2,,,Fayette County,UtownW3
+Fayette,UtownW4,Governor,,Paul Glover,GRN,2,,,Fayette County,UtownW4
+Fayette,UtownW5,Governor,,Paul Glover,GRN,5,,,Fayette County,UtownW5
+Fayette,UtownW6,Governor,,Paul Glover,GRN,0,,,Fayette County,UtownW6
+Fayette,UtownW7,Governor,,Paul Glover,GRN,7,,,Fayette County,UtownW7
+Fayette,UTyroneTwp,Governor,,Paul Glover,GRN,1,,,Fayette County,UTyroneTwp
+Fayette,VbiltBoro,Governor,,Paul Glover,GRN,3,,,Fayette County,VbiltBoro
+Fayette,Washington,Governor,,Paul Glover,GRN,6,,,Fayette County,Washington
+Fayette,Wharton,Governor,,Paul Glover,GRN,4,,,Fayette County,Wharton
+Fayette,BelleVernon,Governor,,Ken V. Krawchuk,LIB,3,,,Fayette County,BelleVernon
+Fayette,BvilleTwp,Governor,,Ken V. Krawchuk,LIB,1,,,Fayette County,BvilleTwp
+Fayette,BvilleW1,Governor,,Ken V. Krawchuk,LIB,2,,,Fayette County,BvilleW1
+Fayette,BvilleW2,Governor,,Ken V. Krawchuk,LIB,3,,,Fayette County,BvilleW2
+Fayette,BvilleW3,Governor,,Ken V. Krawchuk,LIB,0,,,Fayette County,BvilleW3
+Fayette,BullskinD1,Governor,,Ken V. Krawchuk,LIB,9,,,Fayette County,BullskinD1
+Fayette,BullskinD2,Governor,,Ken V. Krawchuk,LIB,2,,,Fayette County,BullskinD2
+Fayette,BullskinD3,Governor,,Ken V. Krawchuk,LIB,9,,,Fayette County,BullskinD3
+Fayette,CvilleW1,Governor,,Ken V. Krawchuk,LIB,8,,,Fayette County,CvilleW1
+Fayette,CvilleW2,Governor,,Ken V. Krawchuk,LIB,2,,,Fayette County,CvilleW2
+Fayette,CvilleW3,Governor,,Ken V. Krawchuk,LIB,4,,,Fayette County,CvilleW3
+Fayette,CvilleW4,Governor,,Ken V. Krawchuk,LIB,6,,,Fayette County,CvilleW4
+Fayette,CvilleTwp,Governor,,Ken V. Krawchuk,LIB,7,,,Fayette County,CvilleTwp
+Fayette,DawsonBoro,Governor,,Ken V. Krawchuk,LIB,0,,,Fayette County,DawsonBoro
+Fayette,DunbarTwp1,Governor,,Ken V. Krawchuk,LIB,14,,,Fayette County,DunbarTwp1
+Fayette,DunbarTwp2,Governor,,Ken V. Krawchuk,LIB,19,,,Fayette County,DunbarTwp2
+Fayette,DunbarBoro,Governor,,Ken V. Krawchuk,LIB,8,,,Fayette County,DunbarBoro
+Fayette,Everson,Governor,,Ken V. Krawchuk,LIB,2,,,Fayette County,Everson
+Fayette,Fchance,Governor,,Ken V. Krawchuk,LIB,6,,,Fayette County,Fchance
+Fayette,FayCtyBoro,Governor,,Ken V. Krawchuk,LIB,4,,,Fayette County,FayCtyBoro
+Fayette,FranklinD1,Governor,,Ken V. Krawchuk,LIB,3,,,Fayette County,FranklinD1
+Fayette,FranklinD2,Governor,,Ken V. Krawchuk,LIB,4,,,Fayette County,FranklinD2
+Fayette,GeorgesD1,Governor,,Ken V. Krawchuk,LIB,3,,,Fayette County,GeorgesD1
+Fayette,GeorgesD2,Governor,,Ken V. Krawchuk,LIB,6,,,Fayette County,GeorgesD2
+Fayette,GeorgesD3,Governor,,Ken V. Krawchuk,LIB,4,,,Fayette County,GeorgesD3
+Fayette,GermanD1,Governor,,Ken V. Krawchuk,LIB,4,,,Fayette County,GermanD1
+Fayette,GermanD2,Governor,,Ken V. Krawchuk,LIB,0,,,Fayette County,GermanD2
+Fayette,GermanD3,Governor,,Ken V. Krawchuk,LIB,2,,,Fayette County,GermanD3
+Fayette,GermanD4,Governor,,Ken V. Krawchuk,LIB,1,,,Fayette County,GermanD4
+Fayette,HenryClay,Governor,,Ken V. Krawchuk,LIB,10,,,Fayette County,HenryClay
+Fayette,JeffTwp,Governor,,Ken V. Krawchuk,LIB,7,,,Fayette County,JeffTwp
+Fayette,LTyroneTwp,Governor,,Ken V. Krawchuk,LIB,2,,,Fayette County,LTyroneTwp
+Fayette,LuzerneD1,Governor,,Ken V. Krawchuk,LIB,3,,,Fayette County,LuzerneD1
+Fayette,LuzerneD2,Governor,,Ken V. Krawchuk,LIB,5,,,Fayette County,LuzerneD2
+Fayette,LuzerneD3,Governor,,Ken V. Krawchuk,LIB,3,,,Fayette County,LuzerneD3
+Fayette,LuzerneD4,Governor,,Ken V. Krawchuk,LIB,1,,,Fayette County,LuzerneD4
+Fayette,Markleysbrg,Governor,,Ken V. Krawchuk,LIB,1,,,Fayette County,Markleysbrg
+Fayette,Masontwn,Governor,,Ken V. Krawchuk,LIB,6,,,Fayette County,Masontwn
+Fayette,Menallen1,Governor,,Ken V. Krawchuk,LIB,2,,,Fayette County,Menallen1
+Fayette,Menallen2,Governor,,Ken V. Krawchuk,LIB,8,,,Fayette County,Menallen2
+Fayette,Menallen3,Governor,,Ken V. Krawchuk,LIB,0,,,Fayette County,Menallen3
+Fayette,NewellBoro,Governor,,Ken V. Krawchuk,LIB,1,,,Fayette County,NewellBoro
+Fayette,Nicholson,Governor,,Ken V. Krawchuk,LIB,4,,,Fayette County,Nicholson
+Fayette,NUnion1,Governor,,Ken V. Krawchuk,LIB,6,,,Fayette County,NUnion1
+Fayette,NUnion2,Governor,,Ken V. Krawchuk,LIB,10,,,Fayette County,NUnion2
+Fayette,NUnion3,Governor,,Ken V. Krawchuk,LIB,6,,,Fayette County,NUnion3
+Fayette,NUnion4,Governor,,Ken V. Krawchuk,LIB,14,,,Fayette County,NUnion4
+Fayette,NUnion5,Governor,,Ken V. Krawchuk,LIB,3,,,Fayette County,NUnion5
+Fayette,Ohiopyle,Governor,,Ken V. Krawchuk,LIB,0,,,Fayette County,Ohiopyle
+Fayette,PerryTwp,Governor,,Ken V. Krawchuk,LIB,3,,,Fayette County,PerryTwp
+Fayette,Perryopolis,Governor,,Ken V. Krawchuk,LIB,7,,,Fayette County,Perryopolis
+Fayette,PtMarion,Governor,,Ken V. Krawchuk,LIB,2,,,Fayette County,PtMarion
+Fayette,Redstone1,Governor,,Ken V. Krawchuk,LIB,3,,,Fayette County,Redstone1
+Fayette,Redstone2,Governor,,Ken V. Krawchuk,LIB,4,,,Fayette County,Redstone2
+Fayette,Redstone3,Governor,,Ken V. Krawchuk,LIB,2,,,Fayette County,Redstone3
+Fayette,Redstone4,Governor,,Ken V. Krawchuk,LIB,0,,,Fayette County,Redstone4
+Fayette,Saltlick,Governor,,Ken V. Krawchuk,LIB,18,,,Fayette County,Saltlick
+Fayette,Smithfield,Governor,,Ken V. Krawchuk,LIB,5,,,Fayette County,Smithfield
+Fayette,SCvilleBoro,Governor,,Ken V. Krawchuk,LIB,7,,,Fayette County,SCvilleBoro
+Fayette,SUnion1,Governor,,Ken V. Krawchuk,LIB,15,,,Fayette County,SUnion1
+Fayette,SUnion2,Governor,,Ken V. Krawchuk,LIB,5,,,Fayette County,SUnion2
+Fayette,SUnion3,Governor,,Ken V. Krawchuk,LIB,13,,,Fayette County,SUnion3
+Fayette,Spfield1,Governor,,Ken V. Krawchuk,LIB,2,,,Fayette County,Spfield1
+Fayette,Spfield2,Governor,,Ken V. Krawchuk,LIB,3,,,Fayette County,Spfield2
+Fayette,Sphill1,Governor,,Ken V. Krawchuk,LIB,3,,,Fayette County,Sphill1
+Fayette,Sphill2,Governor,,Ken V. Krawchuk,LIB,7,,,Fayette County,Sphill2
+Fayette,Stewart,Governor,,Ken V. Krawchuk,LIB,1,,,Fayette County,Stewart
+Fayette,UtownW1,Governor,,Ken V. Krawchuk,LIB,6,,,Fayette County,UtownW1
+Fayette,UtownW2,Governor,,Ken V. Krawchuk,LIB,3,,,Fayette County,UtownW2
+Fayette,UtownW3,Governor,,Ken V. Krawchuk,LIB,1,,,Fayette County,UtownW3
+Fayette,UtownW4,Governor,,Ken V. Krawchuk,LIB,3,,,Fayette County,UtownW4
+Fayette,UtownW5,Governor,,Ken V. Krawchuk,LIB,3,,,Fayette County,UtownW5
+Fayette,UtownW6,Governor,,Ken V. Krawchuk,LIB,3,,,Fayette County,UtownW6
+Fayette,UtownW7,Governor,,Ken V. Krawchuk,LIB,5,,,Fayette County,UtownW7
+Fayette,UTyroneTwp,Governor,,Ken V. Krawchuk,LIB,7,,,Fayette County,UTyroneTwp
+Fayette,VbiltBoro,Governor,,Ken V. Krawchuk,LIB,0,,,Fayette County,VbiltBoro
+Fayette,Washington,Governor,,Ken V. Krawchuk,LIB,15,,,Fayette County,Washington
+Fayette,Wharton,Governor,,Ken V. Krawchuk,LIB,10,,,Fayette County,Wharton
+Fayette,BelleVernon,Governor,,Write-ins,,0,,,Fayette County,BelleVernon
+Fayette,BvilleTwp,Governor,,Write-ins,,0,,,Fayette County,BvilleTwp
+Fayette,BvilleW1,Governor,,Write-ins,,0,,,Fayette County,BvilleW1
+Fayette,BvilleW2,Governor,,Write-ins,,0,,,Fayette County,BvilleW2
+Fayette,BvilleW3,Governor,,Write-ins,,0,,,Fayette County,BvilleW3
+Fayette,BullskinD1,Governor,,Write-ins,,1,,,Fayette County,BullskinD1
+Fayette,BullskinD2,Governor,,Write-ins,,0,,,Fayette County,BullskinD2
+Fayette,BullskinD3,Governor,,Write-ins,,0,,,Fayette County,BullskinD3
+Fayette,CvilleW1,Governor,,Write-ins,,3,,,Fayette County,CvilleW1
+Fayette,CvilleW2,Governor,,Write-ins,,0,,,Fayette County,CvilleW2
+Fayette,CvilleW3,Governor,,Write-ins,,0,,,Fayette County,CvilleW3
+Fayette,CvilleW4,Governor,,Write-ins,,0,,,Fayette County,CvilleW4
+Fayette,CvilleTwp,Governor,,Write-ins,,1,,,Fayette County,CvilleTwp
+Fayette,DawsonBoro,Governor,,Write-ins,,0,,,Fayette County,DawsonBoro
+Fayette,DunbarTwp1,Governor,,Write-ins,,0,,,Fayette County,DunbarTwp1
+Fayette,DunbarTwp2,Governor,,Write-ins,,0,,,Fayette County,DunbarTwp2
+Fayette,DunbarBoro,Governor,,Write-ins,,0,,,Fayette County,DunbarBoro
+Fayette,Everson,Governor,,Write-ins,,0,,,Fayette County,Everson
+Fayette,Fchance,Governor,,Write-ins,,0,,,Fayette County,Fchance
+Fayette,FayCtyBoro,Governor,,Write-ins,,0,,,Fayette County,FayCtyBoro
+Fayette,FranklinD1,Governor,,Write-ins,,1,,,Fayette County,FranklinD1
+Fayette,FranklinD2,Governor,,Write-ins,,0,,,Fayette County,FranklinD2
+Fayette,GeorgesD1,Governor,,Write-ins,,0,,,Fayette County,GeorgesD1
+Fayette,GeorgesD2,Governor,,Write-ins,,1,,,Fayette County,GeorgesD2
+Fayette,GeorgesD3,Governor,,Write-ins,,1,,,Fayette County,GeorgesD3
+Fayette,GermanD1,Governor,,Write-ins,,2,,,Fayette County,GermanD1
+Fayette,GermanD2,Governor,,Write-ins,,0,,,Fayette County,GermanD2
+Fayette,GermanD3,Governor,,Write-ins,,0,,,Fayette County,GermanD3
+Fayette,GermanD4,Governor,,Write-ins,,0,,,Fayette County,GermanD4
+Fayette,HenryClay,Governor,,Write-ins,,0,,,Fayette County,HenryClay
+Fayette,JeffTwp,Governor,,Write-ins,,1,,,Fayette County,JeffTwp
+Fayette,LTyroneTwp,Governor,,Write-ins,,0,,,Fayette County,LTyroneTwp
+Fayette,LuzerneD1,Governor,,Write-ins,,0,,,Fayette County,LuzerneD1
+Fayette,LuzerneD2,Governor,,Write-ins,,0,,,Fayette County,LuzerneD2
+Fayette,LuzerneD3,Governor,,Write-ins,,0,,,Fayette County,LuzerneD3
+Fayette,LuzerneD4,Governor,,Write-ins,,0,,,Fayette County,LuzerneD4
+Fayette,Markleysbrg,Governor,,Write-ins,,0,,,Fayette County,Markleysbrg
+Fayette,Masontwn,Governor,,Write-ins,,0,,,Fayette County,Masontwn
+Fayette,Menallen1,Governor,,Write-ins,,0,,,Fayette County,Menallen1
+Fayette,Menallen2,Governor,,Write-ins,,1,,,Fayette County,Menallen2
+Fayette,Menallen3,Governor,,Write-ins,,1,,,Fayette County,Menallen3
+Fayette,NewellBoro,Governor,,Write-ins,,0,,,Fayette County,NewellBoro
+Fayette,Nicholson,Governor,,Write-ins,,1,,,Fayette County,Nicholson
+Fayette,NUnion1,Governor,,Write-ins,,0,,,Fayette County,NUnion1
+Fayette,NUnion2,Governor,,Write-ins,,3,,,Fayette County,NUnion2
+Fayette,NUnion3,Governor,,Write-ins,,0,,,Fayette County,NUnion3
+Fayette,NUnion4,Governor,,Write-ins,,0,,,Fayette County,NUnion4
+Fayette,NUnion5,Governor,,Write-ins,,0,,,Fayette County,NUnion5
+Fayette,Ohiopyle,Governor,,Write-ins,,0,,,Fayette County,Ohiopyle
+Fayette,PerryTwp,Governor,,Write-ins,,0,,,Fayette County,PerryTwp
+Fayette,Perryopolis,Governor,,Write-ins,,0,,,Fayette County,Perryopolis
+Fayette,PtMarion,Governor,,Write-ins,,1,,,Fayette County,PtMarion
+Fayette,Redstone1,Governor,,Write-ins,,0,,,Fayette County,Redstone1
+Fayette,Redstone2,Governor,,Write-ins,,0,,,Fayette County,Redstone2
+Fayette,Redstone3,Governor,,Write-ins,,0,,,Fayette County,Redstone3
+Fayette,Redstone4,Governor,,Write-ins,,0,,,Fayette County,Redstone4
+Fayette,Saltlick,Governor,,Write-ins,,0,,,Fayette County,Saltlick
+Fayette,Smithfield,Governor,,Write-ins,,0,,,Fayette County,Smithfield
+Fayette,SCvilleBoro,Governor,,Write-ins,,2,,,Fayette County,SCvilleBoro
+Fayette,SUnion1,Governor,,Write-ins,,2,,,Fayette County,SUnion1
+Fayette,SUnion2,Governor,,Write-ins,,0,,,Fayette County,SUnion2
+Fayette,SUnion3,Governor,,Write-ins,,1,,,Fayette County,SUnion3
+Fayette,Spfield1,Governor,,Write-ins,,1,,,Fayette County,Spfield1
+Fayette,Spfield2,Governor,,Write-ins,,1,,,Fayette County,Spfield2
+Fayette,Sphill1,Governor,,Write-ins,,0,,,Fayette County,Sphill1
+Fayette,Sphill2,Governor,,Write-ins,,0,,,Fayette County,Sphill2
+Fayette,Stewart,Governor,,Write-ins,,0,,,Fayette County,Stewart
+Fayette,UtownW1,Governor,,Write-ins,,2,,,Fayette County,UtownW1
+Fayette,UtownW2,Governor,,Write-ins,,0,,,Fayette County,UtownW2
+Fayette,UtownW3,Governor,,Write-ins,,0,,,Fayette County,UtownW3
+Fayette,UtownW4,Governor,,Write-ins,,0,,,Fayette County,UtownW4
+Fayette,UtownW5,Governor,,Write-ins,,3,,,Fayette County,UtownW5
+Fayette,UtownW6,Governor,,Write-ins,,0,,,Fayette County,UtownW6
+Fayette,UtownW7,Governor,,Write-ins,,2,,,Fayette County,UtownW7
+Fayette,UTyroneTwp,Governor,,Write-ins,,0,,,Fayette County,UTyroneTwp
+Fayette,VbiltBoro,Governor,,Write-ins,,0,,,Fayette County,VbiltBoro
+Fayette,Washington,Governor,,Write-ins,,0,,,Fayette County,Washington
+Fayette,Wharton,Governor,,Write-ins,,1,,,Fayette County,Wharton
+Fayette,BelleVernon,U.S. House,14.0,Bibiana Boerio,DEM,137,,,Fayette County,BelleVernon
+Fayette,BvilleTwp,U.S. House,14.0,Bibiana Boerio,DEM,123,,,Fayette County,BvilleTwp
+Fayette,BvilleW1,U.S. House,14.0,Bibiana Boerio,DEM,108,,,Fayette County,BvilleW1
+Fayette,BvilleW2,U.S. House,14.0,Bibiana Boerio,DEM,125,,,Fayette County,BvilleW2
+Fayette,BvilleW3,U.S. House,14.0,Bibiana Boerio,DEM,153,,,Fayette County,BvilleW3
+Fayette,BullskinD1,U.S. House,14.0,Bibiana Boerio,DEM,405,,,Fayette County,BullskinD1
+Fayette,BullskinD2,U.S. House,14.0,Bibiana Boerio,DEM,124,,,Fayette County,BullskinD2
+Fayette,BullskinD3,U.S. House,14.0,Bibiana Boerio,DEM,213,,,Fayette County,BullskinD3
+Fayette,CvilleW1,U.S. House,14.0,Bibiana Boerio,DEM,296,,,Fayette County,CvilleW1
+Fayette,CvilleW2,U.S. House,14.0,Bibiana Boerio,DEM,231,,,Fayette County,CvilleW2
+Fayette,CvilleW3,U.S. House,14.0,Bibiana Boerio,DEM,104,,,Fayette County,CvilleW3
+Fayette,CvilleW4,U.S. House,14.0,Bibiana Boerio,DEM,223,,,Fayette County,CvilleW4
+Fayette,CvilleTwp,U.S. House,14.0,Bibiana Boerio,DEM,245,,,Fayette County,CvilleTwp
+Fayette,DawsonBoro,U.S. House,14.0,Bibiana Boerio,DEM,37,,,Fayette County,DawsonBoro
+Fayette,DunbarTwp1,U.S. House,14.0,Bibiana Boerio,DEM,281,,,Fayette County,DunbarTwp1
+Fayette,DunbarTwp2,U.S. House,14.0,Bibiana Boerio,DEM,519,,,Fayette County,DunbarTwp2
+Fayette,DunbarBoro,U.S. House,14.0,Bibiana Boerio,DEM,106,,,Fayette County,DunbarBoro
+Fayette,Everson,U.S. House,14.0,Bibiana Boerio,DEM,86,,,Fayette County,Everson
+Fayette,Fchance,U.S. House,14.0,Bibiana Boerio,DEM,260,,,Fayette County,Fchance
+Fayette,FayCtyBoro,U.S. House,14.0,Bibiana Boerio,DEM,67,,,Fayette County,FayCtyBoro
+Fayette,FranklinD1,U.S. House,14.0,Bibiana Boerio,DEM,178,,,Fayette County,FranklinD1
+Fayette,FranklinD2,U.S. House,14.0,Bibiana Boerio,DEM,129,,,Fayette County,FranklinD2
+Fayette,GeorgesD1,U.S. House,14.0,Bibiana Boerio,DEM,167,,,Fayette County,GeorgesD1
+Fayette,GeorgesD2,U.S. House,14.0,Bibiana Boerio,DEM,283,,,Fayette County,GeorgesD2
+Fayette,GeorgesD3,U.S. House,14.0,Bibiana Boerio,DEM,278,,,Fayette County,GeorgesD3
+Fayette,GermanD1,U.S. House,14.0,Bibiana Boerio,DEM,291,,,Fayette County,GermanD1
+Fayette,GermanD2,U.S. House,14.0,Bibiana Boerio,DEM,169,,,Fayette County,GermanD2
+Fayette,GermanD3,U.S. House,14.0,Bibiana Boerio,DEM,156,,,Fayette County,GermanD3
+Fayette,GermanD4,U.S. House,14.0,Bibiana Boerio,DEM,71,,,Fayette County,GermanD4
+Fayette,HenryClay,U.S. House,14.0,Bibiana Boerio,DEM,135,,,Fayette County,HenryClay
+Fayette,JeffTwp,U.S. House,14.0,Bibiana Boerio,DEM,283,,,Fayette County,JeffTwp
+Fayette,LTyroneTwp,U.S. House,14.0,Bibiana Boerio,DEM,130,,,Fayette County,LTyroneTwp
+Fayette,LuzerneD1,U.S. House,14.0,Bibiana Boerio,DEM,220,,,Fayette County,LuzerneD1
+Fayette,LuzerneD2,U.S. House,14.0,Bibiana Boerio,DEM,281,,,Fayette County,LuzerneD2
+Fayette,LuzerneD3,U.S. House,14.0,Bibiana Boerio,DEM,129,,,Fayette County,LuzerneD3
+Fayette,LuzerneD4,U.S. House,14.0,Bibiana Boerio,DEM,65,,,Fayette County,LuzerneD4
+Fayette,Markleysbrg,U.S. House,14.0,Bibiana Boerio,DEM,14,,,Fayette County,Markleysbrg
+Fayette,Masontwn,U.S. House,14.0,Bibiana Boerio,DEM,480,,,Fayette County,Masontwn
+Fayette,Menallen1,U.S. House,14.0,Bibiana Boerio,DEM,185,,,Fayette County,Menallen1
+Fayette,Menallen2,U.S. House,14.0,Bibiana Boerio,DEM,257,,,Fayette County,Menallen2
+Fayette,Menallen3,U.S. House,14.0,Bibiana Boerio,DEM,154,,,Fayette County,Menallen3
+Fayette,NewellBoro,U.S. House,14.0,Bibiana Boerio,DEM,94,,,Fayette County,NewellBoro
+Fayette,Nicholson,U.S. House,14.0,Bibiana Boerio,DEM,208,,,Fayette County,Nicholson
+Fayette,NUnion1,U.S. House,14.0,Bibiana Boerio,DEM,394,,,Fayette County,NUnion1
+Fayette,NUnion2,U.S. House,14.0,Bibiana Boerio,DEM,473,,,Fayette County,NUnion2
+Fayette,NUnion3,U.S. House,14.0,Bibiana Boerio,DEM,141,,,Fayette County,NUnion3
+Fayette,NUnion4,U.S. House,14.0,Bibiana Boerio,DEM,457,,,Fayette County,NUnion4
+Fayette,NUnion5,U.S. House,14.0,Bibiana Boerio,DEM,91,,,Fayette County,NUnion5
+Fayette,Ohiopyle,U.S. House,14.0,Bibiana Boerio,DEM,10,,,Fayette County,Ohiopyle
+Fayette,PerryTwp,U.S. House,14.0,Bibiana Boerio,DEM,354,,,Fayette County,PerryTwp
+Fayette,Perryopolis,U.S. House,14.0,Bibiana Boerio,DEM,327,,,Fayette County,Perryopolis
+Fayette,PtMarion,U.S. House,14.0,Bibiana Boerio,DEM,122,,,Fayette County,PtMarion
+Fayette,Redstone1,U.S. House,14.0,Bibiana Boerio,DEM,285,,,Fayette County,Redstone1
+Fayette,Redstone2,U.S. House,14.0,Bibiana Boerio,DEM,315,,,Fayette County,Redstone2
+Fayette,Redstone3,U.S. House,14.0,Bibiana Boerio,DEM,71,,,Fayette County,Redstone3
+Fayette,Redstone4,U.S. House,14.0,Bibiana Boerio,DEM,96,,,Fayette County,Redstone4
+Fayette,Saltlick,U.S. House,14.0,Bibiana Boerio,DEM,296,,,Fayette County,Saltlick
+Fayette,Smithfield,U.S. House,14.0,Bibiana Boerio,DEM,94,,,Fayette County,Smithfield
+Fayette,SCvilleBoro,U.S. House,14.0,Bibiana Boerio,DEM,195,,,Fayette County,SCvilleBoro
+Fayette,SUnion1,U.S. House,14.0,Bibiana Boerio,DEM,987,,,Fayette County,SUnion1
+Fayette,SUnion2,U.S. House,14.0,Bibiana Boerio,DEM,476,,,Fayette County,SUnion2
+Fayette,SUnion3,U.S. House,14.0,Bibiana Boerio,DEM,503,,,Fayette County,SUnion3
+Fayette,Spfield1,U.S. House,14.0,Bibiana Boerio,DEM,92,,,Fayette County,Spfield1
+Fayette,Spfield2,U.S. House,14.0,Bibiana Boerio,DEM,79,,,Fayette County,Spfield2
+Fayette,Sphill1,U.S. House,14.0,Bibiana Boerio,DEM,107,,,Fayette County,Sphill1
+Fayette,Sphill2,U.S. House,14.0,Bibiana Boerio,DEM,129,,,Fayette County,Sphill2
+Fayette,Stewart,U.S. House,14.0,Bibiana Boerio,DEM,41,,,Fayette County,Stewart
+Fayette,UtownW1,U.S. House,14.0,Bibiana Boerio,DEM,260,,,Fayette County,UtownW1
+Fayette,UtownW2,U.S. House,14.0,Bibiana Boerio,DEM,211,,,Fayette County,UtownW2
+Fayette,UtownW3,U.S. House,14.0,Bibiana Boerio,DEM,256,,,Fayette County,UtownW3
+Fayette,UtownW4,U.S. House,14.0,Bibiana Boerio,DEM,218,,,Fayette County,UtownW4
+Fayette,UtownW5,U.S. House,14.0,Bibiana Boerio,DEM,286,,,Fayette County,UtownW5
+Fayette,UtownW6,U.S. House,14.0,Bibiana Boerio,DEM,147,,,Fayette County,UtownW6
+Fayette,UtownW7,U.S. House,14.0,Bibiana Boerio,DEM,245,,,Fayette County,UtownW7
+Fayette,UTyroneTwp,U.S. House,14.0,Bibiana Boerio,DEM,150,,,Fayette County,UTyroneTwp
+Fayette,VbiltBoro,U.S. House,14.0,Bibiana Boerio,DEM,58,,,Fayette County,VbiltBoro
+Fayette,Washington,U.S. House,14.0,Bibiana Boerio,DEM,577,,,Fayette County,Washington
+Fayette,Wharton,U.S. House,14.0,Bibiana Boerio,DEM,372,,,Fayette County,Wharton
+Fayette,BelleVernon,U.S. House,14.0,Guy Reschenthaler,REP,160,,,Fayette County,BelleVernon
+Fayette,BvilleTwp,U.S. House,14.0,Guy Reschenthaler,REP,70,,,Fayette County,BvilleTwp
+Fayette,BvilleW1,U.S. House,14.0,Guy Reschenthaler,REP,46,,,Fayette County,BvilleW1
+Fayette,BvilleW2,U.S. House,14.0,Guy Reschenthaler,REP,86,,,Fayette County,BvilleW2
+Fayette,BvilleW3,U.S. House,14.0,Guy Reschenthaler,REP,85,,,Fayette County,BvilleW3
+Fayette,BullskinD1,U.S. House,14.0,Guy Reschenthaler,REP,1037,,,Fayette County,BullskinD1
+Fayette,BullskinD2,U.S. House,14.0,Guy Reschenthaler,REP,375,,,Fayette County,BullskinD2
+Fayette,BullskinD3,U.S. House,14.0,Guy Reschenthaler,REP,355,,,Fayette County,BullskinD3
+Fayette,CvilleW1,U.S. House,14.0,Guy Reschenthaler,REP,378,,,Fayette County,CvilleW1
+Fayette,CvilleW2,U.S. House,14.0,Guy Reschenthaler,REP,265,,,Fayette County,CvilleW2
+Fayette,CvilleW3,U.S. House,14.0,Guy Reschenthaler,REP,202,,,Fayette County,CvilleW3
+Fayette,CvilleW4,U.S. House,14.0,Guy Reschenthaler,REP,218,,,Fayette County,CvilleW4
+Fayette,CvilleTwp,U.S. House,14.0,Guy Reschenthaler,REP,471,,,Fayette County,CvilleTwp
+Fayette,DawsonBoro,U.S. House,14.0,Guy Reschenthaler,REP,70,,,Fayette County,DawsonBoro
+Fayette,DunbarTwp1,U.S. House,14.0,Guy Reschenthaler,REP,561,,,Fayette County,DunbarTwp1
+Fayette,DunbarTwp2,U.S. House,14.0,Guy Reschenthaler,REP,797,,,Fayette County,DunbarTwp2
+Fayette,DunbarBoro,U.S. House,14.0,Guy Reschenthaler,REP,205,,,Fayette County,DunbarBoro
+Fayette,Everson,U.S. House,14.0,Guy Reschenthaler,REP,101,,,Fayette County,Everson
+Fayette,Fchance,U.S. House,14.0,Guy Reschenthaler,REP,294,,,Fayette County,Fchance
+Fayette,FayCtyBoro,U.S. House,14.0,Guy Reschenthaler,REP,95,,,Fayette County,FayCtyBoro
+Fayette,FranklinD1,U.S. House,14.0,Guy Reschenthaler,REP,311,,,Fayette County,FranklinD1
+Fayette,FranklinD2,U.S. House,14.0,Guy Reschenthaler,REP,218,,,Fayette County,FranklinD2
+Fayette,GeorgesD1,U.S. House,14.0,Guy Reschenthaler,REP,302,,,Fayette County,GeorgesD1
+Fayette,GeorgesD2,U.S. House,14.0,Guy Reschenthaler,REP,416,,,Fayette County,GeorgesD2
+Fayette,GeorgesD3,U.S. House,14.0,Guy Reschenthaler,REP,372,,,Fayette County,GeorgesD3
+Fayette,GermanD1,U.S. House,14.0,Guy Reschenthaler,REP,420,,,Fayette County,GermanD1
+Fayette,GermanD2,U.S. House,14.0,Guy Reschenthaler,REP,139,,,Fayette County,GermanD2
+Fayette,GermanD3,U.S. House,14.0,Guy Reschenthaler,REP,160,,,Fayette County,GermanD3
+Fayette,GermanD4,U.S. House,14.0,Guy Reschenthaler,REP,52,,,Fayette County,GermanD4
+Fayette,HenryClay,U.S. House,14.0,Guy Reschenthaler,REP,421,,,Fayette County,HenryClay
+Fayette,JeffTwp,U.S. House,14.0,Guy Reschenthaler,REP,485,,,Fayette County,JeffTwp
+Fayette,LTyroneTwp,U.S. House,14.0,Guy Reschenthaler,REP,284,,,Fayette County,LTyroneTwp
+Fayette,LuzerneD1,U.S. House,14.0,Guy Reschenthaler,REP,216,,,Fayette County,LuzerneD1
+Fayette,LuzerneD2,U.S. House,14.0,Guy Reschenthaler,REP,251,,,Fayette County,LuzerneD2
+Fayette,LuzerneD3,U.S. House,14.0,Guy Reschenthaler,REP,65,,,Fayette County,LuzerneD3
+Fayette,LuzerneD4,U.S. House,14.0,Guy Reschenthaler,REP,71,,,Fayette County,LuzerneD4
+Fayette,Markleysbrg,U.S. House,14.0,Guy Reschenthaler,REP,47,,,Fayette County,Markleysbrg
+Fayette,Masontwn,U.S. House,14.0,Guy Reschenthaler,REP,436,,,Fayette County,Masontwn
+Fayette,Menallen1,U.S. House,14.0,Guy Reschenthaler,REP,227,,,Fayette County,Menallen1
+Fayette,Menallen2,U.S. House,14.0,Guy Reschenthaler,REP,389,,,Fayette County,Menallen2
+Fayette,Menallen3,U.S. House,14.0,Guy Reschenthaler,REP,132,,,Fayette County,Menallen3
+Fayette,NewellBoro,U.S. House,14.0,Guy Reschenthaler,REP,78,,,Fayette County,NewellBoro
+Fayette,Nicholson,U.S. House,14.0,Guy Reschenthaler,REP,348,,,Fayette County,Nicholson
+Fayette,NUnion1,U.S. House,14.0,Guy Reschenthaler,REP,367,,,Fayette County,NUnion1
+Fayette,NUnion2,U.S. House,14.0,Guy Reschenthaler,REP,687,,,Fayette County,NUnion2
+Fayette,NUnion3,U.S. House,14.0,Guy Reschenthaler,REP,261,,,Fayette County,NUnion3
+Fayette,NUnion4,U.S. House,14.0,Guy Reschenthaler,REP,490,,,Fayette County,NUnion4
+Fayette,NUnion5,U.S. House,14.0,Guy Reschenthaler,REP,139,,,Fayette County,NUnion5
+Fayette,Ohiopyle,U.S. House,14.0,Guy Reschenthaler,REP,9,,,Fayette County,Ohiopyle
+Fayette,PerryTwp,U.S. House,14.0,Guy Reschenthaler,REP,484,,,Fayette County,PerryTwp
+Fayette,Perryopolis,U.S. House,14.0,Guy Reschenthaler,REP,332,,,Fayette County,Perryopolis
+Fayette,PtMarion,U.S. House,14.0,Guy Reschenthaler,REP,156,,,Fayette County,PtMarion
+Fayette,Redstone1,U.S. House,14.0,Guy Reschenthaler,REP,296,,,Fayette County,Redstone1
+Fayette,Redstone2,U.S. House,14.0,Guy Reschenthaler,REP,280,,,Fayette County,Redstone2
+Fayette,Redstone3,U.S. House,14.0,Guy Reschenthaler,REP,100,,,Fayette County,Redstone3
+Fayette,Redstone4,U.S. House,14.0,Guy Reschenthaler,REP,73,,,Fayette County,Redstone4
+Fayette,Saltlick,U.S. House,14.0,Guy Reschenthaler,REP,701,,,Fayette County,Saltlick
+Fayette,Smithfield,U.S. House,14.0,Guy Reschenthaler,REP,185,,,Fayette County,Smithfield
+Fayette,SCvilleBoro,U.S. House,14.0,Guy Reschenthaler,REP,355,,,Fayette County,SCvilleBoro
+Fayette,SUnion1,U.S. House,14.0,Guy Reschenthaler,REP,1007,,,Fayette County,SUnion1
+Fayette,SUnion2,U.S. House,14.0,Guy Reschenthaler,REP,609,,,Fayette County,SUnion2
+Fayette,SUnion3,U.S. House,14.0,Guy Reschenthaler,REP,560,,,Fayette County,SUnion3
+Fayette,Spfield1,U.S. House,14.0,Guy Reschenthaler,REP,328,,,Fayette County,Spfield1
+Fayette,Spfield2,U.S. House,14.0,Guy Reschenthaler,REP,240,,,Fayette County,Spfield2
+Fayette,Sphill1,U.S. House,14.0,Guy Reschenthaler,REP,257,,,Fayette County,Sphill1
+Fayette,Sphill2,U.S. House,14.0,Guy Reschenthaler,REP,269,,,Fayette County,Sphill2
+Fayette,Stewart,U.S. House,14.0,Guy Reschenthaler,REP,199,,,Fayette County,Stewart
+Fayette,UtownW1,U.S. House,14.0,Guy Reschenthaler,REP,250,,,Fayette County,UtownW1
+Fayette,UtownW2,U.S. House,14.0,Guy Reschenthaler,REP,101,,,Fayette County,UtownW2
+Fayette,UtownW3,U.S. House,14.0,Guy Reschenthaler,REP,100,,,Fayette County,UtownW3
+Fayette,UtownW4,U.S. House,14.0,Guy Reschenthaler,REP,52,,,Fayette County,UtownW4
+Fayette,UtownW5,U.S. House,14.0,Guy Reschenthaler,REP,180,,,Fayette County,UtownW5
+Fayette,UtownW6,U.S. House,14.0,Guy Reschenthaler,REP,134,,,Fayette County,UtownW6
+Fayette,UtownW7,U.S. House,14.0,Guy Reschenthaler,REP,212,,,Fayette County,UtownW7
+Fayette,UTyroneTwp,U.S. House,14.0,Guy Reschenthaler,REP,406,,,Fayette County,UTyroneTwp
+Fayette,VbiltBoro,U.S. House,14.0,Guy Reschenthaler,REP,93,,,Fayette County,VbiltBoro
+Fayette,Washington,U.S. House,14.0,Guy Reschenthaler,REP,774,,,Fayette County,Washington
+Fayette,Wharton,U.S. House,14.0,Guy Reschenthaler,REP,785,,,Fayette County,Wharton
+Fayette,BelleVernon,U.S. House,14.0,Write-ins,,0,,,Fayette County,BelleVernon
+Fayette,BvilleTwp,U.S. House,14.0,Write-ins,,0,,,Fayette County,BvilleTwp
+Fayette,BvilleW1,U.S. House,14.0,Write-ins,,0,,,Fayette County,BvilleW1
+Fayette,BvilleW2,U.S. House,14.0,Write-ins,,1,,,Fayette County,BvilleW2
+Fayette,BvilleW3,U.S. House,14.0,Write-ins,,0,,,Fayette County,BvilleW3
+Fayette,BullskinD1,U.S. House,14.0,Write-ins,,0,,,Fayette County,BullskinD1
+Fayette,BullskinD2,U.S. House,14.0,Write-ins,,0,,,Fayette County,BullskinD2
+Fayette,BullskinD3,U.S. House,14.0,Write-ins,,0,,,Fayette County,BullskinD3
+Fayette,CvilleW1,U.S. House,14.0,Write-ins,,0,,,Fayette County,CvilleW1
+Fayette,CvilleW2,U.S. House,14.0,Write-ins,,0,,,Fayette County,CvilleW2
+Fayette,CvilleW3,U.S. House,14.0,Write-ins,,1,,,Fayette County,CvilleW3
+Fayette,CvilleW4,U.S. House,14.0,Write-ins,,0,,,Fayette County,CvilleW4
+Fayette,CvilleTwp,U.S. House,14.0,Write-ins,,1,,,Fayette County,CvilleTwp
+Fayette,DawsonBoro,U.S. House,14.0,Write-ins,,0,,,Fayette County,DawsonBoro
+Fayette,DunbarTwp1,U.S. House,14.0,Write-ins,,0,,,Fayette County,DunbarTwp1
+Fayette,DunbarTwp2,U.S. House,14.0,Write-ins,,2,,,Fayette County,DunbarTwp2
+Fayette,DunbarBoro,U.S. House,14.0,Write-ins,,1,,,Fayette County,DunbarBoro
+Fayette,Everson,U.S. House,14.0,Write-ins,,0,,,Fayette County,Everson
+Fayette,Fchance,U.S. House,14.0,Write-ins,,0,,,Fayette County,Fchance
+Fayette,FayCtyBoro,U.S. House,14.0,Write-ins,,0,,,Fayette County,FayCtyBoro
+Fayette,FranklinD1,U.S. House,14.0,Write-ins,,0,,,Fayette County,FranklinD1
+Fayette,FranklinD2,U.S. House,14.0,Write-ins,,1,,,Fayette County,FranklinD2
+Fayette,GeorgesD1,U.S. House,14.0,Write-ins,,0,,,Fayette County,GeorgesD1
+Fayette,GeorgesD2,U.S. House,14.0,Write-ins,,1,,,Fayette County,GeorgesD2
+Fayette,GeorgesD3,U.S. House,14.0,Write-ins,,2,,,Fayette County,GeorgesD3
+Fayette,GermanD1,U.S. House,14.0,Write-ins,,2,,,Fayette County,GermanD1
+Fayette,GermanD2,U.S. House,14.0,Write-ins,,0,,,Fayette County,GermanD2
+Fayette,GermanD3,U.S. House,14.0,Write-ins,,0,,,Fayette County,GermanD3
+Fayette,GermanD4,U.S. House,14.0,Write-ins,,0,,,Fayette County,GermanD4
+Fayette,HenryClay,U.S. House,14.0,Write-ins,,2,,,Fayette County,HenryClay
+Fayette,JeffTwp,U.S. House,14.0,Write-ins,,0,,,Fayette County,JeffTwp
+Fayette,LTyroneTwp,U.S. House,14.0,Write-ins,,0,,,Fayette County,LTyroneTwp
+Fayette,LuzerneD1,U.S. House,14.0,Write-ins,,0,,,Fayette County,LuzerneD1
+Fayette,LuzerneD2,U.S. House,14.0,Write-ins,,0,,,Fayette County,LuzerneD2
+Fayette,LuzerneD3,U.S. House,14.0,Write-ins,,0,,,Fayette County,LuzerneD3
+Fayette,LuzerneD4,U.S. House,14.0,Write-ins,,0,,,Fayette County,LuzerneD4
+Fayette,Markleysbrg,U.S. House,14.0,Write-ins,,0,,,Fayette County,Markleysbrg
+Fayette,Masontwn,U.S. House,14.0,Write-ins,,0,,,Fayette County,Masontwn
+Fayette,Menallen1,U.S. House,14.0,Write-ins,,0,,,Fayette County,Menallen1
+Fayette,Menallen2,U.S. House,14.0,Write-ins,,0,,,Fayette County,Menallen2
+Fayette,Menallen3,U.S. House,14.0,Write-ins,,0,,,Fayette County,Menallen3
+Fayette,NewellBoro,U.S. House,14.0,Write-ins,,0,,,Fayette County,NewellBoro
+Fayette,Nicholson,U.S. House,14.0,Write-ins,,1,,,Fayette County,Nicholson
+Fayette,NUnion1,U.S. House,14.0,Write-ins,,2,,,Fayette County,NUnion1
+Fayette,NUnion2,U.S. House,14.0,Write-ins,,0,,,Fayette County,NUnion2
+Fayette,NUnion3,U.S. House,14.0,Write-ins,,0,,,Fayette County,NUnion3
+Fayette,NUnion4,U.S. House,14.0,Write-ins,,1,,,Fayette County,NUnion4
+Fayette,NUnion5,U.S. House,14.0,Write-ins,,1,,,Fayette County,NUnion5
+Fayette,Ohiopyle,U.S. House,14.0,Write-ins,,0,,,Fayette County,Ohiopyle
+Fayette,PerryTwp,U.S. House,14.0,Write-ins,,1,,,Fayette County,PerryTwp
+Fayette,Perryopolis,U.S. House,14.0,Write-ins,,1,,,Fayette County,Perryopolis
+Fayette,PtMarion,U.S. House,14.0,Write-ins,,1,,,Fayette County,PtMarion
+Fayette,Redstone1,U.S. House,14.0,Write-ins,,0,,,Fayette County,Redstone1
+Fayette,Redstone2,U.S. House,14.0,Write-ins,,2,,,Fayette County,Redstone2
+Fayette,Redstone3,U.S. House,14.0,Write-ins,,1,,,Fayette County,Redstone3
+Fayette,Redstone4,U.S. House,14.0,Write-ins,,0,,,Fayette County,Redstone4
+Fayette,Saltlick,U.S. House,14.0,Write-ins,,1,,,Fayette County,Saltlick
+Fayette,Smithfield,U.S. House,14.0,Write-ins,,0,,,Fayette County,Smithfield
+Fayette,SCvilleBoro,U.S. House,14.0,Write-ins,,2,,,Fayette County,SCvilleBoro
+Fayette,SUnion1,U.S. House,14.0,Write-ins,,3,,,Fayette County,SUnion1
+Fayette,SUnion2,U.S. House,14.0,Write-ins,,1,,,Fayette County,SUnion2
+Fayette,SUnion3,U.S. House,14.0,Write-ins,,0,,,Fayette County,SUnion3
+Fayette,Spfield1,U.S. House,14.0,Write-ins,,2,,,Fayette County,Spfield1
+Fayette,Spfield2,U.S. House,14.0,Write-ins,,0,,,Fayette County,Spfield2
+Fayette,Sphill1,U.S. House,14.0,Write-ins,,0,,,Fayette County,Sphill1
+Fayette,Sphill2,U.S. House,14.0,Write-ins,,0,,,Fayette County,Sphill2
+Fayette,Stewart,U.S. House,14.0,Write-ins,,0,,,Fayette County,Stewart
+Fayette,UtownW1,U.S. House,14.0,Write-ins,,0,,,Fayette County,UtownW1
+Fayette,UtownW2,U.S. House,14.0,Write-ins,,0,,,Fayette County,UtownW2
+Fayette,UtownW3,U.S. House,14.0,Write-ins,,1,,,Fayette County,UtownW3
+Fayette,UtownW4,U.S. House,14.0,Write-ins,,0,,,Fayette County,UtownW4
+Fayette,UtownW5,U.S. House,14.0,Write-ins,,1,,,Fayette County,UtownW5
+Fayette,UtownW6,U.S. House,14.0,Write-ins,,0,,,Fayette County,UtownW6
+Fayette,UtownW7,U.S. House,14.0,Write-ins,,1,,,Fayette County,UtownW7
+Fayette,UTyroneTwp,U.S. House,14.0,Write-ins,,0,,,Fayette County,UTyroneTwp
+Fayette,VbiltBoro,U.S. House,14.0,Write-ins,,0,,,Fayette County,VbiltBoro
+Fayette,Washington,U.S. House,14.0,Write-ins,,1,,,Fayette County,Washington
+Fayette,Wharton,U.S. House,14.0,Write-ins,,1,,,Fayette County,Wharton
+Fayette,BelleVernon,State Senate,32.0,Pam Gerard,DEM,138,,,Fayette County,BelleVernon
+Fayette,BvilleTwp,State Senate,32.0,Pam Gerard,DEM,111,,,Fayette County,BvilleTwp
+Fayette,BvilleW1,State Senate,32.0,Pam Gerard,DEM,99,,,Fayette County,BvilleW1
+Fayette,BvilleW2,State Senate,32.0,Pam Gerard,DEM,106,,,Fayette County,BvilleW2
+Fayette,BvilleW3,State Senate,32.0,Pam Gerard,DEM,146,,,Fayette County,BvilleW3
+Fayette,BullskinD1,State Senate,32.0,Pam Gerard,DEM,353,,,Fayette County,BullskinD1
+Fayette,BullskinD2,State Senate,32.0,Pam Gerard,DEM,110,,,Fayette County,BullskinD2
+Fayette,BullskinD3,State Senate,32.0,Pam Gerard,DEM,204,,,Fayette County,BullskinD3
+Fayette,CvilleW1,State Senate,32.0,Pam Gerard,DEM,231,,,Fayette County,CvilleW1
+Fayette,CvilleW2,State Senate,32.0,Pam Gerard,DEM,193,,,Fayette County,CvilleW2
+Fayette,CvilleW3,State Senate,32.0,Pam Gerard,DEM,83,,,Fayette County,CvilleW3
+Fayette,CvilleW4,State Senate,32.0,Pam Gerard,DEM,185,,,Fayette County,CvilleW4
+Fayette,CvilleTwp,State Senate,32.0,Pam Gerard,DEM,197,,,Fayette County,CvilleTwp
+Fayette,DawsonBoro,State Senate,32.0,Pam Gerard,DEM,34,,,Fayette County,DawsonBoro
+Fayette,DunbarTwp1,State Senate,32.0,Pam Gerard,DEM,232,,,Fayette County,DunbarTwp1
+Fayette,DunbarTwp2,State Senate,32.0,Pam Gerard,DEM,441,,,Fayette County,DunbarTwp2
+Fayette,DunbarBoro,State Senate,32.0,Pam Gerard,DEM,73,,,Fayette County,DunbarBoro
+Fayette,Everson,State Senate,32.0,Pam Gerard,DEM,71,,,Fayette County,Everson
+Fayette,Fchance,State Senate,32.0,Pam Gerard,DEM,246,,,Fayette County,Fchance
+Fayette,FayCtyBoro,State Senate,32.0,Pam Gerard,DEM,64,,,Fayette County,FayCtyBoro
+Fayette,FranklinD1,State Senate,32.0,Pam Gerard,DEM,160,,,Fayette County,FranklinD1
+Fayette,FranklinD2,State Senate,32.0,Pam Gerard,DEM,137,,,Fayette County,FranklinD2
+Fayette,GeorgesD1,State Senate,32.0,Pam Gerard,DEM,174,,,Fayette County,GeorgesD1
+Fayette,GeorgesD2,State Senate,32.0,Pam Gerard,DEM,291,,,Fayette County,GeorgesD2
+Fayette,GeorgesD3,State Senate,32.0,Pam Gerard,DEM,286,,,Fayette County,GeorgesD3
+Fayette,GermanD1,State Senate,32.0,Pam Gerard,DEM,304,,,Fayette County,GermanD1
+Fayette,GermanD2,State Senate,32.0,Pam Gerard,DEM,171,,,Fayette County,GermanD2
+Fayette,GermanD3,State Senate,32.0,Pam Gerard,DEM,163,,,Fayette County,GermanD3
+Fayette,GermanD4,State Senate,32.0,Pam Gerard,DEM,72,,,Fayette County,GermanD4
+Fayette,HenryClay,State Senate,32.0,Pam Gerard,DEM,128,,,Fayette County,HenryClay
+Fayette,JeffTwp,State Senate,32.0,Pam Gerard,DEM,269,,,Fayette County,JeffTwp
+Fayette,LTyroneTwp,State Senate,32.0,Pam Gerard,DEM,120,,,Fayette County,LTyroneTwp
+Fayette,LuzerneD1,State Senate,32.0,Pam Gerard,DEM,216,,,Fayette County,LuzerneD1
+Fayette,LuzerneD2,State Senate,32.0,Pam Gerard,DEM,270,,,Fayette County,LuzerneD2
+Fayette,LuzerneD3,State Senate,32.0,Pam Gerard,DEM,127,,,Fayette County,LuzerneD3
+Fayette,LuzerneD4,State Senate,32.0,Pam Gerard,DEM,71,,,Fayette County,LuzerneD4
+Fayette,Markleysbrg,State Senate,32.0,Pam Gerard,DEM,16,,,Fayette County,Markleysbrg
+Fayette,Masontwn,State Senate,32.0,Pam Gerard,DEM,459,,,Fayette County,Masontwn
+Fayette,Menallen1,State Senate,32.0,Pam Gerard,DEM,179,,,Fayette County,Menallen1
+Fayette,Menallen2,State Senate,32.0,Pam Gerard,DEM,246,,,Fayette County,Menallen2
+Fayette,Menallen3,State Senate,32.0,Pam Gerard,DEM,148,,,Fayette County,Menallen3
+Fayette,NewellBoro,State Senate,32.0,Pam Gerard,DEM,91,,,Fayette County,NewellBoro
+Fayette,Nicholson,State Senate,32.0,Pam Gerard,DEM,208,,,Fayette County,Nicholson
+Fayette,NUnion1,State Senate,32.0,Pam Gerard,DEM,374,,,Fayette County,NUnion1
+Fayette,NUnion2,State Senate,32.0,Pam Gerard,DEM,435,,,Fayette County,NUnion2
+Fayette,NUnion3,State Senate,32.0,Pam Gerard,DEM,147,,,Fayette County,NUnion3
+Fayette,NUnion4,State Senate,32.0,Pam Gerard,DEM,468,,,Fayette County,NUnion4
+Fayette,NUnion5,State Senate,32.0,Pam Gerard,DEM,91,,,Fayette County,NUnion5
+Fayette,Ohiopyle,State Senate,32.0,Pam Gerard,DEM,7,,,Fayette County,Ohiopyle
+Fayette,PerryTwp,State Senate,32.0,Pam Gerard,DEM,345,,,Fayette County,PerryTwp
+Fayette,Perryopolis,State Senate,32.0,Pam Gerard,DEM,302,,,Fayette County,Perryopolis
+Fayette,PtMarion,State Senate,32.0,Pam Gerard,DEM,117,,,Fayette County,PtMarion
+Fayette,Redstone1,State Senate,32.0,Pam Gerard,DEM,274,,,Fayette County,Redstone1
+Fayette,Redstone2,State Senate,32.0,Pam Gerard,DEM,322,,,Fayette County,Redstone2
+Fayette,Redstone3,State Senate,32.0,Pam Gerard,DEM,64,,,Fayette County,Redstone3
+Fayette,Redstone4,State Senate,32.0,Pam Gerard,DEM,99,,,Fayette County,Redstone4
+Fayette,Saltlick,State Senate,32.0,Pam Gerard,DEM,265,,,Fayette County,Saltlick
+Fayette,Smithfield,State Senate,32.0,Pam Gerard,DEM,103,,,Fayette County,Smithfield
+Fayette,SCvilleBoro,State Senate,32.0,Pam Gerard,DEM,144,,,Fayette County,SCvilleBoro
+Fayette,SUnion1,State Senate,32.0,Pam Gerard,DEM,939,,,Fayette County,SUnion1
+Fayette,SUnion2,State Senate,32.0,Pam Gerard,DEM,478,,,Fayette County,SUnion2
+Fayette,SUnion3,State Senate,32.0,Pam Gerard,DEM,474,,,Fayette County,SUnion3
+Fayette,Spfield1,State Senate,32.0,Pam Gerard,DEM,83,,,Fayette County,Spfield1
+Fayette,Spfield2,State Senate,32.0,Pam Gerard,DEM,79,,,Fayette County,Spfield2
+Fayette,Sphill1,State Senate,32.0,Pam Gerard,DEM,103,,,Fayette County,Sphill1
+Fayette,Sphill2,State Senate,32.0,Pam Gerard,DEM,126,,,Fayette County,Sphill2
+Fayette,Stewart,State Senate,32.0,Pam Gerard,DEM,41,,,Fayette County,Stewart
+Fayette,UtownW1,State Senate,32.0,Pam Gerard,DEM,250,,,Fayette County,UtownW1
+Fayette,UtownW2,State Senate,32.0,Pam Gerard,DEM,212,,,Fayette County,UtownW2
+Fayette,UtownW3,State Senate,32.0,Pam Gerard,DEM,244,,,Fayette County,UtownW3
+Fayette,UtownW4,State Senate,32.0,Pam Gerard,DEM,216,,,Fayette County,UtownW4
+Fayette,UtownW5,State Senate,32.0,Pam Gerard,DEM,286,,,Fayette County,UtownW5
+Fayette,UtownW6,State Senate,32.0,Pam Gerard,DEM,153,,,Fayette County,UtownW6
+Fayette,UtownW7,State Senate,32.0,Pam Gerard,DEM,239,,,Fayette County,UtownW7
+Fayette,UTyroneTwp,State Senate,32.0,Pam Gerard,DEM,142,,,Fayette County,UTyroneTwp
+Fayette,VbiltBoro,State Senate,32.0,Pam Gerard,DEM,60,,,Fayette County,VbiltBoro
+Fayette,Washington,State Senate,32.0,Pam Gerard,DEM,553,,,Fayette County,Washington
+Fayette,Wharton,State Senate,32.0,Pam Gerard,DEM,319,,,Fayette County,Wharton
+Fayette,BelleVernon,State Senate,32.0,Pam Gerard,DEM,160,,,Fayette County,BelleVernon
+Fayette,BvilleTwp,State Senate,32.0,Pat Stefano,REP,83,,,Fayette County,BvilleTwp
+Fayette,BvilleW1,State Senate,32.0,Pat Stefano,REP,57,,,Fayette County,BvilleW1
+Fayette,BvilleW2,State Senate,32.0,Pat Stefano,REP,107,,,Fayette County,BvilleW2
+Fayette,BvilleW3,State Senate,32.0,Pat Stefano,REP,97,,,Fayette County,BvilleW3
+Fayette,BullskinD1,State Senate,32.0,Pat Stefano,REP,1112,,,Fayette County,BullskinD1
+Fayette,BullskinD2,State Senate,32.0,Pat Stefano,REP,390,,,Fayette County,BullskinD2
+Fayette,BullskinD3,State Senate,32.0,Pat Stefano,REP,365,,,Fayette County,BullskinD3
+Fayette,CvilleW1,State Senate,32.0,Pat Stefano,REP,446,,,Fayette County,CvilleW1
+Fayette,CvilleW2,State Senate,32.0,Pat Stefano,REP,311,,,Fayette County,CvilleW2
+Fayette,CvilleW3,State Senate,32.0,Pat Stefano,REP,226,,,Fayette County,CvilleW3
+Fayette,CvilleW4,State Senate,32.0,Pat Stefano,REP,260,,,Fayette County,CvilleW4
+Fayette,CvilleTwp,State Senate,32.0,Pat Stefano,REP,521,,,Fayette County,CvilleTwp
+Fayette,DawsonBoro,State Senate,32.0,Pat Stefano,REP,76,,,Fayette County,DawsonBoro
+Fayette,DunbarTwp1,State Senate,32.0,Pat Stefano,REP,620,,,Fayette County,DunbarTwp1
+Fayette,DunbarTwp2,State Senate,32.0,Pat Stefano,REP,896,,,Fayette County,DunbarTwp2
+Fayette,DunbarBoro,State Senate,32.0,Pat Stefano,REP,256,,,Fayette County,DunbarBoro
+Fayette,Everson,State Senate,32.0,Pat Stefano,REP,119,,,Fayette County,Everson
+Fayette,Fchance,State Senate,32.0,Pat Stefano,REP,322,,,Fayette County,Fchance
+Fayette,FayCtyBoro,State Senate,32.0,Pat Stefano,REP,99,,,Fayette County,FayCtyBoro
+Fayette,FranklinD1,State Senate,32.0,Pat Stefano,REP,331,,,Fayette County,FranklinD1
+Fayette,FranklinD2,State Senate,32.0,Pat Stefano,REP,211,,,Fayette County,FranklinD2
+Fayette,GeorgesD1,State Senate,32.0,Pat Stefano,REP,299,,,Fayette County,GeorgesD1
+Fayette,GeorgesD2,State Senate,32.0,Pat Stefano,REP,417,,,Fayette County,GeorgesD2
+Fayette,GeorgesD3,State Senate,32.0,Pat Stefano,REP,369,,,Fayette County,GeorgesD3
+Fayette,GermanD1,State Senate,32.0,Pat Stefano,REP,417,,,Fayette County,GermanD1
+Fayette,GermanD2,State Senate,32.0,Pat Stefano,REP,140,,,Fayette County,GermanD2
+Fayette,GermanD3,State Senate,32.0,Pat Stefano,REP,157,,,Fayette County,GermanD3
+Fayette,GermanD4,State Senate,32.0,Pat Stefano,REP,53,,,Fayette County,GermanD4
+Fayette,HenryClay,State Senate,32.0,Pat Stefano,REP,437,,,Fayette County,HenryClay
+Fayette,JeffTwp,State Senate,32.0,Pat Stefano,REP,502,,,Fayette County,JeffTwp
+Fayette,LTyroneTwp,State Senate,32.0,Pat Stefano,REP,295,,,Fayette County,LTyroneTwp
+Fayette,LuzerneD1,State Senate,32.0,Pat Stefano,REP,223,,,Fayette County,LuzerneD1
+Fayette,LuzerneD2,State Senate,32.0,Pat Stefano,REP,261,,,Fayette County,LuzerneD2
+Fayette,LuzerneD3,State Senate,32.0,Pat Stefano,REP,69,,,Fayette County,LuzerneD3
+Fayette,LuzerneD4,State Senate,32.0,Pat Stefano,REP,68,,,Fayette County,LuzerneD4
+Fayette,Markleysbrg,State Senate,32.0,Pat Stefano,REP,47,,,Fayette County,Markleysbrg
+Fayette,Masontwn,State Senate,32.0,Pat Stefano,REP,460,,,Fayette County,Masontwn
+Fayette,Menallen1,State Senate,32.0,Pat Stefano,REP,234,,,Fayette County,Menallen1
+Fayette,Menallen2,State Senate,32.0,Pat Stefano,REP,401,,,Fayette County,Menallen2
+Fayette,Menallen3,State Senate,32.0,Pat Stefano,REP,143,,,Fayette County,Menallen3
+Fayette,NewellBoro,State Senate,32.0,Pat Stefano,REP,81,,,Fayette County,NewellBoro
+Fayette,Nicholson,State Senate,32.0,Pat Stefano,REP,350,,,Fayette County,Nicholson
+Fayette,NUnion1,State Senate,32.0,Pat Stefano,REP,389,,,Fayette County,NUnion1
+Fayette,NUnion2,State Senate,32.0,Pat Stefano,REP,741,,,Fayette County,NUnion2
+Fayette,NUnion3,State Senate,32.0,Pat Stefano,REP,262,,,Fayette County,NUnion3
+Fayette,NUnion4,State Senate,32.0,Pat Stefano,REP,497,,,Fayette County,NUnion4
+Fayette,NUnion5,State Senate,32.0,Pat Stefano,REP,138,,,Fayette County,NUnion5
+Fayette,Ohiopyle,State Senate,32.0,Pat Stefano,REP,12,,,Fayette County,Ohiopyle
+Fayette,PerryTwp,State Senate,32.0,Pat Stefano,REP,495,,,Fayette County,PerryTwp
+Fayette,Perryopolis,State Senate,32.0,Pat Stefano,REP,366,,,Fayette County,Perryopolis
+Fayette,PtMarion,State Senate,32.0,Pat Stefano,REP,166,,,Fayette County,PtMarion
+Fayette,Redstone1,State Senate,32.0,Pat Stefano,REP,312,,,Fayette County,Redstone1
+Fayette,Redstone2,State Senate,32.0,Pat Stefano,REP,280,,,Fayette County,Redstone2
+Fayette,Redstone3,State Senate,32.0,Pat Stefano,REP,108,,,Fayette County,Redstone3
+Fayette,Redstone4,State Senate,32.0,Pat Stefano,REP,75,,,Fayette County,Redstone4
+Fayette,Saltlick,State Senate,32.0,Pat Stefano,REP,747,,,Fayette County,Saltlick
+Fayette,Smithfield,State Senate,32.0,Pat Stefano,REP,181,,,Fayette County,Smithfield
+Fayette,SCvilleBoro,State Senate,32.0,Pat Stefano,REP,418,,,Fayette County,SCvilleBoro
+Fayette,SUnion1,State Senate,32.0,Pat Stefano,REP,1099,,,Fayette County,SUnion1
+Fayette,SUnion2,State Senate,32.0,Pat Stefano,REP,621,,,Fayette County,SUnion2
+Fayette,SUnion3,State Senate,32.0,Pat Stefano,REP,616,,,Fayette County,SUnion3
+Fayette,Spfield1,State Senate,32.0,Pat Stefano,REP,344,,,Fayette County,Spfield1
+Fayette,Spfield2,State Senate,32.0,Pat Stefano,REP,247,,,Fayette County,Spfield2
+Fayette,Sphill1,State Senate,32.0,Pat Stefano,REP,270,,,Fayette County,Sphill1
+Fayette,Sphill2,State Senate,32.0,Pat Stefano,REP,273,,,Fayette County,Sphill2
+Fayette,Stewart,State Senate,32.0,Pat Stefano,REP,199,,,Fayette County,Stewart
+Fayette,UtownW1,State Senate,32.0,Pat Stefano,REP,262,,,Fayette County,UtownW1
+Fayette,UtownW2,State Senate,32.0,Pat Stefano,REP,106,,,Fayette County,UtownW2
+Fayette,UtownW3,State Senate,32.0,Pat Stefano,REP,119,,,Fayette County,UtownW3
+Fayette,UtownW4,State Senate,32.0,Pat Stefano,REP,56,,,Fayette County,UtownW4
+Fayette,UtownW5,State Senate,32.0,Pat Stefano,REP,186,,,Fayette County,UtownW5
+Fayette,UtownW6,State Senate,32.0,Pat Stefano,REP,132,,,Fayette County,UtownW6
+Fayette,UtownW7,State Senate,32.0,Pat Stefano,REP,222,,,Fayette County,UtownW7
+Fayette,UTyroneTwp,State Senate,32.0,Pat Stefano,REP,418,,,Fayette County,UTyroneTwp
+Fayette,VbiltBoro,State Senate,32.0,Pat Stefano,REP,94,,,Fayette County,VbiltBoro
+Fayette,Washington,State Senate,32.0,Pat Stefano,REP,802,,,Fayette County,Washington
+Fayette,Wharton,State Senate,32.0,Pat Stefano,REP,884,,,Fayette County,Wharton
+Fayette,BvilleTwp,State Senate,32.0,Write-ins,,0,,,Fayette County,BvilleTwp
+Fayette,BvilleW1,State Senate,32.0,Write-ins,,0,,,Fayette County,BvilleW1
+Fayette,BvilleW2,State Senate,32.0,Write-ins,,1,,,Fayette County,BvilleW2
+Fayette,BvilleW3,State Senate,32.0,Write-ins,,0,,,Fayette County,BvilleW3
+Fayette,BullskinD1,State Senate,32.0,Write-ins,,4,,,Fayette County,BullskinD1
+Fayette,BullskinD2,State Senate,32.0,Write-ins,,0,,,Fayette County,BullskinD2
+Fayette,BullskinD3,State Senate,32.0,Write-ins,,0,,,Fayette County,BullskinD3
+Fayette,CvilleW1,State Senate,32.0,Write-ins,,2,,,Fayette County,CvilleW1
+Fayette,CvilleW2,State Senate,32.0,Write-ins,,0,,,Fayette County,CvilleW2
+Fayette,CvilleW3,State Senate,32.0,Write-ins,,3,,,Fayette County,CvilleW3
+Fayette,CvilleW4,State Senate,32.0,Write-ins,,2,,,Fayette County,CvilleW4
+Fayette,CvilleTwp,State Senate,32.0,Write-ins,,1,,,Fayette County,CvilleTwp
+Fayette,DawsonBoro,State Senate,32.0,Write-ins,,0,,,Fayette County,DawsonBoro
+Fayette,DunbarTwp1,State Senate,32.0,Write-ins,,2,,,Fayette County,DunbarTwp1
+Fayette,DunbarTwp2,State Senate,32.0,Write-ins,,0,,,Fayette County,DunbarTwp2
+Fayette,DunbarBoro,State Senate,32.0,Write-ins,,0,,,Fayette County,DunbarBoro
+Fayette,Everson,State Senate,32.0,Write-ins,,0,,,Fayette County,Everson
+Fayette,Fchance,State Senate,32.0,Write-ins,,0,,,Fayette County,Fchance
+Fayette,FayCtyBoro,State Senate,32.0,Write-ins,,0,,,Fayette County,FayCtyBoro
+Fayette,FranklinD1,State Senate,32.0,Write-ins,,1,,,Fayette County,FranklinD1
+Fayette,FranklinD2,State Senate,32.0,Write-ins,,0,,,Fayette County,FranklinD2
+Fayette,GeorgesD1,State Senate,32.0,Write-ins,,0,,,Fayette County,GeorgesD1
+Fayette,GeorgesD2,State Senate,32.0,Write-ins,,0,,,Fayette County,GeorgesD2
+Fayette,GeorgesD3,State Senate,32.0,Write-ins,,1,,,Fayette County,GeorgesD3
+Fayette,GermanD1,State Senate,32.0,Write-ins,,0,,,Fayette County,GermanD1
+Fayette,GermanD2,State Senate,32.0,Write-ins,,0,,,Fayette County,GermanD2
+Fayette,GermanD3,State Senate,32.0,Write-ins,,0,,,Fayette County,GermanD3
+Fayette,GermanD4,State Senate,32.0,Write-ins,,0,,,Fayette County,GermanD4
+Fayette,HenryClay,State Senate,32.0,Write-ins,,0,,,Fayette County,HenryClay
+Fayette,JeffTwp,State Senate,32.0,Write-ins,,0,,,Fayette County,JeffTwp
+Fayette,LTyroneTwp,State Senate,32.0,Write-ins,,0,,,Fayette County,LTyroneTwp
+Fayette,LuzerneD1,State Senate,32.0,Write-ins,,0,,,Fayette County,LuzerneD1
+Fayette,LuzerneD2,State Senate,32.0,Write-ins,,0,,,Fayette County,LuzerneD2
+Fayette,LuzerneD3,State Senate,32.0,Write-ins,,0,,,Fayette County,LuzerneD3
+Fayette,LuzerneD4,State Senate,32.0,Write-ins,,0,,,Fayette County,LuzerneD4
+Fayette,Markleysbrg,State Senate,32.0,Write-ins,,0,,,Fayette County,Markleysbrg
+Fayette,Masontwn,State Senate,32.0,Write-ins,,1,,,Fayette County,Masontwn
+Fayette,Menallen1,State Senate,32.0,Write-ins,,0,,,Fayette County,Menallen1
+Fayette,Menallen2,State Senate,32.0,Write-ins,,1,,,Fayette County,Menallen2
+Fayette,Menallen3,State Senate,32.0,Write-ins,,0,,,Fayette County,Menallen3
+Fayette,NewellBoro,State Senate,32.0,Write-ins,,0,,,Fayette County,NewellBoro
+Fayette,Nicholson,State Senate,32.0,Write-ins,,1,,,Fayette County,Nicholson
+Fayette,NUnion1,State Senate,32.0,Write-ins,,3,,,Fayette County,NUnion1
+Fayette,NUnion2,State Senate,32.0,Write-ins,,0,,,Fayette County,NUnion2
+Fayette,NUnion3,State Senate,32.0,Write-ins,,0,,,Fayette County,NUnion3
+Fayette,NUnion4,State Senate,32.0,Write-ins,,1,,,Fayette County,NUnion4
+Fayette,NUnion5,State Senate,32.0,Write-ins,,1,,,Fayette County,NUnion5
+Fayette,Ohiopyle,State Senate,32.0,Write-ins,,0,,,Fayette County,Ohiopyle
+Fayette,PerryTwp,State Senate,32.0,Write-ins,,2,,,Fayette County,PerryTwp
+Fayette,Perryopolis,State Senate,32.0,Write-ins,,0,,,Fayette County,Perryopolis
+Fayette,PtMarion,State Senate,32.0,Write-ins,,0,,,Fayette County,PtMarion
+Fayette,Redstone1,State Senate,32.0,Write-ins,,0,,,Fayette County,Redstone1
+Fayette,Redstone2,State Senate,32.0,Write-ins,,0,,,Fayette County,Redstone2
+Fayette,Redstone3,State Senate,32.0,Write-ins,,1,,,Fayette County,Redstone3
+Fayette,Redstone4,State Senate,32.0,Write-ins,,0,,,Fayette County,Redstone4
+Fayette,Saltlick,State Senate,32.0,Write-ins,,0,,,Fayette County,Saltlick
+Fayette,Smithfield,State Senate,32.0,Write-ins,,0,,,Fayette County,Smithfield
+Fayette,SCvilleBoro,State Senate,32.0,Write-ins,,0,,,Fayette County,SCvilleBoro
+Fayette,SUnion1,State Senate,32.0,Write-ins,,1,,,Fayette County,SUnion1
+Fayette,SUnion2,State Senate,32.0,Write-ins,,0,,,Fayette County,SUnion2
+Fayette,SUnion3,State Senate,32.0,Write-ins,,1,,,Fayette County,SUnion3
+Fayette,Spfield1,State Senate,32.0,Write-ins,,1,,,Fayette County,Spfield1
+Fayette,Spfield2,State Senate,32.0,Write-ins,,1,,,Fayette County,Spfield2
+Fayette,Sphill1,State Senate,32.0,Write-ins,,0,,,Fayette County,Sphill1
+Fayette,Sphill2,State Senate,32.0,Write-ins,,0,,,Fayette County,Sphill2
+Fayette,Stewart,State Senate,32.0,Write-ins,,0,,,Fayette County,Stewart
+Fayette,UtownW1,State Senate,32.0,Write-ins,,1,,,Fayette County,UtownW1
+Fayette,UtownW2,State Senate,32.0,Write-ins,,0,,,Fayette County,UtownW2
+Fayette,UtownW3,State Senate,32.0,Write-ins,,1,,,Fayette County,UtownW3
+Fayette,UtownW4,State Senate,32.0,Write-ins,,1,,,Fayette County,UtownW4
+Fayette,UtownW5,State Senate,32.0,Write-ins,,2,,,Fayette County,UtownW5
+Fayette,UtownW6,State Senate,32.0,Write-ins,,0,,,Fayette County,UtownW6
+Fayette,UtownW7,State Senate,32.0,Write-ins,,0,,,Fayette County,UtownW7
+Fayette,UTyroneTwp,State Senate,32.0,Write-ins,,0,,,Fayette County,UTyroneTwp
+Fayette,VbiltBoro,State Senate,32.0,Write-ins,,0,,,Fayette County,VbiltBoro
+Fayette,Washington,State Senate,32.0,Write-ins,,0,,,Fayette County,Washington
+Fayette,Wharton,State Senate,32.0,Write-ins,,1,,,Fayette County,Wharton
+Fayette,BelleVernon,State House,49.0,Steven M. Toprani,DEM,144,,,Fayette County,BelleVernon
+Fayette,FayCtyBoro,State House,49.0,Steven M. Toprani,DEM,71,,,Fayette County,FayCtyBoro
+Fayette,FranklinD1,State House,49.0,Steven M. Toprani,DEM,175,,,Fayette County,FranklinD1
+Fayette,FranklinD2,State House,49.0,Steven M. Toprani,DEM,134,,,Fayette County,FranklinD2
+Fayette,JeffTwp,State House,49.0,Steven M. Toprani,DEM,296,,,Fayette County,JeffTwp
+Fayette,NewellBoro,State House,49.0,Steven M. Toprani,DEM,101,,,Fayette County,NewellBoro
+Fayette,Washington,State House,49.0,Steven M. Toprani,DEM,585,,,Fayette County,Washington
+Fayette,BelleVernon,State House,49.0,Bud Cook,REP,157,,,Fayette County,BelleVernon
+Fayette,FayCtyBoro,State House,49.0,Bud Cook,REP,91,,,Fayette County,FayCtyBoro
+Fayette,FranklinD1,State House,49.0,Bud Cook,REP,315,,,Fayette County,FranklinD1
+Fayette,FranklinD2,State House,49.0,Bud Cook,REP,215,,,Fayette County,FranklinD2
+Fayette,JeffTwp,State House,49.0,Bud Cook,REP,476,,,Fayette County,JeffTwp
+Fayette,NewellBoro,State House,49.0,Bud Cook,REP,73,,,Fayette County,NewellBoro
+Fayette,Washington,State House,49.0,Bud Cook,REP,781,,,Fayette County,Washington
+Fayette,BelleVernon,State House,49.0,Write-ins,,0,,,Fayette County,BelleVernon
+Fayette,FayCtyBoro,State House,49.0,Write-ins,,0,,,Fayette County,FayCtyBoro
+Fayette,FranklinD1,State House,49.0,Write-ins,,0,,,Fayette County,FranklinD1
+Fayette,FranklinD2,State House,49.0,Write-ins,,0,,,Fayette County,FranklinD2
+Fayette,JeffTwp,State House,49.0,Write-ins,,0,,,Fayette County,JeffTwp
+Fayette,NewellBoro,State House,49.0,Write-ins,,0,,,Fayette County,NewellBoro
+Fayette,Washington,State House,49.0,Write-ins,,1,,,Fayette County,Washington
+Fayette,BvilleTwp,State House,50.0,Pam Snyder,DEM,141,,,Fayette County,BvilleTwp
+Fayette,BvilleW1,State House,50.0,Pam Snyder,DEM,116,,,Fayette County,BvilleW1
+Fayette,BvilleW2,State House,50.0,Pam Snyder,DEM,143,,,Fayette County,BvilleW2
+Fayette,BvilleW3,State House,50.0,Pam Snyder,DEM,167,,,Fayette County,BvilleW3
+Fayette,LuzerneD1,State House,50.0,Pam Snyder,DEM,253,,,Fayette County,LuzerneD1
+Fayette,LuzerneD2,State House,50.0,Pam Snyder,DEM,366,,,Fayette County,LuzerneD2
+Fayette,LuzerneD3,State House,50.0,Pam Snyder,DEM,143,,,Fayette County,LuzerneD3
+Fayette,LuzerneD4,State House,50.0,Pam Snyder,DEM,81,,,Fayette County,LuzerneD4
+Fayette,Masontwn,State House,50.0,Pam Snyder,DEM,552,,,Fayette County,Masontwn
+Fayette,Redstone1,State House,50.0,Pam Snyder,DEM,344,,,Fayette County,Redstone1
+Fayette,Redstone2,State House,50.0,Pam Snyder,DEM,387,,,Fayette County,Redstone2
+Fayette,Redstone3,State House,50.0,Pam Snyder,DEM,78,,,Fayette County,Redstone3
+Fayette,Redstone4,State House,50.0,Pam Snyder,DEM,127,,,Fayette County,Redstone4
+Fayette,BvilleTwp,State House,50.0,Betsy Rohanna McClure,REP,57,,,Fayette County,BvilleTwp
+Fayette,BvilleW1,State House,50.0,Betsy Rohanna McClure,REP,45,,,Fayette County,BvilleW1
+Fayette,BvilleW2,State House,50.0,Betsy Rohanna McClure,REP,74,,,Fayette County,BvilleW2
+Fayette,BvilleW3,State House,50.0,Betsy Rohanna McClure,REP,75,,,Fayette County,BvilleW3
+Fayette,LuzerneD1,State House,50.0,Betsy Rohanna McClure,REP,187,,,Fayette County,LuzerneD1
+Fayette,LuzerneD2,State House,50.0,Betsy Rohanna McClure,REP,179,,,Fayette County,LuzerneD2
+Fayette,LuzerneD3,State House,50.0,Betsy Rohanna McClure,REP,59,,,Fayette County,LuzerneD3
+Fayette,LuzerneD4,State House,50.0,Betsy Rohanna McClure,REP,58,,,Fayette County,LuzerneD4
+Fayette,Masontwn,State House,50.0,Betsy Rohanna McClure,REP,383,,,Fayette County,Masontwn
+Fayette,Redstone1,State House,50.0,Betsy Rohanna McClure,REP,248,,,Fayette County,Redstone1
+Fayette,Redstone2,State House,50.0,Betsy Rohanna McClure,REP,223,,,Fayette County,Redstone2
+Fayette,Redstone3,State House,50.0,Betsy Rohanna McClure,REP,96,,,Fayette County,Redstone3
+Fayette,Redstone4,State House,50.0,Betsy Rohanna McClure,REP,48,,,Fayette County,Redstone4
+Fayette,BvilleTwp,State House,50.0,Write-ins,,0,,,Fayette County,BvilleTwp
+Fayette,BvilleW1,State House,50.0,Write-ins,,0,,,Fayette County,BvilleW1
+Fayette,BvilleW2,State House,50.0,Write-ins,,1,,,Fayette County,BvilleW2
+Fayette,BvilleW3,State House,50.0,Write-ins,,0,,,Fayette County,BvilleW3
+Fayette,LuzerneD1,State House,50.0,Write-ins,,0,,,Fayette County,LuzerneD1
+Fayette,LuzerneD2,State House,50.0,Write-ins,,0,,,Fayette County,LuzerneD2
+Fayette,LuzerneD3,State House,50.0,Write-ins,,0,,,Fayette County,LuzerneD3
+Fayette,LuzerneD4,State House,50.0,Write-ins,,0,,,Fayette County,LuzerneD4
+Fayette,Masontwn,State House,50.0,Write-ins,,1,,,Fayette County,Masontwn
+Fayette,Redstone1,State House,50.0,Write-ins,,0,,,Fayette County,Redstone1
+Fayette,Redstone2,State House,50.0,Write-ins,,1,,,Fayette County,Redstone2
+Fayette,Redstone3,State House,50.0,Write-ins,,1,,,Fayette County,Redstone3
+Fayette,Redstone4,State House,50.0,Write-ins,,0,,,Fayette County,Redstone4
+Fayette,Fchance,State House,51.0,Tim Mahoney,DEM,292,,,Fayette County,Fchance
+Fayette,GeorgesD1,State House,51.0,Tim Mahoney,DEM,182,,,Fayette County,GeorgesD1
+Fayette,GeorgesD2,State House,51.0,Tim Mahoney,DEM,292,,,Fayette County,GeorgesD2
+Fayette,GeorgesD3,State House,51.0,Tim Mahoney,DEM,303,,,Fayette County,GeorgesD3
+Fayette,GermanD1,State House,51.0,Tim Mahoney,DEM,335,,,Fayette County,GermanD1
+Fayette,GermanD2,State House,51.0,Tim Mahoney,DEM,175,,,Fayette County,GermanD2
+Fayette,GermanD3,State House,51.0,Tim Mahoney,DEM,166,,,Fayette County,GermanD3
+Fayette,GermanD4,State House,51.0,Tim Mahoney,DEM,80,,,Fayette County,GermanD4
+Fayette,HenryClay,State House,51.0,Tim Mahoney,DEM,165,,,Fayette County,HenryClay
+Fayette,Markleysbrg,State House,51.0,Tim Mahoney,DEM,21,,,Fayette County,Markleysbrg
+Fayette,Nicholson,State House,51.0,Tim Mahoney,DEM,246,,,Fayette County,Nicholson
+Fayette,Ohiopyle,State House,51.0,Tim Mahoney,DEM,9,,,Fayette County,Ohiopyle
+Fayette,PtMarion,State House,51.0,Tim Mahoney,DEM,124,,,Fayette County,PtMarion
+Fayette,Smithfield,State House,51.0,Tim Mahoney,DEM,112,,,Fayette County,Smithfield
+Fayette,SUnion1,State House,51.0,Tim Mahoney,DEM,1209,,,Fayette County,SUnion1
+Fayette,SUnion2,State House,51.0,Tim Mahoney,DEM,526,,,Fayette County,SUnion2
+Fayette,SUnion3,State House,51.0,Tim Mahoney,DEM,535,,,Fayette County,SUnion3
+Fayette,Spfield1,State House,51.0,Tim Mahoney,DEM,132,,,Fayette County,Spfield1
+Fayette,Spfield2,State House,51.0,Tim Mahoney,DEM,121,,,Fayette County,Spfield2
+Fayette,Sphill1,State House,51.0,Tim Mahoney,DEM,121,,,Fayette County,Sphill1
+Fayette,Sphill2,State House,51.0,Tim Mahoney,DEM,151,,,Fayette County,Sphill2
+Fayette,Stewart,State House,51.0,Tim Mahoney,DEM,67,,,Fayette County,Stewart
+Fayette,UtownW1,State House,51.0,Tim Mahoney,DEM,293,,,Fayette County,UtownW1
+Fayette,UtownW2,State House,51.0,Tim Mahoney,DEM,215,,,Fayette County,UtownW2
+Fayette,UtownW3,State House,51.0,Tim Mahoney,DEM,263,,,Fayette County,UtownW3
+Fayette,UtownW4,State House,51.0,Tim Mahoney,DEM,218,,,Fayette County,UtownW4
+Fayette,UtownW5,State House,51.0,Tim Mahoney,DEM,298,,,Fayette County,UtownW5
+Fayette,UtownW6,State House,51.0,Tim Mahoney,DEM,163,,,Fayette County,UtownW6
+Fayette,UtownW7,State House,51.0,Tim Mahoney,DEM,267,,,Fayette County,UtownW7
+Fayette,Wharton,State House,51.0,Tim Mahoney,DEM,504,,,Fayette County,Wharton
+Fayette,Fchance,State House,51.0,Matthew Dowling,REP,274,,,Fayette County,Fchance
+Fayette,GeorgesD1,State House,51.0,Matthew Dowling,REP,293,,,Fayette County,GeorgesD1
+Fayette,GeorgesD2,State House,51.0,Matthew Dowling,REP,412,,,Fayette County,GeorgesD2
+Fayette,GeorgesD3,State House,51.0,Matthew Dowling,REP,363,,,Fayette County,GeorgesD3
+Fayette,GermanD1,State House,51.0,Matthew Dowling,REP,387,,,Fayette County,GermanD1
+Fayette,GermanD2,State House,51.0,Matthew Dowling,REP,136,,,Fayette County,GermanD2
+Fayette,GermanD3,State House,51.0,Matthew Dowling,REP,159,,,Fayette County,GermanD3
+Fayette,GermanD4,State House,51.0,Matthew Dowling,REP,45,,,Fayette County,GermanD4
+Fayette,HenryClay,State House,51.0,Matthew Dowling,REP,400,,,Fayette County,HenryClay
+Fayette,Markleysbrg,State House,51.0,Matthew Dowling,REP,43,,,Fayette County,Markleysbrg
+Fayette,Nicholson,State House,51.0,Matthew Dowling,REP,324,,,Fayette County,Nicholson
+Fayette,Ohiopyle,State House,51.0,Matthew Dowling,REP,10,,,Fayette County,Ohiopyle
+Fayette,PtMarion,State House,51.0,Matthew Dowling,REP,158,,,Fayette County,PtMarion
+Fayette,Smithfield,State House,51.0,Matthew Dowling,REP,173,,,Fayette County,Smithfield
+Fayette,SUnion1,State House,51.0,Matthew Dowling,REP,826,,,Fayette County,SUnion1
+Fayette,SUnion2,State House,51.0,Matthew Dowling,REP,564,,,Fayette County,SUnion2
+Fayette,SUnion3,State House,51.0,Matthew Dowling,REP,545,,,Fayette County,SUnion3
+Fayette,Spfield1,State House,51.0,Matthew Dowling,REP,298,,,Fayette County,Spfield1
+Fayette,Spfield2,State House,51.0,Matthew Dowling,REP,204,,,Fayette County,Spfield2
+Fayette,Sphill1,State House,51.0,Matthew Dowling,REP,255,,,Fayette County,Sphill1
+Fayette,Sphill2,State House,51.0,Matthew Dowling,REP,247,,,Fayette County,Sphill2
+Fayette,Stewart,State House,51.0,Matthew Dowling,REP,176,,,Fayette County,Stewart
+Fayette,UtownW1,State House,51.0,Matthew Dowling,REP,220,,,Fayette County,UtownW1
+Fayette,UtownW2,State House,51.0,Matthew Dowling,REP,102,,,Fayette County,UtownW2
+Fayette,UtownW3,State House,51.0,Matthew Dowling,REP,100,,,Fayette County,UtownW3
+Fayette,UtownW4,State House,51.0,Matthew Dowling,REP,56,,,Fayette County,UtownW4
+Fayette,UtownW5,State House,51.0,Matthew Dowling,REP,172,,,Fayette County,UtownW5
+Fayette,UtownW6,State House,51.0,Matthew Dowling,REP,119,,,Fayette County,UtownW6
+Fayette,UtownW7,State House,51.0,Matthew Dowling,REP,194,,,Fayette County,UtownW7
+Fayette,Wharton,State House,51.0,Matthew Dowling,REP,700,,,Fayette County,Wharton
+Fayette,Fchance,State House,51.0,Write-ins,,0,,,Fayette County,Fchance
+Fayette,GeorgesD1,State House,51.0,Write-ins,,0,,,Fayette County,GeorgesD1
+Fayette,GeorgesD2,State House,51.0,Write-ins,,2,,,Fayette County,GeorgesD2
+Fayette,GeorgesD3,State House,51.0,Write-ins,,3,,,Fayette County,GeorgesD3
+Fayette,GermanD1,State House,51.0,Write-ins,,1,,,Fayette County,GermanD1
+Fayette,GermanD2,State House,51.0,Write-ins,,0,,,Fayette County,GermanD2
+Fayette,GermanD3,State House,51.0,Write-ins,,0,,,Fayette County,GermanD3
+Fayette,GermanD4,State House,51.0,Write-ins,,1,,,Fayette County,GermanD4
+Fayette,HenryClay,State House,51.0,Write-ins,,2,,,Fayette County,HenryClay
+Fayette,Markleysbrg,State House,51.0,Write-ins,,0,,,Fayette County,Markleysbrg
+Fayette,Nicholson,State House,51.0,Write-ins,,0,,,Fayette County,Nicholson
+Fayette,Ohiopyle,State House,51.0,Write-ins,,0,,,Fayette County,Ohiopyle
+Fayette,PtMarion,State House,51.0,Write-ins,,0,,,Fayette County,PtMarion
+Fayette,Smithfield,State House,51.0,Write-ins,,0,,,Fayette County,Smithfield
+Fayette,SUnion1,State House,51.0,Write-ins,,4,,,Fayette County,SUnion1
+Fayette,SUnion2,State House,51.0,Write-ins,,6,,,Fayette County,SUnion2
+Fayette,SUnion3,State House,51.0,Write-ins,,5,,,Fayette County,SUnion3
+Fayette,Spfield1,State House,51.0,Write-ins,,1,,,Fayette County,Spfield1
+Fayette,Spfield2,State House,51.0,Write-ins,,1,,,Fayette County,Spfield2
+Fayette,Sphill1,State House,51.0,Write-ins,,0,,,Fayette County,Sphill1
+Fayette,Sphill2,State House,51.0,Write-ins,,4,,,Fayette County,Sphill2
+Fayette,Stewart,State House,51.0,Write-ins,,0,,,Fayette County,Stewart
+Fayette,UtownW1,State House,51.0,Write-ins,,1,,,Fayette County,UtownW1
+Fayette,UtownW2,State House,51.0,Write-ins,,1,,,Fayette County,UtownW2
+Fayette,UtownW3,State House,51.0,Write-ins,,0,,,Fayette County,UtownW3
+Fayette,UtownW4,State House,51.0,Write-ins,,0,,,Fayette County,UtownW4
+Fayette,UtownW5,State House,51.0,Write-ins,,2,,,Fayette County,UtownW5
+Fayette,UtownW6,State House,51.0,Write-ins,,2,,,Fayette County,UtownW6
+Fayette,UtownW7,State House,51.0,Write-ins,,0,,,Fayette County,UtownW7
+Fayette,Wharton,State House,51.0,Write-ins,,5,,,Fayette County,Wharton
+Fayette,BullskinD1,State House,52.0,Ethan Keedy,DEM,478,,,Fayette County,BullskinD1
+Fayette,BullskinD2,State House,52.0,Ethan Keedy,DEM,139,,,Fayette County,BullskinD2
+Fayette,BullskinD3,State House,52.0,Ethan Keedy,DEM,221,,,Fayette County,BullskinD3
+Fayette,CvilleW1,State House,52.0,Ethan Keedy,DEM,299,,,Fayette County,CvilleW1
+Fayette,CvilleW2,State House,52.0,Ethan Keedy,DEM,256,,,Fayette County,CvilleW2
+Fayette,CvilleW3,State House,52.0,Ethan Keedy,DEM,123,,,Fayette County,CvilleW3
+Fayette,CvilleW4,State House,52.0,Ethan Keedy,DEM,226,,,Fayette County,CvilleW4
+Fayette,CvilleTwp,State House,52.0,Ethan Keedy,DEM,285,,,Fayette County,CvilleTwp
+Fayette,DawsonBoro,State House,52.0,Ethan Keedy,DEM,39,,,Fayette County,DawsonBoro
+Fayette,DunbarTwp1,State House,52.0,Ethan Keedy,DEM,283,,,Fayette County,DunbarTwp1
+Fayette,DunbarTwp2,State House,52.0,Ethan Keedy,DEM,551,,,Fayette County,DunbarTwp2
+Fayette,DunbarBoro,State House,52.0,Ethan Keedy,DEM,106,,,Fayette County,DunbarBoro
+Fayette,Everson,State House,52.0,Ethan Keedy,DEM,91,,,Fayette County,Everson
+Fayette,LTyroneTwp,State House,52.0,Ethan Keedy,DEM,120,,,Fayette County,LTyroneTwp
+Fayette,Menallen1,State House,52.0,Ethan Keedy,DEM,198,,,Fayette County,Menallen1
+Fayette,Menallen2,State House,52.0,Ethan Keedy,DEM,256,,,Fayette County,Menallen2
+Fayette,Menallen3,State House,52.0,Ethan Keedy,DEM,149,,,Fayette County,Menallen3
+Fayette,NUnion1,State House,52.0,Ethan Keedy,DEM,410,,,Fayette County,NUnion1
+Fayette,NUnion2,State House,52.0,Ethan Keedy,DEM,494,,,Fayette County,NUnion2
+Fayette,NUnion3,State House,52.0,Ethan Keedy,DEM,150,,,Fayette County,NUnion3
+Fayette,NUnion4,State House,52.0,Ethan Keedy,DEM,447,,,Fayette County,NUnion4
+Fayette,NUnion5,State House,52.0,Ethan Keedy,DEM,97,,,Fayette County,NUnion5
+Fayette,PerryTwp,State House,52.0,Ethan Keedy,DEM,306,,,Fayette County,PerryTwp
+Fayette,Perryopolis,State House,52.0,Ethan Keedy,DEM,241,,,Fayette County,Perryopolis
+Fayette,Saltlick,State House,52.0,Ethan Keedy,DEM,301,,,Fayette County,Saltlick
+Fayette,SCvilleBoro,State House,52.0,Ethan Keedy,DEM,212,,,Fayette County,SCvilleBoro
+Fayette,UTyroneTwp,State House,52.0,Ethan Keedy,DEM,172,,,Fayette County,UTyroneTwp
+Fayette,VbiltBoro,State House,52.0,Ethan Keedy,DEM,54,,,Fayette County,VbiltBoro
+Fayette,BullskinD1,State House,52.0,Ryan Warner,REP,998,,,Fayette County,BullskinD1
+Fayette,BullskinD2,State House,52.0,Ryan Warner,REP,360,,,Fayette County,BullskinD2
+Fayette,BullskinD3,State House,52.0,Ryan Warner,REP,345,,,Fayette County,BullskinD3
+Fayette,CvilleW1,State House,52.0,Ryan Warner,REP,382,,,Fayette County,CvilleW1
+Fayette,CvilleW2,State House,52.0,Ryan Warner,REP,250,,,Fayette County,CvilleW2
+Fayette,CvilleW3,State House,52.0,Ryan Warner,REP,193,,,Fayette County,CvilleW3
+Fayette,CvilleW4,State House,52.0,Ryan Warner,REP,217,,,Fayette County,CvilleW4
+Fayette,CvilleTwp,State House,52.0,Ryan Warner,REP,430,,,Fayette County,CvilleTwp
+Fayette,DawsonBoro,State House,52.0,Ryan Warner,REP,68,,,Fayette County,DawsonBoro
+Fayette,DunbarTwp1,State House,52.0,Ryan Warner,REP,574,,,Fayette County,DunbarTwp1
+Fayette,DunbarTwp2,State House,52.0,Ryan Warner,REP,783,,,Fayette County,DunbarTwp2
+Fayette,DunbarBoro,State House,52.0,Ryan Warner,REP,222,,,Fayette County,DunbarBoro
+Fayette,Everson,State House,52.0,Ryan Warner,REP,98,,,Fayette County,Everson
+Fayette,LTyroneTwp,State House,52.0,Ryan Warner,REP,296,,,Fayette County,LTyroneTwp
+Fayette,Menallen1,State House,52.0,Ryan Warner,REP,214,,,Fayette County,Menallen1
+Fayette,Menallen2,State House,52.0,Ryan Warner,REP,394,,,Fayette County,Menallen2
+Fayette,Menallen3,State House,52.0,Ryan Warner,REP,139,,,Fayette County,Menallen3
+Fayette,NUnion1,State House,52.0,Ryan Warner,REP,361,,,Fayette County,NUnion1
+Fayette,NUnion2,State House,52.0,Ryan Warner,REP,678,,,Fayette County,NUnion2
+Fayette,NUnion3,State House,52.0,Ryan Warner,REP,259,,,Fayette County,NUnion3
+Fayette,NUnion4,State House,52.0,Ryan Warner,REP,506,,,Fayette County,NUnion4
+Fayette,NUnion5,State House,52.0,Ryan Warner,REP,135,,,Fayette County,NUnion5
+Fayette,PerryTwp,State House,52.0,Ryan Warner,REP,542,,,Fayette County,PerryTwp
+Fayette,Perryopolis,State House,52.0,Ryan Warner,REP,434,,,Fayette County,Perryopolis
+Fayette,Saltlick,State House,52.0,Ryan Warner,REP,709,,,Fayette County,Saltlick
+Fayette,SCvilleBoro,State House,52.0,Ryan Warner,REP,348,,,Fayette County,SCvilleBoro
+Fayette,UTyroneTwp,State House,52.0,Ryan Warner,REP,390,,,Fayette County,UTyroneTwp
+Fayette,VbiltBoro,State House,52.0,Ryan Warner,REP,100,,,Fayette County,VbiltBoro
+Fayette,BullskinD1,State House,52.0,Write-ins,,0,,,Fayette County,BullskinD1
+Fayette,BullskinD2,State House,52.0,Write-ins,,0,,,Fayette County,BullskinD2
+Fayette,BullskinD3,State House,52.0,Write-ins,,0,,,Fayette County,BullskinD3
+Fayette,CvilleW1,State House,52.0,Write-ins,,1,,,Fayette County,CvilleW1
+Fayette,CvilleW2,State House,52.0,Write-ins,,1,,,Fayette County,CvilleW2
+Fayette,CvilleW3,State House,52.0,Write-ins,,1,,,Fayette County,CvilleW3
+Fayette,CvilleW4,State House,52.0,Write-ins,,2,,,Fayette County,CvilleW4
+Fayette,CvilleTwp,State House,52.0,Write-ins,,3,,,Fayette County,CvilleTwp
+Fayette,DawsonBoro,State House,52.0,Write-ins,,0,,,Fayette County,DawsonBoro
+Fayette,DunbarTwp1,State House,52.0,Write-ins,,1,,,Fayette County,DunbarTwp1
+Fayette,DunbarTwp2,State House,52.0,Write-ins,,1,,,Fayette County,DunbarTwp2
+Fayette,DunbarBoro,State House,52.0,Write-ins,,0,,,Fayette County,DunbarBoro
+Fayette,Everson,State House,52.0,Write-ins,,0,,,Fayette County,Everson
+Fayette,LTyroneTwp,State House,52.0,Write-ins,,0,,,Fayette County,LTyroneTwp
+Fayette,Menallen1,State House,52.0,Write-ins,,0,,,Fayette County,Menallen1
+Fayette,Menallen2,State House,52.0,Write-ins,,0,,,Fayette County,Menallen2
+Fayette,Menallen3,State House,52.0,Write-ins,,1,,,Fayette County,Menallen3
+Fayette,NUnion1,State House,52.0,Write-ins,,0,,,Fayette County,NUnion1
+Fayette,NUnion2,State House,52.0,Write-ins,,3,,,Fayette County,NUnion2
+Fayette,NUnion3,State House,52.0,Write-ins,,0,,,Fayette County,NUnion3
+Fayette,NUnion4,State House,52.0,Write-ins,,4,,,Fayette County,NUnion4
+Fayette,NUnion5,State House,52.0,Write-ins,,2,,,Fayette County,NUnion5
+Fayette,PerryTwp,State House,52.0,Write-ins,,1,,,Fayette County,PerryTwp
+Fayette,Perryopolis,State House,52.0,Write-ins,,0,,,Fayette County,Perryopolis
+Fayette,Saltlick,State House,52.0,Write-ins,,1,,,Fayette County,Saltlick
+Fayette,SCvilleBoro,State House,52.0,Write-ins,,1,,,Fayette County,SCvilleBoro
+Fayette,UTyroneTwp,State House,52.0,Write-ins,,0,,,Fayette County,UTyroneTwp
+Fayette,VbiltBoro,State House,52.0,Write-ins,,0,,,Fayette County,VbiltBoro

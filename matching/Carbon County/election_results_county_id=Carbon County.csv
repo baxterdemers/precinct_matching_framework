@@ -1,0 +1,935 @@
+county,precinct,office,district,candidate,party,votes,election_day,absentee,county_id,original_precinct_name
+Carbon,4 Banks Twp,U.S. Senate,,"Bob Casey, Jr.",DEM,132,125.0,7.0,Carbon County,4 Banks Twp
+Carbon,5 Beaver Meadows Borough,U.S. Senate,,"Bob Casey, Jr.",DEM,83,77.0,6.0,Carbon County,5 Beaver Meadows Borough
+Carbon,6 Bowmanstown Borough,U.S. Senate,,"Bob Casey, Jr.",DEM,123,121.0,2.0,Carbon County,6 Bowmanstown Borough
+Carbon,7 Fast Penn Twp-South,U.S. Senate,,"Bob Casey, Jr.",DEM,165,163.0,2.0,Carbon County,7 Fast Penn Twp-South
+Carbon,8 East Penn Twp-North,U.S. Senate,,"Bob Casey, Jr.",DEM,204,196.0,8.0,Carbon County,8 East Penn Twp-North
+Carbon,10 East Side Borough,U.S. Senate,,"Bob Casey, Jr.",DEM,31,25.0,6.0,Carbon County,10 East Side Borough
+Carbon,II Franklin Twp-Independent,U.S. Senate,,"Bob Casey, Jr.",DEM,135,133.0,2.0,Carbon County,II Franklin Twp-Independent
+Carbon,12 Franklin Twp-Harrity,U.S. Senate,,"Bob Casey, Jr.",DEM,242,233.0,9.0,Carbon County,12 Franklin Twp-Harrity
+Carbon,13 Franklin Twp-Long Run,U.S. Senate,,"Bob Casey, Jr.",DEM,163,159.0,4.0,Carbon County,13 Franklin Twp-Long Run
+Carbon,14 Jim Thorpe Borough-First Ward,U.S. Senate,,"Bob Casey, Jr.",DEM,206,198.0,8.0,Carbon County,14 Jim Thorpe Borough-First Ward
+Carbon,15 Jim Thorpe Borough-Second Ward,U.S. Senate,,"Bob Casey, Jr.",DEM,114,107.0,7.0,Carbon County,15 Jim Thorpe Borough-Second Ward
+Carbon,16 Jim Thorpe Borough-Third Ward,U.S. Senate,,"Bob Casey, Jr.",DEM,241,225.0,16.0,Carbon County,16 Jim Thorpe Borough-Third Ward
+Carbon,17 Jim Thorpe Borough-Fourth Ward,U.S. Senate,,"Bob Casey, Jr.",DEM,137,123.0,14.0,Carbon County,17 Jim Thorpe Borough-Fourth Ward
+Carbon,18 Jim Thorpe Borough-Fifth Ward,U.S. Senate,,"Bob Casey, Jr.",DEM,189,180.0,9.0,Carbon County,18 Jim Thorpe Borough-Fifth Ward
+Carbon,20 Kidder Twp-North,U.S. Senate,,"Bob Casey, Jr.",DEM,80,73.0,7.0,Carbon County,20 Kidder Twp-North
+Carbon,21 Kidder Twp-South,U.S. Senate,,"Bob Casey, Jr.",DEM,181,171.0,10.0,Carbon County,21 Kidder Twp-South
+Carbon,23 Lansford Borough-East,U.S. Senate,,"Bob Casey, Jr.",DEM,196,184.0,12.0,Carbon County,23 Lansford Borough-East
+Carbon,24 Lansford Borough-Middle,U.S. Senate,,"Bob Casey, Jr.",DEM,127,124.0,3.0,Carbon County,24 Lansford Borough-Middle
+Carbon,25 Lansford Borough-West,U.S. Senate,,"Bob Casey, Jr.",DEM,105,101.0,4.0,Carbon County,25 Lansford Borough-West
+Carbon,26 Lausanne Twp,U.S. Senate,,"Bob Casey, Jr.",DEM,30,30.0,0.0,Carbon County,26 Lausanne Twp
+Carbon,27 Lehigh Twp,U.S. Senate,,"Bob Casey, Jr.",DEM,39,39.0,0.0,Carbon County,27 Lehigh Twp
+Carbon,28 Lehighton Borough-First Ward,U.S. Senate,,"Bob Casey, Jr.",DEM,229,226.0,3.0,Carbon County,28 Lehighton Borough-First Ward
+Carbon,29 Lehighton Borough-Second Ward,U.S. Senate,,"Bob Casey, Jr.",DEM,210,197.0,13.0,Carbon County,29 Lehighton Borough-Second Ward
+Carbon,30 Lehighton Borough-Third Ward,U.S. Senate,,"Bob Casey, Jr.",DEM,238,231.0,7.0,Carbon County,30 Lehighton Borough-Third Ward
+Carbon,32 Lower Towamensing Twp-North,U.S. Senate,,"Bob Casey, Jr.",DEM,219,212.0,7.0,Carbon County,32 Lower Towamensing Twp-North
+Carbon,33 Lower Towamensing Twp-South,U.S. Senate,,"Bob Casey, Jr.",DEM,168,161.0,7.0,Carbon County,33 Lower Towamensing Twp-South
+Carbon,35 Mahoning Twp-Mahoning,U.S. Senate,,"Bob Casey, Jr.",DEM,308,295.0,13.0,Carbon County,35 Mahoning Twp-Mahoning
+Carbon,36 Mahoning Twp-New Mahoning,U.S. Senate,,"Bob Casey, Jr.",DEM,91,91.0,0.0,Carbon County,36 Mahoning Twp-New Mahoning
+Carbon,38 Mahoning Twp-Packerton/Jamestown,U.S. Senate,,"Bob Casey, Jr.",DEM,90,90.0,0.0,Carbon County,38 Mahoning Twp-Packerton/Jamestown
+Carbon,41 Nesquehoning Borough-East,U.S. Senate,,"Bob Casey, Jr.",DEM,238,225.0,13.0,Carbon County,41 Nesquehoning Borough-East
+Carbon,42 Nesquehoning Borough-West,U.S. Senate,,"Bob Casey, Jr.",DEM,241,233.0,8.0,Carbon County,42 Nesquehoning Borough-West
+Carbon,45 Packer Twp,U.S. Senate,,"Bob Casey, Jr.",DEM,105,104.0,1.0,Carbon County,45 Packer Twp
+Carbon,47 Palmerton Borough-East,U.S. Senate,,"Bob Casey, Jr.",DEM,224,219.0,5.0,Carbon County,47 Palmerton Borough-East
+Carbon,48 Palmerton Borough-Middle,U.S. Senate,,"Bob Casey, Jr.",DEM,391,372.0,19.0,Carbon County,48 Palmerton Borough-Middle
+Carbon,49 Palmerton Borough-West,U.S. Senate,,"Bob Casey, Jr.",DEM,98,98.0,0.0,Carbon County,49 Palmerton Borough-West
+Carbon,50 Parryville Borough,U.S. Senate,,"Bob Casey, Jr.",DEM,57,55.0,1.0,Carbon County,50 Parryville Borough
+Carbon,51-1 Penn Forest Twp-Southwest,U.S. Senate,,"Bob Casey, Jr.",DEM,283,266.0,17.0,Carbon County,51-1 Penn Forest Twp-Southwest
+Carbon,51-2 Penn Forest Twp-Northwest,U.S. Senate,,"Bob Casey, Jr.",DEM,308,295.0,13.0,Carbon County,51-2 Penn Forest Twp-Northwest
+Carbon,51-3 Penn Forest Twp-Middle,U.S. Senate,,"Bob Casey, Jr.",DEM,210,205.0,5.0,Carbon County,51-3 Penn Forest Twp-Middle
+Carbon,51-4 Penn Forest Two-Northeast,U.S. Senate,,"Bob Casey, Jr.",DEM,359,344.0,15.0,Carbon County,51-4 Penn Forest Two-Northeast
+Carbon,51-5 Penn Forest Twp-East,U.S. Senate,,"Bob Casey, Jr.",DEM,302,284.0,18.0,Carbon County,51-5 Penn Forest Twp-East
+Carbon,52 Summit Hill Borough-First Ward,U.S. Senate,,"Bob Casey, Jr.",DEM,157,144.0,13.0,Carbon County,52 Summit Hill Borough-First Ward
+Carbon,53 Summit Hill Borough-Second Ward,U.S. Senate,,"Bob Casey, Jr.",DEM,150,141.0,9.0,Carbon County,53 Summit Hill Borough-Second Ward
+Carbon,54 Summit Hill Borough-Third Ward/First,U.S. Senate,,"Bob Casey, Jr.",DEM,150,142.0,8.0,Carbon County,54 Summit Hill Borough-Third Ward/First
+Carbon,55 Summit Hill Borough-Third Ward/Second,U.S. Senate,,"Bob Casey, Jr.",DEM,79,73.0,6.0,Carbon County,55 Summit Hill Borough-Third Ward/Second
+Carbon,56 Towamensing Twp-North,U.S. Senate,,"Bob Casey, Jr.",DEM,198,189.0,9.0,Carbon County,56 Towamensing Twp-North
+Carbon,57-1 Towamensing Twp-South-1,U.S. Senate,,"Bob Casey, Jr.",DEM,203,192.0,11.0,Carbon County,57-1 Towamensing Twp-South-1
+Carbon,57-2 Towamensing Twp-South-2,U.S. Senate,,"Bob Casey, Jr.",DEM,197,184.0,13.0,Carbon County,57-2 Towamensing Twp-South-2
+Carbon,58 Weatherly Borough-East,U.S. Senate,,"Bob Casey, Jr.",DEM,173,161.0,12.0,Carbon County,58 Weatherly Borough-East
+Carbon,61 Weatherly Borough-West,U.S. Senate,,"Bob Casey, Jr.",DEM,90,89.0,1.0,Carbon County,61 Weatherly Borough-West
+Carbon,62 Weissport Borough,U.S. Senate,,"Bob Casey, Jr.",DEM,50,49.0,1.0,Carbon County,62 Weissport Borough
+Carbon,Total,U.S. Senate,,"Bob Casey, Jr.",DEM,8739,8354.0,384.0,Carbon County,Total
+Carbon,4 Banks Twp,U.S. Senate,,Lou Barletta,REP,260,254.0,6.0,Carbon County,4 Banks Twp
+Carbon,5 Beaver Meadows Borough,U.S. Senate,,Lou Barletta,REP,196,192.0,4.0,Carbon County,5 Beaver Meadows Borough
+Carbon,6 Bowmanstown Borough,U.S. Senate,,Lou Barletta,REP,162,156.0,6.0,Carbon County,6 Bowmanstown Borough
+Carbon,7 Fast Penn Twp-South,U.S. Senate,,Lou Barletta,REP,335,323.0,12.0,Carbon County,7 Fast Penn Twp-South
+Carbon,8 East Penn Twp-North,U.S. Senate,,Lou Barletta,REP,405,396.0,9.0,Carbon County,8 East Penn Twp-North
+Carbon,10 East Side Borough,U.S. Senate,,Lou Barletta,REP,45,39.0,6.0,Carbon County,10 East Side Borough
+Carbon,II Franklin Twp-Independent,U.S. Senate,,Lou Barletta,REP,253,246.0,7.0,Carbon County,II Franklin Twp-Independent
+Carbon,12 Franklin Twp-Harrity,U.S. Senate,,Lou Barletta,REP,468,455.0,13.0,Carbon County,12 Franklin Twp-Harrity
+Carbon,13 Franklin Twp-Long Run,U.S. Senate,,Lou Barletta,REP,389,380.0,9.0,Carbon County,13 Franklin Twp-Long Run
+Carbon,14 Jim Thorpe Borough-First Ward,U.S. Senate,,Lou Barletta,REP,189,180.0,9.0,Carbon County,14 Jim Thorpe Borough-First Ward
+Carbon,15 Jim Thorpe Borough-Second Ward,U.S. Senate,,Lou Barletta,REP,144,137.0,7.0,Carbon County,15 Jim Thorpe Borough-Second Ward
+Carbon,16 Jim Thorpe Borough-Third Ward,U.S. Senate,,Lou Barletta,REP,326,311.0,15.0,Carbon County,16 Jim Thorpe Borough-Third Ward
+Carbon,17 Jim Thorpe Borough-Fourth Ward,U.S. Senate,,Lou Barletta,REP,90,85.0,5.0,Carbon County,17 Jim Thorpe Borough-Fourth Ward
+Carbon,18 Jim Thorpe Borough-Fifth Ward,U.S. Senate,,Lou Barletta,REP,225,210.0,15.0,Carbon County,18 Jim Thorpe Borough-Fifth Ward
+Carbon,20 Kidder Twp-North,U.S. Senate,,Lou Barletta,REP,133,130.0,3.0,Carbon County,20 Kidder Twp-North
+Carbon,21 Kidder Twp-South,U.S. Senate,,Lou Barletta,REP,367,338.0,29.0,Carbon County,21 Kidder Twp-South
+Carbon,23 Lansford Borough-East,U.S. Senate,,Lou Barletta,REP,224,212.0,12.0,Carbon County,23 Lansford Borough-East
+Carbon,24 Lansford Borough-Middle,U.S. Senate,,Lou Barletta,REP,152,148.0,4.0,Carbon County,24 Lansford Borough-Middle
+Carbon,25 Lansford Borough-West,U.S. Senate,,Lou Barletta,REP,116,113.0,3.0,Carbon County,25 Lansford Borough-West
+Carbon,26 Lausanne Twp,U.S. Senate,,Lou Barletta,REP,61,59.0,2.0,Carbon County,26 Lausanne Twp
+Carbon,27 Lehigh Twp,U.S. Senate,,Lou Barletta,REP,161,153.0,8.0,Carbon County,27 Lehigh Twp
+Carbon,28 Lehighton Borough-First Ward,U.S. Senate,,Lou Barletta,REP,264,251.0,13.0,Carbon County,28 Lehighton Borough-First Ward
+Carbon,29 Lehighton Borough-Second Ward,U.S. Senate,,Lou Barletta,REP,249,242.0,7.0,Carbon County,29 Lehighton Borough-Second Ward
+Carbon,30 Lehighton Borough-Third Ward,U.S. Senate,,Lou Barletta,REP,239,234.0,5.0,Carbon County,30 Lehighton Borough-Third Ward
+Carbon,32 Lower Towamensing Twp-North,U.S. Senate,,Lou Barletta,REP,409,400.0,9.0,Carbon County,32 Lower Towamensing Twp-North
+Carbon,33 Lower Towamensing Twp-South,U.S. Senate,,Lou Barletta,REP,275,268.0,7.0,Carbon County,33 Lower Towamensing Twp-South
+Carbon,35 Mahoning Twp-Mahoning,U.S. Senate,,Lou Barletta,REP,599,582.0,17.0,Carbon County,35 Mahoning Twp-Mahoning
+Carbon,36 Mahoning Twp-New Mahoning,U.S. Senate,,Lou Barletta,REP,225,220.0,5.0,Carbon County,36 Mahoning Twp-New Mahoning
+Carbon,38 Mahoning Twp-Packerton/Jamestown,U.S. Senate,,Lou Barletta,REP,146,144.0,2.0,Carbon County,38 Mahoning Twp-Packerton/Jamestown
+Carbon,41 Nesquehoning Borough-East,U.S. Senate,,Lou Barletta,REP,273,261.0,12.0,Carbon County,41 Nesquehoning Borough-East
+Carbon,42 Nesquehoning Borough-West,U.S. Senate,,Lou Barletta,REP,316,297.0,19.0,Carbon County,42 Nesquehoning Borough-West
+Carbon,45 Packer Twp,U.S. Senate,,Lou Barletta,REP,379,366.0,13.0,Carbon County,45 Packer Twp
+Carbon,47 Palmerton Borough-East,U.S. Senate,,Lou Barletta,REP,366,354.0,12.0,Carbon County,47 Palmerton Borough-East
+Carbon,48 Palmerton Borough-Middle,U.S. Senate,,Lou Barletta,REP,422,410.0,12.0,Carbon County,48 Palmerton Borough-Middle
+Carbon,49 Palmerton Borough-West,U.S. Senate,,Lou Barletta,REP,147,147.0,0.0,Carbon County,49 Palmerton Borough-West
+Carbon,50 Parryville Borough,U.S. Senate,,Lou Barletta,REP,107,105.0,2.0,Carbon County,50 Parryville Borough
+Carbon,51-1 Penn Forest Twp-Southwest,U.S. Senate,,Lou Barletta,REP,455,424.0,31.0,Carbon County,51-1 Penn Forest Twp-Southwest
+Carbon,51-2 Penn Forest Twp-Northwest,U.S. Senate,,Lou Barletta,REP,489,471.0,18.0,Carbon County,51-2 Penn Forest Twp-Northwest
+Carbon,51-3 Penn Forest Twp-Middle,U.S. Senate,,Lou Barletta,REP,290,279.0,11.0,Carbon County,51-3 Penn Forest Twp-Middle
+Carbon,51-4 Penn Forest Two-Northeast,U.S. Senate,,Lou Barletta,REP,447,425.0,22.0,Carbon County,51-4 Penn Forest Two-Northeast
+Carbon,51-5 Penn Forest Twp-East,U.S. Senate,,Lou Barletta,REP,367,352.0,15.0,Carbon County,51-5 Penn Forest Twp-East
+Carbon,52 Summit Hill Borough-First Ward,U.S. Senate,,Lou Barletta,REP,124,118.0,6.0,Carbon County,52 Summit Hill Borough-First Ward
+Carbon,53 Summit Hill Borough-Second Ward,U.S. Senate,,Lou Barletta,REP,148,142.0,6.0,Carbon County,53 Summit Hill Borough-Second Ward
+Carbon,54 Summit Hill Borough-Third Ward/First,U.S. Senate,,Lou Barletta,REP,171,165.0,6.0,Carbon County,54 Summit Hill Borough-Third Ward/First
+Carbon,55 Summit Hill Borough-Third Ward/Second,U.S. Senate,,Lou Barletta,REP,149,147.0,2.0,Carbon County,55 Summit Hill Borough-Third Ward/Second
+Carbon,56 Towamensing Twp-North,U.S. Senate,,Lou Barletta,REP,374,360.0,14.0,Carbon County,56 Towamensing Twp-North
+Carbon,57-1 Towamensing Twp-South-1,U.S. Senate,,Lou Barletta,REP,406,394.0,12.0,Carbon County,57-1 Towamensing Twp-South-1
+Carbon,57-2 Towamensing Twp-South-2,U.S. Senate,,Lou Barletta,REP,362,351.0,11.0,Carbon County,57-2 Towamensing Twp-South-2
+Carbon,58 Weatherly Borough-East,U.S. Senate,,Lou Barletta,REP,379,363.0,16.0,Carbon County,58 Weatherly Borough-East
+Carbon,61 Weatherly Borough-West,U.S. Senate,,Lou Barletta,REP,194,186.0,8.0,Carbon County,61 Weatherly Borough-West
+Carbon,62 Weissport Borough,U.S. Senate,,Lou Barletta,REP,47,47.0,0.0,Carbon County,62 Weissport Borough
+Carbon,Total,U.S. Senate,,Lou Barletta,REP,13519,13022.0,497.0,Carbon County,Total
+Carbon,4 Banks Twp,U.S. Senate,,Neal Gale,GRN,1,1.0,0.0,Carbon County,4 Banks Twp
+Carbon,5 Beaver Meadows Borough,U.S. Senate,,Neal Gale,GRN,5,5.0,0.0,Carbon County,5 Beaver Meadows Borough
+Carbon,6 Bowmanstown Borough,U.S. Senate,,Neal Gale,GRN,1,1.0,0.0,Carbon County,6 Bowmanstown Borough
+Carbon,7 Fast Penn Twp-South,U.S. Senate,,Neal Gale,GRN,1,1.0,0.0,Carbon County,7 Fast Penn Twp-South
+Carbon,8 East Penn Twp-North,U.S. Senate,,Neal Gale,GRN,1,1.0,0.0,Carbon County,8 East Penn Twp-North
+Carbon,10 East Side Borough,U.S. Senate,,Neal Gale,GRN,1,1.0,0.0,Carbon County,10 East Side Borough
+Carbon,II Franklin Twp-Independent,U.S. Senate,,Neal Gale,GRN,4,4.0,0.0,Carbon County,II Franklin Twp-Independent
+Carbon,12 Franklin Twp-Harrity,U.S. Senate,,Neal Gale,GRN,2,1.0,1.0,Carbon County,12 Franklin Twp-Harrity
+Carbon,13 Franklin Twp-Long Run,U.S. Senate,,Neal Gale,GRN,1,1.0,0.0,Carbon County,13 Franklin Twp-Long Run
+Carbon,14 Jim Thorpe Borough-First Ward,U.S. Senate,,Neal Gale,GRN,2,2.0,0.0,Carbon County,14 Jim Thorpe Borough-First Ward
+Carbon,15 Jim Thorpe Borough-Second Ward,U.S. Senate,,Neal Gale,GRN,0,0.0,0.0,Carbon County,15 Jim Thorpe Borough-Second Ward
+Carbon,16 Jim Thorpe Borough-Third Ward,U.S. Senate,,Neal Gale,GRN,1,1.0,0.0,Carbon County,16 Jim Thorpe Borough-Third Ward
+Carbon,17 Jim Thorpe Borough-Fourth Ward,U.S. Senate,,Neal Gale,GRN,3,3.0,0.0,Carbon County,17 Jim Thorpe Borough-Fourth Ward
+Carbon,18 Jim Thorpe Borough-Fifth Ward,U.S. Senate,,Neal Gale,GRN,4,4.0,0.0,Carbon County,18 Jim Thorpe Borough-Fifth Ward
+Carbon,20 Kidder Twp-North,U.S. Senate,,Neal Gale,GRN,0,0.0,0.0,Carbon County,20 Kidder Twp-North
+Carbon,21 Kidder Twp-South,U.S. Senate,,Neal Gale,GRN,3,3.0,0.0,Carbon County,21 Kidder Twp-South
+Carbon,23 Lansford Borough-East,U.S. Senate,,Neal Gale,GRN,1,1.0,0.0,Carbon County,23 Lansford Borough-East
+Carbon,24 Lansford Borough-Middle,U.S. Senate,,Neal Gale,GRN,1,1.0,0.0,Carbon County,24 Lansford Borough-Middle
+Carbon,25 Lansford Borough-West,U.S. Senate,,Neal Gale,GRN,0,0.0,0.0,Carbon County,25 Lansford Borough-West
+Carbon,26 Lausanne Twp,U.S. Senate,,Neal Gale,GRN,1,1.0,0.0,Carbon County,26 Lausanne Twp
+Carbon,27 Lehigh Twp,U.S. Senate,,Neal Gale,GRN,2,2.0,0.0,Carbon County,27 Lehigh Twp
+Carbon,28 Lehighton Borough-First Ward,U.S. Senate,,Neal Gale,GRN,4,4.0,0.0,Carbon County,28 Lehighton Borough-First Ward
+Carbon,29 Lehighton Borough-Second Ward,U.S. Senate,,Neal Gale,GRN,4,4.0,0.0,Carbon County,29 Lehighton Borough-Second Ward
+Carbon,30 Lehighton Borough-Third Ward,U.S. Senate,,Neal Gale,GRN,5,5.0,0.0,Carbon County,30 Lehighton Borough-Third Ward
+Carbon,32 Lower Towamensing Twp-North,U.S. Senate,,Neal Gale,GRN,8,8.0,0.0,Carbon County,32 Lower Towamensing Twp-North
+Carbon,33 Lower Towamensing Twp-South,U.S. Senate,,Neal Gale,GRN,4,4.0,0.0,Carbon County,33 Lower Towamensing Twp-South
+Carbon,35 Mahoning Twp-Mahoning,U.S. Senate,,Neal Gale,GRN,3,3.0,0.0,Carbon County,35 Mahoning Twp-Mahoning
+Carbon,36 Mahoning Twp-New Mahoning,U.S. Senate,,Neal Gale,GRN,2,2.0,0.0,Carbon County,36 Mahoning Twp-New Mahoning
+Carbon,38 Mahoning Twp-Packerton/Jamestown,U.S. Senate,,Neal Gale,GRN,2,2.0,0.0,Carbon County,38 Mahoning Twp-Packerton/Jamestown
+Carbon,41 Nesquehoning Borough-East,U.S. Senate,,Neal Gale,GRN,0,0.0,0.0,Carbon County,41 Nesquehoning Borough-East
+Carbon,42 Nesquehoning Borough-West,U.S. Senate,,Neal Gale,GRN,1,1.0,0.0,Carbon County,42 Nesquehoning Borough-West
+Carbon,45 Packer Twp,U.S. Senate,,Neal Gale,GRN,1,1.0,0.0,Carbon County,45 Packer Twp
+Carbon,47 Palmerton Borough-East,U.S. Senate,,Neal Gale,GRN,3,3.0,0.0,Carbon County,47 Palmerton Borough-East
+Carbon,48 Palmerton Borough-Middle,U.S. Senate,,Neal Gale,GRN,2,2.0,0.0,Carbon County,48 Palmerton Borough-Middle
+Carbon,49 Palmerton Borough-West,U.S. Senate,,Neal Gale,GRN,2,2.0,0.0,Carbon County,49 Palmerton Borough-West
+Carbon,50 Parryville Borough,U.S. Senate,,Neal Gale,GRN,1,1.0,0.0,Carbon County,50 Parryville Borough
+Carbon,51-1 Penn Forest Twp-Southwest,U.S. Senate,,Neal Gale,GRN,3,3.0,0.0,Carbon County,51-1 Penn Forest Twp-Southwest
+Carbon,51-2 Penn Forest Twp-Northwest,U.S. Senate,,Neal Gale,GRN,2,2.0,0.0,Carbon County,51-2 Penn Forest Twp-Northwest
+Carbon,51-3 Penn Forest Twp-Middle,U.S. Senate,,Neal Gale,GRN,4,4.0,0.0,Carbon County,51-3 Penn Forest Twp-Middle
+Carbon,51-4 Penn Forest Two-Northeast,U.S. Senate,,Neal Gale,GRN,4,4.0,0.0,Carbon County,51-4 Penn Forest Two-Northeast
+Carbon,51-5 Penn Forest Twp-East,U.S. Senate,,Neal Gale,GRN,2,2.0,0.0,Carbon County,51-5 Penn Forest Twp-East
+Carbon,52 Summit Hill Borough-First Ward,U.S. Senate,,Neal Gale,GRN,1,1.0,0.0,Carbon County,52 Summit Hill Borough-First Ward
+Carbon,53 Summit Hill Borough-Second Ward,U.S. Senate,,Neal Gale,GRN,2,2.0,0.0,Carbon County,53 Summit Hill Borough-Second Ward
+Carbon,54 Summit Hill Borough-Third Ward/First,U.S. Senate,,Neal Gale,GRN,2,2.0,0.0,Carbon County,54 Summit Hill Borough-Third Ward/First
+Carbon,55 Summit Hill Borough-Third Ward/Second,U.S. Senate,,Neal Gale,GRN,3,2.0,1.0,Carbon County,55 Summit Hill Borough-Third Ward/Second
+Carbon,56 Towamensing Twp-North,U.S. Senate,,Neal Gale,GRN,3,3.0,0.0,Carbon County,56 Towamensing Twp-North
+Carbon,57-1 Towamensing Twp-South-1,U.S. Senate,,Neal Gale,GRN,3,3.0,0.0,Carbon County,57-1 Towamensing Twp-South-1
+Carbon,57-2 Towamensing Twp-South-2,U.S. Senate,,Neal Gale,GRN,6,6.0,0.0,Carbon County,57-2 Towamensing Twp-South-2
+Carbon,58 Weatherly Borough-East,U.S. Senate,,Neal Gale,GRN,5,5.0,0.0,Carbon County,58 Weatherly Borough-East
+Carbon,61 Weatherly Borough-West,U.S. Senate,,Neal Gale,GRN,0,0.0,0.0,Carbon County,61 Weatherly Borough-West
+Carbon,62 Weissport Borough,U.S. Senate,,Neal Gale,GRN,2,2.0,0.0,Carbon County,62 Weissport Borough
+Carbon,Total,U.S. Senate,,Neal Gale,GRN,119,117.0,2.0,Carbon County,Total
+Carbon,4 Banks Twp,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,2,2.0,0.0,Carbon County,4 Banks Twp
+Carbon,5 Beaver Meadows Borough,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,1,1.0,0.0,Carbon County,5 Beaver Meadows Borough
+Carbon,6 Bowmanstown Borough,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,4,3.0,1.0,Carbon County,6 Bowmanstown Borough
+Carbon,7 Fast Penn Twp-South,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,5,5.0,0.0,Carbon County,7 Fast Penn Twp-South
+Carbon,8 East Penn Twp-North,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,1,0.0,1.0,Carbon County,8 East Penn Twp-North
+Carbon,10 East Side Borough,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,1,1.0,0.0,Carbon County,10 East Side Borough
+Carbon,II Franklin Twp-Independent,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,3,3.0,0.0,Carbon County,II Franklin Twp-Independent
+Carbon,12 Franklin Twp-Harrity,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,7,7.0,0.0,Carbon County,12 Franklin Twp-Harrity
+Carbon,13 Franklin Twp-Long Run,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,6,6.0,0.0,Carbon County,13 Franklin Twp-Long Run
+Carbon,14 Jim Thorpe Borough-First Ward,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,6,6.0,0.0,Carbon County,14 Jim Thorpe Borough-First Ward
+Carbon,15 Jim Thorpe Borough-Second Ward,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,6,5.0,1.0,Carbon County,15 Jim Thorpe Borough-Second Ward
+Carbon,16 Jim Thorpe Borough-Third Ward,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,3,3.0,0.0,Carbon County,16 Jim Thorpe Borough-Third Ward
+Carbon,17 Jim Thorpe Borough-Fourth Ward,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,1,1.0,0.0,Carbon County,17 Jim Thorpe Borough-Fourth Ward
+Carbon,18 Jim Thorpe Borough-Fifth Ward,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,6,5.0,1.0,Carbon County,18 Jim Thorpe Borough-Fifth Ward
+Carbon,20 Kidder Twp-North,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,1,1.0,0.0,Carbon County,20 Kidder Twp-North
+Carbon,21 Kidder Twp-South,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,0,0.0,0.0,Carbon County,21 Kidder Twp-South
+Carbon,23 Lansford Borough-East,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,2,2.0,0.0,Carbon County,23 Lansford Borough-East
+Carbon,24 Lansford Borough-Middle,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,4,4.0,0.0,Carbon County,24 Lansford Borough-Middle
+Carbon,25 Lansford Borough-West,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,4,4.0,0.0,Carbon County,25 Lansford Borough-West
+Carbon,26 Lausanne Twp,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,0,0.0,0.0,Carbon County,26 Lausanne Twp
+Carbon,27 Lehigh Twp,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,1,1.0,0.0,Carbon County,27 Lehigh Twp
+Carbon,28 Lehighton Borough-First Ward,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,5,5.0,0.0,Carbon County,28 Lehighton Borough-First Ward
+Carbon,29 Lehighton Borough-Second Ward,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,7,7.0,0.0,Carbon County,29 Lehighton Borough-Second Ward
+Carbon,30 Lehighton Borough-Third Ward,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,2,2.0,0.0,Carbon County,30 Lehighton Borough-Third Ward
+Carbon,32 Lower Towamensing Twp-North,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,9,9.0,0.0,Carbon County,32 Lower Towamensing Twp-North
+Carbon,33 Lower Towamensing Twp-South,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,4,4.0,0.0,Carbon County,33 Lower Towamensing Twp-South
+Carbon,35 Mahoning Twp-Mahoning,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,6,6.0,0.0,Carbon County,35 Mahoning Twp-Mahoning
+Carbon,36 Mahoning Twp-New Mahoning,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,3,3.0,0.0,Carbon County,36 Mahoning Twp-New Mahoning
+Carbon,38 Mahoning Twp-Packerton/Jamestown,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,2,2.0,0.0,Carbon County,38 Mahoning Twp-Packerton/Jamestown
+Carbon,41 Nesquehoning Borough-East,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,2,2.0,0.0,Carbon County,41 Nesquehoning Borough-East
+Carbon,42 Nesquehoning Borough-West,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,2,2.0,0.0,Carbon County,42 Nesquehoning Borough-West
+Carbon,45 Packer Twp,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,0,1.0,0.0,Carbon County,45 Packer Twp
+Carbon,47 Palmerton Borough-East,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,5,5.0,0.0,Carbon County,47 Palmerton Borough-East
+Carbon,48 Palmerton Borough-Middle,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,9,8.0,1.0,Carbon County,48 Palmerton Borough-Middle
+Carbon,49 Palmerton Borough-West,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,5,5.0,0.0,Carbon County,49 Palmerton Borough-West
+Carbon,50 Parryville Borough,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,1,1.0,0.0,Carbon County,50 Parryville Borough
+Carbon,51-1 Penn Forest Twp-Southwest,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,6,6.0,0.0,Carbon County,51-1 Penn Forest Twp-Southwest
+Carbon,51-2 Penn Forest Twp-Northwest,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,4,4.0,0.0,Carbon County,51-2 Penn Forest Twp-Northwest
+Carbon,51-3 Penn Forest Twp-Middle,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,7,7.0,0.0,Carbon County,51-3 Penn Forest Twp-Middle
+Carbon,51-4 Penn Forest Two-Northeast,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,7,6.0,1.0,Carbon County,51-4 Penn Forest Two-Northeast
+Carbon,51-5 Penn Forest Twp-East,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,6,6.0,0.0,Carbon County,51-5 Penn Forest Twp-East
+Carbon,52 Summit Hill Borough-First Ward,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,5,5.0,0.0,Carbon County,52 Summit Hill Borough-First Ward
+Carbon,53 Summit Hill Borough-Second Ward,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,3,3.0,0.0,Carbon County,53 Summit Hill Borough-Second Ward
+Carbon,54 Summit Hill Borough-Third Ward/First,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,4,4.0,0.0,Carbon County,54 Summit Hill Borough-Third Ward/First
+Carbon,55 Summit Hill Borough-Third Ward/Second,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,2,2.0,0.0,Carbon County,55 Summit Hill Borough-Third Ward/Second
+Carbon,56 Towamensing Twp-North,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,5,4.0,1.0,Carbon County,56 Towamensing Twp-North
+Carbon,57-1 Towamensing Twp-South-1,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,3,3.0,0.0,Carbon County,57-1 Towamensing Twp-South-1
+Carbon,57-2 Towamensing Twp-South-2,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,6,5.0,1.0,Carbon County,57-2 Towamensing Twp-South-2
+Carbon,58 Weatherly Borough-East,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,6,4.0,2.0,Carbon County,58 Weatherly Borough-East
+Carbon,61 Weatherly Borough-West,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,5,5.0,0.0,Carbon County,61 Weatherly Borough-West
+Carbon,62 Weissport Borough,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,0,1.0,0.0,Carbon County,62 Weissport Borough
+Carbon,Total,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,197,187.0,10.0,Carbon County,Total
+Carbon,4 Banks Twp,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,4 Banks Twp
+Carbon,5 Beaver Meadows Borough,U.S. Senate,,Write-In Votes,,1,1.0,0.0,Carbon County,5 Beaver Meadows Borough
+Carbon,6 Bowmanstown Borough,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,6 Bowmanstown Borough
+Carbon,7 Fast Penn Twp-South,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,7 Fast Penn Twp-South
+Carbon,8 East Penn Twp-North,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,8 East Penn Twp-North
+Carbon,10 East Side Borough,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,10 East Side Borough
+Carbon,II Franklin Twp-Independent,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,II Franklin Twp-Independent
+Carbon,12 Franklin Twp-Harrity,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,12 Franklin Twp-Harrity
+Carbon,13 Franklin Twp-Long Run,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,13 Franklin Twp-Long Run
+Carbon,14 Jim Thorpe Borough-First Ward,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,14 Jim Thorpe Borough-First Ward
+Carbon,15 Jim Thorpe Borough-Second Ward,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,15 Jim Thorpe Borough-Second Ward
+Carbon,16 Jim Thorpe Borough-Third Ward,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,16 Jim Thorpe Borough-Third Ward
+Carbon,17 Jim Thorpe Borough-Fourth Ward,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,17 Jim Thorpe Borough-Fourth Ward
+Carbon,18 Jim Thorpe Borough-Fifth Ward,U.S. Senate,,Write-In Votes,,1,1.0,0.0,Carbon County,18 Jim Thorpe Borough-Fifth Ward
+Carbon,20 Kidder Twp-North,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,20 Kidder Twp-North
+Carbon,21 Kidder Twp-South,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,21 Kidder Twp-South
+Carbon,23 Lansford Borough-East,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,23 Lansford Borough-East
+Carbon,24 Lansford Borough-Middle,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,24 Lansford Borough-Middle
+Carbon,25 Lansford Borough-West,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,25 Lansford Borough-West
+Carbon,26 Lausanne Twp,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,26 Lausanne Twp
+Carbon,27 Lehigh Twp,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,27 Lehigh Twp
+Carbon,28 Lehighton Borough-First Ward,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,28 Lehighton Borough-First Ward
+Carbon,29 Lehighton Borough-Second Ward,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,29 Lehighton Borough-Second Ward
+Carbon,30 Lehighton Borough-Third Ward,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,30 Lehighton Borough-Third Ward
+Carbon,32 Lower Towamensing Twp-North,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,32 Lower Towamensing Twp-North
+Carbon,33 Lower Towamensing Twp-South,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,33 Lower Towamensing Twp-South
+Carbon,35 Mahoning Twp-Mahoning,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,35 Mahoning Twp-Mahoning
+Carbon,36 Mahoning Twp-New Mahoning,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,36 Mahoning Twp-New Mahoning
+Carbon,38 Mahoning Twp-Packerton/Jamestown,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,38 Mahoning Twp-Packerton/Jamestown
+Carbon,41 Nesquehoning Borough-East,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,41 Nesquehoning Borough-East
+Carbon,42 Nesquehoning Borough-West,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,42 Nesquehoning Borough-West
+Carbon,45 Packer Twp,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,45 Packer Twp
+Carbon,47 Palmerton Borough-East,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,47 Palmerton Borough-East
+Carbon,48 Palmerton Borough-Middle,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,48 Palmerton Borough-Middle
+Carbon,49 Palmerton Borough-West,U.S. Senate,,Write-In Votes,,1,1.0,0.0,Carbon County,49 Palmerton Borough-West
+Carbon,50 Parryville Borough,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,50 Parryville Borough
+Carbon,51-1 Penn Forest Twp-Southwest,U.S. Senate,,Write-In Votes,,1,1.0,0.0,Carbon County,51-1 Penn Forest Twp-Southwest
+Carbon,51-2 Penn Forest Twp-Northwest,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,51-2 Penn Forest Twp-Northwest
+Carbon,51-3 Penn Forest Twp-Middle,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,51-3 Penn Forest Twp-Middle
+Carbon,51-4 Penn Forest Two-Northeast,U.S. Senate,,Write-In Votes,,1,1.0,0.0,Carbon County,51-4 Penn Forest Two-Northeast
+Carbon,51-5 Penn Forest Twp-East,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,51-5 Penn Forest Twp-East
+Carbon,52 Summit Hill Borough-First Ward,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,52 Summit Hill Borough-First Ward
+Carbon,53 Summit Hill Borough-Second Ward,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,53 Summit Hill Borough-Second Ward
+Carbon,54 Summit Hill Borough-Third Ward/First,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,54 Summit Hill Borough-Third Ward/First
+Carbon,55 Summit Hill Borough-Third Ward/Second,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,55 Summit Hill Borough-Third Ward/Second
+Carbon,56 Towamensing Twp-North,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,56 Towamensing Twp-North
+Carbon,57-1 Towamensing Twp-South-1,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,57-1 Towamensing Twp-South-1
+Carbon,57-2 Towamensing Twp-South-2,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,57-2 Towamensing Twp-South-2
+Carbon,58 Weatherly Borough-East,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,58 Weatherly Borough-East
+Carbon,61 Weatherly Borough-West,U.S. Senate,,Write-In Votes,,0,0.0,0.0,Carbon County,61 Weatherly Borough-West
+Carbon,62 Weissport Borough,U.S. Senate,,Write-In Votes,,1,1.0,0.0,Carbon County,62 Weissport Borough
+Carbon,Total,U.S. Senate,,Write-In Votes,,6,6.0,0.0,Carbon County,Total
+Carbon,4 Banks Twp,Governor,,Tom Wolf,DEM,174,167.0,7.0,Carbon County,4 Banks Twp
+Carbon,5 Beaver Meadows Borough,Governor,,Tom Wolf,DEM,112,106.0,6.0,Carbon County,5 Beaver Meadows Borough
+Carbon,6 Bowmanstown Borough,Governor,,Tom Wolf,DEM,121,118.0,3.0,Carbon County,6 Bowmanstown Borough
+Carbon,7 Fast Penn Twp-South,Governor,,Tom Wolf,DEM,203,200.0,3.0,Carbon County,7 Fast Penn Twp-South
+Carbon,8 East Penn Twp-North,Governor,,Tom Wolf,DEM,240,231.0,9.0,Carbon County,8 East Penn Twp-North
+Carbon,10 East Side Borough,Governor,,Tom Wolf,DEM,36,30.0,6.0,Carbon County,10 East Side Borough
+Carbon,II Franklin Twp-Independent,Governor,,Tom Wolf,DEM,147,146.0,1.0,Carbon County,II Franklin Twp-Independent
+Carbon,12 Franklin Twp-Harrity,Governor,,Tom Wolf,DEM,266,258.0,8.0,Carbon County,12 Franklin Twp-Harrity
+Carbon,13 Franklin Twp-Long Run,Governor,,Tom Wolf,DEM,168,163.0,5.0,Carbon County,13 Franklin Twp-Long Run
+Carbon,14 Jim Thorpe Borough-First Ward,Governor,,Tom Wolf,DEM,230,220.0,10.0,Carbon County,14 Jim Thorpe Borough-First Ward
+Carbon,15 Jim Thorpe Borough-Second Ward,Governor,,Tom Wolf,DEM,128,120.0,8.0,Carbon County,15 Jim Thorpe Borough-Second Ward
+Carbon,16 Jim Thorpe Borough-Third Ward,Governor,,Tom Wolf,DEM,269,253.0,16.0,Carbon County,16 Jim Thorpe Borough-Third Ward
+Carbon,17 Jim Thorpe Borough-Fourth Ward,Governor,,Tom Wolf,DEM,144,130.0,14.0,Carbon County,17 Jim Thorpe Borough-Fourth Ward
+Carbon,18 Jim Thorpe Borough-Fifth Ward,Governor,,Tom Wolf,DEM,200,190.0,10.0,Carbon County,18 Jim Thorpe Borough-Fifth Ward
+Carbon,20 Kidder Twp-North,Governor,,Tom Wolf,DEM,95,88.0,7.0,Carbon County,20 Kidder Twp-North
+Carbon,21 Kidder Twp-South,Governor,,Tom Wolf,DEM,208,196.0,12.0,Carbon County,21 Kidder Twp-South
+Carbon,23 Lansford Borough-East,Governor,,Tom Wolf,DEM,219,208.0,11.0,Carbon County,23 Lansford Borough-East
+Carbon,24 Lansford Borough-Middle,Governor,,Tom Wolf,DEM,147,144.0,3.0,Carbon County,24 Lansford Borough-Middle
+Carbon,25 Lansford Borough-West,Governor,,Tom Wolf,DEM,116,112.0,4.0,Carbon County,25 Lansford Borough-West
+Carbon,26 Lausanne Twp,Governor,,Tom Wolf,DEM,33,33.0,0.0,Carbon County,26 Lausanne Twp
+Carbon,27 Lehigh Twp,Governor,,Tom Wolf,DEM,55,55.0,0.0,Carbon County,27 Lehigh Twp
+Carbon,28 Lehighton Borough-First Ward,Governor,,Tom Wolf,DEM,244,239.0,5.0,Carbon County,28 Lehighton Borough-First Ward
+Carbon,29 Lehighton Borough-Second Ward,Governor,,Tom Wolf,DEM,223,210.0,13.0,Carbon County,29 Lehighton Borough-Second Ward
+Carbon,30 Lehighton Borough-Third Ward,Governor,,Tom Wolf,DEM,246,239.0,7.0,Carbon County,30 Lehighton Borough-Third Ward
+Carbon,32 Lower Towamensing Twp-North,Governor,,Tom Wolf,DEM,241,231.0,10.0,Carbon County,32 Lower Towamensing Twp-North
+Carbon,33 Lower Towamensing Twp-South,Governor,,Tom Wolf,DEM,177,170.0,7.0,Carbon County,33 Lower Towamensing Twp-South
+Carbon,35 Mahoning Twp-Mahoning,Governor,,Tom Wolf,DEM,348,333.0,15.0,Carbon County,35 Mahoning Twp-Mahoning
+Carbon,36 Mahoning Twp-New Mahoning,Governor,,Tom Wolf,DEM,108,107.0,1.0,Carbon County,36 Mahoning Twp-New Mahoning
+Carbon,38 Mahoning Twp-Packerton/Jamestown,Governor,,Tom Wolf,DEM,101,101.0,0.0,Carbon County,38 Mahoning Twp-Packerton/Jamestown
+Carbon,41 Nesquehoning Borough-East,Governor,,Tom Wolf,DEM,252,239.0,13.0,Carbon County,41 Nesquehoning Borough-East
+Carbon,42 Nesquehoning Borough-West,Governor,,Tom Wolf,DEM,291,279.0,12.0,Carbon County,42 Nesquehoning Borough-West
+Carbon,45 Packer Twp,Governor,,Tom Wolf,DEM,130,129.0,1.0,Carbon County,45 Packer Twp
+Carbon,47 Palmerton Borough-East,Governor,,Tom Wolf,DEM,242,237.0,5.0,Carbon County,47 Palmerton Borough-East
+Carbon,48 Palmerton Borough-Middle,Governor,,Tom Wolf,DEM,404,383.0,21.0,Carbon County,48 Palmerton Borough-Middle
+Carbon,49 Palmerton Borough-West,Governor,,Tom Wolf,DEM,107,107.0,0.0,Carbon County,49 Palmerton Borough-West
+Carbon,50 Parryville Borough,Governor,,Tom Wolf,DEM,62,61.0,1.0,Carbon County,50 Parryville Borough
+Carbon,51-1 Penn Forest Twp-Southwest,Governor,,Tom Wolf,DEM,318,300.0,18.0,Carbon County,51-1 Penn Forest Twp-Southwest
+Carbon,51-2 Penn Forest Twp-Northwest,Governor,,Tom Wolf,DEM,333,316.0,17.0,Carbon County,51-2 Penn Forest Twp-Northwest
+Carbon,51-3 Penn Forest Twp-Middle,Governor,,Tom Wolf,DEM,216,209.0,7.0,Carbon County,51-3 Penn Forest Twp-Middle
+Carbon,51-4 Penn Forest Two-Northeast,Governor,,Tom Wolf,DEM,375,359.0,16.0,Carbon County,51-4 Penn Forest Two-Northeast
+Carbon,51-5 Penn Forest Twp-East,Governor,,Tom Wolf,DEM,323,305.0,18.0,Carbon County,51-5 Penn Forest Twp-East
+Carbon,52 Summit Hill Borough-First Ward,Governor,,Tom Wolf,DEM,170,157.0,13.0,Carbon County,52 Summit Hill Borough-First Ward
+Carbon,53 Summit Hill Borough-Second Ward,Governor,,Tom Wolf,DEM,169,158.0,11.0,Carbon County,53 Summit Hill Borough-Second Ward
+Carbon,54 Summit Hill Borough-Third Ward/First,Governor,,Tom Wolf,DEM,158,149.0,9.0,Carbon County,54 Summit Hill Borough-Third Ward/First
+Carbon,55 Summit Hill Borough-Third Ward/Second,Governor,,Tom Wolf,DEM,88,82.0,6.0,Carbon County,55 Summit Hill Borough-Third Ward/Second
+Carbon,56 Towamensing Twp-North,Governor,,Tom Wolf,DEM,207,199.0,8.0,Carbon County,56 Towamensing Twp-North
+Carbon,57-1 Towamensing Twp-South-1,Governor,,Tom Wolf,DEM,229,218.0,11.0,Carbon County,57-1 Towamensing Twp-South-1
+Carbon,57-2 Towamensing Twp-South-2,Governor,,Tom Wolf,DEM,207,193.0,14.0,Carbon County,57-2 Towamensing Twp-South-2
+Carbon,58 Weatherly Borough-East,Governor,,Tom Wolf,DEM,213,201.0,12.0,Carbon County,58 Weatherly Borough-East
+Carbon,61 Weatherly Borough-West,Governor,,Tom Wolf,DEM,113,112.0,1.0,Carbon County,61 Weatherly Borough-West
+Carbon,62 Weissport Borough,Governor,,Tom Wolf,DEM,53,52.0,1.0,Carbon County,62 Weissport Borough
+Carbon,Total,Governor,,Tom Wolf,DEM,9659,9243.0,416.0,Carbon County,Total
+Carbon,4 Banks Twp,Governor,,Wagner/Bartos,REP,208,203.0,5.0,Carbon County,4 Banks Twp
+Carbon,5 Beaver Meadows Borough,Governor,,Wagner/Bartos,REP,168,166.0,2.0,Carbon County,5 Beaver Meadows Borough
+Carbon,6 Bowmanstown Borough,Governor,,Wagner/Bartos,REP,160,155.0,5.0,Carbon County,6 Bowmanstown Borough
+Carbon,7 Fast Penn Twp-South,Governor,,Wagner/Bartos,REP,298,287.0,11.0,Carbon County,7 Fast Penn Twp-South
+Carbon,8 East Penn Twp-North,Governor,,Wagner/Bartos,REP,367,359.0,8.0,Carbon County,8 East Penn Twp-North
+Carbon,10 East Side Borough,Governor,,Wagner/Bartos,REP,40,34.0,6.0,Carbon County,10 East Side Borough
+Carbon,II Franklin Twp-Independent,Governor,,Wagner/Bartos,REP,231,224.0,7.0,Carbon County,II Franklin Twp-Independent
+Carbon,12 Franklin Twp-Harrity,Governor,,Wagner/Bartos,REP,443,430.0,13.0,Carbon County,12 Franklin Twp-Harrity
+Carbon,13 Franklin Twp-Long Run,Governor,,Wagner/Bartos,REP,381,373.0,8.0,Carbon County,13 Franklin Twp-Long Run
+Carbon,14 Jim Thorpe Borough-First Ward,Governor,,Wagner/Bartos,REP,163,156.0,7.0,Carbon County,14 Jim Thorpe Borough-First Ward
+Carbon,15 Jim Thorpe Borough-Second Ward,Governor,,Wagner/Bartos,REP,123,118.0,5.0,Carbon County,15 Jim Thorpe Borough-Second Ward
+Carbon,16 Jim Thorpe Borough-Third Ward,Governor,,Wagner/Bartos,REP,285,273.0,12.0,Carbon County,16 Jim Thorpe Borough-Third Ward
+Carbon,17 Jim Thorpe Borough-Fourth Ward,Governor,,Wagner/Bartos,REP,81,76.0,5.0,Carbon County,17 Jim Thorpe Borough-Fourth Ward
+Carbon,18 Jim Thorpe Borough-Fifth Ward,Governor,,Wagner/Bartos,REP,210,196.0,14.0,Carbon County,18 Jim Thorpe Borough-Fifth Ward
+Carbon,20 Kidder Twp-North,Governor,,Wagner/Bartos,REP,117,114.0,3.0,Carbon County,20 Kidder Twp-North
+Carbon,21 Kidder Twp-South,Governor,,Wagner/Bartos,REP,336,310.0,26.0,Carbon County,21 Kidder Twp-South
+Carbon,23 Lansford Borough-East,Governor,,Wagner/Bartos,REP,193,181.0,12.0,Carbon County,23 Lansford Borough-East
+Carbon,24 Lansford Borough-Middle,Governor,,Wagner/Bartos,REP,131,127.0,4.0,Carbon County,24 Lansford Borough-Middle
+Carbon,25 Lansford Borough-West,Governor,,Wagner/Bartos,REP,105,102.0,3.0,Carbon County,25 Lansford Borough-West
+Carbon,26 Lausanne Twp,Governor,,Wagner/Bartos,REP,58,56.0,2.0,Carbon County,26 Lausanne Twp
+Carbon,27 Lehigh Twp,Governor,,Wagner/Bartos,REP,143,135.0,0.0,Carbon County,27 Lehigh Twp
+Carbon,28 Lehighton Borough-First Ward,Governor,,Wagner/Bartos,REP,243,232.0,11.0,Carbon County,28 Lehighton Borough-First Ward
+Carbon,29 Lehighton Borough-Second Ward,Governor,,Wagner/Bartos,REP,237,230.0,7.0,Carbon County,29 Lehighton Borough-Second Ward
+Carbon,30 Lehighton Borough-Third Ward,Governor,,Wagner/Bartos,REP,231,226.0,5.0,Carbon County,30 Lehighton Borough-Third Ward
+Carbon,32 Lower Towamensing Twp-North,Governor,,Wagner/Bartos,REP,393,387.0,6.0,Carbon County,32 Lower Towamensing Twp-North
+Carbon,33 Lower Towamensing Twp-South,Governor,,Wagner/Bartos,REP,263,256.0,7.0,Carbon County,33 Lower Towamensing Twp-South
+Carbon,35 Mahoning Twp-Mahoning,Governor,,Wagner/Bartos,REP,548,533.0,15.0,Carbon County,35 Mahoning Twp-Mahoning
+Carbon,36 Mahoning Twp-New Mahoning,Governor,,Wagner/Bartos,REP,209,205.0,4.0,Carbon County,36 Mahoning Twp-New Mahoning
+Carbon,38 Mahoning Twp-Packerton/Jamestown,Governor,,Wagner/Bartos,REP,134,132.0,2.0,Carbon County,38 Mahoning Twp-Packerton/Jamestown
+Carbon,41 Nesquehoning Borough-East,Governor,,Wagner/Bartos,REP,254,242.0,12.0,Carbon County,41 Nesquehoning Borough-East
+Carbon,42 Nesquehoning Borough-West,Governor,,Wagner/Bartos,REP,262,247.0,15.0,Carbon County,42 Nesquehoning Borough-West
+Carbon,45 Packer Twp,Governor,,Wagner/Bartos,REP,354,342.0,12.0,Carbon County,45 Packer Twp
+Carbon,47 Palmerton Borough-East,Governor,,Wagner/Bartos,REP,347,335.0,12.0,Carbon County,47 Palmerton Borough-East
+Carbon,48 Palmerton Borough-Middle,Governor,,Wagner/Bartos,REP,413,401.0,12.0,Carbon County,48 Palmerton Borough-Middle
+Carbon,49 Palmerton Borough-West,Governor,,Wagner/Bartos,REP,144,144.0,0.0,Carbon County,49 Palmerton Borough-West
+Carbon,50 Parryville Borough,Governor,,Wagner/Bartos,REP,103,100.0,2.0,Carbon County,50 Parryville Borough
+Carbon,51-1 Penn Forest Twp-Southwest,Governor,,Wagner/Bartos,REP,422,393.0,29.0,Carbon County,51-1 Penn Forest Twp-Southwest
+Carbon,51-2 Penn Forest Twp-Northwest,Governor,,Wagner/Bartos,REP,463,448.0,15.0,Carbon County,51-2 Penn Forest Twp-Northwest
+Carbon,51-3 Penn Forest Twp-Middle,Governor,,Wagner/Bartos,REP,283,274.0,9.0,Carbon County,51-3 Penn Forest Twp-Middle
+Carbon,51-4 Penn Forest Two-Northeast,Governor,,Wagner/Bartos,REP,426,405.0,21.0,Carbon County,51-4 Penn Forest Two-Northeast
+Carbon,51-5 Penn Forest Twp-East,Governor,,Wagner/Bartos,REP,339,326.0,13.0,Carbon County,51-5 Penn Forest Twp-East
+Carbon,52 Summit Hill Borough-First Ward,Governor,,Wagner/Bartos,REP,109,104.0,5.0,Carbon County,52 Summit Hill Borough-First Ward
+Carbon,53 Summit Hill Borough-Second Ward,Governor,,Wagner/Bartos,REP,125,121.0,4.0,Carbon County,53 Summit Hill Borough-Second Ward
+Carbon,54 Summit Hill Borough-Third Ward/First,Governor,,Wagner/Bartos,REP,156,152.0,4.0,Carbon County,54 Summit Hill Borough-Third Ward/First
+Carbon,55 Summit Hill Borough-Third Ward/Second,Governor,,Wagner/Bartos,REP,143,141.0,2.0,Carbon County,55 Summit Hill Borough-Third Ward/Second
+Carbon,56 Towamensing Twp-North,Governor,,Wagner/Bartos,REP,358,343.0,15.0,Carbon County,56 Towamensing Twp-North
+Carbon,57-1 Towamensing Twp-South-1,Governor,,Wagner/Bartos,REP,373,361.0,12.0,Carbon County,57-1 Towamensing Twp-South-1
+Carbon,57-2 Towamensing Twp-South-2,Governor,,Wagner/Bartos,REP,354,344.0,10.0,Carbon County,57-2 Towamensing Twp-South-2
+Carbon,58 Weatherly Borough-East,Governor,,Wagner/Bartos,REP,336,318.0,18.0,Carbon County,58 Weatherly Borough-East
+Carbon,61 Weatherly Borough-West,Governor,,Wagner/Bartos,REP,169,162.0,7.0,Carbon County,61 Weatherly Borough-West
+Carbon,62 Weissport Borough,Governor,,Wagner/Bartos,REP,44,44.0,0.0,Carbon County,62 Weissport Borough
+Carbon,Total,Governor,,Wagner/Bartos,REP,12476,12023.0,452.0,Carbon County,Total
+Carbon,4 Banks Twp,Governor,,Glover/BowserBos,GRN,5,5.0,0.0,Carbon County,4 Banks Twp
+Carbon,5 Beaver Meadows Borough,Governor,,Glover/BowserBos,GRN,2,2.0,0.0,Carbon County,5 Beaver Meadows Borough
+Carbon,6 Bowmanstown Borough,Governor,,Glover/BowserBos,GRN,5,5.0,0.0,Carbon County,6 Bowmanstown Borough
+Carbon,7 Fast Penn Twp-South,Governor,,Glover/BowserBos,GRN,1,1.0,0.0,Carbon County,7 Fast Penn Twp-South
+Carbon,8 East Penn Twp-North,Governor,,Glover/BowserBos,GRN,2,2.0,0.0,Carbon County,8 East Penn Twp-North
+Carbon,10 East Side Borough,Governor,,Glover/BowserBos,GRN,1,1.0,0.0,Carbon County,10 East Side Borough
+Carbon,II Franklin Twp-Independent,Governor,,Glover/BowserBos,GRN,7,6.0,1.0,Carbon County,II Franklin Twp-Independent
+Carbon,12 Franklin Twp-Harrity,Governor,,Glover/BowserBos,GRN,0,0.0,0.0,Carbon County,12 Franklin Twp-Harrity
+Carbon,13 Franklin Twp-Long Run,Governor,,Glover/BowserBos,GRN,2,2.0,0.0,Carbon County,13 Franklin Twp-Long Run
+Carbon,14 Jim Thorpe Borough-First Ward,Governor,,Glover/BowserBos,GRN,1,1.0,0.0,Carbon County,14 Jim Thorpe Borough-First Ward
+Carbon,15 Jim Thorpe Borough-Second Ward,Governor,,Glover/BowserBos,GRN,0,1.0,0.0,Carbon County,15 Jim Thorpe Borough-Second Ward
+Carbon,16 Jim Thorpe Borough-Third Ward,Governor,,Glover/BowserBos,GRN,3,3.0,0.0,Carbon County,16 Jim Thorpe Borough-Third Ward
+Carbon,17 Jim Thorpe Borough-Fourth Ward,Governor,,Glover/BowserBos,GRN,0,0.0,0.0,Carbon County,17 Jim Thorpe Borough-Fourth Ward
+Carbon,18 Jim Thorpe Borough-Fifth Ward,Governor,,Glover/BowserBos,GRN,6,6.0,0.0,Carbon County,18 Jim Thorpe Borough-Fifth Ward
+Carbon,20 Kidder Twp-North,Governor,,Glover/BowserBos,GRN,0,0.0,0.0,Carbon County,20 Kidder Twp-North
+Carbon,21 Kidder Twp-South,Governor,,Glover/BowserBos,GRN,5,5.0,0.0,Carbon County,21 Kidder Twp-South
+Carbon,23 Lansford Borough-East,Governor,,Glover/BowserBos,GRN,4,3.0,1.0,Carbon County,23 Lansford Borough-East
+Carbon,24 Lansford Borough-Middle,Governor,,Glover/BowserBos,GRN,1,1.0,0.0,Carbon County,24 Lansford Borough-Middle
+Carbon,25 Lansford Borough-West,Governor,,Glover/BowserBos,GRN,0,0.0,0.0,Carbon County,25 Lansford Borough-West
+Carbon,26 Lausanne Twp,Governor,,Glover/BowserBos,GRN,0,0.0,0.0,Carbon County,26 Lausanne Twp
+Carbon,27 Lehigh Twp,Governor,,Glover/BowserBos,GRN,2,2.0,0.0,Carbon County,27 Lehigh Twp
+Carbon,28 Lehighton Borough-First Ward,Governor,,Glover/BowserBos,GRN,5,5.0,0.0,Carbon County,28 Lehighton Borough-First Ward
+Carbon,29 Lehighton Borough-Second Ward,Governor,,Glover/BowserBos,GRN,3,3.0,0.0,Carbon County,29 Lehighton Borough-Second Ward
+Carbon,30 Lehighton Borough-Third Ward,Governor,,Glover/BowserBos,GRN,5,5.0,0.0,Carbon County,30 Lehighton Borough-Third Ward
+Carbon,32 Lower Towamensing Twp-North,Governor,,Glover/BowserBos,GRN,7,7.0,0.0,Carbon County,32 Lower Towamensing Twp-North
+Carbon,33 Lower Towamensing Twp-South,Governor,,Glover/BowserBos,GRN,4,4.0,0.0,Carbon County,33 Lower Towamensing Twp-South
+Carbon,35 Mahoning Twp-Mahoning,Governor,,Glover/BowserBos,GRN,6,6.0,0.0,Carbon County,35 Mahoning Twp-Mahoning
+Carbon,36 Mahoning Twp-New Mahoning,Governor,,Glover/BowserBos,GRN,2,2.0,0.0,Carbon County,36 Mahoning Twp-New Mahoning
+Carbon,38 Mahoning Twp-Packerton/Jamestown,Governor,,Glover/BowserBos,GRN,1,1.0,0.0,Carbon County,38 Mahoning Twp-Packerton/Jamestown
+Carbon,41 Nesquehoning Borough-East,Governor,,Glover/BowserBos,GRN,1,1.0,0.0,Carbon County,41 Nesquehoning Borough-East
+Carbon,42 Nesquehoning Borough-West,Governor,,Glover/BowserBos,GRN,4,4.0,0.0,Carbon County,42 Nesquehoning Borough-West
+Carbon,45 Packer Twp,Governor,,Glover/BowserBos,GRN,0,1.0,0.0,Carbon County,45 Packer Twp
+Carbon,47 Palmerton Borough-East,Governor,,Glover/BowserBos,GRN,1,1.0,0.0,Carbon County,47 Palmerton Borough-East
+Carbon,48 Palmerton Borough-Middle,Governor,,Glover/BowserBos,GRN,2,2.0,0.0,Carbon County,48 Palmerton Borough-Middle
+Carbon,49 Palmerton Borough-West,Governor,,Glover/BowserBos,GRN,0,0.0,0.0,Carbon County,49 Palmerton Borough-West
+Carbon,50 Parryville Borough,Governor,,Glover/BowserBos,GRN,1,1.0,0.0,Carbon County,50 Parryville Borough
+Carbon,51-1 Penn Forest Twp-Southwest,Governor,,Glover/BowserBos,GRN,4,3.0,1.0,Carbon County,51-1 Penn Forest Twp-Southwest
+Carbon,51-2 Penn Forest Twp-Northwest,Governor,,Glover/BowserBos,GRN,3,3.0,0.0,Carbon County,51-2 Penn Forest Twp-Northwest
+Carbon,51-3 Penn Forest Twp-Middle,Governor,,Glover/BowserBos,GRN,4,4.0,0.0,Carbon County,51-3 Penn Forest Twp-Middle
+Carbon,51-4 Penn Forest Two-Northeast,Governor,,Glover/BowserBos,GRN,3,3.0,0.0,Carbon County,51-4 Penn Forest Two-Northeast
+Carbon,51-5 Penn Forest Twp-East,Governor,,Glover/BowserBos,GRN,4,3.0,1.0,Carbon County,51-5 Penn Forest Twp-East
+Carbon,52 Summit Hill Borough-First Ward,Governor,,Glover/BowserBos,GRN,1,1.0,0.0,Carbon County,52 Summit Hill Borough-First Ward
+Carbon,53 Summit Hill Borough-Second Ward,Governor,,Glover/BowserBos,GRN,7,7.0,0.0,Carbon County,53 Summit Hill Borough-Second Ward
+Carbon,54 Summit Hill Borough-Third Ward/First,Governor,,Glover/BowserBos,GRN,1,1.0,0.0,Carbon County,54 Summit Hill Borough-Third Ward/First
+Carbon,55 Summit Hill Borough-Third Ward/Second,Governor,,Glover/BowserBos,GRN,0,0.0,0.0,Carbon County,55 Summit Hill Borough-Third Ward/Second
+Carbon,56 Towamensing Twp-North,Governor,,Glover/BowserBos,GRN,2,1.0,1.0,Carbon County,56 Towamensing Twp-North
+Carbon,57-1 Towamensing Twp-South-1,Governor,,Glover/BowserBos,GRN,5,5.0,0.0,Carbon County,57-1 Towamensing Twp-South-1
+Carbon,57-2 Towamensing Twp-South-2,Governor,,Glover/BowserBos,GRN,4,4.0,0.0,Carbon County,57-2 Towamensing Twp-South-2
+Carbon,58 Weatherly Borough-East,Governor,,Glover/BowserBos,GRN,6,6.0,0.0,Carbon County,58 Weatherly Borough-East
+Carbon,61 Weatherly Borough-West,Governor,,Glover/BowserBos,GRN,2,2.0,0.0,Carbon County,61 Weatherly Borough-West
+Carbon,62 Weissport Borough,Governor,,Glover/BowserBos,GRN,3,3.0,0.0,Carbon County,62 Weissport Borough
+Carbon,Total,Governor,,Glover/BowserBos,GRN,140,135.0,5.0,Carbon County,Total
+Carbon,4 Banks Twp,Governor,,Krawchuk/Smith,LIB,4,4.0,0.0,Carbon County,4 Banks Twp
+Carbon,5 Beaver Meadows Borough,Governor,,Krawchuk/Smith,LIB,2,2.0,0.0,Carbon County,5 Beaver Meadows Borough
+Carbon,6 Bowmanstown Borough,Governor,,Krawchuk/Smith,LIB,3,2.0,1.0,Carbon County,6 Bowmanstown Borough
+Carbon,7 Fast Penn Twp-South,Governor,,Krawchuk/Smith,LIB,6,6.0,0.0,Carbon County,7 Fast Penn Twp-South
+Carbon,8 East Penn Twp-North,Governor,,Krawchuk/Smith,LIB,2,1.0,1.0,Carbon County,8 East Penn Twp-North
+Carbon,10 East Side Borough,Governor,,Krawchuk/Smith,LIB,1,1.0,0.0,Carbon County,10 East Side Borough
+Carbon,II Franklin Twp-Independent,Governor,,Krawchuk/Smith,LIB,6,6.0,0.0,Carbon County,II Franklin Twp-Independent
+Carbon,12 Franklin Twp-Harrity,Governor,,Krawchuk/Smith,LIB,6,6.0,0.0,Carbon County,12 Franklin Twp-Harrity
+Carbon,13 Franklin Twp-Long Run,Governor,,Krawchuk/Smith,LIB,6,6.0,0.0,Carbon County,13 Franklin Twp-Long Run
+Carbon,14 Jim Thorpe Borough-First Ward,Governor,,Krawchuk/Smith,LIB,9,9.0,0.0,Carbon County,14 Jim Thorpe Borough-First Ward
+Carbon,15 Jim Thorpe Borough-Second Ward,Governor,,Krawchuk/Smith,LIB,8,7.0,1.0,Carbon County,15 Jim Thorpe Borough-Second Ward
+Carbon,16 Jim Thorpe Borough-Third Ward,Governor,,Krawchuk/Smith,LIB,8,6.0,2.0,Carbon County,16 Jim Thorpe Borough-Third Ward
+Carbon,17 Jim Thorpe Borough-Fourth Ward,Governor,,Krawchuk/Smith,LIB,7,7.0,0.0,Carbon County,17 Jim Thorpe Borough-Fourth Ward
+Carbon,18 Jim Thorpe Borough-Fifth Ward,Governor,,Krawchuk/Smith,LIB,1,1.0,0.0,Carbon County,18 Jim Thorpe Borough-Fifth Ward
+Carbon,20 Kidder Twp-North,Governor,,Krawchuk/Smith,LIB,3,3.0,0.0,Carbon County,20 Kidder Twp-North
+Carbon,21 Kidder Twp-South,Governor,,Krawchuk/Smith,LIB,1,0.0,1.0,Carbon County,21 Kidder Twp-South
+Carbon,23 Lansford Borough-East,Governor,,Krawchuk/Smith,LIB,8,8.0,0.0,Carbon County,23 Lansford Borough-East
+Carbon,24 Lansford Borough-Middle,Governor,,Krawchuk/Smith,LIB,4,4.0,0.0,Carbon County,24 Lansford Borough-Middle
+Carbon,25 Lansford Borough-West,Governor,,Krawchuk/Smith,LIB,5,5.0,0.0,Carbon County,25 Lansford Borough-West
+Carbon,26 Lausanne Twp,Governor,,Krawchuk/Smith,LIB,2,2.0,0.0,Carbon County,26 Lausanne Twp
+Carbon,27 Lehigh Twp,Governor,,Krawchuk/Smith,LIB,0,0.0,0.0,Carbon County,27 Lehigh Twp
+Carbon,28 Lehighton Borough-First Ward,Governor,,Krawchuk/Smith,LIB,7,7.0,0.0,Carbon County,28 Lehighton Borough-First Ward
+Carbon,29 Lehighton Borough-Second Ward,Governor,,Krawchuk/Smith,LIB,6,6.0,0.0,Carbon County,29 Lehighton Borough-Second Ward
+Carbon,30 Lehighton Borough-Third Ward,Governor,,Krawchuk/Smith,LIB,4,4.0,0.0,Carbon County,30 Lehighton Borough-Third Ward
+Carbon,32 Lower Towamensing Twp-North,Governor,,Krawchuk/Smith,LIB,8,8.0,0.0,Carbon County,32 Lower Towamensing Twp-North
+Carbon,33 Lower Towamensing Twp-South,Governor,,Krawchuk/Smith,LIB,6,6.0,0.0,Carbon County,33 Lower Towamensing Twp-South
+Carbon,35 Mahoning Twp-Mahoning,Governor,,Krawchuk/Smith,LIB,10,10.0,0.0,Carbon County,35 Mahoning Twp-Mahoning
+Carbon,36 Mahoning Twp-New Mahoning,Governor,,Krawchuk/Smith,LIB,4,4.0,0.0,Carbon County,36 Mahoning Twp-New Mahoning
+Carbon,38 Mahoning Twp-Packerton/Jamestown,Governor,,Krawchuk/Smith,LIB,4,4.0,0.0,Carbon County,38 Mahoning Twp-Packerton/Jamestown
+Carbon,41 Nesquehoning Borough-East,Governor,,Krawchuk/Smith,LIB,5,5.0,0.0,Carbon County,41 Nesquehoning Borough-East
+Carbon,42 Nesquehoning Borough-West,Governor,,Krawchuk/Smith,LIB,2,2.0,0.0,Carbon County,42 Nesquehoning Borough-West
+Carbon,45 Packer Twp,Governor,,Krawchuk/Smith,LIB,4,4.0,0.0,Carbon County,45 Packer Twp
+Carbon,47 Palmerton Borough-East,Governor,,Krawchuk/Smith,LIB,12,12.0,0.0,Carbon County,47 Palmerton Borough-East
+Carbon,48 Palmerton Borough-Middle,Governor,,Krawchuk/Smith,LIB,9,9.0,0.0,Carbon County,48 Palmerton Borough-Middle
+Carbon,49 Palmerton Borough-West,Governor,,Krawchuk/Smith,LIB,2,2.0,0.0,Carbon County,49 Palmerton Borough-West
+Carbon,50 Parryville Borough,Governor,,Krawchuk/Smith,LIB,1,1.0,0.0,Carbon County,50 Parryville Borough
+Carbon,51-1 Penn Forest Twp-Southwest,Governor,,Krawchuk/Smith,LIB,6,6.0,0.0,Carbon County,51-1 Penn Forest Twp-Southwest
+Carbon,51-2 Penn Forest Twp-Northwest,Governor,,Krawchuk/Smith,LIB,4,4.0,0.0,Carbon County,51-2 Penn Forest Twp-Northwest
+Carbon,51-3 Penn Forest Twp-Middle,Governor,,Krawchuk/Smith,LIB,6,6.0,0.0,Carbon County,51-3 Penn Forest Twp-Middle
+Carbon,51-4 Penn Forest Two-Northeast,Governor,,Krawchuk/Smith,LIB,12,11.0,1.0,Carbon County,51-4 Penn Forest Two-Northeast
+Carbon,51-5 Penn Forest Twp-East,Governor,,Krawchuk/Smith,LIB,7,7.0,0.0,Carbon County,51-5 Penn Forest Twp-East
+Carbon,52 Summit Hill Borough-First Ward,Governor,,Krawchuk/Smith,LIB,7,7.0,0.0,Carbon County,52 Summit Hill Borough-First Ward
+Carbon,53 Summit Hill Borough-Second Ward,Governor,,Krawchuk/Smith,LIB,6,6.0,0.0,Carbon County,53 Summit Hill Borough-Second Ward
+Carbon,54 Summit Hill Borough-Third Ward/First,Governor,,Krawchuk/Smith,LIB,10,9.0,1.0,Carbon County,54 Summit Hill Borough-Third Ward/First
+Carbon,55 Summit Hill Borough-Third Ward/Second,Governor,,Krawchuk/Smith,LIB,2,1.0,1.0,Carbon County,55 Summit Hill Borough-Third Ward/Second
+Carbon,56 Towamensing Twp-North,Governor,,Krawchuk/Smith,LIB,9,9.0,0.0,Carbon County,56 Towamensing Twp-North
+Carbon,57-1 Towamensing Twp-South-1,Governor,,Krawchuk/Smith,LIB,6,6.0,0.0,Carbon County,57-1 Towamensing Twp-South-1
+Carbon,57-2 Towamensing Twp-South-2,Governor,,Krawchuk/Smith,LIB,7,6.0,1.0,Carbon County,57-2 Towamensing Twp-South-2
+Carbon,58 Weatherly Borough-East,Governor,,Krawchuk/Smith,LIB,5,4.0,1.0,Carbon County,58 Weatherly Borough-East
+Carbon,61 Weatherly Borough-West,Governor,,Krawchuk/Smith,LIB,3,3.0,0.0,Carbon County,61 Weatherly Borough-West
+Carbon,62 Weissport Borough,Governor,,Krawchuk/Smith,LIB,1,1.0,0.0,Carbon County,62 Weissport Borough
+Carbon,Total,Governor,,Krawchuk/Smith,LIB,267,256.0,11.0,Carbon County,Total
+Carbon,4 Banks Twp,Governor,,Write-In Votes,,0,0.0,0.0,Carbon County,4 Banks Twp
+Carbon,5 Beaver Meadows Borough,Governor,,Write-In Votes,,1,1.0,0.0,Carbon County,5 Beaver Meadows Borough
+Carbon,6 Bowmanstown Borough,Governor,,Write-In Votes,,0,0.0,0.0,Carbon County,6 Bowmanstown Borough
+Carbon,7 Fast Penn Twp-South,Governor,,Write-In Votes,,0,0.0,0.0,Carbon County,7 Fast Penn Twp-South
+Carbon,8 East Penn Twp-North,Governor,,Write-In Votes,,2,2.0,0.0,Carbon County,8 East Penn Twp-North
+Carbon,10 East Side Borough,Governor,,Write-In Votes,,0,0.0,0.0,Carbon County,10 East Side Borough
+Carbon,II Franklin Twp-Independent,Governor,,Write-In Votes,,0,0.0,0.0,Carbon County,II Franklin Twp-Independent
+Carbon,12 Franklin Twp-Harrity,Governor,,Write-In Votes,,1,1.0,0.0,Carbon County,12 Franklin Twp-Harrity
+Carbon,13 Franklin Twp-Long Run,Governor,,Write-In Votes,,1,1.0,0.0,Carbon County,13 Franklin Twp-Long Run
+Carbon,14 Jim Thorpe Borough-First Ward,Governor,,Write-In Votes,,0,0.0,0.0,Carbon County,14 Jim Thorpe Borough-First Ward
+Carbon,15 Jim Thorpe Borough-Second Ward,Governor,,Write-In Votes,,1,1.0,0.0,Carbon County,15 Jim Thorpe Borough-Second Ward
+Carbon,16 Jim Thorpe Borough-Third Ward,Governor,,Write-In Votes,,1,1.0,0.0,Carbon County,16 Jim Thorpe Borough-Third Ward
+Carbon,17 Jim Thorpe Borough-Fourth Ward,Governor,,Write-In Votes,,0,0.0,0.0,Carbon County,17 Jim Thorpe Borough-Fourth Ward
+Carbon,18 Jim Thorpe Borough-Fifth Ward,Governor,,Write-In Votes,,1,1.0,0.0,Carbon County,18 Jim Thorpe Borough-Fifth Ward
+Carbon,20 Kidder Twp-North,Governor,,Write-In Votes,,1,1.0,0.0,Carbon County,20 Kidder Twp-North
+Carbon,21 Kidder Twp-South,Governor,,Write-In Votes,,1,1.0,0.0,Carbon County,21 Kidder Twp-South
+Carbon,23 Lansford Borough-East,Governor,,Write-In Votes,,0,0.0,0.0,Carbon County,23 Lansford Borough-East
+Carbon,24 Lansford Borough-Middle,Governor,,Write-In Votes,,0,0.0,0.0,Carbon County,24 Lansford Borough-Middle
+Carbon,25 Lansford Borough-West,Governor,,Write-In Votes,,1,1.0,0.0,Carbon County,25 Lansford Borough-West
+Carbon,26 Lausanne Twp,Governor,,Write-In Votes,,0,0.0,0.0,Carbon County,26 Lausanne Twp
+Carbon,27 Lehigh Twp,Governor,,Write-In Votes,,1,1.0,0.0,Carbon County,27 Lehigh Twp
+Carbon,28 Lehighton Borough-First Ward,Governor,,Write-In Votes,,0,0.0,0.0,Carbon County,28 Lehighton Borough-First Ward
+Carbon,29 Lehighton Borough-Second Ward,Governor,,Write-In Votes,,0,0.0,0.0,Carbon County,29 Lehighton Borough-Second Ward
+Carbon,30 Lehighton Borough-Third Ward,Governor,,Write-In Votes,,0,0.0,0.0,Carbon County,30 Lehighton Borough-Third Ward
+Carbon,32 Lower Towamensing Twp-North,Governor,,Write-In Votes,,1,1.0,0.0,Carbon County,32 Lower Towamensing Twp-North
+Carbon,33 Lower Towamensing Twp-South,Governor,,Write-In Votes,,0,0.0,0.0,Carbon County,33 Lower Towamensing Twp-South
+Carbon,35 Mahoning Twp-Mahoning,Governor,,Write-In Votes,,1,1.0,0.0,Carbon County,35 Mahoning Twp-Mahoning
+Carbon,36 Mahoning Twp-New Mahoning,Governor,,Write-In Votes,,0,0.0,0.0,Carbon County,36 Mahoning Twp-New Mahoning
+Carbon,38 Mahoning Twp-Packerton/Jamestown,Governor,,Write-In Votes,,0,0.0,0.0,Carbon County,38 Mahoning Twp-Packerton/Jamestown
+Carbon,41 Nesquehoning Borough-East,Governor,,Write-In Votes,,1,1.0,0.0,Carbon County,41 Nesquehoning Borough-East
+Carbon,42 Nesquehoning Borough-West,Governor,,Write-In Votes,,0,0.0,0.0,Carbon County,42 Nesquehoning Borough-West
+Carbon,45 Packer Twp,Governor,,Write-In Votes,,0,0.0,0.0,Carbon County,45 Packer Twp
+Carbon,47 Palmerton Borough-East,Governor,,Write-In Votes,,1,1.0,0.0,Carbon County,47 Palmerton Borough-East
+Carbon,48 Palmerton Borough-Middle,Governor,,Write-In Votes,,0,0.0,0.0,Carbon County,48 Palmerton Borough-Middle
+Carbon,49 Palmerton Borough-West,Governor,,Write-In Votes,,0,0.0,0.0,Carbon County,49 Palmerton Borough-West
+Carbon,50 Parryville Borough,Governor,,Write-In Votes,,0,0.0,0.0,Carbon County,50 Parryville Borough
+Carbon,51-1 Penn Forest Twp-Southwest,Governor,,Write-In Votes,,0,0.0,0.0,Carbon County,51-1 Penn Forest Twp-Southwest
+Carbon,51-2 Penn Forest Twp-Northwest,Governor,,Write-In Votes,,0,0.0,0.0,Carbon County,51-2 Penn Forest Twp-Northwest
+Carbon,51-3 Penn Forest Twp-Middle,Governor,,Write-In Votes,,0,0.0,0.0,Carbon County,51-3 Penn Forest Twp-Middle
+Carbon,51-4 Penn Forest Two-Northeast,Governor,,Write-In Votes,,0,0.0,0.0,Carbon County,51-4 Penn Forest Two-Northeast
+Carbon,51-5 Penn Forest Twp-East,Governor,,Write-In Votes,,1,0.0,1.0,Carbon County,51-5 Penn Forest Twp-East
+Carbon,52 Summit Hill Borough-First Ward,Governor,,Write-In Votes,,0,0.0,0.0,Carbon County,52 Summit Hill Borough-First Ward
+Carbon,53 Summit Hill Borough-Second Ward,Governor,,Write-In Votes,,0,0.0,0.0,Carbon County,53 Summit Hill Borough-Second Ward
+Carbon,54 Summit Hill Borough-Third Ward/First,Governor,,Write-In Votes,,0,0.0,0.0,Carbon County,54 Summit Hill Borough-Third Ward/First
+Carbon,55 Summit Hill Borough-Third Ward/Second,Governor,,Write-In Votes,,0,0.0,0.0,Carbon County,55 Summit Hill Borough-Third Ward/Second
+Carbon,56 Towamensing Twp-North,Governor,,Write-In Votes,,2,2.0,0.0,Carbon County,56 Towamensing Twp-North
+Carbon,57-1 Towamensing Twp-South-1,Governor,,Write-In Votes,,0,0.0,0.0,Carbon County,57-1 Towamensing Twp-South-1
+Carbon,57-2 Towamensing Twp-South-2,Governor,,Write-In Votes,,1,1.0,0.0,Carbon County,57-2 Towamensing Twp-South-2
+Carbon,58 Weatherly Borough-East,Governor,,Write-In Votes,,1,1.0,0.0,Carbon County,58 Weatherly Borough-East
+Carbon,61 Weatherly Borough-West,Governor,,Write-In Votes,,0,0.0,0.0,Carbon County,61 Weatherly Borough-West
+Carbon,62 Weissport Borough,Governor,,Write-In Votes,,0,0.0,0.0,Carbon County,62 Weissport Borough
+Carbon,Total,Governor,,Write-In Votes,,21,20.0,1.0,Carbon County,Total
+Carbon,4 Banks Twp,U.S. House,9.0,Denny Wolff,DEM,160,153.0,7.0,Carbon County,4 Banks Twp
+Carbon,5 Beaver Meadows Borough,U.S. House,9.0,Denny Wolff,DEM,95,89.0,6.0,Carbon County,5 Beaver Meadows Borough
+Carbon,6 Bowmanstown Borough,U.S. House,9.0,Denny Wolff,DEM,110,108.0,2.0,Carbon County,6 Bowmanstown Borough
+Carbon,7 Fast Penn Twp-South,U.S. House,9.0,Denny Wolff,DEM,168,166.0,2.0,Carbon County,7 Fast Penn Twp-South
+Carbon,8 East Penn Twp-North,U.S. House,9.0,Denny Wolff,DEM,201,193.0,8.0,Carbon County,8 East Penn Twp-North
+Carbon,10 East Side Borough,U.S. House,9.0,Denny Wolff,DEM,34,28.0,6.0,Carbon County,10 East Side Borough
+Carbon,II Franklin Twp-Independent,U.S. House,9.0,Denny Wolff,DEM,132,130.0,2.0,Carbon County,II Franklin Twp-Independent
+Carbon,12 Franklin Twp-Harrity,U.S. House,9.0,Denny Wolff,DEM,245,236.0,9.0,Carbon County,12 Franklin Twp-Harrity
+Carbon,13 Franklin Twp-Long Run,U.S. House,9.0,Denny Wolff,DEM,159,154.0,5.0,Carbon County,13 Franklin Twp-Long Run
+Carbon,14 Jim Thorpe Borough-First Ward,U.S. House,9.0,Denny Wolff,DEM,218,211.0,7.0,Carbon County,14 Jim Thorpe Borough-First Ward
+Carbon,15 Jim Thorpe Borough-Second Ward,U.S. House,9.0,Denny Wolff,DEM,110,104.0,6.0,Carbon County,15 Jim Thorpe Borough-Second Ward
+Carbon,16 Jim Thorpe Borough-Third Ward,U.S. House,9.0,Denny Wolff,DEM,258,240.0,18.0,Carbon County,16 Jim Thorpe Borough-Third Ward
+Carbon,17 Jim Thorpe Borough-Fourth Ward,U.S. House,9.0,Denny Wolff,DEM,133,119.0,14.0,Carbon County,17 Jim Thorpe Borough-Fourth Ward
+Carbon,18 Jim Thorpe Borough-Fifth Ward,U.S. House,9.0,Denny Wolff,DEM,193,185.0,8.0,Carbon County,18 Jim Thorpe Borough-Fifth Ward
+Carbon,20 Kidder Twp-North,U.S. House,9.0,Denny Wolff,DEM,82,75.0,7.0,Carbon County,20 Kidder Twp-North
+Carbon,21 Kidder Twp-South,U.S. House,9.0,Denny Wolff,DEM,185,173.0,12.0,Carbon County,21 Kidder Twp-South
+Carbon,23 Lansford Borough-East,U.S. House,9.0,Denny Wolff,DEM,209,194.0,15.0,Carbon County,23 Lansford Borough-East
+Carbon,24 Lansford Borough-Middle,U.S. House,9.0,Denny Wolff,DEM,132,129.0,3.0,Carbon County,24 Lansford Borough-Middle
+Carbon,25 Lansford Borough-West,U.S. House,9.0,Denny Wolff,DEM,114,110.0,4.0,Carbon County,25 Lansford Borough-West
+Carbon,26 Lausanne Twp,U.S. House,9.0,Denny Wolff,DEM,29,29.0,0.0,Carbon County,26 Lausanne Twp
+Carbon,27 Lehigh Twp,U.S. House,9.0,Denny Wolff,DEM,41,41.0,0.0,Carbon County,27 Lehigh Twp
+Carbon,28 Lehighton Borough-First Ward,U.S. House,9.0,Denny Wolff,DEM,226,223.0,3.0,Carbon County,28 Lehighton Borough-First Ward
+Carbon,29 Lehighton Borough-Second Ward,U.S. House,9.0,Denny Wolff,DEM,205,194.0,11.0,Carbon County,29 Lehighton Borough-Second Ward
+Carbon,30 Lehighton Borough-Third Ward,U.S. House,9.0,Denny Wolff,DEM,237,230.0,7.0,Carbon County,30 Lehighton Borough-Third Ward
+Carbon,32 Lower Towamensing Twp-North,U.S. House,9.0,Denny Wolff,DEM,228,220.0,8.0,Carbon County,32 Lower Towamensing Twp-North
+Carbon,33 Lower Towamensing Twp-South,U.S. House,9.0,Denny Wolff,DEM,174,169.0,5.0,Carbon County,33 Lower Towamensing Twp-South
+Carbon,35 Mahoning Twp-Mahoning,U.S. House,9.0,Denny Wolff,DEM,327,314.0,13.0,Carbon County,35 Mahoning Twp-Mahoning
+Carbon,36 Mahoning Twp-New Mahoning,U.S. House,9.0,Denny Wolff,DEM,95,93.0,2.0,Carbon County,36 Mahoning Twp-New Mahoning
+Carbon,38 Mahoning Twp-Packerton/Jamestown,U.S. House,9.0,Denny Wolff,DEM,88,88.0,0.0,Carbon County,38 Mahoning Twp-Packerton/Jamestown
+Carbon,41 Nesquehoning Borough-East,U.S. House,9.0,Denny Wolff,DEM,238,227.0,11.0,Carbon County,41 Nesquehoning Borough-East
+Carbon,42 Nesquehoning Borough-West,U.S. House,9.0,Denny Wolff,DEM,262,251.0,11.0,Carbon County,42 Nesquehoning Borough-West
+Carbon,45 Packer Twp,U.S. House,9.0,Denny Wolff,DEM,111,110.0,1.0,Carbon County,45 Packer Twp
+Carbon,47 Palmerton Borough-East,U.S. House,9.0,Denny Wolff,DEM,224,219.0,5.0,Carbon County,47 Palmerton Borough-East
+Carbon,48 Palmerton Borough-Middle,U.S. House,9.0,Denny Wolff,DEM,367,351.0,16.0,Carbon County,48 Palmerton Borough-Middle
+Carbon,49 Palmerton Borough-West,U.S. House,9.0,Denny Wolff,DEM,96,96.0,0.0,Carbon County,49 Palmerton Borough-West
+Carbon,50 Parryville Borough,U.S. House,9.0,Denny Wolff,DEM,53,52.0,1.0,Carbon County,50 Parryville Borough
+Carbon,51-1 Penn Forest Twp-Southwest,U.S. House,9.0,Denny Wolff,DEM,288,272.0,16.0,Carbon County,51-1 Penn Forest Twp-Southwest
+Carbon,51-2 Penn Forest Twp-Northwest,U.S. House,9.0,Denny Wolff,DEM,308,292.0,16.0,Carbon County,51-2 Penn Forest Twp-Northwest
+Carbon,51-3 Penn Forest Twp-Middle,U.S. House,9.0,Denny Wolff,DEM,206,201.0,5.0,Carbon County,51-3 Penn Forest Twp-Middle
+Carbon,51-4 Penn Forest Two-Northeast,U.S. House,9.0,Denny Wolff,DEM,352,337.0,15.0,Carbon County,51-4 Penn Forest Two-Northeast
+Carbon,51-5 Penn Forest Twp-East,U.S. House,9.0,Denny Wolff,DEM,299,280.0,19.0,Carbon County,51-5 Penn Forest Twp-East
+Carbon,52 Summit Hill Borough-First Ward,U.S. House,9.0,Denny Wolff,DEM,161,149.0,12.0,Carbon County,52 Summit Hill Borough-First Ward
+Carbon,53 Summit Hill Borough-Second Ward,U.S. House,9.0,Denny Wolff,DEM,169,159.0,10.0,Carbon County,53 Summit Hill Borough-Second Ward
+Carbon,54 Summit Hill Borough-Third Ward/First,U.S. House,9.0,Denny Wolff,DEM,159,150.0,9.0,Carbon County,54 Summit Hill Borough-Third Ward/First
+Carbon,55 Summit Hill Borough-Third Ward/Second,U.S. House,9.0,Denny Wolff,DEM,85,78.0,7.0,Carbon County,55 Summit Hill Borough-Third Ward/Second
+Carbon,56 Towamensing Twp-North,U.S. House,9.0,Denny Wolff,DEM,198,189.0,9.0,Carbon County,56 Towamensing Twp-North
+Carbon,57-1 Towamensing Twp-South-1,U.S. House,9.0,Denny Wolff,DEM,217,206.0,11.0,Carbon County,57-1 Towamensing Twp-South-1
+Carbon,57-2 Towamensing Twp-South-2,U.S. House,9.0,Denny Wolff,DEM,198,184.0,14.0,Carbon County,57-2 Towamensing Twp-South-2
+Carbon,58 Weatherly Borough-East,U.S. House,9.0,Denny Wolff,DEM,183,171.0,12.0,Carbon County,58 Weatherly Borough-East
+Carbon,61 Weatherly Borough-West,U.S. House,9.0,Denny Wolff,DEM,90,88.0,2.0,Carbon County,61 Weatherly Borough-West
+Carbon,62 Weissport Borough,U.S. House,9.0,Denny Wolff,DEM,50,49.0,1.0,Carbon County,62 Weissport Borough
+Carbon,Total,U.S. House,9.0,Denny Wolff,DEM,8902,8509.0,393.0,Carbon County,Total
+Carbon,4 Banks Twp,U.S. House,9.0,Dan Meuser,REP,221,215.0,6.0,Carbon County,4 Banks Twp
+Carbon,5 Beaver Meadows Borough,U.S. House,9.0,Dan Meuser,REP,192,188.0,4.0,Carbon County,5 Beaver Meadows Borough
+Carbon,6 Bowmanstown Borough,U.S. House,9.0,Dan Meuser,REP,175,168.0,7.0,Carbon County,6 Bowmanstown Borough
+Carbon,7 Fast Penn Twp-South,U.S. House,9.0,Dan Meuser,REP,333,321.0,12.0,Carbon County,7 Fast Penn Twp-South
+Carbon,8 East Penn Twp-North,U.S. House,9.0,Dan Meuser,REP,409,399.0,10.0,Carbon County,8 East Penn Twp-North
+Carbon,10 East Side Borough,U.S. House,9.0,Dan Meuser,REP,43,37.0,6.0,Carbon County,10 East Side Borough
+Carbon,II Franklin Twp-Independent,U.S. House,9.0,Dan Meuser,REP,254,247.0,7.0,Carbon County,II Franklin Twp-Independent
+Carbon,12 Franklin Twp-Harrity,U.S. House,9.0,Dan Meuser,REP,473,459.0,14.0,Carbon County,12 Franklin Twp-Harrity
+Carbon,13 Franklin Twp-Long Run,U.S. House,9.0,Dan Meuser,REP,395,387.0,8.0,Carbon County,13 Franklin Twp-Long Run
+Carbon,14 Jim Thorpe Borough-First Ward,U.S. House,9.0,Dan Meuser,REP,182,172.0,10.0,Carbon County,14 Jim Thorpe Borough-First Ward
+Carbon,15 Jim Thorpe Borough-Second Ward,U.S. House,9.0,Dan Meuser,REP,146,138.0,8.0,Carbon County,15 Jim Thorpe Borough-Second Ward
+Carbon,16 Jim Thorpe Borough-Third Ward,U.S. House,9.0,Dan Meuser,REP,302,289.0,13.0,Carbon County,16 Jim Thorpe Borough-Third Ward
+Carbon,17 Jim Thorpe Borough-Fourth Ward,U.S. House,9.0,Dan Meuser,REP,94,89.0,5.0,Carbon County,17 Jim Thorpe Borough-Fourth Ward
+Carbon,18 Jim Thorpe Borough-Fifth Ward,U.S. House,9.0,Dan Meuser,REP,225,209.0,16.0,Carbon County,18 Jim Thorpe Borough-Fifth Ward
+Carbon,20 Kidder Twp-North,U.S. House,9.0,Dan Meuser,REP,131,128.0,3.0,Carbon County,20 Kidder Twp-North
+Carbon,21 Kidder Twp-South,U.S. House,9.0,Dan Meuser,REP,364,337.0,27.0,Carbon County,21 Kidder Twp-South
+Carbon,23 Lansford Borough-East,U.S. House,9.0,Dan Meuser,REP,211,202.0,9.0,Carbon County,23 Lansford Borough-East
+Carbon,24 Lansford Borough-Middle,U.S. House,9.0,Dan Meuser,REP,147,143.0,4.0,Carbon County,24 Lansford Borough-Middle
+Carbon,25 Lansford Borough-West,U.S. House,9.0,Dan Meuser,REP,109,106.0,3.0,Carbon County,25 Lansford Borough-West
+Carbon,26 Lausanne Twp,U.S. House,9.0,Dan Meuser,REP,59,57.0,2.0,Carbon County,26 Lausanne Twp
+Carbon,27 Lehigh Twp,U.S. House,9.0,Dan Meuser,REP,163,155.0,8.0,Carbon County,27 Lehigh Twp
+Carbon,28 Lehighton Borough-First Ward,U.S. House,9.0,Dan Meuser,REP,272,259.0,13.0,Carbon County,28 Lehighton Borough-First Ward
+Carbon,29 Lehighton Borough-Second Ward,U.S. House,9.0,Dan Meuser,REP,252,244.0,8.0,Carbon County,29 Lehighton Borough-Second Ward
+Carbon,30 Lehighton Borough-Third Ward,U.S. House,9.0,Dan Meuser,REP,242,237.0,5.0,Carbon County,30 Lehighton Borough-Third Ward
+Carbon,32 Lower Towamensing Twp-North,U.S. House,9.0,Dan Meuser,REP,413,405.0,8.0,Carbon County,32 Lower Towamensing Twp-North
+Carbon,33 Lower Towamensing Twp-South,U.S. House,9.0,Dan Meuser,REP,273,265.0,8.0,Carbon County,33 Lower Towamensing Twp-South
+Carbon,35 Mahoning Twp-Mahoning,U.S. House,9.0,Dan Meuser,REP,587,570.0,17.0,Carbon County,35 Mahoning Twp-Mahoning
+Carbon,36 Mahoning Twp-New Mahoning,U.S. House,9.0,Dan Meuser,REP,225,222.0,3.0,Carbon County,36 Mahoning Twp-New Mahoning
+Carbon,38 Mahoning Twp-Packerton/Jamestown,U.S. House,9.0,Dan Meuser,REP,148,146.0,2.0,Carbon County,38 Mahoning Twp-Packerton/Jamestown
+Carbon,41 Nesquehoning Borough-East,U.S. House,9.0,Dan Meuser,REP,261,248.0,13.0,Carbon County,41 Nesquehoning Borough-East
+Carbon,42 Nesquehoning Borough-West,U.S. House,9.0,Dan Meuser,REP,285,269.0,16.0,Carbon County,42 Nesquehoning Borough-West
+Carbon,45 Packer Twp,U.S. House,9.0,Dan Meuser,REP,372,359.0,13.0,Carbon County,45 Packer Twp
+Carbon,47 Palmerton Borough-East,U.S. House,9.0,Dan Meuser,REP,376,364.0,12.0,Carbon County,47 Palmerton Borough-East
+Carbon,48 Palmerton Borough-Middle,U.S. House,9.0,Dan Meuser,REP,452,436.0,16.0,Carbon County,48 Palmerton Borough-Middle
+Carbon,49 Palmerton Borough-West,U.S. House,9.0,Dan Meuser,REP,150,150.0,0.0,Carbon County,49 Palmerton Borough-West
+Carbon,50 Parryville Borough,U.S. House,9.0,Dan Meuser,REP,112,109.0,2.0,Carbon County,50 Parryville Borough
+Carbon,51-1 Penn Forest Twp-Southwest,U.S. House,9.0,Dan Meuser,REP,454,422.0,32.0,Carbon County,51-1 Penn Forest Twp-Southwest
+Carbon,51-2 Penn Forest Twp-Northwest,U.S. House,9.0,Dan Meuser,REP,489,474.0,15.0,Carbon County,51-2 Penn Forest Twp-Northwest
+Carbon,51-3 Penn Forest Twp-Middle,U.S. House,9.0,Dan Meuser,REP,301,290.0,11.0,Carbon County,51-3 Penn Forest Twp-Middle
+Carbon,51-4 Penn Forest Two-Northeast,U.S. House,9.0,Dan Meuser,REP,460,437.0,23.0,Carbon County,51-4 Penn Forest Two-Northeast
+Carbon,51-5 Penn Forest Twp-East,U.S. House,9.0,Dan Meuser,REP,376,361.0,15.0,Carbon County,51-5 Penn Forest Twp-East
+Carbon,52 Summit Hill Borough-First Ward,U.S. House,9.0,Dan Meuser,REP,120,115.0,5.0,Carbon County,52 Summit Hill Borough-First Ward
+Carbon,53 Summit Hill Borough-Second Ward,U.S. House,9.0,Dan Meuser,REP,132,127.0,5.0,Carbon County,53 Summit Hill Borough-Second Ward
+Carbon,54 Summit Hill Borough-Third Ward/First,U.S. House,9.0,Dan Meuser,REP,163,158.0,5.0,Carbon County,54 Summit Hill Borough-Third Ward/First
+Carbon,55 Summit Hill Borough-Third Ward/Second,U.S. House,9.0,Dan Meuser,REP,147,145.0,2.0,Carbon County,55 Summit Hill Borough-Third Ward/Second
+Carbon,56 Towamensing Twp-North,U.S. House,9.0,Dan Meuser,REP,374,359.0,15.0,Carbon County,56 Towamensing Twp-North
+Carbon,57-1 Towamensing Twp-South-1,U.S. House,9.0,Dan Meuser,REP,393,381.0,12.0,Carbon County,57-1 Towamensing Twp-South-1
+Carbon,57-2 Towamensing Twp-South-2,U.S. House,9.0,Dan Meuser,REP,369,358.0,11.0,Carbon County,57-2 Towamensing Twp-South-2
+Carbon,58 Weatherly Borough-East,U.S. House,9.0,Dan Meuser,REP,377,359.0,18.0,Carbon County,58 Weatherly Borough-East
+Carbon,61 Weatherly Borough-West,U.S. House,9.0,Dan Meuser,REP,197,190.0,7.0,Carbon County,61 Weatherly Borough-West
+Carbon,62 Weissport Borough,U.S. House,9.0,Dan Meuser,REP,48,48.0,0.0,Carbon County,62 Weissport Borough
+Carbon,Total,U.S. House,9.0,Dan Meuser,REP,13448,12953.0,494.0,Carbon County,Total
+Carbon,4 Banks Twp,U.S. House,9.0,Write-In Votes,,1,1.0,0.0,Carbon County,4 Banks Twp
+Carbon,5 Beaver Meadows Borough,U.S. House,9.0,Write-In Votes,,1,1.0,0.0,Carbon County,5 Beaver Meadows Borough
+Carbon,6 Bowmanstown Borough,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,6 Bowmanstown Borough
+Carbon,7 Fast Penn Twp-South,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,7 Fast Penn Twp-South
+Carbon,8 East Penn Twp-North,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,8 East Penn Twp-North
+Carbon,10 East Side Borough,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,10 East Side Borough
+Carbon,II Franklin Twp-Independent,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,II Franklin Twp-Independent
+Carbon,12 Franklin Twp-Harrity,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,12 Franklin Twp-Harrity
+Carbon,13 Franklin Twp-Long Run,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,13 Franklin Twp-Long Run
+Carbon,14 Jim Thorpe Borough-First Ward,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,14 Jim Thorpe Borough-First Ward
+Carbon,15 Jim Thorpe Borough-Second Ward,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,15 Jim Thorpe Borough-Second Ward
+Carbon,16 Jim Thorpe Borough-Third Ward,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,16 Jim Thorpe Borough-Third Ward
+Carbon,17 Jim Thorpe Borough-Fourth Ward,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,17 Jim Thorpe Borough-Fourth Ward
+Carbon,18 Jim Thorpe Borough-Fifth Ward,U.S. House,9.0,Write-In Votes,,1,1.0,0.0,Carbon County,18 Jim Thorpe Borough-Fifth Ward
+Carbon,20 Kidder Twp-North,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,20 Kidder Twp-North
+Carbon,21 Kidder Twp-South,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,21 Kidder Twp-South
+Carbon,23 Lansford Borough-East,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,23 Lansford Borough-East
+Carbon,24 Lansford Borough-Middle,U.S. House,9.0,Write-In Votes,,1,1.0,0.0,Carbon County,24 Lansford Borough-Middle
+Carbon,25 Lansford Borough-West,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,25 Lansford Borough-West
+Carbon,26 Lausanne Twp,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,26 Lausanne Twp
+Carbon,27 Lehigh Twp,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,27 Lehigh Twp
+Carbon,28 Lehighton Borough-First Ward,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,28 Lehighton Borough-First Ward
+Carbon,29 Lehighton Borough-Second Ward,U.S. House,9.0,Write-In Votes,,1,1.0,0.0,Carbon County,29 Lehighton Borough-Second Ward
+Carbon,30 Lehighton Borough-Third Ward,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,30 Lehighton Borough-Third Ward
+Carbon,32 Lower Towamensing Twp-North,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,32 Lower Towamensing Twp-North
+Carbon,33 Lower Towamensing Twp-South,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,33 Lower Towamensing Twp-South
+Carbon,35 Mahoning Twp-Mahoning,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,35 Mahoning Twp-Mahoning
+Carbon,36 Mahoning Twp-New Mahoning,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,36 Mahoning Twp-New Mahoning
+Carbon,38 Mahoning Twp-Packerton/Jamestown,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,38 Mahoning Twp-Packerton/Jamestown
+Carbon,41 Nesquehoning Borough-East,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,41 Nesquehoning Borough-East
+Carbon,42 Nesquehoning Borough-West,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,42 Nesquehoning Borough-West
+Carbon,45 Packer Twp,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,45 Packer Twp
+Carbon,47 Palmerton Borough-East,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,47 Palmerton Borough-East
+Carbon,48 Palmerton Borough-Middle,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,48 Palmerton Borough-Middle
+Carbon,49 Palmerton Borough-West,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,49 Palmerton Borough-West
+Carbon,50 Parryville Borough,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,50 Parryville Borough
+Carbon,51-1 Penn Forest Twp-Southwest,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,51-1 Penn Forest Twp-Southwest
+Carbon,51-2 Penn Forest Twp-Northwest,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,51-2 Penn Forest Twp-Northwest
+Carbon,51-3 Penn Forest Twp-Middle,U.S. House,9.0,Write-In Votes,,1,1.0,0.0,Carbon County,51-3 Penn Forest Twp-Middle
+Carbon,51-4 Penn Forest Two-Northeast,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,51-4 Penn Forest Two-Northeast
+Carbon,51-5 Penn Forest Twp-East,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,51-5 Penn Forest Twp-East
+Carbon,52 Summit Hill Borough-First Ward,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,52 Summit Hill Borough-First Ward
+Carbon,53 Summit Hill Borough-Second Ward,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,53 Summit Hill Borough-Second Ward
+Carbon,54 Summit Hill Borough-Third Ward/First,U.S. House,9.0,Write-In Votes,,1,1.0,0.0,Carbon County,54 Summit Hill Borough-Third Ward/First
+Carbon,55 Summit Hill Borough-Third Ward/Second,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,55 Summit Hill Borough-Third Ward/Second
+Carbon,56 Towamensing Twp-North,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,56 Towamensing Twp-North
+Carbon,57-1 Towamensing Twp-South-1,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,57-1 Towamensing Twp-South-1
+Carbon,57-2 Towamensing Twp-South-2,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,57-2 Towamensing Twp-South-2
+Carbon,58 Weatherly Borough-East,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,58 Weatherly Borough-East
+Carbon,61 Weatherly Borough-West,U.S. House,9.0,Write-In Votes,,0,0.0,0.0,Carbon County,61 Weatherly Borough-West
+Carbon,62 Weissport Borough,U.S. House,9.0,Write-In Votes,,1,1.0,0.0,Carbon County,62 Weissport Borough
+Carbon,Total,U.S. House,9.0,Write-In Votes,,8,8.0,0.0,Carbon County,Total
+Carbon,4 Banks Twp,State Senate,14.0,John T. Yudichak,DEM,241,235.0,6.0,Carbon County,4 Banks Twp
+Carbon,5 Beaver Meadows Borough,State Senate,14.0,John T. Yudichak,DEM,156,148.0,8.0,Carbon County,5 Beaver Meadows Borough
+Carbon,6 Bowmanstown Borough,State Senate,14.0,John T. Yudichak,DEM,154,150.0,41.0,Carbon County,6 Bowmanstown Borough
+Carbon,7 Fast Penn Twp-South,State Senate,14.0,John T. Yudichak,DEM,242,238.0,41.0,Carbon County,7 Fast Penn Twp-South
+Carbon,8 East Penn Twp-North,State Senate,14.0,John T. Yudichak,DEM,290,280.0,10.0,Carbon County,8 East Penn Twp-North
+Carbon,10 East Side Borough,State Senate,14.0,John T. Yudichak,DEM,401,32.0,8.0,Carbon County,10 East Side Borough
+Carbon,II Franklin Twp-Independent,State Senate,14.0,John T. Yudichak,DEM,188,184.0,41.0,Carbon County,II Franklin Twp-Independent
+Carbon,12 Franklin Twp-Harrity,State Senate,14.0,John T. Yudichak,DEM,320,309.0,11.0,Carbon County,12 Franklin Twp-Harrity
+Carbon,13 Franklin Twp-Long Run,State Senate,14.0,John T. Yudichak,DEM,225,219.0,6.0,Carbon County,13 Franklin Twp-Long Run
+Carbon,14 Jim Thorpe Borough-First Ward,State Senate,14.0,John T. Yudichak,DEM,278,269.0,91.0,Carbon County,14 Jim Thorpe Borough-First Ward
+Carbon,15 Jim Thorpe Borough-Second Ward,State Senate,14.0,John T. Yudichak,DEM,167,159.0,8.0,Carbon County,15 Jim Thorpe Borough-Second Ward
+Carbon,16 Jim Thorpe Borough-Third Ward,State Senate,14.0,John T. Yudichak,DEM,365,339.0,26.0,Carbon County,16 Jim Thorpe Borough-Third Ward
+Carbon,17 Jim Thorpe Borough-Fourth Ward,State Senate,14.0,John T. Yudichak,DEM,172,156.0,16.0,Carbon County,17 Jim Thorpe Borough-Fourth Ward
+Carbon,18 Jim Thorpe Borough-Fifth Ward,State Senate,14.0,John T. Yudichak,DEM,250,239.0,11.0,Carbon County,18 Jim Thorpe Borough-Fifth Ward
+Carbon,20 Kidder Twp-North,State Senate,14.0,John T. Yudichak,DEM,106,99.0,7.0,Carbon County,20 Kidder Twp-North
+Carbon,21 Kidder Twp-South,State Senate,14.0,John T. Yudichak,DEM,254,237.0,17.0,Carbon County,21 Kidder Twp-South
+Carbon,23 Lansford Borough-East,State Senate,14.0,John T. Yudichak,DEM,272,257.0,15.0,Carbon County,23 Lansford Borough-East
+Carbon,24 Lansford Borough-Middle,State Senate,14.0,John T. Yudichak,DEM,178,174.0,4.0,Carbon County,24 Lansford Borough-Middle
+Carbon,25 Lansford Borough-West,State Senate,14.0,John T. Yudichak,DEM,148,144.0,4.0,Carbon County,25 Lansford Borough-West
+Carbon,26 Lausanne Twp,State Senate,14.0,John T. Yudichak,DEM,44,44.0,0.0,Carbon County,26 Lausanne Twp
+Carbon,27 Lehigh Twp,State Senate,14.0,John T. Yudichak,DEM,71,70.0,1.0,Carbon County,27 Lehigh Twp
+Carbon,28 Lehighton Borough-First Ward,State Senate,14.0,John T. Yudichak,DEM,277,272.0,5.0,Carbon County,28 Lehighton Borough-First Ward
+Carbon,29 Lehighton Borough-Second Ward,State Senate,14.0,John T. Yudichak,DEM,274,262.0,12.0,Carbon County,29 Lehighton Borough-Second Ward
+Carbon,30 Lehighton Borough-Third Ward,State Senate,14.0,John T. Yudichak,DEM,296,288.0,8.0,Carbon County,30 Lehighton Borough-Third Ward
+Carbon,32 Lower Towamensing Twp-North,State Senate,14.0,John T. Yudichak,DEM,301,290.0,11.0,Carbon County,32 Lower Towamensing Twp-North
+Carbon,33 Lower Towamensing Twp-South,State Senate,14.0,John T. Yudichak,DEM,219,212.0,7.0,Carbon County,33 Lower Towamensing Twp-South
+Carbon,35 Mahoning Twp-Mahoning,State Senate,14.0,John T. Yudichak,DEM,439,422.0,17.0,Carbon County,35 Mahoning Twp-Mahoning
+Carbon,36 Mahoning Twp-New Mahoning,State Senate,14.0,John T. Yudichak,DEM,141,137.0,4.0,Carbon County,36 Mahoning Twp-New Mahoning
+Carbon,38 Mahoning Twp-Packerton/Jamestown,State Senate,14.0,John T. Yudichak,DEM,125,125.0,0.0,Carbon County,38 Mahoning Twp-Packerton/Jamestown
+Carbon,41 Nesquehoning Borough-East,State Senate,14.0,John T. Yudichak,DEM,314,301.0,13.0,Carbon County,41 Nesquehoning Borough-East
+Carbon,42 Nesquehoning Borough-West,State Senate,14.0,John T. Yudichak,DEM,353,337.0,16.0,Carbon County,42 Nesquehoning Borough-West
+Carbon,45 Packer Twp,State Senate,14.0,John T. Yudichak,DEM,184,183.0,1.0,Carbon County,45 Packer Twp
+Carbon,47 Palmerton Borough-East,State Senate,14.0,John T. Yudichak,DEM,283,276.0,7.0,Carbon County,47 Palmerton Borough-East
+Carbon,48 Palmerton Borough-Middle,State Senate,14.0,John T. Yudichak,DEM,469,448.0,21.0,Carbon County,48 Palmerton Borough-Middle
+Carbon,49 Palmerton Borough-West,State Senate,14.0,John T. Yudichak,DEM,129,129.0,0.0,Carbon County,49 Palmerton Borough-West
+Carbon,50 Parryville Borough,State Senate,14.0,John T. Yudichak,DEM,79,78.0,1.0,Carbon County,50 Parryville Borough
+Carbon,51-1 Penn Forest Twp-Southwest,State Senate,14.0,John T. Yudichak,DEM,385,359.0,26.0,Carbon County,51-1 Penn Forest Twp-Southwest
+Carbon,51-2 Penn Forest Twp-Northwest,State Senate,14.0,John T. Yudichak,DEM,394,377.0,17.0,Carbon County,51-2 Penn Forest Twp-Northwest
+Carbon,51-3 Penn Forest Twp-Middle,State Senate,14.0,John T. Yudichak,DEM,252,245.0,0.0,Carbon County,51-3 Penn Forest Twp-Middle
+Carbon,51-4 Penn Forest Two-Northeast,State Senate,14.0,John T. Yudichak,DEM,419,404.0,15.0,Carbon County,51-4 Penn Forest Two-Northeast
+Carbon,51-5 Penn Forest Twp-East,State Senate,14.0,John T. Yudichak,DEM,353,330.0,23.0,Carbon County,51-5 Penn Forest Twp-East
+Carbon,52 Summit Hill Borough-First Ward,State Senate,14.0,John T. Yudichak,DEM,194,180.0,14.0,Carbon County,52 Summit Hill Borough-First Ward
+Carbon,53 Summit Hill Borough-Second Ward,State Senate,14.0,John T. Yudichak,DEM,210,198.0,12.0,Carbon County,53 Summit Hill Borough-Second Ward
+Carbon,54 Summit Hill Borough-Third Ward/First,State Senate,14.0,John T. Yudichak,DEM,198,187.0,11.0,Carbon County,54 Summit Hill Borough-Third Ward/First
+Carbon,55 Summit Hill Borough-Third Ward/Second,State Senate,14.0,John T. Yudichak,DEM,130,123.0,71.0,Carbon County,55 Summit Hill Borough-Third Ward/Second
+Carbon,56 Towamensing Twp-North,State Senate,14.0,John T. Yudichak,DEM,243,231.0,12.0,Carbon County,56 Towamensing Twp-North
+Carbon,57-1 Towamensing Twp-South-1,State Senate,14.0,John T. Yudichak,DEM,271,258.0,13.0,Carbon County,57-1 Towamensing Twp-South-1
+Carbon,57-2 Towamensing Twp-South-2,State Senate,14.0,John T. Yudichak,DEM,253,237.0,16.0,Carbon County,57-2 Towamensing Twp-South-2
+Carbon,58 Weatherly Borough-East,State Senate,14.0,John T. Yudichak,DEM,295,280.0,15.0,Carbon County,58 Weatherly Borough-East
+Carbon,61 Weatherly Borough-West,State Senate,14.0,John T. Yudichak,DEM,149,146.0,3.0,Carbon County,61 Weatherly Borough-West
+Carbon,62 Weissport Borough,State Senate,14.0,John T. Yudichak,DEM,60,59.0,1.0,Carbon County,62 Weissport Borough
+Carbon,Total,State Senate,14.0,John T. Yudichak,DEM,11850,11356.0,494.0,Carbon County,Total
+Carbon,4 Banks Twp,State Senate,14.0,Write-In Votes,,4,3.0,1.0,Carbon County,4 Banks Twp
+Carbon,5 Beaver Meadows Borough,State Senate,14.0,Write-In Votes,,4,4.0,0.0,Carbon County,5 Beaver Meadows Borough
+Carbon,6 Bowmanstown Borough,State Senate,14.0,Write-In Votes,,5,5.0,0.0,Carbon County,6 Bowmanstown Borough
+Carbon,7 Fast Penn Twp-South,State Senate,14.0,Write-In Votes,,12,12.0,0.0,Carbon County,7 Fast Penn Twp-South
+Carbon,8 East Penn Twp-North,State Senate,14.0,Write-In Votes,,11,10.0,1.0,Carbon County,8 East Penn Twp-North
+Carbon,10 East Side Borough,State Senate,14.0,Write-In Votes,,0,0.0,0.0,Carbon County,10 East Side Borough
+Carbon,II Franklin Twp-Independent,State Senate,14.0,Write-In Votes,,6,6.0,0.0,Carbon County,II Franklin Twp-Independent
+Carbon,12 Franklin Twp-Harrity,State Senate,14.0,Write-In Votes,,10,8.0,2.0,Carbon County,12 Franklin Twp-Harrity
+Carbon,13 Franklin Twp-Long Run,State Senate,14.0,Write-In Votes,,10,9.0,1.0,Carbon County,13 Franklin Twp-Long Run
+Carbon,14 Jim Thorpe Borough-First Ward,State Senate,14.0,Write-In Votes,,2,2.0,0.0,Carbon County,14 Jim Thorpe Borough-First Ward
+Carbon,15 Jim Thorpe Borough-Second Ward,State Senate,14.0,Write-In Votes,,3,2.0,1.0,Carbon County,15 Jim Thorpe Borough-Second Ward
+Carbon,16 Jim Thorpe Borough-Third Ward,State Senate,14.0,Write-In Votes,,5,5.0,0.0,Carbon County,16 Jim Thorpe Borough-Third Ward
+Carbon,17 Jim Thorpe Borough-Fourth Ward,State Senate,14.0,Write-In Votes,,2,1.0,1.0,Carbon County,17 Jim Thorpe Borough-Fourth Ward
+Carbon,18 Jim Thorpe Borough-Fifth Ward,State Senate,14.0,Write-In Votes,,4,4.0,0.0,Carbon County,18 Jim Thorpe Borough-Fifth Ward
+Carbon,20 Kidder Twp-North,State Senate,14.0,Write-In Votes,,4,3.0,1.0,Carbon County,20 Kidder Twp-North
+Carbon,21 Kidder Twp-South,State Senate,14.0,Write-In Votes,,7,7.0,0.0,Carbon County,21 Kidder Twp-South
+Carbon,23 Lansford Borough-East,State Senate,14.0,Write-In Votes,,5,4.0,1.0,Carbon County,23 Lansford Borough-East
+Carbon,24 Lansford Borough-Middle,State Senate,14.0,Write-In Votes,,5,5.0,0.0,Carbon County,24 Lansford Borough-Middle
+Carbon,25 Lansford Borough-West,State Senate,14.0,Write-In Votes,,5,5.0,0.0,Carbon County,25 Lansford Borough-West
+Carbon,26 Lausanne Twp,State Senate,14.0,Write-In Votes,,2,2.0,0.0,Carbon County,26 Lausanne Twp
+Carbon,27 Lehigh Twp,State Senate,14.0,Write-In Votes,,3,3.0,0.0,Carbon County,27 Lehigh Twp
+Carbon,28 Lehighton Borough-First Ward,State Senate,14.0,Write-In Votes,,10,10.0,0.0,Carbon County,28 Lehighton Borough-First Ward
+Carbon,29 Lehighton Borough-Second Ward,State Senate,14.0,Write-In Votes,,9,8.0,1.0,Carbon County,29 Lehighton Borough-Second Ward
+Carbon,30 Lehighton Borough-Third Ward,State Senate,14.0,Write-In Votes,,5,5.0,0.0,Carbon County,30 Lehighton Borough-Third Ward
+Carbon,32 Lower Towamensing Twp-North,State Senate,14.0,Write-In Votes,,8,8.0,0.0,Carbon County,32 Lower Towamensing Twp-North
+Carbon,33 Lower Towamensing Twp-South,State Senate,14.0,Write-In Votes,,7,7.0,0.0,Carbon County,33 Lower Towamensing Twp-South
+Carbon,35 Mahoning Twp-Mahoning,State Senate,14.0,Write-In Votes,,14,14.0,0.0,Carbon County,35 Mahoning Twp-Mahoning
+Carbon,36 Mahoning Twp-New Mahoning,State Senate,14.0,Write-In Votes,,5,5.0,0.0,Carbon County,36 Mahoning Twp-New Mahoning
+Carbon,38 Mahoning Twp-Packerton/Jamestown,State Senate,14.0,Write-In Votes,,4,4.0,0.0,Carbon County,38 Mahoning Twp-Packerton/Jamestown
+Carbon,41 Nesquehoning Borough-East,State Senate,14.0,Write-In Votes,,3,2.0,1.0,Carbon County,41 Nesquehoning Borough-East
+Carbon,42 Nesquehoning Borough-West,State Senate,14.0,Write-In Votes,,5,5.0,0.0,Carbon County,42 Nesquehoning Borough-West
+Carbon,45 Packer Twp,State Senate,14.0,Write-In Votes,,5,4.0,1.0,Carbon County,45 Packer Twp
+Carbon,47 Palmerton Borough-East,State Senate,14.0,Write-In Votes,,14,13.0,1.0,Carbon County,47 Palmerton Borough-East
+Carbon,48 Palmerton Borough-Middle,State Senate,14.0,Write-In Votes,,10,9.0,1.0,Carbon County,48 Palmerton Borough-Middle
+Carbon,49 Palmerton Borough-West,State Senate,14.0,Write-In Votes,,6,6.0,0.0,Carbon County,49 Palmerton Borough-West
+Carbon,50 Parryville Borough,State Senate,14.0,Write-In Votes,,0,0.0,0.0,Carbon County,50 Parryville Borough
+Carbon,51-1 Penn Forest Twp-Southwest,State Senate,14.0,Write-In Votes,,8,7.0,1.0,Carbon County,51-1 Penn Forest Twp-Southwest
+Carbon,51-2 Penn Forest Twp-Northwest,State Senate,14.0,Write-In Votes,,14,13.0,1.0,Carbon County,51-2 Penn Forest Twp-Northwest
+Carbon,51-3 Penn Forest Twp-Middle,State Senate,14.0,Write-In Votes,,6,6.0,0.0,Carbon County,51-3 Penn Forest Twp-Middle
+Carbon,51-4 Penn Forest Two-Northeast,State Senate,14.0,Write-In Votes,,18,17.0,1.0,Carbon County,51-4 Penn Forest Two-Northeast
+Carbon,51-5 Penn Forest Twp-East,State Senate,14.0,Write-In Votes,,15,15.0,0.0,Carbon County,51-5 Penn Forest Twp-East
+Carbon,52 Summit Hill Borough-First Ward,State Senate,14.0,Write-In Votes,,2,1.0,1.0,Carbon County,52 Summit Hill Borough-First Ward
+Carbon,53 Summit Hill Borough-Second Ward,State Senate,14.0,Write-In Votes,,0,0.0,0.0,Carbon County,53 Summit Hill Borough-Second Ward
+Carbon,54 Summit Hill Borough-Third Ward/First,State Senate,14.0,Write-In Votes,,4,4.0,0.0,Carbon County,54 Summit Hill Borough-Third Ward/First
+Carbon,55 Summit Hill Borough-Third Ward/Second,State Senate,14.0,Write-In Votes,,4,4.0,0.0,Carbon County,55 Summit Hill Borough-Third Ward/Second
+Carbon,56 Towamensing Twp-North,State Senate,14.0,Write-In Votes,,17,17.0,0.0,Carbon County,56 Towamensing Twp-North
+Carbon,57-1 Towamensing Twp-South-1,State Senate,14.0,Write-In Votes,,9,8.0,1.0,Carbon County,57-1 Towamensing Twp-South-1
+Carbon,57-2 Towamensing Twp-South-2,State Senate,14.0,Write-In Votes,,11,11.0,0.0,Carbon County,57-2 Towamensing Twp-South-2
+Carbon,58 Weatherly Borough-East,State Senate,14.0,Write-In Votes,,4,4.0,0.0,Carbon County,58 Weatherly Borough-East
+Carbon,61 Weatherly Borough-West,State Senate,14.0,Write-In Votes,,6,5.0,1.0,Carbon County,61 Weatherly Borough-West
+Carbon,62 Weissport Borough,State Senate,14.0,Write-In Votes,,2,2.0,0.0,Carbon County,62 Weissport Borough
+Carbon,Total,State Senate,14.0,Write-In Votes,,334,314.0,20.0,Carbon County,Total
+Carbon,4 Banks Twp,State House,122.0,Kara Scott,DEM,149,143.0,6.0,Carbon County,4 Banks Twp
+Carbon,5 Beaver Meadows Borough,State House,122.0,Kara Scott,DEM,67,62.0,5.0,Carbon County,5 Beaver Meadows Borough
+Carbon,6 Bowmanstown Borough,State House,122.0,Kara Scott,DEM,108,105.0,3.0,Carbon County,6 Bowmanstown Borough
+Carbon,7 East Penn Twp-South,State House,122.0,Kara Scott,DEM,135,133.0,2.0,Carbon County,7 East Penn Twp-South
+Carbon,8 East Penn Twp-North,State House,122.0,Kara Scott,DEM,149,145.0,4.0,Carbon County,8 East Penn Twp-North
+Carbon,10 East Side Borough,State House,122.0,Kara Scott,DEM,33,27.0,6.0,Carbon County,10 East Side Borough
+Carbon,II Franklin Twp-Independent,State House,122.0,Kara Scott,DEM,106,104.0,2.0,Carbon County,II Franklin Twp-Independent
+Carbon,12 Franklin Twp�Harrity,State House,122.0,Kara Scott,DEM,211,205.0,6.0,Carbon County,12 Franklin Twp�Harrity
+Carbon,13 Franklin Twp-Long Run,State House,122.0,Kara Scott,DEM,128,126.0,2.0,Carbon County,13 Franklin Twp-Long Run
+Carbon,14 Jim Thorpe Borough-First Ward,State House,122.0,Kara Scott,DEM,178,172.0,6.0,Carbon County,14 Jim Thorpe Borough-First Ward
+Carbon,15 Jim Thorpe Borough-Second Ward,State House,122.0,Kara Scott,DEM,93,86.0,7.0,Carbon County,15 Jim Thorpe Borough-Second Ward
+Carbon,16 Jim Thorpe Borough-Third Ward,State House,122.0,Kara Scott,DEM,205,192.0,13.0,Carbon County,16 Jim Thorpe Borough-Third Ward
+Carbon,17 Jim Thorpe Borough-Fourth Ward,State House,122.0,Kara Scott,DEM,121,112.0,9.0,Carbon County,17 Jim Thorpe Borough-Fourth Ward
+Carbon,18 Jim Thorpe Borough-Fifth Ward,State House,122.0,Kara Scott,DEM,147,138.0,9.0,Carbon County,18 Jim Thorpe Borough-Fifth Ward
+Carbon,20 Kidder Twp-North,State House,122.0,Kara Scott,DEM,68,61.0,7.0,Carbon County,20 Kidder Twp-North
+Carbon,21 Kidder Twp-South,State House,122.0,Kara Scott,DEM,156,147.0,9.0,Carbon County,21 Kidder Twp-South
+Carbon,23 Lansford Borough-East,State House,122.0,Kara Scott,DEM,182,167.0,15.0,Carbon County,23 Lansford Borough-East
+Carbon,24 Lansford Borough-Middle,State House,122.0,Kara Scott,DEM,116,113.0,3.0,Carbon County,24 Lansford Borough-Middle
+Carbon,25 Lansford Borough-West,State House,122.0,Kara Scott,DEM,98,95.0,3.0,Carbon County,25 Lansford Borough-West
+Carbon,26 Lausanne Twp,State House,122.0,Kara Scott,DEM,30,30.0,0.0,Carbon County,26 Lausanne Twp
+Carbon,27 Lehigh Twp,State House,122.0,Kara Scott,DEM,33,33.0,0.0,Carbon County,27 Lehigh Twp
+Carbon,28 Lehighton Borough-First Ward,State House,122.0,Kara Scott,DEM,170,166.0,4.0,Carbon County,28 Lehighton Borough-First Ward
+Carbon,29 Lehighton Borough-Second Ward,State House,122.0,Kara Scott,DEM,165,156.0,9.0,Carbon County,29 Lehighton Borough-Second Ward
+Carbon,30 Lehighton Borough-Third Ward,State House,122.0,Kara Scott,DEM,192,188.0,4.0,Carbon County,30 Lehighton Borough-Third Ward
+Carbon,32 Lower Towamensing Twp-North,State House,122.0,Kara Scott,DEM,206,199.0,7.0,Carbon County,32 Lower Towamensing Twp-North
+Carbon,33 Lower Towamensing Twp-South,State House,122.0,Kara Scott,DEM,147,142.0,5.0,Carbon County,33 Lower Towamensing Twp-South
+Carbon,35 Mahoning Twp-Mahoning,State House,122.0,Kara Scott,DEM,257,245.0,12.0,Carbon County,35 Mahoning Twp-Mahoning
+Carbon,36 Mahoning Twp-New Mahoning,State House,122.0,Kara Scott,DEM,72,71.0,1.0,Carbon County,36 Mahoning Twp-New Mahoning
+Carbon,38 Mahoning Twp-Packerton/Jamestown,State House,122.0,Kara Scott,DEM,60,60.0,0.0,Carbon County,38 Mahoning Twp-Packerton/Jamestown
+Carbon,41 Nesquehoning Borough-East,State House,122.0,Kara Scott,DEM,216,205.0,11.0,Carbon County,41 Nesquehoning Borough-East
+Carbon,42 Nesquehoning Borough-West,State House,122.0,Kara Scott,DEM,229,220.0,9.0,Carbon County,42 Nesquehoning Borough-West
+Carbon,45 Packer Twp,State House,122.0,Kara Scott,DEM,92,91.0,1.0,Carbon County,45 Packer Twp
+Carbon,47 Palmerton Borough-East,State House,122.0,Kara Scott,DEM,211,206.0,5.0,Carbon County,47 Palmerton Borough-East
+Carbon,48 Palmerton Borough-Middle,State House,122.0,Kara Scott,DEM,326,311.0,15.0,Carbon County,48 Palmerton Borough-Middle
+Carbon,49 Palmerton Borough-West,State House,122.0,Kara Scott,DEM,77,77.0,0.0,Carbon County,49 Palmerton Borough-West
+Carbon,50 Parryville Borough,State House,122.0,Kara Scott,DEM,40,39.0,1.0,Carbon County,50 Parryville Borough
+Carbon,51-1 Penn Forest Twp-Southwest,State House,122.0,Kara Scott,DEM,257,243.0,14.0,Carbon County,51-1 Penn Forest Twp-Southwest
+Carbon,51-2 Penn Forest Twp-Northwest,State House,122.0,Kara Scott,DEM,257,248.0,9.0,Carbon County,51-2 Penn Forest Twp-Northwest
+Carbon,51-3 Penn Forest Twp-Middle,State House,122.0,Kara Scott,DEM,184,178.0,6.0,Carbon County,51-3 Penn Forest Twp-Middle
+Carbon,51-4 Penn Forest Twp-Northeast,State House,122.0,Kara Scott,DEM,304,293.0,11.0,Carbon County,51-4 Penn Forest Twp-Northeast
+Carbon,51-5 Penn Forest Twp-East,State House,122.0,Kara Scott,DEM,277,260.0,17.0,Carbon County,51-5 Penn Forest Twp-East
+Carbon,56 Towamensing Twp-North,State House,122.0,Kara Scott,DEM,172,163.0,9.0,Carbon County,56 Towamensing Twp-North
+Carbon,57-I Towamensing Twp-South-1,State House,122.0,Kara Scott,DEM,180,171.0,9.0,Carbon County,57-I Towamensing Twp-South-1
+Carbon,57-2 Towamensing Twp-South-2,State House,122.0,Kara Scott,DEM,162,149.0,13.0,Carbon County,57-2 Towamensing Twp-South-2
+Carbon,58 Weatherly Borough-East,State House,122.0,Kara Scott,DEM,151,140.0,11.0,Carbon County,58 Weatherly Borough-East
+Carbon,61 Weatherly Borough-West,State House,122.0,Kara Scott,DEM,79,78.0,1.0,Carbon County,61 Weatherly Borough-West
+Carbon,62 Weissport Borough,State House,122.0,Kara Scott,DEM,39,39.0,0.0,Carbon County,62 Weissport Borough
+Carbon,Total,State House,122.0,Kara Scott,DEM,7035,6734.0,301.0,Carbon County,Total
+Carbon,4 Banks Twp,State House,122.0,Doyle Halley,REP,236,230.0,6.0,Carbon County,4 Banks Twp
+Carbon,5 Beaver Meadows Borough,State House,122.0,Doyle Halley,REP,216,211.0,5.0,Carbon County,5 Beaver Meadows Borough
+Carbon,6 Bowmanstown Borough,State House,122.0,Doyle Halley,REP,183,177.0,6.0,Carbon County,6 Bowmanstown Borough
+Carbon,7 East Penn Twp-South,State House,122.0,Doyle Halley,REP,368,356.0,12.0,Carbon County,7 East Penn Twp-South
+Carbon,8 East Penn Twp-North,State House,122.0,Doyle Halley,REP,465,452.0,13.0,Carbon County,8 East Penn Twp-North
+Carbon,10 East Side Borough,State House,122.0,Doyle Halley,REP,45,39.0,6.0,Carbon County,10 East Side Borough
+Carbon,II Franklin Twp-Independent,State House,122.0,Doyle Halley,REP,287,280.0,7.0,Carbon County,II Franklin Twp-Independent
+Carbon,12 Franklin Twp�Harrity,State House,122.0,Doyle Halley,REP,510,493.0,17.0,Carbon County,12 Franklin Twp�Harrity
+Carbon,13 Franklin Twp-Long Run,State House,122.0,Doyle Halley,REP,432,422.0,10.0,Carbon County,13 Franklin Twp-Long Run
+Carbon,14 Jim Thorpe Borough-First Ward,State House,122.0,Doyle Halley,REP,228,217.0,11.0,Carbon County,14 Jim Thorpe Borough-First Ward
+Carbon,15 Jim Thorpe Borough-Second Ward,State House,122.0,Doyle Halley,REP,171,163.0,8.0,Carbon County,15 Jim Thorpe Borough-Second Ward
+Carbon,16 Jim Thorpe Borough-Third Ward,State House,122.0,Doyle Halley,REP,365,347.0,18.0,Carbon County,16 Jim Thorpe Borough-Third Ward
+Carbon,17 Jim Thorpe Borough-Fourth Ward,State House,122.0,Doyle Halley,REP,111,101.0,10.0,Carbon County,17 Jim Thorpe Borough-Fourth Ward
+Carbon,18 Jim Thorpe Borough-Fifth Ward,State House,122.0,Doyle Halley,REP,277,261.0,16.0,Carbon County,18 Jim Thorpe Borough-Fifth Ward
+Carbon,20 Kidder Twp-North,State House,122.0,Doyle Halley,REP,144,141.0,3.0,Carbon County,20 Kidder Twp-North
+Carbon,21 Kidder Twp-South,State House,122.0,Doyle Halley,REP,391,361.0,30.0,Carbon County,21 Kidder Twp-South
+Carbon,23 Lansford Borough-East,State House,122.0,Doyle Halley,REP,242,233.0,9.0,Carbon County,23 Lansford Borough-East
+Carbon,24 Lansford Borough-Middle,State House,122.0,Doyle Halley,REP,165,161.0,4.0,Carbon County,24 Lansford Borough-Middle
+Carbon,25 Lansford Borough-West,State House,122.0,Doyle Halley,REP,131,127.0,4.0,Carbon County,25 Lansford Borough-West
+Carbon,26 Lausanne Twp,State House,122.0,Doyle Halley,REP,61,59.0,0.0,Carbon County,26 Lausanne Twp
+Carbon,27 Lehigh Twp,State House,122.0,Doyle Halley,REP,170,162.0,8.0,Carbon County,27 Lehigh Twp
+Carbon,28 Lehighton Borough-First Ward,State House,122.0,Doyle Halley,REP,329,317.0,12.0,Carbon County,28 Lehighton Borough-First Ward
+Carbon,29 Lehighton Borough-Second Ward,State House,122.0,Doyle Halley,REP,294,283.0,11.0,Carbon County,29 Lehighton Borough-Second Ward
+Carbon,30 Lehighton Borough-Third Ward,State House,122.0,Doyle Halley,REP,292,284.0,8.0,Carbon County,30 Lehighton Borough-Third Ward
+Carbon,32 Lower Towamensing Twp-North,State House,122.0,Doyle Halley,REP,441,432.0,9.0,Carbon County,32 Lower Towamensing Twp-North
+Carbon,33 Lower Towamensing Twp-South,State House,122.0,Doyle Halley,REP,304,295.0,9.0,Carbon County,33 Lower Towamensing Twp-South
+Carbon,35 Mahoning Twp-Mahoning,State House,122.0,Doyle Halley,REP,653,635.0,18.0,Carbon County,35 Mahoning Twp-Mahoning
+Carbon,36 Mahoning Twp-New Mahoning,State House,122.0,Doyle Halley,REP,247,243.0,4.0,Carbon County,36 Mahoning Twp-New Mahoning
+Carbon,38 Mahoning Twp-Packerton/Jamestown,State House,122.0,Doyle Halley,REP,177,175.0,2.0,Carbon County,38 Mahoning Twp-Packerton/Jamestown
+Carbon,41 Nesquehoning Borough-East,State House,122.0,Doyle Halley,REP,299,286.0,13.0,Carbon County,41 Nesquehoning Borough-East
+Carbon,42 Nesquehoning Borough-West,State House,122.0,Doyle Halley,REP,328,310.0,18.0,Carbon County,42 Nesquehoning Borough-West
+Carbon,45 Packer Twp,State House,122.0,Doyle Halley,REP,394,382.0,12.0,Carbon County,45 Packer Twp
+Carbon,47 Palmerton Borough-East,State House,122.0,Doyle Halley,REP,393,381.0,12.0,Carbon County,47 Palmerton Borough-East
+Carbon,48 Palmerton Borough-Middle,State House,122.0,Doyle Halley,REP,500,483.0,17.0,Carbon County,48 Palmerton Borough-Middle
+Carbon,49 Palmerton Borough-West,State House,122.0,Doyle Halley,REP,176,176.0,0.0,Carbon County,49 Palmerton Borough-West
+Carbon,50 Parryville Borough,State House,122.0,Doyle Halley,REP,126,123.0,2.0,Carbon County,50 Parryville Borough
+Carbon,51-1 Penn Forest Twp-Southwest,State House,122.0,Doyle Halley,REP,493,459.0,34.0,Carbon County,51-1 Penn Forest Twp-Southwest
+Carbon,51-2 Penn Forest Twp-Northwest,State House,122.0,Doyle Halley,REP,542,519.0,23.0,Carbon County,51-2 Penn Forest Twp-Northwest
+Carbon,51-3 Penn Forest Twp-Middle,State House,122.0,Doyle Halley,REP,322,312.0,10.0,Carbon County,51-3 Penn Forest Twp-Middle
+Carbon,51-4 Penn Forest Twp-Northeast,State House,122.0,Doyle Halley,REP,512,485.0,27.0,Carbon County,51-4 Penn Forest Twp-Northeast
+Carbon,51-5 Penn Forest Twp-East,State House,122.0,Doyle Halley,REP,403,387.0,16.0,Carbon County,51-5 Penn Forest Twp-East
+Carbon,56 Towamensing Twp-North,State House,122.0,Doyle Halley,REP,405,392.0,13.0,Carbon County,56 Towamensing Twp-North
+Carbon,57-I Towamensing Twp-South-1,State House,122.0,Doyle Halley,REP,437,423.0,14.0,Carbon County,57-I Towamensing Twp-South-1
+Carbon,57-2 Towamensing Twp-South-2,State House,122.0,Doyle Halley,REP,407,395.0,12.0,Carbon County,57-2 Towamensing Twp-South-2
+Carbon,58 Weatherly Borough-East,State House,122.0,Doyle Halley,REP,410,391.0,19.0,Carbon County,58 Weatherly Borough-East
+Carbon,61 Weatherly Borough-West,State House,122.0,Doyle Halley,REP,210,202.0,8.0,Carbon County,61 Weatherly Borough-West
+Carbon,62 Weissport Borough,State House,122.0,Doyle Halley,REP,63,62.0,1.0,Carbon County,62 Weissport Borough
+Carbon,Total,State House,122.0,Doyle Halley,REP,14355,13825.0,529.0,Carbon County,Total
+Carbon,4 Banks Twp,State House,122.0,Write-In Votes,,1,1.0,0.0,Carbon County,4 Banks Twp
+Carbon,5 Beaver Meadows Borough,State House,122.0,Write-In Votes,,1,1.0,0.0,Carbon County,5 Beaver Meadows Borough
+Carbon,6 Bowmanstown Borough,State House,122.0,Write-In Votes,,0,0.0,0.0,Carbon County,6 Bowmanstown Borough
+Carbon,7 East Penn Twp-South,State House,122.0,Write-In Votes,,2,2.0,0.0,Carbon County,7 East Penn Twp-South
+Carbon,8 East Penn Twp-North,State House,122.0,Write-In Votes,,0,0.0,0.0,Carbon County,8 East Penn Twp-North
+Carbon,10 East Side Borough,State House,122.0,Write-In Votes,,0,0.0,0.0,Carbon County,10 East Side Borough
+Carbon,II Franklin Twp-Independent,State House,122.0,Write-In Votes,,0,0.0,0.0,Carbon County,II Franklin Twp-Independent
+Carbon,12 Franklin Twp�Harrity,State House,122.0,Write-In Votes,,2,2.0,0.0,Carbon County,12 Franklin Twp�Harrity
+Carbon,13 Franklin Twp-Long Run,State House,122.0,Write-In Votes,,0,0.0,0.0,Carbon County,13 Franklin Twp-Long Run
+Carbon,14 Jim Thorpe Borough-First Ward,State House,122.0,Write-In Votes,,0,0.0,0.0,Carbon County,14 Jim Thorpe Borough-First Ward
+Carbon,15 Jim Thorpe Borough-Second Ward,State House,122.0,Write-In Votes,,0,0.0,0.0,Carbon County,15 Jim Thorpe Borough-Second Ward
+Carbon,16 Jim Thorpe Borough-Third Ward,State House,122.0,Write-In Votes,,2,2.0,0.0,Carbon County,16 Jim Thorpe Borough-Third Ward
+Carbon,17 Jim Thorpe Borough-Fourth Ward,State House,122.0,Write-In Votes,,1,1.0,0.0,Carbon County,17 Jim Thorpe Borough-Fourth Ward
+Carbon,18 Jim Thorpe Borough-Fifth Ward,State House,122.0,Write-In Votes,,1,1.0,0.0,Carbon County,18 Jim Thorpe Borough-Fifth Ward
+Carbon,20 Kidder Twp-North,State House,122.0,Write-In Votes,,0,0.0,0.0,Carbon County,20 Kidder Twp-North
+Carbon,21 Kidder Twp-South,State House,122.0,Write-In Votes,,0,0.0,0.0,Carbon County,21 Kidder Twp-South
+Carbon,23 Lansford Borough-East,State House,122.0,Write-In Votes,,0,0.0,0.0,Carbon County,23 Lansford Borough-East
+Carbon,24 Lansford Borough-Middle,State House,122.0,Write-In Votes,,1,1.0,0.0,Carbon County,24 Lansford Borough-Middle
+Carbon,25 Lansford Borough-West,State House,122.0,Write-In Votes,,0,0.0,0.0,Carbon County,25 Lansford Borough-West
+Carbon,26 Lausanne Twp,State House,122.0,Write-In Votes,,0,0.0,0.0,Carbon County,26 Lausanne Twp
+Carbon,27 Lehigh Twp,State House,122.0,Write-In Votes,,1,1.0,0.0,Carbon County,27 Lehigh Twp
+Carbon,28 Lehighton Borough-First Ward,State House,122.0,Write-In Votes,,0,0.0,0.0,Carbon County,28 Lehighton Borough-First Ward
+Carbon,29 Lehighton Borough-Second Ward,State House,122.0,Write-In Votes,,4,4.0,0.0,Carbon County,29 Lehighton Borough-Second Ward
+Carbon,30 Lehighton Borough-Third Ward,State House,122.0,Write-In Votes,,3,3.0,0.0,Carbon County,30 Lehighton Borough-Third Ward
+Carbon,32 Lower Towamensing Twp-North,State House,122.0,Write-In Votes,,1,1.0,0.0,Carbon County,32 Lower Towamensing Twp-North
+Carbon,33 Lower Towamensing Twp-South,State House,122.0,Write-In Votes,,0,0.0,0.0,Carbon County,33 Lower Towamensing Twp-South
+Carbon,35 Mahoning Twp-Mahoning,State House,122.0,Write-In Votes,,2,2.0,0.0,Carbon County,35 Mahoning Twp-Mahoning
+Carbon,36 Mahoning Twp-New Mahoning,State House,122.0,Write-In Votes,,0,0.0,0.0,Carbon County,36 Mahoning Twp-New Mahoning
+Carbon,38 Mahoning Twp-Packerton/Jamestown,State House,122.0,Write-In Votes,,0,0.0,0.0,Carbon County,38 Mahoning Twp-Packerton/Jamestown
+Carbon,41 Nesquehoning Borough-East,State House,122.0,Write-In Votes,,0,0.0,0.0,Carbon County,41 Nesquehoning Borough-East
+Carbon,42 Nesquehoning Borough-West,State House,122.0,Write-In Votes,,0,0.0,0.0,Carbon County,42 Nesquehoning Borough-West
+Carbon,45 Packer Twp,State House,122.0,Write-In Votes,,0,0.0,0.0,Carbon County,45 Packer Twp
+Carbon,47 Palmerton Borough-East,State House,122.0,Write-In Votes,,0,0.0,0.0,Carbon County,47 Palmerton Borough-East
+Carbon,48 Palmerton Borough-Middle,State House,122.0,Write-In Votes,,0,0.0,0.0,Carbon County,48 Palmerton Borough-Middle
+Carbon,49 Palmerton Borough-West,State House,122.0,Write-In Votes,,0,0.0,0.0,Carbon County,49 Palmerton Borough-West
+Carbon,50 Parryville Borough,State House,122.0,Write-In Votes,,0,0.0,0.0,Carbon County,50 Parryville Borough
+Carbon,51-1 Penn Forest Twp-Southwest,State House,122.0,Write-In Votes,,1,1.0,0.0,Carbon County,51-1 Penn Forest Twp-Southwest
+Carbon,51-2 Penn Forest Twp-Northwest,State House,122.0,Write-In Votes,,0,0.0,0.0,Carbon County,51-2 Penn Forest Twp-Northwest
+Carbon,51-3 Penn Forest Twp-Middle,State House,122.0,Write-In Votes,,1,1.0,0.0,Carbon County,51-3 Penn Forest Twp-Middle
+Carbon,51-4 Penn Forest Twp-Northeast,State House,122.0,Write-In Votes,,0,0.0,0.0,Carbon County,51-4 Penn Forest Twp-Northeast
+Carbon,51-5 Penn Forest Twp-East,State House,122.0,Write-In Votes,,0,0.0,0.0,Carbon County,51-5 Penn Forest Twp-East
+Carbon,56 Towamensing Twp-North,State House,122.0,Write-In Votes,,0,0.0,0.0,Carbon County,56 Towamensing Twp-North
+Carbon,57-I Towamensing Twp-South-1,State House,122.0,Write-In Votes,,2,2.0,0.0,Carbon County,57-I Towamensing Twp-South-1
+Carbon,57-2 Towamensing Twp-South-2,State House,122.0,Write-In Votes,,0,0.0,0.0,Carbon County,57-2 Towamensing Twp-South-2
+Carbon,58 Weatherly Borough-East,State House,122.0,Write-In Votes,,0,0.0,0.0,Carbon County,58 Weatherly Borough-East
+Carbon,61 Weatherly Borough-West,State House,122.0,Write-In Votes,,0,0.0,0.0,Carbon County,61 Weatherly Borough-West
+Carbon,62 Weissport Borough,State House,122.0,Write-In Votes,,0,0.0,0.0,Carbon County,62 Weissport Borough
+Carbon,Total,State House,122.0,Write-In Votes,,26,26.0,0.0,Carbon County,Total
+Carbon,52 Summit Hill Borough-First Ward,State House,124.0,Jerry Knowles,REP,179,170.0,9.0,Carbon County,52 Summit Hill Borough-First Ward
+Carbon,53 Summit Hill Borough-Second Ward,State House,124.0,Jerry Knowles,REP,187,180.0,7.0,Carbon County,53 Summit Hill Borough-Second Ward
+Carbon,54 Summit Hill Borough-Third Ward/First,State House,124.0,Jerry Knowles,REP,206,197.0,9.0,Carbon County,54 Summit Hill Borough-Third Ward/First
+Carbon,55 Summit Hill Borough-Third Ward/Second,State House,124.0,Jerry Knowles,REP,174,170.0,4.0,Carbon County,55 Summit Hill Borough-Third Ward/Second
+Carbon,Total,State House,124.0,Jerry Knowles,REP,746,717.0,29.0,Carbon County,Total
+Carbon,52 Summit Hill Borough-First Ward,State House,124.0,Write-In Votes,,8,6.0,2.0,Carbon County,52 Summit Hill Borough-First Ward
+Carbon,53 Summit Hill Borough-Second Ward,State House,124.0,Write-In Votes,,9,9.0,0.0,Carbon County,53 Summit Hill Borough-Second Ward
+Carbon,54 Summit Hill Borough-Third Ward/First,State House,124.0,Write-In Votes,,7,7.0,0.0,Carbon County,54 Summit Hill Borough-Third Ward/First
+Carbon,55 Summit Hill Borough-Third Ward/Second,State House,124.0,Write-In Votes,,4,3.0,1.0,Carbon County,55 Summit Hill Borough-Third Ward/Second
+Carbon,Total,State House,124.0,Write-In Votes,,28,25.0,3.0,Carbon County,Total

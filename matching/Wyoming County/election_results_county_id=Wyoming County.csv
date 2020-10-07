@@ -1,0 +1,525 @@
+county,precinct,office,district,candidate,party,votes,election_day,absentee,county_id,original_precinct_name
+Wyoming,Braintrim Township ,U.S. Senate,,Bob Casey,DEM,45,,,Wyoming County,Braintrim Township
+Wyoming,Clinton Township ,U.S. Senate,,Bob Casey,DEM,267,,,Wyoming County,Clinton Township
+Wyoming,Eaton Township ,U.S. Senate,,Bob Casey,DEM,258,,,Wyoming County,Eaton Township
+Wyoming,Exeter Township ,U.S. Senate,,Bob Casey,DEM,111,,,Wyoming County,Exeter Township
+Wyoming,Factoryville Borough Ward 1,U.S. Senate,,Bob Casey,DEM,95,,,Wyoming County,Factoryville Borough Ward 1
+Wyoming,Factoryville Borough Ward 2,U.S. Senate,,Bob Casey,DEM,98,,,Wyoming County,Factoryville Borough Ward 2
+Wyoming,Falls Township #1,U.S. Senate,,Bob Casey,DEM,95,,,Wyoming County,Falls Township #1
+Wyoming,Falls Township #2,U.S. Senate,,Bob Casey,DEM,158,,,Wyoming County,Falls Township #2
+Wyoming,Forkston Township ,U.S. Senate,,Bob Casey,DEM,45,,,Wyoming County,Forkston Township
+Wyoming,Laceyville Borough ,U.S. Senate,,Bob Casey,DEM,29,,,Wyoming County,Laceyville Borough
+Wyoming,Lemon Township ,U.S. Senate,,Bob Casey,DEM,180,,,Wyoming County,Lemon Township
+Wyoming,Mehoopany Township ,U.S. Senate,,Bob Casey,DEM,72,,,Wyoming County,Mehoopany Township
+Wyoming,Meshoppen Borough ,U.S. Senate,,Bob Casey,DEM,25,,,Wyoming County,Meshoppen Borough
+Wyoming,Meshoppen Township ,U.S. Senate,,Bob Casey,DEM,72,,,Wyoming County,Meshoppen Township
+Wyoming,Monroe Township ,U.S. Senate,,Bob Casey,DEM,205,,,Wyoming County,Monroe Township
+Wyoming,Nicholson Borough at Large,U.S. Senate,,Bob Casey,DEM,103,,,Wyoming County,Nicholson Borough at Large
+Wyoming,Nicholson Township ,U.S. Senate,,Bob Casey,DEM,181,,,Wyoming County,Nicholson Township
+Wyoming,North Branch Township ,U.S. Senate,,Bob Casey,DEM,29,,,Wyoming County,North Branch Township
+Wyoming,Northmoreland Township ,U.S. Senate,,Bob Casey,DEM,213,,,Wyoming County,Northmoreland Township
+Wyoming,Noxen Township ,U.S. Senate,,Bob Casey,DEM,96,,,Wyoming County,Noxen Township
+Wyoming,Overfield Township ,U.S. Senate,,Bob Casey,DEM,319,,,Wyoming County,Overfield Township
+Wyoming,Tunkhannock Borough Ward 1 ,U.S. Senate,,Bob Casey,DEM,37,,,Wyoming County,Tunkhannock Borough Ward 1
+Wyoming,Tunkhannock Borough Ward 2,U.S. Senate,,Bob Casey,DEM,112,,,Wyoming County,Tunkhannock Borough Ward 2
+Wyoming,Tunkhannock Borough Ward 3 ,U.S. Senate,,Bob Casey,DEM,64,,,Wyoming County,Tunkhannock Borough Ward 3
+Wyoming,Tunkhannock Borough Ward 4,U.S. Senate,,Bob Casey,DEM,84,,,Wyoming County,Tunkhannock Borough Ward 4
+Wyoming,Tunkhannock Township #1,U.S. Senate,,Bob Casey,DEM,440,,,Wyoming County,Tunkhannock Township #1
+Wyoming,Tunkhannock Township #2,U.S. Senate,,Bob Casey,DEM,200,,,Wyoming County,Tunkhannock Township #2
+Wyoming,Washington Township ,U.S. Senate,,Bob Casey,DEM,144,,,Wyoming County,Washington Township
+Wyoming,Windham Township ,U.S. Senate,,Bob Casey,DEM,91,,,Wyoming County,Windham Township
+Wyoming,Braintrim Township ,U.S. Senate,,Lou Barletta,REP,108,,,Wyoming County,Braintrim Township
+Wyoming,Clinton Township ,U.S. Senate,,Lou Barletta,REP,298,,,Wyoming County,Clinton Township
+Wyoming,Eaton Township ,U.S. Senate,,Lou Barletta,REP,389,,,Wyoming County,Eaton Township
+Wyoming,Exeter Township ,U.S. Senate,,Lou Barletta,REP,201,,,Wyoming County,Exeter Township
+Wyoming,Factoryville Borough Ward 1,U.S. Senate,,Lou Barletta,REP,69,,,Wyoming County,Factoryville Borough Ward 1
+Wyoming,Factoryville Borough Ward 2,U.S. Senate,,Lou Barletta,REP,83,,,Wyoming County,Factoryville Borough Ward 2
+Wyoming,Falls Township #1,U.S. Senate,,Lou Barletta,REP,183,,,Wyoming County,Falls Township #1
+Wyoming,Falls Township #2,U.S. Senate,,Lou Barletta,REP,288,,,Wyoming County,Falls Township #2
+Wyoming,Forkston Township ,U.S. Senate,,Lou Barletta,REP,96,,,Wyoming County,Forkston Township
+Wyoming,Laceyville Borough ,U.S. Senate,,Lou Barletta,REP,73,,,Wyoming County,Laceyville Borough
+Wyoming,Lemon Township ,U.S. Senate,,Lou Barletta,REP,298,,,Wyoming County,Lemon Township
+Wyoming,Mehoopany Township ,U.S. Senate,,Lou Barletta,REP,256,,,Wyoming County,Mehoopany Township
+Wyoming,Meshoppen Borough ,U.S. Senate,,Lou Barletta,REP,68,,,Wyoming County,Meshoppen Borough
+Wyoming,Meshoppen Township ,U.S. Senate,,Lou Barletta,REP,199,,,Wyoming County,Meshoppen Township
+Wyoming,Monroe Township ,U.S. Senate,,Lou Barletta,REP,418,,,Wyoming County,Monroe Township
+Wyoming,Nicholson Borough at Large,U.S. Senate,,Lou Barletta,REP,131,,,Wyoming County,Nicholson Borough at Large
+Wyoming,Nicholson Township ,U.S. Senate,,Lou Barletta,REP,336,,,Wyoming County,Nicholson Township
+Wyoming,North Branch Township ,U.S. Senate,,Lou Barletta,REP,80,,,Wyoming County,North Branch Township
+Wyoming,Northmoreland Township ,U.S. Senate,,Lou Barletta,REP,426,,,Wyoming County,Northmoreland Township
+Wyoming,Noxen Township ,U.S. Senate,,Lou Barletta,REP,213,,,Wyoming County,Noxen Township
+Wyoming,Overfield Township ,U.S. Senate,,Lou Barletta,REP,401,,,Wyoming County,Overfield Township
+Wyoming,Tunkhannock Borough Ward 1 ,U.S. Senate,,Lou Barletta,REP,75,,,Wyoming County,Tunkhannock Borough Ward 1
+Wyoming,Tunkhannock Borough Ward 2,U.S. Senate,,Lou Barletta,REP,139,,,Wyoming County,Tunkhannock Borough Ward 2
+Wyoming,Tunkhannock Borough Ward 3 ,U.S. Senate,,Lou Barletta,REP,89,,,Wyoming County,Tunkhannock Borough Ward 3
+Wyoming,Tunkhannock Borough Ward 4,U.S. Senate,,Lou Barletta,REP,87,,,Wyoming County,Tunkhannock Borough Ward 4
+Wyoming,Tunkhannock Township #1,U.S. Senate,,Lou Barletta,REP,683,,,Wyoming County,Tunkhannock Township #1
+Wyoming,Tunkhannock Township #2,U.S. Senate,,Lou Barletta,REP,348,,,Wyoming County,Tunkhannock Township #2
+Wyoming,Washington Township ,U.S. Senate,,Lou Barletta,REP,347,,,Wyoming County,Washington Township
+Wyoming,Windham Township ,U.S. Senate,,Lou Barletta,REP,200,,,Wyoming County,Windham Township
+Wyoming,Braintrim Township ,U.S. Senate,,Neal Gale,GRE,1,,,Wyoming County,Braintrim Township
+Wyoming,Clinton Township ,U.S. Senate,,Neal Gale,GRE,6,,,Wyoming County,Clinton Township
+Wyoming,Eaton Township ,U.S. Senate,,Neal Gale,GRE,5,,,Wyoming County,Eaton Township
+Wyoming,Exeter Township ,U.S. Senate,,Neal Gale,GRE,1,,,Wyoming County,Exeter Township
+Wyoming,Factoryville Borough Ward 1,U.S. Senate,,Neal Gale,GRE,4,,,Wyoming County,Factoryville Borough Ward 1
+Wyoming,Factoryville Borough Ward 2,U.S. Senate,,Neal Gale,GRE,1,,,Wyoming County,Factoryville Borough Ward 2
+Wyoming,Falls Township #1,U.S. Senate,,Neal Gale,GRE,4,,,Wyoming County,Falls Township #1
+Wyoming,Falls Township #2,U.S. Senate,,Neal Gale,GRE,5,,,Wyoming County,Falls Township #2
+Wyoming,Forkston Township ,U.S. Senate,,Neal Gale,GRE,0,,,Wyoming County,Forkston Township
+Wyoming,Laceyville Borough ,U.S. Senate,,Neal Gale,GRE,1,,,Wyoming County,Laceyville Borough
+Wyoming,Lemon Township ,U.S. Senate,,Neal Gale,GRE,5,,,Wyoming County,Lemon Township
+Wyoming,Mehoopany Township ,U.S. Senate,,Neal Gale,GRE,4,,,Wyoming County,Mehoopany Township
+Wyoming,Meshoppen Borough ,U.S. Senate,,Neal Gale,GRE,0,,,Wyoming County,Meshoppen Borough
+Wyoming,Meshoppen Township ,U.S. Senate,,Neal Gale,GRE,2,,,Wyoming County,Meshoppen Township
+Wyoming,Monroe Township ,U.S. Senate,,Neal Gale,GRE,2,,,Wyoming County,Monroe Township
+Wyoming,Nicholson Borough at Large,U.S. Senate,,Neal Gale,GRE,6,,,Wyoming County,Nicholson Borough at Large
+Wyoming,Nicholson Township ,U.S. Senate,,Neal Gale,GRE,2,,,Wyoming County,Nicholson Township
+Wyoming,North Branch Township ,U.S. Senate,,Neal Gale,GRE,1,,,Wyoming County,North Branch Township
+Wyoming,Northmoreland Township ,U.S. Senate,,Neal Gale,GRE,5,,,Wyoming County,Northmoreland Township
+Wyoming,Noxen Township ,U.S. Senate,,Neal Gale,GRE,3,,,Wyoming County,Noxen Township
+Wyoming,Overfield Township ,U.S. Senate,,Neal Gale,GRE,8,,,Wyoming County,Overfield Township
+Wyoming,Tunkhannock Borough Ward 1 ,U.S. Senate,,Neal Gale,GRE,3,,,Wyoming County,Tunkhannock Borough Ward 1
+Wyoming,Tunkhannock Borough Ward 2,U.S. Senate,,Neal Gale,GRE,1,,,Wyoming County,Tunkhannock Borough Ward 2
+Wyoming,Tunkhannock Borough Ward 3 ,U.S. Senate,,Neal Gale,GRE,2,,,Wyoming County,Tunkhannock Borough Ward 3
+Wyoming,Tunkhannock Borough Ward 4,U.S. Senate,,Neal Gale,GRE,5,,,Wyoming County,Tunkhannock Borough Ward 4
+Wyoming,Tunkhannock Township #1,U.S. Senate,,Neal Gale,GRE,2,,,Wyoming County,Tunkhannock Township #1
+Wyoming,Tunkhannock Township #2,U.S. Senate,,Neal Gale,GRE,5,,,Wyoming County,Tunkhannock Township #2
+Wyoming,Washington Township ,U.S. Senate,,Neal Gale,GRE,1,,,Wyoming County,Washington Township
+Wyoming,Windham Township ,U.S. Senate,,Neal Gale,GRE,1,,,Wyoming County,Windham Township
+Wyoming,Braintrim Township ,U.S. Senate,,Dale R. Kerns Jr.,LIB,0,,,Wyoming County,Braintrim Township
+Wyoming,Clinton Township ,U.S. Senate,,Dale R. Kerns Jr.,LIB,8,,,Wyoming County,Clinton Township
+Wyoming,Eaton Township ,U.S. Senate,,Dale R. Kerns Jr.,LIB,6,,,Wyoming County,Eaton Township
+Wyoming,Exeter Township ,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Wyoming County,Exeter Township
+Wyoming,Factoryville Borough Ward 1,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Wyoming County,Factoryville Borough Ward 1
+Wyoming,Factoryville Borough Ward 2,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Wyoming County,Factoryville Borough Ward 2
+Wyoming,Falls Township #1,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Wyoming County,Falls Township #1
+Wyoming,Falls Township #2,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Wyoming County,Falls Township #2
+Wyoming,Forkston Township ,U.S. Senate,,Dale R. Kerns Jr.,LIB,0,,,Wyoming County,Forkston Township
+Wyoming,Laceyville Borough ,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Wyoming County,Laceyville Borough
+Wyoming,Lemon Township ,U.S. Senate,,Dale R. Kerns Jr.,LIB,7,,,Wyoming County,Lemon Township
+Wyoming,Mehoopany Township ,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Wyoming County,Mehoopany Township
+Wyoming,Meshoppen Borough ,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Wyoming County,Meshoppen Borough
+Wyoming,Meshoppen Township ,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Wyoming County,Meshoppen Township
+Wyoming,Monroe Township ,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Wyoming County,Monroe Township
+Wyoming,Nicholson Borough at Large,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Wyoming County,Nicholson Borough at Large
+Wyoming,Nicholson Township ,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Wyoming County,Nicholson Township
+Wyoming,North Branch Township ,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Wyoming County,North Branch Township
+Wyoming,Northmoreland Township ,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Wyoming County,Northmoreland Township
+Wyoming,Noxen Township ,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Wyoming County,Noxen Township
+Wyoming,Overfield Township ,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Wyoming County,Overfield Township
+Wyoming,Tunkhannock Borough Ward 1 ,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Wyoming County,Tunkhannock Borough Ward 1
+Wyoming,Tunkhannock Borough Ward 2,U.S. Senate,,Dale R. Kerns Jr.,LIB,0,,,Wyoming County,Tunkhannock Borough Ward 2
+Wyoming,Tunkhannock Borough Ward 3 ,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Wyoming County,Tunkhannock Borough Ward 3
+Wyoming,Tunkhannock Borough Ward 4,U.S. Senate,,Dale R. Kerns Jr.,LIB,0,,,Wyoming County,Tunkhannock Borough Ward 4
+Wyoming,Tunkhannock Township #1,U.S. Senate,,Dale R. Kerns Jr.,LIB,11,,,Wyoming County,Tunkhannock Township #1
+Wyoming,Tunkhannock Township #2,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Wyoming County,Tunkhannock Township #2
+Wyoming,Washington Township ,U.S. Senate,,Dale R. Kerns Jr.,LIB,7,,,Wyoming County,Washington Township
+Wyoming,Windham Township ,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Wyoming County,Windham Township
+Wyoming,Eaton Township ,U.S. Senate,,Write-ins,,1,,,Wyoming County,Eaton Township
+Wyoming,Falls Township #2,U.S. Senate,,Write-ins,,1,,,Wyoming County,Falls Township #2
+Wyoming,Braintrim Township ,Governor,,Tom Wolf,DEM,38,,,Wyoming County,Braintrim Township
+Wyoming,Clinton Township ,Governor,,Tom Wolf,DEM,280,,,Wyoming County,Clinton Township
+Wyoming,Eaton Township ,Governor,,Tom Wolf,DEM,275,,,Wyoming County,Eaton Township
+Wyoming,Exeter Township ,Governor,,Tom Wolf,DEM,121,,,Wyoming County,Exeter Township
+Wyoming,Factoryville Borough Ward 1,Governor,,Tom Wolf,DEM,98,,,Wyoming County,Factoryville Borough Ward 1
+Wyoming,Factoryville Borough Ward 2,Governor,,Tom Wolf,DEM,105,,,Wyoming County,Factoryville Borough Ward 2
+Wyoming,Falls Township #1,Governor,,Tom Wolf,DEM,111,,,Wyoming County,Falls Township #1
+Wyoming,Falls Township #2,Governor,,Tom Wolf,DEM,167,,,Wyoming County,Falls Township #2
+Wyoming,Forkston Township ,Governor,,Tom Wolf,DEM,45,,,Wyoming County,Forkston Township
+Wyoming,Laceyville Borough ,Governor,,Tom Wolf,DEM,25,,,Wyoming County,Laceyville Borough
+Wyoming,Lemon Township ,Governor,,Tom Wolf,DEM,192,,,Wyoming County,Lemon Township
+Wyoming,Mehoopany Township ,Governor,,Tom Wolf,DEM,72,,,Wyoming County,Mehoopany Township
+Wyoming,Meshoppen Borough ,Governor,,Tom Wolf,DEM,27,,,Wyoming County,Meshoppen Borough
+Wyoming,Meshoppen Township ,Governor,,Tom Wolf,DEM,72,,,Wyoming County,Meshoppen Township
+Wyoming,Monroe Township ,Governor,,Tom Wolf,DEM,225,,,Wyoming County,Monroe Township
+Wyoming,Nicholson Borough at Large,Governor,,Tom Wolf,DEM,111,,,Wyoming County,Nicholson Borough at Large
+Wyoming,Nicholson Township ,Governor,,Tom Wolf,DEM,184,,,Wyoming County,Nicholson Township
+Wyoming,North Branch Township ,Governor,,Tom Wolf,DEM,27,,,Wyoming County,North Branch Township
+Wyoming,Northmoreland Township ,Governor,,Tom Wolf,DEM,236,,,Wyoming County,Northmoreland Township
+Wyoming,Noxen Township ,Governor,,Tom Wolf,DEM,103,,,Wyoming County,Noxen Township
+Wyoming,Overfield Township ,Governor,,Tom Wolf,DEM,333,,,Wyoming County,Overfield Township
+Wyoming,Tunkhannock Borough Ward 1 ,Governor,,Tom Wolf,DEM,40,,,Wyoming County,Tunkhannock Borough Ward 1
+Wyoming,Tunkhannock Borough Ward 2,Governor,,Tom Wolf,DEM,121,,,Wyoming County,Tunkhannock Borough Ward 2
+Wyoming,Tunkhannock Borough Ward 3 ,Governor,,Tom Wolf,DEM,72,,,Wyoming County,Tunkhannock Borough Ward 3
+Wyoming,Tunkhannock Borough Ward 4,Governor,,Tom Wolf,DEM,83,,,Wyoming County,Tunkhannock Borough Ward 4
+Wyoming,Tunkhannock Township #1,Governor,,Tom Wolf,DEM,479,,,Wyoming County,Tunkhannock Township #1
+Wyoming,Tunkhannock Township #2,Governor,,Tom Wolf,DEM,225,,,Wyoming County,Tunkhannock Township #2
+Wyoming,Washington Township ,Governor,,Tom Wolf,DEM,142,,,Wyoming County,Washington Township
+Wyoming,Windham Township ,Governor,,Tom Wolf,DEM,92,,,Wyoming County,Windham Township
+Wyoming,Braintrim Township ,Governor,,Scott Wagner,REP,114,,,Wyoming County,Braintrim Township
+Wyoming,Clinton Township ,Governor,,Scott Wagner,REP,285,,,Wyoming County,Clinton Township
+Wyoming,Eaton Township ,Governor,,Scott Wagner,REP,373,,,Wyoming County,Eaton Township
+Wyoming,Exeter Township ,Governor,,Scott Wagner,REP,192,,,Wyoming County,Exeter Township
+Wyoming,Factoryville Borough Ward 1,Governor,,Scott Wagner,REP,66,,,Wyoming County,Factoryville Borough Ward 1
+Wyoming,Factoryville Borough Ward 2,Governor,,Scott Wagner,REP,80,,,Wyoming County,Factoryville Borough Ward 2
+Wyoming,Falls Township #1,Governor,,Scott Wagner,REP,170,,,Wyoming County,Falls Township #1
+Wyoming,Falls Township #2,Governor,,Scott Wagner,REP,285,,,Wyoming County,Falls Township #2
+Wyoming,Forkston Township ,Governor,,Scott Wagner,REP,94,,,Wyoming County,Forkston Township
+Wyoming,Laceyville Borough ,Governor,,Scott Wagner,REP,74,,,Wyoming County,Laceyville Borough
+Wyoming,Lemon Township ,Governor,,Scott Wagner,REP,288,,,Wyoming County,Lemon Township
+Wyoming,Mehoopany Township ,Governor,,Scott Wagner,REP,253,,,Wyoming County,Mehoopany Township
+Wyoming,Meshoppen Borough ,Governor,,Scott Wagner,REP,65,,,Wyoming County,Meshoppen Borough
+Wyoming,Meshoppen Township ,Governor,,Scott Wagner,REP,201,,,Wyoming County,Meshoppen Township
+Wyoming,Monroe Township ,Governor,,Scott Wagner,REP,400,,,Wyoming County,Monroe Township
+Wyoming,Nicholson Borough at Large,Governor,,Scott Wagner,REP,124,,,Wyoming County,Nicholson Borough at Large
+Wyoming,Nicholson Township ,Governor,,Scott Wagner,REP,334,,,Wyoming County,Nicholson Township
+Wyoming,North Branch Township ,Governor,,Scott Wagner,REP,81,,,Wyoming County,North Branch Township
+Wyoming,Northmoreland Township ,Governor,,Scott Wagner,REP,397,,,Wyoming County,Northmoreland Township
+Wyoming,Noxen Township ,Governor,,Scott Wagner,REP,203,,,Wyoming County,Noxen Township
+Wyoming,Overfield Township ,Governor,,Scott Wagner,REP,383,,,Wyoming County,Overfield Township
+Wyoming,Tunkhannock Borough Ward 1 ,Governor,,Scott Wagner,REP,73,,,Wyoming County,Tunkhannock Borough Ward 1
+Wyoming,Tunkhannock Borough Ward 2,Governor,,Scott Wagner,REP,131,,,Wyoming County,Tunkhannock Borough Ward 2
+Wyoming,Tunkhannock Borough Ward 3 ,Governor,,Scott Wagner,REP,82,,,Wyoming County,Tunkhannock Borough Ward 3
+Wyoming,Tunkhannock Borough Ward 4,Governor,,Scott Wagner,REP,87,,,Wyoming County,Tunkhannock Borough Ward 4
+Wyoming,Tunkhannock Township #1,Governor,,Scott Wagner,REP,643,,,Wyoming County,Tunkhannock Township #1
+Wyoming,Tunkhannock Township #2,Governor,,Scott Wagner,REP,321,,,Wyoming County,Tunkhannock Township #2
+Wyoming,Washington Township ,Governor,,Scott Wagner,REP,349,,,Wyoming County,Washington Township
+Wyoming,Windham Township ,Governor,,Scott Wagner,REP,196,,,Wyoming County,Windham Township
+Wyoming,Braintrim Township ,Governor,,Paul Glover,GRE,2,,,Wyoming County,Braintrim Township
+Wyoming,Clinton Township ,Governor,,Paul Glover,GRE,7,,,Wyoming County,Clinton Township
+Wyoming,Eaton Township ,Governor,,Paul Glover,GRE,7,,,Wyoming County,Eaton Township
+Wyoming,Exeter Township ,Governor,,Paul Glover,GRE,2,,,Wyoming County,Exeter Township
+Wyoming,Factoryville Borough Ward 1,Governor,,Paul Glover,GRE,5,,,Wyoming County,Factoryville Borough Ward 1
+Wyoming,Factoryville Borough Ward 2,Governor,,Paul Glover,GRE,0,,,Wyoming County,Factoryville Borough Ward 2
+Wyoming,Falls Township #1,Governor,,Paul Glover,GRE,4,,,Wyoming County,Falls Township #1
+Wyoming,Falls Township #2,Governor,,Paul Glover,GRE,1,,,Wyoming County,Falls Township #2
+Wyoming,Forkston Township ,Governor,,Paul Glover,GRE,2,,,Wyoming County,Forkston Township
+Wyoming,Laceyville Borough ,Governor,,Paul Glover,GRE,3,,,Wyoming County,Laceyville Borough
+Wyoming,Lemon Township ,Governor,,Paul Glover,GRE,4,,,Wyoming County,Lemon Township
+Wyoming,Mehoopany Township ,Governor,,Paul Glover,GRE,6,,,Wyoming County,Mehoopany Township
+Wyoming,Meshoppen Borough ,Governor,,Paul Glover,GRE,0,,,Wyoming County,Meshoppen Borough
+Wyoming,Meshoppen Township ,Governor,,Paul Glover,GRE,2,,,Wyoming County,Meshoppen Township
+Wyoming,Monroe Township ,Governor,,Paul Glover,GRE,1,,,Wyoming County,Monroe Township
+Wyoming,Nicholson Borough at Large,Governor,,Paul Glover,GRE,3,,,Wyoming County,Nicholson Borough at Large
+Wyoming,Nicholson Township ,Governor,,Paul Glover,GRE,4,,,Wyoming County,Nicholson Township
+Wyoming,North Branch Township ,Governor,,Paul Glover,GRE,1,,,Wyoming County,North Branch Township
+Wyoming,Northmoreland Township ,Governor,,Paul Glover,GRE,7,,,Wyoming County,Northmoreland Township
+Wyoming,Noxen Township ,Governor,,Paul Glover,GRE,1,,,Wyoming County,Noxen Township
+Wyoming,Overfield Township ,Governor,,Paul Glover,GRE,8,,,Wyoming County,Overfield Township
+Wyoming,Tunkhannock Borough Ward 1 ,Governor,,Paul Glover,GRE,3,,,Wyoming County,Tunkhannock Borough Ward 1
+Wyoming,Tunkhannock Borough Ward 2,Governor,,Paul Glover,GRE,0,,,Wyoming County,Tunkhannock Borough Ward 2
+Wyoming,Tunkhannock Borough Ward 3 ,Governor,,Paul Glover,GRE,2,,,Wyoming County,Tunkhannock Borough Ward 3
+Wyoming,Tunkhannock Borough Ward 4,Governor,,Paul Glover,GRE,4,,,Wyoming County,Tunkhannock Borough Ward 4
+Wyoming,Tunkhannock Township #1,Governor,,Paul Glover,GRE,6,,,Wyoming County,Tunkhannock Township #1
+Wyoming,Tunkhannock Township #2,Governor,,Paul Glover,GRE,8,,,Wyoming County,Tunkhannock Township #2
+Wyoming,Washington Township ,Governor,,Paul Glover,GRE,3,,,Wyoming County,Washington Township
+Wyoming,Windham Township ,Governor,,Paul Glover,GRE,8,,,Wyoming County,Windham Township
+Wyoming,Braintrim Township ,Governor,,Ken V. Krawchuk,LIB,0,,,Wyoming County,Braintrim Township
+Wyoming,Clinton Township ,Governor,,Ken V. Krawchuk,LIB,11,,,Wyoming County,Clinton Township
+Wyoming,Eaton Township ,Governor,,Ken V. Krawchuk,LIB,7,,,Wyoming County,Eaton Township
+Wyoming,Exeter Township ,Governor,,Ken V. Krawchuk,LIB,1,,,Wyoming County,Exeter Township
+Wyoming,Factoryville Borough Ward 1,Governor,,Ken V. Krawchuk,LIB,3,,,Wyoming County,Factoryville Borough Ward 1
+Wyoming,Factoryville Borough Ward 2,Governor,,Ken V. Krawchuk,LIB,2,,,Wyoming County,Factoryville Borough Ward 2
+Wyoming,Falls Township #1,Governor,,Ken V. Krawchuk,LIB,1,,,Wyoming County,Falls Township #1
+Wyoming,Falls Township #2,Governor,,Ken V. Krawchuk,LIB,4,,,Wyoming County,Falls Township #2
+Wyoming,Forkston Township ,Governor,,Ken V. Krawchuk,LIB,0,,,Wyoming County,Forkston Township
+Wyoming,Laceyville Borough ,Governor,,Ken V. Krawchuk,LIB,1,,,Wyoming County,Laceyville Borough
+Wyoming,Lemon Township ,Governor,,Ken V. Krawchuk,LIB,8,,,Wyoming County,Lemon Township
+Wyoming,Mehoopany Township ,Governor,,Ken V. Krawchuk,LIB,4,,,Wyoming County,Mehoopany Township
+Wyoming,Meshoppen Borough ,Governor,,Ken V. Krawchuk,LIB,0,,,Wyoming County,Meshoppen Borough
+Wyoming,Meshoppen Township ,Governor,,Ken V. Krawchuk,LIB,0,,,Wyoming County,Meshoppen Township
+Wyoming,Monroe Township ,Governor,,Ken V. Krawchuk,LIB,5,,,Wyoming County,Monroe Township
+Wyoming,Nicholson Borough at Large,Governor,,Ken V. Krawchuk,LIB,7,,,Wyoming County,Nicholson Borough at Large
+Wyoming,Nicholson Township ,Governor,,Ken V. Krawchuk,LIB,2,,,Wyoming County,Nicholson Township
+Wyoming,North Branch Township ,Governor,,Ken V. Krawchuk,LIB,0,,,Wyoming County,North Branch Township
+Wyoming,Northmoreland Township ,Governor,,Ken V. Krawchuk,LIB,3,,,Wyoming County,Northmoreland Township
+Wyoming,Noxen Township ,Governor,,Ken V. Krawchuk,LIB,6,,,Wyoming County,Noxen Township
+Wyoming,Overfield Township ,Governor,,Ken V. Krawchuk,LIB,6,,,Wyoming County,Overfield Township
+Wyoming,Tunkhannock Borough Ward 1 ,Governor,,Ken V. Krawchuk,LIB,2,,,Wyoming County,Tunkhannock Borough Ward 1
+Wyoming,Tunkhannock Borough Ward 2,Governor,,Ken V. Krawchuk,LIB,1,,,Wyoming County,Tunkhannock Borough Ward 2
+Wyoming,Tunkhannock Borough Ward 3 ,Governor,,Ken V. Krawchuk,LIB,3,,,Wyoming County,Tunkhannock Borough Ward 3
+Wyoming,Tunkhannock Borough Ward 4,Governor,,Ken V. Krawchuk,LIB,1,,,Wyoming County,Tunkhannock Borough Ward 4
+Wyoming,Tunkhannock Township #1,Governor,,Ken V. Krawchuk,LIB,10,,,Wyoming County,Tunkhannock Township #1
+Wyoming,Tunkhannock Township #2,Governor,,Ken V. Krawchuk,LIB,4,,,Wyoming County,Tunkhannock Township #2
+Wyoming,Washington Township ,Governor,,Ken V. Krawchuk,LIB,6,,,Wyoming County,Washington Township
+Wyoming,Windham Township ,Governor,,Ken V. Krawchuk,LIB,2,,,Wyoming County,Windham Township
+Wyoming,Braintrim Township ,Governor,,Write-ins,,,,,Wyoming County,Braintrim Township
+Wyoming,Clinton Township ,Governor,,Write-ins,,,,,Wyoming County,Clinton Township
+Wyoming,Eaton Township ,Governor,,Write-ins,,2,,,Wyoming County,Eaton Township
+Wyoming,Exeter Township ,Governor,,Write-ins,,,,,Wyoming County,Exeter Township
+Wyoming,Factoryville Borough Ward 1,Governor,,Write-ins,,,,,Wyoming County,Factoryville Borough Ward 1
+Wyoming,Factoryville Borough Ward 2,Governor,,Write-ins,,,,,Wyoming County,Factoryville Borough Ward 2
+Wyoming,Falls Township #1,Governor,,Write-ins,,,,,Wyoming County,Falls Township #1
+Wyoming,Falls Township #2,Governor,,Write-ins,,,,,Wyoming County,Falls Township #2
+Wyoming,Forkston Township ,Governor,,Write-ins,,,,,Wyoming County,Forkston Township
+Wyoming,Laceyville Borough ,Governor,,Write-ins,,,,,Wyoming County,Laceyville Borough
+Wyoming,Lemon Township ,Governor,,Write-ins,,,,,Wyoming County,Lemon Township
+Wyoming,Mehoopany Township ,Governor,,Write-ins,,1,,,Wyoming County,Mehoopany Township
+Wyoming,Meshoppen Borough ,Governor,,Write-ins,,,,,Wyoming County,Meshoppen Borough
+Wyoming,Meshoppen Township ,Governor,,Write-ins,,,,,Wyoming County,Meshoppen Township
+Wyoming,Monroe Township ,Governor,,Write-ins,,,,,Wyoming County,Monroe Township
+Wyoming,Nicholson Borough at Large,Governor,,Write-ins,,,,,Wyoming County,Nicholson Borough at Large
+Wyoming,Nicholson Township ,Governor,,Write-ins,,,,,Wyoming County,Nicholson Township
+Wyoming,North Branch Township ,Governor,,Write-ins,,,,,Wyoming County,North Branch Township
+Wyoming,Northmoreland Township ,Governor,,Write-ins,,2,,,Wyoming County,Northmoreland Township
+Wyoming,Noxen Township ,Governor,,Write-ins,,1,,,Wyoming County,Noxen Township
+Wyoming,Overfield Township ,Governor,,Write-ins,,,,,Wyoming County,Overfield Township
+Wyoming,Tunkhannock Borough Ward 1 ,Governor,,Write-ins,,,,,Wyoming County,Tunkhannock Borough Ward 1
+Wyoming,Tunkhannock Borough Ward 2,Governor,,Write-ins,,,,,Wyoming County,Tunkhannock Borough Ward 2
+Wyoming,Tunkhannock Borough Ward 3 ,Governor,,Write-ins,,,,,Wyoming County,Tunkhannock Borough Ward 3
+Wyoming,Tunkhannock Borough Ward 4,Governor,,Write-ins,,1,,,Wyoming County,Tunkhannock Borough Ward 4
+Wyoming,Tunkhannock Township #1,Governor,,Write-ins,,,,,Wyoming County,Tunkhannock Township #1
+Wyoming,Tunkhannock Township #2,Governor,,Write-ins,,,,,Wyoming County,Tunkhannock Township #2
+Wyoming,Washington Township ,Governor,,Write-ins,,,,,Wyoming County,Washington Township
+Wyoming,Windham Township ,Governor,,Write-ins,,,,,Wyoming County,Windham Township
+Wyoming,Braintrim Township ,U.S. House,12.0,Marc Friedenberg,DEM,43,,,Wyoming County,Braintrim Township
+Wyoming,Clinton Township ,U.S. House,12.0,Marc Friedenberg,DEM,237,,,Wyoming County,Clinton Township
+Wyoming,Eaton Township ,U.S. House,12.0,Marc Friedenberg,DEM,236,,,Wyoming County,Eaton Township
+Wyoming,Exeter Township ,U.S. House,12.0,Marc Friedenberg,DEM,107,,,Wyoming County,Exeter Township
+Wyoming,Factoryville Borough Ward 1,U.S. House,12.0,Marc Friedenberg,DEM,87,,,Wyoming County,Factoryville Borough Ward 1
+Wyoming,Factoryville Borough Ward 2,U.S. House,12.0,Marc Friedenberg,DEM,88,,,Wyoming County,Factoryville Borough Ward 2
+Wyoming,Falls Township #1,U.S. House,12.0,Marc Friedenberg,DEM,88,,,Wyoming County,Falls Township #1
+Wyoming,Falls Township #2,U.S. House,12.0,Marc Friedenberg,DEM,150,,,Wyoming County,Falls Township #2
+Wyoming,Forkston Township ,U.S. House,12.0,Marc Friedenberg,DEM,39,,,Wyoming County,Forkston Township
+Wyoming,Laceyville Borough ,U.S. House,12.0,Marc Friedenberg,DEM,23,,,Wyoming County,Laceyville Borough
+Wyoming,Lemon Township ,U.S. House,12.0,Marc Friedenberg,DEM,178,,,Wyoming County,Lemon Township
+Wyoming,Mehoopany Township ,U.S. House,12.0,Marc Friedenberg,DEM,73,,,Wyoming County,Mehoopany Township
+Wyoming,Meshoppen Borough ,U.S. House,12.0,Marc Friedenberg,DEM,21,,,Wyoming County,Meshoppen Borough
+Wyoming,Meshoppen Township ,U.S. House,12.0,Marc Friedenberg,DEM,60,,,Wyoming County,Meshoppen Township
+Wyoming,Monroe Township ,U.S. House,12.0,Marc Friedenberg,DEM,173,,,Wyoming County,Monroe Township
+Wyoming,Nicholson Borough at Large,U.S. House,12.0,Marc Friedenberg,DEM,104,,,Wyoming County,Nicholson Borough at Large
+Wyoming,Nicholson Township ,U.S. House,12.0,Marc Friedenberg,DEM,161,,,Wyoming County,Nicholson Township
+Wyoming,North Branch Township ,U.S. House,12.0,Marc Friedenberg,DEM,20,,,Wyoming County,North Branch Township
+Wyoming,Northmoreland Township ,U.S. House,12.0,Marc Friedenberg,DEM,203,,,Wyoming County,Northmoreland Township
+Wyoming,Noxen Township ,U.S. House,12.0,Marc Friedenberg,DEM,76,,,Wyoming County,Noxen Township
+Wyoming,Overfield Township ,U.S. House,12.0,Marc Friedenberg,DEM,304,,,Wyoming County,Overfield Township
+Wyoming,Tunkhannock Borough Ward 1 ,U.S. House,12.0,Marc Friedenberg,DEM,39,,,Wyoming County,Tunkhannock Borough Ward 1
+Wyoming,Tunkhannock Borough Ward 2,U.S. House,12.0,Marc Friedenberg,DEM,104,,,Wyoming County,Tunkhannock Borough Ward 2
+Wyoming,Tunkhannock Borough Ward 3 ,U.S. House,12.0,Marc Friedenberg,DEM,62,,,Wyoming County,Tunkhannock Borough Ward 3
+Wyoming,Tunkhannock Borough Ward 4,U.S. House,12.0,Marc Friedenberg,DEM,75,,,Wyoming County,Tunkhannock Borough Ward 4
+Wyoming,Tunkhannock Township #1,U.S. House,12.0,Marc Friedenberg,DEM,413,,,Wyoming County,Tunkhannock Township #1
+Wyoming,Tunkhannock Township #2,U.S. House,12.0,Marc Friedenberg,DEM,190,,,Wyoming County,Tunkhannock Township #2
+Wyoming,Washington Township ,U.S. House,12.0,Marc Friedenberg,DEM,136,,,Wyoming County,Washington Township
+Wyoming,Windham Township ,U.S. House,12.0,Marc Friedenberg,DEM,77,,,Wyoming County,Windham Township
+Wyoming,Braintrim Township ,U.S. House,12.0,Tom Marino,REP,111,,,Wyoming County,Braintrim Township
+Wyoming,Clinton Township ,U.S. House,12.0,Tom Marino,REP,333,,,Wyoming County,Clinton Township
+Wyoming,Eaton Township ,U.S. House,12.0,Tom Marino,REP,420,,,Wyoming County,Eaton Township
+Wyoming,Exeter Township ,U.S. House,12.0,Tom Marino,REP,204,,,Wyoming County,Exeter Township
+Wyoming,Factoryville Borough Ward 1,U.S. House,12.0,Tom Marino,REP,81,,,Wyoming County,Factoryville Borough Ward 1
+Wyoming,Factoryville Borough Ward 2,U.S. House,12.0,Tom Marino,REP,98,,,Wyoming County,Factoryville Borough Ward 2
+Wyoming,Falls Township #1,U.S. House,12.0,Tom Marino,REP,194,,,Wyoming County,Falls Township #1
+Wyoming,Falls Township #2,U.S. House,12.0,Tom Marino,REP,303,,,Wyoming County,Falls Township #2
+Wyoming,Forkston Township ,U.S. House,12.0,Tom Marino,REP,102,,,Wyoming County,Forkston Township
+Wyoming,Laceyville Borough ,U.S. House,12.0,Tom Marino,REP,80,,,Wyoming County,Laceyville Borough
+Wyoming,Lemon Township ,U.S. House,12.0,Tom Marino,REP,312,,,Wyoming County,Lemon Township
+Wyoming,Mehoopany Township ,U.S. House,12.0,Tom Marino,REP,259,,,Wyoming County,Mehoopany Township
+Wyoming,Meshoppen Borough ,U.S. House,12.0,Tom Marino,REP,72,,,Wyoming County,Meshoppen Borough
+Wyoming,Meshoppen Township ,U.S. House,12.0,Tom Marino,REP,216,,,Wyoming County,Meshoppen Township
+Wyoming,Monroe Township ,U.S. House,12.0,Tom Marino,REP,446,,,Wyoming County,Monroe Township
+Wyoming,Nicholson Borough at Large,U.S. House,12.0,Tom Marino,REP,141,,,Wyoming County,Nicholson Borough at Large
+Wyoming,Nicholson Township ,U.S. House,12.0,Tom Marino,REP,362,,,Wyoming County,Nicholson Township
+Wyoming,North Branch Township ,U.S. House,12.0,Tom Marino,REP,87,,,Wyoming County,North Branch Township
+Wyoming,Northmoreland Township ,U.S. House,12.0,Tom Marino,REP,438,,,Wyoming County,Northmoreland Township
+Wyoming,Noxen Township ,U.S. House,12.0,Tom Marino,REP,225,,,Wyoming County,Noxen Township
+Wyoming,Overfield Township ,U.S. House,12.0,Tom Marino,REP,421,,,Wyoming County,Overfield Township
+Wyoming,Tunkhannock Borough Ward 1 ,U.S. House,12.0,Tom Marino,REP,78,,,Wyoming County,Tunkhannock Borough Ward 1
+Wyoming,Tunkhannock Borough Ward 2,U.S. House,12.0,Tom Marino,REP,147,,,Wyoming County,Tunkhannock Borough Ward 2
+Wyoming,Tunkhannock Borough Ward 3 ,U.S. House,12.0,Tom Marino,REP,97,,,Wyoming County,Tunkhannock Borough Ward 3
+Wyoming,Tunkhannock Borough Ward 4,U.S. House,12.0,Tom Marino,REP,95,,,Wyoming County,Tunkhannock Borough Ward 4
+Wyoming,Tunkhannock Township #1,U.S. House,12.0,Tom Marino,REP,721,,,Wyoming County,Tunkhannock Township #1
+Wyoming,Tunkhannock Township #2,U.S. House,12.0,Tom Marino,REP,359,,,Wyoming County,Tunkhannock Township #2
+Wyoming,Washington Township ,U.S. House,12.0,Tom Marino,REP,362,,,Wyoming County,Washington Township
+Wyoming,Windham Township ,U.S. House,12.0,Tom Marino,REP,216,,,Wyoming County,Windham Township
+Wyoming,Braintrim Township ,U.S. House,12.0,Write-ins,,,,,Wyoming County,Braintrim Township
+Wyoming,Clinton Township ,U.S. House,12.0,Write-ins,,1,,,Wyoming County,Clinton Township
+Wyoming,Eaton Township ,U.S. House,12.0,Write-ins,,1,,,Wyoming County,Eaton Township
+Wyoming,Exeter Township ,U.S. House,12.0,Write-ins,,,,,Wyoming County,Exeter Township
+Wyoming,Factoryville Borough Ward 1,U.S. House,12.0,Write-ins,,,,,Wyoming County,Factoryville Borough Ward 1
+Wyoming,Factoryville Borough Ward 2,U.S. House,12.0,Write-ins,,,,,Wyoming County,Factoryville Borough Ward 2
+Wyoming,Falls Township #1,U.S. House,12.0,Write-ins,,,,,Wyoming County,Falls Township #1
+Wyoming,Falls Township #2,U.S. House,12.0,Write-ins,,1,,,Wyoming County,Falls Township #2
+Wyoming,Forkston Township ,U.S. House,12.0,Write-ins,,,,,Wyoming County,Forkston Township
+Wyoming,Laceyville Borough ,U.S. House,12.0,Write-ins,,,,,Wyoming County,Laceyville Borough
+Wyoming,Lemon Township ,U.S. House,12.0,Write-ins,,,,,Wyoming County,Lemon Township
+Wyoming,Mehoopany Township ,U.S. House,12.0,Write-ins,,,,,Wyoming County,Mehoopany Township
+Wyoming,Meshoppen Borough ,U.S. House,12.0,Write-ins,,1,,,Wyoming County,Meshoppen Borough
+Wyoming,Meshoppen Township ,U.S. House,12.0,Write-ins,,1,,,Wyoming County,Meshoppen Township
+Wyoming,Monroe Township ,U.S. House,12.0,Write-ins,,1,,,Wyoming County,Monroe Township
+Wyoming,Nicholson Borough at Large,U.S. House,12.0,Write-ins,,,,,Wyoming County,Nicholson Borough at Large
+Wyoming,Nicholson Township ,U.S. House,12.0,Write-ins,,,,,Wyoming County,Nicholson Township
+Wyoming,North Branch Township ,U.S. House,12.0,Write-ins,,,,,Wyoming County,North Branch Township
+Wyoming,Northmoreland Township ,U.S. House,12.0,Write-ins,,,,,Wyoming County,Northmoreland Township
+Wyoming,Noxen Township ,U.S. House,12.0,Write-ins,,2,,,Wyoming County,Noxen Township
+Wyoming,Overfield Township ,U.S. House,12.0,Write-ins,,,,,Wyoming County,Overfield Township
+Wyoming,Tunkhannock Borough Ward 1 ,U.S. House,12.0,Write-ins,,,,,Wyoming County,Tunkhannock Borough Ward 1
+Wyoming,Tunkhannock Borough Ward 2,U.S. House,12.0,Write-ins,,,,,Wyoming County,Tunkhannock Borough Ward 2
+Wyoming,Tunkhannock Borough Ward 3 ,U.S. House,12.0,Write-ins,,,,,Wyoming County,Tunkhannock Borough Ward 3
+Wyoming,Tunkhannock Borough Ward 4,U.S. House,12.0,Write-ins,,1,,,Wyoming County,Tunkhannock Borough Ward 4
+Wyoming,Tunkhannock Township #1,U.S. House,12.0,Write-ins,,,,,Wyoming County,Tunkhannock Township #1
+Wyoming,Tunkhannock Township #2,U.S. House,12.0,Write-ins,,1,,,Wyoming County,Tunkhannock Township #2
+Wyoming,Washington Township ,U.S. House,12.0,Write-ins,,,,,Wyoming County,Washington Township
+Wyoming,Windham Township ,U.S. House,12.0,Write-ins,,1,,,Wyoming County,Windham Township
+Wyoming,Braintrim Township ,State Senate,20.0,Lisa Baker,REP,131,,,Wyoming County,Braintrim Township
+Wyoming,Clinton Township ,State Senate,20.0,Lisa Baker,REP,390,,,Wyoming County,Clinton Township
+Wyoming,Eaton Township ,State Senate,20.0,Lisa Baker,REP,492,,,Wyoming County,Eaton Township
+Wyoming,Exeter Township ,State Senate,20.0,Lisa Baker,REP,244,,,Wyoming County,Exeter Township
+Wyoming,Factoryville Borough Ward 1,State Senate,20.0,Lisa Baker,REP,95,,,Wyoming County,Factoryville Borough Ward 1
+Wyoming,Factoryville Borough Ward 2,State Senate,20.0,Lisa Baker,REP,112,,,Wyoming County,Factoryville Borough Ward 2
+Wyoming,Falls Township #1,State Senate,20.0,Lisa Baker,REP,214,,,Wyoming County,Falls Township #1
+Wyoming,Falls Township #2,State Senate,20.0,Lisa Baker,REP,333,,,Wyoming County,Falls Township #2
+Wyoming,Forkston Township ,State Senate,20.0,Lisa Baker,REP,114,,,Wyoming County,Forkston Township
+Wyoming,Laceyville Borough ,State Senate,20.0,Lisa Baker,REP,87,,,Wyoming County,Laceyville Borough
+Wyoming,Lemon Township ,State Senate,20.0,Lisa Baker,REP,378,,,Wyoming County,Lemon Township
+Wyoming,Mehoopany Township ,State Senate,20.0,Lisa Baker,REP,266,,,Wyoming County,Mehoopany Township
+Wyoming,Meshoppen Borough ,State Senate,20.0,Lisa Baker,REP,77,,,Wyoming County,Meshoppen Borough
+Wyoming,Meshoppen Township ,State Senate,20.0,Lisa Baker,REP,236,,,Wyoming County,Meshoppen Township
+Wyoming,Monroe Township ,State Senate,20.0,Lisa Baker,REP,534,,,Wyoming County,Monroe Township
+Wyoming,Nicholson Borough at Large,State Senate,20.0,Lisa Baker,REP,178,,,Wyoming County,Nicholson Borough at Large
+Wyoming,Nicholson Township ,State Senate,20.0,Lisa Baker,REP,400,,,Wyoming County,Nicholson Township
+Wyoming,North Branch Township ,State Senate,20.0,Lisa Baker,REP,95,,,Wyoming County,North Branch Township
+Wyoming,Northmoreland Township ,State Senate,20.0,Lisa Baker,REP,517,,,Wyoming County,Northmoreland Township
+Wyoming,Noxen Township ,State Senate,20.0,Lisa Baker,REP,267,,,Wyoming County,Noxen Township
+Wyoming,Overfield Township ,State Senate,20.0,Lisa Baker,REP,499,,,Wyoming County,Overfield Township
+Wyoming,Tunkhannock Borough Ward 1 ,State Senate,20.0,Lisa Baker,REP,88,,,Wyoming County,Tunkhannock Borough Ward 1
+Wyoming,Tunkhannock Borough Ward 2,State Senate,20.0,Lisa Baker,REP,179,,,Wyoming County,Tunkhannock Borough Ward 2
+Wyoming,Tunkhannock Borough Ward 3 ,State Senate,20.0,Lisa Baker,REP,118,,,Wyoming County,Tunkhannock Borough Ward 3
+Wyoming,Tunkhannock Borough Ward 4,State Senate,20.0,Lisa Baker,REP,126,,,Wyoming County,Tunkhannock Borough Ward 4
+Wyoming,Tunkhannock Township #1,State Senate,20.0,Lisa Baker,REP,806,,,Wyoming County,Tunkhannock Township #1
+Wyoming,Tunkhannock Township #2,State Senate,20.0,Lisa Baker,REP,437,,,Wyoming County,Tunkhannock Township #2
+Wyoming,Washington Township ,State Senate,20.0,Lisa Baker,REP,421,,,Wyoming County,Washington Township
+Wyoming,Windham Township ,State Senate,20.0,Lisa Baker,REP,244,,,Wyoming County,Windham Township
+Wyoming,Braintrim Township ,State Senate,20.0,John J. Sweeney,GRE,20,,,Wyoming County,Braintrim Township
+Wyoming,Clinton Township ,State Senate,20.0,John J. Sweeney,GRE,144,,,Wyoming County,Clinton Township
+Wyoming,Eaton Township ,State Senate,20.0,John J. Sweeney,GRE,105,,,Wyoming County,Eaton Township
+Wyoming,Exeter Township ,State Senate,20.0,John J. Sweeney,GRE,42,,,Wyoming County,Exeter Township
+Wyoming,Factoryville Borough Ward 1,State Senate,20.0,John J. Sweeney,GRE,51,,,Wyoming County,Factoryville Borough Ward 1
+Wyoming,Factoryville Borough Ward 2,State Senate,20.0,John J. Sweeney,GRE,46,,,Wyoming County,Factoryville Borough Ward 2
+Wyoming,Falls Township #1,State Senate,20.0,John J. Sweeney,GRE,59,,,Wyoming County,Falls Township #1
+Wyoming,Falls Township #2,State Senate,20.0,John J. Sweeney,GRE,83,,,Wyoming County,Falls Township #2
+Wyoming,Forkston Township ,State Senate,20.0,John J. Sweeney,GRE,20,,,Wyoming County,Forkston Township
+Wyoming,Laceyville Borough ,State Senate,20.0,John J. Sweeney,GRE,11,,,Wyoming County,Laceyville Borough
+Wyoming,Lemon Township ,State Senate,20.0,John J. Sweeney,GRE,69,,,Wyoming County,Lemon Township
+Wyoming,Mehoopany Township ,State Senate,20.0,John J. Sweeney,GRE,53,,,Wyoming County,Mehoopany Township
+Wyoming,Meshoppen Borough ,State Senate,20.0,John J. Sweeney,GRE,6,,,Wyoming County,Meshoppen Borough
+Wyoming,Meshoppen Township ,State Senate,20.0,John J. Sweeney,GRE,28,,,Wyoming County,Meshoppen Township
+Wyoming,Monroe Township ,State Senate,20.0,John J. Sweeney,GRE,53,,,Wyoming County,Monroe Township
+Wyoming,Nicholson Borough at Large,State Senate,20.0,John J. Sweeney,GRE,50,,,Wyoming County,Nicholson Borough at Large
+Wyoming,Nicholson Township ,State Senate,20.0,John J. Sweeney,GRE,79,,,Wyoming County,Nicholson Township
+Wyoming,North Branch Township ,State Senate,20.0,John J. Sweeney,GRE,10,,,Wyoming County,North Branch Township
+Wyoming,Northmoreland Township ,State Senate,20.0,John J. Sweeney,GRE,82,,,Wyoming County,Northmoreland Township
+Wyoming,Noxen Township ,State Senate,20.0,John J. Sweeney,GRE,35,,,Wyoming County,Noxen Township
+Wyoming,Overfield Township ,State Senate,20.0,John J. Sweeney,GRE,163,,,Wyoming County,Overfield Township
+Wyoming,Tunkhannock Borough Ward 1 ,State Senate,20.0,John J. Sweeney,GRE,22,,,Wyoming County,Tunkhannock Borough Ward 1
+Wyoming,Tunkhannock Borough Ward 2,State Senate,20.0,John J. Sweeney,GRE,49,,,Wyoming County,Tunkhannock Borough Ward 2
+Wyoming,Tunkhannock Borough Ward 3 ,State Senate,20.0,John J. Sweeney,GRE,27,,,Wyoming County,Tunkhannock Borough Ward 3
+Wyoming,Tunkhannock Borough Ward 4,State Senate,20.0,John J. Sweeney,GRE,30,,,Wyoming County,Tunkhannock Borough Ward 4
+Wyoming,Tunkhannock Township #1,State Senate,20.0,John J. Sweeney,GRE,209,,,Wyoming County,Tunkhannock Township #1
+Wyoming,Tunkhannock Township #2,State Senate,20.0,John J. Sweeney,GRE,72,,,Wyoming County,Tunkhannock Township #2
+Wyoming,Washington Township ,State Senate,20.0,John J. Sweeney,GRE,60,,,Wyoming County,Washington Township
+Wyoming,Windham Township ,State Senate,20.0,John J. Sweeney,GRE,34,,,Wyoming County,Windham Township
+Wyoming,Braintrim Township ,State Senate,20.0,Write-ins,,,,,Wyoming County,Braintrim Township
+Wyoming,Clinton Township ,State Senate,20.0,Write-ins,,3,,,Wyoming County,Clinton Township
+Wyoming,Eaton Township ,State Senate,20.0,Write-ins,,3,,,Wyoming County,Eaton Township
+Wyoming,Exeter Township ,State Senate,20.0,Write-ins,,1,,,Wyoming County,Exeter Township
+Wyoming,Factoryville Borough Ward 1,State Senate,20.0,Write-ins,,,,,Wyoming County,Factoryville Borough Ward 1
+Wyoming,Factoryville Borough Ward 2,State Senate,20.0,Write-ins,,4,,,Wyoming County,Factoryville Borough Ward 2
+Wyoming,Falls Township #1,State Senate,20.0,Write-ins,,1,,,Wyoming County,Falls Township #1
+Wyoming,Falls Township #2,State Senate,20.0,Write-ins,,1,,,Wyoming County,Falls Township #2
+Wyoming,Forkston Township ,State Senate,20.0,Write-ins,,,,,Wyoming County,Forkston Township
+Wyoming,Laceyville Borough ,State Senate,20.0,Write-ins,,,,,Wyoming County,Laceyville Borough
+Wyoming,Lemon Township ,State Senate,20.0,Write-ins,,1,,,Wyoming County,Lemon Township
+Wyoming,Mehoopany Township ,State Senate,20.0,Write-ins,,,,,Wyoming County,Mehoopany Township
+Wyoming,Meshoppen Borough ,State Senate,20.0,Write-ins,,,,,Wyoming County,Meshoppen Borough
+Wyoming,Meshoppen Township ,State Senate,20.0,Write-ins,,,,,Wyoming County,Meshoppen Township
+Wyoming,Monroe Township ,State Senate,20.0,Write-ins,,1,,,Wyoming County,Monroe Township
+Wyoming,Nicholson Borough at Large,State Senate,20.0,Write-ins,,,,,Wyoming County,Nicholson Borough at Large
+Wyoming,Nicholson Township ,State Senate,20.0,Write-ins,,3,,,Wyoming County,Nicholson Township
+Wyoming,North Branch Township ,State Senate,20.0,Write-ins,,,,,Wyoming County,North Branch Township
+Wyoming,Northmoreland Township ,State Senate,20.0,Write-ins,,,,,Wyoming County,Northmoreland Township
+Wyoming,Noxen Township ,State Senate,20.0,Write-ins,,1,,,Wyoming County,Noxen Township
+Wyoming,Overfield Township ,State Senate,20.0,Write-ins,,1,,,Wyoming County,Overfield Township
+Wyoming,Tunkhannock Borough Ward 1 ,State Senate,20.0,Write-ins,,,,,Wyoming County,Tunkhannock Borough Ward 1
+Wyoming,Tunkhannock Borough Ward 2,State Senate,20.0,Write-ins,,,,,Wyoming County,Tunkhannock Borough Ward 2
+Wyoming,Tunkhannock Borough Ward 3 ,State Senate,20.0,Write-ins,,,,,Wyoming County,Tunkhannock Borough Ward 3
+Wyoming,Tunkhannock Borough Ward 4,State Senate,20.0,Write-ins,,,,,Wyoming County,Tunkhannock Borough Ward 4
+Wyoming,Tunkhannock Township #1,State Senate,20.0,Write-ins,,2,,,Wyoming County,Tunkhannock Township #1
+Wyoming,Tunkhannock Township #2,State Senate,20.0,Write-ins,,2,,,Wyoming County,Tunkhannock Township #2
+Wyoming,Washington Township ,State Senate,20.0,Write-ins,,1,,,Wyoming County,Washington Township
+Wyoming,Windham Township ,State Senate,20.0,Write-ins,,2,,,Wyoming County,Windham Township
+Wyoming,Braintrim Township ,State House,117.0,Karen Boback,REP,132,,,Wyoming County,Braintrim Township
+Wyoming,Clinton Township ,State House,117.0,Karen Boback,REP,396,,,Wyoming County,Clinton Township
+Wyoming,Eaton Township ,State House,117.0,Karen Boback,REP,518,,,Wyoming County,Eaton Township
+Wyoming,Exeter Township ,State House,117.0,Karen Boback,REP,249,,,Wyoming County,Exeter Township
+Wyoming,Factoryville Borough Ward 1,State House,117.0,Karen Boback,REP,98,,,Wyoming County,Factoryville Borough Ward 1
+Wyoming,Factoryville Borough Ward 2,State House,117.0,Karen Boback,REP,94,,,Wyoming County,Factoryville Borough Ward 2
+Wyoming,Falls Township #1,State House,117.0,Karen Boback,REP,226,,,Wyoming County,Falls Township #1
+Wyoming,Falls Township #2,State House,117.0,Karen Boback,REP,340,,,Wyoming County,Falls Township #2
+Wyoming,Forkston Township ,State House,117.0,Karen Boback,REP,116,,,Wyoming County,Forkston Township
+Wyoming,Laceyville Borough ,State House,117.0,Karen Boback,REP,86,,,Wyoming County,Laceyville Borough
+Wyoming,Lemon Township ,State House,117.0,Karen Boback,REP,370,,,Wyoming County,Lemon Township
+Wyoming,Mehoopany Township ,State House,117.0,Karen Boback,REP,271,,,Wyoming County,Mehoopany Township
+Wyoming,Meshoppen Borough ,State House,117.0,Karen Boback,REP,79,,,Wyoming County,Meshoppen Borough
+Wyoming,Meshoppen Township ,State House,117.0,Karen Boback,REP,227,,,Wyoming County,Meshoppen Township
+Wyoming,Monroe Township ,State House,117.0,Karen Boback,REP,516,,,Wyoming County,Monroe Township
+Wyoming,Nicholson Borough at Large,State House,117.0,Karen Boback,REP,175,,,Wyoming County,Nicholson Borough at Large
+Wyoming,Nicholson Township ,State House,117.0,Karen Boback,REP,393,,,Wyoming County,Nicholson Township
+Wyoming,North Branch Township ,State House,117.0,Karen Boback,REP,94,,,Wyoming County,North Branch Township
+Wyoming,Northmoreland Township ,State House,117.0,Karen Boback,REP,541,,,Wyoming County,Northmoreland Township
+Wyoming,Noxen Township ,State House,117.0,Karen Boback,REP,266,,,Wyoming County,Noxen Township
+Wyoming,Overfield Township ,State House,117.0,Karen Boback,REP,531,,,Wyoming County,Overfield Township
+Wyoming,Tunkhannock Borough Ward 1 ,State House,117.0,Karen Boback,REP,86,,,Wyoming County,Tunkhannock Borough Ward 1
+Wyoming,Tunkhannock Borough Ward 2,State House,117.0,Karen Boback,REP,180,,,Wyoming County,Tunkhannock Borough Ward 2
+Wyoming,Tunkhannock Borough Ward 3 ,State House,117.0,Karen Boback,REP,111,,,Wyoming County,Tunkhannock Borough Ward 3
+Wyoming,Tunkhannock Borough Ward 4,State House,117.0,Karen Boback,REP,124,,,Wyoming County,Tunkhannock Borough Ward 4
+Wyoming,Tunkhannock Township #1,State House,117.0,Karen Boback,REP,831,,,Wyoming County,Tunkhannock Township #1
+Wyoming,Tunkhannock Township #2,State House,117.0,Karen Boback,REP,422,,,Wyoming County,Tunkhannock Township #2
+Wyoming,Washington Township ,State House,117.0,Karen Boback,REP,420,,,Wyoming County,Washington Township
+Wyoming,Windham Township ,State House,117.0,Karen Boback,REP,247,,,Wyoming County,Windham Township
+Wyoming,Braintrim Township ,State House,117.0,Lou Jasikoff,LIB,20,,,Wyoming County,Braintrim Township
+Wyoming,Clinton Township ,State House,117.0,Lou Jasikoff,LIB,162,,,Wyoming County,Clinton Township
+Wyoming,Eaton Township ,State House,117.0,Lou Jasikoff,LIB,113,,,Wyoming County,Eaton Township
+Wyoming,Exeter Township ,State House,117.0,Lou Jasikoff,LIB,43,,,Wyoming County,Exeter Township
+Wyoming,Factoryville Borough Ward 1,State House,117.0,Lou Jasikoff,LIB,61,,,Wyoming County,Factoryville Borough Ward 1
+Wyoming,Factoryville Borough Ward 2,State House,117.0,Lou Jasikoff,LIB,77,,,Wyoming County,Factoryville Borough Ward 2
+Wyoming,Falls Township #1,State House,117.0,Lou Jasikoff,LIB,50,,,Wyoming County,Falls Township #1
+Wyoming,Falls Township #2,State House,117.0,Lou Jasikoff,LIB,92,,,Wyoming County,Falls Township #2
+Wyoming,Forkston Township ,State House,117.0,Lou Jasikoff,LIB,22,,,Wyoming County,Forkston Township
+Wyoming,Laceyville Borough ,State House,117.0,Lou Jasikoff,LIB,15,,,Wyoming County,Laceyville Borough
+Wyoming,Lemon Township ,State House,117.0,Lou Jasikoff,LIB,99,,,Wyoming County,Lemon Township
+Wyoming,Mehoopany Township ,State House,117.0,Lou Jasikoff,LIB,52,,,Wyoming County,Mehoopany Township
+Wyoming,Meshoppen Borough ,State House,117.0,Lou Jasikoff,LIB,10,,,Wyoming County,Meshoppen Borough
+Wyoming,Meshoppen Township ,State House,117.0,Lou Jasikoff,LIB,39,,,Wyoming County,Meshoppen Township
+Wyoming,Monroe Township ,State House,117.0,Lou Jasikoff,LIB,87,,,Wyoming County,Monroe Township
+Wyoming,Nicholson Borough at Large,State House,117.0,Lou Jasikoff,LIB,61,,,Wyoming County,Nicholson Borough at Large
+Wyoming,Nicholson Township ,State House,117.0,Lou Jasikoff,LIB,99,,,Wyoming County,Nicholson Township
+Wyoming,North Branch Township ,State House,117.0,Lou Jasikoff,LIB,13,,,Wyoming County,North Branch Township
+Wyoming,Northmoreland Township ,State House,117.0,Lou Jasikoff,LIB,85,,,Wyoming County,Northmoreland Township
+Wyoming,Noxen Township ,State House,117.0,Lou Jasikoff,LIB,43,,,Wyoming County,Noxen Township
+Wyoming,Overfield Township ,State House,117.0,Lou Jasikoff,LIB,155,,,Wyoming County,Overfield Township
+Wyoming,Tunkhannock Borough Ward 1 ,State House,117.0,Lou Jasikoff,LIB,29,,,Wyoming County,Tunkhannock Borough Ward 1
+Wyoming,Tunkhannock Borough Ward 2,State House,117.0,Lou Jasikoff,LIB,59,,,Wyoming County,Tunkhannock Borough Ward 2
+Wyoming,Tunkhannock Borough Ward 3 ,State House,117.0,Lou Jasikoff,LIB,39,,,Wyoming County,Tunkhannock Borough Ward 3
+Wyoming,Tunkhannock Borough Ward 4,State House,117.0,Lou Jasikoff,LIB,43,,,Wyoming County,Tunkhannock Borough Ward 4
+Wyoming,Tunkhannock Township #1,State House,117.0,Lou Jasikoff,LIB,232,,,Wyoming County,Tunkhannock Township #1
+Wyoming,Tunkhannock Township #2,State House,117.0,Lou Jasikoff,LIB,100,,,Wyoming County,Tunkhannock Township #2
+Wyoming,Washington Township ,State House,117.0,Lou Jasikoff,LIB,71,,,Wyoming County,Washington Township
+Wyoming,Windham Township ,State House,117.0,Lou Jasikoff,LIB,40,,,Wyoming County,Windham Township
+Wyoming,Braintrim Township ,State House,117.0,Write-ins,,1,,,Wyoming County,Braintrim Township
+Wyoming,Clinton Township ,State House,117.0,Write-ins,,3,,,Wyoming County,Clinton Township
+Wyoming,Eaton Township ,State House,117.0,Write-ins,,1,,,Wyoming County,Eaton Township
+Wyoming,Exeter Township ,State House,117.0,Write-ins,,1,,,Wyoming County,Exeter Township
+Wyoming,Factoryville Borough Ward 1,State House,117.0,Write-ins,,,,,Wyoming County,Factoryville Borough Ward 1
+Wyoming,Factoryville Borough Ward 2,State House,117.0,Write-ins,,1,,,Wyoming County,Factoryville Borough Ward 2
+Wyoming,Falls Township #1,State House,117.0,Write-ins,,1,,,Wyoming County,Falls Township #1
+Wyoming,Falls Township #2,State House,117.0,Write-ins,,3,,,Wyoming County,Falls Township #2
+Wyoming,Forkston Township ,State House,117.0,Write-ins,,,,,Wyoming County,Forkston Township
+Wyoming,Laceyville Borough ,State House,117.0,Write-ins,,,,,Wyoming County,Laceyville Borough
+Wyoming,Lemon Township ,State House,117.0,Write-ins,,,,,Wyoming County,Lemon Township
+Wyoming,Mehoopany Township ,State House,117.0,Write-ins,,1,,,Wyoming County,Mehoopany Township
+Wyoming,Meshoppen Borough ,State House,117.0,Write-ins,,,,,Wyoming County,Meshoppen Borough
+Wyoming,Meshoppen Township ,State House,117.0,Write-ins,,,,,Wyoming County,Meshoppen Township
+Wyoming,Monroe Township ,State House,117.0,Write-ins,,3,,,Wyoming County,Monroe Township
+Wyoming,Nicholson Borough at Large,State House,117.0,Write-ins,,1,,,Wyoming County,Nicholson Borough at Large
+Wyoming,Nicholson Township ,State House,117.0,Write-ins,,3,,,Wyoming County,Nicholson Township
+Wyoming,North Branch Township ,State House,117.0,Write-ins,,,,,Wyoming County,North Branch Township
+Wyoming,Northmoreland Township ,State House,117.0,Write-ins,,2,,,Wyoming County,Northmoreland Township
+Wyoming,Noxen Township ,State House,117.0,Write-ins,,2,,,Wyoming County,Noxen Township
+Wyoming,Overfield Township ,State House,117.0,Write-ins,,1,,,Wyoming County,Overfield Township
+Wyoming,Tunkhannock Borough Ward 1 ,State House,117.0,Write-ins,,2,,,Wyoming County,Tunkhannock Borough Ward 1
+Wyoming,Tunkhannock Borough Ward 2,State House,117.0,Write-ins,,,,,Wyoming County,Tunkhannock Borough Ward 2
+Wyoming,Tunkhannock Borough Ward 3 ,State House,117.0,Write-ins,,,,,Wyoming County,Tunkhannock Borough Ward 3
+Wyoming,Tunkhannock Borough Ward 4,State House,117.0,Write-ins,,1,,,Wyoming County,Tunkhannock Borough Ward 4
+Wyoming,Tunkhannock Township #1,State House,117.0,Write-ins,,4,,,Wyoming County,Tunkhannock Township #1
+Wyoming,Tunkhannock Township #2,State House,117.0,Write-ins,,2,,,Wyoming County,Tunkhannock Township #2
+Wyoming,Washington Township ,State House,117.0,Write-ins,,,,,Wyoming County,Washington Township
+Wyoming,Windham Township ,State House,117.0,Write-ins,,1,,,Wyoming County,Windham Township

@@ -1,0 +1,953 @@
+county,precinct,office,district,candidate,party,votes,election_day,absentee,county_id,original_precinct_name
+Somerset,ADDISON,U.S. Senate,,Bob Casey Jr.,DEM,110,,,Somerset County,ADDISON
+Somerset,ADDISON,U.S. Senate,,Bob Casey Jr.,DEM,26,,,Somerset County,ADDISON
+Somerset,ALLEGHENY,U.S. Senate,,Bob Casey Jr.,DEM,79,,,Somerset County,ALLEGHENY
+Somerset,BENSON,U.S. Senate,,Bob Casey Jr.,DEM,35,,,Somerset County,BENSON
+Somerset,BERLIN,U.S. Senate,,Bob Casey Jr.,DEM,237,,,Somerset County,BERLIN
+Somerset,BLACK,U.S. Senate,,Bob Casey Jr.,DEM,84,,,Somerset County,BLACK
+Somerset,BOSWELL,U.S. Senate,,Bob Casey Jr.,DEM,201,,,Somerset County,BOSWELL
+Somerset,BROTHERS VALLEY,U.S. Senate,,Bob Casey Jr.,DEM,219,,,Somerset County,BROTHERS VALLEY
+Somerset,CALLIMONT,U.S. Senate,,Bob Casey Jr.,DEM,4,,,Somerset County,CALLIMONT
+Somerset,CASSELMAN,U.S. Senate,,Bob Casey Jr.,DEM,13,,,Somerset County,CASSELMAN
+Somerset,CENTRAL CITY,U.S. Senate,,Bob Casey Jr.,DEM,145,,,Somerset County,CENTRAL CITY
+Somerset,CONEMAUGHX1,U.S. Senate,,Bob Casey Jr.,DEM,339,,,Somerset County,CONEMAUGHX1
+Somerset,CONEMAUGHX2,U.S. Senate,,Bob Casey Jr.,DEM,254,,,Somerset County,CONEMAUGHX2
+Somerset,CONEMAUGHX3,U.S. Senate,,Bob Casey Jr.,DEM,232,,,Somerset County,CONEMAUGHX3
+Somerset,CONEMAUGHX4,U.S. Senate,,Bob Casey Jr.,DEM,237,,,Somerset County,CONEMAUGHX4
+Somerset,CONEMAUGHX5,U.S. Senate,,Bob Casey Jr.,DEM,82,,,Somerset County,CONEMAUGHX5
+Somerset,CONFLUENCE,U.S. Senate,,Bob Casey Jr.,DEM,112,,,Somerset County,CONFLUENCE
+Somerset,ELK LICK,U.S. Senate,,Bob Casey Jr.,DEM,138,,,Somerset County,ELK LICK
+Somerset,FAIRHOPE,U.S. Senate,,Bob Casey Jr.,DEM,20,,,Somerset County,FAIRHOPE
+Somerset,GARRETT,U.S. Senate,,Bob Casey Jr.,DEM,63,,,Somerset County,GARRETT
+Somerset,GREENVILLE,U.S. Senate,,Bob Casey Jr.,DEM,72,,,Somerset County,GREENVILLE
+Somerset,HOOVERSVILLE,U.S. Senate,,Bob Casey Jr.,DEM,87,,,Somerset County,HOOVERSVILLE
+Somerset,INDIAN LAKE,U.S. Senate,,Bob Casey Jr.,DEM,69,,,Somerset County,INDIAN LAKE
+Somerset,JEFFERSON,U.S. Senate,,Bob Casey Jr.,DEM,230,,,Somerset County,JEFFERSON
+Somerset,JENNERX1,U.S. Senate,,Bob Casey Jr.,DEM,250,,,Somerset County,JENNERX1
+Somerset,JENNERX2,U.S. Senate,,Bob Casey Jr.,DEM,134,,,Somerset County,JENNERX2
+Somerset,JENNERX3,U.S. Senate,,Bob Casey Jr.,DEM,90,,,Somerset County,JENNERX3
+Somerset,JENNERSTOWN,U.S. Senate,,Bob Casey Jr.,DEM,103,,,Somerset County,JENNERSTOWN
+Somerset,LARIMER,U.S. Senate,,Bob Casey Jr.,DEM,46,,,Somerset County,LARIMER
+Somerset,LINCOLN,U.S. Senate,,Bob Casey Jr.,DEM,175,,,Somerset County,LINCOLN
+Somerset,LOWER TURKEYFOOT,U.S. Senate,,Bob Casey Jr.,DEM,47,,,Somerset County,LOWER TURKEYFOOT
+Somerset,MEYERSDALE,U.S. Senate,,Bob Casey Jr.,DEM,267,,,Somerset County,MEYERSDALE
+Somerset,MIDDLECREEK,U.S. Senate,,Bob Casey Jr.,DEM,103,,,Somerset County,MIDDLECREEK
+Somerset,MILFORD,U.S. Senate,,Bob Casey Jr.,DEM,184,,,Somerset County,MILFORD
+Somerset,NEW BALTIMORE,U.S. Senate,,Bob Casey Jr.,DEM,37,,,Somerset County,NEW BALTIMORE
+Somerset,NEW CENTERVILLE,U.S. Senate,,Bob Casey Jr.,DEM,28,,,Somerset County,NEW CENTERVILLE
+Somerset,NORTHAMPTON,U.S. Senate,,Bob Casey Jr.,DEM,46,,,Somerset County,NORTHAMPTON
+Somerset,OGLE,U.S. Senate,,Bob Casey Jr.,DEM,55,,,Somerset County,OGLE
+Somerset,PAINTX1,U.S. Senate,,Bob Casey Jr.,DEM,189,,,Somerset County,PAINTX1
+Somerset,PAINTX2,U.S. Senate,,Bob Casey Jr.,DEM,259,,,Somerset County,PAINTX2
+Somerset,PAINTX3,U.S. Senate,,Bob Casey Jr.,DEM,57,,,Somerset County,PAINTX3
+Somerset,PAINT,U.S. Senate,,Bob Casey Jr.,DEM,131,,,Somerset County,PAINT
+Somerset,QUEMAHONING,U.S. Senate,,Bob Casey Jr.,DEM,221,,,Somerset County,QUEMAHONING
+Somerset,ROCKWOOD,U.S. Senate,,Bob Casey Jr.,DEM,88,,,Somerset County,ROCKWOOD
+Somerset,SALISBURY,U.S. Senate,,Bob Casey Jr.,DEM,86,,,Somerset County,SALISBURY
+Somerset,SEVEN SPRINGS,U.S. Senate,,Bob Casey Jr.,DEM,4,,,Somerset County,SEVEN SPRINGS
+Somerset,SHADEX1,U.S. Senate,,Bob Casey Jr.,DEM,70,,,Somerset County,SHADEX1
+Somerset,SHADEX2,U.S. Senate,,Bob Casey Jr.,DEM,157,,,Somerset County,SHADEX2
+Somerset,SHADEX3,U.S. Senate,,Bob Casey Jr.,DEM,168,,,Somerset County,SHADEX3
+Somerset,SHANKSVILLE,U.S. Senate,,Bob Casey Jr.,DEM,19,,,Somerset County,SHANKSVILLE
+Somerset,SOMERSETX1,U.S. Senate,,Bob Casey Jr.,DEM,239,,,Somerset County,SOMERSETX1
+Somerset,SOMERSETX2,U.S. Senate,,Bob Casey Jr.,DEM,288,,,Somerset County,SOMERSETX2
+Somerset,SOMERSETX3,U.S. Senate,,Bob Casey Jr.,DEM,305,,,Somerset County,SOMERSETX3
+Somerset,SOMERSETX4,U.S. Senate,,Bob Casey Jr.,DEM,192,,,Somerset County,SOMERSETX4
+Somerset,SOMERSETXEAST,U.S. Senate,,Bob Casey Jr.,DEM,146,,,Somerset County,SOMERSETXEAST
+Somerset,SOMERSETXNORTH WEST,U.S. Senate,,Bob Casey Jr.,DEM,179,,,Somerset County,SOMERSETXNORTH WEST
+Somerset,SOMERSETXSOUTH WEST,U.S. Senate,,Bob Casey Jr.,DEM,493,,,Somerset County,SOMERSETXSOUTH WEST
+Somerset,SOUTHAMPTON,U.S. Senate,,Bob Casey Jr.,DEM,46,,,Somerset County,SOUTHAMPTON
+Somerset,STONYCREEK,U.S. Senate,,Bob Casey Jr.,DEM,192,,,Somerset County,STONYCREEK
+Somerset,STOYSTOWN,U.S. Senate,,Bob Casey Jr.,DEM,52,,,Somerset County,STOYSTOWN
+Somerset,SUMMIT,U.S. Senate,,Bob Casey Jr.,DEM,219,,,Somerset County,SUMMIT
+Somerset,UPPER TURKEYFOOT,U.S. Senate,,Bob Casey Jr.,DEM,101,,,Somerset County,UPPER TURKEYFOOT
+Somerset,URSINA,U.S. Senate,,Bob Casey Jr.,DEM,23,,,Somerset County,URSINA
+Somerset,WELLERSBURG,U.S. Senate,,Bob Casey Jr.,DEM,17,,,Somerset County,WELLERSBURG
+Somerset,WINDBERX1,U.S. Senate,,Bob Casey Jr.,DEM,176,,,Somerset County,WINDBERX1
+Somerset,WINDBERX2,U.S. Senate,,Bob Casey Jr.,DEM,242,,,Somerset County,WINDBERX2
+Somerset,WINDBERX3,U.S. Senate,,Bob Casey Jr.,DEM,147,,,Somerset County,WINDBERX3
+Somerset,WINDBERX4,U.S. Senate,,Bob Casey Jr.,DEM,163,,,Somerset County,WINDBERX4
+Somerset,ADDISON,U.S. Senate,,Lou Barletta,REP,233,,,Somerset County,ADDISON
+Somerset,ADDISON,U.S. Senate,,Lou Barletta,REP,49,,,Somerset County,ADDISON
+Somerset,ALLEGHENY,U.S. Senate,,Lou Barletta,REP,218,,,Somerset County,ALLEGHENY
+Somerset,BENSON,U.S. Senate,,Lou Barletta,REP,31,,,Somerset County,BENSON
+Somerset,BERLIN,U.S. Senate,,Lou Barletta,REP,527,,,Somerset County,BERLIN
+Somerset,BLACK,U.S. Senate,,Lou Barletta,REP,266,,,Somerset County,BLACK
+Somerset,BOSWELL,U.S. Senate,,Lou Barletta,REP,230,,,Somerset County,BOSWELL
+Somerset,BROTHERS VALLEY,U.S. Senate,,Lou Barletta,REP,790,,,Somerset County,BROTHERS VALLEY
+Somerset,CALLIMONT,U.S. Senate,,Lou Barletta,REP,17,,,Somerset County,CALLIMONT
+Somerset,CASSELMAN,U.S. Senate,,Lou Barletta,REP,21,,,Somerset County,CASSELMAN
+Somerset,CENTRAL CITY,U.S. Senate,,Lou Barletta,REP,191,,,Somerset County,CENTRAL CITY
+Somerset,CONEMAUGHX1,U.S. Senate,,Lou Barletta,REP,578,,,Somerset County,CONEMAUGHX1
+Somerset,CONEMAUGHX2,U.S. Senate,,Lou Barletta,REP,433,,,Somerset County,CONEMAUGHX2
+Somerset,CONEMAUGHX3,U.S. Senate,,Lou Barletta,REP,389,,,Somerset County,CONEMAUGHX3
+Somerset,CONEMAUGHX4,U.S. Senate,,Lou Barletta,REP,407,,,Somerset County,CONEMAUGHX4
+Somerset,CONEMAUGHX5,U.S. Senate,,Lou Barletta,REP,145,,,Somerset County,CONEMAUGHX5
+Somerset,CONFLUENCE,U.S. Senate,,Lou Barletta,REP,118,,,Somerset County,CONFLUENCE
+Somerset,ELK LICK,U.S. Senate,,Lou Barletta,REP,418,,,Somerset County,ELK LICK
+Somerset,FAIRHOPE,U.S. Senate,,Lou Barletta,REP,32,,,Somerset County,FAIRHOPE
+Somerset,GARRETT,U.S. Senate,,Lou Barletta,REP,69,,,Somerset County,GARRETT
+Somerset,GREENVILLE,U.S. Senate,,Lou Barletta,REP,161,,,Somerset County,GREENVILLE
+Somerset,HOOVERSVILLE,U.S. Senate,,Lou Barletta,REP,160,,,Somerset County,HOOVERSVILLE
+Somerset,INDIAN LAKE,U.S. Senate,,Lou Barletta,REP,185,,,Somerset County,INDIAN LAKE
+Somerset,JEFFERSON,U.S. Senate,,Lou Barletta,REP,452,,,Somerset County,JEFFERSON
+Somerset,JENNERX1,U.S. Senate,,Lou Barletta,REP,496,,,Somerset County,JENNERX1
+Somerset,JENNERX2,U.S. Senate,,Lou Barletta,REP,331,,,Somerset County,JENNERX2
+Somerset,JENNERX3,U.S. Senate,,Lou Barletta,REP,220,,,Somerset County,JENNERX3
+Somerset,JENNERSTOWN,U.S. Senate,,Lou Barletta,REP,211,,,Somerset County,JENNERSTOWN
+Somerset,LARIMER,U.S. Senate,,Lou Barletta,REP,188,,,Somerset County,LARIMER
+Somerset,LINCOLN,U.S. Senate,,Lou Barletta,REP,503,,,Somerset County,LINCOLN
+Somerset,LOWER TURKEYFOOT,U.S. Senate,,Lou Barletta,REP,123,,,Somerset County,LOWER TURKEYFOOT
+Somerset,MEYERSDALE,U.S. Senate,,Lou Barletta,REP,437,,,Somerset County,MEYERSDALE
+Somerset,MIDDLECREEK,U.S. Senate,,Lou Barletta,REP,296,,,Somerset County,MIDDLECREEK
+Somerset,MILFORD,U.S. Senate,,Lou Barletta,REP,494,,,Somerset County,MILFORD
+Somerset,NEW BALTIMORE,U.S. Senate,,Lou Barletta,REP,33,,,Somerset County,NEW BALTIMORE
+Somerset,NEW CENTERVILLE,U.S. Senate,,Lou Barletta,REP,74,,,Somerset County,NEW CENTERVILLE
+Somerset,NORTHAMPTON,U.S. Senate,,Lou Barletta,REP,124,,,Somerset County,NORTHAMPTON
+Somerset,OGLE,U.S. Senate,,Lou Barletta,REP,155,,,Somerset County,OGLE
+Somerset,PAINTX1,U.S. Senate,,Lou Barletta,REP,403,,,Somerset County,PAINTX1
+Somerset,PAINTX2,U.S. Senate,,Lou Barletta,REP,351,,,Somerset County,PAINTX2
+Somerset,PAINTX3,U.S. Senate,,Lou Barletta,REP,145,,,Somerset County,PAINTX3
+Somerset,PAINT,U.S. Senate,,Lou Barletta,REP,194,,,Somerset County,PAINT
+Somerset,QUEMAHONING,U.S. Senate,,Lou Barletta,REP,516,,,Somerset County,QUEMAHONING
+Somerset,ROCKWOOD,U.S. Senate,,Lou Barletta,REP,196,,,Somerset County,ROCKWOOD
+Somerset,SALISBURY,U.S. Senate,,Lou Barletta,REP,184,,,Somerset County,SALISBURY
+Somerset,SEVEN SPRINGS,U.S. Senate,,Lou Barletta,REP,2,,,Somerset County,SEVEN SPRINGS
+Somerset,SHADEX1,U.S. Senate,,Lou Barletta,REP,196,,,Somerset County,SHADEX1
+Somerset,SHADEX2,U.S. Senate,,Lou Barletta,REP,162,,,Somerset County,SHADEX2
+Somerset,SHADEX3,U.S. Senate,,Lou Barletta,REP,203,,,Somerset County,SHADEX3
+Somerset,SHANKSVILLE,U.S. Senate,,Lou Barletta,REP,58,,,Somerset County,SHANKSVILLE
+Somerset,SOMERSETX1,U.S. Senate,,Lou Barletta,REP,543,,,Somerset County,SOMERSETX1
+Somerset,SOMERSETX2,U.S. Senate,,Lou Barletta,REP,712,,,Somerset County,SOMERSETX2
+Somerset,SOMERSETX3,U.S. Senate,,Lou Barletta,REP,652,,,Somerset County,SOMERSETX3
+Somerset,SOMERSETX4,U.S. Senate,,Lou Barletta,REP,475,,,Somerset County,SOMERSETX4
+Somerset,SOMERSETXEAST,U.S. Senate,,Lou Barletta,REP,242,,,Somerset County,SOMERSETXEAST
+Somerset,SOMERSETXNORTH WEST,U.S. Senate,,Lou Barletta,REP,402,,,Somerset County,SOMERSETXNORTH WEST
+Somerset,SOMERSETXSOUTH WEST,U.S. Senate,,Lou Barletta,REP,658,,,Somerset County,SOMERSETXSOUTH WEST
+Somerset,SOUTHAMPTON,U.S. Senate,,Lou Barletta,REP,207,,,Somerset County,SOUTHAMPTON
+Somerset,STONYCREEK,U.S. Senate,,Lou Barletta,REP,746,,,Somerset County,STONYCREEK
+Somerset,STOYSTOWN,U.S. Senate,,Lou Barletta,REP,103,,,Somerset County,STOYSTOWN
+Somerset,SUMMIT,U.S. Senate,,Lou Barletta,REP,551,,,Somerset County,SUMMIT
+Somerset,UPPER TURKEYFOOT,U.S. Senate,,Lou Barletta,REP,413,,,Somerset County,UPPER TURKEYFOOT
+Somerset,URSINA,U.S. Senate,,Lou Barletta,REP,40,,,Somerset County,URSINA
+Somerset,WELLERSBURG,U.S. Senate,,Lou Barletta,REP,64,,,Somerset County,WELLERSBURG
+Somerset,WINDBERX1,U.S. Senate,,Lou Barletta,REP,167,,,Somerset County,WINDBERX1
+Somerset,WINDBERX2,U.S. Senate,,Lou Barletta,REP,241,,,Somerset County,WINDBERX2
+Somerset,WINDBERX3,U.S. Senate,,Lou Barletta,REP,137,,,Somerset County,WINDBERX3
+Somerset,WINDBERX4,U.S. Senate,,Lou Barletta,REP,128,,,Somerset County,WINDBERX4
+Somerset,ADDISON,U.S. Senate,,Neal Gale,GRN,2,,,Somerset County,ADDISON
+Somerset,ADDISON,U.S. Senate,,Neal Gale,GRN,1,,,Somerset County,ADDISON
+Somerset,ALLEGHENY,U.S. Senate,,Neal Gale,GRN,1,,,Somerset County,ALLEGHENY
+Somerset,BENSON,U.S. Senate,,Neal Gale,GRN,0,,,Somerset County,BENSON
+Somerset,BERLIN,U.S. Senate,,Neal Gale,GRN,5,,,Somerset County,BERLIN
+Somerset,BLACK,U.S. Senate,,Neal Gale,GRN,0,,,Somerset County,BLACK
+Somerset,BOSWELL,U.S. Senate,,Neal Gale,GRN,2,,,Somerset County,BOSWELL
+Somerset,BROTHERS VALLEY,U.S. Senate,,Neal Gale,GRN,3,,,Somerset County,BROTHERS VALLEY
+Somerset,CALLIMONT,U.S. Senate,,Neal Gale,GRN,0,,,Somerset County,CALLIMONT
+Somerset,CASSELMAN,U.S. Senate,,Neal Gale,GRN,0,,,Somerset County,CASSELMAN
+Somerset,CENTRAL CITY,U.S. Senate,,Neal Gale,GRN,1,,,Somerset County,CENTRAL CITY
+Somerset,CONEMAUGHX1,U.S. Senate,,Neal Gale,GRN,1,,,Somerset County,CONEMAUGHX1
+Somerset,CONEMAUGHX2,U.S. Senate,,Neal Gale,GRN,2,,,Somerset County,CONEMAUGHX2
+Somerset,CONEMAUGHX3,U.S. Senate,,Neal Gale,GRN,1,,,Somerset County,CONEMAUGHX3
+Somerset,CONEMAUGHX4,U.S. Senate,,Neal Gale,GRN,2,,,Somerset County,CONEMAUGHX4
+Somerset,CONEMAUGHX5,U.S. Senate,,Neal Gale,GRN,1,,,Somerset County,CONEMAUGHX5
+Somerset,CONFLUENCE,U.S. Senate,,Neal Gale,GRN,1,,,Somerset County,CONFLUENCE
+Somerset,ELK LICK,U.S. Senate,,Neal Gale,GRN,4,,,Somerset County,ELK LICK
+Somerset,FAIRHOPE,U.S. Senate,,Neal Gale,GRN,1,,,Somerset County,FAIRHOPE
+Somerset,GARRETT,U.S. Senate,,Neal Gale,GRN,0,,,Somerset County,GARRETT
+Somerset,GREENVILLE,U.S. Senate,,Neal Gale,GRN,1,,,Somerset County,GREENVILLE
+Somerset,HOOVERSVILLE,U.S. Senate,,Neal Gale,GRN,0,,,Somerset County,HOOVERSVILLE
+Somerset,INDIAN LAKE,U.S. Senate,,Neal Gale,GRN,1,,,Somerset County,INDIAN LAKE
+Somerset,JEFFERSON,U.S. Senate,,Neal Gale,GRN,1,,,Somerset County,JEFFERSON
+Somerset,JENNERX1,U.S. Senate,,Neal Gale,GRN,3,,,Somerset County,JENNERX1
+Somerset,JENNERX2,U.S. Senate,,Neal Gale,GRN,0,,,Somerset County,JENNERX2
+Somerset,JENNERX3,U.S. Senate,,Neal Gale,GRN,2,,,Somerset County,JENNERX3
+Somerset,JENNERSTOWN,U.S. Senate,,Neal Gale,GRN,1,,,Somerset County,JENNERSTOWN
+Somerset,LARIMER,U.S. Senate,,Neal Gale,GRN,0,,,Somerset County,LARIMER
+Somerset,LINCOLN,U.S. Senate,,Neal Gale,GRN,4,,,Somerset County,LINCOLN
+Somerset,LOWER TURKEYFOOT,U.S. Senate,,Neal Gale,GRN,2,,,Somerset County,LOWER TURKEYFOOT
+Somerset,MEYERSDALE,U.S. Senate,,Neal Gale,GRN,3,,,Somerset County,MEYERSDALE
+Somerset,MIDDLECREEK,U.S. Senate,,Neal Gale,GRN,2,,,Somerset County,MIDDLECREEK
+Somerset,MILFORD,U.S. Senate,,Neal Gale,GRN,2,,,Somerset County,MILFORD
+Somerset,NEW BALTIMORE,U.S. Senate,,Neal Gale,GRN,2,,,Somerset County,NEW BALTIMORE
+Somerset,NEW CENTERVILLE,U.S. Senate,,Neal Gale,GRN,0,,,Somerset County,NEW CENTERVILLE
+Somerset,NORTHAMPTON,U.S. Senate,,Neal Gale,GRN,0,,,Somerset County,NORTHAMPTON
+Somerset,OGLE,U.S. Senate,,Neal Gale,GRN,0,,,Somerset County,OGLE
+Somerset,PAINTX1,U.S. Senate,,Neal Gale,GRN,2,,,Somerset County,PAINTX1
+Somerset,PAINTX2,U.S. Senate,,Neal Gale,GRN,1,,,Somerset County,PAINTX2
+Somerset,PAINTX3,U.S. Senate,,Neal Gale,GRN,2,,,Somerset County,PAINTX3
+Somerset,PAINT,U.S. Senate,,Neal Gale,GRN,4,,,Somerset County,PAINT
+Somerset,QUEMAHONING,U.S. Senate,,Neal Gale,GRN,3,,,Somerset County,QUEMAHONING
+Somerset,ROCKWOOD,U.S. Senate,,Neal Gale,GRN,4,,,Somerset County,ROCKWOOD
+Somerset,SALISBURY,U.S. Senate,,Neal Gale,GRN,2,,,Somerset County,SALISBURY
+Somerset,SEVEN SPRINGS,U.S. Senate,,Neal Gale,GRN,0,,,Somerset County,SEVEN SPRINGS
+Somerset,SHADEX1,U.S. Senate,,Neal Gale,GRN,1,,,Somerset County,SHADEX1
+Somerset,SHADEX2,U.S. Senate,,Neal Gale,GRN,1,,,Somerset County,SHADEX2
+Somerset,SHADEX3,U.S. Senate,,Neal Gale,GRN,1,,,Somerset County,SHADEX3
+Somerset,SHANKSVILLE,U.S. Senate,,Neal Gale,GRN,1,,,Somerset County,SHANKSVILLE
+Somerset,SOMERSETX1,U.S. Senate,,Neal Gale,GRN,7,,,Somerset County,SOMERSETX1
+Somerset,SOMERSETX2,U.S. Senate,,Neal Gale,GRN,11,,,Somerset County,SOMERSETX2
+Somerset,SOMERSETX3,U.S. Senate,,Neal Gale,GRN,1,,,Somerset County,SOMERSETX3
+Somerset,SOMERSETX4,U.S. Senate,,Neal Gale,GRN,2,,,Somerset County,SOMERSETX4
+Somerset,SOMERSETXEAST,U.S. Senate,,Neal Gale,GRN,1,,,Somerset County,SOMERSETXEAST
+Somerset,SOMERSETXNORTH WEST,U.S. Senate,,Neal Gale,GRN,6,,,Somerset County,SOMERSETXNORTH WEST
+Somerset,SOMERSETXSOUTH WEST,U.S. Senate,,Neal Gale,GRN,7,,,Somerset County,SOMERSETXSOUTH WEST
+Somerset,SOUTHAMPTON,U.S. Senate,,Neal Gale,GRN,0,,,Somerset County,SOUTHAMPTON
+Somerset,STONYCREEK,U.S. Senate,,Neal Gale,GRN,4,,,Somerset County,STONYCREEK
+Somerset,STOYSTOWN,U.S. Senate,,Neal Gale,GRN,1,,,Somerset County,STOYSTOWN
+Somerset,SUMMIT,U.S. Senate,,Neal Gale,GRN,3,,,Somerset County,SUMMIT
+Somerset,UPPER TURKEYFOOT,U.S. Senate,,Neal Gale,GRN,5,,,Somerset County,UPPER TURKEYFOOT
+Somerset,URSINA,U.S. Senate,,Neal Gale,GRN,1,,,Somerset County,URSINA
+Somerset,WELLERSBURG,U.S. Senate,,Neal Gale,GRN,0,,,Somerset County,WELLERSBURG
+Somerset,WINDBERX1,U.S. Senate,,Neal Gale,GRN,1,,,Somerset County,WINDBERX1
+Somerset,WINDBERX2,U.S. Senate,,Neal Gale,GRN,0,,,Somerset County,WINDBERX2
+Somerset,WINDBERX3,U.S. Senate,,Neal Gale,GRN,3,,,Somerset County,WINDBERX3
+Somerset,WINDBERX4,U.S. Senate,,Neal Gale,GRN,2,,,Somerset County,WINDBERX4
+Somerset,ADDISON,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Somerset County,ADDISON
+Somerset,ADDISON,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Somerset County,ADDISON
+Somerset,ALLEGHENY,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Somerset County,ALLEGHENY
+Somerset,BENSON,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Somerset County,BENSON
+Somerset,BERLIN,U.S. Senate,,Dale R. Kerns Jr.,LIB,8,,,Somerset County,BERLIN
+Somerset,BLACK,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Somerset County,BLACK
+Somerset,BOSWELL,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Somerset County,BOSWELL
+Somerset,BROTHERS VALLEY,U.S. Senate,,Dale R. Kerns Jr.,LIB,12,,,Somerset County,BROTHERS VALLEY
+Somerset,CALLIMONT,U.S. Senate,,Dale R. Kerns Jr.,LIB,0,,,Somerset County,CALLIMONT
+Somerset,CASSELMAN,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Somerset County,CASSELMAN
+Somerset,CENTRAL CITY,U.S. Senate,,Dale R. Kerns Jr.,LIB,6,,,Somerset County,CENTRAL CITY
+Somerset,CONEMAUGHX1,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Somerset County,CONEMAUGHX1
+Somerset,CONEMAUGHX2,U.S. Senate,,Dale R. Kerns Jr.,LIB,10,,,Somerset County,CONEMAUGHX2
+Somerset,CONEMAUGHX3,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Somerset County,CONEMAUGHX3
+Somerset,CONEMAUGHX4,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Somerset County,CONEMAUGHX4
+Somerset,CONEMAUGHX5,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Somerset County,CONEMAUGHX5
+Somerset,CONFLUENCE,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Somerset County,CONFLUENCE
+Somerset,ELK LICK,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Somerset County,ELK LICK
+Somerset,FAIRHOPE,U.S. Senate,,Dale R. Kerns Jr.,LIB,0,,,Somerset County,FAIRHOPE
+Somerset,GARRETT,U.S. Senate,,Dale R. Kerns Jr.,LIB,0,,,Somerset County,GARRETT
+Somerset,GREENVILLE,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Somerset County,GREENVILLE
+Somerset,HOOVERSVILLE,U.S. Senate,,Dale R. Kerns Jr.,LIB,0,,,Somerset County,HOOVERSVILLE
+Somerset,INDIAN LAKE,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Somerset County,INDIAN LAKE
+Somerset,JEFFERSON,U.S. Senate,,Dale R. Kerns Jr.,LIB,10,,,Somerset County,JEFFERSON
+Somerset,JENNERX1,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Somerset County,JENNERX1
+Somerset,JENNERX2,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Somerset County,JENNERX2
+Somerset,JENNERX3,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Somerset County,JENNERX3
+Somerset,JENNERSTOWN,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Somerset County,JENNERSTOWN
+Somerset,LARIMER,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Somerset County,LARIMER
+Somerset,LINCOLN,U.S. Senate,,Dale R. Kerns Jr.,LIB,11,,,Somerset County,LINCOLN
+Somerset,LOWER TURKEYFOOT,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Somerset County,LOWER TURKEYFOOT
+Somerset,MEYERSDALE,U.S. Senate,,Dale R. Kerns Jr.,LIB,9,,,Somerset County,MEYERSDALE
+Somerset,MIDDLECREEK,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Somerset County,MIDDLECREEK
+Somerset,MILFORD,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Somerset County,MILFORD
+Somerset,NEW BALTIMORE,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Somerset County,NEW BALTIMORE
+Somerset,NEW CENTERVILLE,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Somerset County,NEW CENTERVILLE
+Somerset,NORTHAMPTON,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Somerset County,NORTHAMPTON
+Somerset,OGLE,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Somerset County,OGLE
+Somerset,PAINTX1,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Somerset County,PAINTX1
+Somerset,PAINTX2,U.S. Senate,,Dale R. Kerns Jr.,LIB,7,,,Somerset County,PAINTX2
+Somerset,PAINTX3,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Somerset County,PAINTX3
+Somerset,PAINT,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Somerset County,PAINT
+Somerset,QUEMAHONING,U.S. Senate,,Dale R. Kerns Jr.,LIB,6,,,Somerset County,QUEMAHONING
+Somerset,ROCKWOOD,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Somerset County,ROCKWOOD
+Somerset,SALISBURY,U.S. Senate,,Dale R. Kerns Jr.,LIB,3,,,Somerset County,SALISBURY
+Somerset,SEVEN SPRINGS,U.S. Senate,,Dale R. Kerns Jr.,LIB,0,,,Somerset County,SEVEN SPRINGS
+Somerset,SHADEX1,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Somerset County,SHADEX1
+Somerset,SHADEX2,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Somerset County,SHADEX2
+Somerset,SHADEX3,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Somerset County,SHADEX3
+Somerset,SHANKSVILLE,U.S. Senate,,Dale R. Kerns Jr.,LIB,0,,,Somerset County,SHANKSVILLE
+Somerset,SOMERSETX1,U.S. Senate,,Dale R. Kerns Jr.,LIB,10,,,Somerset County,SOMERSETX1
+Somerset,SOMERSETX2,U.S. Senate,,Dale R. Kerns Jr.,LIB,6,,,Somerset County,SOMERSETX2
+Somerset,SOMERSETX3,U.S. Senate,,Dale R. Kerns Jr.,LIB,6,,,Somerset County,SOMERSETX3
+Somerset,SOMERSETX4,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Somerset County,SOMERSETX4
+Somerset,SOMERSETXEAST,U.S. Senate,,Dale R. Kerns Jr.,LIB,6,,,Somerset County,SOMERSETXEAST
+Somerset,SOMERSETXNORTH WEST,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Somerset County,SOMERSETXNORTH WEST
+Somerset,SOMERSETXSOUTH WEST,U.S. Senate,,Dale R. Kerns Jr.,LIB,12,,,Somerset County,SOMERSETXSOUTH WEST
+Somerset,SOUTHAMPTON,U.S. Senate,,Dale R. Kerns Jr.,LIB,1,,,Somerset County,SOUTHAMPTON
+Somerset,STONYCREEK,U.S. Senate,,Dale R. Kerns Jr.,LIB,12,,,Somerset County,STONYCREEK
+Somerset,STOYSTOWN,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Somerset County,STOYSTOWN
+Somerset,SUMMIT,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Somerset County,SUMMIT
+Somerset,UPPER TURKEYFOOT,U.S. Senate,,Dale R. Kerns Jr.,LIB,7,,,Somerset County,UPPER TURKEYFOOT
+Somerset,URSINA,U.S. Senate,,Dale R. Kerns Jr.,LIB,2,,,Somerset County,URSINA
+Somerset,WELLERSBURG,U.S. Senate,,Dale R. Kerns Jr.,LIB,0,,,Somerset County,WELLERSBURG
+Somerset,WINDBERX1,U.S. Senate,,Dale R. Kerns Jr.,LIB,6,,,Somerset County,WINDBERX1
+Somerset,WINDBERX2,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Somerset County,WINDBERX2
+Somerset,WINDBERX3,U.S. Senate,,Dale R. Kerns Jr.,LIB,4,,,Somerset County,WINDBERX3
+Somerset,WINDBERX4,U.S. Senate,,Dale R. Kerns Jr.,LIB,5,,,Somerset County,WINDBERX4
+Somerset,ADDISON,Governor,,Tom Wolf,DEM,117,,,Somerset County,ADDISON
+Somerset,ADDISON,Governor,,Tom Wolf,DEM,22,,,Somerset County,ADDISON
+Somerset,ALLEGHENY,Governor,,Tom Wolf,DEM,80,,,Somerset County,ALLEGHENY
+Somerset,BENSON,Governor,,Tom Wolf,DEM,37,,,Somerset County,BENSON
+Somerset,BERLIN,Governor,,Tom Wolf,DEM,236,,,Somerset County,BERLIN
+Somerset,BLACK,Governor,,Tom Wolf,DEM,79,,,Somerset County,BLACK
+Somerset,BOSWELL,Governor,,Tom Wolf,DEM,179,,,Somerset County,BOSWELL
+Somerset,BROTHERS VALLEY,Governor,,Tom Wolf,DEM,218,,,Somerset County,BROTHERS VALLEY
+Somerset,CALLIMONT,Governor,,Tom Wolf,DEM,6,,,Somerset County,CALLIMONT
+Somerset,CASSELMAN,Governor,,Tom Wolf,DEM,10,,,Somerset County,CASSELMAN
+Somerset,CENTRAL CITY,Governor,,Tom Wolf,DEM,139,,,Somerset County,CENTRAL CITY
+Somerset,CONEMAUGHX1,Governor,,Tom Wolf,DEM,353,,,Somerset County,CONEMAUGHX1
+Somerset,CONEMAUGHX2,Governor,,Tom Wolf,DEM,263,,,Somerset County,CONEMAUGHX2
+Somerset,CONEMAUGHX3,Governor,,Tom Wolf,DEM,232,,,Somerset County,CONEMAUGHX3
+Somerset,CONEMAUGHX4,Governor,,Tom Wolf,DEM,225,,,Somerset County,CONEMAUGHX4
+Somerset,CONEMAUGHX5,Governor,,Tom Wolf,DEM,78,,,Somerset County,CONEMAUGHX5
+Somerset,CONFLUENCE,Governor,,Tom Wolf,DEM,99,,,Somerset County,CONFLUENCE
+Somerset,ELK LICK,Governor,,Tom Wolf,DEM,128,,,Somerset County,ELK LICK
+Somerset,FAIRHOPE,Governor,,Tom Wolf,DEM,11,,,Somerset County,FAIRHOPE
+Somerset,GARRETT,Governor,,Tom Wolf,DEM,54,,,Somerset County,GARRETT
+Somerset,GREENVILLE,Governor,,Tom Wolf,DEM,66,,,Somerset County,GREENVILLE
+Somerset,HOOVERSVILLE,Governor,,Tom Wolf,DEM,83,,,Somerset County,HOOVERSVILLE
+Somerset,INDIAN LAKE,Governor,,Tom Wolf,DEM,72,,,Somerset County,INDIAN LAKE
+Somerset,JEFFERSON,Governor,,Tom Wolf,DEM,216,,,Somerset County,JEFFERSON
+Somerset,JENNERX1,Governor,,Tom Wolf,DEM,243,,,Somerset County,JENNERX1
+Somerset,JENNERX2,Governor,,Tom Wolf,DEM,122,,,Somerset County,JENNERX2
+Somerset,JENNERX3,Governor,,Tom Wolf,DEM,77,,,Somerset County,JENNERX3
+Somerset,JENNERSTOWN,Governor,,Tom Wolf,DEM,107,,,Somerset County,JENNERSTOWN
+Somerset,LARIMER,Governor,,Tom Wolf,DEM,40,,,Somerset County,LARIMER
+Somerset,LINCOLN,Governor,,Tom Wolf,DEM,173,,,Somerset County,LINCOLN
+Somerset,LOWER TURKEYFOOT,Governor,,Tom Wolf,DEM,43,,,Somerset County,LOWER TURKEYFOOT
+Somerset,MEYERSDALE,Governor,,Tom Wolf,DEM,270,,,Somerset County,MEYERSDALE
+Somerset,MIDDLECREEK,Governor,,Tom Wolf,DEM,107,,,Somerset County,MIDDLECREEK
+Somerset,MILFORD,Governor,,Tom Wolf,DEM,181,,,Somerset County,MILFORD
+Somerset,NEW BALTIMORE,Governor,,Tom Wolf,DEM,40,,,Somerset County,NEW BALTIMORE
+Somerset,NEW CENTERVILLE,Governor,,Tom Wolf,DEM,29,,,Somerset County,NEW CENTERVILLE
+Somerset,NORTHAMPTON,Governor,,Tom Wolf,DEM,40,,,Somerset County,NORTHAMPTON
+Somerset,OGLE,Governor,,Tom Wolf,DEM,62,,,Somerset County,OGLE
+Somerset,PAINTX1,Governor,,Tom Wolf,DEM,193,,,Somerset County,PAINTX1
+Somerset,PAINTX2,Governor,,Tom Wolf,DEM,246,,,Somerset County,PAINTX2
+Somerset,PAINTX3,Governor,,Tom Wolf,DEM,59,,,Somerset County,PAINTX3
+Somerset,PAINT,Governor,,Tom Wolf,DEM,138,,,Somerset County,PAINT
+Somerset,QUEMAHONING,Governor,,Tom Wolf,DEM,214,,,Somerset County,QUEMAHONING
+Somerset,ROCKWOOD,Governor,,Tom Wolf,DEM,76,,,Somerset County,ROCKWOOD
+Somerset,SALISBURY,Governor,,Tom Wolf,DEM,88,,,Somerset County,SALISBURY
+Somerset,SEVEN SPRINGS,Governor,,Tom Wolf,DEM,2,,,Somerset County,SEVEN SPRINGS
+Somerset,SHADEX1,Governor,,Tom Wolf,DEM,67,,,Somerset County,SHADEX1
+Somerset,SHADEX2,Governor,,Tom Wolf,DEM,153,,,Somerset County,SHADEX2
+Somerset,SHADEX3,Governor,,Tom Wolf,DEM,155,,,Somerset County,SHADEX3
+Somerset,SHANKSVILLE,Governor,,Tom Wolf,DEM,17,,,Somerset County,SHANKSVILLE
+Somerset,SOMERSETX1,Governor,,Tom Wolf,DEM,225,,,Somerset County,SOMERSETX1
+Somerset,SOMERSETX2,Governor,,Tom Wolf,DEM,274,,,Somerset County,SOMERSETX2
+Somerset,SOMERSETX3,Governor,,Tom Wolf,DEM,290,,,Somerset County,SOMERSETX3
+Somerset,SOMERSETX4,Governor,,Tom Wolf,DEM,197,,,Somerset County,SOMERSETX4
+Somerset,SOMERSETXEAST,Governor,,Tom Wolf,DEM,144,,,Somerset County,SOMERSETXEAST
+Somerset,SOMERSETXNORTH WEST,Governor,,Tom Wolf,DEM,192,,,Somerset County,SOMERSETXNORTH WEST
+Somerset,SOMERSETXSOUTH WEST,Governor,,Tom Wolf,DEM,489,,,Somerset County,SOMERSETXSOUTH WEST
+Somerset,SOUTHAMPTON,Governor,,Tom Wolf,DEM,43,,,Somerset County,SOUTHAMPTON
+Somerset,STONYCREEK,Governor,,Tom Wolf,DEM,205,,,Somerset County,STONYCREEK
+Somerset,STOYSTOWN,Governor,,Tom Wolf,DEM,51,,,Somerset County,STOYSTOWN
+Somerset,SUMMIT,Governor,,Tom Wolf,DEM,228,,,Somerset County,SUMMIT
+Somerset,UPPER TURKEYFOOT,Governor,,Tom Wolf,DEM,105,,,Somerset County,UPPER TURKEYFOOT
+Somerset,URSINA,Governor,,Tom Wolf,DEM,21,,,Somerset County,URSINA
+Somerset,WELLERSBURG,Governor,,Tom Wolf,DEM,14,,,Somerset County,WELLERSBURG
+Somerset,WINDBERX1,Governor,,Tom Wolf,DEM,179,,,Somerset County,WINDBERX1
+Somerset,WINDBERX2,Governor,,Tom Wolf,DEM,232,,,Somerset County,WINDBERX2
+Somerset,WINDBERX3,Governor,,Tom Wolf,DEM,151,,,Somerset County,WINDBERX3
+Somerset,WINDBERX4,Governor,,Tom Wolf,DEM,153,,,Somerset County,WINDBERX4
+Somerset,ADDISON,Governor,,Scott R. Wagner,REP,230,,,Somerset County,ADDISON
+Somerset,ADDISON,Governor,,Scott R. Wagner,REP,52,,,Somerset County,ADDISON
+Somerset,ALLEGHENY,Governor,,Scott R. Wagner,REP,215,,,Somerset County,ALLEGHENY
+Somerset,BENSON,Governor,,Scott R. Wagner,REP,32,,,Somerset County,BENSON
+Somerset,BERLIN,Governor,,Scott R. Wagner,REP,523,,,Somerset County,BERLIN
+Somerset,BLACK,Governor,,Scott R. Wagner,REP,273,,,Somerset County,BLACK
+Somerset,BOSWELL,Governor,,Scott R. Wagner,REP,242,,,Somerset County,BOSWELL
+Somerset,BROTHERS VALLEY,Governor,,Scott R. Wagner,REP,789,,,Somerset County,BROTHERS VALLEY
+Somerset,CALLIMONT,Governor,,Scott R. Wagner,REP,15,,,Somerset County,CALLIMONT
+Somerset,CASSELMAN,Governor,,Scott R. Wagner,REP,24,,,Somerset County,CASSELMAN
+Somerset,CENTRAL CITY,Governor,,Scott R. Wagner,REP,196,,,Somerset County,CENTRAL CITY
+Somerset,CONEMAUGHX1,Governor,,Scott R. Wagner,REP,554,,,Somerset County,CONEMAUGHX1
+Somerset,CONEMAUGHX2,Governor,,Scott R. Wagner,REP,423,,,Somerset County,CONEMAUGHX2
+Somerset,CONEMAUGHX3,Governor,,Scott R. Wagner,REP,383,,,Somerset County,CONEMAUGHX3
+Somerset,CONEMAUGHX4,Governor,,Scott R. Wagner,REP,426,,,Somerset County,CONEMAUGHX4
+Somerset,CONEMAUGHX5,Governor,,Scott R. Wagner,REP,147,,,Somerset County,CONEMAUGHX5
+Somerset,CONFLUENCE,Governor,,Scott R. Wagner,REP,130,,,Somerset County,CONFLUENCE
+Somerset,ELK LICK,Governor,,Scott R. Wagner,REP,425,,,Somerset County,ELK LICK
+Somerset,FAIRHOPE,Governor,,Scott R. Wagner,REP,38,,,Somerset County,FAIRHOPE
+Somerset,GARRETT,Governor,,Scott R. Wagner,REP,75,,,Somerset County,GARRETT
+Somerset,GREENVILLE,Governor,,Scott R. Wagner,REP,167,,,Somerset County,GREENVILLE
+Somerset,HOOVERSVILLE,Governor,,Scott R. Wagner,REP,163,,,Somerset County,HOOVERSVILLE
+Somerset,INDIAN LAKE,Governor,,Scott R. Wagner,REP,182,,,Somerset County,INDIAN LAKE
+Somerset,JEFFERSON,Governor,,Scott R. Wagner,REP,467,,,Somerset County,JEFFERSON
+Somerset,JENNERX1,Governor,,Scott R. Wagner,REP,503,,,Somerset County,JENNERX1
+Somerset,JENNERX2,Governor,,Scott R. Wagner,REP,338,,,Somerset County,JENNERX2
+Somerset,JENNERX3,Governor,,Scott R. Wagner,REP,229,,,Somerset County,JENNERX3
+Somerset,JENNERSTOWN,Governor,,Scott R. Wagner,REP,208,,,Somerset County,JENNERSTOWN
+Somerset,LARIMER,Governor,,Scott R. Wagner,REP,193,,,Somerset County,LARIMER
+Somerset,LINCOLN,Governor,,Scott R. Wagner,REP,504,,,Somerset County,LINCOLN
+Somerset,LOWER TURKEYFOOT,Governor,,Scott R. Wagner,REP,128,,,Somerset County,LOWER TURKEYFOOT
+Somerset,MEYERSDALE,Governor,,Scott R. Wagner,REP,437,,,Somerset County,MEYERSDALE
+Somerset,MIDDLECREEK,Governor,,Scott R. Wagner,REP,291,,,Somerset County,MIDDLECREEK
+Somerset,MILFORD,Governor,,Scott R. Wagner,REP,501,,,Somerset County,MILFORD
+Somerset,NEW BALTIMORE,Governor,,Scott R. Wagner,REP,33,,,Somerset County,NEW BALTIMORE
+Somerset,NEW CENTERVILLE,Governor,,Scott R. Wagner,REP,72,,,Somerset County,NEW CENTERVILLE
+Somerset,NORTHAMPTON,Governor,,Scott R. Wagner,REP,128,,,Somerset County,NORTHAMPTON
+Somerset,OGLE,Governor,,Scott R. Wagner,REP,149,,,Somerset County,OGLE
+Somerset,PAINTX1,Governor,,Scott R. Wagner,REP,399,,,Somerset County,PAINTX1
+Somerset,PAINTX2,Governor,,Scott R. Wagner,REP,360,,,Somerset County,PAINTX2
+Somerset,PAINTX3,Governor,,Scott R. Wagner,REP,144,,,Somerset County,PAINTX3
+Somerset,PAINT,Governor,,Scott R. Wagner,REP,188,,,Somerset County,PAINT
+Somerset,QUEMAHONING,Governor,,Scott R. Wagner,REP,523,,,Somerset County,QUEMAHONING
+Somerset,ROCKWOOD,Governor,,Scott R. Wagner,REP,208,,,Somerset County,ROCKWOOD
+Somerset,SALISBURY,Governor,,Scott R. Wagner,REP,183,,,Somerset County,SALISBURY
+Somerset,SEVEN SPRINGS,Governor,,Scott R. Wagner,REP,4,,,Somerset County,SEVEN SPRINGS
+Somerset,SHADEX1,Governor,,Scott R. Wagner,REP,194,,,Somerset County,SHADEX1
+Somerset,SHADEX2,Governor,,Scott R. Wagner,REP,165,,,Somerset County,SHADEX2
+Somerset,SHADEX3,Governor,,Scott R. Wagner,REP,213,,,Somerset County,SHADEX3
+Somerset,SHANKSVILLE,Governor,,Scott R. Wagner,REP,62,,,Somerset County,SHANKSVILLE
+Somerset,SOMERSETX1,Governor,,Scott R. Wagner,REP,554,,,Somerset County,SOMERSETX1
+Somerset,SOMERSETX2,Governor,,Scott R. Wagner,REP,723,,,Somerset County,SOMERSETX2
+Somerset,SOMERSETX3,Governor,,Scott R. Wagner,REP,666,,,Somerset County,SOMERSETX3
+Somerset,SOMERSETX4,Governor,,Scott R. Wagner,REP,471,,,Somerset County,SOMERSETX4
+Somerset,SOMERSETXEAST,Governor,,Scott R. Wagner,REP,249,,,Somerset County,SOMERSETXEAST
+Somerset,SOMERSETXNORTH WEST,Governor,,Scott R. Wagner,REP,385,,,Somerset County,SOMERSETXNORTH WEST
+Somerset,SOMERSETXSOUTH WEST,Governor,,Scott R. Wagner,REP,661,,,Somerset County,SOMERSETXSOUTH WEST
+Somerset,SOUTHAMPTON,Governor,,Scott R. Wagner,REP,206,,,Somerset County,SOUTHAMPTON
+Somerset,STONYCREEK,Governor,,Scott R. Wagner,REP,729,,,Somerset County,STONYCREEK
+Somerset,STOYSTOWN,Governor,,Scott R. Wagner,REP,106,,,Somerset County,STOYSTOWN
+Somerset,SUMMIT,Governor,,Scott R. Wagner,REP,549,,,Somerset County,SUMMIT
+Somerset,UPPER TURKEYFOOT,Governor,,Scott R. Wagner,REP,407,,,Somerset County,UPPER TURKEYFOOT
+Somerset,URSINA,Governor,,Scott R. Wagner,REP,44,,,Somerset County,URSINA
+Somerset,WELLERSBURG,Governor,,Scott R. Wagner,REP,66,,,Somerset County,WELLERSBURG
+Somerset,WINDBERX1,Governor,,Scott R. Wagner,REP,167,,,Somerset County,WINDBERX1
+Somerset,WINDBERX2,Governor,,Scott R. Wagner,REP,240,,,Somerset County,WINDBERX2
+Somerset,WINDBERX3,Governor,,Scott R. Wagner,REP,134,,,Somerset County,WINDBERX3
+Somerset,WINDBERX4,Governor,,Scott R. Wagner,REP,135,,,Somerset County,WINDBERX4
+Somerset,ADDISON,Governor,,Paul Glover,GRN,2,,,Somerset County,ADDISON
+Somerset,ADDISON,Governor,,Paul Glover,GRN,0,,,Somerset County,ADDISON
+Somerset,ALLEGHENY,Governor,,Paul Glover,GRN,2,,,Somerset County,ALLEGHENY
+Somerset,BENSON,Governor,,Paul Glover,GRN,0,,,Somerset County,BENSON
+Somerset,BERLIN,Governor,,Paul Glover,GRN,5,,,Somerset County,BERLIN
+Somerset,BLACK,Governor,,Paul Glover,GRN,0,,,Somerset County,BLACK
+Somerset,BOSWELL,Governor,,Paul Glover,GRN,5,,,Somerset County,BOSWELL
+Somerset,BROTHERS VALLEY,Governor,,Paul Glover,GRN,5,,,Somerset County,BROTHERS VALLEY
+Somerset,CALLIMONT,Governor,,Paul Glover,GRN,0,,,Somerset County,CALLIMONT
+Somerset,CASSELMAN,Governor,,Paul Glover,GRN,0,,,Somerset County,CASSELMAN
+Somerset,CENTRAL CITY,Governor,,Paul Glover,GRN,1,,,Somerset County,CENTRAL CITY
+Somerset,CONEMAUGHX1,Governor,,Paul Glover,GRN,3,,,Somerset County,CONEMAUGHX1
+Somerset,CONEMAUGHX2,Governor,,Paul Glover,GRN,7,,,Somerset County,CONEMAUGHX2
+Somerset,CONEMAUGHX3,Governor,,Paul Glover,GRN,5,,,Somerset County,CONEMAUGHX3
+Somerset,CONEMAUGHX4,Governor,,Paul Glover,GRN,0,,,Somerset County,CONEMAUGHX4
+Somerset,CONEMAUGHX5,Governor,,Paul Glover,GRN,2,,,Somerset County,CONEMAUGHX5
+Somerset,CONFLUENCE,Governor,,Paul Glover,GRN,4,,,Somerset County,CONFLUENCE
+Somerset,ELK LICK,Governor,,Paul Glover,GRN,6,,,Somerset County,ELK LICK
+Somerset,FAIRHOPE,Governor,,Paul Glover,GRN,2,,,Somerset County,FAIRHOPE
+Somerset,GARRETT,Governor,,Paul Glover,GRN,2,,,Somerset County,GARRETT
+Somerset,GREENVILLE,Governor,,Paul Glover,GRN,3,,,Somerset County,GREENVILLE
+Somerset,HOOVERSVILLE,Governor,,Paul Glover,GRN,2,,,Somerset County,HOOVERSVILLE
+Somerset,INDIAN LAKE,Governor,,Paul Glover,GRN,1,,,Somerset County,INDIAN LAKE
+Somerset,JEFFERSON,Governor,,Paul Glover,GRN,2,,,Somerset County,JEFFERSON
+Somerset,JENNERX1,Governor,,Paul Glover,GRN,5,,,Somerset County,JENNERX1
+Somerset,JENNERX2,Governor,,Paul Glover,GRN,2,,,Somerset County,JENNERX2
+Somerset,JENNERX3,Governor,,Paul Glover,GRN,4,,,Somerset County,JENNERX3
+Somerset,JENNERSTOWN,Governor,,Paul Glover,GRN,1,,,Somerset County,JENNERSTOWN
+Somerset,LARIMER,Governor,,Paul Glover,GRN,3,,,Somerset County,LARIMER
+Somerset,LINCOLN,Governor,,Paul Glover,GRN,6,,,Somerset County,LINCOLN
+Somerset,LOWER TURKEYFOOT,Governor,,Paul Glover,GRN,1,,,Somerset County,LOWER TURKEYFOOT
+Somerset,MEYERSDALE,Governor,,Paul Glover,GRN,4,,,Somerset County,MEYERSDALE
+Somerset,MIDDLECREEK,Governor,,Paul Glover,GRN,4,,,Somerset County,MIDDLECREEK
+Somerset,MILFORD,Governor,,Paul Glover,GRN,4,,,Somerset County,MILFORD
+Somerset,NEW BALTIMORE,Governor,,Paul Glover,GRN,1,,,Somerset County,NEW BALTIMORE
+Somerset,NEW CENTERVILLE,Governor,,Paul Glover,GRN,1,,,Somerset County,NEW CENTERVILLE
+Somerset,NORTHAMPTON,Governor,,Paul Glover,GRN,1,,,Somerset County,NORTHAMPTON
+Somerset,OGLE,Governor,,Paul Glover,GRN,0,,,Somerset County,OGLE
+Somerset,PAINTX1,Governor,,Paul Glover,GRN,3,,,Somerset County,PAINTX1
+Somerset,PAINTX2,Governor,,Paul Glover,GRN,5,,,Somerset County,PAINTX2
+Somerset,PAINTX3,Governor,,Paul Glover,GRN,0,,,Somerset County,PAINTX3
+Somerset,PAINT,Governor,,Paul Glover,GRN,1,,,Somerset County,PAINT
+Somerset,QUEMAHONING,Governor,,Paul Glover,GRN,5,,,Somerset County,QUEMAHONING
+Somerset,ROCKWOOD,Governor,,Paul Glover,GRN,2,,,Somerset County,ROCKWOOD
+Somerset,SALISBURY,Governor,,Paul Glover,GRN,2,,,Somerset County,SALISBURY
+Somerset,SEVEN SPRINGS,Governor,,Paul Glover,GRN,0,,,Somerset County,SEVEN SPRINGS
+Somerset,SHADEX1,Governor,,Paul Glover,GRN,6,,,Somerset County,SHADEX1
+Somerset,SHADEX2,Governor,,Paul Glover,GRN,6,,,Somerset County,SHADEX2
+Somerset,SHADEX3,Governor,,Paul Glover,GRN,3,,,Somerset County,SHADEX3
+Somerset,SHANKSVILLE,Governor,,Paul Glover,GRN,0,,,Somerset County,SHANKSVILLE
+Somerset,SOMERSETX1,Governor,,Paul Glover,GRN,11,,,Somerset County,SOMERSETX1
+Somerset,SOMERSETX2,Governor,,Paul Glover,GRN,12,,,Somerset County,SOMERSETX2
+Somerset,SOMERSETX3,Governor,,Paul Glover,GRN,3,,,Somerset County,SOMERSETX3
+Somerset,SOMERSETX4,Governor,,Paul Glover,GRN,4,,,Somerset County,SOMERSETX4
+Somerset,SOMERSETXEAST,Governor,,Paul Glover,GRN,1,,,Somerset County,SOMERSETXEAST
+Somerset,SOMERSETXNORTH WEST,Governor,,Paul Glover,GRN,7,,,Somerset County,SOMERSETXNORTH WEST
+Somerset,SOMERSETXSOUTH WEST,Governor,,Paul Glover,GRN,5,,,Somerset County,SOMERSETXSOUTH WEST
+Somerset,SOUTHAMPTON,Governor,,Paul Glover,GRN,0,,,Somerset County,SOUTHAMPTON
+Somerset,STONYCREEK,Governor,,Paul Glover,GRN,7,,,Somerset County,STONYCREEK
+Somerset,STOYSTOWN,Governor,,Paul Glover,GRN,0,,,Somerset County,STOYSTOWN
+Somerset,SUMMIT,Governor,,Paul Glover,GRN,10,,,Somerset County,SUMMIT
+Somerset,UPPER TURKEYFOOT,Governor,,Paul Glover,GRN,5,,,Somerset County,UPPER TURKEYFOOT
+Somerset,URSINA,Governor,,Paul Glover,GRN,0,,,Somerset County,URSINA
+Somerset,WELLERSBURG,Governor,,Paul Glover,GRN,0,,,Somerset County,WELLERSBURG
+Somerset,WINDBERX1,Governor,,Paul Glover,GRN,2,,,Somerset County,WINDBERX1
+Somerset,WINDBERX2,Governor,,Paul Glover,GRN,3,,,Somerset County,WINDBERX2
+Somerset,WINDBERX3,Governor,,Paul Glover,GRN,3,,,Somerset County,WINDBERX3
+Somerset,WINDBERX4,Governor,,Paul Glover,GRN,2,,,Somerset County,WINDBERX4
+Somerset,ADDISON,Governor,,Ken V. Krawchuk,LIB,4,,,Somerset County,ADDISON
+Somerset,ADDISON,Governor,,Ken V. Krawchuk,LIB,3,,,Somerset County,ADDISON
+Somerset,ALLEGHENY,Governor,,Ken V. Krawchuk,LIB,4,,,Somerset County,ALLEGHENY
+Somerset,BENSON,Governor,,Ken V. Krawchuk,LIB,1,,,Somerset County,BENSON
+Somerset,BERLIN,Governor,,Ken V. Krawchuk,LIB,12,,,Somerset County,BERLIN
+Somerset,BLACK,Governor,,Ken V. Krawchuk,LIB,4,,,Somerset County,BLACK
+Somerset,BOSWELL,Governor,,Ken V. Krawchuk,LIB,12,,,Somerset County,BOSWELL
+Somerset,BROTHERS VALLEY,Governor,,Ken V. Krawchuk,LIB,15,,,Somerset County,BROTHERS VALLEY
+Somerset,CALLIMONT,Governor,,Ken V. Krawchuk,LIB,0,,,Somerset County,CALLIMONT
+Somerset,CASSELMAN,Governor,,Ken V. Krawchuk,LIB,0,,,Somerset County,CASSELMAN
+Somerset,CENTRAL CITY,Governor,,Ken V. Krawchuk,LIB,3,,,Somerset County,CENTRAL CITY
+Somerset,CONEMAUGHX1,Governor,,Ken V. Krawchuk,LIB,13,,,Somerset County,CONEMAUGHX1
+Somerset,CONEMAUGHX2,Governor,,Ken V. Krawchuk,LIB,8,,,Somerset County,CONEMAUGHX2
+Somerset,CONEMAUGHX3,Governor,,Ken V. Krawchuk,LIB,6,,,Somerset County,CONEMAUGHX3
+Somerset,CONEMAUGHX4,Governor,,Ken V. Krawchuk,LIB,8,,,Somerset County,CONEMAUGHX4
+Somerset,CONEMAUGHX5,Governor,,Ken V. Krawchuk,LIB,4,,,Somerset County,CONEMAUGHX5
+Somerset,CONFLUENCE,Governor,,Ken V. Krawchuk,LIB,2,,,Somerset County,CONFLUENCE
+Somerset,ELK LICK,Governor,,Ken V. Krawchuk,LIB,8,,,Somerset County,ELK LICK
+Somerset,FAIRHOPE,Governor,,Ken V. Krawchuk,LIB,1,,,Somerset County,FAIRHOPE
+Somerset,GARRETT,Governor,,Ken V. Krawchuk,LIB,0,,,Somerset County,GARRETT
+Somerset,GREENVILLE,Governor,,Ken V. Krawchuk,LIB,1,,,Somerset County,GREENVILLE
+Somerset,HOOVERSVILLE,Governor,,Ken V. Krawchuk,LIB,1,,,Somerset County,HOOVERSVILLE
+Somerset,INDIAN LAKE,Governor,,Ken V. Krawchuk,LIB,2,,,Somerset County,INDIAN LAKE
+Somerset,JEFFERSON,Governor,,Ken V. Krawchuk,LIB,7,,,Somerset County,JEFFERSON
+Somerset,JENNERX1,Governor,,Ken V. Krawchuk,LIB,7,,,Somerset County,JENNERX1
+Somerset,JENNERX2,Governor,,Ken V. Krawchuk,LIB,8,,,Somerset County,JENNERX2
+Somerset,JENNERX3,Governor,,Ken V. Krawchuk,LIB,7,,,Somerset County,JENNERX3
+Somerset,JENNERSTOWN,Governor,,Ken V. Krawchuk,LIB,6,,,Somerset County,JENNERSTOWN
+Somerset,LARIMER,Governor,,Ken V. Krawchuk,LIB,2,,,Somerset County,LARIMER
+Somerset,LINCOLN,Governor,,Ken V. Krawchuk,LIB,10,,,Somerset County,LINCOLN
+Somerset,LOWER TURKEYFOOT,Governor,,Ken V. Krawchuk,LIB,4,,,Somerset County,LOWER TURKEYFOOT
+Somerset,MEYERSDALE,Governor,,Ken V. Krawchuk,LIB,13,,,Somerset County,MEYERSDALE
+Somerset,MIDDLECREEK,Governor,,Ken V. Krawchuk,LIB,3,,,Somerset County,MIDDLECREEK
+Somerset,MILFORD,Governor,,Ken V. Krawchuk,LIB,2,,,Somerset County,MILFORD
+Somerset,NEW BALTIMORE,Governor,,Ken V. Krawchuk,LIB,2,,,Somerset County,NEW BALTIMORE
+Somerset,NEW CENTERVILLE,Governor,,Ken V. Krawchuk,LIB,3,,,Somerset County,NEW CENTERVILLE
+Somerset,NORTHAMPTON,Governor,,Ken V. Krawchuk,LIB,2,,,Somerset County,NORTHAMPTON
+Somerset,OGLE,Governor,,Ken V. Krawchuk,LIB,2,,,Somerset County,OGLE
+Somerset,PAINTX1,Governor,,Ken V. Krawchuk,LIB,6,,,Somerset County,PAINTX1
+Somerset,PAINTX2,Governor,,Ken V. Krawchuk,LIB,9,,,Somerset County,PAINTX2
+Somerset,PAINTX3,Governor,,Ken V. Krawchuk,LIB,4,,,Somerset County,PAINTX3
+Somerset,PAINT,Governor,,Ken V. Krawchuk,LIB,6,,,Somerset County,PAINT
+Somerset,QUEMAHONING,Governor,,Ken V. Krawchuk,LIB,10,,,Somerset County,QUEMAHONING
+Somerset,ROCKWOOD,Governor,,Ken V. Krawchuk,LIB,5,,,Somerset County,ROCKWOOD
+Somerset,SALISBURY,Governor,,Ken V. Krawchuk,LIB,2,,,Somerset County,SALISBURY
+Somerset,SEVEN SPRINGS,Governor,,Ken V. Krawchuk,LIB,0,,,Somerset County,SEVEN SPRINGS
+Somerset,SHADEX1,Governor,,Ken V. Krawchuk,LIB,2,,,Somerset County,SHADEX1
+Somerset,SHADEX2,Governor,,Ken V. Krawchuk,LIB,0,,,Somerset County,SHADEX2
+Somerset,SHADEX3,Governor,,Ken V. Krawchuk,LIB,7,,,Somerset County,SHADEX3
+Somerset,SHANKSVILLE,Governor,,Ken V. Krawchuk,LIB,0,,,Somerset County,SHANKSVILLE
+Somerset,SOMERSETX1,Governor,,Ken V. Krawchuk,LIB,11,,,Somerset County,SOMERSETX1
+Somerset,SOMERSETX2,Governor,,Ken V. Krawchuk,LIB,14,,,Somerset County,SOMERSETX2
+Somerset,SOMERSETX3,Governor,,Ken V. Krawchuk,LIB,13,,,Somerset County,SOMERSETX3
+Somerset,SOMERSETX4,Governor,,Ken V. Krawchuk,LIB,8,,,Somerset County,SOMERSETX4
+Somerset,SOMERSETXEAST,Governor,,Ken V. Krawchuk,LIB,3,,,Somerset County,SOMERSETXEAST
+Somerset,SOMERSETXNORTH WEST,Governor,,Ken V. Krawchuk,LIB,7,,,Somerset County,SOMERSETXNORTH WEST
+Somerset,SOMERSETXSOUTH WEST,Governor,,Ken V. Krawchuk,LIB,15,,,Somerset County,SOMERSETXSOUTH WEST
+Somerset,SOUTHAMPTON,Governor,,Ken V. Krawchuk,LIB,5,,,Somerset County,SOUTHAMPTON
+Somerset,STONYCREEK,Governor,,Ken V. Krawchuk,LIB,14,,,Somerset County,STONYCREEK
+Somerset,STOYSTOWN,Governor,,Ken V. Krawchuk,LIB,2,,,Somerset County,STOYSTOWN
+Somerset,SUMMIT,Governor,,Ken V. Krawchuk,LIB,2,,,Somerset County,SUMMIT
+Somerset,UPPER TURKEYFOOT,Governor,,Ken V. Krawchuk,LIB,7,,,Somerset County,UPPER TURKEYFOOT
+Somerset,URSINA,Governor,,Ken V. Krawchuk,LIB,1,,,Somerset County,URSINA
+Somerset,WELLERSBURG,Governor,,Ken V. Krawchuk,LIB,2,,,Somerset County,WELLERSBURG
+Somerset,WINDBERX1,Governor,,Ken V. Krawchuk,LIB,2,,,Somerset County,WINDBERX1
+Somerset,WINDBERX2,Governor,,Ken V. Krawchuk,LIB,8,,,Somerset County,WINDBERX2
+Somerset,WINDBERX3,Governor,,Ken V. Krawchuk,LIB,3,,,Somerset County,WINDBERX3
+Somerset,WINDBERX4,Governor,,Ken V. Krawchuk,LIB,8,,,Somerset County,WINDBERX4
+Somerset,ADDISON,U.S. House,13.0,Brent M. Ottaway,DEM,87,,,Somerset County,ADDISON
+Somerset,ADDISON,U.S. House,13.0,Brent M. Ottaway,DEM,18,,,Somerset County,ADDISON
+Somerset,ALLEGHENY,U.S. House,13.0,Brent M. Ottaway,DEM,60,,,Somerset County,ALLEGHENY
+Somerset,BENSON,U.S. House,13.0,Brent M. Ottaway,DEM,31,,,Somerset County,BENSON
+Somerset,BERLIN,U.S. House,13.0,Brent M. Ottaway,DEM,153,,,Somerset County,BERLIN
+Somerset,BLACK,U.S. House,13.0,Brent M. Ottaway,DEM,54,,,Somerset County,BLACK
+Somerset,BOSWELL,U.S. House,13.0,Brent M. Ottaway,DEM,160,,,Somerset County,BOSWELL
+Somerset,BROTHERS VALLEY,U.S. House,13.0,Brent M. Ottaway,DEM,138,,,Somerset County,BROTHERS VALLEY
+Somerset,CALLIMONT,U.S. House,13.0,Brent M. Ottaway,DEM,3,,,Somerset County,CALLIMONT
+Somerset,CASSELMAN,U.S. House,13.0,Brent M. Ottaway,DEM,7,,,Somerset County,CASSELMAN
+Somerset,CENTRAL CITY,U.S. House,13.0,Brent M. Ottaway,DEM,109,,,Somerset County,CENTRAL CITY
+Somerset,CONEMAUGHX1,U.S. House,13.0,Brent M. Ottaway,DEM,241,,,Somerset County,CONEMAUGHX1
+Somerset,CONEMAUGHX2,U.S. House,13.0,Brent M. Ottaway,DEM,198,,,Somerset County,CONEMAUGHX2
+Somerset,CONEMAUGHX3,U.S. House,13.0,Brent M. Ottaway,DEM,200,,,Somerset County,CONEMAUGHX3
+Somerset,CONEMAUGHX4,U.S. House,13.0,Brent M. Ottaway,DEM,179,,,Somerset County,CONEMAUGHX4
+Somerset,CONEMAUGHX5,U.S. House,13.0,Brent M. Ottaway,DEM,60,,,Somerset County,CONEMAUGHX5
+Somerset,CONFLUENCE,U.S. House,13.0,Brent M. Ottaway,DEM,83,,,Somerset County,CONFLUENCE
+Somerset,ELK LICK,U.S. House,13.0,Brent M. Ottaway,DEM,106,,,Somerset County,ELK LICK
+Somerset,FAIRHOPE,U.S. House,13.0,Brent M. Ottaway,DEM,11,,,Somerset County,FAIRHOPE
+Somerset,GARRETT,U.S. House,13.0,Brent M. Ottaway,DEM,39,,,Somerset County,GARRETT
+Somerset,GREENVILLE,U.S. House,13.0,Brent M. Ottaway,DEM,48,,,Somerset County,GREENVILLE
+Somerset,HOOVERSVILLE,U.S. House,13.0,Brent M. Ottaway,DEM,61,,,Somerset County,HOOVERSVILLE
+Somerset,INDIAN LAKE,U.S. House,13.0,Brent M. Ottaway,DEM,60,,,Somerset County,INDIAN LAKE
+Somerset,JEFFERSON,U.S. House,13.0,Brent M. Ottaway,DEM,182,,,Somerset County,JEFFERSON
+Somerset,JENNERX1,U.S. House,13.0,Brent M. Ottaway,DEM,209,,,Somerset County,JENNERX1
+Somerset,JENNERX2,U.S. House,13.0,Brent M. Ottaway,DEM,92,,,Somerset County,JENNERX2
+Somerset,JENNERX3,U.S. House,13.0,Brent M. Ottaway,DEM,63,,,Somerset County,JENNERX3
+Somerset,JENNERSTOWN,U.S. House,13.0,Brent M. Ottaway,DEM,77,,,Somerset County,JENNERSTOWN
+Somerset,LARIMER,U.S. House,13.0,Brent M. Ottaway,DEM,21,,,Somerset County,LARIMER
+Somerset,LINCOLN,U.S. House,13.0,Brent M. Ottaway,DEM,112,,,Somerset County,LINCOLN
+Somerset,LOWER TURKEYFOOT,U.S. House,13.0,Brent M. Ottaway,DEM,34,,,Somerset County,LOWER TURKEYFOOT
+Somerset,MEYERSDALE,U.S. House,13.0,Brent M. Ottaway,DEM,202,,,Somerset County,MEYERSDALE
+Somerset,MIDDLECREEK,U.S. House,13.0,Brent M. Ottaway,DEM,79,,,Somerset County,MIDDLECREEK
+Somerset,MILFORD,U.S. House,13.0,Brent M. Ottaway,DEM,133,,,Somerset County,MILFORD
+Somerset,NEW BALTIMORE,U.S. House,13.0,Brent M. Ottaway,DEM,33,,,Somerset County,NEW BALTIMORE
+Somerset,NEW CENTERVILLE,U.S. House,13.0,Brent M. Ottaway,DEM,24,,,Somerset County,NEW CENTERVILLE
+Somerset,NORTHAMPTON,U.S. House,13.0,Brent M. Ottaway,DEM,27,,,Somerset County,NORTHAMPTON
+Somerset,OGLE,U.S. House,13.0,Brent M. Ottaway,DEM,51,,,Somerset County,OGLE
+Somerset,PAINTX1,U.S. House,13.0,Brent M. Ottaway,DEM,152,,,Somerset County,PAINTX1
+Somerset,PAINTX2,U.S. House,13.0,Brent M. Ottaway,DEM,208,,,Somerset County,PAINTX2
+Somerset,PAINTX3,U.S. House,13.0,Brent M. Ottaway,DEM,40,,,Somerset County,PAINTX3
+Somerset,PAINT,U.S. House,13.0,Brent M. Ottaway,DEM,111,,,Somerset County,PAINT
+Somerset,QUEMAHONING,U.S. House,13.0,Brent M. Ottaway,DEM,166,,,Somerset County,QUEMAHONING
+Somerset,ROCKWOOD,U.S. House,13.0,Brent M. Ottaway,DEM,63,,,Somerset County,ROCKWOOD
+Somerset,SALISBURY,U.S. House,13.0,Brent M. Ottaway,DEM,56,,,Somerset County,SALISBURY
+Somerset,SEVEN SPRINGS,U.S. House,13.0,Brent M. Ottaway,DEM,2,,,Somerset County,SEVEN SPRINGS
+Somerset,SHADEX1,U.S. House,13.0,Brent M. Ottaway,DEM,54,,,Somerset County,SHADEX1
+Somerset,SHADEX2,U.S. House,13.0,Brent M. Ottaway,DEM,129,,,Somerset County,SHADEX2
+Somerset,SHADEX3,U.S. House,13.0,Brent M. Ottaway,DEM,141,,,Somerset County,SHADEX3
+Somerset,SHANKSVILLE,U.S. House,13.0,Brent M. Ottaway,DEM,11,,,Somerset County,SHANKSVILLE
+Somerset,SOMERSETX1,U.S. House,13.0,Brent M. Ottaway,DEM,160,,,Somerset County,SOMERSETX1
+Somerset,SOMERSETX2,U.S. House,13.0,Brent M. Ottaway,DEM,179,,,Somerset County,SOMERSETX2
+Somerset,SOMERSETX3,U.S. House,13.0,Brent M. Ottaway,DEM,205,,,Somerset County,SOMERSETX3
+Somerset,SOMERSETX4,U.S. House,13.0,Brent M. Ottaway,DEM,127,,,Somerset County,SOMERSETX4
+Somerset,SOMERSETXEAST,U.S. House,13.0,Brent M. Ottaway,DEM,110,,,Somerset County,SOMERSETXEAST
+Somerset,SOMERSETXNORTH WEST,U.S. House,13.0,Brent M. Ottaway,DEM,137,,,Somerset County,SOMERSETXNORTH WEST
+Somerset,SOMERSETXSOUTH WEST,U.S. House,13.0,Brent M. Ottaway,DEM,366,,,Somerset County,SOMERSETXSOUTH WEST
+Somerset,SOUTHAMPTON,U.S. House,13.0,Brent M. Ottaway,DEM,31,,,Somerset County,SOUTHAMPTON
+Somerset,STONYCREEK,U.S. House,13.0,Brent M. Ottaway,DEM,137,,,Somerset County,STONYCREEK
+Somerset,STOYSTOWN,U.S. House,13.0,Brent M. Ottaway,DEM,32,,,Somerset County,STOYSTOWN
+Somerset,SUMMIT,U.S. House,13.0,Brent M. Ottaway,DEM,151,,,Somerset County,SUMMIT
+Somerset,UPPER TURKEYFOOT,U.S. House,13.0,Brent M. Ottaway,DEM,75,,,Somerset County,UPPER TURKEYFOOT
+Somerset,URSINA,U.S. House,13.0,Brent M. Ottaway,DEM,17,,,Somerset County,URSINA
+Somerset,WELLERSBURG,U.S. House,13.0,Brent M. Ottaway,DEM,13,,,Somerset County,WELLERSBURG
+Somerset,WINDBERX1,U.S. House,13.0,Brent M. Ottaway,DEM,166,,,Somerset County,WINDBERX1
+Somerset,WINDBERX2,U.S. House,13.0,Brent M. Ottaway,DEM,208,,,Somerset County,WINDBERX2
+Somerset,WINDBERX3,U.S. House,13.0,Brent M. Ottaway,DEM,135,,,Somerset County,WINDBERX3
+Somerset,WINDBERX4,U.S. House,13.0,Brent M. Ottaway,DEM,136,,,Somerset County,WINDBERX4
+Somerset,ADDISON,U.S. House,13.0,John Joyce,REP,265,,,Somerset County,ADDISON
+Somerset,ADDISON,U.S. House,13.0,John Joyce,REP,57,,,Somerset County,ADDISON
+Somerset,ALLEGHENY,U.S. House,13.0,John Joyce,REP,241,,,Somerset County,ALLEGHENY
+Somerset,BENSON,U.S. House,13.0,John Joyce,REP,39,,,Somerset County,BENSON
+Somerset,BERLIN,U.S. House,13.0,John Joyce,REP,610,,,Somerset County,BERLIN
+Somerset,BLACK,U.S. House,13.0,John Joyce,REP,305,,,Somerset County,BLACK
+Somerset,BOSWELL,U.S. House,13.0,John Joyce,REP,275,,,Somerset County,BOSWELL
+Somerset,BROTHERS VALLEY,U.S. House,13.0,John Joyce,REP,887,,,Somerset County,BROTHERS VALLEY
+Somerset,CALLIMONT,U.S. House,13.0,John Joyce,REP,18,,,Somerset County,CALLIMONT
+Somerset,CASSELMAN,U.S. House,13.0,John Joyce,REP,26,,,Somerset County,CASSELMAN
+Somerset,CENTRAL CITY,U.S. House,13.0,John Joyce,REP,231,,,Somerset County,CENTRAL CITY
+Somerset,CONEMAUGHX1,U.S. House,13.0,John Joyce,REP,680,,,Somerset County,CONEMAUGHX1
+Somerset,CONEMAUGHX2,U.S. House,13.0,John Joyce,REP,493,,,Somerset County,CONEMAUGHX2
+Somerset,CONEMAUGHX3,U.S. House,13.0,John Joyce,REP,428,,,Somerset County,CONEMAUGHX3
+Somerset,CONEMAUGHX4,U.S. House,13.0,John Joyce,REP,473,,,Somerset County,CONEMAUGHX4
+Somerset,CONEMAUGHX5,U.S. House,13.0,John Joyce,REP,168,,,Somerset County,CONEMAUGHX5
+Somerset,CONFLUENCE,U.S. House,13.0,John Joyce,REP,142,,,Somerset County,CONFLUENCE
+Somerset,ELK LICK,U.S. House,13.0,John Joyce,REP,459,,,Somerset County,ELK LICK
+Somerset,FAIRHOPE,U.S. House,13.0,John Joyce,REP,40,,,Somerset County,FAIRHOPE
+Somerset,GARRETT,U.S. House,13.0,John Joyce,REP,91,,,Somerset County,GARRETT
+Somerset,GREENVILLE,U.S. House,13.0,John Joyce,REP,187,,,Somerset County,GREENVILLE
+Somerset,HOOVERSVILLE,U.S. House,13.0,John Joyce,REP,183,,,Somerset County,HOOVERSVILLE
+Somerset,INDIAN LAKE,U.S. House,13.0,John Joyce,REP,195,,,Somerset County,INDIAN LAKE
+Somerset,JEFFERSON,U.S. House,13.0,John Joyce,REP,509,,,Somerset County,JEFFERSON
+Somerset,JENNERX1,U.S. House,13.0,John Joyce,REP,546,,,Somerset County,JENNERX1
+Somerset,JENNERX2,U.S. House,13.0,John Joyce,REP,377,,,Somerset County,JENNERX2
+Somerset,JENNERX3,U.S. House,13.0,John Joyce,REP,251,,,Somerset County,JENNERX3
+Somerset,JENNERSTOWN,U.S. House,13.0,John Joyce,REP,243,,,Somerset County,JENNERSTOWN
+Somerset,LARIMER,U.S. House,13.0,John Joyce,REP,214,,,Somerset County,LARIMER
+Somerset,LINCOLN,U.S. House,13.0,John Joyce,REP,582,,,Somerset County,LINCOLN
+Somerset,LOWER TURKEYFOOT,U.S. House,13.0,John Joyce,REP,138,,,Somerset County,LOWER TURKEYFOOT
+Somerset,MEYERSDALE,U.S. House,13.0,John Joyce,REP,517,,,Somerset County,MEYERSDALE
+Somerset,MIDDLECREEK,U.S. House,13.0,John Joyce,REP,324,,,Somerset County,MIDDLECREEK
+Somerset,MILFORD,U.S. House,13.0,John Joyce,REP,550,,,Somerset County,MILFORD
+Somerset,NEW BALTIMORE,U.S. House,13.0,John Joyce,REP,40,,,Somerset County,NEW BALTIMORE
+Somerset,NEW CENTERVILLE,U.S. House,13.0,John Joyce,REP,84,,,Somerset County,NEW CENTERVILLE
+Somerset,NORTHAMPTON,U.S. House,13.0,John Joyce,REP,139,,,Somerset County,NORTHAMPTON
+Somerset,OGLE,U.S. House,13.0,John Joyce,REP,162,,,Somerset County,OGLE
+Somerset,PAINTX1,U.S. House,13.0,John Joyce,REP,445,,,Somerset County,PAINTX1
+Somerset,PAINTX2,U.S. House,13.0,John Joyce,REP,410,,,Somerset County,PAINTX2
+Somerset,PAINTX3,U.S. House,13.0,John Joyce,REP,167,,,Somerset County,PAINTX3
+Somerset,PAINT,U.S. House,13.0,John Joyce,REP,219,,,Somerset County,PAINT
+Somerset,QUEMAHONING,U.S. House,13.0,John Joyce,REP,578,,,Somerset County,QUEMAHONING
+Somerset,ROCKWOOD,U.S. House,13.0,John Joyce,REP,221,,,Somerset County,ROCKWOOD
+Somerset,SALISBURY,U.S. House,13.0,John Joyce,REP,212,,,Somerset County,SALISBURY
+Somerset,SEVEN SPRINGS,U.S. House,13.0,John Joyce,REP,4,,,Somerset County,SEVEN SPRINGS
+Somerset,SHADEX1,U.S. House,13.0,John Joyce,REP,213,,,Somerset County,SHADEX1
+Somerset,SHADEX2,U.S. House,13.0,John Joyce,REP,193,,,Somerset County,SHADEX2
+Somerset,SHADEX3,U.S. House,13.0,John Joyce,REP,232,,,Somerset County,SHADEX3
+Somerset,SHANKSVILLE,U.S. House,13.0,John Joyce,REP,66,,,Somerset County,SHANKSVILLE
+Somerset,SOMERSETX1,U.S. House,13.0,John Joyce,REP,638,,,Somerset County,SOMERSETX1
+Somerset,SOMERSETX2,U.S. House,13.0,John Joyce,REP,840,,,Somerset County,SOMERSETX2
+Somerset,SOMERSETX3,U.S. House,13.0,John Joyce,REP,751,,,Somerset County,SOMERSETX3
+Somerset,SOMERSETX4,U.S. House,13.0,John Joyce,REP,546,,,Somerset County,SOMERSETX4
+Somerset,SOMERSETXEAST,U.S. House,13.0,John Joyce,REP,287,,,Somerset County,SOMERSETXEAST
+Somerset,SOMERSETXNORTH WEST,U.S. House,13.0,John Joyce,REP,453,,,Somerset County,SOMERSETXNORTH WEST
+Somerset,SOMERSETXSOUTH WEST,U.S. House,13.0,John Joyce,REP,801,,,Somerset County,SOMERSETXSOUTH WEST
+Somerset,SOUTHAMPTON,U.S. House,13.0,John Joyce,REP,223,,,Somerset County,SOUTHAMPTON
+Somerset,STONYCREEK,U.S. House,13.0,John Joyce,REP,811,,,Somerset County,STONYCREEK
+Somerset,STOYSTOWN,U.S. House,13.0,John Joyce,REP,124,,,Somerset County,STOYSTOWN
+Somerset,SUMMIT,U.S. House,13.0,John Joyce,REP,628,,,Somerset County,SUMMIT
+Somerset,UPPER TURKEYFOOT,U.S. House,13.0,John Joyce,REP,453,,,Somerset County,UPPER TURKEYFOOT
+Somerset,URSINA,U.S. House,13.0,John Joyce,REP,49,,,Somerset County,URSINA
+Somerset,WELLERSBURG,U.S. House,13.0,John Joyce,REP,67,,,Somerset County,WELLERSBURG
+Somerset,WINDBERX1,U.S. House,13.0,John Joyce,REP,185,,,Somerset County,WINDBERX1
+Somerset,WINDBERX2,U.S. House,13.0,John Joyce,REP,279,,,Somerset County,WINDBERX2
+Somerset,WINDBERX3,U.S. House,13.0,John Joyce,REP,153,,,Somerset County,WINDBERX3
+Somerset,WINDBERX4,U.S. House,13.0,John Joyce,REP,155,,,Somerset County,WINDBERX4
+Somerset,ADDISON,State Senate,32.0,Pamela Gerard,DEM,88,,,Somerset County,ADDISON
+Somerset,ADDISON,State Senate,32.0,Pamela Gerard,DEM,17,,,Somerset County,ADDISON
+Somerset,ALLEGHENY,State Senate,32.0,Pamela Gerard,DEM,58,,,Somerset County,ALLEGHENY
+Somerset,BENSON,State Senate,32.0,Pamela Gerard,DEM,28,,,Somerset County,BENSON
+Somerset,BERLIN,State Senate,32.0,Pamela Gerard,DEM,137,,,Somerset County,BERLIN
+Somerset,BLACK,State Senate,32.0,Pamela Gerard,DEM,50,,,Somerset County,BLACK
+Somerset,BOSWELL,State Senate,32.0,Pamela Gerard,DEM,148,,,Somerset County,BOSWELL
+Somerset,BROTHERS VALLEY,State Senate,32.0,Pamela Gerard,DEM,118,,,Somerset County,BROTHERS VALLEY
+Somerset,CALLIMONT,State Senate,32.0,Pamela Gerard,DEM,2,,,Somerset County,CALLIMONT
+Somerset,CASSELMAN,State Senate,32.0,Pamela Gerard,DEM,9,,,Somerset County,CASSELMAN
+Somerset,CENTRAL CITY,State Senate,32.0,Pamela Gerard,DEM,100,,,Somerset County,CENTRAL CITY
+Somerset,CONEMAUGHX1,State Senate,32.0,Pamela Gerard,DEM,228,,,Somerset County,CONEMAUGHX1
+Somerset,CONEMAUGHX2,State Senate,32.0,Pamela Gerard,DEM,196,,,Somerset County,CONEMAUGHX2
+Somerset,CONEMAUGHX3,State Senate,32.0,Pamela Gerard,DEM,192,,,Somerset County,CONEMAUGHX3
+Somerset,CONEMAUGHX4,State Senate,32.0,Pamela Gerard,DEM,181,,,Somerset County,CONEMAUGHX4
+Somerset,CONEMAUGHX5,State Senate,32.0,Pamela Gerard,DEM,55,,,Somerset County,CONEMAUGHX5
+Somerset,CONFLUENCE,State Senate,32.0,Pamela Gerard,DEM,80,,,Somerset County,CONFLUENCE
+Somerset,ELK LICK,State Senate,32.0,Pamela Gerard,DEM,94,,,Somerset County,ELK LICK
+Somerset,FAIRHOPE,State Senate,32.0,Pamela Gerard,DEM,11,,,Somerset County,FAIRHOPE
+Somerset,GARRETT,State Senate,32.0,Pamela Gerard,DEM,39,,,Somerset County,GARRETT
+Somerset,GREENVILLE,State Senate,32.0,Pamela Gerard,DEM,43,,,Somerset County,GREENVILLE
+Somerset,HOOVERSVILLE,State Senate,32.0,Pamela Gerard,DEM,62,,,Somerset County,HOOVERSVILLE
+Somerset,INDIAN LAKE,State Senate,32.0,Pamela Gerard,DEM,53,,,Somerset County,INDIAN LAKE
+Somerset,JEFFERSON,State Senate,32.0,Pamela Gerard,DEM,169,,,Somerset County,JEFFERSON
+Somerset,JENNERX1,State Senate,32.0,Pamela Gerard,DEM,195,,,Somerset County,JENNERX1
+Somerset,JENNERX2,State Senate,32.0,Pamela Gerard,DEM,89,,,Somerset County,JENNERX2
+Somerset,JENNERX3,State Senate,32.0,Pamela Gerard,DEM,54,,,Somerset County,JENNERX3
+Somerset,JENNERSTOWN,State Senate,32.0,Pamela Gerard,DEM,76,,,Somerset County,JENNERSTOWN
+Somerset,LARIMER,State Senate,32.0,Pamela Gerard,DEM,21,,,Somerset County,LARIMER
+Somerset,LINCOLN,State Senate,32.0,Pamela Gerard,DEM,104,,,Somerset County,LINCOLN
+Somerset,LOWER TURKEYFOOT,State Senate,32.0,Pamela Gerard,DEM,32,,,Somerset County,LOWER TURKEYFOOT
+Somerset,MEYERSDALE,State Senate,32.0,Pamela Gerard,DEM,170,,,Somerset County,MEYERSDALE
+Somerset,MIDDLECREEK,State Senate,32.0,Pamela Gerard,DEM,80,,,Somerset County,MIDDLECREEK
+Somerset,MILFORD,State Senate,32.0,Pamela Gerard,DEM,119,,,Somerset County,MILFORD
+Somerset,NEW BALTIMORE,State Senate,32.0,Pamela Gerard,DEM,30,,,Somerset County,NEW BALTIMORE
+Somerset,NEW CENTERVILLE,State Senate,32.0,Pamela Gerard,DEM,23,,,Somerset County,NEW CENTERVILLE
+Somerset,NORTHAMPTON,State Senate,32.0,Pamela Gerard,DEM,28,,,Somerset County,NORTHAMPTON
+Somerset,OGLE,State Senate,32.0,Pamela Gerard,DEM,50,,,Somerset County,OGLE
+Somerset,PAINTX1,State Senate,32.0,Pamela Gerard,DEM,146,,,Somerset County,PAINTX1
+Somerset,PAINTX2,State Senate,32.0,Pamela Gerard,DEM,193,,,Somerset County,PAINTX2
+Somerset,PAINTX3,State Senate,32.0,Pamela Gerard,DEM,46,,,Somerset County,PAINTX3
+Somerset,PAINT,State Senate,32.0,Pamela Gerard,DEM,109,,,Somerset County,PAINT
+Somerset,QUEMAHONING,State Senate,32.0,Pamela Gerard,DEM,159,,,Somerset County,QUEMAHONING
+Somerset,ROCKWOOD,State Senate,32.0,Pamela Gerard,DEM,55,,,Somerset County,ROCKWOOD
+Somerset,SALISBURY,State Senate,32.0,Pamela Gerard,DEM,51,,,Somerset County,SALISBURY
+Somerset,SEVEN SPRINGS,State Senate,32.0,Pamela Gerard,DEM,3,,,Somerset County,SEVEN SPRINGS
+Somerset,SHADEX1,State Senate,32.0,Pamela Gerard,DEM,51,,,Somerset County,SHADEX1
+Somerset,SHADEX2,State Senate,32.0,Pamela Gerard,DEM,130,,,Somerset County,SHADEX2
+Somerset,SHADEX3,State Senate,32.0,Pamela Gerard,DEM,126,,,Somerset County,SHADEX3
+Somerset,SHANKSVILLE,State Senate,32.0,Pamela Gerard,DEM,10,,,Somerset County,SHANKSVILLE
+Somerset,SOMERSETX1,State Senate,32.0,Pamela Gerard,DEM,153,,,Somerset County,SOMERSETX1
+Somerset,SOMERSETX2,State Senate,32.0,Pamela Gerard,DEM,172,,,Somerset County,SOMERSETX2
+Somerset,SOMERSETX3,State Senate,32.0,Pamela Gerard,DEM,182,,,Somerset County,SOMERSETX3
+Somerset,SOMERSETX4,State Senate,32.0,Pamela Gerard,DEM,118,,,Somerset County,SOMERSETX4
+Somerset,SOMERSETXEAST,State Senate,32.0,Pamela Gerard,DEM,94,,,Somerset County,SOMERSETXEAST
+Somerset,SOMERSETXNORTH WEST,State Senate,32.0,Pamela Gerard,DEM,128,,,Somerset County,SOMERSETXNORTH WEST
+Somerset,SOMERSETXSOUTH WEST,State Senate,32.0,Pamela Gerard,DEM,344,,,Somerset County,SOMERSETXSOUTH WEST
+Somerset,SOUTHAMPTON,State Senate,32.0,Pamela Gerard,DEM,28,,,Somerset County,SOUTHAMPTON
+Somerset,STONYCREEK,State Senate,32.0,Pamela Gerard,DEM,130,,,Somerset County,STONYCREEK
+Somerset,STOYSTOWN,State Senate,32.0,Pamela Gerard,DEM,30,,,Somerset County,STOYSTOWN
+Somerset,SUMMIT,State Senate,32.0,Pamela Gerard,DEM,131,,,Somerset County,SUMMIT
+Somerset,UPPER TURKEYFOOT,State Senate,32.0,Pamela Gerard,DEM,66,,,Somerset County,UPPER TURKEYFOOT
+Somerset,URSINA,State Senate,32.0,Pamela Gerard,DEM,14,,,Somerset County,URSINA
+Somerset,WELLERSBURG,State Senate,32.0,Pamela Gerard,DEM,13,,,Somerset County,WELLERSBURG
+Somerset,WINDBERX1,State Senate,32.0,Pamela Gerard,DEM,162,,,Somerset County,WINDBERX1
+Somerset,WINDBERX2,State Senate,32.0,Pamela Gerard,DEM,200,,,Somerset County,WINDBERX2
+Somerset,WINDBERX3,State Senate,32.0,Pamela Gerard,DEM,126,,,Somerset County,WINDBERX3
+Somerset,WINDBERX4,State Senate,32.0,Pamela Gerard,DEM,133,,,Somerset County,WINDBERX4
+Somerset,ADDISON,State Senate,32.0,Patrick J. Stefano,REP,262,,,Somerset County,ADDISON
+Somerset,ADDISON,State Senate,32.0,Patrick J. Stefano,REP,58,,,Somerset County,ADDISON
+Somerset,ALLEGHENY,State Senate,32.0,Patrick J. Stefano,REP,242,,,Somerset County,ALLEGHENY
+Somerset,BENSON,State Senate,32.0,Patrick J. Stefano,REP,42,,,Somerset County,BENSON
+Somerset,BERLIN,State Senate,32.0,Patrick J. Stefano,REP,635,,,Somerset County,BERLIN
+Somerset,BLACK,State Senate,32.0,Patrick J. Stefano,REP,309,,,Somerset County,BLACK
+Somerset,BOSWELL,State Senate,32.0,Patrick J. Stefano,REP,290,,,Somerset County,BOSWELL
+Somerset,BROTHERS VALLEY,State Senate,32.0,Patrick J. Stefano,REP,908,,,Somerset County,BROTHERS VALLEY
+Somerset,CALLIMONT,State Senate,32.0,Patrick J. Stefano,REP,19,,,Somerset County,CALLIMONT
+Somerset,CASSELMAN,State Senate,32.0,Patrick J. Stefano,REP,25,,,Somerset County,CASSELMAN
+Somerset,CENTRAL CITY,State Senate,32.0,Patrick J. Stefano,REP,240,,,Somerset County,CENTRAL CITY
+Somerset,CONEMAUGHX1,State Senate,32.0,Patrick J. Stefano,REP,693,,,Somerset County,CONEMAUGHX1
+Somerset,CONEMAUGHX2,State Senate,32.0,Patrick J. Stefano,REP,503,,,Somerset County,CONEMAUGHX2
+Somerset,CONEMAUGHX3,State Senate,32.0,Patrick J. Stefano,REP,434,,,Somerset County,CONEMAUGHX3
+Somerset,CONEMAUGHX4,State Senate,32.0,Patrick J. Stefano,REP,472,,,Somerset County,CONEMAUGHX4
+Somerset,CONEMAUGHX5,State Senate,32.0,Patrick J. Stefano,REP,174,,,Somerset County,CONEMAUGHX5
+Somerset,CONFLUENCE,State Senate,32.0,Patrick J. Stefano,REP,154,,,Somerset County,CONFLUENCE
+Somerset,ELK LICK,State Senate,32.0,Patrick J. Stefano,REP,472,,,Somerset County,ELK LICK
+Somerset,FAIRHOPE,State Senate,32.0,Patrick J. Stefano,REP,41,,,Somerset County,FAIRHOPE
+Somerset,GARRETT,State Senate,32.0,Patrick J. Stefano,REP,92,,,Somerset County,GARRETT
+Somerset,GREENVILLE,State Senate,32.0,Patrick J. Stefano,REP,194,,,Somerset County,GREENVILLE
+Somerset,HOOVERSVILLE,State Senate,32.0,Patrick J. Stefano,REP,186,,,Somerset County,HOOVERSVILLE
+Somerset,INDIAN LAKE,State Senate,32.0,Patrick J. Stefano,REP,201,,,Somerset County,INDIAN LAKE
+Somerset,JEFFERSON,State Senate,32.0,Patrick J. Stefano,REP,520,,,Somerset County,JEFFERSON
+Somerset,JENNERX1,State Senate,32.0,Patrick J. Stefano,REP,559,,,Somerset County,JENNERX1
+Somerset,JENNERX2,State Senate,32.0,Patrick J. Stefano,REP,381,,,Somerset County,JENNERX2
+Somerset,JENNERX3,State Senate,32.0,Patrick J. Stefano,REP,261,,,Somerset County,JENNERX3
+Somerset,JENNERSTOWN,State Senate,32.0,Patrick J. Stefano,REP,245,,,Somerset County,JENNERSTOWN
+Somerset,LARIMER,State Senate,32.0,Patrick J. Stefano,REP,216,,,Somerset County,LARIMER
+Somerset,LINCOLN,State Senate,32.0,Patrick J. Stefano,REP,585,,,Somerset County,LINCOLN
+Somerset,LOWER TURKEYFOOT,State Senate,32.0,Patrick J. Stefano,REP,142,,,Somerset County,LOWER TURKEYFOOT
+Somerset,MEYERSDALE,State Senate,32.0,Patrick J. Stefano,REP,553,,,Somerset County,MEYERSDALE
+Somerset,MIDDLECREEK,State Senate,32.0,Patrick J. Stefano,REP,324,,,Somerset County,MIDDLECREEK
+Somerset,MILFORD,State Senate,32.0,Patrick J. Stefano,REP,563,,,Somerset County,MILFORD
+Somerset,NEW BALTIMORE,State Senate,32.0,Patrick J. Stefano,REP,46,,,Somerset County,NEW BALTIMORE
+Somerset,NEW CENTERVILLE,State Senate,32.0,Patrick J. Stefano,REP,81,,,Somerset County,NEW CENTERVILLE
+Somerset,NORTHAMPTON,State Senate,32.0,Patrick J. Stefano,REP,140,,,Somerset County,NORTHAMPTON
+Somerset,OGLE,State Senate,32.0,Patrick J. Stefano,REP,163,,,Somerset County,OGLE
+Somerset,PAINTX1,State Senate,32.0,Patrick J. Stefano,REP,451,,,Somerset County,PAINTX1
+Somerset,PAINTX2,State Senate,32.0,Patrick J. Stefano,REP,427,,,Somerset County,PAINTX2
+Somerset,PAINTX3,State Senate,32.0,Patrick J. Stefano,REP,160,,,Somerset County,PAINTX3
+Somerset,PAINT,State Senate,32.0,Patrick J. Stefano,REP,218,,,Somerset County,PAINT
+Somerset,QUEMAHONING,State Senate,32.0,Patrick J. Stefano,REP,587,,,Somerset County,QUEMAHONING
+Somerset,ROCKWOOD,State Senate,32.0,Patrick J. Stefano,REP,230,,,Somerset County,ROCKWOOD
+Somerset,SALISBURY,State Senate,32.0,Patrick J. Stefano,REP,219,,,Somerset County,SALISBURY
+Somerset,SEVEN SPRINGS,State Senate,32.0,Patrick J. Stefano,REP,3,,,Somerset County,SEVEN SPRINGS
+Somerset,SHADEX1,State Senate,32.0,Patrick J. Stefano,REP,217,,,Somerset County,SHADEX1
+Somerset,SHADEX2,State Senate,32.0,Patrick J. Stefano,REP,191,,,Somerset County,SHADEX2
+Somerset,SHADEX3,State Senate,32.0,Patrick J. Stefano,REP,246,,,Somerset County,SHADEX3
+Somerset,SHANKSVILLE,State Senate,32.0,Patrick J. Stefano,REP,69,,,Somerset County,SHANKSVILLE
+Somerset,SOMERSETX1,State Senate,32.0,Patrick J. Stefano,REP,646,,,Somerset County,SOMERSETX1
+Somerset,SOMERSETX2,State Senate,32.0,Patrick J. Stefano,REP,845,,,Somerset County,SOMERSETX2
+Somerset,SOMERSETX3,State Senate,32.0,Patrick J. Stefano,REP,784,,,Somerset County,SOMERSETX3
+Somerset,SOMERSETX4,State Senate,32.0,Patrick J. Stefano,REP,557,,,Somerset County,SOMERSETX4
+Somerset,SOMERSETXEAST,State Senate,32.0,Patrick J. Stefano,REP,300,,,Somerset County,SOMERSETXEAST
+Somerset,SOMERSETXNORTH WEST,State Senate,32.0,Patrick J. Stefano,REP,460,,,Somerset County,SOMERSETXNORTH WEST
+Somerset,SOMERSETXSOUTH WEST,State Senate,32.0,Patrick J. Stefano,REP,832,,,Somerset County,SOMERSETXSOUTH WEST
+Somerset,SOUTHAMPTON,State Senate,32.0,Patrick J. Stefano,REP,225,,,Somerset County,SOUTHAMPTON
+Somerset,STONYCREEK,State Senate,32.0,Patrick J. Stefano,REP,823,,,Somerset County,STONYCREEK
+Somerset,STOYSTOWN,State Senate,32.0,Patrick J. Stefano,REP,126,,,Somerset County,STOYSTOWN
+Somerset,SUMMIT,State Senate,32.0,Patrick J. Stefano,REP,650,,,Somerset County,SUMMIT
+Somerset,UPPER TURKEYFOOT,State Senate,32.0,Patrick J. Stefano,REP,464,,,Somerset County,UPPER TURKEYFOOT
+Somerset,URSINA,State Senate,32.0,Patrick J. Stefano,REP,53,,,Somerset County,URSINA
+Somerset,WELLERSBURG,State Senate,32.0,Patrick J. Stefano,REP,69,,,Somerset County,WELLERSBURG
+Somerset,WINDBERX1,State Senate,32.0,Patrick J. Stefano,REP,190,,,Somerset County,WINDBERX1
+Somerset,WINDBERX2,State Senate,32.0,Patrick J. Stefano,REP,287,,,Somerset County,WINDBERX2
+Somerset,WINDBERX3,State Senate,32.0,Patrick J. Stefano,REP,164,,,Somerset County,WINDBERX3
+Somerset,WINDBERX4,State Senate,32.0,Patrick J. Stefano,REP,163,,,Somerset County,WINDBERX4
+Somerset,ADDISON,State House,51.0,Timothy S. Mahoney,DEM,111,,,Somerset County,ADDISON
+Somerset,ADDISON,State House,51.0,Timothy S. Mahoney,DEM,24,,,Somerset County,ADDISON
+Somerset,CONFLUENCE,State House,51.0,Timothy S. Mahoney,DEM,111,,,Somerset County,CONFLUENCE
+Somerset,ELK LICK,State House,51.0,Timothy S. Mahoney,DEM,109,,,Somerset County,ELK LICK
+Somerset,GARRETT,State House,51.0,Timothy S. Mahoney,DEM,51,,,Somerset County,GARRETT
+Somerset,LOWER TURKEYFOOT,State House,51.0,Timothy S. Mahoney,DEM,48,,,Somerset County,LOWER TURKEYFOOT
+Somerset,MEYERSDALE,State House,51.0,Timothy S. Mahoney,DEM,252,,,Somerset County,MEYERSDALE
+Somerset,SALISBURY,State House,51.0,Timothy S. Mahoney,DEM,67,,,Somerset County,SALISBURY
+Somerset,SUMMIT,State House,51.0,Timothy S. Mahoney,DEM,181,,,Somerset County,SUMMIT
+Somerset,UPPER TURKEYFOOT,State House,51.0,Timothy S. Mahoney,DEM,89,,,Somerset County,UPPER TURKEYFOOT
+Somerset,URSINA,State House,51.0,Timothy S. Mahoney,DEM,22,,,Somerset County,URSINA
+Somerset,ADDISON,State House,51.0,Matthew Dowling,REP,236,,,Somerset County,ADDISON
+Somerset,ADDISON,State House,51.0,Matthew Dowling,REP,53,,,Somerset County,ADDISON
+Somerset,CONFLUENCE,State House,51.0,Matthew Dowling,REP,123,,,Somerset County,CONFLUENCE
+Somerset,ELK LICK,State House,51.0,Matthew Dowling,REP,455,,,Somerset County,ELK LICK
+Somerset,GARRETT,State House,51.0,Matthew Dowling,REP,80,,,Somerset County,GARRETT
+Somerset,LOWER TURKEYFOOT,State House,51.0,Matthew Dowling,REP,125,,,Somerset County,LOWER TURKEYFOOT
+Somerset,MEYERSDALE,State House,51.0,Matthew Dowling,REP,465,,,Somerset County,MEYERSDALE
+Somerset,SALISBURY,State House,51.0,Matthew Dowling,REP,202,,,Somerset County,SALISBURY
+Somerset,SUMMIT,State House,51.0,Matthew Dowling,REP,598,,,Somerset County,SUMMIT
+Somerset,UPPER TURKEYFOOT,State House,51.0,Matthew Dowling,REP,436,,,Somerset County,UPPER TURKEYFOOT
+Somerset,URSINA,State House,51.0,Matthew Dowling,REP,45,,,Somerset County,URSINA
+Somerset,BOSWELL,State House,59.0,Clare Dooley,DEM,175,,,Somerset County,BOSWELL
+Somerset,CONEMAUGHX1,State House,59.0,Clare Dooley,DEM,266,,,Somerset County,CONEMAUGHX1
+Somerset,CONEMAUGHX2,State House,59.0,Clare Dooley,DEM,212,,,Somerset County,CONEMAUGHX2
+Somerset,CONEMAUGHX3,State House,59.0,Clare Dooley,DEM,210,,,Somerset County,CONEMAUGHX3
+Somerset,CONEMAUGHX4,State House,59.0,Clare Dooley,DEM,192,,,Somerset County,CONEMAUGHX4
+Somerset,CONEMAUGHX5,State House,59.0,Clare Dooley,DEM,66,,,Somerset County,CONEMAUGHX5
+Somerset,JENNERX1,State House,59.0,Clare Dooley,DEM,201,,,Somerset County,JENNERX1
+Somerset,JENNERX2,State House,59.0,Clare Dooley,DEM,96,,,Somerset County,JENNERX2
+Somerset,JENNERX3,State House,59.0,Clare Dooley,DEM,65,,,Somerset County,JENNERX3
+Somerset,JENNERSTOWN,State House,59.0,Clare Dooley,DEM,83,,,Somerset County,JENNERSTOWN
+Somerset,BOSWELL,State House,59.0,Michael P. Reese,REP,262,,,Somerset County,BOSWELL
+Somerset,CONEMAUGHX1,State House,59.0,Michael P. Reese,REP,656,,,Somerset County,CONEMAUGHX1
+Somerset,CONEMAUGHX2,State House,59.0,Michael P. Reese,REP,484,,,Somerset County,CONEMAUGHX2
+Somerset,CONEMAUGHX3,State House,59.0,Michael P. Reese,REP,416,,,Somerset County,CONEMAUGHX3
+Somerset,CONEMAUGHX4,State House,59.0,Michael P. Reese,REP,460,,,Somerset County,CONEMAUGHX4
+Somerset,CONEMAUGHX5,State House,59.0,Michael P. Reese,REP,163,,,Somerset County,CONEMAUGHX5
+Somerset,JENNERX1,State House,59.0,Michael P. Reese,REP,554,,,Somerset County,JENNERX1
+Somerset,JENNERX2,State House,59.0,Michael P. Reese,REP,374,,,Somerset County,JENNERX2
+Somerset,JENNERX3,State House,59.0,Michael P. Reese,REP,250,,,Somerset County,JENNERX3
+Somerset,JENNERSTOWN,State House,59.0,Michael P. Reese,REP,239,,,Somerset County,JENNERSTOWN
+Somerset,ALLEGHENY,State House,69.0,Jeff Cole,DEM,49,,,Somerset County,ALLEGHENY
+Somerset,BENSON,State House,69.0,Jeff Cole,DEM,28,,,Somerset County,BENSON
+Somerset,BERLIN,State House,69.0,Jeff Cole,DEM,133,,,Somerset County,BERLIN
+Somerset,BLACK,State House,69.0,Jeff Cole,DEM,53,,,Somerset County,BLACK
+Somerset,BROTHERS VALLEY,State House,69.0,Jeff Cole,DEM,101,,,Somerset County,BROTHERS VALLEY
+Somerset,CALLIMONT,State House,69.0,Jeff Cole,DEM,3,,,Somerset County,CALLIMONT
+Somerset,CASSELMAN,State House,69.0,Jeff Cole,DEM,8,,,Somerset County,CASSELMAN
+Somerset,CENTRAL CITY,State House,69.0,Jeff Cole,DEM,125,,,Somerset County,CENTRAL CITY
+Somerset,FAIRHOPE,State House,69.0,Jeff Cole,DEM,9,,,Somerset County,FAIRHOPE
+Somerset,GREENVILLE,State House,69.0,Jeff Cole,DEM,44,,,Somerset County,GREENVILLE
+Somerset,HOOVERSVILLE,State House,69.0,Jeff Cole,DEM,60,,,Somerset County,HOOVERSVILLE
+Somerset,INDIAN LAKE,State House,69.0,Jeff Cole,DEM,58,,,Somerset County,INDIAN LAKE
+Somerset,JEFFERSON,State House,69.0,Jeff Cole,DEM,173,,,Somerset County,JEFFERSON
+Somerset,LARIMER,State House,69.0,Jeff Cole,DEM,20,,,Somerset County,LARIMER
+Somerset,LINCOLN,State House,69.0,Jeff Cole,DEM,99,,,Somerset County,LINCOLN
+Somerset,MIDDLECREEK,State House,69.0,Jeff Cole,DEM,70,,,Somerset County,MIDDLECREEK
+Somerset,MILFORD,State House,69.0,Jeff Cole,DEM,101,,,Somerset County,MILFORD
+Somerset,NEW BALTIMORE,State House,69.0,Jeff Cole,DEM,28,,,Somerset County,NEW BALTIMORE
+Somerset,NEW CENTERVILLE,State House,69.0,Jeff Cole,DEM,24,,,Somerset County,NEW CENTERVILLE
+Somerset,NORTHAMPTON,State House,69.0,Jeff Cole,DEM,22,,,Somerset County,NORTHAMPTON
+Somerset,OGLE,State House,69.0,Jeff Cole,DEM,48,,,Somerset County,OGLE
+Somerset,PAINTX1,State House,69.0,Jeff Cole,DEM,159,,,Somerset County,PAINTX1
+Somerset,PAINTX2,State House,69.0,Jeff Cole,DEM,186,,,Somerset County,PAINTX2
+Somerset,PAINTX3,State House,69.0,Jeff Cole,DEM,42,,,Somerset County,PAINTX3
+Somerset,QUEMAHONING,State House,69.0,Jeff Cole,DEM,151,,,Somerset County,QUEMAHONING
+Somerset,ROCKWOOD,State House,69.0,Jeff Cole,DEM,63,,,Somerset County,ROCKWOOD
+Somerset,SEVEN SPRINGS,State House,69.0,Jeff Cole,DEM,3,,,Somerset County,SEVEN SPRINGS
+Somerset,SHADEX1,State House,69.0,Jeff Cole,DEM,50,,,Somerset County,SHADEX1
+Somerset,SHADEX2,State House,69.0,Jeff Cole,DEM,139,,,Somerset County,SHADEX2
+Somerset,SHADEX3,State House,69.0,Jeff Cole,DEM,131,,,Somerset County,SHADEX3
+Somerset,SHANKSVILLE,State House,69.0,Jeff Cole,DEM,11,,,Somerset County,SHANKSVILLE
+Somerset,SOMERSETX1,State House,69.0,Jeff Cole,DEM,136,,,Somerset County,SOMERSETX1
+Somerset,SOMERSETX2,State House,69.0,Jeff Cole,DEM,167,,,Somerset County,SOMERSETX2
+Somerset,SOMERSETX3,State House,69.0,Jeff Cole,DEM,179,,,Somerset County,SOMERSETX3
+Somerset,SOMERSETX4,State House,69.0,Jeff Cole,DEM,127,,,Somerset County,SOMERSETX4
+Somerset,SOMERSETXEAST,State House,69.0,Jeff Cole,DEM,97,,,Somerset County,SOMERSETXEAST
+Somerset,SOMERSETXNORTH WEST,State House,69.0,Jeff Cole,DEM,133,,,Somerset County,SOMERSETXNORTH WEST
+Somerset,SOMERSETXSOUTH WEST,State House,69.0,Jeff Cole,DEM,338,,,Somerset County,SOMERSETXSOUTH WEST
+Somerset,SOUTHAMPTON,State House,69.0,Jeff Cole,DEM,23,,,Somerset County,SOUTHAMPTON
+Somerset,STONYCREEK,State House,69.0,Jeff Cole,DEM,137,,,Somerset County,STONYCREEK
+Somerset,STOYSTOWN,State House,69.0,Jeff Cole,DEM,32,,,Somerset County,STOYSTOWN
+Somerset,WELLERSBURG,State House,69.0,Jeff Cole,DEM,15,,,Somerset County,WELLERSBURG
+Somerset,WINDBERX1,State House,69.0,Jeff Cole,DEM,161,,,Somerset County,WINDBERX1
+Somerset,WINDBERX2,State House,69.0,Jeff Cole,DEM,214,,,Somerset County,WINDBERX2
+Somerset,WINDBERX3,State House,69.0,Jeff Cole,DEM,133,,,Somerset County,WINDBERX3
+Somerset,WINDBERX4,State House,69.0,Jeff Cole,DEM,145,,,Somerset County,WINDBERX4
+Somerset,ALLEGHENY,State House,69.0,Carl Metzgar,REP,255,,,Somerset County,ALLEGHENY
+Somerset,BENSON,State House,69.0,Carl Metzgar,REP,42,,,Somerset County,BENSON
+Somerset,BERLIN,State House,69.0,Carl Metzgar,REP,644,,,Somerset County,BERLIN
+Somerset,BLACK,State House,69.0,Carl Metzgar,REP,308,,,Somerset County,BLACK
+Somerset,BROTHERS VALLEY,State House,69.0,Carl Metzgar,REP,926,,,Somerset County,BROTHERS VALLEY
+Somerset,CALLIMONT,State House,69.0,Carl Metzgar,REP,18,,,Somerset County,CALLIMONT
+Somerset,CASSELMAN,State House,69.0,Carl Metzgar,REP,27,,,Somerset County,CASSELMAN
+Somerset,CENTRAL CITY,State House,69.0,Carl Metzgar,REP,215,,,Somerset County,CENTRAL CITY
+Somerset,FAIRHOPE,State House,69.0,Carl Metzgar,REP,44,,,Somerset County,FAIRHOPE
+Somerset,GREENVILLE,State House,69.0,Carl Metzgar,REP,193,,,Somerset County,GREENVILLE
+Somerset,HOOVERSVILLE,State House,69.0,Carl Metzgar,REP,189,,,Somerset County,HOOVERSVILLE
+Somerset,INDIAN LAKE,State House,69.0,Carl Metzgar,REP,198,,,Somerset County,INDIAN LAKE
+Somerset,JEFFERSON,State House,69.0,Carl Metzgar,REP,520,,,Somerset County,JEFFERSON
+Somerset,LARIMER,State House,69.0,Carl Metzgar,REP,217,,,Somerset County,LARIMER
+Somerset,LINCOLN,State House,69.0,Carl Metzgar,REP,595,,,Somerset County,LINCOLN
+Somerset,MIDDLECREEK,State House,69.0,Carl Metzgar,REP,336,,,Somerset County,MIDDLECREEK
+Somerset,MILFORD,State House,69.0,Carl Metzgar,REP,582,,,Somerset County,MILFORD
+Somerset,NEW BALTIMORE,State House,69.0,Carl Metzgar,REP,50,,,Somerset County,NEW BALTIMORE
+Somerset,NEW CENTERVILLE,State House,69.0,Carl Metzgar,REP,78,,,Somerset County,NEW CENTERVILLE
+Somerset,NORTHAMPTON,State House,69.0,Carl Metzgar,REP,144,,,Somerset County,NORTHAMPTON
+Somerset,OGLE,State House,69.0,Carl Metzgar,REP,164,,,Somerset County,OGLE
+Somerset,PAINTX1,State House,69.0,Carl Metzgar,REP,439,,,Somerset County,PAINTX1
+Somerset,PAINTX2,State House,69.0,Carl Metzgar,REP,435,,,Somerset County,PAINTX2
+Somerset,PAINTX3,State House,69.0,Carl Metzgar,REP,165,,,Somerset County,PAINTX3
+Somerset,QUEMAHONING,State House,69.0,Carl Metzgar,REP,600,,,Somerset County,QUEMAHONING
+Somerset,ROCKWOOD,State House,69.0,Carl Metzgar,REP,225,,,Somerset County,ROCKWOOD
+Somerset,SEVEN SPRINGS,State House,69.0,Carl Metzgar,REP,3,,,Somerset County,SEVEN SPRINGS
+Somerset,SHADEX1,State House,69.0,Carl Metzgar,REP,218,,,Somerset County,SHADEX1
+Somerset,SHADEX2,State House,69.0,Carl Metzgar,REP,188,,,Somerset County,SHADEX2
+Somerset,SHADEX3,State House,69.0,Carl Metzgar,REP,245,,,Somerset County,SHADEX3
+Somerset,SHANKSVILLE,State House,69.0,Carl Metzgar,REP,67,,,Somerset County,SHANKSVILLE
+Somerset,SOMERSETX1,State House,69.0,Carl Metzgar,REP,662,,,Somerset County,SOMERSETX1
+Somerset,SOMERSETX2,State House,69.0,Carl Metzgar,REP,856,,,Somerset County,SOMERSETX2
+Somerset,SOMERSETX3,State House,69.0,Carl Metzgar,REP,793,,,Somerset County,SOMERSETX3
+Somerset,SOMERSETX4,State House,69.0,Carl Metzgar,REP,545,,,Somerset County,SOMERSETX4
+Somerset,SOMERSETXEAST,State House,69.0,Carl Metzgar,REP,299,,,Somerset County,SOMERSETXEAST
+Somerset,SOMERSETXNORTH WEST,State House,69.0,Carl Metzgar,REP,460,,,Somerset County,SOMERSETXNORTH WEST
+Somerset,SOMERSETXSOUTH WEST,State House,69.0,Carl Metzgar,REP,843,,,Somerset County,SOMERSETXSOUTH WEST
+Somerset,SOUTHAMPTON,State House,69.0,Carl Metzgar,REP,232,,,Somerset County,SOUTHAMPTON
+Somerset,STONYCREEK,State House,69.0,Carl Metzgar,REP,816,,,Somerset County,STONYCREEK
+Somerset,STOYSTOWN,State House,69.0,Carl Metzgar,REP,126,,,Somerset County,STOYSTOWN
+Somerset,WELLERSBURG,State House,69.0,Carl Metzgar,REP,67,,,Somerset County,WELLERSBURG
+Somerset,WINDBERX1,State House,69.0,Carl Metzgar,REP,191,,,Somerset County,WINDBERX1
+Somerset,WINDBERX2,State House,69.0,Carl Metzgar,REP,276,,,Somerset County,WINDBERX2
+Somerset,WINDBERX3,State House,69.0,Carl Metzgar,REP,157,,,Somerset County,WINDBERX3
+Somerset,WINDBERX4,State House,69.0,Carl Metzgar,REP,154,,,Somerset County,WINDBERX4
+Somerset,PAINT,State House,71.0,Bryan E. Barbin,DEM,130,,,Somerset County,PAINT
+Somerset,PAINT,State House,71.0,James Patrick Rigby,REP,201,,,Somerset County,PAINT

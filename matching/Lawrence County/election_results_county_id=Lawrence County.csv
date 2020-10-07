@@ -1,0 +1,1273 @@
+county,precinct,office,district,candidate,party,votes,election_day,absentee,county_id,original_precinct_name
+Lawrence,0001 NEW CASTLE W1 D1,U.S. Senate,,Bob Casey Jr,DEM,146.0,,3.0,Lawrence County,0001 NEW CASTLE W1 D1
+Lawrence,0001 NEW CASTLE W1 D1,U.S. Senate,,Lou Barletta,REP,61.0,,0.0,Lawrence County,0001 NEW CASTLE W1 D1
+Lawrence,0001 NEW CASTLE W1 D1,U.S. Senate,,Neal Gale,GRN,2.0,,0.0,Lawrence County,0001 NEW CASTLE W1 D1
+Lawrence,0001 NEW CASTLE W1 D1,U.S. Senate,,Dale R Kerns Jr,LIB,2.0,,0.0,Lawrence County,0001 NEW CASTLE W1 D1
+Lawrence,0001 NEW CASTLE W1 D1,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0001 NEW CASTLE W1 D1
+Lawrence,0001 NEW CASTLE W1 D1,Governor,,Tom Wolf,DEM,147.0,,3.0,Lawrence County,0001 NEW CASTLE W1 D1
+Lawrence,0001 NEW CASTLE W1 D1,Governor,,Scott R. Wagner,REP,60.0,,0.0,Lawrence County,0001 NEW CASTLE W1 D1
+Lawrence,0001 NEW CASTLE W1 D1,Governor,,Paul Glover,GRN,5.0,,0.0,Lawrence County,0001 NEW CASTLE W1 D1
+Lawrence,0001 NEW CASTLE W1 D1,Governor,,Ken V. Krawchuk,LIB,0.0,,0.0,Lawrence County,0001 NEW CASTLE W1 D1
+Lawrence,0001 NEW CASTLE W1 D1,Governor,,Write In,,0.0,,0.0,Lawrence County,0001 NEW CASTLE W1 D1
+Lawrence,0001 NEW CASTLE W1 D1,U.S. House,16.0,Ron Dinicola,DEM,139.0,,3.0,Lawrence County,0001 NEW CASTLE W1 D1
+Lawrence,0001 NEW CASTLE W1 D1,U.S. House,16.0,Mike Kelly,REP,71.0,,0.0,Lawrence County,0001 NEW CASTLE W1 D1
+Lawrence,0001 NEW CASTLE W1 D1,U.S. House,16.0,Ebert G. Bill Beeman,LIB,3.0,,0.0,Lawrence County,0001 NEW CASTLE W1 D1
+Lawrence,0001 NEW CASTLE W1 D1,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0001 NEW CASTLE W1 D1
+Lawrence,0001 NEW CASTLE W1 D1,State House,9.0,Chris Sainato,DEM,159.0,,3.0,Lawrence County,0001 NEW CASTLE W1 D1
+Lawrence,0001 NEW CASTLE W1 D1,State House,9.0,Gregory Michalek,REP,51.0,,0.0,Lawrence County,0001 NEW CASTLE W1 D1
+Lawrence,0001 NEW CASTLE W1 D1,State House,9.0,Write In,,1.0,,0.0,Lawrence County,0001 NEW CASTLE W1 D1
+Lawrence,0002 NEW CASTLE W1 D2,U.S. Senate,,Bob Casey Jr,DEM,182.0,,8.0,Lawrence County,0002 NEW CASTLE W1 D2
+Lawrence,0002 NEW CASTLE W1 D2,U.S. Senate,,Lou Barletta,REP,103.0,,4.0,Lawrence County,0002 NEW CASTLE W1 D2
+Lawrence,0002 NEW CASTLE W1 D2,U.S. Senate,,Neal Gale,GRN,2.0,,0.0,Lawrence County,0002 NEW CASTLE W1 D2
+Lawrence,0002 NEW CASTLE W1 D2,U.S. Senate,,Dale R Kerns Jr,LIB,1.0,,0.0,Lawrence County,0002 NEW CASTLE W1 D2
+Lawrence,0002 NEW CASTLE W1 D2,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0002 NEW CASTLE W1 D2
+Lawrence,0002 NEW CASTLE W1 D2,Governor,,Tom Wolf,DEM,189.0,,9.0,Lawrence County,0002 NEW CASTLE W1 D2
+Lawrence,0002 NEW CASTLE W1 D2,Governor,,Scott R. Wagner,REP,98.0,,2.0,Lawrence County,0002 NEW CASTLE W1 D2
+Lawrence,0002 NEW CASTLE W1 D2,Governor,,Paul Glover,GRN,2.0,,0.0,Lawrence County,0002 NEW CASTLE W1 D2
+Lawrence,0002 NEW CASTLE W1 D2,Governor,,Ken V. Krawchuk,LIB,2.0,,0.0,Lawrence County,0002 NEW CASTLE W1 D2
+Lawrence,0002 NEW CASTLE W1 D2,Governor,,Write In,,0.0,,0.0,Lawrence County,0002 NEW CASTLE W1 D2
+Lawrence,0002 NEW CASTLE W1 D2,U.S. House,16.0,Ron Dinicola,DEM,173.0,,8.0,Lawrence County,0002 NEW CASTLE W1 D2
+Lawrence,0002 NEW CASTLE W1 D2,U.S. House,16.0,Mike Kelly,REP,111.0,,4.0,Lawrence County,0002 NEW CASTLE W1 D2
+Lawrence,0002 NEW CASTLE W1 D2,U.S. House,16.0,Ebert G. Bill Beeman,LIB,5.0,,1.0,Lawrence County,0002 NEW CASTLE W1 D2
+Lawrence,0002 NEW CASTLE W1 D2,U.S. House,16.0,Write In,,1.0,,0.0,Lawrence County,0002 NEW CASTLE W1 D2
+Lawrence,0002 NEW CASTLE W1 D2,State House,9.0,Chris Sainato,DEM,205.0,,8.0,Lawrence County,0002 NEW CASTLE W1 D2
+Lawrence,0002 NEW CASTLE W1 D2,State House,9.0,Gregory Michalek,REP,84.0,,4.0,Lawrence County,0002 NEW CASTLE W1 D2
+Lawrence,0002 NEW CASTLE W1 D2,State House,9.0,Write In,,0.0,,0.0,Lawrence County,0002 NEW CASTLE W1 D2
+Lawrence,0003 NEW CASTLE W2 D1,U.S. Senate,,Bob Casey Jr,DEM,237.0,,16.0,Lawrence County,0003 NEW CASTLE W2 D1
+Lawrence,0003 NEW CASTLE W2 D1,U.S. Senate,,Lou Barletta,REP,98.0,,9.0,Lawrence County,0003 NEW CASTLE W2 D1
+Lawrence,0003 NEW CASTLE W2 D1,U.S. Senate,,Neal Gale,GRN,1.0,,0.0,Lawrence County,0003 NEW CASTLE W2 D1
+Lawrence,0003 NEW CASTLE W2 D1,U.S. Senate,,Dale R Kerns Jr,LIB,4.0,,0.0,Lawrence County,0003 NEW CASTLE W2 D1
+Lawrence,0003 NEW CASTLE W2 D1,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0003 NEW CASTLE W2 D1
+Lawrence,0003 NEW CASTLE W2 D1,Governor,,Tom Wolf,DEM,229.0,,14.0,Lawrence County,0003 NEW CASTLE W2 D1
+Lawrence,0003 NEW CASTLE W2 D1,Governor,,Scott R. Wagner,REP,107.0,,11.0,Lawrence County,0003 NEW CASTLE W2 D1
+Lawrence,0003 NEW CASTLE W2 D1,Governor,,Paul Glover,GRN,1.0,,0.0,Lawrence County,0003 NEW CASTLE W2 D1
+Lawrence,0003 NEW CASTLE W2 D1,Governor,,Ken V. Krawchuk,LIB,4.0,,0.0,Lawrence County,0003 NEW CASTLE W2 D1
+Lawrence,0003 NEW CASTLE W2 D1,Governor,,Write In,,0.0,,0.0,Lawrence County,0003 NEW CASTLE W2 D1
+Lawrence,0003 NEW CASTLE W2 D1,U.S. House,16.0,Ron Dinicola,DEM,216.0,,12.0,Lawrence County,0003 NEW CASTLE W2 D1
+Lawrence,0003 NEW CASTLE W2 D1,U.S. House,16.0,Mike Kelly,REP,116.0,,13.0,Lawrence County,0003 NEW CASTLE W2 D1
+Lawrence,0003 NEW CASTLE W2 D1,U.S. House,16.0,Ebert G. Bill Beeman,LIB,6.0,,0.0,Lawrence County,0003 NEW CASTLE W2 D1
+Lawrence,0003 NEW CASTLE W2 D1,U.S. House,16.0,Write In,,1.0,,0.0,Lawrence County,0003 NEW CASTLE W2 D1
+Lawrence,0003 NEW CASTLE W2 D1,State House,9.0,Chris Sainato,DEM,256.0,,19.0,Lawrence County,0003 NEW CASTLE W2 D1
+Lawrence,0003 NEW CASTLE W2 D1,State House,9.0,Gregory Michalek,REP,84.0,,6.0,Lawrence County,0003 NEW CASTLE W2 D1
+Lawrence,0003 NEW CASTLE W2 D1,State House,9.0,Write In,,0.0,,0.0,Lawrence County,0003 NEW CASTLE W2 D1
+Lawrence,0004 NEW CASTLE W2 D2,U.S. Senate,,Bob Casey Jr,DEM,251.0,,11.0,Lawrence County,0004 NEW CASTLE W2 D2
+Lawrence,0004 NEW CASTLE W2 D2,U.S. Senate,,Lou Barletta,REP,179.0,,8.0,Lawrence County,0004 NEW CASTLE W2 D2
+Lawrence,0004 NEW CASTLE W2 D2,U.S. Senate,,Neal Gale,GRN,6.0,,0.0,Lawrence County,0004 NEW CASTLE W2 D2
+Lawrence,0004 NEW CASTLE W2 D2,U.S. Senate,,Dale R Kerns Jr,LIB,3.0,,2.0,Lawrence County,0004 NEW CASTLE W2 D2
+Lawrence,0004 NEW CASTLE W2 D2,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0004 NEW CASTLE W2 D2
+Lawrence,0004 NEW CASTLE W2 D2,Governor,,Tom Wolf,DEM,261.0,,11.0,Lawrence County,0004 NEW CASTLE W2 D2
+Lawrence,0004 NEW CASTLE W2 D2,Governor,,Scott R. Wagner,REP,174.0,,10.0,Lawrence County,0004 NEW CASTLE W2 D2
+Lawrence,0004 NEW CASTLE W2 D2,Governor,,Paul Glover,GRN,4.0,,0.0,Lawrence County,0004 NEW CASTLE W2 D2
+Lawrence,0004 NEW CASTLE W2 D2,Governor,,Ken V. Krawchuk,LIB,1.0,,0.0,Lawrence County,0004 NEW CASTLE W2 D2
+Lawrence,0004 NEW CASTLE W2 D2,Governor,,Write In,,0.0,,0.0,Lawrence County,0004 NEW CASTLE W2 D2
+Lawrence,0004 NEW CASTLE W2 D2,U.S. House,16.0,Ron Dinicola,DEM,243.0,,9.0,Lawrence County,0004 NEW CASTLE W2 D2
+Lawrence,0004 NEW CASTLE W2 D2,U.S. House,16.0,Mike Kelly,REP,190.0,,11.0,Lawrence County,0004 NEW CASTLE W2 D2
+Lawrence,0004 NEW CASTLE W2 D2,U.S. House,16.0,Ebert G. Bill Beeman,LIB,4.0,,0.0,Lawrence County,0004 NEW CASTLE W2 D2
+Lawrence,0004 NEW CASTLE W2 D2,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0004 NEW CASTLE W2 D2
+Lawrence,0004 NEW CASTLE W2 D2,State House,9.0,Chris Sainato,DEM,279.0,,17.0,Lawrence County,0004 NEW CASTLE W2 D2
+Lawrence,0004 NEW CASTLE W2 D2,State House,9.0,Gregory Michalek,REP,156.0,,4.0,Lawrence County,0004 NEW CASTLE W2 D2
+Lawrence,0004 NEW CASTLE W2 D2,State House,9.0,Write In,,2.0,,0.0,Lawrence County,0004 NEW CASTLE W2 D2
+Lawrence,0005 NEW CASTLE W2 D3,U.S. Senate,,Bob Casey Jr,DEM,224.0,,8.0,Lawrence County,0005 NEW CASTLE W2 D3
+Lawrence,0005 NEW CASTLE W2 D3,U.S. Senate,,Lou Barletta,REP,192.0,,9.0,Lawrence County,0005 NEW CASTLE W2 D3
+Lawrence,0005 NEW CASTLE W2 D3,U.S. Senate,,Neal Gale,GRN,1.0,,1.0,Lawrence County,0005 NEW CASTLE W2 D3
+Lawrence,0005 NEW CASTLE W2 D3,U.S. Senate,,Dale R Kerns Jr,LIB,6.0,,1.0,Lawrence County,0005 NEW CASTLE W2 D3
+Lawrence,0005 NEW CASTLE W2 D3,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0005 NEW CASTLE W2 D3
+Lawrence,0005 NEW CASTLE W2 D3,Governor,,Tom Wolf,DEM,232.0,,8.0,Lawrence County,0005 NEW CASTLE W2 D3
+Lawrence,0005 NEW CASTLE W2 D3,Governor,,Scott R. Wagner,REP,191.0,,10.0,Lawrence County,0005 NEW CASTLE W2 D3
+Lawrence,0005 NEW CASTLE W2 D3,Governor,,Paul Glover,GRN,3.0,,0.0,Lawrence County,0005 NEW CASTLE W2 D3
+Lawrence,0005 NEW CASTLE W2 D3,Governor,,Ken V. Krawchuk,LIB,2.0,,0.0,Lawrence County,0005 NEW CASTLE W2 D3
+Lawrence,0005 NEW CASTLE W2 D3,Governor,,Write In,,0.0,,0.0,Lawrence County,0005 NEW CASTLE W2 D3
+Lawrence,0005 NEW CASTLE W2 D3,U.S. House,16.0,Ron Dinicola,DEM,211.0,,7.0,Lawrence County,0005 NEW CASTLE W2 D3
+Lawrence,0005 NEW CASTLE W2 D3,U.S. House,16.0,Mike Kelly,REP,210.0,,10.0,Lawrence County,0005 NEW CASTLE W2 D3
+Lawrence,0005 NEW CASTLE W2 D3,U.S. House,16.0,Ebert G. Bill Beeman,LIB,6.0,,2.0,Lawrence County,0005 NEW CASTLE W2 D3
+Lawrence,0005 NEW CASTLE W2 D3,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0005 NEW CASTLE W2 D3
+Lawrence,0005 NEW CASTLE W2 D3,State House,9.0,Chris Sainato,DEM,249.0,,10.0,Lawrence County,0005 NEW CASTLE W2 D3
+Lawrence,0005 NEW CASTLE W2 D3,State House,9.0,Gregory Michalek,REP,175.0,,9.0,Lawrence County,0005 NEW CASTLE W2 D3
+Lawrence,0005 NEW CASTLE W2 D3,State House,9.0,Write In,,0.0,,0.0,Lawrence County,0005 NEW CASTLE W2 D3
+Lawrence,0006 NEW CASTLE W2 D4,U.S. Senate,,Bob Casey Jr,DEM,240.0,,10.0,Lawrence County,0006 NEW CASTLE W2 D4
+Lawrence,0006 NEW CASTLE W2 D4,U.S. Senate,,Lou Barletta,REP,175.0,,8.0,Lawrence County,0006 NEW CASTLE W2 D4
+Lawrence,0006 NEW CASTLE W2 D4,U.S. Senate,,Neal Gale,GRN,2.0,,1.0,Lawrence County,0006 NEW CASTLE W2 D4
+Lawrence,0006 NEW CASTLE W2 D4,U.S. Senate,,Dale R Kerns Jr,LIB,3.0,,0.0,Lawrence County,0006 NEW CASTLE W2 D4
+Lawrence,0006 NEW CASTLE W2 D4,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0006 NEW CASTLE W2 D4
+Lawrence,0006 NEW CASTLE W2 D4,Governor,,Tom Wolf,DEM,246.0,,10.0,Lawrence County,0006 NEW CASTLE W2 D4
+Lawrence,0006 NEW CASTLE W2 D4,Governor,,Scott R. Wagner,REP,167.0,,8.0,Lawrence County,0006 NEW CASTLE W2 D4
+Lawrence,0006 NEW CASTLE W2 D4,Governor,,Paul Glover,GRN,3.0,,1.0,Lawrence County,0006 NEW CASTLE W2 D4
+Lawrence,0006 NEW CASTLE W2 D4,Governor,,Ken V. Krawchuk,LIB,7.0,,0.0,Lawrence County,0006 NEW CASTLE W2 D4
+Lawrence,0006 NEW CASTLE W2 D4,Governor,,Write In,,0.0,,0.0,Lawrence County,0006 NEW CASTLE W2 D4
+Lawrence,0006 NEW CASTLE W2 D4,U.S. House,16.0,Ron Dinicola,DEM,223.0,,10.0,Lawrence County,0006 NEW CASTLE W2 D4
+Lawrence,0006 NEW CASTLE W2 D4,U.S. House,16.0,Mike Kelly,REP,192.0,,8.0,Lawrence County,0006 NEW CASTLE W2 D4
+Lawrence,0006 NEW CASTLE W2 D4,U.S. House,16.0,Ebert G. Bill Beeman,LIB,4.0,,0.0,Lawrence County,0006 NEW CASTLE W2 D4
+Lawrence,0006 NEW CASTLE W2 D4,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0006 NEW CASTLE W2 D4
+Lawrence,0006 NEW CASTLE W2 D4,State House,9.0,Chris Sainato,DEM,269.0,,12.0,Lawrence County,0006 NEW CASTLE W2 D4
+Lawrence,0006 NEW CASTLE W2 D4,State House,9.0,Gregory Michalek,REP,149.0,,5.0,Lawrence County,0006 NEW CASTLE W2 D4
+Lawrence,0006 NEW CASTLE W2 D4,State House,9.0,Write In,,1.0,,0.0,Lawrence County,0006 NEW CASTLE W2 D4
+Lawrence,0007 NEW CASTLE W2 D5,U.S. Senate,,Bob Casey Jr,DEM,360.0,,10.0,Lawrence County,0007 NEW CASTLE W2 D5
+Lawrence,0007 NEW CASTLE W2 D5,U.S. Senate,,Lou Barletta,REP,267.0,,10.0,Lawrence County,0007 NEW CASTLE W2 D5
+Lawrence,0007 NEW CASTLE W2 D5,U.S. Senate,,Neal Gale,GRN,1.0,,0.0,Lawrence County,0007 NEW CASTLE W2 D5
+Lawrence,0007 NEW CASTLE W2 D5,U.S. Senate,,Dale R Kerns Jr,LIB,3.0,,0.0,Lawrence County,0007 NEW CASTLE W2 D5
+Lawrence,0007 NEW CASTLE W2 D5,U.S. Senate,,Write In,,1.0,,0.0,Lawrence County,0007 NEW CASTLE W2 D5
+Lawrence,0007 NEW CASTLE W2 D5,Governor,,Tom Wolf,DEM,376.0,,11.0,Lawrence County,0007 NEW CASTLE W2 D5
+Lawrence,0007 NEW CASTLE W2 D5,Governor,,Scott R. Wagner,REP,258.0,,9.0,Lawrence County,0007 NEW CASTLE W2 D5
+Lawrence,0007 NEW CASTLE W2 D5,Governor,,Paul Glover,GRN,2.0,,0.0,Lawrence County,0007 NEW CASTLE W2 D5
+Lawrence,0007 NEW CASTLE W2 D5,Governor,,Ken V. Krawchuk,LIB,3.0,,0.0,Lawrence County,0007 NEW CASTLE W2 D5
+Lawrence,0007 NEW CASTLE W2 D5,Governor,,Write In,,0.0,,0.0,Lawrence County,0007 NEW CASTLE W2 D5
+Lawrence,0007 NEW CASTLE W2 D5,U.S. House,16.0,Ron Dinicola,DEM,349.0,,10.0,Lawrence County,0007 NEW CASTLE W2 D5
+Lawrence,0007 NEW CASTLE W2 D5,U.S. House,16.0,Mike Kelly,REP,282.0,,10.0,Lawrence County,0007 NEW CASTLE W2 D5
+Lawrence,0007 NEW CASTLE W2 D5,U.S. House,16.0,Ebert G. Bill Beeman,LIB,6.0,,0.0,Lawrence County,0007 NEW CASTLE W2 D5
+Lawrence,0007 NEW CASTLE W2 D5,U.S. House,16.0,Write In,,1.0,,0.0,Lawrence County,0007 NEW CASTLE W2 D5
+Lawrence,0007 NEW CASTLE W2 D5,State House,9.0,Chris Sainato,DEM,410.0,,10.0,Lawrence County,0007 NEW CASTLE W2 D5
+Lawrence,0007 NEW CASTLE W2 D5,State House,9.0,Gregory Michalek,REP,220.0,,9.0,Lawrence County,0007 NEW CASTLE W2 D5
+Lawrence,0007 NEW CASTLE W2 D5,State House,9.0,Write In,,0.0,,0.0,Lawrence County,0007 NEW CASTLE W2 D5
+Lawrence,0008 NEW CASTLE W3 D1,U.S. Senate,,Bob Casey Jr,DEM,156.0,,7.0,Lawrence County,0008 NEW CASTLE W3 D1
+Lawrence,0008 NEW CASTLE W3 D1,U.S. Senate,,Lou Barletta,REP,97.0,,1.0,Lawrence County,0008 NEW CASTLE W3 D1
+Lawrence,0008 NEW CASTLE W3 D1,U.S. Senate,,Neal Gale,GRN,2.0,,0.0,Lawrence County,0008 NEW CASTLE W3 D1
+Lawrence,0008 NEW CASTLE W3 D1,U.S. Senate,,Dale R Kerns Jr,LIB,1.0,,0.0,Lawrence County,0008 NEW CASTLE W3 D1
+Lawrence,0008 NEW CASTLE W3 D1,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0008 NEW CASTLE W3 D1
+Lawrence,0008 NEW CASTLE W3 D1,Governor,,Tom Wolf,DEM,159.0,,7.0,Lawrence County,0008 NEW CASTLE W3 D1
+Lawrence,0008 NEW CASTLE W3 D1,Governor,,Scott R. Wagner,REP,90.0,,1.0,Lawrence County,0008 NEW CASTLE W3 D1
+Lawrence,0008 NEW CASTLE W3 D1,Governor,,Paul Glover,GRN,2.0,,0.0,Lawrence County,0008 NEW CASTLE W3 D1
+Lawrence,0008 NEW CASTLE W3 D1,Governor,,Ken V. Krawchuk,LIB,3.0,,0.0,Lawrence County,0008 NEW CASTLE W3 D1
+Lawrence,0008 NEW CASTLE W3 D1,Governor,,Write In,,1.0,,0.0,Lawrence County,0008 NEW CASTLE W3 D1
+Lawrence,0008 NEW CASTLE W3 D1,U.S. House,16.0,Ron Dinicola,DEM,145.0,,6.0,Lawrence County,0008 NEW CASTLE W3 D1
+Lawrence,0008 NEW CASTLE W3 D1,U.S. House,16.0,Mike Kelly,REP,106.0,,2.0,Lawrence County,0008 NEW CASTLE W3 D1
+Lawrence,0008 NEW CASTLE W3 D1,U.S. House,16.0,Ebert G. Bill Beeman,LIB,3.0,,0.0,Lawrence County,0008 NEW CASTLE W3 D1
+Lawrence,0008 NEW CASTLE W3 D1,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0008 NEW CASTLE W3 D1
+Lawrence,0008 NEW CASTLE W3 D1,State House,9.0,Chris Sainato,DEM,178.0,,7.0,Lawrence County,0008 NEW CASTLE W3 D1
+Lawrence,0008 NEW CASTLE W3 D1,State House,9.0,Gregory Michalek,REP,76.0,,1.0,Lawrence County,0008 NEW CASTLE W3 D1
+Lawrence,0008 NEW CASTLE W3 D1,State House,9.0,Write In,,1.0,,0.0,Lawrence County,0008 NEW CASTLE W3 D1
+Lawrence,0009 NEW CASTLE W3 D2,U.S. Senate,,Bob Casey Jr,DEM,228.0,,8.0,Lawrence County,0009 NEW CASTLE W3 D2
+Lawrence,0009 NEW CASTLE W3 D2,U.S. Senate,,Lou Barletta,REP,103.0,,4.0,Lawrence County,0009 NEW CASTLE W3 D2
+Lawrence,0009 NEW CASTLE W3 D2,U.S. Senate,,Neal Gale,GRN,3.0,,1.0,Lawrence County,0009 NEW CASTLE W3 D2
+Lawrence,0009 NEW CASTLE W3 D2,U.S. Senate,,Dale R Kerns Jr,LIB,1.0,,0.0,Lawrence County,0009 NEW CASTLE W3 D2
+Lawrence,0009 NEW CASTLE W3 D2,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0009 NEW CASTLE W3 D2
+Lawrence,0009 NEW CASTLE W3 D2,Governor,,Tom Wolf,DEM,227.0,,9.0,Lawrence County,0009 NEW CASTLE W3 D2
+Lawrence,0009 NEW CASTLE W3 D2,Governor,,Scott R. Wagner,REP,103.0,,3.0,Lawrence County,0009 NEW CASTLE W3 D2
+Lawrence,0009 NEW CASTLE W3 D2,Governor,,Paul Glover,GRN,3.0,,0.0,Lawrence County,0009 NEW CASTLE W3 D2
+Lawrence,0009 NEW CASTLE W3 D2,Governor,,Ken V. Krawchuk,LIB,2.0,,1.0,Lawrence County,0009 NEW CASTLE W3 D2
+Lawrence,0009 NEW CASTLE W3 D2,Governor,,Write In,,0.0,,0.0,Lawrence County,0009 NEW CASTLE W3 D2
+Lawrence,0009 NEW CASTLE W3 D2,U.S. House,16.0,Ron Dinicola,DEM,219.0,,8.0,Lawrence County,0009 NEW CASTLE W3 D2
+Lawrence,0009 NEW CASTLE W3 D2,U.S. House,16.0,Mike Kelly,REP,111.0,,4.0,Lawrence County,0009 NEW CASTLE W3 D2
+Lawrence,0009 NEW CASTLE W3 D2,U.S. House,16.0,Ebert G. Bill Beeman,LIB,2.0,,1.0,Lawrence County,0009 NEW CASTLE W3 D2
+Lawrence,0009 NEW CASTLE W3 D2,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0009 NEW CASTLE W3 D2
+Lawrence,0009 NEW CASTLE W3 D2,State House,9.0,Chris Sainato,DEM,247.0,,10.0,Lawrence County,0009 NEW CASTLE W3 D2
+Lawrence,0009 NEW CASTLE W3 D2,State House,9.0,Gregory Michalek,REP,82.0,,3.0,Lawrence County,0009 NEW CASTLE W3 D2
+Lawrence,0009 NEW CASTLE W3 D2,State House,9.0,Write In,,2.0,,0.0,Lawrence County,0009 NEW CASTLE W3 D2
+Lawrence,0010 NEW CASTLE W4 D1,U.S. Senate,,Bob Casey Jr,DEM,198.0,,4.0,Lawrence County,0010 NEW CASTLE W4 D1
+Lawrence,0010 NEW CASTLE W4 D1,U.S. Senate,,Lou Barletta,REP,105.0,,2.0,Lawrence County,0010 NEW CASTLE W4 D1
+Lawrence,0010 NEW CASTLE W4 D1,U.S. Senate,,Neal Gale,GRN,0.0,,0.0,Lawrence County,0010 NEW CASTLE W4 D1
+Lawrence,0010 NEW CASTLE W4 D1,U.S. Senate,,Dale R Kerns Jr,LIB,3.0,,0.0,Lawrence County,0010 NEW CASTLE W4 D1
+Lawrence,0010 NEW CASTLE W4 D1,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0010 NEW CASTLE W4 D1
+Lawrence,0010 NEW CASTLE W4 D1,Governor,,Tom Wolf,DEM,204.0,,5.0,Lawrence County,0010 NEW CASTLE W4 D1
+Lawrence,0010 NEW CASTLE W4 D1,Governor,,Scott R. Wagner,REP,97.0,,1.0,Lawrence County,0010 NEW CASTLE W4 D1
+Lawrence,0010 NEW CASTLE W4 D1,Governor,,Paul Glover,GRN,0.0,,0.0,Lawrence County,0010 NEW CASTLE W4 D1
+Lawrence,0010 NEW CASTLE W4 D1,Governor,,Ken V. Krawchuk,LIB,5.0,,0.0,Lawrence County,0010 NEW CASTLE W4 D1
+Lawrence,0010 NEW CASTLE W4 D1,Governor,,Write In,,1.0,,0.0,Lawrence County,0010 NEW CASTLE W4 D1
+Lawrence,0010 NEW CASTLE W4 D1,U.S. House,16.0,Ron Dinicola,DEM,192.0,,4.0,Lawrence County,0010 NEW CASTLE W4 D1
+Lawrence,0010 NEW CASTLE W4 D1,U.S. House,16.0,Mike Kelly,REP,110.0,,2.0,Lawrence County,0010 NEW CASTLE W4 D1
+Lawrence,0010 NEW CASTLE W4 D1,U.S. House,16.0,Ebert G. Bill Beeman,LIB,2.0,,0.0,Lawrence County,0010 NEW CASTLE W4 D1
+Lawrence,0010 NEW CASTLE W4 D1,U.S. House,16.0,Write In,,2.0,,0.0,Lawrence County,0010 NEW CASTLE W4 D1
+Lawrence,0010 NEW CASTLE W4 D1,State House,9.0,Chris Sainato,DEM,223.0,,5.0,Lawrence County,0010 NEW CASTLE W4 D1
+Lawrence,0010 NEW CASTLE W4 D1,State House,9.0,Gregory Michalek,REP,85.0,,1.0,Lawrence County,0010 NEW CASTLE W4 D1
+Lawrence,0010 NEW CASTLE W4 D1,State House,9.0,Write In,,0.0,,0.0,Lawrence County,0010 NEW CASTLE W4 D1
+Lawrence,0011 NEW CASTLE W4 D2,U.S. Senate,,Bob Casey Jr,DEM,236.0,,15.0,Lawrence County,0011 NEW CASTLE W4 D2
+Lawrence,0011 NEW CASTLE W4 D2,U.S. Senate,,Lou Barletta,REP,150.0,,3.0,Lawrence County,0011 NEW CASTLE W4 D2
+Lawrence,0011 NEW CASTLE W4 D2,U.S. Senate,,Neal Gale,GRN,4.0,,0.0,Lawrence County,0011 NEW CASTLE W4 D2
+Lawrence,0011 NEW CASTLE W4 D2,U.S. Senate,,Dale R Kerns Jr,LIB,2.0,,0.0,Lawrence County,0011 NEW CASTLE W4 D2
+Lawrence,0011 NEW CASTLE W4 D2,U.S. Senate,,Write In,,1.0,,0.0,Lawrence County,0011 NEW CASTLE W4 D2
+Lawrence,0011 NEW CASTLE W4 D2,Governor,,Tom Wolf,DEM,243.0,,15.0,Lawrence County,0011 NEW CASTLE W4 D2
+Lawrence,0011 NEW CASTLE W4 D2,Governor,,Scott R. Wagner,REP,141.0,,2.0,Lawrence County,0011 NEW CASTLE W4 D2
+Lawrence,0011 NEW CASTLE W4 D2,Governor,,Paul Glover,GRN,3.0,,0.0,Lawrence County,0011 NEW CASTLE W4 D2
+Lawrence,0011 NEW CASTLE W4 D2,Governor,,Ken V. Krawchuk,LIB,5.0,,1.0,Lawrence County,0011 NEW CASTLE W4 D2
+Lawrence,0011 NEW CASTLE W4 D2,Governor,,Write In,,2.0,,0.0,Lawrence County,0011 NEW CASTLE W4 D2
+Lawrence,0011 NEW CASTLE W4 D2,U.S. House,16.0,Ron Dinicola,DEM,215.0,,13.0,Lawrence County,0011 NEW CASTLE W4 D2
+Lawrence,0011 NEW CASTLE W4 D2,U.S. House,16.0,Mike Kelly,REP,166.0,,5.0,Lawrence County,0011 NEW CASTLE W4 D2
+Lawrence,0011 NEW CASTLE W4 D2,U.S. House,16.0,Ebert G. Bill Beeman,LIB,6.0,,0.0,Lawrence County,0011 NEW CASTLE W4 D2
+Lawrence,0011 NEW CASTLE W4 D2,U.S. House,16.0,Write In,,1.0,,0.0,Lawrence County,0011 NEW CASTLE W4 D2
+Lawrence,0011 NEW CASTLE W4 D2,State House,9.0,Chris Sainato,DEM,261.0,,163.0,Lawrence County,0011 NEW CASTLE W4 D2
+Lawrence,0011 NEW CASTLE W4 D2,State House,9.0,Gregory Michalek,REP,127.0,,2.0,Lawrence County,0011 NEW CASTLE W4 D2
+Lawrence,0011 NEW CASTLE W4 D2,State House,9.0,Write In,,1.0,,0.0,Lawrence County,0011 NEW CASTLE W4 D2
+Lawrence,0012 NEW CASTLE W4 D3,U.S. Senate,,Bob Casey Jr,DEM,272.0,,15.0,Lawrence County,0012 NEW CASTLE W4 D3
+Lawrence,0012 NEW CASTLE W4 D3,U.S. Senate,,Lou Barletta,REP,187.0,,7.0,Lawrence County,0012 NEW CASTLE W4 D3
+Lawrence,0012 NEW CASTLE W4 D3,U.S. Senate,,Neal Gale,GRN,3.0,,0.0,Lawrence County,0012 NEW CASTLE W4 D3
+Lawrence,0012 NEW CASTLE W4 D3,U.S. Senate,,Dale R Kerns Jr,LIB,6.0,,0.0,Lawrence County,0012 NEW CASTLE W4 D3
+Lawrence,0012 NEW CASTLE W4 D3,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0012 NEW CASTLE W4 D3
+Lawrence,0012 NEW CASTLE W4 D3,Governor,,Tom Wolf,DEM,292.0,,15.0,Lawrence County,0012 NEW CASTLE W4 D3
+Lawrence,0012 NEW CASTLE W4 D3,Governor,,Scott R. Wagner,REP,171.0,,7.0,Lawrence County,0012 NEW CASTLE W4 D3
+Lawrence,0012 NEW CASTLE W4 D3,Governor,,Paul Glover,GRN,3.0,,0.0,Lawrence County,0012 NEW CASTLE W4 D3
+Lawrence,0012 NEW CASTLE W4 D3,Governor,,Ken V. Krawchuk,LIB,5.0,,0.0,Lawrence County,0012 NEW CASTLE W4 D3
+Lawrence,0012 NEW CASTLE W4 D3,Governor,,Write In,,0.0,,,Lawrence County,0012 NEW CASTLE W4 D3
+Lawrence,0012 NEW CASTLE W4 D3,U.S. House,16.0,Ron Dinicola,DEM,276.0,,14.0,Lawrence County,0012 NEW CASTLE W4 D3
+Lawrence,0012 NEW CASTLE W4 D3,U.S. House,16.0,Mike Kelly,REP,188.0,,8.0,Lawrence County,0012 NEW CASTLE W4 D3
+Lawrence,0012 NEW CASTLE W4 D3,U.S. House,16.0,Ebert G. Bill Beeman,LIB,6.0,,0.0,Lawrence County,0012 NEW CASTLE W4 D3
+Lawrence,0012 NEW CASTLE W4 D3,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0012 NEW CASTLE W4 D3
+Lawrence,0012 NEW CASTLE W4 D3,State House,9.0,Chris Sainato,DEM,309.0,,19.0,Lawrence County,0012 NEW CASTLE W4 D3
+Lawrence,0012 NEW CASTLE W4 D3,State House,9.0,Gregory Michalek,REP,157.0,,3.0,Lawrence County,0012 NEW CASTLE W4 D3
+Lawrence,0012 NEW CASTLE W4 D3,State House,9.0,Write In,,0.0,,0.0,Lawrence County,0012 NEW CASTLE W4 D3
+Lawrence,0013 NEW CASTLE W5 D1,U.S. Senate,,Bob Casey Jr,DEM,210.0,,14.0,Lawrence County,0013 NEW CASTLE W5 D1
+Lawrence,0013 NEW CASTLE W5 D1,U.S. Senate,,Lou Barletta,REP,75.0,,9.0,Lawrence County,0013 NEW CASTLE W5 D1
+Lawrence,0013 NEW CASTLE W5 D1,U.S. Senate,,Neal Gale,GRN,1.0,,1.0,Lawrence County,0013 NEW CASTLE W5 D1
+Lawrence,0013 NEW CASTLE W5 D1,U.S. Senate,,Dale R Kerns Jr,LIB,1.0,,0.0,Lawrence County,0013 NEW CASTLE W5 D1
+Lawrence,0013 NEW CASTLE W5 D1,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0013 NEW CASTLE W5 D1
+Lawrence,0013 NEW CASTLE W5 D1,Governor,,Tom Wolf,DEM,211.0,,14.0,Lawrence County,0013 NEW CASTLE W5 D1
+Lawrence,0013 NEW CASTLE W5 D1,Governor,,Scott R. Wagner,REP,72.0,,8.0,Lawrence County,0013 NEW CASTLE W5 D1
+Lawrence,0013 NEW CASTLE W5 D1,Governor,,Paul Glover,GRN,3.0,,0.0,Lawrence County,0013 NEW CASTLE W5 D1
+Lawrence,0013 NEW CASTLE W5 D1,Governor,,Ken V. Krawchuk,LIB,2.0,,2.0,Lawrence County,0013 NEW CASTLE W5 D1
+Lawrence,0013 NEW CASTLE W5 D1,Governor,,Write In,,0.0,,0.0,Lawrence County,0013 NEW CASTLE W5 D1
+Lawrence,0013 NEW CASTLE W5 D1,U.S. House,16.0,Ron Dinicola,DEM,199.0,,11.0,Lawrence County,0013 NEW CASTLE W5 D1
+Lawrence,0013 NEW CASTLE W5 D1,U.S. House,16.0,Mike Kelly,REP,80.0,,12.0,Lawrence County,0013 NEW CASTLE W5 D1
+Lawrence,0013 NEW CASTLE W5 D1,U.S. House,16.0,Ebert G. Bill Beeman,LIB,4.0,,0.0,Lawrence County,0013 NEW CASTLE W5 D1
+Lawrence,0013 NEW CASTLE W5 D1,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0013 NEW CASTLE W5 D1
+Lawrence,0013 NEW CASTLE W5 D1,State House,9.0,Chris Sainato,DEM,235.0,,16.0,Lawrence County,0013 NEW CASTLE W5 D1
+Lawrence,0013 NEW CASTLE W5 D1,State House,9.0,Gregory Michalek,REP,51.0,,7.0,Lawrence County,0013 NEW CASTLE W5 D1
+Lawrence,0013 NEW CASTLE W5 D1,State House,9.0,Write In,,2.0,,0.0,Lawrence County,0013 NEW CASTLE W5 D1
+Lawrence,0014 NEW CASTLE W5 D2,U.S. Senate,,Bob Casey Jr,DEM,185.0,,8.0,Lawrence County,0014 NEW CASTLE W5 D2
+Lawrence,0014 NEW CASTLE W5 D2,U.S. Senate,,Lou Barletta,REP,124.0,,4.0,Lawrence County,0014 NEW CASTLE W5 D2
+Lawrence,0014 NEW CASTLE W5 D2,U.S. Senate,,Neal Gale,GRN,2.0,,1.0,Lawrence County,0014 NEW CASTLE W5 D2
+Lawrence,0014 NEW CASTLE W5 D2,U.S. Senate,,Dale R Kerns Jr,LIB,2.0,,0.0,Lawrence County,0014 NEW CASTLE W5 D2
+Lawrence,0014 NEW CASTLE W5 D2,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0014 NEW CASTLE W5 D2
+Lawrence,0014 NEW CASTLE W5 D2,Governor,,Tom Wolf,DEM,191.0,,8.0,Lawrence County,0014 NEW CASTLE W5 D2
+Lawrence,0014 NEW CASTLE W5 D2,Governor,,Scott R. Wagner,REP,118.0,,4.0,Lawrence County,0014 NEW CASTLE W5 D2
+Lawrence,0014 NEW CASTLE W5 D2,Governor,,Paul Glover,GRN,2.0,,2.0,Lawrence County,0014 NEW CASTLE W5 D2
+Lawrence,0014 NEW CASTLE W5 D2,Governor,,Ken V. Krawchuk,LIB,2.0,,1.0,Lawrence County,0014 NEW CASTLE W5 D2
+Lawrence,0014 NEW CASTLE W5 D2,Governor,,Write In,,0.0,,0.0,Lawrence County,0014 NEW CASTLE W5 D2
+Lawrence,0014 NEW CASTLE W5 D2,U.S. House,16.0,Ron Dinicola,DEM,184.0,,7.0,Lawrence County,0014 NEW CASTLE W5 D2
+Lawrence,0014 NEW CASTLE W5 D2,U.S. House,16.0,Mike Kelly,REP,125.0,,6.0,Lawrence County,0014 NEW CASTLE W5 D2
+Lawrence,0014 NEW CASTLE W5 D2,U.S. House,16.0,Ebert G. Bill Beeman,LIB,2.0,,0.0,Lawrence County,0014 NEW CASTLE W5 D2
+Lawrence,0014 NEW CASTLE W5 D2,U.S. House,16.0,Write In,,1.0,,0.0,Lawrence County,0014 NEW CASTLE W5 D2
+Lawrence,0014 NEW CASTLE W5 D2,State House,9.0,Chris Sainato,DEM,209.0,,8.0,Lawrence County,0014 NEW CASTLE W5 D2
+Lawrence,0014 NEW CASTLE W5 D2,State House,9.0,Gregory Michalek,REP,103.0,,5.0,Lawrence County,0014 NEW CASTLE W5 D2
+Lawrence,0014 NEW CASTLE W5 D2,State House,9.0,Write In,,0.0,,,Lawrence County,0014 NEW CASTLE W5 D2
+Lawrence,0015 NEW CASTLE W6 D1,U.S. Senate,,Bob Casey Jr,DEM,210.0,,1.0,Lawrence County,0015 NEW CASTLE W6 D1
+Lawrence,0015 NEW CASTLE W6 D1,U.S. Senate,,Lou Barletta,REP,30.0,,0.0,Lawrence County,0015 NEW CASTLE W6 D1
+Lawrence,0015 NEW CASTLE W6 D1,U.S. Senate,,Neal Gale,GRN,1.0,,0.0,Lawrence County,0015 NEW CASTLE W6 D1
+Lawrence,0015 NEW CASTLE W6 D1,U.S. Senate,,Dale R Kerns Jr,LIB,2.0,,0.0,Lawrence County,0015 NEW CASTLE W6 D1
+Lawrence,0015 NEW CASTLE W6 D1,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0015 NEW CASTLE W6 D1
+Lawrence,0015 NEW CASTLE W6 D1,Governor,,Tom Wolf,DEM,210.0,,1.0,Lawrence County,0015 NEW CASTLE W6 D1
+Lawrence,0015 NEW CASTLE W6 D1,Governor,,Scott R. Wagner,REP,32.0,,0.0,Lawrence County,0015 NEW CASTLE W6 D1
+Lawrence,0015 NEW CASTLE W6 D1,Governor,,Paul Glover,GRN,1.0,,0.0,Lawrence County,0015 NEW CASTLE W6 D1
+Lawrence,0015 NEW CASTLE W6 D1,Governor,,Ken V. Krawchuk,LIB,2.0,,0.0,Lawrence County,0015 NEW CASTLE W6 D1
+Lawrence,0015 NEW CASTLE W6 D1,Governor,,Write In,,0.0,,0.0,Lawrence County,0015 NEW CASTLE W6 D1
+Lawrence,0015 NEW CASTLE W6 D1,U.S. House,16.0,Ron Dinicola,DEM,209.0,,0.0,Lawrence County,0015 NEW CASTLE W6 D1
+Lawrence,0015 NEW CASTLE W6 D1,U.S. House,16.0,Mike Kelly,REP,31.0,,0.0,Lawrence County,0015 NEW CASTLE W6 D1
+Lawrence,0015 NEW CASTLE W6 D1,U.S. House,16.0,Ebert G. Bill Beeman,LIB,3.0,,1.0,Lawrence County,0015 NEW CASTLE W6 D1
+Lawrence,0015 NEW CASTLE W6 D1,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0015 NEW CASTLE W6 D1
+Lawrence,0015 NEW CASTLE W6 D1,State House,9.0,Chris Sainato,DEM,222.0,,1.0,Lawrence County,0015 NEW CASTLE W6 D1
+Lawrence,0015 NEW CASTLE W6 D1,State House,9.0,Gregory Michalek,REP,23.0,,0.0,Lawrence County,0015 NEW CASTLE W6 D1
+Lawrence,0015 NEW CASTLE W6 D1,State House,9.0,Write In,,0.0,,0.0,Lawrence County,0015 NEW CASTLE W6 D1
+Lawrence,0016 NEW CASTLE W7 D1,U.S. Senate,,Bob Casey Jr,DEM,238.0,,16.0,Lawrence County,0016 NEW CASTLE W7 D1
+Lawrence,0016 NEW CASTLE W7 D1,U.S. Senate,,Lou Barletta,REP,181.0,,12.0,Lawrence County,0016 NEW CASTLE W7 D1
+Lawrence,0016 NEW CASTLE W7 D1,U.S. Senate,,Neal Gale,GRN,0.0,,0.0,Lawrence County,0016 NEW CASTLE W7 D1
+Lawrence,0016 NEW CASTLE W7 D1,U.S. Senate,,Dale R Kerns Jr,LIB,3.0,,0.0,Lawrence County,0016 NEW CASTLE W7 D1
+Lawrence,0016 NEW CASTLE W7 D1,U.S. Senate,,Write In,,1.0,,0.0,Lawrence County,0016 NEW CASTLE W7 D1
+Lawrence,0016 NEW CASTLE W7 D1,Governor,,Tom Wolf,DEM,251.0,,16.0,Lawrence County,0016 NEW CASTLE W7 D1
+Lawrence,0016 NEW CASTLE W7 D1,Governor,,Scott R. Wagner,REP,170.0,,11.0,Lawrence County,0016 NEW CASTLE W7 D1
+Lawrence,0016 NEW CASTLE W7 D1,Governor,,Paul Glover,GRN,1.0,,0.0,Lawrence County,0016 NEW CASTLE W7 D1
+Lawrence,0016 NEW CASTLE W7 D1,Governor,,Ken V. Krawchuk,LIB,2.0,,0.0,Lawrence County,0016 NEW CASTLE W7 D1
+Lawrence,0016 NEW CASTLE W7 D1,Governor,,Write In,,0.0,,0.0,Lawrence County,0016 NEW CASTLE W7 D1
+Lawrence,0016 NEW CASTLE W7 D1,U.S. House,16.0,Ron Dinicola,DEM,230.0,,15.0,Lawrence County,0016 NEW CASTLE W7 D1
+Lawrence,0016 NEW CASTLE W7 D1,U.S. House,16.0,Mike Kelly,REP,192.0,,13.0,Lawrence County,0016 NEW CASTLE W7 D1
+Lawrence,0016 NEW CASTLE W7 D1,U.S. House,16.0,Ebert G. Bill Beeman,LIB,2.0,,0.0,Lawrence County,0016 NEW CASTLE W7 D1
+Lawrence,0016 NEW CASTLE W7 D1,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0016 NEW CASTLE W7 D1
+Lawrence,0016 NEW CASTLE W7 D1,State House,9.0,Chris Sainato,DEM,269.0,,19.0,Lawrence County,0016 NEW CASTLE W7 D1
+Lawrence,0016 NEW CASTLE W7 D1,State House,9.0,Gregory Michalek,REP,156.0,,9.0,Lawrence County,0016 NEW CASTLE W7 D1
+Lawrence,0016 NEW CASTLE W7 D1,State House,9.0,Write In,,0.0,,0.0,Lawrence County,0016 NEW CASTLE W7 D1
+Lawrence,0017 NEW CASTLE W8 D1,U.S. Senate,,Bob Casey Jr,DEM,154.0,,10.0,Lawrence County,0017 NEW CASTLE W8 D1
+Lawrence,0017 NEW CASTLE W8 D1,U.S. Senate,,Lou Barletta,REP,87.0,,2.0,Lawrence County,0017 NEW CASTLE W8 D1
+Lawrence,0017 NEW CASTLE W8 D1,U.S. Senate,,Neal Gale,GRN,2.0,,0.0,Lawrence County,0017 NEW CASTLE W8 D1
+Lawrence,0017 NEW CASTLE W8 D1,U.S. Senate,,Dale R Kerns Jr,LIB,1.0,,0.0,Lawrence County,0017 NEW CASTLE W8 D1
+Lawrence,0017 NEW CASTLE W8 D1,U.S. Senate,,Write In,,2.0,,0.0,Lawrence County,0017 NEW CASTLE W8 D1
+Lawrence,0017 NEW CASTLE W8 D1,Governor,,Tom Wolf,DEM,154.0,,9.0,Lawrence County,0017 NEW CASTLE W8 D1
+Lawrence,0017 NEW CASTLE W8 D1,Governor,,Scott R. Wagner,REP,89.0,,4.0,Lawrence County,0017 NEW CASTLE W8 D1
+Lawrence,0017 NEW CASTLE W8 D1,Governor,,Paul Glover,GRN,2.0,,0.0,Lawrence County,0017 NEW CASTLE W8 D1
+Lawrence,0017 NEW CASTLE W8 D1,Governor,,Ken V. Krawchuk,LIB,1.0,,0.0,Lawrence County,0017 NEW CASTLE W8 D1
+Lawrence,0017 NEW CASTLE W8 D1,Governor,,Write In,,2.0,,0.0,Lawrence County,0017 NEW CASTLE W8 D1
+Lawrence,0017 NEW CASTLE W8 D1,U.S. House,16.0,Ron Dinicola,DEM,154.0,,6.0,Lawrence County,0017 NEW CASTLE W8 D1
+Lawrence,0017 NEW CASTLE W8 D1,U.S. House,16.0,Mike Kelly,REP,88.0,,5.0,Lawrence County,0017 NEW CASTLE W8 D1
+Lawrence,0017 NEW CASTLE W8 D1,U.S. House,16.0,Ebert G. Bill Beeman,LIB,2.0,,1.0,Lawrence County,0017 NEW CASTLE W8 D1
+Lawrence,0017 NEW CASTLE W8 D1,U.S. House,16.0,Write In,,2.0,,0.0,Lawrence County,0017 NEW CASTLE W8 D1
+Lawrence,0017 NEW CASTLE W8 D1,State House,9.0,Chris Sainato,DEM,169.0,,10.0,Lawrence County,0017 NEW CASTLE W8 D1
+Lawrence,0017 NEW CASTLE W8 D1,State House,9.0,Gregory Michalek,REP,77.0,,2.0,Lawrence County,0017 NEW CASTLE W8 D1
+Lawrence,0017 NEW CASTLE W8 D1,State House,9.0,Write In,,0.0,,0.0,Lawrence County,0017 NEW CASTLE W8 D1
+Lawrence,0018 BESSEMER BORO,U.S. Senate,,Bob Casey Jr,DEM,190.0,,7.0,Lawrence County,0018 BESSEMER BORO
+Lawrence,0018 BESSEMER BORO,U.S. Senate,,Lou Barletta,REP,207.0,,8.0,Lawrence County,0018 BESSEMER BORO
+Lawrence,0018 BESSEMER BORO,U.S. Senate,,Neal Gale,GRN,2.0,,0.0,Lawrence County,0018 BESSEMER BORO
+Lawrence,0018 BESSEMER BORO,U.S. Senate,,Dale R Kerns Jr,LIB,6.0,,0.0,Lawrence County,0018 BESSEMER BORO
+Lawrence,0018 BESSEMER BORO,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0018 BESSEMER BORO
+Lawrence,0018 BESSEMER BORO,Governor,,Tom Wolf,DEM,185.0,,7.0,Lawrence County,0018 BESSEMER BORO
+Lawrence,0018 BESSEMER BORO,Governor,,Scott R. Wagner,REP,212.0,,8.0,Lawrence County,0018 BESSEMER BORO
+Lawrence,0018 BESSEMER BORO,Governor,,Paul Glover,GRN,1.0,,0.0,Lawrence County,0018 BESSEMER BORO
+Lawrence,0018 BESSEMER BORO,Governor,,Ken V. Krawchuk,LIB,5.0,,0.0,Lawrence County,0018 BESSEMER BORO
+Lawrence,0018 BESSEMER BORO,Governor,,Write In,,1.0,,0.0,Lawrence County,0018 BESSEMER BORO
+Lawrence,0018 BESSEMER BORO,U.S. House,16.0,Ron Dinicola,DEM,182.0,,6.0,Lawrence County,0018 BESSEMER BORO
+Lawrence,0018 BESSEMER BORO,U.S. House,16.0,Mike Kelly,REP,217.0,,9.0,Lawrence County,0018 BESSEMER BORO
+Lawrence,0018 BESSEMER BORO,U.S. House,16.0,Ebert G. Bill Beeman,LIB,4.0,,0.0,Lawrence County,0018 BESSEMER BORO
+Lawrence,0018 BESSEMER BORO,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0018 BESSEMER BORO
+Lawrence,0018 BESSEMER BORO,State House,9.0,Chris Sainato,DEM,233.0,,10.0,Lawrence County,0018 BESSEMER BORO
+Lawrence,0018 BESSEMER BORO,State House,9.0,Gregory Michalek,REP,171.0,,5.0,Lawrence County,0018 BESSEMER BORO
+Lawrence,0018 BESSEMER BORO,State House,9.0,Write In,,0.0,,0.0,Lawrence County,0018 BESSEMER BORO
+Lawrence,0019 ELLPORT BORO,U.S. Senate,,Bob Casey Jr,DEM,204.0,,9.0,Lawrence County,0019 ELLPORT BORO
+Lawrence,0019 ELLPORT BORO,U.S. Senate,,Lou Barletta,REP,203.0,,9.0,Lawrence County,0019 ELLPORT BORO
+Lawrence,0019 ELLPORT BORO,U.S. Senate,,Neal Gale,GRN,4.0,,0.0,Lawrence County,0019 ELLPORT BORO
+Lawrence,0019 ELLPORT BORO,U.S. Senate,,Dale R Kerns Jr,LIB,5.0,,0.0,Lawrence County,0019 ELLPORT BORO
+Lawrence,0019 ELLPORT BORO,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0019 ELLPORT BORO
+Lawrence,0019 ELLPORT BORO,Governor,,Tom Wolf,DEM,223.0,,10.0,Lawrence County,0019 ELLPORT BORO
+Lawrence,0019 ELLPORT BORO,Governor,,Scott R. Wagner,REP,189.0,,9.0,Lawrence County,0019 ELLPORT BORO
+Lawrence,0019 ELLPORT BORO,Governor,,Paul Glover,GRN,5.0,,0.0,Lawrence County,0019 ELLPORT BORO
+Lawrence,0019 ELLPORT BORO,Governor,,Ken V. Krawchuk,LIB,5.0,,0.0,Lawrence County,0019 ELLPORT BORO
+Lawrence,0019 ELLPORT BORO,Governor,,Write In,,0.0,,0.0,Lawrence County,0019 ELLPORT BORO
+Lawrence,0019 ELLPORT BORO,U.S. House,16.0,Ron Dinicola,DEM,182.0,,10.0,Lawrence County,0019 ELLPORT BORO
+Lawrence,0019 ELLPORT BORO,U.S. House,16.0,Mike Kelly,REP,229.0,,9.0,Lawrence County,0019 ELLPORT BORO
+Lawrence,0019 ELLPORT BORO,U.S. House,16.0,Ebert G. Bill Beeman,LIB,7.0,,0.0,Lawrence County,0019 ELLPORT BORO
+Lawrence,0019 ELLPORT BORO,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0019 ELLPORT BORO
+Lawrence,0019 ELLPORT BORO,State House,10.0,Aaron Bernstine,DEM/REP,327.0,,17.0,Lawrence County,0019 ELLPORT BORO
+Lawrence,0019 ELLPORT BORO,State House,10.0,Darcelle L Slappy,GRN,92.0,,2.0,Lawrence County,0019 ELLPORT BORO
+Lawrence,0019 ELLPORT BORO,State House,10.0,Write In,,2.0,,0.0,Lawrence County,0019 ELLPORT BORO
+Lawrence,0020 ELLWOOD CITY BORO W1 D1,U.S. Senate,,Bob Casey Jr,DEM,162.0,,5.0,Lawrence County,0020 ELLWOOD CITY BORO W1 D1
+Lawrence,0020 ELLWOOD CITY BORO W1 D1,U.S. Senate,,Lou Barletta,REP,132.0,,1.0,Lawrence County,0020 ELLWOOD CITY BORO W1 D1
+Lawrence,0020 ELLWOOD CITY BORO W1 D1,U.S. Senate,,Neal Gale,GRN,5.0,,0.0,Lawrence County,0020 ELLWOOD CITY BORO W1 D1
+Lawrence,0020 ELLWOOD CITY BORO W1 D1,U.S. Senate,,Dale R Kerns Jr,LIB,0.0,,0.0,Lawrence County,0020 ELLWOOD CITY BORO W1 D1
+Lawrence,0020 ELLWOOD CITY BORO W1 D1,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0020 ELLWOOD CITY BORO W1 D1
+Lawrence,0020 ELLWOOD CITY BORO W1 D1,Governor,,Tom Wolf,DEM,169.0,,5.0,Lawrence County,0020 ELLWOOD CITY BORO W1 D1
+Lawrence,0020 ELLWOOD CITY BORO W1 D1,Governor,,Scott R. Wagner,REP,129.0,,1.0,Lawrence County,0020 ELLWOOD CITY BORO W1 D1
+Lawrence,0020 ELLWOOD CITY BORO W1 D1,Governor,,Paul Glover,GRN,4.0,,0.0,Lawrence County,0020 ELLWOOD CITY BORO W1 D1
+Lawrence,0020 ELLWOOD CITY BORO W1 D1,Governor,,Ken V. Krawchuk,LIB,1.0,,0.0,Lawrence County,0020 ELLWOOD CITY BORO W1 D1
+Lawrence,0020 ELLWOOD CITY BORO W1 D1,Governor,,Write In,,0.0,,0.0,Lawrence County,0020 ELLWOOD CITY BORO W1 D1
+Lawrence,0020 ELLWOOD CITY BORO W1 D1,U.S. House,16.0,Ron Dinicola,DEM,164.0,,5.0,Lawrence County,0020 ELLWOOD CITY BORO W1 D1
+Lawrence,0020 ELLWOOD CITY BORO W1 D1,U.S. House,16.0,Mike Kelly,REP,136.0,,1.0,Lawrence County,0020 ELLWOOD CITY BORO W1 D1
+Lawrence,0020 ELLWOOD CITY BORO W1 D1,U.S. House,16.0,Ebert G. Bill Beeman,LIB,2.0,,0.0,Lawrence County,0020 ELLWOOD CITY BORO W1 D1
+Lawrence,0020 ELLWOOD CITY BORO W1 D1,U.S. House,16.0,Write In,,1.0,,0.0,Lawrence County,0020 ELLWOOD CITY BORO W1 D1
+Lawrence,0020 ELLWOOD CITY BORO W1 D1,State House,10.0,Aaron Bernstine,DEM/REP,194.0,,1.0,Lawrence County,0020 ELLWOOD CITY BORO W1 D1
+Lawrence,0020 ELLWOOD CITY BORO W1 D1,State House,10.0,Darcelle L Slappy,GRN,100.0,,5.0,Lawrence County,0020 ELLWOOD CITY BORO W1 D1
+Lawrence,0020 ELLWOOD CITY BORO W1 D1,State House,10.0,Write In,,3.0,,0.0,Lawrence County,0020 ELLWOOD CITY BORO W1 D1
+Lawrence,0021 ELLWOOD CITY BORO W2 D1,U.S. Senate,,Bob Casey Jr,DEM,163.0,,5.0,Lawrence County,0021 ELLWOOD CITY BORO W2 D1
+Lawrence,0021 ELLWOOD CITY BORO W2 D1,U.S. Senate,,Lou Barletta,REP,125.0,,1.0,Lawrence County,0021 ELLWOOD CITY BORO W2 D1
+Lawrence,0021 ELLWOOD CITY BORO W2 D1,U.S. Senate,,Neal Gale,GRN,3.0,,0.0,Lawrence County,0021 ELLWOOD CITY BORO W2 D1
+Lawrence,0021 ELLWOOD CITY BORO W2 D1,U.S. Senate,,Dale R Kerns Jr,LIB,2.0,,0.0,Lawrence County,0021 ELLWOOD CITY BORO W2 D1
+Lawrence,0021 ELLWOOD CITY BORO W2 D1,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0021 ELLWOOD CITY BORO W2 D1
+Lawrence,0021 ELLWOOD CITY BORO W2 D1,Governor,,Tom Wolf,DEM,166.0,,4.0,Lawrence County,0021 ELLWOOD CITY BORO W2 D1
+Lawrence,0021 ELLWOOD CITY BORO W2 D1,Governor,,Scott R. Wagner,REP,126.0,,2.0,Lawrence County,0021 ELLWOOD CITY BORO W2 D1
+Lawrence,0021 ELLWOOD CITY BORO W2 D1,Governor,,Paul Glover,GRN,3.0,,0.0,Lawrence County,0021 ELLWOOD CITY BORO W2 D1
+Lawrence,0021 ELLWOOD CITY BORO W2 D1,Governor,,Ken V. Krawchuk,LIB,1.0,,0.0,Lawrence County,0021 ELLWOOD CITY BORO W2 D1
+Lawrence,0021 ELLWOOD CITY BORO W2 D1,Governor,,Write In,,0.0,,0.0,Lawrence County,0021 ELLWOOD CITY BORO W2 D1
+Lawrence,0021 ELLWOOD CITY BORO W2 D1,U.S. House,16.0,Ron Dinicola,DEM,150.0,,4.0,Lawrence County,0021 ELLWOOD CITY BORO W2 D1
+Lawrence,0021 ELLWOOD CITY BORO W2 D1,U.S. House,16.0,Mike Kelly,REP,138.0,,2.0,Lawrence County,0021 ELLWOOD CITY BORO W2 D1
+Lawrence,0021 ELLWOOD CITY BORO W2 D1,U.S. House,16.0,Ebert G. Bill Beeman,LIB,8.0,,0.0,Lawrence County,0021 ELLWOOD CITY BORO W2 D1
+Lawrence,0021 ELLWOOD CITY BORO W2 D1,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0021 ELLWOOD CITY BORO W2 D1
+Lawrence,0021 ELLWOOD CITY BORO W2 D1,State House,10.0,Aaron Bernstine,DEM/REP,231.0,,5.0,Lawrence County,0021 ELLWOOD CITY BORO W2 D1
+Lawrence,0021 ELLWOOD CITY BORO W2 D1,State House,10.0,Darcelle L Slappy,GRN,62.0,,1.0,Lawrence County,0021 ELLWOOD CITY BORO W2 D1
+Lawrence,0021 ELLWOOD CITY BORO W2 D1,State House,10.0,Write In,,0.0,,0.0,Lawrence County,0021 ELLWOOD CITY BORO W2 D1
+Lawrence,0022 ELLWOOD CITY BORO W3 D1,U.S. Senate,,Bob Casey Jr,DEM,172.0,,5.0,Lawrence County,0022 ELLWOOD CITY BORO W3 D1
+Lawrence,0022 ELLWOOD CITY BORO W3 D1,U.S. Senate,,Lou Barletta,REP,126.0,,4.0,Lawrence County,0022 ELLWOOD CITY BORO W3 D1
+Lawrence,0022 ELLWOOD CITY BORO W3 D1,U.S. Senate,,Neal Gale,GRN,2.0,,0.0,Lawrence County,0022 ELLWOOD CITY BORO W3 D1
+Lawrence,0022 ELLWOOD CITY BORO W3 D1,U.S. Senate,,Dale R Kerns Jr,LIB,7.0,,0.0,Lawrence County,0022 ELLWOOD CITY BORO W3 D1
+Lawrence,0022 ELLWOOD CITY BORO W3 D1,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0022 ELLWOOD CITY BORO W3 D1
+Lawrence,0022 ELLWOOD CITY BORO W3 D1,Governor,,Tom Wolf,DEM,188.0,,7.0,Lawrence County,0022 ELLWOOD CITY BORO W3 D1
+Lawrence,0022 ELLWOOD CITY BORO W3 D1,Governor,,Scott R. Wagner,REP,115.0,,2.0,Lawrence County,0022 ELLWOOD CITY BORO W3 D1
+Lawrence,0022 ELLWOOD CITY BORO W3 D1,Governor,,Paul Glover,GRN,4.0,,0.0,Lawrence County,0022 ELLWOOD CITY BORO W3 D1
+Lawrence,0022 ELLWOOD CITY BORO W3 D1,Governor,,Ken V. Krawchuk,LIB,2.0,,0.0,Lawrence County,0022 ELLWOOD CITY BORO W3 D1
+Lawrence,0022 ELLWOOD CITY BORO W3 D1,Governor,,Write In,,0.0,,0.0,Lawrence County,0022 ELLWOOD CITY BORO W3 D1
+Lawrence,0022 ELLWOOD CITY BORO W3 D1,U.S. House,16.0,Ron Dinicola,DEM,168.0,,5.0,Lawrence County,0022 ELLWOOD CITY BORO W3 D1
+Lawrence,0022 ELLWOOD CITY BORO W3 D1,U.S. House,16.0,Mike Kelly,REP,129.0,,4.0,Lawrence County,0022 ELLWOOD CITY BORO W3 D1
+Lawrence,0022 ELLWOOD CITY BORO W3 D1,U.S. House,16.0,Ebert G. Bill Beeman,LIB,8.0,,0.0,Lawrence County,0022 ELLWOOD CITY BORO W3 D1
+Lawrence,0022 ELLWOOD CITY BORO W3 D1,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0022 ELLWOOD CITY BORO W3 D1
+Lawrence,0022 ELLWOOD CITY BORO W3 D1,State House,10.0,Aaron Bernstine,DEM/REP,207.0,,5.0,Lawrence County,0022 ELLWOOD CITY BORO W3 D1
+Lawrence,0022 ELLWOOD CITY BORO W3 D1,State House,10.0,Darcelle L Slappy,GRN,94.0,,2.0,Lawrence County,0022 ELLWOOD CITY BORO W3 D1
+Lawrence,0022 ELLWOOD CITY BORO W3 D1,State House,10.0,Write In,,2.0,,1.0,Lawrence County,0022 ELLWOOD CITY BORO W3 D1
+Lawrence,0023 ELLWOOD CITY BORO W4 D1,U.S. Senate,,Bob Casey Jr,DEM,192.0,,3.0,Lawrence County,0023 ELLWOOD CITY BORO W4 D1
+Lawrence,0023 ELLWOOD CITY BORO W4 D1,U.S. Senate,,Lou Barletta,REP,163.0,,1.0,Lawrence County,0023 ELLWOOD CITY BORO W4 D1
+Lawrence,0023 ELLWOOD CITY BORO W4 D1,U.S. Senate,,Neal Gale,GRN,0.0,,0.0,Lawrence County,0023 ELLWOOD CITY BORO W4 D1
+Lawrence,0023 ELLWOOD CITY BORO W4 D1,U.S. Senate,,Dale R Kerns Jr,LIB,2.0,,0.0,Lawrence County,0023 ELLWOOD CITY BORO W4 D1
+Lawrence,0023 ELLWOOD CITY BORO W4 D1,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0023 ELLWOOD CITY BORO W4 D1
+Lawrence,0023 ELLWOOD CITY BORO W4 D1,Governor,,Tom Wolf,DEM,200.0,,3.0,Lawrence County,0023 ELLWOOD CITY BORO W4 D1
+Lawrence,0023 ELLWOOD CITY BORO W4 D1,Governor,,Scott R. Wagner,REP,153.0,,1.0,Lawrence County,0023 ELLWOOD CITY BORO W4 D1
+Lawrence,0023 ELLWOOD CITY BORO W4 D1,Governor,,Paul Glover,GRN,0.0,,0.0,Lawrence County,0023 ELLWOOD CITY BORO W4 D1
+Lawrence,0023 ELLWOOD CITY BORO W4 D1,Governor,,Ken V. Krawchuk,LIB,5.0,,0.0,Lawrence County,0023 ELLWOOD CITY BORO W4 D1
+Lawrence,0023 ELLWOOD CITY BORO W4 D1,Governor,,Write In,,0.0,,0.0,Lawrence County,0023 ELLWOOD CITY BORO W4 D1
+Lawrence,0023 ELLWOOD CITY BORO W4 D1,U.S. House,16.0,Ron Dinicola,DEM,175.0,,2.0,Lawrence County,0023 ELLWOOD CITY BORO W4 D1
+Lawrence,0023 ELLWOOD CITY BORO W4 D1,U.S. House,16.0,Mike Kelly,REP,179.0,,2.0,Lawrence County,0023 ELLWOOD CITY BORO W4 D1
+Lawrence,0023 ELLWOOD CITY BORO W4 D1,U.S. House,16.0,Ebert G. Bill Beeman,LIB,4.0,,0.0,Lawrence County,0023 ELLWOOD CITY BORO W4 D1
+Lawrence,0023 ELLWOOD CITY BORO W4 D1,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0023 ELLWOOD CITY BORO W4 D1
+Lawrence,0023 ELLWOOD CITY BORO W4 D1,State House,10.0,Aaron Bernstine,DEM/REP,268.0,,3.0,Lawrence County,0023 ELLWOOD CITY BORO W4 D1
+Lawrence,0023 ELLWOOD CITY BORO W4 D1,State House,10.0,Darcelle L Slappy,GRN,85.0,,0.0,Lawrence County,0023 ELLWOOD CITY BORO W4 D1
+Lawrence,0023 ELLWOOD CITY BORO W4 D1,State House,10.0,Write In,,1.0,,0.0,Lawrence County,0023 ELLWOOD CITY BORO W4 D1
+Lawrence,0024 ELLWOOD CITY BORO W4 D2,U.S. Senate,,Bob Casey Jr,DEM,204.0,,8.0,Lawrence County,0024 ELLWOOD CITY BORO W4 D2
+Lawrence,0024 ELLWOOD CITY BORO W4 D2,U.S. Senate,,Lou Barletta,REP,162.0,,9.0,Lawrence County,0024 ELLWOOD CITY BORO W4 D2
+Lawrence,0024 ELLWOOD CITY BORO W4 D2,U.S. Senate,,Neal Gale,GRN,2.0,,0.0,Lawrence County,0024 ELLWOOD CITY BORO W4 D2
+Lawrence,0024 ELLWOOD CITY BORO W4 D2,U.S. Senate,,Dale R Kerns Jr,LIB,5.0,,0.0,Lawrence County,0024 ELLWOOD CITY BORO W4 D2
+Lawrence,0024 ELLWOOD CITY BORO W4 D2,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0024 ELLWOOD CITY BORO W4 D2
+Lawrence,0024 ELLWOOD CITY BORO W4 D2,Governor,,Tom Wolf,DEM,197.0,,9.0,Lawrence County,0024 ELLWOOD CITY BORO W4 D2
+Lawrence,0024 ELLWOOD CITY BORO W4 D2,Governor,,Scott R. Wagner,REP,166.0,,8.0,Lawrence County,0024 ELLWOOD CITY BORO W4 D2
+Lawrence,0024 ELLWOOD CITY BORO W4 D2,Governor,,Paul Glover,GRN,8.0,,0.0,Lawrence County,0024 ELLWOOD CITY BORO W4 D2
+Lawrence,0024 ELLWOOD CITY BORO W4 D2,Governor,,Ken V. Krawchuk,LIB,2.0,,0.0,Lawrence County,0024 ELLWOOD CITY BORO W4 D2
+Lawrence,0024 ELLWOOD CITY BORO W4 D2,Governor,,Write In,,0.0,,0.0,Lawrence County,0024 ELLWOOD CITY BORO W4 D2
+Lawrence,0024 ELLWOOD CITY BORO W4 D2,U.S. House,16.0,Ron Dinicola,DEM,188.0,,8.0,Lawrence County,0024 ELLWOOD CITY BORO W4 D2
+Lawrence,0024 ELLWOOD CITY BORO W4 D2,U.S. House,16.0,Mike Kelly,REP,181.0,,9.0,Lawrence County,0024 ELLWOOD CITY BORO W4 D2
+Lawrence,0024 ELLWOOD CITY BORO W4 D2,U.S. House,16.0,Ebert G. Bill Beeman,LIB,4.0,,0.0,Lawrence County,0024 ELLWOOD CITY BORO W4 D2
+Lawrence,0024 ELLWOOD CITY BORO W4 D2,U.S. House,16.0,Write In,,1.0,,0.0,Lawrence County,0024 ELLWOOD CITY BORO W4 D2
+Lawrence,0024 ELLWOOD CITY BORO W4 D2,State House,10.0,Aaron Bernstine,DEM/REP,256.0,,15.0,Lawrence County,0024 ELLWOOD CITY BORO W4 D2
+Lawrence,0024 ELLWOOD CITY BORO W4 D2,State House,10.0,Darcelle L Slappy,GRN,114.0,,2.0,Lawrence County,0024 ELLWOOD CITY BORO W4 D2
+Lawrence,0024 ELLWOOD CITY BORO W4 D2,State House,10.0,Write In,,2.0,,0.0,Lawrence County,0024 ELLWOOD CITY BORO W4 D2
+Lawrence,0025 ELLWOOD CITY BORO W5 D1,U.S. Senate,,Bob Casey Jr,DEM,209.0,,10.0,Lawrence County,0025 ELLWOOD CITY BORO W5 D1
+Lawrence,0025 ELLWOOD CITY BORO W5 D1,U.S. Senate,,Lou Barletta,REP,146.0,,6.0,Lawrence County,0025 ELLWOOD CITY BORO W5 D1
+Lawrence,0025 ELLWOOD CITY BORO W5 D1,U.S. Senate,,Neal Gale,GRN,2.0,,0.0,Lawrence County,0025 ELLWOOD CITY BORO W5 D1
+Lawrence,0025 ELLWOOD CITY BORO W5 D1,U.S. Senate,,Dale R Kerns Jr,LIB,6.0,,1.0,Lawrence County,0025 ELLWOOD CITY BORO W5 D1
+Lawrence,0025 ELLWOOD CITY BORO W5 D1,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0025 ELLWOOD CITY BORO W5 D1
+Lawrence,0025 ELLWOOD CITY BORO W5 D1,Governor,,Tom Wolf,DEM,217.0,,11.0,Lawrence County,0025 ELLWOOD CITY BORO W5 D1
+Lawrence,0025 ELLWOOD CITY BORO W5 D1,Governor,,Scott R. Wagner,REP,138.0,,6.0,Lawrence County,0025 ELLWOOD CITY BORO W5 D1
+Lawrence,0025 ELLWOOD CITY BORO W5 D1,Governor,,Paul Glover,GRN,2.0,,0.0,Lawrence County,0025 ELLWOOD CITY BORO W5 D1
+Lawrence,0025 ELLWOOD CITY BORO W5 D1,Governor,,Ken V. Krawchuk,LIB,3.0,,0.0,Lawrence County,0025 ELLWOOD CITY BORO W5 D1
+Lawrence,0025 ELLWOOD CITY BORO W5 D1,Governor,,Write In,,3.0,,0.0,Lawrence County,0025 ELLWOOD CITY BORO W5 D1
+Lawrence,0025 ELLWOOD CITY BORO W5 D1,U.S. House,16.0,Ron Dinicola,DEM,175.0,,10.0,Lawrence County,0025 ELLWOOD CITY BORO W5 D1
+Lawrence,0025 ELLWOOD CITY BORO W5 D1,U.S. House,16.0,Mike Kelly,REP,178.0,,6.0,Lawrence County,0025 ELLWOOD CITY BORO W5 D1
+Lawrence,0025 ELLWOOD CITY BORO W5 D1,U.S. House,16.0,Ebert G. Bill Beeman,LIB,5.0,,1.0,Lawrence County,0025 ELLWOOD CITY BORO W5 D1
+Lawrence,0025 ELLWOOD CITY BORO W5 D1,U.S. House,16.0,Write In,,1.0,,0.0,Lawrence County,0025 ELLWOOD CITY BORO W5 D1
+Lawrence,0025 ELLWOOD CITY BORO W5 D1,State House,10.0,Aaron Bernstine,DEM/REP,211.0,,8.0,Lawrence County,0025 ELLWOOD CITY BORO W5 D1
+Lawrence,0025 ELLWOOD CITY BORO W5 D1,State House,10.0,Darcelle L Slappy,GRN,147.0,,8.0,Lawrence County,0025 ELLWOOD CITY BORO W5 D1
+Lawrence,0025 ELLWOOD CITY BORO W5 D1,State House,10.0,Write In,,2.0,,0.0,Lawrence County,0025 ELLWOOD CITY BORO W5 D1
+Lawrence,0026 ELLWOOD CITY BORO W5 D2,U.S. Senate,,Bob Casey Jr,DEM,294.0,,8.0,Lawrence County,0026 ELLWOOD CITY BORO W5 D2
+Lawrence,0026 ELLWOOD CITY BORO W5 D2,U.S. Senate,,Lou Barletta,REP,241.0,,5.0,Lawrence County,0026 ELLWOOD CITY BORO W5 D2
+Lawrence,0026 ELLWOOD CITY BORO W5 D2,U.S. Senate,,Neal Gale,GRN,3.0,,0.0,Lawrence County,0026 ELLWOOD CITY BORO W5 D2
+Lawrence,0026 ELLWOOD CITY BORO W5 D2,U.S. Senate,,Dale R Kerns Jr,LIB,4.0,,0.0,Lawrence County,0026 ELLWOOD CITY BORO W5 D2
+Lawrence,0026 ELLWOOD CITY BORO W5 D2,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0026 ELLWOOD CITY BORO W5 D2
+Lawrence,0026 ELLWOOD CITY BORO W5 D2,Governor,,Tom Wolf,DEM,310.0,,8.0,Lawrence County,0026 ELLWOOD CITY BORO W5 D2
+Lawrence,0026 ELLWOOD CITY BORO W5 D2,Governor,,Scott R. Wagner,REP,230.0,,5.0,Lawrence County,0026 ELLWOOD CITY BORO W5 D2
+Lawrence,0026 ELLWOOD CITY BORO W5 D2,Governor,,Paul Glover,GRN,3.0,,0.0,Lawrence County,0026 ELLWOOD CITY BORO W5 D2
+Lawrence,0026 ELLWOOD CITY BORO W5 D2,Governor,,Ken V. Krawchuk,LIB,3.0,,0.0,Lawrence County,0026 ELLWOOD CITY BORO W5 D2
+Lawrence,0026 ELLWOOD CITY BORO W5 D2,Governor,,Write In,,0.0,,0.0,Lawrence County,0026 ELLWOOD CITY BORO W5 D2
+Lawrence,0026 ELLWOOD CITY BORO W5 D2,U.S. House,16.0,Ron Dinicola,DEM,285.0,,8.0,Lawrence County,0026 ELLWOOD CITY BORO W5 D2
+Lawrence,0026 ELLWOOD CITY BORO W5 D2,U.S. House,16.0,Mike Kelly,REP,249.0,,5.0,Lawrence County,0026 ELLWOOD CITY BORO W5 D2
+Lawrence,0026 ELLWOOD CITY BORO W5 D2,U.S. House,16.0,Ebert G. Bill Beeman,LIB,7.0,,0.0,Lawrence County,0026 ELLWOOD CITY BORO W5 D2
+Lawrence,0026 ELLWOOD CITY BORO W5 D2,U.S. House,16.0,Write In,,1.0,,0.0,Lawrence County,0026 ELLWOOD CITY BORO W5 D2
+Lawrence,0026 ELLWOOD CITY BORO W5 D2,State House,10.0,Aaron Bernstine,DEM/REP,365.0,,10.0,Lawrence County,0026 ELLWOOD CITY BORO W5 D2
+Lawrence,0026 ELLWOOD CITY BORO W5 D2,State House,10.0,Darcelle L Slappy,GRN,175.0,,3.0,Lawrence County,0026 ELLWOOD CITY BORO W5 D2
+Lawrence,0026 ELLWOOD CITY BORO W5 D2,State House,10.0,Write In,,2.0,,0.0,Lawrence County,0026 ELLWOOD CITY BORO W5 D2
+Lawrence,0027 ENON VALLEY BORO,U.S. Senate,,Bob Casey Jr,DEM,35.0,,0.0,Lawrence County,0027 ENON VALLEY BORO
+Lawrence,0027 ENON VALLEY BORO,U.S. Senate,,Lou Barletta,REP,71.0,,1.0,Lawrence County,0027 ENON VALLEY BORO
+Lawrence,0027 ENON VALLEY BORO,U.S. Senate,,Neal Gale,GRN,1.0,,0.0,Lawrence County,0027 ENON VALLEY BORO
+Lawrence,0027 ENON VALLEY BORO,U.S. Senate,,Dale R Kerns Jr,LIB,5.0,,0.0,Lawrence County,0027 ENON VALLEY BORO
+Lawrence,0027 ENON VALLEY BORO,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0027 ENON VALLEY BORO
+Lawrence,0027 ENON VALLEY BORO,Governor,,Tom Wolf,DEM,41.0,,0.0,Lawrence County,0027 ENON VALLEY BORO
+Lawrence,0027 ENON VALLEY BORO,Governor,,Scott R. Wagner,REP,66.0,,1.0,Lawrence County,0027 ENON VALLEY BORO
+Lawrence,0027 ENON VALLEY BORO,Governor,,Paul Glover,GRN,1.0,,0.0,Lawrence County,0027 ENON VALLEY BORO
+Lawrence,0027 ENON VALLEY BORO,Governor,,Ken V. Krawchuk,LIB,3.0,,0.0,Lawrence County,0027 ENON VALLEY BORO
+Lawrence,0027 ENON VALLEY BORO,Governor,,Write In,,0.0,,0.0,Lawrence County,0027 ENON VALLEY BORO
+Lawrence,0027 ENON VALLEY BORO,U.S. House,16.0,Ron Dinicola,DEM,31.0,,0.0,Lawrence County,0027 ENON VALLEY BORO
+Lawrence,0027 ENON VALLEY BORO,U.S. House,16.0,Mike Kelly,REP,77.0,,1.0,Lawrence County,0027 ENON VALLEY BORO
+Lawrence,0027 ENON VALLEY BORO,U.S. House,16.0,Ebert G. Bill Beeman,LIB,3.0,,0.0,Lawrence County,0027 ENON VALLEY BORO
+Lawrence,0027 ENON VALLEY BORO,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0027 ENON VALLEY BORO
+Lawrence,0027 ENON VALLEY BORO,State House,10.0,Aaron Bernstine,DEM/REP,105.0,,1.0,Lawrence County,0027 ENON VALLEY BORO
+Lawrence,0027 ENON VALLEY BORO,State House,10.0,Darcelle L Slappy,GRN,6.0,,0.0,Lawrence County,0027 ENON VALLEY BORO
+Lawrence,0027 ENON VALLEY BORO,State House,10.0,Write In,,0.0,,0.0,Lawrence County,0027 ENON VALLEY BORO
+Lawrence,0028 NEW BEAVER BORO,U.S. Senate,,Bob Casey Jr,DEM,165.0,,8.0,Lawrence County,0028 NEW BEAVER BORO
+Lawrence,0028 NEW BEAVER BORO,U.S. Senate,,Lou Barletta,REP,342.0,,14.0,Lawrence County,0028 NEW BEAVER BORO
+Lawrence,0028 NEW BEAVER BORO,U.S. Senate,,Neal Gale,GRN,0.0,,0.0,Lawrence County,0028 NEW BEAVER BORO
+Lawrence,0028 NEW BEAVER BORO,U.S. Senate,,Dale R Kerns Jr,LIB,3.0,,0.0,Lawrence County,0028 NEW BEAVER BORO
+Lawrence,0028 NEW BEAVER BORO,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0028 NEW BEAVER BORO
+Lawrence,0028 NEW BEAVER BORO,Governor,,Tom Wolf,DEM,169.0,,7.0,Lawrence County,0028 NEW BEAVER BORO
+Lawrence,0028 NEW BEAVER BORO,Governor,,Scott R. Wagner,REP,336.0,,13.0,Lawrence County,0028 NEW BEAVER BORO
+Lawrence,0028 NEW BEAVER BORO,Governor,,Paul Glover,GRN,2.0,,0.0,Lawrence County,0028 NEW BEAVER BORO
+Lawrence,0028 NEW BEAVER BORO,Governor,,Ken V. Krawchuk,LIB,5.0,,0.0,Lawrence County,0028 NEW BEAVER BORO
+Lawrence,0028 NEW BEAVER BORO,Governor,,Write In,,1.0,,1.0,Lawrence County,0028 NEW BEAVER BORO
+Lawrence,0028 NEW BEAVER BORO,U.S. House,16.0,Ron Dinicola,DEM,146.0,,7.0,Lawrence County,0028 NEW BEAVER BORO
+Lawrence,0028 NEW BEAVER BORO,U.S. House,16.0,Mike Kelly,REP,361.0,,15.0,Lawrence County,0028 NEW BEAVER BORO
+Lawrence,0028 NEW BEAVER BORO,U.S. House,16.0,Ebert G. Bill Beeman,LIB,3.0,,0.0,Lawrence County,0028 NEW BEAVER BORO
+Lawrence,0028 NEW BEAVER BORO,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0028 NEW BEAVER BORO
+Lawrence,0028 NEW BEAVER BORO,State House,10.0,Aaron Bernstine,DEM/REP,459.0,,21.0,Lawrence County,0028 NEW BEAVER BORO
+Lawrence,0028 NEW BEAVER BORO,State House,10.0,Darcelle L Slappy,GRN,50.0,,2.0,Lawrence County,0028 NEW BEAVER BORO
+Lawrence,0028 NEW BEAVER BORO,State House,10.0,Write In,,1.0,,0.0,Lawrence County,0028 NEW BEAVER BORO
+Lawrence,0029 NEW WILMINGTON BORO,U.S. Senate,,Bob Casey Jr,DEM,312.0,,25.0,Lawrence County,0029 NEW WILMINGTON BORO
+Lawrence,0029 NEW WILMINGTON BORO,U.S. Senate,,Lou Barletta,REP,275.0,,19.0,Lawrence County,0029 NEW WILMINGTON BORO
+Lawrence,0029 NEW WILMINGTON BORO,U.S. Senate,,Neal Gale,GRN,3.0,,0.0,Lawrence County,0029 NEW WILMINGTON BORO
+Lawrence,0029 NEW WILMINGTON BORO,U.S. Senate,,Dale R Kerns Jr,LIB,4.0,,0.0,Lawrence County,0029 NEW WILMINGTON BORO
+Lawrence,0029 NEW WILMINGTON BORO,U.S. Senate,,Write In,,1.0,,0.0,Lawrence County,0029 NEW WILMINGTON BORO
+Lawrence,0029 NEW WILMINGTON BORO,Governor,,Tom Wolf,DEM,321.0,,25.0,Lawrence County,0029 NEW WILMINGTON BORO
+Lawrence,0029 NEW WILMINGTON BORO,Governor,,Scott R. Wagner,REP,264.0,,18.0,Lawrence County,0029 NEW WILMINGTON BORO
+Lawrence,0029 NEW WILMINGTON BORO,Governor,,Paul Glover,GRN,3.0,,1.0,Lawrence County,0029 NEW WILMINGTON BORO
+Lawrence,0029 NEW WILMINGTON BORO,Governor,,Ken V. Krawchuk,LIB,6.0,,0.0,Lawrence County,0029 NEW WILMINGTON BORO
+Lawrence,0029 NEW WILMINGTON BORO,Governor,,Write In,,1.0,,0.0,Lawrence County,0029 NEW WILMINGTON BORO
+Lawrence,0029 NEW WILMINGTON BORO,U.S. House,16.0,Ron Dinicola,DEM,288.0,,21.0,Lawrence County,0029 NEW WILMINGTON BORO
+Lawrence,0029 NEW WILMINGTON BORO,U.S. House,16.0,Mike Kelly,REP,302.0,,23.0,Lawrence County,0029 NEW WILMINGTON BORO
+Lawrence,0029 NEW WILMINGTON BORO,U.S. House,16.0,Ebert G. Bill Beeman,LIB,6.0,,0.0,Lawrence County,0029 NEW WILMINGTON BORO
+Lawrence,0029 NEW WILMINGTON BORO,U.S. House,16.0,Write In,,1.0,,0.0,Lawrence County,0029 NEW WILMINGTON BORO
+Lawrence,0029 NEW WILMINGTON BORO,State House,17.0,Parke Wentling,REP,415.0,,27.0,Lawrence County,0029 NEW WILMINGTON BORO
+Lawrence,0029 NEW WILMINGTON BORO,State House,17.0,Write In,,43.0,,1.0,Lawrence County,0029 NEW WILMINGTON BORO
+Lawrence,0030 S.N.P.J. BORO,U.S. Senate,,Bob Casey Jr,DEM,5.0,,1.0,Lawrence County,0030 S.N.P.J. BORO
+Lawrence,0030 S.N.P.J. BORO,U.S. Senate,,Lou Barletta,REP,2.0,,1.0,Lawrence County,0030 S.N.P.J. BORO
+Lawrence,0030 S.N.P.J. BORO,U.S. Senate,,Neal Gale,GRN,0.0,,0.0,Lawrence County,0030 S.N.P.J. BORO
+Lawrence,0030 S.N.P.J. BORO,U.S. Senate,,Dale R Kerns Jr,LIB,0.0,,0.0,Lawrence County,0030 S.N.P.J. BORO
+Lawrence,0030 S.N.P.J. BORO,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0030 S.N.P.J. BORO
+Lawrence,0030 S.N.P.J. BORO,Governor,,Tom Wolf,DEM,4.0,,1.0,Lawrence County,0030 S.N.P.J. BORO
+Lawrence,0030 S.N.P.J. BORO,Governor,,Scott R. Wagner,REP,3.0,,1.0,Lawrence County,0030 S.N.P.J. BORO
+Lawrence,0030 S.N.P.J. BORO,Governor,,Paul Glover,GRN,0.0,,0.0,Lawrence County,0030 S.N.P.J. BORO
+Lawrence,0030 S.N.P.J. BORO,Governor,,Ken V. Krawchuk,LIB,0.0,,0.0,Lawrence County,0030 S.N.P.J. BORO
+Lawrence,0030 S.N.P.J. BORO,Governor,,Write In,,0.0,,0.0,Lawrence County,0030 S.N.P.J. BORO
+Lawrence,0030 S.N.P.J. BORO,U.S. House,16.0,Ron Dinicola,DEM,4.0,,1.0,Lawrence County,0030 S.N.P.J. BORO
+Lawrence,0030 S.N.P.J. BORO,U.S. House,16.0,Mike Kelly,REP,3.0,,1.0,Lawrence County,0030 S.N.P.J. BORO
+Lawrence,0030 S.N.P.J. BORO,U.S. House,16.0,Ebert G. Bill Beeman,LIB,0.0,,0.0,Lawrence County,0030 S.N.P.J. BORO
+Lawrence,0030 S.N.P.J. BORO,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0030 S.N.P.J. BORO
+Lawrence,0030 S.N.P.J. BORO,State House,9.0,Chris Sainato,DEM,6.0,,2.0,Lawrence County,0030 S.N.P.J. BORO
+Lawrence,0030 S.N.P.J. BORO,State House,9.0,Gregory Michalek,REP,1.0,,0.0,Lawrence County,0030 S.N.P.J. BORO
+Lawrence,0030 S.N.P.J. BORO,State House,9.0,Write In,,0.0,,0.0,Lawrence County,0030 S.N.P.J. BORO
+Lawrence,0031 SOUTH NEW CASTLE BORO,U.S. Senate,,Bob Casey Jr,DEM,99.0,,1.0,Lawrence County,0031 SOUTH NEW CASTLE BORO
+Lawrence,0031 SOUTH NEW CASTLE BORO,U.S. Senate,,Lou Barletta,REP,132.0,,3.0,Lawrence County,0031 SOUTH NEW CASTLE BORO
+Lawrence,0031 SOUTH NEW CASTLE BORO,U.S. Senate,,Neal Gale,GRN,3.0,,0.0,Lawrence County,0031 SOUTH NEW CASTLE BORO
+Lawrence,0031 SOUTH NEW CASTLE BORO,U.S. Senate,,Dale R Kerns Jr,LIB,1.0,,0.0,Lawrence County,0031 SOUTH NEW CASTLE BORO
+Lawrence,0031 SOUTH NEW CASTLE BORO,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0031 SOUTH NEW CASTLE BORO
+Lawrence,0031 SOUTH NEW CASTLE BORO,Governor,,Tom Wolf,DEM,98.0,,1.0,Lawrence County,0031 SOUTH NEW CASTLE BORO
+Lawrence,0031 SOUTH NEW CASTLE BORO,Governor,,Scott R. Wagner,REP,130.0,,3.0,Lawrence County,0031 SOUTH NEW CASTLE BORO
+Lawrence,0031 SOUTH NEW CASTLE BORO,Governor,,Paul Glover,GRN,2.0,,0.0,Lawrence County,0031 SOUTH NEW CASTLE BORO
+Lawrence,0031 SOUTH NEW CASTLE BORO,Governor,,Ken V. Krawchuk,LIB,3.0,,0.0,Lawrence County,0031 SOUTH NEW CASTLE BORO
+Lawrence,0031 SOUTH NEW CASTLE BORO,Governor,,Write In,,0.0,,0.0,Lawrence County,0031 SOUTH NEW CASTLE BORO
+Lawrence,0031 SOUTH NEW CASTLE BORO,U.S. House,16.0,Ron Dinicola,DEM,93.0,,0.0,Lawrence County,0031 SOUTH NEW CASTLE BORO
+Lawrence,0031 SOUTH NEW CASTLE BORO,U.S. House,16.0,Mike Kelly,REP,139.0,,4.0,Lawrence County,0031 SOUTH NEW CASTLE BORO
+Lawrence,0031 SOUTH NEW CASTLE BORO,U.S. House,16.0,Ebert G. Bill Beeman,LIB,2.0,,0.0,Lawrence County,0031 SOUTH NEW CASTLE BORO
+Lawrence,0031 SOUTH NEW CASTLE BORO,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0031 SOUTH NEW CASTLE BORO
+Lawrence,0031 SOUTH NEW CASTLE BORO,State House,9.0,Chris Sainato,DEM,119.0,,2.0,Lawrence County,0031 SOUTH NEW CASTLE BORO
+Lawrence,0031 SOUTH NEW CASTLE BORO,State House,9.0,Gregory Michalek,REP,112.0,,2.0,Lawrence County,0031 SOUTH NEW CASTLE BORO
+Lawrence,0031 SOUTH NEW CASTLE BORO,State House,9.0,Write In,,0.0,,0.0,Lawrence County,0031 SOUTH NEW CASTLE BORO
+Lawrence,0032 VOLANT BORO,U.S. Senate,,Bob Casey Jr,DEM,24.0,,0.0,Lawrence County,0032 VOLANT BORO
+Lawrence,0032 VOLANT BORO,U.S. Senate,,Lou Barletta,REP,40.0,,0.0,Lawrence County,0032 VOLANT BORO
+Lawrence,0032 VOLANT BORO,U.S. Senate,,Neal Gale,GRN,1.0,,0.0,Lawrence County,0032 VOLANT BORO
+Lawrence,0032 VOLANT BORO,U.S. Senate,,Dale R Kerns Jr,LIB,0.0,,0.0,Lawrence County,0032 VOLANT BORO
+Lawrence,0032 VOLANT BORO,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0032 VOLANT BORO
+Lawrence,0032 VOLANT BORO,Governor,,Tom Wolf,DEM,26.0,,0.0,Lawrence County,0032 VOLANT BORO
+Lawrence,0032 VOLANT BORO,Governor,,Scott R. Wagner,REP,39.0,,0.0,Lawrence County,0032 VOLANT BORO
+Lawrence,0032 VOLANT BORO,Governor,,Paul Glover,GRN,1.0,,0.0,Lawrence County,0032 VOLANT BORO
+Lawrence,0032 VOLANT BORO,Governor,,Ken V. Krawchuk,LIB,0.0,,0.0,Lawrence County,0032 VOLANT BORO
+Lawrence,0032 VOLANT BORO,Governor,,Write In,,0.0,,0.0,Lawrence County,0032 VOLANT BORO
+Lawrence,0032 VOLANT BORO,U.S. House,16.0,Ron Dinicola,DEM,23.0,,0.0,Lawrence County,0032 VOLANT BORO
+Lawrence,0032 VOLANT BORO,U.S. House,16.0,Mike Kelly,REP,43.0,,0.0,Lawrence County,0032 VOLANT BORO
+Lawrence,0032 VOLANT BORO,U.S. House,16.0,Ebert G. Bill Beeman,LIB,0.0,,0.0,Lawrence County,0032 VOLANT BORO
+Lawrence,0032 VOLANT BORO,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0032 VOLANT BORO
+Lawrence,0032 VOLANT BORO,State House,10.0,Aaron Bernstine,DEM/REP,63.0,,0.0,Lawrence County,0032 VOLANT BORO
+Lawrence,0032 VOLANT BORO,State House,10.0,Darcelle L Slappy,GRN,3.0,,0.0,Lawrence County,0032 VOLANT BORO
+Lawrence,0032 VOLANT BORO,State House,10.0,Write In,,0.0,,0.0,Lawrence County,0032 VOLANT BORO
+Lawrence,0033 WAMPUM BORO,U.S. Senate,,Bob Casey Jr,DEM,113.0,,4.0,Lawrence County,0033 WAMPUM BORO
+Lawrence,0033 WAMPUM BORO,U.S. Senate,,Lou Barletta,REP,113.0,,0.0,Lawrence County,0033 WAMPUM BORO
+Lawrence,0033 WAMPUM BORO,U.S. Senate,,Neal Gale,GRN,0.0,,0.0,Lawrence County,0033 WAMPUM BORO
+Lawrence,0033 WAMPUM BORO,U.S. Senate,,Dale R Kerns Jr,LIB,0.0,,0.0,Lawrence County,0033 WAMPUM BORO
+Lawrence,0033 WAMPUM BORO,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0033 WAMPUM BORO
+Lawrence,0033 WAMPUM BORO,Governor,,Tom Wolf,DEM,113.0,,4.0,Lawrence County,0033 WAMPUM BORO
+Lawrence,0033 WAMPUM BORO,Governor,,Scott R. Wagner,REP,111.0,,0.0,Lawrence County,0033 WAMPUM BORO
+Lawrence,0033 WAMPUM BORO,Governor,,Paul Glover,GRN,2.0,,0.0,Lawrence County,0033 WAMPUM BORO
+Lawrence,0033 WAMPUM BORO,Governor,,Ken V. Krawchuk,LIB,1.0,,0.0,Lawrence County,0033 WAMPUM BORO
+Lawrence,0033 WAMPUM BORO,Governor,,Write In,,0.0,,0.0,Lawrence County,0033 WAMPUM BORO
+Lawrence,0033 WAMPUM BORO,U.S. House,16.0,Ron Dinicola,DEM,97.0,,3.0,Lawrence County,0033 WAMPUM BORO
+Lawrence,0033 WAMPUM BORO,U.S. House,16.0,Mike Kelly,REP,122.0,,1.0,Lawrence County,0033 WAMPUM BORO
+Lawrence,0033 WAMPUM BORO,U.S. House,16.0,Ebert G. Bill Beeman,LIB,4.0,,0.0,Lawrence County,0033 WAMPUM BORO
+Lawrence,0033 WAMPUM BORO,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0033 WAMPUM BORO
+Lawrence,0033 WAMPUM BORO,State House,10.0,Aaron Bernstine,DEM/REP,191.0,,3.0,Lawrence County,0033 WAMPUM BORO
+Lawrence,0033 WAMPUM BORO,State House,10.0,Darcelle L Slappy,GRN,33.0,,0.0,Lawrence County,0033 WAMPUM BORO
+Lawrence,0033 WAMPUM BORO,State House,10.0,Write In,,0.0,,0.0,Lawrence County,0033 WAMPUM BORO
+Lawrence,0034 HICKORY TWP D1,U.S. Senate,,Bob Casey Jr,DEM,134.0,,5.0,Lawrence County,0034 HICKORY TWP D1
+Lawrence,0034 HICKORY TWP D1,U.S. Senate,,Lou Barletta,REP,338.0,,14.0,Lawrence County,0034 HICKORY TWP D1
+Lawrence,0034 HICKORY TWP D1,U.S. Senate,,Neal Gale,GRN,3.0,,0.0,Lawrence County,0034 HICKORY TWP D1
+Lawrence,0034 HICKORY TWP D1,U.S. Senate,,Dale R Kerns Jr,LIB,7.0,,0.0,Lawrence County,0034 HICKORY TWP D1
+Lawrence,0034 HICKORY TWP D1,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0034 HICKORY TWP D1
+Lawrence,0034 HICKORY TWP D1,Governor,,Tom Wolf,DEM,151.0,,5.0,Lawrence County,0034 HICKORY TWP D1
+Lawrence,0034 HICKORY TWP D1,Governor,,Scott R. Wagner,REP,325.0,,14.0,Lawrence County,0034 HICKORY TWP D1
+Lawrence,0034 HICKORY TWP D1,Governor,,Paul Glover,GRN,1.0,,0.0,Lawrence County,0034 HICKORY TWP D1
+Lawrence,0034 HICKORY TWP D1,Governor,,Ken V. Krawchuk,LIB,7.0,,0.0,Lawrence County,0034 HICKORY TWP D1
+Lawrence,0034 HICKORY TWP D1,Governor,,Write In,,0.0,,0.0,Lawrence County,0034 HICKORY TWP D1
+Lawrence,0034 HICKORY TWP D1,U.S. House,16.0,Ron Dinicola,DEM,128.0,,6.0,Lawrence County,0034 HICKORY TWP D1
+Lawrence,0034 HICKORY TWP D1,U.S. House,16.0,Mike Kelly,REP,348.0,,13.0,Lawrence County,0034 HICKORY TWP D1
+Lawrence,0034 HICKORY TWP D1,U.S. House,16.0,Ebert G. Bill Beeman,LIB,8.0,,0.0,Lawrence County,0034 HICKORY TWP D1
+Lawrence,0034 HICKORY TWP D1,U.S. House,16.0,Write In,,1.0,,0.0,Lawrence County,0034 HICKORY TWP D1
+Lawrence,0034 HICKORY TWP D1,State House,9.0,Chris Sainato,DEM,212.0,,7.0,Lawrence County,0034 HICKORY TWP D1
+Lawrence,0034 HICKORY TWP D1,State House,9.0,Gregory Michalek,REP,270.0,,12.0,Lawrence County,0034 HICKORY TWP D1
+Lawrence,0034 HICKORY TWP D1,State House,9.0,Write In,,2.0,,0.0,Lawrence County,0034 HICKORY TWP D1
+Lawrence,0035 HICKORY TWP D2,U.S. Senate,,Bob Casey Jr,DEM,220.0,,9.0,Lawrence County,0035 HICKORY TWP D2
+Lawrence,0035 HICKORY TWP D2,U.S. Senate,,Lou Barletta,REP,392.0,,10.0,Lawrence County,0035 HICKORY TWP D2
+Lawrence,0035 HICKORY TWP D2,U.S. Senate,,Neal Gale,GRN,3.0,,0.0,Lawrence County,0035 HICKORY TWP D2
+Lawrence,0035 HICKORY TWP D2,U.S. Senate,,Dale R Kerns Jr,LIB,5.0,,0.0,Lawrence County,0035 HICKORY TWP D2
+Lawrence,0035 HICKORY TWP D2,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0035 HICKORY TWP D2
+Lawrence,0035 HICKORY TWP D2,Governor,,Tom Wolf,DEM,236.0,,10.0,Lawrence County,0035 HICKORY TWP D2
+Lawrence,0035 HICKORY TWP D2,Governor,,Scott R. Wagner,REP,368.0,,9.0,Lawrence County,0035 HICKORY TWP D2
+Lawrence,0035 HICKORY TWP D2,Governor,,Paul Glover,GRN,7.0,,0.0,Lawrence County,0035 HICKORY TWP D2
+Lawrence,0035 HICKORY TWP D2,Governor,,Ken V. Krawchuk,LIB,9.0,,0.0,Lawrence County,0035 HICKORY TWP D2
+Lawrence,0035 HICKORY TWP D2,Governor,,Write In,,0.0,,0.0,Lawrence County,0035 HICKORY TWP D2
+Lawrence,0035 HICKORY TWP D2,U.S. House,16.0,Ron Dinicola,DEM,218.0,,9.0,Lawrence County,0035 HICKORY TWP D2
+Lawrence,0035 HICKORY TWP D2,U.S. House,16.0,Mike Kelly,REP,396.0,,10.0,Lawrence County,0035 HICKORY TWP D2
+Lawrence,0035 HICKORY TWP D2,U.S. House,16.0,Ebert G. Bill Beeman,LIB,6.0,,0.0,Lawrence County,0035 HICKORY TWP D2
+Lawrence,0035 HICKORY TWP D2,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0035 HICKORY TWP D2
+Lawrence,0035 HICKORY TWP D2,State House,9.0,Chris Sainato,DEM,310.0,,13.0,Lawrence County,0035 HICKORY TWP D2
+Lawrence,0035 HICKORY TWP D2,State House,9.0,Gregory Michalek,REP,310.0,,6.0,Lawrence County,0035 HICKORY TWP D2
+Lawrence,0035 HICKORY TWP D2,State House,9.0,Write In,,0.0,,0.0,Lawrence County,0035 HICKORY TWP D2
+Lawrence,0036 LITTLE BEAVER TWP,U.S. Senate,,Bob Casey Jr,DEM,119.0,,1.0,Lawrence County,0036 LITTLE BEAVER TWP
+Lawrence,0036 LITTLE BEAVER TWP,U.S. Senate,,Lou Barletta,REP,319.0,,3.0,Lawrence County,0036 LITTLE BEAVER TWP
+Lawrence,0036 LITTLE BEAVER TWP,U.S. Senate,,Neal Gale,GRN,2.0,,0.0,Lawrence County,0036 LITTLE BEAVER TWP
+Lawrence,0036 LITTLE BEAVER TWP,U.S. Senate,,Dale R Kerns Jr,LIB,5.0,,0.0,Lawrence County,0036 LITTLE BEAVER TWP
+Lawrence,0036 LITTLE BEAVER TWP,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0036 LITTLE BEAVER TWP
+Lawrence,0036 LITTLE BEAVER TWP,Governor,,Tom Wolf,DEM,128.0,,1.0,Lawrence County,0036 LITTLE BEAVER TWP
+Lawrence,0036 LITTLE BEAVER TWP,Governor,,Scott R. Wagner,REP,314.0,,2.0,Lawrence County,0036 LITTLE BEAVER TWP
+Lawrence,0036 LITTLE BEAVER TWP,Governor,,Paul Glover,GRN,2.0,,0.0,Lawrence County,0036 LITTLE BEAVER TWP
+Lawrence,0036 LITTLE BEAVER TWP,Governor,,Ken V. Krawchuk,LIB,4.0,,0.0,Lawrence County,0036 LITTLE BEAVER TWP
+Lawrence,0036 LITTLE BEAVER TWP,Governor,,Write In,,0.0,,0.0,Lawrence County,0036 LITTLE BEAVER TWP
+Lawrence,0036 LITTLE BEAVER TWP,U.S. House,16.0,Ron Dinicola,DEM,101.0,,1.0,Lawrence County,0036 LITTLE BEAVER TWP
+Lawrence,0036 LITTLE BEAVER TWP,U.S. House,16.0,Mike Kelly,REP,339.0,,3.0,Lawrence County,0036 LITTLE BEAVER TWP
+Lawrence,0036 LITTLE BEAVER TWP,U.S. House,16.0,Ebert G. Bill Beeman,LIB,6.0,,0.0,Lawrence County,0036 LITTLE BEAVER TWP
+Lawrence,0036 LITTLE BEAVER TWP,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0036 LITTLE BEAVER TWP
+Lawrence,0036 LITTLE BEAVER TWP,State House,10.0,Aaron Bernstine,DEM/REP,412.0,,3.0,Lawrence County,0036 LITTLE BEAVER TWP
+Lawrence,0036 LITTLE BEAVER TWP,State House,10.0,Darcelle L Slappy,GRN,35.0,,1.0,Lawrence County,0036 LITTLE BEAVER TWP
+Lawrence,0036 LITTLE BEAVER TWP,State House,10.0,Write In,,0.0,,0.0,Lawrence County,0036 LITTLE BEAVER TWP
+Lawrence,0037 MAHONING TWP D1,U.S. Senate,,Bob Casey Jr,DEM,191.0,,7.0,Lawrence County,0037 MAHONING TWP D1
+Lawrence,0037 MAHONING TWP D1,U.S. Senate,,Lou Barletta,REP,334.0,,11.0,Lawrence County,0037 MAHONING TWP D1
+Lawrence,0037 MAHONING TWP D1,U.S. Senate,,Neal Gale,GRN,3.0,,0.0,Lawrence County,0037 MAHONING TWP D1
+Lawrence,0037 MAHONING TWP D1,U.S. Senate,,Dale R Kerns Jr,LIB,4.0,,0.0,Lawrence County,0037 MAHONING TWP D1
+Lawrence,0037 MAHONING TWP D1,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0037 MAHONING TWP D1
+Lawrence,0037 MAHONING TWP D1,Governor,,Tom Wolf,DEM,193.0,,7.0,Lawrence County,0037 MAHONING TWP D1
+Lawrence,0037 MAHONING TWP D1,Governor,,Scott R. Wagner,REP,325.0,,11.0,Lawrence County,0037 MAHONING TWP D1
+Lawrence,0037 MAHONING TWP D1,Governor,,Paul Glover,GRN,6.0,,0.0,Lawrence County,0037 MAHONING TWP D1
+Lawrence,0037 MAHONING TWP D1,Governor,,Ken V. Krawchuk,LIB,6.0,,0.0,Lawrence County,0037 MAHONING TWP D1
+Lawrence,0037 MAHONING TWP D1,Governor,,Write In,,0.0,,0.0,Lawrence County,0037 MAHONING TWP D1
+Lawrence,0037 MAHONING TWP D1,U.S. House,16.0,Ron Dinicola,DEM,189.0,,7.0,Lawrence County,0037 MAHONING TWP D1
+Lawrence,0037 MAHONING TWP D1,U.S. House,16.0,Mike Kelly,REP,335.0,,11.0,Lawrence County,0037 MAHONING TWP D1
+Lawrence,0037 MAHONING TWP D1,U.S. House,16.0,Ebert G. Bill Beeman,LIB,7.0,,0.0,Lawrence County,0037 MAHONING TWP D1
+Lawrence,0037 MAHONING TWP D1,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0037 MAHONING TWP D1
+Lawrence,0037 MAHONING TWP D1,State House,9.0,Chris Sainato,DEM,248.0,,12.0,Lawrence County,0037 MAHONING TWP D1
+Lawrence,0037 MAHONING TWP D1,State House,9.0,Gregory Michalek,REP,279.0,,6.0,Lawrence County,0037 MAHONING TWP D1
+Lawrence,0037 MAHONING TWP D1,State House,9.0,Write In,,3.0,,0.0,Lawrence County,0037 MAHONING TWP D1
+Lawrence,0038 MAHONING TWP D2,U.S. Senate,,Bob Casey Jr,DEM,195.0,,2.0,Lawrence County,0038 MAHONING TWP D2
+Lawrence,0038 MAHONING TWP D2,U.S. Senate,,Lou Barletta,REP,272.0,,6.0,Lawrence County,0038 MAHONING TWP D2
+Lawrence,0038 MAHONING TWP D2,U.S. Senate,,Neal Gale,GRN,0.0,,0.0,Lawrence County,0038 MAHONING TWP D2
+Lawrence,0038 MAHONING TWP D2,U.S. Senate,,Dale R Kerns Jr,LIB,7.0,,0.0,Lawrence County,0038 MAHONING TWP D2
+Lawrence,0038 MAHONING TWP D2,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0038 MAHONING TWP D2
+Lawrence,0038 MAHONING TWP D2,Governor,,Tom Wolf,DEM,201.0,,5.0,Lawrence County,0038 MAHONING TWP D2
+Lawrence,0038 MAHONING TWP D2,Governor,,Scott R. Wagner,REP,262.0,,3.0,Lawrence County,0038 MAHONING TWP D2
+Lawrence,0038 MAHONING TWP D2,Governor,,Paul Glover,GRN,1.0,,0.0,Lawrence County,0038 MAHONING TWP D2
+Lawrence,0038 MAHONING TWP D2,Governor,,Ken V. Krawchuk,LIB,9.0,,0.0,Lawrence County,0038 MAHONING TWP D2
+Lawrence,0038 MAHONING TWP D2,Governor,,Write In,,0.0,,0.0,Lawrence County,0038 MAHONING TWP D2
+Lawrence,0038 MAHONING TWP D2,U.S. House,16.0,Ron Dinicola,DEM,185.0,,2.0,Lawrence County,0038 MAHONING TWP D2
+Lawrence,0038 MAHONING TWP D2,U.S. House,16.0,Mike Kelly,REP,277.0,,6.0,Lawrence County,0038 MAHONING TWP D2
+Lawrence,0038 MAHONING TWP D2,U.S. House,16.0,Ebert G. Bill Beeman,LIB,9.0,,0.0,Lawrence County,0038 MAHONING TWP D2
+Lawrence,0038 MAHONING TWP D2,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0038 MAHONING TWP D2
+Lawrence,0038 MAHONING TWP D2,State House,9.0,Chris Sainato,DEM,258.0,,7.0,Lawrence County,0038 MAHONING TWP D2
+Lawrence,0038 MAHONING TWP D2,State House,9.0,Gregory Michalek,REP,212.0,,1.0,Lawrence County,0038 MAHONING TWP D2
+Lawrence,0038 MAHONING TWP D2,State House,9.0,Write In,,2.0,,0.0,Lawrence County,0038 MAHONING TWP D2
+Lawrence,0039 NESHANNOCK TWP D1,U.S. Senate,,Bob Casey Jr,DEM,224.0,,20.0,Lawrence County,0039 NESHANNOCK TWP D1
+Lawrence,0039 NESHANNOCK TWP D1,U.S. Senate,,Lou Barletta,REP,182.0,,15.0,Lawrence County,0039 NESHANNOCK TWP D1
+Lawrence,0039 NESHANNOCK TWP D1,U.S. Senate,,Neal Gale,GRN,1.0,,0.0,Lawrence County,0039 NESHANNOCK TWP D1
+Lawrence,0039 NESHANNOCK TWP D1,U.S. Senate,,Dale R Kerns Jr,LIB,2.0,,0.0,Lawrence County,0039 NESHANNOCK TWP D1
+Lawrence,0039 NESHANNOCK TWP D1,U.S. Senate,,Write In,,2.0,,2.0,Lawrence County,0039 NESHANNOCK TWP D1
+Lawrence,0039 NESHANNOCK TWP D1,Governor,,Tom Wolf,DEM,233.0,,18.0,Lawrence County,0039 NESHANNOCK TWP D1
+Lawrence,0039 NESHANNOCK TWP D1,Governor,,Scott R. Wagner,REP,168.0,,16.0,Lawrence County,0039 NESHANNOCK TWP D1
+Lawrence,0039 NESHANNOCK TWP D1,Governor,,Paul Glover,GRN,5.0,,0.0,Lawrence County,0039 NESHANNOCK TWP D1
+Lawrence,0039 NESHANNOCK TWP D1,Governor,,Ken V. Krawchuk,LIB,3.0,,0.0,Lawrence County,0039 NESHANNOCK TWP D1
+Lawrence,0039 NESHANNOCK TWP D1,Governor,,Write In,,2.0,,2.0,Lawrence County,0039 NESHANNOCK TWP D1
+Lawrence,0039 NESHANNOCK TWP D1,U.S. House,16.0,Ron Dinicola,DEM,203.0,,15.0,Lawrence County,0039 NESHANNOCK TWP D1
+Lawrence,0039 NESHANNOCK TWP D1,U.S. House,16.0,Mike Kelly,REP,203.0,,19.0,Lawrence County,0039 NESHANNOCK TWP D1
+Lawrence,0039 NESHANNOCK TWP D1,U.S. House,16.0,Ebert G. Bill Beeman,LIB,3.0,,0.0,Lawrence County,0039 NESHANNOCK TWP D1
+Lawrence,0039 NESHANNOCK TWP D1,U.S. House,16.0,Write In,,2.0,,2.0,Lawrence County,0039 NESHANNOCK TWP D1
+Lawrence,0039 NESHANNOCK TWP D1,State House,9.0,Chris Sainato,DEM,256.0,,22.0,Lawrence County,0039 NESHANNOCK TWP D1
+Lawrence,0039 NESHANNOCK TWP D1,State House,9.0,Gregory Michalek,REP,152.0,,14.0,Lawrence County,0039 NESHANNOCK TWP D1
+Lawrence,0039 NESHANNOCK TWP D1,State House,9.0,Write In,,5.0,,2.0,Lawrence County,0039 NESHANNOCK TWP D1
+Lawrence,0040 NESHANNOCK TWP D2,U.S. Senate,,Bob Casey Jr,DEM,213.0,,6.0,Lawrence County,0040 NESHANNOCK TWP D2
+Lawrence,0040 NESHANNOCK TWP D2,U.S. Senate,,Lou Barletta,REP,270.0,,20.0,Lawrence County,0040 NESHANNOCK TWP D2
+Lawrence,0040 NESHANNOCK TWP D2,U.S. Senate,,Neal Gale,GRN,3.0,,0.0,Lawrence County,0040 NESHANNOCK TWP D2
+Lawrence,0040 NESHANNOCK TWP D2,U.S. Senate,,Dale R Kerns Jr,LIB,5.0,,0.0,Lawrence County,0040 NESHANNOCK TWP D2
+Lawrence,0040 NESHANNOCK TWP D2,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0040 NESHANNOCK TWP D2
+Lawrence,0040 NESHANNOCK TWP D2,Governor,,Tom Wolf,DEM,222.0,,4.0,Lawrence County,0040 NESHANNOCK TWP D2
+Lawrence,0040 NESHANNOCK TWP D2,Governor,,Scott R. Wagner,REP,268.0,,23.0,Lawrence County,0040 NESHANNOCK TWP D2
+Lawrence,0040 NESHANNOCK TWP D2,Governor,,Paul Glover,GRN,2.0,,0.0,Lawrence County,0040 NESHANNOCK TWP D2
+Lawrence,0040 NESHANNOCK TWP D2,Governor,,Ken V. Krawchuk,LIB,3.0,,0.0,Lawrence County,0040 NESHANNOCK TWP D2
+Lawrence,0040 NESHANNOCK TWP D2,Governor,,Write In,,1.0,,0.0,Lawrence County,0040 NESHANNOCK TWP D2
+Lawrence,0040 NESHANNOCK TWP D2,U.S. House,16.0,Ron Dinicola,DEM,200.0,,6.0,Lawrence County,0040 NESHANNOCK TWP D2
+Lawrence,0040 NESHANNOCK TWP D2,U.S. House,16.0,Mike Kelly,REP,293.0,,21.0,Lawrence County,0040 NESHANNOCK TWP D2
+Lawrence,0040 NESHANNOCK TWP D2,U.S. House,16.0,Ebert G. Bill Beeman,LIB,2.0,,0.0,Lawrence County,0040 NESHANNOCK TWP D2
+Lawrence,0040 NESHANNOCK TWP D2,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0040 NESHANNOCK TWP D2
+Lawrence,0040 NESHANNOCK TWP D2,State House,9.0,Chris Sainato,DEM,256.0,,10.0,Lawrence County,0040 NESHANNOCK TWP D2
+Lawrence,0040 NESHANNOCK TWP D2,State House,9.0,Gregory Michalek,REP,240.0,,17.0,Lawrence County,0040 NESHANNOCK TWP D2
+Lawrence,0040 NESHANNOCK TWP D2,State House,9.0,Write In,,0.0,,0.0,Lawrence County,0040 NESHANNOCK TWP D2
+Lawrence,0041 NESHANNOCK TWP D3,U.S. Senate,,Bob Casey Jr,DEM,259.0,,18.0,Lawrence County,0041 NESHANNOCK TWP D3
+Lawrence,0041 NESHANNOCK TWP D3,U.S. Senate,,Lou Barletta,REP,441.0,,37.0,Lawrence County,0041 NESHANNOCK TWP D3
+Lawrence,0041 NESHANNOCK TWP D3,U.S. Senate,,Neal Gale,GRN,1.0,,0.0,Lawrence County,0041 NESHANNOCK TWP D3
+Lawrence,0041 NESHANNOCK TWP D3,U.S. Senate,,Dale R Kerns Jr,LIB,8.0,,0.0,Lawrence County,0041 NESHANNOCK TWP D3
+Lawrence,0041 NESHANNOCK TWP D3,U.S. Senate,,Write In,,1.0,,0.0,Lawrence County,0041 NESHANNOCK TWP D3
+Lawrence,0041 NESHANNOCK TWP D3,Governor,,Tom Wolf,DEM,296.0,,22.0,Lawrence County,0041 NESHANNOCK TWP D3
+Lawrence,0041 NESHANNOCK TWP D3,Governor,,Scott R. Wagner,REP,410.0,,34.0,Lawrence County,0041 NESHANNOCK TWP D3
+Lawrence,0041 NESHANNOCK TWP D3,Governor,,Paul Glover,GRN,4.0,,0.0,Lawrence County,0041 NESHANNOCK TWP D3
+Lawrence,0041 NESHANNOCK TWP D3,Governor,,Ken V. Krawchuk,LIB,5.0,,0.0,Lawrence County,0041 NESHANNOCK TWP D3
+Lawrence,0041 NESHANNOCK TWP D3,Governor,,Write In,,3.0,,0.0,Lawrence County,0041 NESHANNOCK TWP D3
+Lawrence,0041 NESHANNOCK TWP D3,U.S. House,16.0,Ron Dinicola,DEM,246.0,,17.0,Lawrence County,0041 NESHANNOCK TWP D3
+Lawrence,0041 NESHANNOCK TWP D3,U.S. House,16.0,Mike Kelly,REP,468.0,,39.0,Lawrence County,0041 NESHANNOCK TWP D3
+Lawrence,0041 NESHANNOCK TWP D3,U.S. House,16.0,Ebert G. Bill Beeman,LIB,2.0,,0.0,Lawrence County,0041 NESHANNOCK TWP D3
+Lawrence,0041 NESHANNOCK TWP D3,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0041 NESHANNOCK TWP D3
+Lawrence,0041 NESHANNOCK TWP D3,State House,9.0,Chris Sainato,DEM,329.0,,25.0,Lawrence County,0041 NESHANNOCK TWP D3
+Lawrence,0041 NESHANNOCK TWP D3,State House,9.0,Gregory Michalek,REP,385.0,,31.0,Lawrence County,0041 NESHANNOCK TWP D3
+Lawrence,0041 NESHANNOCK TWP D3,State House,9.0,Write In,,1.0,,0.0,Lawrence County,0041 NESHANNOCK TWP D3
+Lawrence,0042 NESHANNOCK TWP D4,U.S. Senate,,Bob Casey Jr,DEM,284.0,,8.0,Lawrence County,0042 NESHANNOCK TWP D4
+Lawrence,0042 NESHANNOCK TWP D4,U.S. Senate,,Lou Barletta,REP,443.0,,25.0,Lawrence County,0042 NESHANNOCK TWP D4
+Lawrence,0042 NESHANNOCK TWP D4,U.S. Senate,,Neal Gale,GRN,2.0,,0.0,Lawrence County,0042 NESHANNOCK TWP D4
+Lawrence,0042 NESHANNOCK TWP D4,U.S. Senate,,Dale R Kerns Jr,LIB,5.0,,0.0,Lawrence County,0042 NESHANNOCK TWP D4
+Lawrence,0042 NESHANNOCK TWP D4,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0042 NESHANNOCK TWP D4
+Lawrence,0042 NESHANNOCK TWP D4,Governor,,Tom Wolf,DEM,291.0,,8.0,Lawrence County,0042 NESHANNOCK TWP D4
+Lawrence,0042 NESHANNOCK TWP D4,Governor,,Scott R. Wagner,REP,431.0,,25.0,Lawrence County,0042 NESHANNOCK TWP D4
+Lawrence,0042 NESHANNOCK TWP D4,Governor,,Paul Glover,GRN,4.0,,0.0,Lawrence County,0042 NESHANNOCK TWP D4
+Lawrence,0042 NESHANNOCK TWP D4,Governor,,Ken V. Krawchuk,LIB,5.0,,0.0,Lawrence County,0042 NESHANNOCK TWP D4
+Lawrence,0042 NESHANNOCK TWP D4,Governor,,Write In,,0.0,,0.0,Lawrence County,0042 NESHANNOCK TWP D4
+Lawrence,0042 NESHANNOCK TWP D4,U.S. House,16.0,Ron Dinicola,DEM,269.0,,8.0,Lawrence County,0042 NESHANNOCK TWP D4
+Lawrence,0042 NESHANNOCK TWP D4,U.S. House,16.0,Mike Kelly,REP,461.0,,25.0,Lawrence County,0042 NESHANNOCK TWP D4
+Lawrence,0042 NESHANNOCK TWP D4,U.S. House,16.0,Ebert G. Bill Beeman,LIB,2.0,,0.0,Lawrence County,0042 NESHANNOCK TWP D4
+Lawrence,0042 NESHANNOCK TWP D4,U.S. House,16.0,Write In,,1.0,,0.0,Lawrence County,0042 NESHANNOCK TWP D4
+Lawrence,0042 NESHANNOCK TWP D4,State House,9.0,Chris Sainato,DEM,348.0,,9.0,Lawrence County,0042 NESHANNOCK TWP D4
+Lawrence,0042 NESHANNOCK TWP D4,State House,9.0,Gregory Michalek,REP,382.0,,24.0,Lawrence County,0042 NESHANNOCK TWP D4
+Lawrence,0042 NESHANNOCK TWP D4,State House,9.0,Write In,,5.0,,0.0,Lawrence County,0042 NESHANNOCK TWP D4
+Lawrence,0043 NESHANNOCK TWP D5,U.S. Senate,,Bob Casey Jr,DEM,258.0,,9.0,Lawrence County,0043 NESHANNOCK TWP D5
+Lawrence,0043 NESHANNOCK TWP D5,U.S. Senate,,Lou Barletta,REP,299.0,,7.0,Lawrence County,0043 NESHANNOCK TWP D5
+Lawrence,0043 NESHANNOCK TWP D5,U.S. Senate,,Neal Gale,GRN,0.0,,0.0,Lawrence County,0043 NESHANNOCK TWP D5
+Lawrence,0043 NESHANNOCK TWP D5,U.S. Senate,,Dale R Kerns Jr,LIB,2.0,,0.0,Lawrence County,0043 NESHANNOCK TWP D5
+Lawrence,0043 NESHANNOCK TWP D5,U.S. Senate,,Write In,,1.0,,0.0,Lawrence County,0043 NESHANNOCK TWP D5
+Lawrence,0043 NESHANNOCK TWP D5,Governor,,Tom Wolf,DEM,276.0,,10.0,Lawrence County,0043 NESHANNOCK TWP D5
+Lawrence,0043 NESHANNOCK TWP D5,Governor,,Scott R. Wagner,REP,278.0,,6.0,Lawrence County,0043 NESHANNOCK TWP D5
+Lawrence,0043 NESHANNOCK TWP D5,Governor,,Paul Glover,GRN,3.0,,0.0,Lawrence County,0043 NESHANNOCK TWP D5
+Lawrence,0043 NESHANNOCK TWP D5,Governor,,Ken V. Krawchuk,LIB,5.0,,0.0,Lawrence County,0043 NESHANNOCK TWP D5
+Lawrence,0043 NESHANNOCK TWP D5,Governor,,Write In,,0.0,,0.0,Lawrence County,0043 NESHANNOCK TWP D5
+Lawrence,0043 NESHANNOCK TWP D5,U.S. House,16.0,Ron Dinicola,DEM,249.0,,9.0,Lawrence County,0043 NESHANNOCK TWP D5
+Lawrence,0043 NESHANNOCK TWP D5,U.S. House,16.0,Mike Kelly,REP,311.0,,7.0,Lawrence County,0043 NESHANNOCK TWP D5
+Lawrence,0043 NESHANNOCK TWP D5,U.S. House,16.0,Ebert G. Bill Beeman,LIB,2.0,,0.0,Lawrence County,0043 NESHANNOCK TWP D5
+Lawrence,0043 NESHANNOCK TWP D5,U.S. House,16.0,Write In,,2.0,,0.0,Lawrence County,0043 NESHANNOCK TWP D5
+Lawrence,0043 NESHANNOCK TWP D5,State House,9.0,Chris Sainato,DEM,312.0,,10.0,Lawrence County,0043 NESHANNOCK TWP D5
+Lawrence,0043 NESHANNOCK TWP D5,State House,9.0,Gregory Michalek,REP,251.0,,6.0,Lawrence County,0043 NESHANNOCK TWP D5
+Lawrence,0043 NESHANNOCK TWP D5,State House,9.0,Write In,,0.0,,0.0,Lawrence County,0043 NESHANNOCK TWP D5
+Lawrence,0044 NESHANNOCK TWP D6,U.S. Senate,,Bob Casey Jr,DEM,211.0,,12.0,Lawrence County,0044 NESHANNOCK TWP D6
+Lawrence,0044 NESHANNOCK TWP D6,U.S. Senate,,Lou Barletta,REP,281.0,,13.0,Lawrence County,0044 NESHANNOCK TWP D6
+Lawrence,0044 NESHANNOCK TWP D6,U.S. Senate,,Neal Gale,GRN,1.0,,0.0,Lawrence County,0044 NESHANNOCK TWP D6
+Lawrence,0044 NESHANNOCK TWP D6,U.S. Senate,,Dale R Kerns Jr,LIB,5.0,,0.0,Lawrence County,0044 NESHANNOCK TWP D6
+Lawrence,0044 NESHANNOCK TWP D6,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0044 NESHANNOCK TWP D6
+Lawrence,0044 NESHANNOCK TWP D6,Governor,,Tom Wolf,DEM,216.0,,13.0,Lawrence County,0044 NESHANNOCK TWP D6
+Lawrence,0044 NESHANNOCK TWP D6,Governor,,Scott R. Wagner,REP,271.0,,12.0,Lawrence County,0044 NESHANNOCK TWP D6
+Lawrence,0044 NESHANNOCK TWP D6,Governor,,Paul Glover,GRN,2.0,,0.0,Lawrence County,0044 NESHANNOCK TWP D6
+Lawrence,0044 NESHANNOCK TWP D6,Governor,,Ken V. Krawchuk,LIB,8.0,,0.0,Lawrence County,0044 NESHANNOCK TWP D6
+Lawrence,0044 NESHANNOCK TWP D6,Governor,,Write In,,1.0,,0.0,Lawrence County,0044 NESHANNOCK TWP D6
+Lawrence,0044 NESHANNOCK TWP D6,U.S. House,16.0,Ron Dinicola,DEM,206.0,,11.0,Lawrence County,0044 NESHANNOCK TWP D6
+Lawrence,0044 NESHANNOCK TWP D6,U.S. House,16.0,Mike Kelly,REP,288.0,,14.0,Lawrence County,0044 NESHANNOCK TWP D6
+Lawrence,0044 NESHANNOCK TWP D6,U.S. House,16.0,Ebert G. Bill Beeman,LIB,5.0,,0.0,Lawrence County,0044 NESHANNOCK TWP D6
+Lawrence,0044 NESHANNOCK TWP D6,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0044 NESHANNOCK TWP D6
+Lawrence,0044 NESHANNOCK TWP D6,State House,9.0,Chris Sainato,DEM,264.0,,18.0,Lawrence County,0044 NESHANNOCK TWP D6
+Lawrence,0044 NESHANNOCK TWP D6,State House,9.0,Gregory Michalek,REP,236.0,,7.0,Lawrence County,0044 NESHANNOCK TWP D6
+Lawrence,0044 NESHANNOCK TWP D6,State House,9.0,Write In,,1.0,,0.0,Lawrence County,0044 NESHANNOCK TWP D6
+Lawrence,0045 NESHANNOCK TWP D7,U.S. Senate,,Bob Casey Jr,DEM,265.0,,18.0,Lawrence County,0045 NESHANNOCK TWP D7
+Lawrence,0045 NESHANNOCK TWP D7,U.S. Senate,,Lou Barletta,REP,358.0,,28.0,Lawrence County,0045 NESHANNOCK TWP D7
+Lawrence,0045 NESHANNOCK TWP D7,U.S. Senate,,Neal Gale,GRN,1.0,,0.0,Lawrence County,0045 NESHANNOCK TWP D7
+Lawrence,0045 NESHANNOCK TWP D7,U.S. Senate,,Dale R Kerns Jr,LIB,1.0,,0.0,Lawrence County,0045 NESHANNOCK TWP D7
+Lawrence,0045 NESHANNOCK TWP D7,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0045 NESHANNOCK TWP D7
+Lawrence,0045 NESHANNOCK TWP D7,Governor,,Tom Wolf,DEM,290.0,,19.0,Lawrence County,0045 NESHANNOCK TWP D7
+Lawrence,0045 NESHANNOCK TWP D7,Governor,,Scott R. Wagner,REP,331.0,,27.0,Lawrence County,0045 NESHANNOCK TWP D7
+Lawrence,0045 NESHANNOCK TWP D7,Governor,,Paul Glover,GRN,0.0,,0.0,Lawrence County,0045 NESHANNOCK TWP D7
+Lawrence,0045 NESHANNOCK TWP D7,Governor,,Ken V. Krawchuk,LIB,0.0,,0.0,Lawrence County,0045 NESHANNOCK TWP D7
+Lawrence,0045 NESHANNOCK TWP D7,Governor,,Write In,,1.0,,0.0,Lawrence County,0045 NESHANNOCK TWP D7
+Lawrence,0045 NESHANNOCK TWP D7,U.S. House,16.0,Ron Dinicola,DEM,254.0,,16.0,Lawrence County,0045 NESHANNOCK TWP D7
+Lawrence,0045 NESHANNOCK TWP D7,U.S. House,16.0,Mike Kelly,REP,372.0,,30.0,Lawrence County,0045 NESHANNOCK TWP D7
+Lawrence,0045 NESHANNOCK TWP D7,U.S. House,16.0,Ebert G. Bill Beeman,LIB,1.0,,0.0,Lawrence County,0045 NESHANNOCK TWP D7
+Lawrence,0045 NESHANNOCK TWP D7,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0045 NESHANNOCK TWP D7
+Lawrence,0045 NESHANNOCK TWP D7,State House,9.0,Chris Sainato,DEM,353.0,,21.0,Lawrence County,0045 NESHANNOCK TWP D7
+Lawrence,0045 NESHANNOCK TWP D7,State House,9.0,Gregory Michalek,REP,269.0,,25.0,Lawrence County,0045 NESHANNOCK TWP D7
+Lawrence,0045 NESHANNOCK TWP D7,State House,9.0,Write In,,0.0,,0.0,Lawrence County,0045 NESHANNOCK TWP D7
+Lawrence,0046 NESHANNOCK TWP D8,U.S. Senate,,Bob Casey Jr,DEM,293.0,,15.0,Lawrence County,0046 NESHANNOCK TWP D8
+Lawrence,0046 NESHANNOCK TWP D8,U.S. Senate,,Lou Barletta,REP,332.0,,13.0,Lawrence County,0046 NESHANNOCK TWP D8
+Lawrence,0046 NESHANNOCK TWP D8,U.S. Senate,,Neal Gale,GRN,2.0,,0.0,Lawrence County,0046 NESHANNOCK TWP D8
+Lawrence,0046 NESHANNOCK TWP D8,U.S. Senate,,Dale R Kerns Jr,LIB,6.0,,2.0,Lawrence County,0046 NESHANNOCK TWP D8
+Lawrence,0046 NESHANNOCK TWP D8,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0046 NESHANNOCK TWP D8
+Lawrence,0046 NESHANNOCK TWP D8,Governor,,Tom Wolf,DEM,331.0,,17.0,Lawrence County,0046 NESHANNOCK TWP D8
+Lawrence,0046 NESHANNOCK TWP D8,Governor,,Scott R. Wagner,REP,300.0,,12.0,Lawrence County,0046 NESHANNOCK TWP D8
+Lawrence,0046 NESHANNOCK TWP D8,Governor,,Paul Glover,GRN,3.0,,1.0,Lawrence County,0046 NESHANNOCK TWP D8
+Lawrence,0046 NESHANNOCK TWP D8,Governor,,Ken V. Krawchuk,LIB,3.0,,0.0,Lawrence County,0046 NESHANNOCK TWP D8
+Lawrence,0046 NESHANNOCK TWP D8,Governor,,Write In,,0.0,,0.0,Lawrence County,0046 NESHANNOCK TWP D8
+Lawrence,0046 NESHANNOCK TWP D8,U.S. House,16.0,Ron Dinicola,DEM,275.0,,13.0,Lawrence County,0046 NESHANNOCK TWP D8
+Lawrence,0046 NESHANNOCK TWP D8,U.S. House,16.0,Mike Kelly,REP,353.0,,15.0,Lawrence County,0046 NESHANNOCK TWP D8
+Lawrence,0046 NESHANNOCK TWP D8,U.S. House,16.0,Ebert G. Bill Beeman,LIB,6.0,,1.0,Lawrence County,0046 NESHANNOCK TWP D8
+Lawrence,0046 NESHANNOCK TWP D8,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0046 NESHANNOCK TWP D8
+Lawrence,0046 NESHANNOCK TWP D8,State House,9.0,Chris Sainato,DEM,368.0,,23.0,Lawrence County,0046 NESHANNOCK TWP D8
+Lawrence,0046 NESHANNOCK TWP D8,State House,9.0,Gregory Michalek,REP,268.0,,7.0,Lawrence County,0046 NESHANNOCK TWP D8
+Lawrence,0046 NESHANNOCK TWP D8,State House,9.0,Write In,,1.0,,0.0,Lawrence County,0046 NESHANNOCK TWP D8
+Lawrence,0047 NORTH BEAVER TWP D1,U.S. Senate,,Bob Casey Jr,DEM,183.0,,8.0,Lawrence County,0047 NORTH BEAVER TWP D1
+Lawrence,0047 NORTH BEAVER TWP D1,U.S. Senate,,Lou Barletta,REP,276.0,,7.0,Lawrence County,0047 NORTH BEAVER TWP D1
+Lawrence,0047 NORTH BEAVER TWP D1,U.S. Senate,,Neal Gale,GRN,3.0,,0.0,Lawrence County,0047 NORTH BEAVER TWP D1
+Lawrence,0047 NORTH BEAVER TWP D1,U.S. Senate,,Dale R Kerns Jr,LIB,13.0,,0.0,Lawrence County,0047 NORTH BEAVER TWP D1
+Lawrence,0047 NORTH BEAVER TWP D1,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0047 NORTH BEAVER TWP D1
+Lawrence,0047 NORTH BEAVER TWP D1,Governor,,Tom Wolf,DEM,210.0,,8.0,Lawrence County,0047 NORTH BEAVER TWP D1
+Lawrence,0047 NORTH BEAVER TWP D1,Governor,,Scott R. Wagner,REP,257.0,,7.0,Lawrence County,0047 NORTH BEAVER TWP D1
+Lawrence,0047 NORTH BEAVER TWP D1,Governor,,Paul Glover,GRN,2.0,,0.0,Lawrence County,0047 NORTH BEAVER TWP D1
+Lawrence,0047 NORTH BEAVER TWP D1,Governor,,Ken V. Krawchuk,LIB,9.0,,0.0,Lawrence County,0047 NORTH BEAVER TWP D1
+Lawrence,0047 NORTH BEAVER TWP D1,Governor,,Write In,,0.0,,0.0,Lawrence County,0047 NORTH BEAVER TWP D1
+Lawrence,0047 NORTH BEAVER TWP D1,U.S. House,16.0,Ron Dinicola,DEM,174.0,,7.0,Lawrence County,0047 NORTH BEAVER TWP D1
+Lawrence,0047 NORTH BEAVER TWP D1,U.S. House,16.0,Mike Kelly,REP,291.0,,8.0,Lawrence County,0047 NORTH BEAVER TWP D1
+Lawrence,0047 NORTH BEAVER TWP D1,U.S. House,16.0,Ebert G. Bill Beeman,LIB,10.0,,0.0,Lawrence County,0047 NORTH BEAVER TWP D1
+Lawrence,0047 NORTH BEAVER TWP D1,U.S. House,16.0,Write In,,1.0,,0.0,Lawrence County,0047 NORTH BEAVER TWP D1
+Lawrence,0047 NORTH BEAVER TWP D1,State House,9.0,Chris Sainato,DEM,242.0,,9.0,Lawrence County,0047 NORTH BEAVER TWP D1
+Lawrence,0047 NORTH BEAVER TWP D1,State House,9.0,Gregory Michalek,REP,234.0,,6.0,Lawrence County,0047 NORTH BEAVER TWP D1
+Lawrence,0047 NORTH BEAVER TWP D1,State House,9.0,Write In,,0.0,,0.0,Lawrence County,0047 NORTH BEAVER TWP D1
+Lawrence,0048 NORTH BEAVER TWP D2,U.S. Senate,,Bob Casey Jr,DEM,213.0,,11.0,Lawrence County,0048 NORTH BEAVER TWP D2
+Lawrence,0048 NORTH BEAVER TWP D2,U.S. Senate,,Lou Barletta,REP,382.0,,18.0,Lawrence County,0048 NORTH BEAVER TWP D2
+Lawrence,0048 NORTH BEAVER TWP D2,U.S. Senate,,Neal Gale,GRN,2.0,,0.0,Lawrence County,0048 NORTH BEAVER TWP D2
+Lawrence,0048 NORTH BEAVER TWP D2,U.S. Senate,,Dale R Kerns Jr,LIB,12.0,,0.0,Lawrence County,0048 NORTH BEAVER TWP D2
+Lawrence,0048 NORTH BEAVER TWP D2,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0048 NORTH BEAVER TWP D2
+Lawrence,0048 NORTH BEAVER TWP D2,Governor,,Tom Wolf,DEM,241.0,,12.0,Lawrence County,0048 NORTH BEAVER TWP D2
+Lawrence,0048 NORTH BEAVER TWP D2,Governor,,Scott R. Wagner,REP,360.0,,17.0,Lawrence County,0048 NORTH BEAVER TWP D2
+Lawrence,0048 NORTH BEAVER TWP D2,Governor,,Paul Glover,GRN,3.0,,0.0,Lawrence County,0048 NORTH BEAVER TWP D2
+Lawrence,0048 NORTH BEAVER TWP D2,Governor,,Ken V. Krawchuk,LIB,5.0,,0.0,Lawrence County,0048 NORTH BEAVER TWP D2
+Lawrence,0048 NORTH BEAVER TWP D2,Governor,,Write In,,1.0,,0.0,Lawrence County,0048 NORTH BEAVER TWP D2
+Lawrence,0048 NORTH BEAVER TWP D2,U.S. House,16.0,Ron Dinicola,DEM,210.0,,11.0,Lawrence County,0048 NORTH BEAVER TWP D2
+Lawrence,0048 NORTH BEAVER TWP D2,U.S. House,16.0,Mike Kelly,REP,393.0,,18.0,Lawrence County,0048 NORTH BEAVER TWP D2
+Lawrence,0048 NORTH BEAVER TWP D2,U.S. House,16.0,Ebert G. Bill Beeman,LIB,7.0,,0.0,Lawrence County,0048 NORTH BEAVER TWP D2
+Lawrence,0048 NORTH BEAVER TWP D2,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0048 NORTH BEAVER TWP D2
+Lawrence,0048 NORTH BEAVER TWP D2,State House,9.0,Chris Sainato,DEM,282.0,,17.0,Lawrence County,0048 NORTH BEAVER TWP D2
+Lawrence,0048 NORTH BEAVER TWP D2,State House,9.0,Gregory Michalek,REP,323.0,,12.0,Lawrence County,0048 NORTH BEAVER TWP D2
+Lawrence,0048 NORTH BEAVER TWP D2,State House,9.0,Write In,,2.0,,0.0,Lawrence County,0048 NORTH BEAVER TWP D2
+Lawrence,0049 NORTH BEAVER TWP D3,U.S. Senate,,Bob Casey Jr,DEM,158.0,,7.0,Lawrence County,0049 NORTH BEAVER TWP D3
+Lawrence,0049 NORTH BEAVER TWP D3,U.S. Senate,,Lou Barletta,REP,344.0,,13.0,Lawrence County,0049 NORTH BEAVER TWP D3
+Lawrence,0049 NORTH BEAVER TWP D3,U.S. Senate,,Neal Gale,GRN,2.0,,0.0,Lawrence County,0049 NORTH BEAVER TWP D3
+Lawrence,0049 NORTH BEAVER TWP D3,U.S. Senate,,Dale R Kerns Jr,LIB,6.0,,0.0,Lawrence County,0049 NORTH BEAVER TWP D3
+Lawrence,0049 NORTH BEAVER TWP D3,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0049 NORTH BEAVER TWP D3
+Lawrence,0049 NORTH BEAVER TWP D3,Governor,,Tom Wolf,DEM,173.0,,6.0,Lawrence County,0049 NORTH BEAVER TWP D3
+Lawrence,0049 NORTH BEAVER TWP D3,Governor,,Scott R. Wagner,REP,325.0,,13.0,Lawrence County,0049 NORTH BEAVER TWP D3
+Lawrence,0049 NORTH BEAVER TWP D3,Governor,,Paul Glover,GRN,4.0,,0.0,Lawrence County,0049 NORTH BEAVER TWP D3
+Lawrence,0049 NORTH BEAVER TWP D3,Governor,,Ken V. Krawchuk,LIB,8.0,,1.0,Lawrence County,0049 NORTH BEAVER TWP D3
+Lawrence,0049 NORTH BEAVER TWP D3,Governor,,Write In,,1.0,,0.0,Lawrence County,0049 NORTH BEAVER TWP D3
+Lawrence,0049 NORTH BEAVER TWP D3,U.S. House,16.0,Ron Dinicola,DEM,138.0,,7.0,Lawrence County,0049 NORTH BEAVER TWP D3
+Lawrence,0049 NORTH BEAVER TWP D3,U.S. House,16.0,Mike Kelly,REP,367.0,,13.0,Lawrence County,0049 NORTH BEAVER TWP D3
+Lawrence,0049 NORTH BEAVER TWP D3,U.S. House,16.0,Ebert G. Bill Beeman,LIB,3.0,,0.0,Lawrence County,0049 NORTH BEAVER TWP D3
+Lawrence,0049 NORTH BEAVER TWP D3,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0049 NORTH BEAVER TWP D3
+Lawrence,0049 NORTH BEAVER TWP D3,State House,9.0,Chris Sainato,DEM,219.0,,7.0,Lawrence County,0049 NORTH BEAVER TWP D3
+Lawrence,0049 NORTH BEAVER TWP D3,State House,9.0,Gregory Michalek,REP,293.0,,13.0,Lawrence County,0049 NORTH BEAVER TWP D3
+Lawrence,0049 NORTH BEAVER TWP D3,State House,9.0,Write In,,0.0,,0.0,Lawrence County,0049 NORTH BEAVER TWP D3
+Lawrence,0050 PERRY TWP D1,U.S. Senate,,Bob Casey Jr,DEM,112.0,,2.0,Lawrence County,0050 PERRY TWP D1
+Lawrence,0050 PERRY TWP D1,U.S. Senate,,Lou Barletta,REP,168.0,,1.0,Lawrence County,0050 PERRY TWP D1
+Lawrence,0050 PERRY TWP D1,U.S. Senate,,Neal Gale,GRN,2.0,,1.0,Lawrence County,0050 PERRY TWP D1
+Lawrence,0050 PERRY TWP D1,U.S. Senate,,Dale R Kerns Jr,LIB,3.0,,0.0,Lawrence County,0050 PERRY TWP D1
+Lawrence,0050 PERRY TWP D1,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0050 PERRY TWP D1
+Lawrence,0050 PERRY TWP D1,Governor,,Tom Wolf,DEM,113.0,,2.0,Lawrence County,0050 PERRY TWP D1
+Lawrence,0050 PERRY TWP D1,Governor,,Scott R. Wagner,REP,168.0,,1.0,Lawrence County,0050 PERRY TWP D1
+Lawrence,0050 PERRY TWP D1,Governor,,Paul Glover,GRN,4.0,,1.0,Lawrence County,0050 PERRY TWP D1
+Lawrence,0050 PERRY TWP D1,Governor,,Ken V. Krawchuk,LIB,2.0,,0.0,Lawrence County,0050 PERRY TWP D1
+Lawrence,0050 PERRY TWP D1,Governor,,Write In,,0.0,,0.0,Lawrence County,0050 PERRY TWP D1
+Lawrence,0050 PERRY TWP D1,U.S. House,16.0,Ron Dinicola,DEM,108.0,,2.0,Lawrence County,0050 PERRY TWP D1
+Lawrence,0050 PERRY TWP D1,U.S. House,16.0,Mike Kelly,REP,173.0,,1.0,Lawrence County,0050 PERRY TWP D1
+Lawrence,0050 PERRY TWP D1,U.S. House,16.0,Ebert G. Bill Beeman,LIB,2.0,,0.0,Lawrence County,0050 PERRY TWP D1
+Lawrence,0050 PERRY TWP D1,U.S. House,16.0,Write In,,2.0,,0.0,Lawrence County,0050 PERRY TWP D1
+Lawrence,0050 PERRY TWP D1,State House,10.0,Aaron Bernstine,DEM/REP,233.0,,3.0,Lawrence County,0050 PERRY TWP D1
+Lawrence,0050 PERRY TWP D1,State House,10.0,Darcelle L Slappy,GRN,50.0,,1.0,Lawrence County,0050 PERRY TWP D1
+Lawrence,0050 PERRY TWP D1,State House,10.0,Write In,,2.0,,0.0,Lawrence County,0050 PERRY TWP D1
+Lawrence,0051 PERRY TWP D2,U.S. Senate,,Bob Casey Jr,DEM,179.0,,3.0,Lawrence County,0051 PERRY TWP D2
+Lawrence,0051 PERRY TWP D2,U.S. Senate,,Lou Barletta,REP,361.0,,8.0,Lawrence County,0051 PERRY TWP D2
+Lawrence,0051 PERRY TWP D2,U.S. Senate,,Neal Gale,GRN,2.0,,0.0,Lawrence County,0051 PERRY TWP D2
+Lawrence,0051 PERRY TWP D2,U.S. Senate,,Dale R Kerns Jr,LIB,3.0,,0.0,Lawrence County,0051 PERRY TWP D2
+Lawrence,0051 PERRY TWP D2,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0051 PERRY TWP D2
+Lawrence,0051 PERRY TWP D2,Governor,,Tom Wolf,DEM,184.0,,3.0,Lawrence County,0051 PERRY TWP D2
+Lawrence,0051 PERRY TWP D2,Governor,,Scott R. Wagner,REP,354.0,,8.0,Lawrence County,0051 PERRY TWP D2
+Lawrence,0051 PERRY TWP D2,Governor,,Paul Glover,GRN,5.0,,0.0,Lawrence County,0051 PERRY TWP D2
+Lawrence,0051 PERRY TWP D2,Governor,,Ken V. Krawchuk,LIB,3.0,,0.0,Lawrence County,0051 PERRY TWP D2
+Lawrence,0051 PERRY TWP D2,Governor,,Write In,,0.0,,0.0,Lawrence County,0051 PERRY TWP D2
+Lawrence,0051 PERRY TWP D2,U.S. House,16.0,Ron Dinicola,DEM,166.0,,3.0,Lawrence County,0051 PERRY TWP D2
+Lawrence,0051 PERRY TWP D2,U.S. House,16.0,Mike Kelly,REP,379.0,,8.0,Lawrence County,0051 PERRY TWP D2
+Lawrence,0051 PERRY TWP D2,U.S. House,16.0,Ebert G. Bill Beeman,LIB,3.0,,0.0,Lawrence County,0051 PERRY TWP D2
+Lawrence,0051 PERRY TWP D2,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0051 PERRY TWP D2
+Lawrence,0051 PERRY TWP D2,State House,10.0,Aaron Bernstine,DEM/REP,488.0,,11.0,Lawrence County,0051 PERRY TWP D2
+Lawrence,0051 PERRY TWP D2,State House,10.0,Darcelle L Slappy,GRN,44.0,,0.0,Lawrence County,0051 PERRY TWP D2
+Lawrence,0051 PERRY TWP D2,State House,10.0,Write In,,1.0,,0.0,Lawrence County,0051 PERRY TWP D2
+Lawrence,0052 PLAIN GROVE TWP,U.S. Senate,,Bob Casey Jr,DEM,74.0,,2.0,Lawrence County,0052 PLAIN GROVE TWP
+Lawrence,0052 PLAIN GROVE TWP,U.S. Senate,,Lou Barletta,REP,228.0,,5.0,Lawrence County,0052 PLAIN GROVE TWP
+Lawrence,0052 PLAIN GROVE TWP,U.S. Senate,,Neal Gale,GRN,0.0,,0.0,Lawrence County,0052 PLAIN GROVE TWP
+Lawrence,0052 PLAIN GROVE TWP,U.S. Senate,,Dale R Kerns Jr,LIB,5.0,,0.0,Lawrence County,0052 PLAIN GROVE TWP
+Lawrence,0052 PLAIN GROVE TWP,U.S. Senate,,Write In,,1.0,,0.0,Lawrence County,0052 PLAIN GROVE TWP
+Lawrence,0052 PLAIN GROVE TWP,Governor,,Tom Wolf,DEM,77.0,,2.0,Lawrence County,0052 PLAIN GROVE TWP
+Lawrence,0052 PLAIN GROVE TWP,Governor,,Scott R. Wagner,REP,226.0,,5.0,Lawrence County,0052 PLAIN GROVE TWP
+Lawrence,0052 PLAIN GROVE TWP,Governor,,Paul Glover,GRN,0.0,,0.0,Lawrence County,0052 PLAIN GROVE TWP
+Lawrence,0052 PLAIN GROVE TWP,Governor,,Ken V. Krawchuk,LIB,7.0,,0.0,Lawrence County,0052 PLAIN GROVE TWP
+Lawrence,0052 PLAIN GROVE TWP,Governor,,Write In,,1.0,,0.0,Lawrence County,0052 PLAIN GROVE TWP
+Lawrence,0052 PLAIN GROVE TWP,U.S. House,16.0,Ron Dinicola,DEM,74.0,,2.0,Lawrence County,0052 PLAIN GROVE TWP
+Lawrence,0052 PLAIN GROVE TWP,U.S. House,16.0,Mike Kelly,REP,229.0,,5.0,Lawrence County,0052 PLAIN GROVE TWP
+Lawrence,0052 PLAIN GROVE TWP,U.S. House,16.0,Ebert G. Bill Beeman,LIB,4.0,,0.0,Lawrence County,0052 PLAIN GROVE TWP
+Lawrence,0052 PLAIN GROVE TWP,U.S. House,16.0,Write In,,1.0,,0.0,Lawrence County,0052 PLAIN GROVE TWP
+Lawrence,0052 PLAIN GROVE TWP,State House,10.0,Aaron Bernstine,DEM/REP,281.0,,7.0,Lawrence County,0052 PLAIN GROVE TWP
+Lawrence,0052 PLAIN GROVE TWP,State House,10.0,Darcelle L Slappy,GRN,20.0,,0.0,Lawrence County,0052 PLAIN GROVE TWP
+Lawrence,0052 PLAIN GROVE TWP,State House,10.0,Write In,,3.0,,0.0,Lawrence County,0052 PLAIN GROVE TWP
+Lawrence,0053 PULASKI TWP D1,U.S. Senate,,Bob Casey Jr,DEM,111.0,,7.0,Lawrence County,0053 PULASKI TWP D1
+Lawrence,0053 PULASKI TWP D1,U.S. Senate,,Lou Barletta,REP,262.0,,9.0,Lawrence County,0053 PULASKI TWP D1
+Lawrence,0053 PULASKI TWP D1,U.S. Senate,,Neal Gale,GRN,2.0,,0.0,Lawrence County,0053 PULASKI TWP D1
+Lawrence,0053 PULASKI TWP D1,U.S. Senate,,Dale R Kerns Jr,LIB,4.0,,0.0,Lawrence County,0053 PULASKI TWP D1
+Lawrence,0053 PULASKI TWP D1,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0053 PULASKI TWP D1
+Lawrence,0053 PULASKI TWP D1,Governor,,Tom Wolf,DEM,119.0,,7.0,Lawrence County,0053 PULASKI TWP D1
+Lawrence,0053 PULASKI TWP D1,Governor,,Scott R. Wagner,REP,253.0,,9.0,Lawrence County,0053 PULASKI TWP D1
+Lawrence,0053 PULASKI TWP D1,Governor,,Paul Glover,GRN,1.0,,0.0,Lawrence County,0053 PULASKI TWP D1
+Lawrence,0053 PULASKI TWP D1,Governor,,Ken V. Krawchuk,LIB,4.0,,0.0,Lawrence County,0053 PULASKI TWP D1
+Lawrence,0053 PULASKI TWP D1,Governor,,Write In,,0.0,,0.0,Lawrence County,0053 PULASKI TWP D1
+Lawrence,0053 PULASKI TWP D1,U.S. House,16.0,Ron Dinicola,DEM,110.0,,5.0,Lawrence County,0053 PULASKI TWP D1
+Lawrence,0053 PULASKI TWP D1,U.S. House,16.0,Mike Kelly,REP,261.0,,11.0,Lawrence County,0053 PULASKI TWP D1
+Lawrence,0053 PULASKI TWP D1,U.S. House,16.0,Ebert G. Bill Beeman,LIB,4.0,,0.0,Lawrence County,0053 PULASKI TWP D1
+Lawrence,0053 PULASKI TWP D1,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0053 PULASKI TWP D1
+Lawrence,0053 PULASKI TWP D1,State House,9.0,Chris Sainato,DEM,173.0,,10.0,Lawrence County,0053 PULASKI TWP D1
+Lawrence,0053 PULASKI TWP D1,State House,9.0,Gregory Michalek,REP,208.0,,6.0,Lawrence County,0053 PULASKI TWP D1
+Lawrence,0053 PULASKI TWP D1,State House,9.0,Write In,,0.0,,0.0,Lawrence County,0053 PULASKI TWP D1
+Lawrence,0054 PULASKI TWP D2,U.S. Senate,,Bob Casey Jr,DEM,177.0,,8.0,Lawrence County,0054 PULASKI TWP D2
+Lawrence,0054 PULASKI TWP D2,U.S. Senate,,Lou Barletta,REP,272.0,,16.0,Lawrence County,0054 PULASKI TWP D2
+Lawrence,0054 PULASKI TWP D2,U.S. Senate,,Neal Gale,GRN,3.0,,0.0,Lawrence County,0054 PULASKI TWP D2
+Lawrence,0054 PULASKI TWP D2,U.S. Senate,,Dale R Kerns Jr,LIB,2.0,,0.0,Lawrence County,0054 PULASKI TWP D2
+Lawrence,0054 PULASKI TWP D2,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0054 PULASKI TWP D2
+Lawrence,0054 PULASKI TWP D2,Governor,,Tom Wolf,DEM,184.0,,7.0,Lawrence County,0054 PULASKI TWP D2
+Lawrence,0054 PULASKI TWP D2,Governor,,Scott R. Wagner,REP,267.0,,17.0,Lawrence County,0054 PULASKI TWP D2
+Lawrence,0054 PULASKI TWP D2,Governor,,Paul Glover,GRN,2.0,,0.0,Lawrence County,0054 PULASKI TWP D2
+Lawrence,0054 PULASKI TWP D2,Governor,,Ken V. Krawchuk,LIB,6.0,,0.0,Lawrence County,0054 PULASKI TWP D2
+Lawrence,0054 PULASKI TWP D2,Governor,,Write In,,0.0,,0.0,Lawrence County,0054 PULASKI TWP D2
+Lawrence,0054 PULASKI TWP D2,U.S. House,16.0,Ron Dinicola,DEM,163.0,,6.0,Lawrence County,0054 PULASKI TWP D2
+Lawrence,0054 PULASKI TWP D2,U.S. House,16.0,Mike Kelly,REP,289.0,,18.0,Lawrence County,0054 PULASKI TWP D2
+Lawrence,0054 PULASKI TWP D2,U.S. House,16.0,Ebert G. Bill Beeman,LIB,4.0,,0.0,Lawrence County,0054 PULASKI TWP D2
+Lawrence,0054 PULASKI TWP D2,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0054 PULASKI TWP D2
+Lawrence,0054 PULASKI TWP D2,State House,9.0,Chris Sainato,DEM,239.0,,12.0,Lawrence County,0054 PULASKI TWP D2
+Lawrence,0054 PULASKI TWP D2,State House,9.0,Gregory Michalek,REP,221.0,,12.0,Lawrence County,0054 PULASKI TWP D2
+Lawrence,0054 PULASKI TWP D2,State House,9.0,Write In,,2.0,,0.0,Lawrence County,0054 PULASKI TWP D2
+Lawrence,0055 PULASKI TWP D3,U.S. Senate,,Bob Casey Jr,DEM,140.0,,6.0,Lawrence County,0055 PULASKI TWP D3
+Lawrence,0055 PULASKI TWP D3,U.S. Senate,,Lou Barletta,REP,188.0,,4.0,Lawrence County,0055 PULASKI TWP D3
+Lawrence,0055 PULASKI TWP D3,U.S. Senate,,Neal Gale,GRN,2.0,,0.0,Lawrence County,0055 PULASKI TWP D3
+Lawrence,0055 PULASKI TWP D3,U.S. Senate,,Dale R Kerns Jr,LIB,3.0,,0.0,Lawrence County,0055 PULASKI TWP D3
+Lawrence,0055 PULASKI TWP D3,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0055 PULASKI TWP D3
+Lawrence,0055 PULASKI TWP D3,Governor,,Tom Wolf,DEM,145.0,,4.0,Lawrence County,0055 PULASKI TWP D3
+Lawrence,0055 PULASKI TWP D3,Governor,,Scott R. Wagner,REP,185.0,,5.0,Lawrence County,0055 PULASKI TWP D3
+Lawrence,0055 PULASKI TWP D3,Governor,,Paul Glover,GRN,4.0,,0.0,Lawrence County,0055 PULASKI TWP D3
+Lawrence,0055 PULASKI TWP D3,Governor,,Ken V. Krawchuk,LIB,1.0,,0.0,Lawrence County,0055 PULASKI TWP D3
+Lawrence,0055 PULASKI TWP D3,Governor,,Write In,,0.0,,0.0,Lawrence County,0055 PULASKI TWP D3
+Lawrence,0055 PULASKI TWP D3,U.S. House,16.0,Ron Dinicola,DEM,134.0,,3.0,Lawrence County,0055 PULASKI TWP D3
+Lawrence,0055 PULASKI TWP D3,U.S. House,16.0,Mike Kelly,REP,197.0,,5.0,Lawrence County,0055 PULASKI TWP D3
+Lawrence,0055 PULASKI TWP D3,U.S. House,16.0,Ebert G. Bill Beeman,LIB,2.0,,0.0,Lawrence County,0055 PULASKI TWP D3
+Lawrence,0055 PULASKI TWP D3,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0055 PULASKI TWP D3
+Lawrence,0055 PULASKI TWP D3,State House,9.0,Chris Sainato,DEM,169.0,,6.0,Lawrence County,0055 PULASKI TWP D3
+Lawrence,0055 PULASKI TWP D3,State House,9.0,Gregory Michalek,REP,166.0,,4.0,Lawrence County,0055 PULASKI TWP D3
+Lawrence,0055 PULASKI TWP D3,State House,9.0,Write In,,0.0,,0.0,Lawrence County,0055 PULASKI TWP D3
+Lawrence,0056 SCOTT TWP D1,U.S. Senate,,Bob Casey Jr,DEM,145.0,,7.0,Lawrence County,0056 SCOTT TWP D1
+Lawrence,0056 SCOTT TWP D1,U.S. Senate,,Lou Barletta,REP,279.0,,8.0,Lawrence County,0056 SCOTT TWP D1
+Lawrence,0056 SCOTT TWP D1,U.S. Senate,,Neal Gale,GRN,3.0,,0.0,Lawrence County,0056 SCOTT TWP D1
+Lawrence,0056 SCOTT TWP D1,U.S. Senate,,Dale R Kerns Jr,LIB,4.0,,0.0,Lawrence County,0056 SCOTT TWP D1
+Lawrence,0056 SCOTT TWP D1,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0056 SCOTT TWP D1
+Lawrence,0056 SCOTT TWP D1,Governor,,Tom Wolf,DEM,171.0,,7.0,Lawrence County,0056 SCOTT TWP D1
+Lawrence,0056 SCOTT TWP D1,Governor,,Scott R. Wagner,REP,256.0,,8.0,Lawrence County,0056 SCOTT TWP D1
+Lawrence,0056 SCOTT TWP D1,Governor,,Paul Glover,GRN,3.0,,0.0,Lawrence County,0056 SCOTT TWP D1
+Lawrence,0056 SCOTT TWP D1,Governor,,Ken V. Krawchuk,LIB,4.0,,0.0,Lawrence County,0056 SCOTT TWP D1
+Lawrence,0056 SCOTT TWP D1,Governor,,Write In,,0.0,,0.0,Lawrence County,0056 SCOTT TWP D1
+Lawrence,0056 SCOTT TWP D1,U.S. House,16.0,Ron Dinicola,DEM,128.0,,6.0,Lawrence County,0056 SCOTT TWP D1
+Lawrence,0056 SCOTT TWP D1,U.S. House,16.0,Mike Kelly,REP,295.0,,9.0,Lawrence County,0056 SCOTT TWP D1
+Lawrence,0056 SCOTT TWP D1,U.S. House,16.0,Ebert G. Bill Beeman,LIB,11.0,,0.0,Lawrence County,0056 SCOTT TWP D1
+Lawrence,0056 SCOTT TWP D1,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0056 SCOTT TWP D1
+Lawrence,0056 SCOTT TWP D1,State House,10.0,Aaron Bernstine,DEM/REP,386.0,,14.0,Lawrence County,0056 SCOTT TWP D1
+Lawrence,0056 SCOTT TWP D1,State House,10.0,Darcelle L Slappy,GRN,40.0,,1.0,Lawrence County,0056 SCOTT TWP D1
+Lawrence,0056 SCOTT TWP D1,State House,10.0,Write In,,3.0,,0.0,Lawrence County,0056 SCOTT TWP D1
+Lawrence,0057 SCOTT TWP D2,U.S. Senate,,Bob Casey Jr,DEM,159.0,,4.0,Lawrence County,0057 SCOTT TWP D2
+Lawrence,0057 SCOTT TWP D2,U.S. Senate,,Lou Barletta,REP,316.0,,6.0,Lawrence County,0057 SCOTT TWP D2
+Lawrence,0057 SCOTT TWP D2,U.S. Senate,,Neal Gale,GRN,3.0,,0.0,Lawrence County,0057 SCOTT TWP D2
+Lawrence,0057 SCOTT TWP D2,U.S. Senate,,Dale R Kerns Jr,LIB,6.0,,1.0,Lawrence County,0057 SCOTT TWP D2
+Lawrence,0057 SCOTT TWP D2,U.S. Senate,,Write In,,1.0,,0.0,Lawrence County,0057 SCOTT TWP D2
+Lawrence,0057 SCOTT TWP D2,Governor,,Tom Wolf,DEM,187.0,,4.0,Lawrence County,0057 SCOTT TWP D2
+Lawrence,0057 SCOTT TWP D2,Governor,,Scott R. Wagner,REP,294.0,,6.0,Lawrence County,0057 SCOTT TWP D2
+Lawrence,0057 SCOTT TWP D2,Governor,,Paul Glover,GRN,2.0,,0.0,Lawrence County,0057 SCOTT TWP D2
+Lawrence,0057 SCOTT TWP D2,Governor,,Ken V. Krawchuk,LIB,4.0,,1.0,Lawrence County,0057 SCOTT TWP D2
+Lawrence,0057 SCOTT TWP D2,Governor,,Write In,,1.0,,0.0,Lawrence County,0057 SCOTT TWP D2
+Lawrence,0057 SCOTT TWP D2,U.S. House,16.0,Ron Dinicola,DEM,164.0,,4.0,Lawrence County,0057 SCOTT TWP D2
+Lawrence,0057 SCOTT TWP D2,U.S. House,16.0,Mike Kelly,REP,316.0,,7.0,Lawrence County,0057 SCOTT TWP D2
+Lawrence,0057 SCOTT TWP D2,U.S. House,16.0,Ebert G. Bill Beeman,LIB,3.0,,0.0,Lawrence County,0057 SCOTT TWP D2
+Lawrence,0057 SCOTT TWP D2,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0057 SCOTT TWP D2
+Lawrence,0057 SCOTT TWP D2,State House,10.0,Aaron Bernstine,DEM/REP,440.0,,10.0,Lawrence County,0057 SCOTT TWP D2
+Lawrence,0057 SCOTT TWP D2,State House,10.0,Darcelle L Slappy,GRN,37.0,,1.0,Lawrence County,0057 SCOTT TWP D2
+Lawrence,0057 SCOTT TWP D2,State House,10.0,Write In,,2.0,,0.0,Lawrence County,0057 SCOTT TWP D2
+Lawrence,0058 SHENANGO TWP D1,U.S. Senate,,Bob Casey Jr,DEM,168.0,,3.0,Lawrence County,0058 SHENANGO TWP D1
+Lawrence,0058 SHENANGO TWP D1,U.S. Senate,,Lou Barletta,REP,356.0,,12.0,Lawrence County,0058 SHENANGO TWP D1
+Lawrence,0058 SHENANGO TWP D1,U.S. Senate,,Neal Gale,GRN,3.0,,0.0,Lawrence County,0058 SHENANGO TWP D1
+Lawrence,0058 SHENANGO TWP D1,U.S. Senate,,Dale R Kerns Jr,LIB,6.0,,0.0,Lawrence County,0058 SHENANGO TWP D1
+Lawrence,0058 SHENANGO TWP D1,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0058 SHENANGO TWP D1
+Lawrence,0058 SHENANGO TWP D1,Governor,,Tom Wolf,DEM,187.0,,6.0,Lawrence County,0058 SHENANGO TWP D1
+Lawrence,0058 SHENANGO TWP D1,Governor,,Scott R. Wagner,REP,344.0,,8.0,Lawrence County,0058 SHENANGO TWP D1
+Lawrence,0058 SHENANGO TWP D1,Governor,,Paul Glover,GRN,1.0,,0.0,Lawrence County,0058 SHENANGO TWP D1
+Lawrence,0058 SHENANGO TWP D1,Governor,,Ken V. Krawchuk,LIB,7.0,,1.0,Lawrence County,0058 SHENANGO TWP D1
+Lawrence,0058 SHENANGO TWP D1,Governor,,Write In,,0.0,,0.0,Lawrence County,0058 SHENANGO TWP D1
+Lawrence,0058 SHENANGO TWP D1,U.S. House,16.0,Ron Dinicola,DEM,147.0,,3.0,Lawrence County,0058 SHENANGO TWP D1
+Lawrence,0058 SHENANGO TWP D1,U.S. House,16.0,Mike Kelly,REP,380.0,,12.0,Lawrence County,0058 SHENANGO TWP D1
+Lawrence,0058 SHENANGO TWP D1,U.S. House,16.0,Ebert G. Bill Beeman,LIB,12.0,,0.0,Lawrence County,0058 SHENANGO TWP D1
+Lawrence,0058 SHENANGO TWP D1,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0058 SHENANGO TWP D1
+Lawrence,0058 SHENANGO TWP D1,State House,9.0,Chris Sainato,DEM,226.0,,8.0,Lawrence County,0058 SHENANGO TWP D1
+Lawrence,0058 SHENANGO TWP D1,State House,9.0,Gregory Michalek,REP,310.0,,7.0,Lawrence County,0058 SHENANGO TWP D1
+Lawrence,0058 SHENANGO TWP D1,State House,9.0,Write In,,0.0,,0.0,Lawrence County,0058 SHENANGO TWP D1
+Lawrence,0059 SHENANGO TWP D2,U.S. Senate,,Bob Casey Jr,DEM,241.0,,9.0,Lawrence County,0059 SHENANGO TWP D2
+Lawrence,0059 SHENANGO TWP D2,U.S. Senate,,Lou Barletta,REP,333.0,,6.0,Lawrence County,0059 SHENANGO TWP D2
+Lawrence,0059 SHENANGO TWP D2,U.S. Senate,,Neal Gale,GRN,1.0,,0.0,Lawrence County,0059 SHENANGO TWP D2
+Lawrence,0059 SHENANGO TWP D2,U.S. Senate,,Dale R Kerns Jr,LIB,2.0,,0.0,Lawrence County,0059 SHENANGO TWP D2
+Lawrence,0059 SHENANGO TWP D2,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0059 SHENANGO TWP D2
+Lawrence,0059 SHENANGO TWP D2,Governor,,Tom Wolf,DEM,271.0,,9.0,Lawrence County,0059 SHENANGO TWP D2
+Lawrence,0059 SHENANGO TWP D2,Governor,,Scott R. Wagner,REP,300.0,,6.0,Lawrence County,0059 SHENANGO TWP D2
+Lawrence,0059 SHENANGO TWP D2,Governor,,Paul Glover,GRN,1.0,,0.0,Lawrence County,0059 SHENANGO TWP D2
+Lawrence,0059 SHENANGO TWP D2,Governor,,Ken V. Krawchuk,LIB,4.0,,0.0,Lawrence County,0059 SHENANGO TWP D2
+Lawrence,0059 SHENANGO TWP D2,Governor,,Write In,,0.0,,0.0,Lawrence County,0059 SHENANGO TWP D2
+Lawrence,0059 SHENANGO TWP D2,U.S. House,16.0,Ron Dinicola,DEM,241.0,,8.0,Lawrence County,0059 SHENANGO TWP D2
+Lawrence,0059 SHENANGO TWP D2,U.S. House,16.0,Mike Kelly,REP,327.0,,7.0,Lawrence County,0059 SHENANGO TWP D2
+Lawrence,0059 SHENANGO TWP D2,U.S. House,16.0,Ebert G. Bill Beeman,LIB,7.0,,0.0,Lawrence County,0059 SHENANGO TWP D2
+Lawrence,0059 SHENANGO TWP D2,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0059 SHENANGO TWP D2
+Lawrence,0059 SHENANGO TWP D2,State House,9.0,Chris Sainato,DEM,301.0,,10.0,Lawrence County,0059 SHENANGO TWP D2
+Lawrence,0059 SHENANGO TWP D2,State House,9.0,Gregory Michalek,REP,275.0,,5.0,Lawrence County,0059 SHENANGO TWP D2
+Lawrence,0059 SHENANGO TWP D2,State House,9.0,Write In,,0.0,,0.0,Lawrence County,0059 SHENANGO TWP D2
+Lawrence,0060 SHENANGO TWP D3,U.S. Senate,,Bob Casey Jr,DEM,137.0,,3.0,Lawrence County,0060 SHENANGO TWP D3
+Lawrence,0060 SHENANGO TWP D3,U.S. Senate,,Lou Barletta,REP,186.0,,7.0,Lawrence County,0060 SHENANGO TWP D3
+Lawrence,0060 SHENANGO TWP D3,U.S. Senate,,Neal Gale,GRN,2.0,,0.0,Lawrence County,0060 SHENANGO TWP D3
+Lawrence,0060 SHENANGO TWP D3,U.S. Senate,,Dale R Kerns Jr,LIB,1.0,,0.0,Lawrence County,0060 SHENANGO TWP D3
+Lawrence,0060 SHENANGO TWP D3,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0060 SHENANGO TWP D3
+Lawrence,0060 SHENANGO TWP D3,Governor,,Tom Wolf,DEM,142.0,,3.0,Lawrence County,0060 SHENANGO TWP D3
+Lawrence,0060 SHENANGO TWP D3,Governor,,Scott R. Wagner,REP,180.0,,7.0,Lawrence County,0060 SHENANGO TWP D3
+Lawrence,0060 SHENANGO TWP D3,Governor,,Paul Glover,GRN,2.0,,0.0,Lawrence County,0060 SHENANGO TWP D3
+Lawrence,0060 SHENANGO TWP D3,Governor,,Ken V. Krawchuk,LIB,3.0,,0.0,Lawrence County,0060 SHENANGO TWP D3
+Lawrence,0060 SHENANGO TWP D3,Governor,,Write In,,0.0,,0.0,Lawrence County,0060 SHENANGO TWP D3
+Lawrence,0060 SHENANGO TWP D3,U.S. House,16.0,Ron Dinicola,DEM,130.0,,3.0,Lawrence County,0060 SHENANGO TWP D3
+Lawrence,0060 SHENANGO TWP D3,U.S. House,16.0,Mike Kelly,REP,193.0,,7.0,Lawrence County,0060 SHENANGO TWP D3
+Lawrence,0060 SHENANGO TWP D3,U.S. House,16.0,Ebert G. Bill Beeman,LIB,2.0,,0.0,Lawrence County,0060 SHENANGO TWP D3
+Lawrence,0060 SHENANGO TWP D3,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0060 SHENANGO TWP D3
+Lawrence,0060 SHENANGO TWP D3,State House,9.0,Chris Sainato,DEM,177.0,,8.0,Lawrence County,0060 SHENANGO TWP D3
+Lawrence,0060 SHENANGO TWP D3,State House,9.0,Gregory Michalek,REP,148.0,,2.0,Lawrence County,0060 SHENANGO TWP D3
+Lawrence,0060 SHENANGO TWP D3,State House,9.0,Write In,,1.0,,0.0,Lawrence County,0060 SHENANGO TWP D3
+Lawrence,0061 SHENANGO TWP D4,U.S. Senate,,Bob Casey Jr,DEM,127.0,,0.0,Lawrence County,0061 SHENANGO TWP D4
+Lawrence,0061 SHENANGO TWP D4,U.S. Senate,,Lou Barletta,REP,240.0,,7.0,Lawrence County,0061 SHENANGO TWP D4
+Lawrence,0061 SHENANGO TWP D4,U.S. Senate,,Neal Gale,GRN,1.0,,0.0,Lawrence County,0061 SHENANGO TWP D4
+Lawrence,0061 SHENANGO TWP D4,U.S. Senate,,Dale R Kerns Jr,LIB,5.0,,1.0,Lawrence County,0061 SHENANGO TWP D4
+Lawrence,0061 SHENANGO TWP D4,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0061 SHENANGO TWP D4
+Lawrence,0061 SHENANGO TWP D4,Governor,,Tom Wolf,DEM,136.0,,2.0,Lawrence County,0061 SHENANGO TWP D4
+Lawrence,0061 SHENANGO TWP D4,Governor,,Scott R. Wagner,REP,229.0,,5.0,Lawrence County,0061 SHENANGO TWP D4
+Lawrence,0061 SHENANGO TWP D4,Governor,,Paul Glover,GRN,3.0,,0.0,Lawrence County,0061 SHENANGO TWP D4
+Lawrence,0061 SHENANGO TWP D4,Governor,,Ken V. Krawchuk,LIB,7.0,,1.0,Lawrence County,0061 SHENANGO TWP D4
+Lawrence,0061 SHENANGO TWP D4,Governor,,Write In,,0.0,,0.0,Lawrence County,0061 SHENANGO TWP D4
+Lawrence,0061 SHENANGO TWP D4,U.S. House,16.0,Ron Dinicola,DEM,118.0,,1.0,Lawrence County,0061 SHENANGO TWP D4
+Lawrence,0061 SHENANGO TWP D4,U.S. House,16.0,Mike Kelly,REP,247.0,,7.0,Lawrence County,0061 SHENANGO TWP D4
+Lawrence,0061 SHENANGO TWP D4,U.S. House,16.0,Ebert G. Bill Beeman,LIB,9.0,,0.0,Lawrence County,0061 SHENANGO TWP D4
+Lawrence,0061 SHENANGO TWP D4,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0061 SHENANGO TWP D4
+Lawrence,0061 SHENANGO TWP D4,State House,9.0,Chris Sainato,DEM,168.0,,2.0,Lawrence County,0061 SHENANGO TWP D4
+Lawrence,0061 SHENANGO TWP D4,State House,9.0,Gregory Michalek,REP,204.0,,6.0,Lawrence County,0061 SHENANGO TWP D4
+Lawrence,0061 SHENANGO TWP D4,State House,9.0,Write In,,2.0,,0.0,Lawrence County,0061 SHENANGO TWP D4
+Lawrence,0062 SHENANGO TWP D5,U.S. Senate,,Bob Casey Jr,DEM,247.0,,14.0,Lawrence County,0062 SHENANGO TWP D5
+Lawrence,0062 SHENANGO TWP D5,U.S. Senate,,Lou Barletta,REP,331.0,,24.0,Lawrence County,0062 SHENANGO TWP D5
+Lawrence,0062 SHENANGO TWP D5,U.S. Senate,,Neal Gale,GRN,2.0,,0.0,Lawrence County,0062 SHENANGO TWP D5
+Lawrence,0062 SHENANGO TWP D5,U.S. Senate,,Dale R Kerns Jr,LIB,4.0,,0.0,Lawrence County,0062 SHENANGO TWP D5
+Lawrence,0062 SHENANGO TWP D5,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0062 SHENANGO TWP D5
+Lawrence,0062 SHENANGO TWP D5,Governor,,Tom Wolf,DEM,241.0,,14.0,Lawrence County,0062 SHENANGO TWP D5
+Lawrence,0062 SHENANGO TWP D5,Governor,,Scott R. Wagner,REP,334.0,,24.0,Lawrence County,0062 SHENANGO TWP D5
+Lawrence,0062 SHENANGO TWP D5,Governor,,Paul Glover,GRN,3.0,,0.0,Lawrence County,0062 SHENANGO TWP D5
+Lawrence,0062 SHENANGO TWP D5,Governor,,Ken V. Krawchuk,LIB,4.0,,0.0,Lawrence County,0062 SHENANGO TWP D5
+Lawrence,0062 SHENANGO TWP D5,Governor,,Write In,,0.0,,0.0,Lawrence County,0062 SHENANGO TWP D5
+Lawrence,0062 SHENANGO TWP D5,U.S. House,16.0,Ron Dinicola,DEM,241.0,,12.0,Lawrence County,0062 SHENANGO TWP D5
+Lawrence,0062 SHENANGO TWP D5,U.S. House,16.0,Mike Kelly,REP,338.0,,25.0,Lawrence County,0062 SHENANGO TWP D5
+Lawrence,0062 SHENANGO TWP D5,U.S. House,16.0,Ebert G. Bill Beeman,LIB,4.0,,0.0,Lawrence County,0062 SHENANGO TWP D5
+Lawrence,0062 SHENANGO TWP D5,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0062 SHENANGO TWP D5
+Lawrence,0062 SHENANGO TWP D5,State House,9.0,Chris Sainato,DEM,283.0,,13.0,Lawrence County,0062 SHENANGO TWP D5
+Lawrence,0062 SHENANGO TWP D5,State House,9.0,Gregory Michalek,REP,295.0,,24.0,Lawrence County,0062 SHENANGO TWP D5
+Lawrence,0062 SHENANGO TWP D5,State House,9.0,Write In,,0.0,,0.0,Lawrence County,0062 SHENANGO TWP D5
+Lawrence,0063 SHENANGO TWP D6,U.S. Senate,,Bob Casey Jr,DEM,208.0,,13.0,Lawrence County,0063 SHENANGO TWP D6
+Lawrence,0063 SHENANGO TWP D6,U.S. Senate,,Lou Barletta,REP,328.0,,12.0,Lawrence County,0063 SHENANGO TWP D6
+Lawrence,0063 SHENANGO TWP D6,U.S. Senate,,Neal Gale,GRN,3.0,,1.0,Lawrence County,0063 SHENANGO TWP D6
+Lawrence,0063 SHENANGO TWP D6,U.S. Senate,,Dale R Kerns Jr,LIB,6.0,,0.0,Lawrence County,0063 SHENANGO TWP D6
+Lawrence,0063 SHENANGO TWP D6,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0063 SHENANGO TWP D6
+Lawrence,0063 SHENANGO TWP D6,Governor,,Tom Wolf,DEM,252.0,,16.0,Lawrence County,0063 SHENANGO TWP D6
+Lawrence,0063 SHENANGO TWP D6,Governor,,Scott R. Wagner,REP,287.0,,10.0,Lawrence County,0063 SHENANGO TWP D6
+Lawrence,0063 SHENANGO TWP D6,Governor,,Paul Glover,GRN,4.0,,0.0,Lawrence County,0063 SHENANGO TWP D6
+Lawrence,0063 SHENANGO TWP D6,Governor,,Ken V. Krawchuk,LIB,4.0,,0.0,Lawrence County,0063 SHENANGO TWP D6
+Lawrence,0063 SHENANGO TWP D6,Governor,,Write In,,1.0,,0.0,Lawrence County,0063 SHENANGO TWP D6
+Lawrence,0063 SHENANGO TWP D6,U.S. House,16.0,Ron Dinicola,DEM,213.0,,14.0,Lawrence County,0063 SHENANGO TWP D6
+Lawrence,0063 SHENANGO TWP D6,U.S. House,16.0,Mike Kelly,REP,331.0,,12.0,Lawrence County,0063 SHENANGO TWP D6
+Lawrence,0063 SHENANGO TWP D6,U.S. House,16.0,Ebert G. Bill Beeman,LIB,6.0,,0.0,Lawrence County,0063 SHENANGO TWP D6
+Lawrence,0063 SHENANGO TWP D6,U.S. House,16.0,Write In,,1.0,,0.0,Lawrence County,0063 SHENANGO TWP D6
+Lawrence,0063 SHENANGO TWP D6,State House,9.0,Chris Sainato,DEM,266.0,,16.0,Lawrence County,0063 SHENANGO TWP D6
+Lawrence,0063 SHENANGO TWP D6,State House,9.0,Gregory Michalek,REP,280.0,,9.0,Lawrence County,0063 SHENANGO TWP D6
+Lawrence,0063 SHENANGO TWP D6,State House,9.0,Write In,,4.0,,0.0,Lawrence County,0063 SHENANGO TWP D6
+Lawrence,0064 SLIPPERY ROCK TWP D1,U.S. Senate,,Bob Casey Jr,DEM,193.0,,8.0,Lawrence County,0064 SLIPPERY ROCK TWP D1
+Lawrence,0064 SLIPPERY ROCK TWP D1,U.S. Senate,,Lou Barletta,REP,444.0,,22.0,Lawrence County,0064 SLIPPERY ROCK TWP D1
+Lawrence,0064 SLIPPERY ROCK TWP D1,U.S. Senate,,Neal Gale,GRN,1.0,,0.0,Lawrence County,0064 SLIPPERY ROCK TWP D1
+Lawrence,0064 SLIPPERY ROCK TWP D1,U.S. Senate,,Dale R Kerns Jr,LIB,10.0,,0.0,Lawrence County,0064 SLIPPERY ROCK TWP D1
+Lawrence,0064 SLIPPERY ROCK TWP D1,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0064 SLIPPERY ROCK TWP D1
+Lawrence,0064 SLIPPERY ROCK TWP D1,Governor,,Tom Wolf,DEM,203.0,,12.0,Lawrence County,0064 SLIPPERY ROCK TWP D1
+Lawrence,0064 SLIPPERY ROCK TWP D1,Governor,,Scott R. Wagner,REP,436.0,,16.0,Lawrence County,0064 SLIPPERY ROCK TWP D1
+Lawrence,0064 SLIPPERY ROCK TWP D1,Governor,,Paul Glover,GRN,3.0,,0.0,Lawrence County,0064 SLIPPERY ROCK TWP D1
+Lawrence,0064 SLIPPERY ROCK TWP D1,Governor,,Ken V. Krawchuk,LIB,7.0,,1.0,Lawrence County,0064 SLIPPERY ROCK TWP D1
+Lawrence,0064 SLIPPERY ROCK TWP D1,Governor,,Write In,,0.0,,0.0,Lawrence County,0064 SLIPPERY ROCK TWP D1
+Lawrence,0064 SLIPPERY ROCK TWP D1,U.S. House,16.0,Ron Dinicola,DEM,179.0,,9.0,Lawrence County,0064 SLIPPERY ROCK TWP D1
+Lawrence,0064 SLIPPERY ROCK TWP D1,U.S. House,16.0,Mike Kelly,REP,461.0,,21.0,Lawrence County,0064 SLIPPERY ROCK TWP D1
+Lawrence,0064 SLIPPERY ROCK TWP D1,U.S. House,16.0,Ebert G. Bill Beeman,LIB,6.0,,0.0,Lawrence County,0064 SLIPPERY ROCK TWP D1
+Lawrence,0064 SLIPPERY ROCK TWP D1,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0064 SLIPPERY ROCK TWP D1
+Lawrence,0064 SLIPPERY ROCK TWP D1,State House,10.0,Aaron Bernstine,DEM/REP,588.0,,27.0,Lawrence County,0064 SLIPPERY ROCK TWP D1
+Lawrence,0064 SLIPPERY ROCK TWP D1,State House,10.0,Darcelle L Slappy,GRN,46.0,,2.0,Lawrence County,0064 SLIPPERY ROCK TWP D1
+Lawrence,0064 SLIPPERY ROCK TWP D1,State House,10.0,Write In,,1.0,,0.0,Lawrence County,0064 SLIPPERY ROCK TWP D1
+Lawrence,0065 SLIPPERY ROCK TWP D2,U.S. Senate,,Bob Casey Jr,DEM,169.0,,8.0,Lawrence County,0065 SLIPPERY ROCK TWP D2
+Lawrence,0065 SLIPPERY ROCK TWP D2,U.S. Senate,,Lou Barletta,REP,481.0,,17.0,Lawrence County,0065 SLIPPERY ROCK TWP D2
+Lawrence,0065 SLIPPERY ROCK TWP D2,U.S. Senate,,Neal Gale,GRN,1.0,,0.0,Lawrence County,0065 SLIPPERY ROCK TWP D2
+Lawrence,0065 SLIPPERY ROCK TWP D2,U.S. Senate,,Dale R Kerns Jr,LIB,10.0,,2.0,Lawrence County,0065 SLIPPERY ROCK TWP D2
+Lawrence,0065 SLIPPERY ROCK TWP D2,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0065 SLIPPERY ROCK TWP D2
+Lawrence,0065 SLIPPERY ROCK TWP D2,Governor,,Tom Wolf,DEM,190.0,,8.0,Lawrence County,0065 SLIPPERY ROCK TWP D2
+Lawrence,0065 SLIPPERY ROCK TWP D2,Governor,,Scott R. Wagner,REP,469.0,,18.0,Lawrence County,0065 SLIPPERY ROCK TWP D2
+Lawrence,0065 SLIPPERY ROCK TWP D2,Governor,,Paul Glover,GRN,1.0,,0.0,Lawrence County,0065 SLIPPERY ROCK TWP D2
+Lawrence,0065 SLIPPERY ROCK TWP D2,Governor,,Ken V. Krawchuk,LIB,3.0,,1.0,Lawrence County,0065 SLIPPERY ROCK TWP D2
+Lawrence,0065 SLIPPERY ROCK TWP D2,Governor,,Write In,,1.0,,0.0,Lawrence County,0065 SLIPPERY ROCK TWP D2
+Lawrence,0065 SLIPPERY ROCK TWP D2,U.S. House,16.0,Ron Dinicola,DEM,157.0,,7.0,Lawrence County,0065 SLIPPERY ROCK TWP D2
+Lawrence,0065 SLIPPERY ROCK TWP D2,U.S. House,16.0,Mike Kelly,REP,494.0,,19.0,Lawrence County,0065 SLIPPERY ROCK TWP D2
+Lawrence,0065 SLIPPERY ROCK TWP D2,U.S. House,16.0,Ebert G. Bill Beeman,LIB,12.0,,1.0,Lawrence County,0065 SLIPPERY ROCK TWP D2
+Lawrence,0065 SLIPPERY ROCK TWP D2,U.S. House,16.0,Write In,,1.0,,0.0,Lawrence County,0065 SLIPPERY ROCK TWP D2
+Lawrence,0065 SLIPPERY ROCK TWP D2,State House,10.0,Aaron Bernstine,DEM/REP,605.0,,24.0,Lawrence County,0065 SLIPPERY ROCK TWP D2
+Lawrence,0065 SLIPPERY ROCK TWP D2,State House,10.0,Darcelle L Slappy,GRN,54.0,,3.0,Lawrence County,0065 SLIPPERY ROCK TWP D2
+Lawrence,0065 SLIPPERY ROCK TWP D2,State House,10.0,Write In,,0.0,,0.0,Lawrence County,0065 SLIPPERY ROCK TWP D2
+Lawrence,0066 TAYLOR TWP,U.S. Senate,,Bob Casey Jr,DEM,176.0,,25.0,Lawrence County,0066 TAYLOR TWP
+Lawrence,0066 TAYLOR TWP,U.S. Senate,,Lou Barletta,REP,164.0,,19.0,Lawrence County,0066 TAYLOR TWP
+Lawrence,0066 TAYLOR TWP,U.S. Senate,,Neal Gale,GRN,4.0,,0.0,Lawrence County,0066 TAYLOR TWP
+Lawrence,0066 TAYLOR TWP,U.S. Senate,,Dale R Kerns Jr,LIB,3.0,,0.0,Lawrence County,0066 TAYLOR TWP
+Lawrence,0066 TAYLOR TWP,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0066 TAYLOR TWP
+Lawrence,0066 TAYLOR TWP,Governor,,Tom Wolf,DEM,172.0,,22.0,Lawrence County,0066 TAYLOR TWP
+Lawrence,0066 TAYLOR TWP,Governor,,Scott R. Wagner,REP,166.0,,21.0,Lawrence County,0066 TAYLOR TWP
+Lawrence,0066 TAYLOR TWP,Governor,,Paul Glover,GRN,4.0,,0.0,Lawrence County,0066 TAYLOR TWP
+Lawrence,0066 TAYLOR TWP,Governor,,Ken V. Krawchuk,LIB,4.0,,0.0,Lawrence County,0066 TAYLOR TWP
+Lawrence,0066 TAYLOR TWP,Governor,,Write In,,0.0,,0.0,Lawrence County,0066 TAYLOR TWP
+Lawrence,0066 TAYLOR TWP,U.S. House,16.0,Ron Dinicola,DEM,164.0,,23.0,Lawrence County,0066 TAYLOR TWP
+Lawrence,0066 TAYLOR TWP,U.S. House,16.0,Mike Kelly,REP,174.0,,21.0,Lawrence County,0066 TAYLOR TWP
+Lawrence,0066 TAYLOR TWP,U.S. House,16.0,Ebert G. Bill Beeman,LIB,4.0,,0.0,Lawrence County,0066 TAYLOR TWP
+Lawrence,0066 TAYLOR TWP,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0066 TAYLOR TWP
+Lawrence,0066 TAYLOR TWP,State House,10.0,Aaron Bernstine,DEM/REP,314.0,,40.0,Lawrence County,0066 TAYLOR TWP
+Lawrence,0066 TAYLOR TWP,State House,10.0,Darcelle L Slappy,GRN,31.0,,3.0,Lawrence County,0066 TAYLOR TWP
+Lawrence,0066 TAYLOR TWP,State House,10.0,Write In,,0.0,,0.0,Lawrence County,0066 TAYLOR TWP
+Lawrence,0067 UNION TWP D1,U.S. Senate,,Bob Casey Jr,DEM,247.0,,8.0,Lawrence County,0067 UNION TWP D1
+Lawrence,0067 UNION TWP D1,U.S. Senate,,Lou Barletta,REP,204.0,,7.0,Lawrence County,0067 UNION TWP D1
+Lawrence,0067 UNION TWP D1,U.S. Senate,,Neal Gale,GRN,3.0,,0.0,Lawrence County,0067 UNION TWP D1
+Lawrence,0067 UNION TWP D1,U.S. Senate,,Dale R Kerns Jr,LIB,4.0,,0.0,Lawrence County,0067 UNION TWP D1
+Lawrence,0067 UNION TWP D1,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0067 UNION TWP D1
+Lawrence,0067 UNION TWP D1,Governor,,Tom Wolf,DEM,255.0,,8.0,Lawrence County,0067 UNION TWP D1
+Lawrence,0067 UNION TWP D1,Governor,,Scott R. Wagner,REP,191.0,,6.0,Lawrence County,0067 UNION TWP D1
+Lawrence,0067 UNION TWP D1,Governor,,Paul Glover,GRN,4.0,,0.0,Lawrence County,0067 UNION TWP D1
+Lawrence,0067 UNION TWP D1,Governor,,Ken V. Krawchuk,LIB,6.0,,1.0,Lawrence County,0067 UNION TWP D1
+Lawrence,0067 UNION TWP D1,Governor,,Write In,,0.0,,0.0,Lawrence County,0067 UNION TWP D1
+Lawrence,0067 UNION TWP D1,U.S. House,16.0,Ron Dinicola,DEM,238.0,,7.0,Lawrence County,0067 UNION TWP D1
+Lawrence,0067 UNION TWP D1,U.S. House,16.0,Mike Kelly,REP,210.0,,8.0,Lawrence County,0067 UNION TWP D1
+Lawrence,0067 UNION TWP D1,U.S. House,16.0,Ebert G. Bill Beeman,LIB,6.0,,0.0,Lawrence County,0067 UNION TWP D1
+Lawrence,0067 UNION TWP D1,U.S. House,16.0,Write In,,1.0,,0.0,Lawrence County,0067 UNION TWP D1
+Lawrence,0067 UNION TWP D1,State House,9.0,Chris Sainato,DEM,287.0,,11.0,Lawrence County,0067 UNION TWP D1
+Lawrence,0067 UNION TWP D1,State House,9.0,Gregory Michalek,REP,167.0,,4.0,Lawrence County,0067 UNION TWP D1
+Lawrence,0067 UNION TWP D1,State House,9.0,Write In,,3.0,,0.0,Lawrence County,0067 UNION TWP D1
+Lawrence,0068 UNION TWP D2,U.S. Senate,,Bob Casey Jr,DEM,257.0,,8.0,Lawrence County,0068 UNION TWP D2
+Lawrence,0068 UNION TWP D2,U.S. Senate,,Lou Barletta,REP,164.0,,1.0,Lawrence County,0068 UNION TWP D2
+Lawrence,0068 UNION TWP D2,U.S. Senate,,Neal Gale,GRN,1.0,,0.0,Lawrence County,0068 UNION TWP D2
+Lawrence,0068 UNION TWP D2,U.S. Senate,,Dale R Kerns Jr,LIB,3.0,,0.0,Lawrence County,0068 UNION TWP D2
+Lawrence,0068 UNION TWP D2,U.S. Senate,,Write In,,1.0,,0.0,Lawrence County,0068 UNION TWP D2
+Lawrence,0068 UNION TWP D2,Governor,,Tom Wolf,DEM,263.0,,8.0,Lawrence County,0068 UNION TWP D2
+Lawrence,0068 UNION TWP D2,Governor,,Scott R. Wagner,REP,159.0,,1.0,Lawrence County,0068 UNION TWP D2
+Lawrence,0068 UNION TWP D2,Governor,,Paul Glover,GRN,3.0,,0.0,Lawrence County,0068 UNION TWP D2
+Lawrence,0068 UNION TWP D2,Governor,,Ken V. Krawchuk,LIB,4.0,,0.0,Lawrence County,0068 UNION TWP D2
+Lawrence,0068 UNION TWP D2,Governor,,Write In,,1.0,,0.0,Lawrence County,0068 UNION TWP D2
+Lawrence,0068 UNION TWP D2,U.S. House,16.0,Ron Dinicola,DEM,242.0,,8.0,Lawrence County,0068 UNION TWP D2
+Lawrence,0068 UNION TWP D2,U.S. House,16.0,Mike Kelly,REP,181.0,,1.0,Lawrence County,0068 UNION TWP D2
+Lawrence,0068 UNION TWP D2,U.S. House,16.0,Ebert G. Bill Beeman,LIB,5.0,,0.0,Lawrence County,0068 UNION TWP D2
+Lawrence,0068 UNION TWP D2,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0068 UNION TWP D2
+Lawrence,0068 UNION TWP D2,State House,9.0,Chris Sainato,DEM,315.0,,8.0,Lawrence County,0068 UNION TWP D2
+Lawrence,0068 UNION TWP D2,State House,9.0,Gregory Michalek,REP,116.0,,1.0,Lawrence County,0068 UNION TWP D2
+Lawrence,0068 UNION TWP D2,State House,9.0,Write In,,0.0,,0.0,Lawrence County,0068 UNION TWP D2
+Lawrence,0069 UNION TWP D3,U.S. Senate,,Bob Casey Jr,DEM,260.0,,16.0,Lawrence County,0069 UNION TWP D3
+Lawrence,0069 UNION TWP D3,U.S. Senate,,Lou Barletta,REP,233.0,,8.0,Lawrence County,0069 UNION TWP D3
+Lawrence,0069 UNION TWP D3,U.S. Senate,,Neal Gale,GRN,3.0,,0.0,Lawrence County,0069 UNION TWP D3
+Lawrence,0069 UNION TWP D3,U.S. Senate,,Dale R Kerns Jr,LIB,5.0,,0.0,Lawrence County,0069 UNION TWP D3
+Lawrence,0069 UNION TWP D3,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0069 UNION TWP D3
+Lawrence,0069 UNION TWP D3,Governor,,Tom Wolf,DEM,266.0,,15.0,Lawrence County,0069 UNION TWP D3
+Lawrence,0069 UNION TWP D3,Governor,,Scott R. Wagner,REP,231.0,,9.0,Lawrence County,0069 UNION TWP D3
+Lawrence,0069 UNION TWP D3,Governor,,Paul Glover,GRN,2.0,,0.0,Lawrence County,0069 UNION TWP D3
+Lawrence,0069 UNION TWP D3,Governor,,Ken V. Krawchuk,LIB,4.0,,0.0,Lawrence County,0069 UNION TWP D3
+Lawrence,0069 UNION TWP D3,Governor,,Write In,,1.0,,0.0,Lawrence County,0069 UNION TWP D3
+Lawrence,0069 UNION TWP D3,U.S. House,16.0,Ron Dinicola,DEM,248.0,,13.0,Lawrence County,0069 UNION TWP D3
+Lawrence,0069 UNION TWP D3,U.S. House,16.0,Mike Kelly,REP,249.0,,11.0,Lawrence County,0069 UNION TWP D3
+Lawrence,0069 UNION TWP D3,U.S. House,16.0,Ebert G. Bill Beeman,LIB,7.0,,0.0,Lawrence County,0069 UNION TWP D3
+Lawrence,0069 UNION TWP D3,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0069 UNION TWP D3
+Lawrence,0069 UNION TWP D3,State House,9.0,Chris Sainato,DEM,287.0,,13.0,Lawrence County,0069 UNION TWP D3
+Lawrence,0069 UNION TWP D3,State House,9.0,Gregory Michalek,REP,209.0,,9.0,Lawrence County,0069 UNION TWP D3
+Lawrence,0069 UNION TWP D3,State House,9.0,Write In,,2.0,,0.0,Lawrence County,0069 UNION TWP D3
+Lawrence,0070 UNION TWP D4,U.S. Senate,,Bob Casey Jr,DEM,260.0,,15.0,Lawrence County,0070 UNION TWP D4
+Lawrence,0070 UNION TWP D4,U.S. Senate,,Lou Barletta,REP,263.0,,12.0,Lawrence County,0070 UNION TWP D4
+Lawrence,0070 UNION TWP D4,U.S. Senate,,Neal Gale,GRN,6.0,,0.0,Lawrence County,0070 UNION TWP D4
+Lawrence,0070 UNION TWP D4,U.S. Senate,,Dale R Kerns Jr,LIB,2.0,,1.0,Lawrence County,0070 UNION TWP D4
+Lawrence,0070 UNION TWP D4,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0070 UNION TWP D4
+Lawrence,0070 UNION TWP D4,Governor,,Tom Wolf,DEM,277.0,,16.0,Lawrence County,0070 UNION TWP D4
+Lawrence,0070 UNION TWP D4,Governor,,Scott R. Wagner,REP,246.0,,12.0,Lawrence County,0070 UNION TWP D4
+Lawrence,0070 UNION TWP D4,Governor,,Paul Glover,GRN,5.0,,0.0,Lawrence County,0070 UNION TWP D4
+Lawrence,0070 UNION TWP D4,Governor,,Ken V. Krawchuk,LIB,3.0,,0.0,Lawrence County,0070 UNION TWP D4
+Lawrence,0070 UNION TWP D4,Governor,,Write In,,0.0,,0.0,Lawrence County,0070 UNION TWP D4
+Lawrence,0070 UNION TWP D4,U.S. House,16.0,Ron Dinicola,DEM,251.0,,13.0,Lawrence County,0070 UNION TWP D4
+Lawrence,0070 UNION TWP D4,U.S. House,16.0,Mike Kelly,REP,272.0,,15.0,Lawrence County,0070 UNION TWP D4
+Lawrence,0070 UNION TWP D4,U.S. House,16.0,Ebert G. Bill Beeman,LIB,7.0,,0.0,Lawrence County,0070 UNION TWP D4
+Lawrence,0070 UNION TWP D4,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0070 UNION TWP D4
+Lawrence,0070 UNION TWP D4,State House,9.0,Chris Sainato,DEM,304.0,,22.0,Lawrence County,0070 UNION TWP D4
+Lawrence,0070 UNION TWP D4,State House,9.0,Gregory Michalek,REP,225.0,,6.0,Lawrence County,0070 UNION TWP D4
+Lawrence,0070 UNION TWP D4,State House,9.0,Write In,,2.0,,0.0,Lawrence County,0070 UNION TWP D4
+Lawrence,0071 WASHINGTON TWP,U.S. Senate,,Bob Casey Jr,DEM,90.0,,1.0,Lawrence County,0071 WASHINGTON TWP
+Lawrence,0071 WASHINGTON TWP,U.S. Senate,,Lou Barletta,REP,242.0,,9.0,Lawrence County,0071 WASHINGTON TWP
+Lawrence,0071 WASHINGTON TWP,U.S. Senate,,Neal Gale,GRN,1.0,,0.0,Lawrence County,0071 WASHINGTON TWP
+Lawrence,0071 WASHINGTON TWP,U.S. Senate,,Dale R Kerns Jr,LIB,1.0,,0.0,Lawrence County,0071 WASHINGTON TWP
+Lawrence,0071 WASHINGTON TWP,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0071 WASHINGTON TWP
+Lawrence,0071 WASHINGTON TWP,Governor,,Tom Wolf,DEM,91.0,,1.0,Lawrence County,0071 WASHINGTON TWP
+Lawrence,0071 WASHINGTON TWP,Governor,,Scott R. Wagner,REP,239.0,,9.0,Lawrence County,0071 WASHINGTON TWP
+Lawrence,0071 WASHINGTON TWP,Governor,,Paul Glover,GRN,0.0,,0.0,Lawrence County,0071 WASHINGTON TWP
+Lawrence,0071 WASHINGTON TWP,Governor,,Ken V. Krawchuk,LIB,3.0,,0.0,Lawrence County,0071 WASHINGTON TWP
+Lawrence,0071 WASHINGTON TWP,Governor,,Write In,,0.0,,0.0,Lawrence County,0071 WASHINGTON TWP
+Lawrence,0071 WASHINGTON TWP,U.S. House,16.0,Ron Dinicola,DEM,92.0,,3.0,Lawrence County,0071 WASHINGTON TWP
+Lawrence,0071 WASHINGTON TWP,U.S. House,16.0,Mike Kelly,REP,240.0,,7.0,Lawrence County,0071 WASHINGTON TWP
+Lawrence,0071 WASHINGTON TWP,U.S. House,16.0,Ebert G. Bill Beeman,LIB,1.0,,0.0,Lawrence County,0071 WASHINGTON TWP
+Lawrence,0071 WASHINGTON TWP,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0071 WASHINGTON TWP
+Lawrence,0071 WASHINGTON TWP,State House,10.0,Aaron Bernstine,DEM/REP,306.0,,7.0,Lawrence County,0071 WASHINGTON TWP
+Lawrence,0071 WASHINGTON TWP,State House,10.0,Darcelle L Slappy,GRN,20.0,,0.0,Lawrence County,0071 WASHINGTON TWP
+Lawrence,0071 WASHINGTON TWP,State House,10.0,Write In,,0.0,,0.0,Lawrence County,0071 WASHINGTON TWP
+Lawrence,0072 WAYNE TWP D1,U.S. Senate,,Bob Casey Jr,DEM,177.0,,1.0,Lawrence County,0072 WAYNE TWP D1
+Lawrence,0072 WAYNE TWP D1,U.S. Senate,,Lou Barletta,REP,175.0,,3.0,Lawrence County,0072 WAYNE TWP D1
+Lawrence,0072 WAYNE TWP D1,U.S. Senate,,Neal Gale,GRN,0.0,,0.0,Lawrence County,0072 WAYNE TWP D1
+Lawrence,0072 WAYNE TWP D1,U.S. Senate,,Dale R Kerns Jr,LIB,5.0,,0.0,Lawrence County,0072 WAYNE TWP D1
+Lawrence,0072 WAYNE TWP D1,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0072 WAYNE TWP D1
+Lawrence,0072 WAYNE TWP D1,Governor,,Tom Wolf,DEM,187.0,,2.0,Lawrence County,0072 WAYNE TWP D1
+Lawrence,0072 WAYNE TWP D1,Governor,,Scott R. Wagner,REP,169.0,,2.0,Lawrence County,0072 WAYNE TWP D1
+Lawrence,0072 WAYNE TWP D1,Governor,,Paul Glover,GRN,2.0,,0.0,Lawrence County,0072 WAYNE TWP D1
+Lawrence,0072 WAYNE TWP D1,Governor,,Ken V. Krawchuk,LIB,2.0,,0.0,Lawrence County,0072 WAYNE TWP D1
+Lawrence,0072 WAYNE TWP D1,Governor,,Write In,,0.0,,0.0,Lawrence County,0072 WAYNE TWP D1
+Lawrence,0072 WAYNE TWP D1,U.S. House,16.0,Ron Dinicola,DEM,165.0,,0.0,Lawrence County,0072 WAYNE TWP D1
+Lawrence,0072 WAYNE TWP D1,U.S. House,16.0,Mike Kelly,REP,188.0,,4.0,Lawrence County,0072 WAYNE TWP D1
+Lawrence,0072 WAYNE TWP D1,U.S. House,16.0,Ebert G. Bill Beeman,LIB,3.0,,0.0,Lawrence County,0072 WAYNE TWP D1
+Lawrence,0072 WAYNE TWP D1,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0072 WAYNE TWP D1
+Lawrence,0072 WAYNE TWP D1,State House,10.0,Aaron Bernstine,DEM/REP,291.0,,4.0,Lawrence County,0072 WAYNE TWP D1
+Lawrence,0072 WAYNE TWP D1,State House,10.0,Darcelle L Slappy,GRN,68.0,,0.0,Lawrence County,0072 WAYNE TWP D1
+Lawrence,0072 WAYNE TWP D1,State House,10.0,Write In,,0.0,,0.0,Lawrence County,0072 WAYNE TWP D1
+Lawrence,0073 WAYNE TWP D2,U.S. Senate,,Bob Casey Jr,DEM,263.0,,9.0,Lawrence County,0073 WAYNE TWP D2
+Lawrence,0073 WAYNE TWP D2,U.S. Senate,,Lou Barletta,REP,416.0,,11.0,Lawrence County,0073 WAYNE TWP D2
+Lawrence,0073 WAYNE TWP D2,U.S. Senate,,Neal Gale,GRN,3.0,,0.0,Lawrence County,0073 WAYNE TWP D2
+Lawrence,0073 WAYNE TWP D2,U.S. Senate,,Dale R Kerns Jr,LIB,4.0,,0.0,Lawrence County,0073 WAYNE TWP D2
+Lawrence,0073 WAYNE TWP D2,U.S. Senate,,Write In,,1.0,,0.0,Lawrence County,0073 WAYNE TWP D2
+Lawrence,0073 WAYNE TWP D2,Governor,,Tom Wolf,DEM,258.0,,10.0,Lawrence County,0073 WAYNE TWP D2
+Lawrence,0073 WAYNE TWP D2,Governor,,Scott R. Wagner,REP,426.0,,10.0,Lawrence County,0073 WAYNE TWP D2
+Lawrence,0073 WAYNE TWP D2,Governor,,Paul Glover,GRN,6.0,,0.0,Lawrence County,0073 WAYNE TWP D2
+Lawrence,0073 WAYNE TWP D2,Governor,,Ken V. Krawchuk,LIB,2.0,,0.0,Lawrence County,0073 WAYNE TWP D2
+Lawrence,0073 WAYNE TWP D2,Governor,,Write In,,0.0,,0.0,Lawrence County,0073 WAYNE TWP D2
+Lawrence,0073 WAYNE TWP D2,U.S. House,16.0,Ron Dinicola,DEM,225.0,,9.0,Lawrence County,0073 WAYNE TWP D2
+Lawrence,0073 WAYNE TWP D2,U.S. House,16.0,Mike Kelly,REP,446.0,,11.0,Lawrence County,0073 WAYNE TWP D2
+Lawrence,0073 WAYNE TWP D2,U.S. House,16.0,Ebert G. Bill Beeman,LIB,13.0,,0.0,Lawrence County,0073 WAYNE TWP D2
+Lawrence,0073 WAYNE TWP D2,U.S. House,16.0,Write In,,1.0,,0.0,Lawrence County,0073 WAYNE TWP D2
+Lawrence,0073 WAYNE TWP D2,State House,10.0,Aaron Bernstine,DEM/REP,554.0,,18.0,Lawrence County,0073 WAYNE TWP D2
+Lawrence,0073 WAYNE TWP D2,State House,10.0,Darcelle L Slappy,GRN,135.0,,2.0,Lawrence County,0073 WAYNE TWP D2
+Lawrence,0073 WAYNE TWP D2,State House,10.0,Write In,,1.0,,0.0,Lawrence County,0073 WAYNE TWP D2
+Lawrence,0074 WILMINGTON TWP D1,U.S. Senate,,Bob Casey Jr,DEM,150.0,,7.0,Lawrence County,0074 WILMINGTON TWP D1
+Lawrence,0074 WILMINGTON TWP D1,U.S. Senate,,Lou Barletta,REP,398.0,,13.0,Lawrence County,0074 WILMINGTON TWP D1
+Lawrence,0074 WILMINGTON TWP D1,U.S. Senate,,Neal Gale,GRN,4.0,,0.0,Lawrence County,0074 WILMINGTON TWP D1
+Lawrence,0074 WILMINGTON TWP D1,U.S. Senate,,Dale R Kerns Jr,LIB,7.0,,0.0,Lawrence County,0074 WILMINGTON TWP D1
+Lawrence,0074 WILMINGTON TWP D1,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0074 WILMINGTON TWP D1
+Lawrence,0074 WILMINGTON TWP D1,Governor,,Tom Wolf,DEM,161.0,,10.0,Lawrence County,0074 WILMINGTON TWP D1
+Lawrence,0074 WILMINGTON TWP D1,Governor,,Scott R. Wagner,REP,388.0,,10.0,Lawrence County,0074 WILMINGTON TWP D1
+Lawrence,0074 WILMINGTON TWP D1,Governor,,Paul Glover,GRN,2.0,,0.0,Lawrence County,0074 WILMINGTON TWP D1
+Lawrence,0074 WILMINGTON TWP D1,Governor,,Ken V. Krawchuk,LIB,9.0,,0.0,Lawrence County,0074 WILMINGTON TWP D1
+Lawrence,0074 WILMINGTON TWP D1,Governor,,Write In,,0.0,,0.0,Lawrence County,0074 WILMINGTON TWP D1
+Lawrence,0074 WILMINGTON TWP D1,U.S. House,16.0,Ron Dinicola,DEM,136.0,,4.0,Lawrence County,0074 WILMINGTON TWP D1
+Lawrence,0074 WILMINGTON TWP D1,U.S. House,16.0,Mike Kelly,REP,421.0,,17.0,Lawrence County,0074 WILMINGTON TWP D1
+Lawrence,0074 WILMINGTON TWP D1,U.S. House,16.0,Ebert G. Bill Beeman,LIB,9.0,,0.0,Lawrence County,0074 WILMINGTON TWP D1
+Lawrence,0074 WILMINGTON TWP D1,U.S. House,16.0,Write In,,1.0,,0.0,Lawrence County,0074 WILMINGTON TWP D1
+Lawrence,0074 WILMINGTON TWP D1,State House,17.0,Parke Wentling,REP,473.0,,16.0,Lawrence County,0074 WILMINGTON TWP D1
+Lawrence,0074 WILMINGTON TWP D1,State House,17.0,Write In,REP,16.0,,0.0,Lawrence County,0074 WILMINGTON TWP D1
+Lawrence,0075 WILMINGTON TWP D2,U.S. Senate,,Bob Casey Jr,DEM,167.0,,5.0,Lawrence County,0075 WILMINGTON TWP D2
+Lawrence,0075 WILMINGTON TWP D2,U.S. Senate,,Lou Barletta,REP,386.0,,12.0,Lawrence County,0075 WILMINGTON TWP D2
+Lawrence,0075 WILMINGTON TWP D2,U.S. Senate,,Neal Gale,GRN,1.0,,0.0,Lawrence County,0075 WILMINGTON TWP D2
+Lawrence,0075 WILMINGTON TWP D2,U.S. Senate,,Dale R Kerns Jr,LIB,3.0,,0.0,Lawrence County,0075 WILMINGTON TWP D2
+Lawrence,0075 WILMINGTON TWP D2,U.S. Senate,,Write In,,0.0,,0.0,Lawrence County,0075 WILMINGTON TWP D2
+Lawrence,0075 WILMINGTON TWP D2,Governor,,Tom Wolf,DEM,166.0,,5.0,Lawrence County,0075 WILMINGTON TWP D2
+Lawrence,0075 WILMINGTON TWP D2,Governor,,Scott R. Wagner,REP,382.0,,12.0,Lawrence County,0075 WILMINGTON TWP D2
+Lawrence,0075 WILMINGTON TWP D2,Governor,,Paul Glover,GRN,4.0,,0.0,Lawrence County,0075 WILMINGTON TWP D2
+Lawrence,0075 WILMINGTON TWP D2,Governor,,Ken V. Krawchuk,LIB,2.0,,0.0,Lawrence County,0075 WILMINGTON TWP D2
+Lawrence,0075 WILMINGTON TWP D2,Governor,,Write In,,0.0,,0.0,Lawrence County,0075 WILMINGTON TWP D2
+Lawrence,0075 WILMINGTON TWP D2,U.S. House,16.0,Ron Dinicola,DEM,146.0,,4.0,Lawrence County,0075 WILMINGTON TWP D2
+Lawrence,0075 WILMINGTON TWP D2,U.S. House,16.0,Mike Kelly,REP,407.0,,13.0,Lawrence County,0075 WILMINGTON TWP D2
+Lawrence,0075 WILMINGTON TWP D2,U.S. House,16.0,Ebert G. Bill Beeman,LIB,4.0,,0.0,Lawrence County,0075 WILMINGTON TWP D2
+Lawrence,0075 WILMINGTON TWP D2,U.S. House,16.0,Write In,,0.0,,0.0,Lawrence County,0075 WILMINGTON TWP D2
+Lawrence,0075 WILMINGTON TWP D2,State House,17.0,Parke Wentling,REP,465.0,,13.0,Lawrence County,0075 WILMINGTON TWP D2
+Lawrence,0075 WILMINGTON TWP D2,State House,17.0,Write In,REP,20.0,,1.0,Lawrence County,0075 WILMINGTON TWP D2

@@ -1,0 +1,1718 @@
+county,precinct,office,district,candidate,party,votes,election_day,absentee,county_id,original_precinct_name
+Centre,1,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,201,,,Centre County,1
+Centre,1,U.S. Senate,,LOU BARLETTA,REPUBLICAN,145,,,Centre County,1
+Centre,1,U.S. Senate,,NEAL GALE,GREEN,5,,,Centre County,1
+Centre,1,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,4,,,Centre County,1
+Centre,1,U.S. Senate,,WRITE-IN,,0,,,Centre County,1
+Centre,1,Governor,,TOM WOLF,DEMOCRATIC,206,,,Centre County,1
+Centre,1,Governor,,SCOTT R WAGNER,REPUBLICAN,140,,,Centre County,1
+Centre,1,Governor,,PAUL GLOVER,GREEN,4,,,Centre County,1
+Centre,1,Governor,,KEN V KRAWCHUK,LIBERTARIAN,5,,,Centre County,1
+Centre,1,Governor,,WRITE-IN,,0,,,Centre County,1
+Centre,1,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,185,,,Centre County,1
+Centre,1,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,171,,,Centre County,1
+Centre,1,U.S. House,15.0,WRITE-IN,,0,,,Centre County,1
+Centre,1,State Senate,34.0,EZRA NANES,DEMOCRATIC,182,,,Centre County,1
+Centre,1,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,171,,,Centre County,1
+Centre,1,State Senate,34.0,WRITE-IN,,2,,,Centre County,1
+Centre,1,State House,171.0,ERIN MCCRACKEN,DEMOCRATIC,161,,,Centre County,1
+Centre,1,State House,171.0,KERRY A BENNINGHOFF,REPUBLICAN,194,,,Centre County,1
+Centre,1,State House,171.0,WRITE-IN,,0,,,Centre County,1
+Centre,2,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,308,,,Centre County,2
+Centre,2,U.S. Senate,,LOU BARLETTA,REPUBLICAN,309,,,Centre County,2
+Centre,2,U.S. Senate,,NEAL GALE,GREEN,5,,,Centre County,2
+Centre,2,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,11,,,Centre County,2
+Centre,2,U.S. Senate,,WRITE-IN,,0,,,Centre County,2
+Centre,2,Governor,,TOM WOLF,DEMOCRATIC,325,,,Centre County,2
+Centre,2,Governor,,SCOTT R WAGNER,REPUBLICAN,287,,,Centre County,2
+Centre,2,Governor,,PAUL GLOVER,GREEN,6,,,Centre County,2
+Centre,2,Governor,,KEN V KRAWCHUK,LIBERTARIAN,15,,,Centre County,2
+Centre,2,Governor,,WRITE-IN,,0,,,Centre County,2
+Centre,2,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,265,,,Centre County,2
+Centre,2,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,370,,,Centre County,2
+Centre,2,U.S. House,15.0,WRITE-IN,,0,,,Centre County,2
+Centre,2,State Senate,34.0,EZRA NANES,DEMOCRATIC,265,,,Centre County,2
+Centre,2,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,366,,,Centre County,2
+Centre,2,State Senate,34.0,WRITE-IN,,0,,,Centre County,2
+Centre,2,State House,171.0,ERIN MCCRACKEN,DEMOCRATIC,234,,,Centre County,2
+Centre,2,State House,171.0,KERRY A BENNINGHOFF,REPUBLICAN,399,,,Centre County,2
+Centre,2,State House,171.0,WRITE-IN,,1,,,Centre County,2
+Centre,3,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,222,,,Centre County,3
+Centre,3,U.S. Senate,,LOU BARLETTA,REPUBLICAN,127,,,Centre County,3
+Centre,3,U.S. Senate,,NEAL GALE,GREEN,5,,,Centre County,3
+Centre,3,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,8,,,Centre County,3
+Centre,3,U.S. Senate,,WRITE-IN,,1,,,Centre County,3
+Centre,3,Governor,,TOM WOLF,DEMOCRATIC,214,,,Centre County,3
+Centre,3,Governor,,SCOTT R WAGNER,REPUBLICAN,129,,,Centre County,3
+Centre,3,Governor,,PAUL GLOVER,GREEN,6,,,Centre County,3
+Centre,3,Governor,,KEN V KRAWCHUK,LIBERTARIAN,12,,,Centre County,3
+Centre,3,Governor,,WRITE-IN,,0,,,Centre County,3
+Centre,3,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,196,,,Centre County,3
+Centre,3,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,164,,,Centre County,3
+Centre,3,U.S. House,15.0,WRITE-IN,,0,,,Centre County,3
+Centre,3,State Senate,34.0,EZRA NANES,DEMOCRATIC,195,,,Centre County,3
+Centre,3,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,159,,,Centre County,3
+Centre,3,State Senate,34.0,WRITE-IN,,2,,,Centre County,3
+Centre,3,State House,171.0,ERIN MCCRACKEN,DEMOCRATIC,175,,,Centre County,3
+Centre,3,State House,171.0,KERRY A BENNINGHOFF,REPUBLICAN,184,,,Centre County,3
+Centre,3,State House,171.0,WRITE-IN,,0,,,Centre County,3
+Centre,4,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,299,,,Centre County,4
+Centre,4,U.S. Senate,,LOU BARLETTA,REPUBLICAN,303,,,Centre County,4
+Centre,4,U.S. Senate,,NEAL GALE,GREEN,8,,,Centre County,4
+Centre,4,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,13,,,Centre County,4
+Centre,4,U.S. Senate,,WRITE-IN,,0,,,Centre County,4
+Centre,4,Governor,,TOM WOLF,DEMOCRATIC,318,,,Centre County,4
+Centre,4,Governor,,SCOTT R WAGNER,REPUBLICAN,288,,,Centre County,4
+Centre,4,Governor,,PAUL GLOVER,GREEN,8,,,Centre County,4
+Centre,4,Governor,,KEN V KRAWCHUK,LIBERTARIAN,15,,,Centre County,4
+Centre,4,Governor,,WRITE-IN,,0,,,Centre County,4
+Centre,4,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,266,,,Centre County,4
+Centre,4,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,355,,,Centre County,4
+Centre,4,U.S. House,15.0,WRITE-IN,,0,,,Centre County,4
+Centre,4,State Senate,34.0,EZRA NANES,DEMOCRATIC,266,,,Centre County,4
+Centre,4,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,363,,,Centre County,4
+Centre,4,State Senate,34.0,WRITE-IN,,0,,,Centre County,4
+Centre,4,State House,171.0,ERIN MCCRACKEN,DEMOCRATIC,230,,,Centre County,4
+Centre,4,State House,171.0,KERRY A BENNINGHOFF,REPUBLICAN,397,,,Centre County,4
+Centre,4,State House,171.0,WRITE-IN,,0,,,Centre County,4
+Centre,5,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,488,,,Centre County,5
+Centre,5,U.S. Senate,,LOU BARLETTA,REPUBLICAN,271,,,Centre County,5
+Centre,5,U.S. Senate,,NEAL GALE,GREEN,10,,,Centre County,5
+Centre,5,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,18,,,Centre County,5
+Centre,5,U.S. Senate,,WRITE-IN,,3,,,Centre County,5
+Centre,5,Governor,,TOM WOLF,DEMOCRATIC,502,,,Centre County,5
+Centre,5,Governor,,SCOTT R WAGNER,REPUBLICAN,261,,,Centre County,5
+Centre,5,Governor,,PAUL GLOVER,GREEN,7,,,Centre County,5
+Centre,5,Governor,,KEN V KRAWCHUK,LIBERTARIAN,23,,,Centre County,5
+Centre,5,Governor,,WRITE-IN,,0,,,Centre County,5
+Centre,5,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,469,,,Centre County,5
+Centre,5,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,325,,,Centre County,5
+Centre,5,U.S. House,15.0,WRITE-IN,,1,,,Centre County,5
+Centre,5,State Senate,34.0,EZRA NANES,DEMOCRATIC,461,,,Centre County,5
+Centre,5,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,331,,,Centre County,5
+Centre,5,State Senate,34.0,WRITE-IN,,1,,,Centre County,5
+Centre,5,State House,171.0,ERIN MCCRACKEN,DEMOCRATIC,418,,,Centre County,5
+Centre,5,State House,171.0,KERRY A BENNINGHOFF,REPUBLICAN,374,,,Centre County,5
+Centre,5,State House,171.0,WRITE-IN,,0,,,Centre County,5
+Centre,6,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,253,,,Centre County,6
+Centre,6,U.S. Senate,,LOU BARLETTA,REPUBLICAN,305,,,Centre County,6
+Centre,6,U.S. Senate,,NEAL GALE,GREEN,2,,,Centre County,6
+Centre,6,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,12,,,Centre County,6
+Centre,6,U.S. Senate,,WRITE-IN,,1,,,Centre County,6
+Centre,6,Governor,,TOM WOLF,DEMOCRATIC,244,,,Centre County,6
+Centre,6,Governor,,SCOTT R WAGNER,REPUBLICAN,314,,,Centre County,6
+Centre,6,Governor,,PAUL GLOVER,GREEN,6,,,Centre County,6
+Centre,6,Governor,,KEN V KRAWCHUK,LIBERTARIAN,8,,,Centre County,6
+Centre,6,Governor,,WRITE-IN,,1,,,Centre County,6
+Centre,6,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,218,,,Centre County,6
+Centre,6,U.S. House,12.0,TOM MARINO,REPUBLICAN,350,,,Centre County,6
+Centre,6,U.S. House,12.0,WRITE-IN,,2,,,Centre County,6
+Centre,6,State Senate,34.0,EZRA NANES,DEMOCRATIC,193,,,Centre County,6
+Centre,6,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,379,,,Centre County,6
+Centre,6,State Senate,34.0,WRITE-IN,,1,,,Centre County,6
+Centre,6,State House,171.0,ERIN MCCRACKEN,DEMOCRATIC,167,,,Centre County,6
+Centre,6,State House,171.0,KERRY A BENNINGHOFF,REPUBLICAN,407,,,Centre County,6
+Centre,6,State House,171.0,WRITE-IN,,0,,,Centre County,6
+Centre,7,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,137,,,Centre County,7
+Centre,7,U.S. Senate,,LOU BARLETTA,REPUBLICAN,165,,,Centre County,7
+Centre,7,U.S. Senate,,NEAL GALE,GREEN,3,,,Centre County,7
+Centre,7,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,6,,,Centre County,7
+Centre,7,U.S. Senate,,WRITE-IN,,0,,,Centre County,7
+Centre,7,Governor,,TOM WOLF,DEMOCRATIC,137,,,Centre County,7
+Centre,7,Governor,,SCOTT R WAGNER,REPUBLICAN,166,,,Centre County,7
+Centre,7,Governor,,PAUL GLOVER,GREEN,2,,,Centre County,7
+Centre,7,Governor,,KEN V KRAWCHUK,LIBERTARIAN,3,,,Centre County,7
+Centre,7,Governor,,WRITE-IN,,0,,,Centre County,7
+Centre,7,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,106,,,Centre County,7
+Centre,7,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,205,,,Centre County,7
+Centre,7,U.S. House,15.0,WRITE-IN,,0,,,Centre County,7
+Centre,7,State Senate,34.0,EZRA NANES,DEMOCRATIC,103,,,Centre County,7
+Centre,7,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,207,,,Centre County,7
+Centre,7,State Senate,34.0,WRITE-IN,,0,,,Centre County,7
+Centre,7,State House,76.0,MIKE HANNA,DEMOCRATIC,141,,,Centre County,7
+Centre,7,State House,76.0,STEPHANIE BOROWICZ,REPUBLICAN,171,,,Centre County,7
+Centre,7,State House,76.0,WRITE-IN,,0,,,Centre County,7
+Centre,8,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,187,,,Centre County,8
+Centre,8,U.S. Senate,,LOU BARLETTA,REPUBLICAN,204,,,Centre County,8
+Centre,8,U.S. Senate,,NEAL GALE,GREEN,2,,,Centre County,8
+Centre,8,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,5,,,Centre County,8
+Centre,8,U.S. Senate,,WRITE-IN,,0,,,Centre County,8
+Centre,8,Governor,,TOM WOLF,DEMOCRATIC,159,,,Centre County,8
+Centre,8,Governor,,SCOTT R WAGNER,REPUBLICAN,232,,,Centre County,8
+Centre,8,Governor,,PAUL GLOVER,GREEN,3,,,Centre County,8
+Centre,8,Governor,,KEN V KRAWCHUK,LIBERTARIAN,3,,,Centre County,8
+Centre,8,Governor,,WRITE-IN,,0,,,Centre County,8
+Centre,8,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,117,,,Centre County,8
+Centre,8,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,281,,,Centre County,8
+Centre,8,U.S. House,15.0,WRITE-IN,,0,,,Centre County,8
+Centre,8,State Senate,34.0,EZRA NANES,DEMOCRATIC,129,,,Centre County,8
+Centre,8,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,267,,,Centre County,8
+Centre,8,State Senate,34.0,WRITE-IN,,0,,,Centre County,8
+Centre,8,State House,76.0,MIKE HANNA,DEMOCRATIC,210,,,Centre County,8
+Centre,8,State House,76.0,STEPHANIE BOROWICZ,REPUBLICAN,188,,,Centre County,8
+Centre,8,State House,76.0,WRITE-IN,,0,,,Centre County,8
+Centre,9,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,200,,,Centre County,9
+Centre,9,U.S. Senate,,LOU BARLETTA,REPUBLICAN,164,,,Centre County,9
+Centre,9,U.S. Senate,,NEAL GALE,GREEN,7,,,Centre County,9
+Centre,9,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,4,,,Centre County,9
+Centre,9,U.S. Senate,,WRITE-IN,,0,,,Centre County,9
+Centre,9,Governor,,TOM WOLF,DEMOCRATIC,188,,,Centre County,9
+Centre,9,Governor,,SCOTT R WAGNER,REPUBLICAN,179,,,Centre County,9
+Centre,9,Governor,,PAUL GLOVER,GREEN,3,,,Centre County,9
+Centre,9,Governor,,KEN V KRAWCHUK,LIBERTARIAN,6,,,Centre County,9
+Centre,9,Governor,,WRITE-IN,,0,,,Centre County,9
+Centre,9,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,175,,,Centre County,9
+Centre,9,U.S. House,12.0,TOM MARINO,REPUBLICAN,197,,,Centre County,9
+Centre,9,U.S. House,12.0,WRITE-IN,,0,,,Centre County,9
+Centre,9,State Senate,34.0,EZRA NANES,DEMOCRATIC,157,,,Centre County,9
+Centre,9,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,216,,,Centre County,9
+Centre,9,State Senate,34.0,WRITE-IN,,0,,,Centre County,9
+Centre,9,State House,171.0,ERIN MCCRACKEN,DEMOCRATIC,125,,,Centre County,9
+Centre,9,State House,171.0,KERRY A BENNINGHOFF,REPUBLICAN,249,,,Centre County,9
+Centre,9,State House,171.0,WRITE-IN,,0,,,Centre County,9
+Centre,10,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,183,,,Centre County,10
+Centre,10,U.S. Senate,,LOU BARLETTA,REPUBLICAN,180,,,Centre County,10
+Centre,10,U.S. Senate,,NEAL GALE,GREEN,2,,,Centre County,10
+Centre,10,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,5,,,Centre County,10
+Centre,10,U.S. Senate,,WRITE-IN,,0,,,Centre County,10
+Centre,10,Governor,,TOM WOLF,DEMOCRATIC,195,,,Centre County,10
+Centre,10,Governor,,SCOTT R WAGNER,REPUBLICAN,168,,,Centre County,10
+Centre,10,Governor,,PAUL GLOVER,GREEN,1,,,Centre County,10
+Centre,10,Governor,,KEN V KRAWCHUK,LIBERTARIAN,4,,,Centre County,10
+Centre,10,Governor,,WRITE-IN,,1,,,Centre County,10
+Centre,10,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,146,,,Centre County,10
+Centre,10,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,224,,,Centre County,10
+Centre,10,U.S. House,15.0,WRITE-IN,,1,,,Centre County,10
+Centre,10,State Senate,34.0,EZRA NANES,DEMOCRATIC,151,,,Centre County,10
+Centre,10,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,217,,,Centre County,10
+Centre,10,State Senate,34.0,WRITE-IN,,1,,,Centre County,10
+Centre,10,State House,77.0,H SCOTT CONKLIN,DEMOCRATIC,275,,,Centre County,10
+Centre,10,State House,77.0,WRITE-IN,,15,,,Centre County,10
+Centre,11,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,148,,,Centre County,11
+Centre,11,U.S. Senate,,LOU BARLETTA,REPUBLICAN,144,,,Centre County,11
+Centre,11,U.S. Senate,,NEAL GALE,GREEN,4,,,Centre County,11
+Centre,11,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,3,,,Centre County,11
+Centre,11,U.S. Senate,,WRITE-IN,,0,,,Centre County,11
+Centre,11,Governor,,TOM WOLF,DEMOCRATIC,146,,,Centre County,11
+Centre,11,Governor,,SCOTT R WAGNER,REPUBLICAN,141,,,Centre County,11
+Centre,11,Governor,,PAUL GLOVER,GREEN,4,,,Centre County,11
+Centre,11,Governor,,KEN V KRAWCHUK,LIBERTARIAN,7,,,Centre County,11
+Centre,11,Governor,,WRITE-IN,,0,,,Centre County,11
+Centre,11,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,131,,,Centre County,11
+Centre,11,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,166,,,Centre County,11
+Centre,11,U.S. House,15.0,WRITE-IN,,1,,,Centre County,11
+Centre,11,State Senate,34.0,EZRA NANES,DEMOCRATIC,123,,,Centre County,11
+Centre,11,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,175,,,Centre County,11
+Centre,11,State Senate,34.0,WRITE-IN,,0,,,Centre County,11
+Centre,11,State House,77.0,H SCOTT CONKLIN,DEMOCRATIC,207,,,Centre County,11
+Centre,11,State House,77.0,WRITE-IN,,2,,,Centre County,11
+Centre,12,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,143,,,Centre County,12
+Centre,12,U.S. Senate,,LOU BARLETTA,REPUBLICAN,113,,,Centre County,12
+Centre,12,U.S. Senate,,NEAL GALE,GREEN,2,,,Centre County,12
+Centre,12,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,4,,,Centre County,12
+Centre,12,U.S. Senate,,WRITE-IN,,0,,,Centre County,12
+Centre,12,Governor,,TOM WOLF,DEMOCRATIC,134,,,Centre County,12
+Centre,12,Governor,,SCOTT R WAGNER,REPUBLICAN,119,,,Centre County,12
+Centre,12,Governor,,PAUL GLOVER,GREEN,4,,,Centre County,12
+Centre,12,Governor,,KEN V KRAWCHUK,LIBERTARIAN,4,,,Centre County,12
+Centre,12,Governor,,WRITE-IN,,0,,,Centre County,12
+Centre,12,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,116,,,Centre County,12
+Centre,12,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,143,,,Centre County,12
+Centre,12,U.S. House,15.0,WRITE-IN,,0,,,Centre County,12
+Centre,12,State Senate,34.0,EZRA NANES,DEMOCRATIC,115,,,Centre County,12
+Centre,12,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,142,,,Centre County,12
+Centre,12,State Senate,34.0,WRITE-IN,,0,,,Centre County,12
+Centre,12,State House,77.0,H SCOTT CONKLIN,DEMOCRATIC,190,,,Centre County,12
+Centre,12,State House,77.0,WRITE-IN,,5,,,Centre County,12
+Centre,13,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,90,,,Centre County,13
+Centre,13,U.S. Senate,,LOU BARLETTA,REPUBLICAN,117,,,Centre County,13
+Centre,13,U.S. Senate,,NEAL GALE,GREEN,2,,,Centre County,13
+Centre,13,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,4,,,Centre County,13
+Centre,13,U.S. Senate,,WRITE-IN,,0,,,Centre County,13
+Centre,13,Governor,,TOM WOLF,DEMOCRATIC,88,,,Centre County,13
+Centre,13,Governor,,SCOTT R WAGNER,REPUBLICAN,117,,,Centre County,13
+Centre,13,Governor,,PAUL GLOVER,GREEN,4,,,Centre County,13
+Centre,13,Governor,,KEN V KRAWCHUK,LIBERTARIAN,4,,,Centre County,13
+Centre,13,Governor,,WRITE-IN,,0,,,Centre County,13
+Centre,13,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,62,,,Centre County,13
+Centre,13,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,151,,,Centre County,13
+Centre,13,U.S. House,15.0,WRITE-IN,,0,,,Centre County,13
+Centre,13,State Senate,34.0,EZRA NANES,DEMOCRATIC,64,,,Centre County,13
+Centre,13,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,148,,,Centre County,13
+Centre,13,State Senate,34.0,WRITE-IN,,0,,,Centre County,13
+Centre,13,State House,81.0,RICK ROGERS,DEMOCRATIC,59,,,Centre County,13
+Centre,13,State House,81.0,RICH IRVIN,REPUBLICAN,143,,,Centre County,13
+Centre,13,State House,81.0,JOSEPH P SOLOSKI,LIBERTARIAN,9,,,Centre County,13
+Centre,13,State House,81.0,WRITE-IN,,0,,,Centre County,13
+Centre,14,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,94,,,Centre County,14
+Centre,14,U.S. Senate,,LOU BARLETTA,REPUBLICAN,169,,,Centre County,14
+Centre,14,U.S. Senate,,NEAL GALE,GREEN,5,,,Centre County,14
+Centre,14,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,2,,,Centre County,14
+Centre,14,U.S. Senate,,WRITE-IN,,0,,,Centre County,14
+Centre,14,Governor,,TOM WOLF,DEMOCRATIC,91,,,Centre County,14
+Centre,14,Governor,,SCOTT R WAGNER,REPUBLICAN,176,,,Centre County,14
+Centre,14,Governor,,PAUL GLOVER,GREEN,3,,,Centre County,14
+Centre,14,Governor,,KEN V KRAWCHUK,LIBERTARIAN,0,,,Centre County,14
+Centre,14,Governor,,WRITE-IN,,0,,,Centre County,14
+Centre,14,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,73,,,Centre County,14
+Centre,14,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,195,,,Centre County,14
+Centre,14,U.S. House,15.0,WRITE-IN,,0,,,Centre County,14
+Centre,14,State Senate,34.0,EZRA NANES,DEMOCRATIC,76,,,Centre County,14
+Centre,14,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,192,,,Centre County,14
+Centre,14,State Senate,34.0,WRITE-IN,,0,,,Centre County,14
+Centre,14,State House,76.0,MIKE HANNA,DEMOCRATIC,111,,,Centre County,14
+Centre,14,State House,76.0,STEPHANIE BOROWICZ,REPUBLICAN,157,,,Centre County,14
+Centre,14,State House,76.0,WRITE-IN,,0,,,Centre County,14
+Centre,15,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,69,,,Centre County,15
+Centre,15,U.S. Senate,,LOU BARLETTA,REPUBLICAN,72,,,Centre County,15
+Centre,15,U.S. Senate,,NEAL GALE,GREEN,2,,,Centre County,15
+Centre,15,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,1,,,Centre County,15
+Centre,15,U.S. Senate,,WRITE-IN,,0,,,Centre County,15
+Centre,15,Governor,,TOM WOLF,DEMOCRATIC,63,,,Centre County,15
+Centre,15,Governor,,SCOTT R WAGNER,REPUBLICAN,78,,,Centre County,15
+Centre,15,Governor,,PAUL GLOVER,GREEN,1,,,Centre County,15
+Centre,15,Governor,,KEN V KRAWCHUK,LIBERTARIAN,2,,,Centre County,15
+Centre,15,Governor,,WRITE-IN,,0,,,Centre County,15
+Centre,15,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,42,,,Centre County,15
+Centre,15,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,99,,,Centre County,15
+Centre,15,U.S. House,15.0,WRITE-IN,,1,,,Centre County,15
+Centre,15,State Senate,34.0,EZRA NANES,DEMOCRATIC,47,,,Centre County,15
+Centre,15,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,96,,,Centre County,15
+Centre,15,State Senate,34.0,WRITE-IN,,0,,,Centre County,15
+Centre,15,State House,77.0,H SCOTT CONKLIN,DEMOCRATIC,90,,,Centre County,15
+Centre,15,State House,77.0,WRITE-IN,,3,,,Centre County,15
+Centre,16,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,481,,,Centre County,16
+Centre,16,U.S. Senate,,LOU BARLETTA,REPUBLICAN,86,,,Centre County,16
+Centre,16,U.S. Senate,,NEAL GALE,GREEN,3,,,Centre County,16
+Centre,16,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,3,,,Centre County,16
+Centre,16,U.S. Senate,,WRITE-IN,,0,,,Centre County,16
+Centre,16,Governor,,TOM WOLF,DEMOCRATIC,485,,,Centre County,16
+Centre,16,Governor,,SCOTT R WAGNER,REPUBLICAN,81,,,Centre County,16
+Centre,16,Governor,,PAUL GLOVER,GREEN,4,,,Centre County,16
+Centre,16,Governor,,KEN V KRAWCHUK,LIBERTARIAN,7,,,Centre County,16
+Centre,16,Governor,,WRITE-IN,,1,,,Centre County,16
+Centre,16,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,485,,,Centre County,16
+Centre,16,U.S. House,12.0,TOM MARINO,REPUBLICAN,90,,,Centre County,16
+Centre,16,U.S. House,12.0,WRITE-IN,,1,,,Centre County,16
+Centre,16,State Senate,34.0,EZRA NANES,DEMOCRATIC,484,,,Centre County,16
+Centre,16,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,92,,,Centre County,16
+Centre,16,State Senate,34.0,WRITE-IN,,0,,,Centre County,16
+Centre,16,State House,77.0,H SCOTT CONKLIN,DEMOCRATIC,515,,,Centre County,16
+Centre,16,State House,77.0,WRITE-IN,,5,,,Centre County,16
+Centre,17,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,356,,,Centre County,17
+Centre,17,U.S. Senate,,LOU BARLETTA,REPUBLICAN,77,,,Centre County,17
+Centre,17,U.S. Senate,,NEAL GALE,GREEN,8,,,Centre County,17
+Centre,17,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,4,,,Centre County,17
+Centre,17,U.S. Senate,,WRITE-IN,,0,,,Centre County,17
+Centre,17,Governor,,TOM WOLF,DEMOCRATIC,354,,,Centre County,17
+Centre,17,Governor,,SCOTT R WAGNER,REPUBLICAN,77,,,Centre County,17
+Centre,17,Governor,,PAUL GLOVER,GREEN,7,,,Centre County,17
+Centre,17,Governor,,KEN V KRAWCHUK,LIBERTARIAN,3,,,Centre County,17
+Centre,17,Governor,,WRITE-IN,,0,,,Centre County,17
+Centre,17,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,361,,,Centre County,17
+Centre,17,U.S. House,12.0,TOM MARINO,REPUBLICAN,83,,,Centre County,17
+Centre,17,U.S. House,12.0,WRITE-IN,,0,,,Centre County,17
+Centre,17,State Senate,34.0,EZRA NANES,DEMOCRATIC,350,,,Centre County,17
+Centre,17,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,92,,,Centre County,17
+Centre,17,State Senate,34.0,WRITE-IN,,0,,,Centre County,17
+Centre,17,State House,77.0,H SCOTT CONKLIN,DEMOCRATIC,378,,,Centre County,17
+Centre,17,State House,77.0,WRITE-IN,,6,,,Centre County,17
+Centre,18,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,508,,,Centre County,18
+Centre,18,U.S. Senate,,LOU BARLETTA,REPUBLICAN,98,,,Centre County,18
+Centre,18,U.S. Senate,,NEAL GALE,GREEN,20,,,Centre County,18
+Centre,18,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,8,,,Centre County,18
+Centre,18,U.S. Senate,,WRITE-IN,,0,,,Centre County,18
+Centre,18,Governor,,TOM WOLF,DEMOCRATIC,519,,,Centre County,18
+Centre,18,Governor,,SCOTT R WAGNER,REPUBLICAN,92,,,Centre County,18
+Centre,18,Governor,,PAUL GLOVER,GREEN,13,,,Centre County,18
+Centre,18,Governor,,KEN V KRAWCHUK,LIBERTARIAN,7,,,Centre County,18
+Centre,18,Governor,,WRITE-IN,,0,,,Centre County,18
+Centre,18,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,527,,,Centre County,18
+Centre,18,U.S. House,12.0,TOM MARINO,REPUBLICAN,106,,,Centre County,18
+Centre,18,U.S. House,12.0,WRITE-IN,,0,,,Centre County,18
+Centre,18,State Senate,34.0,EZRA NANES,DEMOCRATIC,513,,,Centre County,18
+Centre,18,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,116,,,Centre County,18
+Centre,18,State Senate,34.0,WRITE-IN,,0,,,Centre County,18
+Centre,18,State House,77.0,H SCOTT CONKLIN,DEMOCRATIC,558,,,Centre County,18
+Centre,18,State House,77.0,WRITE-IN,,14,,,Centre County,18
+Centre,19,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,727,,,Centre County,19
+Centre,19,U.S. Senate,,LOU BARLETTA,REPUBLICAN,160,,,Centre County,19
+Centre,19,U.S. Senate,,NEAL GALE,GREEN,22,,,Centre County,19
+Centre,19,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,19,,,Centre County,19
+Centre,19,U.S. Senate,,WRITE-IN,,0,,,Centre County,19
+Centre,19,Governor,,TOM WOLF,DEMOCRATIC,734,,,Centre County,19
+Centre,19,Governor,,SCOTT R WAGNER,REPUBLICAN,160,,,Centre County,19
+Centre,19,Governor,,PAUL GLOVER,GREEN,15,,,Centre County,19
+Centre,19,Governor,,KEN V KRAWCHUK,LIBERTARIAN,16,,,Centre County,19
+Centre,19,Governor,,WRITE-IN,,1,,,Centre County,19
+Centre,19,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,737,,,Centre County,19
+Centre,19,U.S. House,12.0,TOM MARINO,REPUBLICAN,187,,,Centre County,19
+Centre,19,U.S. House,12.0,WRITE-IN,,2,,,Centre County,19
+Centre,19,State Senate,34.0,EZRA NANES,DEMOCRATIC,721,,,Centre County,19
+Centre,19,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,199,,,Centre County,19
+Centre,19,State Senate,34.0,WRITE-IN,,1,,,Centre County,19
+Centre,19,State House,77.0,H SCOTT CONKLIN,DEMOCRATIC,790,,,Centre County,19
+Centre,19,State House,77.0,WRITE-IN,,19,,,Centre County,19
+Centre,20,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,672,,,Centre County,20
+Centre,20,U.S. Senate,,LOU BARLETTA,REPUBLICAN,201,,,Centre County,20
+Centre,20,U.S. Senate,,NEAL GALE,GREEN,9,,,Centre County,20
+Centre,20,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,11,,,Centre County,20
+Centre,20,U.S. Senate,,WRITE-IN,,0,,,Centre County,20
+Centre,20,Governor,,TOM WOLF,DEMOCRATIC,686,,,Centre County,20
+Centre,20,Governor,,SCOTT R WAGNER,REPUBLICAN,191,,,Centre County,20
+Centre,20,Governor,,PAUL GLOVER,GREEN,6,,,Centre County,20
+Centre,20,Governor,,KEN V KRAWCHUK,LIBERTARIAN,7,,,Centre County,20
+Centre,20,Governor,,WRITE-IN,,1,,,Centre County,20
+Centre,20,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,669,,,Centre County,20
+Centre,20,U.S. House,12.0,TOM MARINO,REPUBLICAN,223,,,Centre County,20
+Centre,20,U.S. House,12.0,WRITE-IN,,2,,,Centre County,20
+Centre,20,State Senate,34.0,EZRA NANES,DEMOCRATIC,635,,,Centre County,20
+Centre,20,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,248,,,Centre County,20
+Centre,20,State Senate,34.0,WRITE-IN,,2,,,Centre County,20
+Centre,20,State House,77.0,H SCOTT CONKLIN,DEMOCRATIC,725,,,Centre County,20
+Centre,20,State House,77.0,WRITE-IN,,13,,,Centre County,20
+Centre,21,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,610,,,Centre County,21
+Centre,21,U.S. Senate,,LOU BARLETTA,REPUBLICAN,134,,,Centre County,21
+Centre,21,U.S. Senate,,NEAL GALE,GREEN,11,,,Centre County,21
+Centre,21,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,13,,,Centre County,21
+Centre,21,U.S. Senate,,WRITE-IN,,0,,,Centre County,21
+Centre,21,Governor,,TOM WOLF,DEMOCRATIC,613,,,Centre County,21
+Centre,21,Governor,,SCOTT R WAGNER,REPUBLICAN,133,,,Centre County,21
+Centre,21,Governor,,PAUL GLOVER,GREEN,7,,,Centre County,21
+Centre,21,Governor,,KEN V KRAWCHUK,LIBERTARIAN,11,,,Centre County,21
+Centre,21,Governor,,WRITE-IN,,0,,,Centre County,21
+Centre,21,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,611,,,Centre County,21
+Centre,21,U.S. House,12.0,TOM MARINO,REPUBLICAN,147,,,Centre County,21
+Centre,21,U.S. House,12.0,WRITE-IN,,3,,,Centre County,21
+Centre,21,State Senate,34.0,EZRA NANES,DEMOCRATIC,591,,,Centre County,21
+Centre,21,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,172,,,Centre County,21
+Centre,21,State Senate,34.0,WRITE-IN,,2,,,Centre County,21
+Centre,21,State House,77.0,H SCOTT CONKLIN,DEMOCRATIC,653,,,Centre County,21
+Centre,21,State House,77.0,WRITE-IN,,10,,,Centre County,21
+Centre,22,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,226,,,Centre County,22
+Centre,22,U.S. Senate,,LOU BARLETTA,REPUBLICAN,53,,,Centre County,22
+Centre,22,U.S. Senate,,NEAL GALE,GREEN,10,,,Centre County,22
+Centre,22,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,5,,,Centre County,22
+Centre,22,U.S. Senate,,WRITE-IN,,0,,,Centre County,22
+Centre,22,Governor,,TOM WOLF,DEMOCRATIC,219,,,Centre County,22
+Centre,22,Governor,,SCOTT R WAGNER,REPUBLICAN,57,,,Centre County,22
+Centre,22,Governor,,PAUL GLOVER,GREEN,10,,,Centre County,22
+Centre,22,Governor,,KEN V KRAWCHUK,LIBERTARIAN,8,,,Centre County,22
+Centre,22,Governor,,WRITE-IN,,0,,,Centre County,22
+Centre,22,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,238,,,Centre County,22
+Centre,22,U.S. House,12.0,TOM MARINO,REPUBLICAN,56,,,Centre County,22
+Centre,22,U.S. House,12.0,WRITE-IN,,0,,,Centre County,22
+Centre,22,State Senate,34.0,EZRA NANES,DEMOCRATIC,231,,,Centre County,22
+Centre,22,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,62,,,Centre County,22
+Centre,22,State Senate,34.0,WRITE-IN,,0,,,Centre County,22
+Centre,22,State House,77.0,H SCOTT CONKLIN,DEMOCRATIC,250,,,Centre County,22
+Centre,22,State House,77.0,WRITE-IN,,9,,,Centre County,22
+Centre,23,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,412,,,Centre County,23
+Centre,23,U.S. Senate,,LOU BARLETTA,REPUBLICAN,107,,,Centre County,23
+Centre,23,U.S. Senate,,NEAL GALE,GREEN,3,,,Centre County,23
+Centre,23,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,14,,,Centre County,23
+Centre,23,U.S. Senate,,WRITE-IN,,0,,,Centre County,23
+Centre,23,Governor,,TOM WOLF,DEMOCRATIC,407,,,Centre County,23
+Centre,23,Governor,,SCOTT R WAGNER,REPUBLICAN,108,,,Centre County,23
+Centre,23,Governor,,PAUL GLOVER,GREEN,3,,,Centre County,23
+Centre,23,Governor,,KEN V KRAWCHUK,LIBERTARIAN,9,,,Centre County,23
+Centre,23,Governor,,WRITE-IN,,0,,,Centre County,23
+Centre,23,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,420,,,Centre County,23
+Centre,23,U.S. House,12.0,TOM MARINO,REPUBLICAN,113,,,Centre County,23
+Centre,23,U.S. House,12.0,WRITE-IN,,0,,,Centre County,23
+Centre,23,State Senate,34.0,EZRA NANES,DEMOCRATIC,401,,,Centre County,23
+Centre,23,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,120,,,Centre County,23
+Centre,23,State Senate,34.0,WRITE-IN,,2,,,Centre County,23
+Centre,23,State House,77.0,H SCOTT CONKLIN,DEMOCRATIC,438,,,Centre County,23
+Centre,23,State House,77.0,WRITE-IN,,10,,,Centre County,23
+Centre,24,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,594,,,Centre County,24
+Centre,24,U.S. Senate,,LOU BARLETTA,REPUBLICAN,270,,,Centre County,24
+Centre,24,U.S. Senate,,NEAL GALE,GREEN,21,,,Centre County,24
+Centre,24,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,15,,,Centre County,24
+Centre,24,U.S. Senate,,WRITE-IN,,1,,,Centre County,24
+Centre,24,Governor,,TOM WOLF,DEMOCRATIC,609,,,Centre County,24
+Centre,24,Governor,,SCOTT R WAGNER,REPUBLICAN,260,,,Centre County,24
+Centre,24,Governor,,PAUL GLOVER,GREEN,12,,,Centre County,24
+Centre,24,Governor,,KEN V KRAWCHUK,LIBERTARIAN,16,,,Centre County,24
+Centre,24,Governor,,WRITE-IN,,0,,,Centre County,24
+Centre,24,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,616,,,Centre County,24
+Centre,24,U.S. House,12.0,TOM MARINO,REPUBLICAN,279,,,Centre County,24
+Centre,24,U.S. House,12.0,WRITE-IN,,1,,,Centre County,24
+Centre,24,State Senate,34.0,EZRA NANES,DEMOCRATIC,587,,,Centre County,24
+Centre,24,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,298,,,Centre County,24
+Centre,24,State Senate,34.0,WRITE-IN,,2,,,Centre County,24
+Centre,24,State House,77.0,H SCOTT CONKLIN,DEMOCRATIC,684,,,Centre County,24
+Centre,24,State House,77.0,WRITE-IN,,39,,,Centre County,24
+Centre,25,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,643,,,Centre County,25
+Centre,25,U.S. Senate,,LOU BARLETTA,REPUBLICAN,143,,,Centre County,25
+Centre,25,U.S. Senate,,NEAL GALE,GREEN,14,,,Centre County,25
+Centre,25,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,20,,,Centre County,25
+Centre,25,U.S. Senate,,WRITE-IN,,0,,,Centre County,25
+Centre,25,Governor,,TOM WOLF,DEMOCRATIC,652,,,Centre County,25
+Centre,25,Governor,,SCOTT R WAGNER,REPUBLICAN,143,,,Centre County,25
+Centre,25,Governor,,PAUL GLOVER,GREEN,15,,,Centre County,25
+Centre,25,Governor,,KEN V KRAWCHUK,LIBERTARIAN,12,,,Centre County,25
+Centre,25,Governor,,WRITE-IN,,0,,,Centre County,25
+Centre,25,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,655,,,Centre County,25
+Centre,25,U.S. House,12.0,TOM MARINO,REPUBLICAN,161,,,Centre County,25
+Centre,25,U.S. House,12.0,WRITE-IN,,4,,,Centre County,25
+Centre,25,State Senate,34.0,EZRA NANES,DEMOCRATIC,639,,,Centre County,25
+Centre,25,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,178,,,Centre County,25
+Centre,25,State Senate,34.0,WRITE-IN,,2,,,Centre County,25
+Centre,25,State House,77.0,H SCOTT CONKLIN,DEMOCRATIC,691,,,Centre County,25
+Centre,25,State House,77.0,WRITE-IN,,17,,,Centre County,25
+Centre,26,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,604,,,Centre County,26
+Centre,26,U.S. Senate,,LOU BARLETTA,REPUBLICAN,151,,,Centre County,26
+Centre,26,U.S. Senate,,NEAL GALE,GREEN,12,,,Centre County,26
+Centre,26,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,7,,,Centre County,26
+Centre,26,U.S. Senate,,WRITE-IN,,0,,,Centre County,26
+Centre,26,Governor,,TOM WOLF,DEMOCRATIC,616,,,Centre County,26
+Centre,26,Governor,,SCOTT R WAGNER,REPUBLICAN,149,,,Centre County,26
+Centre,26,Governor,,PAUL GLOVER,GREEN,7,,,Centre County,26
+Centre,26,Governor,,KEN V KRAWCHUK,LIBERTARIAN,5,,,Centre County,26
+Centre,26,Governor,,WRITE-IN,,0,,,Centre County,26
+Centre,26,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,603,,,Centre County,26
+Centre,26,U.S. House,12.0,TOM MARINO,REPUBLICAN,168,,,Centre County,26
+Centre,26,U.S. House,12.0,WRITE-IN,,3,,,Centre County,26
+Centre,26,State Senate,34.0,EZRA NANES,DEMOCRATIC,586,,,Centre County,26
+Centre,26,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,186,,,Centre County,26
+Centre,26,State Senate,34.0,WRITE-IN,,0,,,Centre County,26
+Centre,26,State House,77.0,H SCOTT CONKLIN,DEMOCRATIC,643,,,Centre County,26
+Centre,26,State House,77.0,WRITE-IN,,17,,,Centre County,26
+Centre,27,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,858,,,Centre County,27
+Centre,27,U.S. Senate,,LOU BARLETTA,REPUBLICAN,257,,,Centre County,27
+Centre,27,U.S. Senate,,NEAL GALE,GREEN,22,,,Centre County,27
+Centre,27,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,31,,,Centre County,27
+Centre,27,U.S. Senate,,WRITE-IN,,3,,,Centre County,27
+Centre,27,Governor,,TOM WOLF,DEMOCRATIC,887,,,Centre County,27
+Centre,27,Governor,,SCOTT R WAGNER,REPUBLICAN,241,,,Centre County,27
+Centre,27,Governor,,PAUL GLOVER,GREEN,12,,,Centre County,27
+Centre,27,Governor,,KEN V KRAWCHUK,LIBERTARIAN,28,,,Centre County,27
+Centre,27,Governor,,WRITE-IN,,0,,,Centre County,27
+Centre,27,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,889,,,Centre County,27
+Centre,27,U.S. House,12.0,TOM MARINO,REPUBLICAN,274,,,Centre County,27
+Centre,27,U.S. House,12.0,WRITE-IN,,4,,,Centre County,27
+Centre,27,State Senate,34.0,EZRA NANES,DEMOCRATIC,873,,,Centre County,27
+Centre,27,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,282,,,Centre County,27
+Centre,27,State Senate,34.0,WRITE-IN,,5,,,Centre County,27
+Centre,27,State House,77.0,H SCOTT CONKLIN,DEMOCRATIC,973,,,Centre County,27
+Centre,27,State House,77.0,WRITE-IN,,34,,,Centre County,27
+Centre,28,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,458,,,Centre County,28
+Centre,28,U.S. Senate,,LOU BARLETTA,REPUBLICAN,98,,,Centre County,28
+Centre,28,U.S. Senate,,NEAL GALE,GREEN,9,,,Centre County,28
+Centre,28,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,9,,,Centre County,28
+Centre,28,U.S. Senate,,WRITE-IN,,0,,,Centre County,28
+Centre,28,Governor,,TOM WOLF,DEMOCRATIC,458,,,Centre County,28
+Centre,28,Governor,,SCOTT R WAGNER,REPUBLICAN,101,,,Centre County,28
+Centre,28,Governor,,PAUL GLOVER,GREEN,4,,,Centre County,28
+Centre,28,Governor,,KEN V KRAWCHUK,LIBERTARIAN,7,,,Centre County,28
+Centre,28,Governor,,WRITE-IN,,0,,,Centre County,28
+Centre,28,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,452,,,Centre County,28
+Centre,28,U.S. House,12.0,TOM MARINO,REPUBLICAN,117,,,Centre County,28
+Centre,28,U.S. House,12.0,WRITE-IN,,2,,,Centre County,28
+Centre,28,State Senate,34.0,EZRA NANES,DEMOCRATIC,444,,,Centre County,28
+Centre,28,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,119,,,Centre County,28
+Centre,28,State Senate,34.0,WRITE-IN,,1,,,Centre County,28
+Centre,28,State House,77.0,H SCOTT CONKLIN,DEMOCRATIC,486,,,Centre County,28
+Centre,28,State House,77.0,WRITE-IN,,14,,,Centre County,28
+Centre,29,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,316,,,Centre County,29
+Centre,29,U.S. Senate,,LOU BARLETTA,REPUBLICAN,95,,,Centre County,29
+Centre,29,U.S. Senate,,NEAL GALE,GREEN,9,,,Centre County,29
+Centre,29,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,6,,,Centre County,29
+Centre,29,U.S. Senate,,WRITE-IN,,0,,,Centre County,29
+Centre,29,Governor,,TOM WOLF,DEMOCRATIC,319,,,Centre County,29
+Centre,29,Governor,,SCOTT R WAGNER,REPUBLICAN,94,,,Centre County,29
+Centre,29,Governor,,PAUL GLOVER,GREEN,4,,,Centre County,29
+Centre,29,Governor,,KEN V KRAWCHUK,LIBERTARIAN,6,,,Centre County,29
+Centre,29,Governor,,WRITE-IN,,0,,,Centre County,29
+Centre,29,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,319,,,Centre County,29
+Centre,29,U.S. House,12.0,TOM MARINO,REPUBLICAN,107,,,Centre County,29
+Centre,29,U.S. House,12.0,WRITE-IN,,0,,,Centre County,29
+Centre,29,State Senate,34.0,EZRA NANES,DEMOCRATIC,312,,,Centre County,29
+Centre,29,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,111,,,Centre County,29
+Centre,29,State Senate,34.0,WRITE-IN,,0,,,Centre County,29
+Centre,29,State House,77.0,H SCOTT CONKLIN,DEMOCRATIC,342,,,Centre County,29
+Centre,29,State House,77.0,WRITE-IN,,10,,,Centre County,29
+Centre,30,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,167,,,Centre County,30
+Centre,30,U.S. Senate,,LOU BARLETTA,REPUBLICAN,54,,,Centre County,30
+Centre,30,U.S. Senate,,NEAL GALE,GREEN,8,,,Centre County,30
+Centre,30,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,4,,,Centre County,30
+Centre,30,U.S. Senate,,WRITE-IN,,0,,,Centre County,30
+Centre,30,Governor,,TOM WOLF,DEMOCRATIC,166,,,Centre County,30
+Centre,30,Governor,,SCOTT R WAGNER,REPUBLICAN,56,,,Centre County,30
+Centre,30,Governor,,PAUL GLOVER,GREEN,3,,,Centre County,30
+Centre,30,Governor,,KEN V KRAWCHUK,LIBERTARIAN,6,,,Centre County,30
+Centre,30,Governor,,WRITE-IN,,0,,,Centre County,30
+Centre,30,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,175,,,Centre County,30
+Centre,30,U.S. House,12.0,TOM MARINO,REPUBLICAN,55,,,Centre County,30
+Centre,30,U.S. House,12.0,WRITE-IN,,1,,,Centre County,30
+Centre,30,State Senate,34.0,EZRA NANES,DEMOCRATIC,167,,,Centre County,30
+Centre,30,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,57,,,Centre County,30
+Centre,30,State Senate,34.0,WRITE-IN,,2,,,Centre County,30
+Centre,30,State House,77.0,H SCOTT CONKLIN,DEMOCRATIC,184,,,Centre County,30
+Centre,30,State House,77.0,WRITE-IN,,8,,,Centre County,30
+Centre,31,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,420,,,Centre County,31
+Centre,31,U.S. Senate,,LOU BARLETTA,REPUBLICAN,89,,,Centre County,31
+Centre,31,U.S. Senate,,NEAL GALE,GREEN,3,,,Centre County,31
+Centre,31,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,6,,,Centre County,31
+Centre,31,U.S. Senate,,WRITE-IN,,0,,,Centre County,31
+Centre,31,Governor,,TOM WOLF,DEMOCRATIC,425,,,Centre County,31
+Centre,31,Governor,,SCOTT R WAGNER,REPUBLICAN,83,,,Centre County,31
+Centre,31,Governor,,PAUL GLOVER,GREEN,3,,,Centre County,31
+Centre,31,Governor,,KEN V KRAWCHUK,LIBERTARIAN,5,,,Centre County,31
+Centre,31,Governor,,WRITE-IN,,0,,,Centre County,31
+Centre,31,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,422,,,Centre County,31
+Centre,31,U.S. House,12.0,TOM MARINO,REPUBLICAN,96,,,Centre County,31
+Centre,31,U.S. House,12.0,WRITE-IN,,2,,,Centre County,31
+Centre,31,State Senate,34.0,EZRA NANES,DEMOCRATIC,405,,,Centre County,31
+Centre,31,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,111,,,Centre County,31
+Centre,31,State Senate,34.0,WRITE-IN,,0,,,Centre County,31
+Centre,31,State House,77.0,H SCOTT CONKLIN,DEMOCRATIC,439,,,Centre County,31
+Centre,31,State House,77.0,WRITE-IN,,5,,,Centre County,31
+Centre,32,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,446,,,Centre County,32
+Centre,32,U.S. Senate,,LOU BARLETTA,REPUBLICAN,186,,,Centre County,32
+Centre,32,U.S. Senate,,NEAL GALE,GREEN,4,,,Centre County,32
+Centre,32,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,4,,,Centre County,32
+Centre,32,U.S. Senate,,WRITE-IN,,1,,,Centre County,32
+Centre,32,Governor,,TOM WOLF,DEMOCRATIC,453,,,Centre County,32
+Centre,32,Governor,,SCOTT R WAGNER,REPUBLICAN,178,,,Centre County,32
+Centre,32,Governor,,PAUL GLOVER,GREEN,5,,,Centre County,32
+Centre,32,Governor,,KEN V KRAWCHUK,LIBERTARIAN,6,,,Centre County,32
+Centre,32,Governor,,WRITE-IN,,1,,,Centre County,32
+Centre,32,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,443,,,Centre County,32
+Centre,32,U.S. House,12.0,TOM MARINO,REPUBLICAN,203,,,Centre County,32
+Centre,32,U.S. House,12.0,WRITE-IN,,0,,,Centre County,32
+Centre,32,State Senate,34.0,EZRA NANES,DEMOCRATIC,423,,,Centre County,32
+Centre,32,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,219,,,Centre County,32
+Centre,32,State Senate,34.0,WRITE-IN,,0,,,Centre County,32
+Centre,32,State House,77.0,H SCOTT CONKLIN,DEMOCRATIC,501,,,Centre County,32
+Centre,32,State House,77.0,WRITE-IN,,11,,,Centre County,32
+Centre,33,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,327,,,Centre County,33
+Centre,33,U.S. Senate,,LOU BARLETTA,REPUBLICAN,108,,,Centre County,33
+Centre,33,U.S. Senate,,NEAL GALE,GREEN,11,,,Centre County,33
+Centre,33,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,9,,,Centre County,33
+Centre,33,U.S. Senate,,WRITE-IN,,1,,,Centre County,33
+Centre,33,Governor,,TOM WOLF,DEMOCRATIC,338,,,Centre County,33
+Centre,33,Governor,,SCOTT R WAGNER,REPUBLICAN,106,,,Centre County,33
+Centre,33,Governor,,PAUL GLOVER,GREEN,6,,,Centre County,33
+Centre,33,Governor,,KEN V KRAWCHUK,LIBERTARIAN,7,,,Centre County,33
+Centre,33,Governor,,WRITE-IN,,0,,,Centre County,33
+Centre,33,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,338,,,Centre County,33
+Centre,33,U.S. House,12.0,TOM MARINO,REPUBLICAN,118,,,Centre County,33
+Centre,33,U.S. House,12.0,WRITE-IN,,0,,,Centre County,33
+Centre,33,State Senate,34.0,EZRA NANES,DEMOCRATIC,335,,,Centre County,33
+Centre,33,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,116,,,Centre County,33
+Centre,33,State Senate,34.0,WRITE-IN,,0,,,Centre County,33
+Centre,33,State House,77.0,H SCOTT CONKLIN,DEMOCRATIC,376,,,Centre County,33
+Centre,33,State House,77.0,WRITE-IN,,19,,,Centre County,33
+Centre,34,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,448,,,Centre County,34
+Centre,34,U.S. Senate,,LOU BARLETTA,REPUBLICAN,87,,,Centre County,34
+Centre,34,U.S. Senate,,NEAL GALE,GREEN,5,,,Centre County,34
+Centre,34,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,14,,,Centre County,34
+Centre,34,U.S. Senate,,WRITE-IN,,1,,,Centre County,34
+Centre,34,Governor,,TOM WOLF,DEMOCRATIC,458,,,Centre County,34
+Centre,34,Governor,,SCOTT R WAGNER,REPUBLICAN,82,,,Centre County,34
+Centre,34,Governor,,PAUL GLOVER,GREEN,6,,,Centre County,34
+Centre,34,Governor,,KEN V KRAWCHUK,LIBERTARIAN,11,,,Centre County,34
+Centre,34,Governor,,WRITE-IN,,1,,,Centre County,34
+Centre,34,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,457,,,Centre County,34
+Centre,34,U.S. House,12.0,TOM MARINO,REPUBLICAN,98,,,Centre County,34
+Centre,34,U.S. House,12.0,WRITE-IN,,0,,,Centre County,34
+Centre,34,State Senate,34.0,EZRA NANES,DEMOCRATIC,452,,,Centre County,34
+Centre,34,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,102,,,Centre County,34
+Centre,34,State Senate,34.0,WRITE-IN,,0,,,Centre County,34
+Centre,34,State House,77.0,H SCOTT CONKLIN,DEMOCRATIC,478,,,Centre County,34
+Centre,34,State House,77.0,WRITE-IN,,8,,,Centre County,34
+Centre,35,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,43,,,Centre County,35
+Centre,35,U.S. Senate,,LOU BARLETTA,REPUBLICAN,76,,,Centre County,35
+Centre,35,U.S. Senate,,NEAL GALE,GREEN,0,,,Centre County,35
+Centre,35,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,0,,,Centre County,35
+Centre,35,U.S. Senate,,WRITE-IN,,0,,,Centre County,35
+Centre,35,Governor,,TOM WOLF,DEMOCRATIC,37,,,Centre County,35
+Centre,35,Governor,,SCOTT R WAGNER,REPUBLICAN,82,,,Centre County,35
+Centre,35,Governor,,PAUL GLOVER,GREEN,0,,,Centre County,35
+Centre,35,Governor,,KEN V KRAWCHUK,LIBERTARIAN,0,,,Centre County,35
+Centre,35,Governor,,WRITE-IN,,0,,,Centre County,35
+Centre,35,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,26,,,Centre County,35
+Centre,35,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,95,,,Centre County,35
+Centre,35,U.S. House,15.0,WRITE-IN,,0,,,Centre County,35
+Centre,35,State Senate,34.0,EZRA NANES,DEMOCRATIC,31,,,Centre County,35
+Centre,35,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,87,,,Centre County,35
+Centre,35,State Senate,34.0,WRITE-IN,,0,,,Centre County,35
+Centre,35,State House,76.0,MIKE HANNA,DEMOCRATIC,51,,,Centre County,35
+Centre,35,State House,76.0,STEPHANIE BOROWICZ,REPUBLICAN,68,,,Centre County,35
+Centre,35,State House,76.0,WRITE-IN,,1,,,Centre County,35
+Centre,36,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,363,,,Centre County,36
+Centre,36,U.S. Senate,,LOU BARLETTA,REPUBLICAN,502,,,Centre County,36
+Centre,36,U.S. Senate,,NEAL GALE,GREEN,11,,,Centre County,36
+Centre,36,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,7,,,Centre County,36
+Centre,36,U.S. Senate,,WRITE-IN,,0,,,Centre County,36
+Centre,36,Governor,,TOM WOLF,DEMOCRATIC,368,,,Centre County,36
+Centre,36,Governor,,SCOTT R WAGNER,REPUBLICAN,510,,,Centre County,36
+Centre,36,Governor,,PAUL GLOVER,GREEN,6,,,Centre County,36
+Centre,36,Governor,,KEN V KRAWCHUK,LIBERTARIAN,7,,,Centre County,36
+Centre,36,Governor,,WRITE-IN,,1,,,Centre County,36
+Centre,36,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,301,,,Centre County,36
+Centre,36,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,587,,,Centre County,36
+Centre,36,U.S. House,15.0,WRITE-IN,,0,,,Centre County,36
+Centre,36,State Senate,34.0,EZRA NANES,DEMOCRATIC,301,,,Centre County,36
+Centre,36,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,581,,,Centre County,36
+Centre,36,State Senate,34.0,WRITE-IN,,2,,,Centre County,36
+Centre,36,State House,76.0,MIKE HANNA,DEMOCRATIC,399,,,Centre County,36
+Centre,36,State House,76.0,STEPHANIE BOROWICZ,REPUBLICAN,489,,,Centre County,36
+Centre,36,State House,76.0,WRITE-IN,,0,,,Centre County,36
+Centre,37,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,565,,,Centre County,37
+Centre,37,U.S. Senate,,LOU BARLETTA,REPUBLICAN,645,,,Centre County,37
+Centre,37,U.S. Senate,,NEAL GALE,GREEN,15,,,Centre County,37
+Centre,37,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,19,,,Centre County,37
+Centre,37,U.S. Senate,,WRITE-IN,,0,,,Centre County,37
+Centre,37,Governor,,TOM WOLF,DEMOCRATIC,559,,,Centre County,37
+Centre,37,Governor,,SCOTT R WAGNER,REPUBLICAN,662,,,Centre County,37
+Centre,37,Governor,,PAUL GLOVER,GREEN,11,,,Centre County,37
+Centre,37,Governor,,KEN V KRAWCHUK,LIBERTARIAN,19,,,Centre County,37
+Centre,37,Governor,,WRITE-IN,,2,,,Centre County,37
+Centre,37,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,483,,,Centre County,37
+Centre,37,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,766,,,Centre County,37
+Centre,37,U.S. House,15.0,WRITE-IN,,2,,,Centre County,37
+Centre,37,State Senate,34.0,EZRA NANES,DEMOCRATIC,478,,,Centre County,37
+Centre,37,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,763,,,Centre County,37
+Centre,37,State Senate,34.0,WRITE-IN,,4,,,Centre County,37
+Centre,37,State House,76.0,MIKE HANNA,DEMOCRATIC,608,,,Centre County,37
+Centre,37,State House,76.0,STEPHANIE BOROWICZ,REPUBLICAN,632,,,Centre County,37
+Centre,37,State House,76.0,WRITE-IN,,5,,,Centre County,37
+Centre,38,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,162,,,Centre County,38
+Centre,38,U.S. Senate,,LOU BARLETTA,REPUBLICAN,297,,,Centre County,38
+Centre,38,U.S. Senate,,NEAL GALE,GREEN,2,,,Centre County,38
+Centre,38,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,5,,,Centre County,38
+Centre,38,U.S. Senate,,WRITE-IN,,1,,,Centre County,38
+Centre,38,Governor,,TOM WOLF,DEMOCRATIC,145,,,Centre County,38
+Centre,38,Governor,,SCOTT R WAGNER,REPUBLICAN,315,,,Centre County,38
+Centre,38,Governor,,PAUL GLOVER,GREEN,4,,,Centre County,38
+Centre,38,Governor,,KEN V KRAWCHUK,LIBERTARIAN,6,,,Centre County,38
+Centre,38,Governor,,WRITE-IN,,0,,,Centre County,38
+Centre,38,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,106,,,Centre County,38
+Centre,38,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,363,,,Centre County,38
+Centre,38,U.S. House,15.0,WRITE-IN,,0,,,Centre County,38
+Centre,38,State Senate,34.0,EZRA NANES,DEMOCRATIC,110,,,Centre County,38
+Centre,38,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,349,,,Centre County,38
+Centre,38,State Senate,34.0,WRITE-IN,,1,,,Centre County,38
+Centre,38,State House,76.0,MIKE HANNA,DEMOCRATIC,187,,,Centre County,38
+Centre,38,State House,76.0,STEPHANIE BOROWICZ,REPUBLICAN,279,,,Centre County,38
+Centre,38,State House,76.0,WRITE-IN,,0,,,Centre County,38
+Centre,39,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,226,,,Centre County,39
+Centre,39,U.S. Senate,,LOU BARLETTA,REPUBLICAN,406,,,Centre County,39
+Centre,39,U.S. Senate,,NEAL GALE,GREEN,4,,,Centre County,39
+Centre,39,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,4,,,Centre County,39
+Centre,39,U.S. Senate,,WRITE-IN,,0,,,Centre County,39
+Centre,39,Governor,,TOM WOLF,DEMOCRATIC,202,,,Centre County,39
+Centre,39,Governor,,SCOTT R WAGNER,REPUBLICAN,431,,,Centre County,39
+Centre,39,Governor,,PAUL GLOVER,GREEN,7,,,Centre County,39
+Centre,39,Governor,,KEN V KRAWCHUK,LIBERTARIAN,4,,,Centre County,39
+Centre,39,Governor,,WRITE-IN,,0,,,Centre County,39
+Centre,39,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,149,,,Centre County,39
+Centre,39,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,493,,,Centre County,39
+Centre,39,U.S. House,15.0,WRITE-IN,,0,,,Centre County,39
+Centre,39,State Senate,34.0,EZRA NANES,DEMOCRATIC,184,,,Centre County,39
+Centre,39,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,458,,,Centre County,39
+Centre,39,State Senate,34.0,WRITE-IN,,1,,,Centre County,39
+Centre,39,State House,76.0,MIKE HANNA,DEMOCRATIC,262,,,Centre County,39
+Centre,39,State House,76.0,STEPHANIE BOROWICZ,REPUBLICAN,381,,,Centre County,39
+Centre,39,State House,76.0,WRITE-IN,,1,,,Centre County,39
+Centre,40,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,67,,,Centre County,40
+Centre,40,U.S. Senate,,LOU BARLETTA,REPUBLICAN,107,,,Centre County,40
+Centre,40,U.S. Senate,,NEAL GALE,GREEN,1,,,Centre County,40
+Centre,40,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,2,,,Centre County,40
+Centre,40,U.S. Senate,,WRITE-IN,,0,,,Centre County,40
+Centre,40,Governor,,TOM WOLF,DEMOCRATIC,62,,,Centre County,40
+Centre,40,Governor,,SCOTT R WAGNER,REPUBLICAN,115,,,Centre County,40
+Centre,40,Governor,,PAUL GLOVER,GREEN,1,,,Centre County,40
+Centre,40,Governor,,KEN V KRAWCHUK,LIBERTARIAN,0,,,Centre County,40
+Centre,40,Governor,,WRITE-IN,,0,,,Centre County,40
+Centre,40,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,39,,,Centre County,40
+Centre,40,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,137,,,Centre County,40
+Centre,40,U.S. House,15.0,WRITE-IN,,0,,,Centre County,40
+Centre,40,State Senate,34.0,EZRA NANES,DEMOCRATIC,44,,,Centre County,40
+Centre,40,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,133,,,Centre County,40
+Centre,40,State Senate,34.0,WRITE-IN,,0,,,Centre County,40
+Centre,40,State House,76.0,MIKE HANNA,DEMOCRATIC,78,,,Centre County,40
+Centre,40,State House,76.0,STEPHANIE BOROWICZ,REPUBLICAN,100,,,Centre County,40
+Centre,40,State House,76.0,WRITE-IN,,0,,,Centre County,40
+Centre,41,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,1002,,,Centre County,41
+Centre,41,U.S. Senate,,LOU BARLETTA,REPUBLICAN,680,,,Centre County,41
+Centre,41,U.S. Senate,,NEAL GALE,GREEN,20,,,Centre County,41
+Centre,41,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,39,,,Centre County,41
+Centre,41,U.S. Senate,,WRITE-IN,,0,,,Centre County,41
+Centre,41,Governor,,TOM WOLF,DEMOCRATIC,1011,,,Centre County,41
+Centre,41,Governor,,SCOTT R WAGNER,REPUBLICAN,690,,,Centre County,41
+Centre,41,Governor,,PAUL GLOVER,GREEN,14,,,Centre County,41
+Centre,41,Governor,,KEN V KRAWCHUK,LIBERTARIAN,30,,,Centre County,41
+Centre,41,Governor,,WRITE-IN,,1,,,Centre County,41
+Centre,41,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,1004,,,Centre County,41
+Centre,41,U.S. House,12.0,TOM MARINO,REPUBLICAN,739,,,Centre County,41
+Centre,41,U.S. House,12.0,WRITE-IN,,0,,,Centre County,41
+Centre,41,State Senate,34.0,EZRA NANES,DEMOCRATIC,964,,,Centre County,41
+Centre,41,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,775,,,Centre County,41
+Centre,41,State Senate,34.0,WRITE-IN,,2,,,Centre County,41
+Centre,41,State House,171.0,ERIN MCCRACKEN,DEMOCRATIC,882,,,Centre County,41
+Centre,41,State House,171.0,KERRY A BENNINGHOFF,REPUBLICAN,860,,,Centre County,41
+Centre,41,State House,171.0,WRITE-IN,,1,,,Centre County,41
+Centre,42,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,810,,,Centre County,42
+Centre,42,U.S. Senate,,LOU BARLETTA,REPUBLICAN,585,,,Centre County,42
+Centre,42,U.S. Senate,,NEAL GALE,GREEN,12,,,Centre County,42
+Centre,42,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,10,,,Centre County,42
+Centre,42,U.S. Senate,,WRITE-IN,,0,,,Centre County,42
+Centre,42,Governor,,TOM WOLF,DEMOCRATIC,834,,,Centre County,42
+Centre,42,Governor,,SCOTT R WAGNER,REPUBLICAN,567,,,Centre County,42
+Centre,42,Governor,,PAUL GLOVER,GREEN,6,,,Centre County,42
+Centre,42,Governor,,KEN V KRAWCHUK,LIBERTARIAN,17,,,Centre County,42
+Centre,42,Governor,,WRITE-IN,,0,,,Centre County,42
+Centre,42,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,808,,,Centre County,42
+Centre,42,U.S. House,12.0,TOM MARINO,REPUBLICAN,619,,,Centre County,42
+Centre,42,U.S. House,12.0,WRITE-IN,,0,,,Centre County,42
+Centre,42,State Senate,34.0,EZRA NANES,DEMOCRATIC,772,,,Centre County,42
+Centre,42,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,652,,,Centre County,42
+Centre,42,State Senate,34.0,WRITE-IN,,0,,,Centre County,42
+Centre,42,State House,171.0,ERIN MCCRACKEN,DEMOCRATIC,723,,,Centre County,42
+Centre,42,State House,171.0,KERRY A BENNINGHOFF,REPUBLICAN,699,,,Centre County,42
+Centre,42,State House,171.0,WRITE-IN,,1,,,Centre County,42
+Centre,43,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,825,,,Centre County,43
+Centre,43,U.S. Senate,,LOU BARLETTA,REPUBLICAN,416,,,Centre County,43
+Centre,43,U.S. Senate,,NEAL GALE,GREEN,15,,,Centre County,43
+Centre,43,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,19,,,Centre County,43
+Centre,43,U.S. Senate,,WRITE-IN,,0,,,Centre County,43
+Centre,43,Governor,,TOM WOLF,DEMOCRATIC,834,,,Centre County,43
+Centre,43,Governor,,SCOTT R WAGNER,REPUBLICAN,412,,,Centre County,43
+Centre,43,Governor,,PAUL GLOVER,GREEN,16,,,Centre County,43
+Centre,43,Governor,,KEN V KRAWCHUK,LIBERTARIAN,14,,,Centre County,43
+Centre,43,Governor,,WRITE-IN,,0,,,Centre County,43
+Centre,43,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,813,,,Centre County,43
+Centre,43,U.S. House,12.0,TOM MARINO,REPUBLICAN,455,,,Centre County,43
+Centre,43,U.S. House,12.0,WRITE-IN,,1,,,Centre County,43
+Centre,43,State Senate,34.0,EZRA NANES,DEMOCRATIC,782,,,Centre County,43
+Centre,43,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,491,,,Centre County,43
+Centre,43,State Senate,34.0,WRITE-IN,,0,,,Centre County,43
+Centre,43,State House,171.0,ERIN MCCRACKEN,DEMOCRATIC,732,,,Centre County,43
+Centre,43,State House,171.0,KERRY A BENNINGHOFF,REPUBLICAN,544,,,Centre County,43
+Centre,43,State House,171.0,WRITE-IN,,1,,,Centre County,43
+Centre,44,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,456,,,Centre County,44
+Centre,44,U.S. Senate,,LOU BARLETTA,REPUBLICAN,180,,,Centre County,44
+Centre,44,U.S. Senate,,NEAL GALE,GREEN,7,,,Centre County,44
+Centre,44,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,9,,,Centre County,44
+Centre,44,U.S. Senate,,WRITE-IN,,0,,,Centre County,44
+Centre,44,Governor,,TOM WOLF,DEMOCRATIC,465,,,Centre County,44
+Centre,44,Governor,,SCOTT R WAGNER,REPUBLICAN,174,,,Centre County,44
+Centre,44,Governor,,PAUL GLOVER,GREEN,4,,,Centre County,44
+Centre,44,Governor,,KEN V KRAWCHUK,LIBERTARIAN,9,,,Centre County,44
+Centre,44,Governor,,WRITE-IN,,0,,,Centre County,44
+Centre,44,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,457,,,Centre County,44
+Centre,44,U.S. House,12.0,TOM MARINO,REPUBLICAN,192,,,Centre County,44
+Centre,44,U.S. House,12.0,WRITE-IN,,0,,,Centre County,44
+Centre,44,State Senate,34.0,EZRA NANES,DEMOCRATIC,434,,,Centre County,44
+Centre,44,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,215,,,Centre County,44
+Centre,44,State Senate,34.0,WRITE-IN,,0,,,Centre County,44
+Centre,44,State House,171.0,ERIN MCCRACKEN,DEMOCRATIC,429,,,Centre County,44
+Centre,44,State House,171.0,KERRY A BENNINGHOFF,REPUBLICAN,220,,,Centre County,44
+Centre,44,State House,171.0,WRITE-IN,,2,,,Centre County,44
+Centre,45,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,27,,,Centre County,45
+Centre,45,U.S. Senate,,LOU BARLETTA,REPUBLICAN,10,,,Centre County,45
+Centre,45,U.S. Senate,,NEAL GALE,GREEN,2,,,Centre County,45
+Centre,45,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,1,,,Centre County,45
+Centre,45,U.S. Senate,,WRITE-IN,,0,,,Centre County,45
+Centre,45,Governor,,TOM WOLF,DEMOCRATIC,27,,,Centre County,45
+Centre,45,Governor,,SCOTT R WAGNER,REPUBLICAN,13,,,Centre County,45
+Centre,45,Governor,,PAUL GLOVER,GREEN,0,,,Centre County,45
+Centre,45,Governor,,KEN V KRAWCHUK,LIBERTARIAN,0,,,Centre County,45
+Centre,45,Governor,,WRITE-IN,,0,,,Centre County,45
+Centre,45,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,20,,,Centre County,45
+Centre,45,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,20,,,Centre County,45
+Centre,45,U.S. House,15.0,WRITE-IN,,0,,,Centre County,45
+Centre,45,State Senate,34.0,EZRA NANES,DEMOCRATIC,21,,,Centre County,45
+Centre,45,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,18,,,Centre County,45
+Centre,45,State Senate,34.0,WRITE-IN,,0,,,Centre County,45
+Centre,45,State House,76.0,MIKE HANNA,DEMOCRATIC,31,,,Centre County,45
+Centre,45,State House,76.0,STEPHANIE BOROWICZ,REPUBLICAN,9,,,Centre County,45
+Centre,45,State House,76.0,WRITE-IN,,0,,,Centre County,45
+Centre,46,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,61,,,Centre County,46
+Centre,46,U.S. Senate,,LOU BARLETTA,REPUBLICAN,105,,,Centre County,46
+Centre,46,U.S. Senate,,NEAL GALE,GREEN,2,,,Centre County,46
+Centre,46,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,1,,,Centre County,46
+Centre,46,U.S. Senate,,WRITE-IN,,0,,,Centre County,46
+Centre,46,Governor,,TOM WOLF,DEMOCRATIC,61,,,Centre County,46
+Centre,46,Governor,,SCOTT R WAGNER,REPUBLICAN,105,,,Centre County,46
+Centre,46,Governor,,PAUL GLOVER,GREEN,0,,,Centre County,46
+Centre,46,Governor,,KEN V KRAWCHUK,LIBERTARIAN,1,,,Centre County,46
+Centre,46,Governor,,WRITE-IN,,0,,,Centre County,46
+Centre,46,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,44,,,Centre County,46
+Centre,46,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,126,,,Centre County,46
+Centre,46,U.S. House,15.0,WRITE-IN,,0,,,Centre County,46
+Centre,46,State Senate,34.0,EZRA NANES,DEMOCRATIC,53,,,Centre County,46
+Centre,46,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,113,,,Centre County,46
+Centre,46,State Senate,34.0,WRITE-IN,,0,,,Centre County,46
+Centre,46,State House,76.0,MIKE HANNA,DEMOCRATIC,71,,,Centre County,46
+Centre,46,State House,76.0,STEPHANIE BOROWICZ,REPUBLICAN,100,,,Centre County,46
+Centre,46,State House,76.0,WRITE-IN,,0,,,Centre County,46
+Centre,47,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,675,,,Centre County,47
+Centre,47,U.S. Senate,,LOU BARLETTA,REPUBLICAN,429,,,Centre County,47
+Centre,47,U.S. Senate,,NEAL GALE,GREEN,9,,,Centre County,47
+Centre,47,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,21,,,Centre County,47
+Centre,47,U.S. Senate,,WRITE-IN,,0,,,Centre County,47
+Centre,47,Governor,,TOM WOLF,DEMOCRATIC,695,,,Centre County,47
+Centre,47,Governor,,SCOTT R WAGNER,REPUBLICAN,411,,,Centre County,47
+Centre,47,Governor,,PAUL GLOVER,GREEN,3,,,Centre County,47
+Centre,47,Governor,,KEN V KRAWCHUK,LIBERTARIAN,16,,,Centre County,47
+Centre,47,Governor,,WRITE-IN,,2,,,Centre County,47
+Centre,47,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,675,,,Centre County,47
+Centre,47,U.S. House,12.0,TOM MARINO,REPUBLICAN,454,,,Centre County,47
+Centre,47,U.S. House,12.0,WRITE-IN,,0,,,Centre County,47
+Centre,47,State Senate,34.0,EZRA NANES,DEMOCRATIC,633,,,Centre County,47
+Centre,47,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,488,,,Centre County,47
+Centre,47,State Senate,34.0,WRITE-IN,,0,,,Centre County,47
+Centre,47,State House,171.0,ERIN MCCRACKEN,DEMOCRATIC,627,,,Centre County,47
+Centre,47,State House,171.0,KERRY A BENNINGHOFF,REPUBLICAN,498,,,Centre County,47
+Centre,47,State House,171.0,WRITE-IN,,0,,,Centre County,47
+Centre,48,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,487,,,Centre County,48
+Centre,48,U.S. Senate,,LOU BARLETTA,REPUBLICAN,254,,,Centre County,48
+Centre,48,U.S. Senate,,NEAL GALE,GREEN,9,,,Centre County,48
+Centre,48,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,9,,,Centre County,48
+Centre,48,U.S. Senate,,WRITE-IN,,0,,,Centre County,48
+Centre,48,Governor,,TOM WOLF,DEMOCRATIC,503,,,Centre County,48
+Centre,48,Governor,,SCOTT R WAGNER,REPUBLICAN,247,,,Centre County,48
+Centre,48,Governor,,PAUL GLOVER,GREEN,6,,,Centre County,48
+Centre,48,Governor,,KEN V KRAWCHUK,LIBERTARIAN,6,,,Centre County,48
+Centre,48,Governor,,WRITE-IN,,0,,,Centre County,48
+Centre,48,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,487,,,Centre County,48
+Centre,48,U.S. House,12.0,TOM MARINO,REPUBLICAN,270,,,Centre County,48
+Centre,48,U.S. House,12.0,WRITE-IN,,1,,,Centre County,48
+Centre,48,State Senate,34.0,EZRA NANES,DEMOCRATIC,477,,,Centre County,48
+Centre,48,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,280,,,Centre County,48
+Centre,48,State Senate,34.0,WRITE-IN,,1,,,Centre County,48
+Centre,48,State House,81.0,RICK ROGERS,DEMOCRATIC,469,,,Centre County,48
+Centre,48,State House,81.0,RICH IRVIN,REPUBLICAN,267,,,Centre County,48
+Centre,48,State House,81.0,JOSEPH P SOLOSKI,LIBERTARIAN,19,,,Centre County,48
+Centre,48,State House,81.0,WRITE-IN,,0,,,Centre County,48
+Centre,49,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,815,,,Centre County,49
+Centre,49,U.S. Senate,,LOU BARLETTA,REPUBLICAN,236,,,Centre County,49
+Centre,49,U.S. Senate,,NEAL GALE,GREEN,11,,,Centre County,49
+Centre,49,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,21,,,Centre County,49
+Centre,49,U.S. Senate,,WRITE-IN,,0,,,Centre County,49
+Centre,49,Governor,,TOM WOLF,DEMOCRATIC,818,,,Centre County,49
+Centre,49,Governor,,SCOTT R WAGNER,REPUBLICAN,229,,,Centre County,49
+Centre,49,Governor,,PAUL GLOVER,GREEN,9,,,Centre County,49
+Centre,49,Governor,,KEN V KRAWCHUK,LIBERTARIAN,19,,,Centre County,49
+Centre,49,Governor,,WRITE-IN,,2,,,Centre County,49
+Centre,49,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,814,,,Centre County,49
+Centre,49,U.S. House,12.0,TOM MARINO,REPUBLICAN,263,,,Centre County,49
+Centre,49,U.S. House,12.0,WRITE-IN,,1,,,Centre County,49
+Centre,49,State Senate,34.0,EZRA NANES,DEMOCRATIC,785,,,Centre County,49
+Centre,49,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,286,,,Centre County,49
+Centre,49,State Senate,34.0,WRITE-IN,,2,,,Centre County,49
+Centre,49,State House,77.0,H SCOTT CONKLIN,DEMOCRATIC,555,,,Centre County,49
+Centre,49,State House,77.0,WRITE-IN,,15,,,Centre County,49
+Centre,49,State House,81.0,RICK ROGERS,DEMOCRATIC,274,,,Centre County,49
+Centre,49,State House,81.0,RICH IRVIN,REPUBLICAN,124,,,Centre County,49
+Centre,49,State House,81.0,JOSEPH P SOLOSKI,LIBERTARIAN,14,,,Centre County,49
+Centre,49,State House,81.0,WRITE-IN,,0,,,Centre County,49
+Centre,50,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,419,,,Centre County,50
+Centre,50,U.S. Senate,,LOU BARLETTA,REPUBLICAN,142,,,Centre County,50
+Centre,50,U.S. Senate,,NEAL GALE,GREEN,14,,,Centre County,50
+Centre,50,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,22,,,Centre County,50
+Centre,50,U.S. Senate,,WRITE-IN,,2,,,Centre County,50
+Centre,50,Governor,,TOM WOLF,DEMOCRATIC,430,,,Centre County,50
+Centre,50,Governor,,SCOTT R WAGNER,REPUBLICAN,149,,,Centre County,50
+Centre,50,Governor,,PAUL GLOVER,GREEN,4,,,Centre County,50
+Centre,50,Governor,,KEN V KRAWCHUK,LIBERTARIAN,17,,,Centre County,50
+Centre,50,Governor,,WRITE-IN,,0,,,Centre County,50
+Centre,50,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,433,,,Centre County,50
+Centre,50,U.S. House,12.0,TOM MARINO,REPUBLICAN,163,,,Centre County,50
+Centre,50,U.S. House,12.0,WRITE-IN,,2,,,Centre County,50
+Centre,50,State Senate,34.0,EZRA NANES,DEMOCRATIC,419,,,Centre County,50
+Centre,50,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,177,,,Centre County,50
+Centre,50,State Senate,34.0,WRITE-IN,,1,,,Centre County,50
+Centre,50,State House,77.0,H SCOTT CONKLIN,DEMOCRATIC,493,,,Centre County,50
+Centre,50,State House,77.0,WRITE-IN,,21,,,Centre County,50
+Centre,51,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,613,,,Centre County,51
+Centre,51,U.S. Senate,,LOU BARLETTA,REPUBLICAN,394,,,Centre County,51
+Centre,51,U.S. Senate,,NEAL GALE,GREEN,6,,,Centre County,51
+Centre,51,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,13,,,Centre County,51
+Centre,51,U.S. Senate,,WRITE-IN,,0,,,Centre County,51
+Centre,51,Governor,,TOM WOLF,DEMOCRATIC,613,,,Centre County,51
+Centre,51,Governor,,SCOTT R WAGNER,REPUBLICAN,394,,,Centre County,51
+Centre,51,Governor,,PAUL GLOVER,GREEN,6,,,Centre County,51
+Centre,51,Governor,,KEN V KRAWCHUK,LIBERTARIAN,16,,,Centre County,51
+Centre,51,Governor,,WRITE-IN,,0,,,Centre County,51
+Centre,51,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,597,,,Centre County,51
+Centre,51,U.S. House,12.0,TOM MARINO,REPUBLICAN,430,,,Centre County,51
+Centre,51,U.S. House,12.0,WRITE-IN,,1,,,Centre County,51
+Centre,51,State Senate,34.0,EZRA NANES,DEMOCRATIC,567,,,Centre County,51
+Centre,51,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,455,,,Centre County,51
+Centre,51,State Senate,34.0,WRITE-IN,,0,,,Centre County,51
+Centre,51,State House,171.0,ERIN MCCRACKEN,DEMOCRATIC,534,,,Centre County,51
+Centre,51,State House,171.0,KERRY A BENNINGHOFF,REPUBLICAN,494,,,Centre County,51
+Centre,51,State House,171.0,WRITE-IN,,0,,,Centre County,51
+Centre,52,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,435,,,Centre County,52
+Centre,52,U.S. Senate,,LOU BARLETTA,REPUBLICAN,442,,,Centre County,52
+Centre,52,U.S. Senate,,NEAL GALE,GREEN,9,,,Centre County,52
+Centre,52,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,11,,,Centre County,52
+Centre,52,U.S. Senate,,WRITE-IN,,1,,,Centre County,52
+Centre,52,Governor,,TOM WOLF,DEMOCRATIC,426,,,Centre County,52
+Centre,52,Governor,,SCOTT R WAGNER,REPUBLICAN,456,,,Centre County,52
+Centre,52,Governor,,PAUL GLOVER,GREEN,7,,,Centre County,52
+Centre,52,Governor,,KEN V KRAWCHUK,LIBERTARIAN,8,,,Centre County,52
+Centre,52,Governor,,WRITE-IN,,2,,,Centre County,52
+Centre,52,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,414,,,Centre County,52
+Centre,52,U.S. House,12.0,TOM MARINO,REPUBLICAN,481,,,Centre County,52
+Centre,52,U.S. House,12.0,WRITE-IN,,0,,,Centre County,52
+Centre,52,State Senate,34.0,EZRA NANES,DEMOCRATIC,375,,,Centre County,52
+Centre,52,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,519,,,Centre County,52
+Centre,52,State Senate,34.0,WRITE-IN,,1,,,Centre County,52
+Centre,52,State House,81.0,RICK ROGERS,DEMOCRATIC,374,,,Centre County,52
+Centre,52,State House,81.0,RICH IRVIN,REPUBLICAN,499,,,Centre County,52
+Centre,52,State House,81.0,JOSEPH P SOLOSKI,LIBERTARIAN,26,,,Centre County,52
+Centre,52,State House,81.0,WRITE-IN,,0,,,Centre County,52
+Centre,53,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,387,,,Centre County,53
+Centre,53,U.S. Senate,,LOU BARLETTA,REPUBLICAN,531,,,Centre County,53
+Centre,53,U.S. Senate,,NEAL GALE,GREEN,9,,,Centre County,53
+Centre,53,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,7,,,Centre County,53
+Centre,53,U.S. Senate,,WRITE-IN,,0,,,Centre County,53
+Centre,53,Governor,,TOM WOLF,DEMOCRATIC,380,,,Centre County,53
+Centre,53,Governor,,SCOTT R WAGNER,REPUBLICAN,539,,,Centre County,53
+Centre,53,Governor,,PAUL GLOVER,GREEN,9,,,Centre County,53
+Centre,53,Governor,,KEN V KRAWCHUK,LIBERTARIAN,8,,,Centre County,53
+Centre,53,Governor,,WRITE-IN,,0,,,Centre County,53
+Centre,53,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,337,,,Centre County,53
+Centre,53,U.S. House,12.0,TOM MARINO,REPUBLICAN,588,,,Centre County,53
+Centre,53,U.S. House,12.0,WRITE-IN,,1,,,Centre County,53
+Centre,53,State Senate,34.0,EZRA NANES,DEMOCRATIC,322,,,Centre County,53
+Centre,53,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,609,,,Centre County,53
+Centre,53,State Senate,34.0,WRITE-IN,,1,,,Centre County,53
+Centre,53,State House,171.0,ERIN MCCRACKEN,DEMOCRATIC,266,,,Centre County,53
+Centre,53,State House,171.0,KERRY A BENNINGHOFF,REPUBLICAN,667,,,Centre County,53
+Centre,53,State House,171.0,WRITE-IN,,0,,,Centre County,53
+Centre,54,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,240,,,Centre County,54
+Centre,54,U.S. Senate,,LOU BARLETTA,REPUBLICAN,246,,,Centre County,54
+Centre,54,U.S. Senate,,NEAL GALE,GREEN,6,,,Centre County,54
+Centre,54,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,2,,,Centre County,54
+Centre,54,U.S. Senate,,WRITE-IN,,1,,,Centre County,54
+Centre,54,Governor,,TOM WOLF,DEMOCRATIC,217,,,Centre County,54
+Centre,54,Governor,,SCOTT R WAGNER,REPUBLICAN,266,,,Centre County,54
+Centre,54,Governor,,PAUL GLOVER,GREEN,1,,,Centre County,54
+Centre,54,Governor,,KEN V KRAWCHUK,LIBERTARIAN,7,,,Centre County,54
+Centre,54,Governor,,WRITE-IN,,1,,,Centre County,54
+Centre,54,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,193,,,Centre County,54
+Centre,54,U.S. House,12.0,TOM MARINO,REPUBLICAN,296,,,Centre County,54
+Centre,54,U.S. House,12.0,WRITE-IN,,1,,,Centre County,54
+Centre,54,State Senate,34.0,EZRA NANES,DEMOCRATIC,177,,,Centre County,54
+Centre,54,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,318,,,Centre County,54
+Centre,54,State Senate,34.0,WRITE-IN,,1,,,Centre County,54
+Centre,54,State House,76.0,MIKE HANNA,DEMOCRATIC,243,,,Centre County,54
+Centre,54,State House,76.0,STEPHANIE BOROWICZ,REPUBLICAN,248,,,Centre County,54
+Centre,54,State House,76.0,WRITE-IN,,1,,,Centre County,54
+Centre,55,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,276,,,Centre County,55
+Centre,55,U.S. Senate,,LOU BARLETTA,REPUBLICAN,292,,,Centre County,55
+Centre,55,U.S. Senate,,NEAL GALE,GREEN,3,,,Centre County,55
+Centre,55,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,12,,,Centre County,55
+Centre,55,U.S. Senate,,WRITE-IN,,0,,,Centre County,55
+Centre,55,Governor,,TOM WOLF,DEMOCRATIC,280,,,Centre County,55
+Centre,55,Governor,,SCOTT R WAGNER,REPUBLICAN,288,,,Centre County,55
+Centre,55,Governor,,PAUL GLOVER,GREEN,6,,,Centre County,55
+Centre,55,Governor,,KEN V KRAWCHUK,LIBERTARIAN,8,,,Centre County,55
+Centre,55,Governor,,WRITE-IN,,0,,,Centre County,55
+Centre,55,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,185,,,Centre County,55
+Centre,55,U.S. House,12.0,TOM MARINO,REPUBLICAN,201,,,Centre County,55
+Centre,55,U.S. House,12.0,WRITE-IN,,0,,,Centre County,55
+Centre,55,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,74,,,Centre County,55
+Centre,55,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,120,,,Centre County,55
+Centre,55,U.S. House,15.0,WRITE-IN,,0,,,Centre County,55
+Centre,55,State Senate,34.0,EZRA NANES,DEMOCRATIC,244,,,Centre County,55
+Centre,55,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,335,,,Centre County,55
+Centre,55,State Senate,34.0,WRITE-IN,,0,,,Centre County,55
+Centre,55,State House,81.0,RICK ROGERS,DEMOCRATIC,232,,,Centre County,55
+Centre,55,State House,81.0,RICH IRVIN,REPUBLICAN,314,,,Centre County,55
+Centre,55,State House,81.0,JOSEPH P SOLOSKI,LIBERTARIAN,33,,,Centre County,55
+Centre,55,State House,81.0,WRITE-IN,,1,,,Centre County,55
+Centre,56,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,960,,,Centre County,56
+Centre,56,U.S. Senate,,LOU BARLETTA,REPUBLICAN,660,,,Centre County,56
+Centre,56,U.S. Senate,,NEAL GALE,GREEN,12,,,Centre County,56
+Centre,56,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,20,,,Centre County,56
+Centre,56,U.S. Senate,,WRITE-IN,,0,,,Centre County,56
+Centre,56,Governor,,TOM WOLF,DEMOCRATIC,993,,,Centre County,56
+Centre,56,Governor,,SCOTT R WAGNER,REPUBLICAN,627,,,Centre County,56
+Centre,56,Governor,,PAUL GLOVER,GREEN,12,,,Centre County,56
+Centre,56,Governor,,KEN V KRAWCHUK,LIBERTARIAN,20,,,Centre County,56
+Centre,56,Governor,,WRITE-IN,,1,,,Centre County,56
+Centre,56,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,948,,,Centre County,56
+Centre,56,U.S. House,12.0,TOM MARINO,REPUBLICAN,707,,,Centre County,56
+Centre,56,U.S. House,12.0,WRITE-IN,,4,,,Centre County,56
+Centre,56,State Senate,34.0,EZRA NANES,DEMOCRATIC,887,,,Centre County,56
+Centre,56,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,762,,,Centre County,56
+Centre,56,State Senate,34.0,WRITE-IN,,2,,,Centre County,56
+Centre,56,State House,171.0,ERIN MCCRACKEN,DEMOCRATIC,860,,,Centre County,56
+Centre,56,State House,171.0,KERRY A BENNINGHOFF,REPUBLICAN,796,,,Centre County,56
+Centre,56,State House,171.0,WRITE-IN,,0,,,Centre County,56
+Centre,57,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,926,,,Centre County,57
+Centre,57,U.S. Senate,,LOU BARLETTA,REPUBLICAN,567,,,Centre County,57
+Centre,57,U.S. Senate,,NEAL GALE,GREEN,17,,,Centre County,57
+Centre,57,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,16,,,Centre County,57
+Centre,57,U.S. Senate,,WRITE-IN,,1,,,Centre County,57
+Centre,57,Governor,,TOM WOLF,DEMOCRATIC,938,,,Centre County,57
+Centre,57,Governor,,SCOTT R WAGNER,REPUBLICAN,564,,,Centre County,57
+Centre,57,Governor,,PAUL GLOVER,GREEN,17,,,Centre County,57
+Centre,57,Governor,,KEN V KRAWCHUK,LIBERTARIAN,12,,,Centre County,57
+Centre,57,Governor,,WRITE-IN,,1,,,Centre County,57
+Centre,57,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,914,,,Centre County,57
+Centre,57,U.S. House,12.0,TOM MARINO,REPUBLICAN,616,,,Centre County,57
+Centre,57,U.S. House,12.0,WRITE-IN,,3,,,Centre County,57
+Centre,57,State Senate,34.0,EZRA NANES,DEMOCRATIC,866,,,Centre County,57
+Centre,57,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,656,,,Centre County,57
+Centre,57,State Senate,34.0,WRITE-IN,,1,,,Centre County,57
+Centre,57,State House,171.0,ERIN MCCRACKEN,DEMOCRATIC,831,,,Centre County,57
+Centre,57,State House,171.0,KERRY A BENNINGHOFF,REPUBLICAN,700,,,Centre County,57
+Centre,57,State House,171.0,WRITE-IN,,1,,,Centre County,57
+Centre,58,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,136,,,Centre County,58
+Centre,58,U.S. Senate,,LOU BARLETTA,REPUBLICAN,253,,,Centre County,58
+Centre,58,U.S. Senate,,NEAL GALE,GREEN,0,,,Centre County,58
+Centre,58,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,6,,,Centre County,58
+Centre,58,U.S. Senate,,WRITE-IN,,0,,,Centre County,58
+Centre,58,Governor,,TOM WOLF,DEMOCRATIC,134,,,Centre County,58
+Centre,58,Governor,,SCOTT R WAGNER,REPUBLICAN,260,,,Centre County,58
+Centre,58,Governor,,PAUL GLOVER,GREEN,2,,,Centre County,58
+Centre,58,Governor,,KEN V KRAWCHUK,LIBERTARIAN,2,,,Centre County,58
+Centre,58,Governor,,WRITE-IN,,0,,,Centre County,58
+Centre,58,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,102,,,Centre County,58
+Centre,58,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,296,,,Centre County,58
+Centre,58,U.S. House,15.0,WRITE-IN,,0,,,Centre County,58
+Centre,58,State Senate,34.0,EZRA NANES,DEMOCRATIC,102,,,Centre County,58
+Centre,58,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,292,,,Centre County,58
+Centre,58,State Senate,34.0,WRITE-IN,,0,,,Centre County,58
+Centre,58,State House,76.0,MIKE HANNA,DEMOCRATIC,157,,,Centre County,58
+Centre,58,State House,76.0,STEPHANIE BOROWICZ,REPUBLICAN,237,,,Centre County,58
+Centre,58,State House,76.0,WRITE-IN,,0,,,Centre County,58
+Centre,59,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,205,,,Centre County,59
+Centre,59,U.S. Senate,,LOU BARLETTA,REPUBLICAN,382,,,Centre County,59
+Centre,59,U.S. Senate,,NEAL GALE,GREEN,6,,,Centre County,59
+Centre,59,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,12,,,Centre County,59
+Centre,59,U.S. Senate,,WRITE-IN,,1,,,Centre County,59
+Centre,59,Governor,,TOM WOLF,DEMOCRATIC,201,,,Centre County,59
+Centre,59,Governor,,SCOTT R WAGNER,REPUBLICAN,387,,,Centre County,59
+Centre,59,Governor,,PAUL GLOVER,GREEN,8,,,Centre County,59
+Centre,59,Governor,,KEN V KRAWCHUK,LIBERTARIAN,9,,,Centre County,59
+Centre,59,Governor,,WRITE-IN,,2,,,Centre County,59
+Centre,59,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,169,,,Centre County,59
+Centre,59,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,436,,,Centre County,59
+Centre,59,U.S. House,15.0,WRITE-IN,,1,,,Centre County,59
+Centre,59,State Senate,34.0,EZRA NANES,DEMOCRATIC,172,,,Centre County,59
+Centre,59,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,429,,,Centre County,59
+Centre,59,State Senate,34.0,WRITE-IN,,1,,,Centre County,59
+Centre,59,State House,77.0,H SCOTT CONKLIN,DEMOCRATIC,331,,,Centre County,59
+Centre,59,State House,77.0,WRITE-IN,,24,,,Centre County,59
+Centre,60,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,255,,,Centre County,60
+Centre,60,U.S. Senate,,LOU BARLETTA,REPUBLICAN,372,,,Centre County,60
+Centre,60,U.S. Senate,,NEAL GALE,GREEN,10,,,Centre County,60
+Centre,60,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,4,,,Centre County,60
+Centre,60,U.S. Senate,,WRITE-IN,,0,,,Centre County,60
+Centre,60,Governor,,TOM WOLF,DEMOCRATIC,255,,,Centre County,60
+Centre,60,Governor,,SCOTT R WAGNER,REPUBLICAN,372,,,Centre County,60
+Centre,60,Governor,,PAUL GLOVER,GREEN,7,,,Centre County,60
+Centre,60,Governor,,KEN V KRAWCHUK,LIBERTARIAN,7,,,Centre County,60
+Centre,60,Governor,,WRITE-IN,,0,,,Centre County,60
+Centre,60,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,160,,,Centre County,60
+Centre,60,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,483,,,Centre County,60
+Centre,60,U.S. House,15.0,WRITE-IN,,1,,,Centre County,60
+Centre,60,State Senate,34.0,EZRA NANES,DEMOCRATIC,163,,,Centre County,60
+Centre,60,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,468,,,Centre County,60
+Centre,60,State Senate,34.0,WRITE-IN,,0,,,Centre County,60
+Centre,60,State House,76.0,MIKE HANNA,DEMOCRATIC,283,,,Centre County,60
+Centre,60,State House,76.0,STEPHANIE BOROWICZ,REPUBLICAN,359,,,Centre County,60
+Centre,60,State House,76.0,WRITE-IN,,1,,,Centre County,60
+Centre,61,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,140,,,Centre County,61
+Centre,61,U.S. Senate,,LOU BARLETTA,REPUBLICAN,261,,,Centre County,61
+Centre,61,U.S. Senate,,NEAL GALE,GREEN,2,,,Centre County,61
+Centre,61,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,8,,,Centre County,61
+Centre,61,U.S. Senate,,WRITE-IN,,0,,,Centre County,61
+Centre,61,Governor,,TOM WOLF,DEMOCRATIC,142,,,Centre County,61
+Centre,61,Governor,,SCOTT R WAGNER,REPUBLICAN,262,,,Centre County,61
+Centre,61,Governor,,PAUL GLOVER,GREEN,1,,,Centre County,61
+Centre,61,Governor,,KEN V KRAWCHUK,LIBERTARIAN,8,,,Centre County,61
+Centre,61,Governor,,WRITE-IN,,0,,,Centre County,61
+Centre,61,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,101,,,Centre County,61
+Centre,61,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,308,,,Centre County,61
+Centre,61,U.S. House,15.0,WRITE-IN,,0,,,Centre County,61
+Centre,61,State Senate,34.0,EZRA NANES,DEMOCRATIC,99,,,Centre County,61
+Centre,61,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,303,,,Centre County,61
+Centre,61,State Senate,34.0,WRITE-IN,,1,,,Centre County,61
+Centre,61,State House,76.0,MIKE HANNA,DEMOCRATIC,164,,,Centre County,61
+Centre,61,State House,76.0,STEPHANIE BOROWICZ,REPUBLICAN,246,,,Centre County,61
+Centre,61,State House,76.0,WRITE-IN,,0,,,Centre County,61
+Centre,62,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,135,,,Centre County,62
+Centre,62,U.S. Senate,,LOU BARLETTA,REPUBLICAN,157,,,Centre County,62
+Centre,62,U.S. Senate,,NEAL GALE,GREEN,0,,,Centre County,62
+Centre,62,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,2,,,Centre County,62
+Centre,62,U.S. Senate,,WRITE-IN,,0,,,Centre County,62
+Centre,62,Governor,,TOM WOLF,DEMOCRATIC,125,,,Centre County,62
+Centre,62,Governor,,SCOTT R WAGNER,REPUBLICAN,167,,,Centre County,62
+Centre,62,Governor,,PAUL GLOVER,GREEN,3,,,Centre County,62
+Centre,62,Governor,,KEN V KRAWCHUK,LIBERTARIAN,0,,,Centre County,62
+Centre,62,Governor,,WRITE-IN,,1,,,Centre County,62
+Centre,62,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,109,,,Centre County,62
+Centre,62,U.S. House,12.0,TOM MARINO,REPUBLICAN,184,,,Centre County,62
+Centre,62,U.S. House,12.0,WRITE-IN,,0,,,Centre County,62
+Centre,62,State Senate,34.0,EZRA NANES,DEMOCRATIC,99,,,Centre County,62
+Centre,62,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,193,,,Centre County,62
+Centre,62,State Senate,34.0,WRITE-IN,,0,,,Centre County,62
+Centre,62,State House,76.0,MIKE HANNA,DEMOCRATIC,135,,,Centre County,62
+Centre,62,State House,76.0,STEPHANIE BOROWICZ,REPUBLICAN,159,,,Centre County,62
+Centre,62,State House,76.0,WRITE-IN,,0,,,Centre County,62
+Centre,63,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,49,,,Centre County,63
+Centre,63,U.S. Senate,,LOU BARLETTA,REPUBLICAN,79,,,Centre County,63
+Centre,63,U.S. Senate,,NEAL GALE,GREEN,0,,,Centre County,63
+Centre,63,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,0,,,Centre County,63
+Centre,63,U.S. Senate,,WRITE-IN,,0,,,Centre County,63
+Centre,63,Governor,,TOM WOLF,DEMOCRATIC,45,,,Centre County,63
+Centre,63,Governor,,SCOTT R WAGNER,REPUBLICAN,84,,,Centre County,63
+Centre,63,Governor,,PAUL GLOVER,GREEN,0,,,Centre County,63
+Centre,63,Governor,,KEN V KRAWCHUK,LIBERTARIAN,1,,,Centre County,63
+Centre,63,Governor,,WRITE-IN,,0,,,Centre County,63
+Centre,63,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,42,,,Centre County,63
+Centre,63,U.S. House,12.0,TOM MARINO,REPUBLICAN,86,,,Centre County,63
+Centre,63,U.S. House,12.0,WRITE-IN,,0,,,Centre County,63
+Centre,63,State Senate,34.0,EZRA NANES,DEMOCRATIC,42,,,Centre County,63
+Centre,63,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,86,,,Centre County,63
+Centre,63,State Senate,34.0,WRITE-IN,,0,,,Centre County,63
+Centre,63,State House,76.0,MIKE HANNA,DEMOCRATIC,59,,,Centre County,63
+Centre,63,State House,76.0,STEPHANIE BOROWICZ,REPUBLICAN,71,,,Centre County,63
+Centre,63,State House,76.0,WRITE-IN,,0,,,Centre County,63
+Centre,64,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,1011,,,Centre County,64
+Centre,64,U.S. Senate,,LOU BARLETTA,REPUBLICAN,444,,,Centre County,64
+Centre,64,U.S. Senate,,NEAL GALE,GREEN,7,,,Centre County,64
+Centre,64,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,25,,,Centre County,64
+Centre,64,U.S. Senate,,WRITE-IN,,1,,,Centre County,64
+Centre,64,Governor,,TOM WOLF,DEMOCRATIC,1023,,,Centre County,64
+Centre,64,Governor,,SCOTT R WAGNER,REPUBLICAN,431,,,Centre County,64
+Centre,64,Governor,,PAUL GLOVER,GREEN,6,,,Centre County,64
+Centre,64,Governor,,KEN V KRAWCHUK,LIBERTARIAN,25,,,Centre County,64
+Centre,64,Governor,,WRITE-IN,,3,,,Centre County,64
+Centre,64,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,967,,,Centre County,64
+Centre,64,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,527,,,Centre County,64
+Centre,64,U.S. House,15.0,WRITE-IN,,0,,,Centre County,64
+Centre,64,State Senate,34.0,EZRA NANES,DEMOCRATIC,920,,,Centre County,64
+Centre,64,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,567,,,Centre County,64
+Centre,64,State Senate,34.0,WRITE-IN,,0,,,Centre County,64
+Centre,64,State House,77.0,H SCOTT CONKLIN,DEMOCRATIC,1121,,,Centre County,64
+Centre,64,State House,77.0,WRITE-IN,,28,,,Centre County,64
+Centre,65,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,909,,,Centre County,65
+Centre,65,U.S. Senate,,LOU BARLETTA,REPUBLICAN,664,,,Centre County,65
+Centre,65,U.S. Senate,,NEAL GALE,GREEN,8,,,Centre County,65
+Centre,65,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,23,,,Centre County,65
+Centre,65,U.S. Senate,,WRITE-IN,,0,,,Centre County,65
+Centre,65,Governor,,TOM WOLF,DEMOCRATIC,928,,,Centre County,65
+Centre,65,Governor,,SCOTT R WAGNER,REPUBLICAN,627,,,Centre County,65
+Centre,65,Governor,,PAUL GLOVER,GREEN,9,,,Centre County,65
+Centre,65,Governor,,KEN V KRAWCHUK,LIBERTARIAN,30,,,Centre County,65
+Centre,65,Governor,,WRITE-IN,,0,,,Centre County,65
+Centre,65,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,848,,,Centre County,65
+Centre,65,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,742,,,Centre County,65
+Centre,65,U.S. House,15.0,WRITE-IN,,0,,,Centre County,65
+Centre,65,State Senate,34.0,EZRA NANES,DEMOCRATIC,858,,,Centre County,65
+Centre,65,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,728,,,Centre County,65
+Centre,65,State Senate,34.0,WRITE-IN,,1,,,Centre County,65
+Centre,65,State House,81.0,RICK ROGERS,DEMOCRATIC,812,,,Centre County,65
+Centre,65,State House,81.0,RICH IRVIN,REPUBLICAN,682,,,Centre County,65
+Centre,65,State House,81.0,JOSEPH P SOLOSKI,LIBERTARIAN,85,,,Centre County,65
+Centre,65,State House,81.0,WRITE-IN,,1,,,Centre County,65
+Centre,66,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,468,,,Centre County,66
+Centre,66,U.S. Senate,,LOU BARLETTA,REPUBLICAN,183,,,Centre County,66
+Centre,66,U.S. Senate,,NEAL GALE,GREEN,2,,,Centre County,66
+Centre,66,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,10,,,Centre County,66
+Centre,66,U.S. Senate,,WRITE-IN,,0,,,Centre County,66
+Centre,66,Governor,,TOM WOLF,DEMOCRATIC,468,,,Centre County,66
+Centre,66,Governor,,SCOTT R WAGNER,REPUBLICAN,179,,,Centre County,66
+Centre,66,Governor,,PAUL GLOVER,GREEN,3,,,Centre County,66
+Centre,66,Governor,,KEN V KRAWCHUK,LIBERTARIAN,13,,,Centre County,66
+Centre,66,Governor,,WRITE-IN,,0,,,Centre County,66
+Centre,66,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,453,,,Centre County,66
+Centre,66,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,208,,,Centre County,66
+Centre,66,U.S. House,15.0,WRITE-IN,,0,,,Centre County,66
+Centre,66,State Senate,34.0,EZRA NANES,DEMOCRATIC,448,,,Centre County,66
+Centre,66,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,212,,,Centre County,66
+Centre,66,State Senate,34.0,WRITE-IN,,0,,,Centre County,66
+Centre,66,State House,81.0,RICK ROGERS,DEMOCRATIC,449,,,Centre County,66
+Centre,66,State House,81.0,RICH IRVIN,REPUBLICAN,192,,,Centre County,66
+Centre,66,State House,81.0,JOSEPH P SOLOSKI,LIBERTARIAN,20,,,Centre County,66
+Centre,66,State House,81.0,WRITE-IN,,0,,,Centre County,66
+Centre,67,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,668,,,Centre County,67
+Centre,67,U.S. Senate,,LOU BARLETTA,REPUBLICAN,211,,,Centre County,67
+Centre,67,U.S. Senate,,NEAL GALE,GREEN,26,,,Centre County,67
+Centre,67,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,21,,,Centre County,67
+Centre,67,U.S. Senate,,WRITE-IN,,1,,,Centre County,67
+Centre,67,Governor,,TOM WOLF,DEMOCRATIC,678,,,Centre County,67
+Centre,67,Governor,,SCOTT R WAGNER,REPUBLICAN,220,,,Centre County,67
+Centre,67,Governor,,PAUL GLOVER,GREEN,10,,,Centre County,67
+Centre,67,Governor,,KEN V KRAWCHUK,LIBERTARIAN,18,,,Centre County,67
+Centre,67,Governor,,WRITE-IN,,0,,,Centre County,67
+Centre,67,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,671,,,Centre County,67
+Centre,67,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,250,,,Centre County,67
+Centre,67,U.S. House,15.0,WRITE-IN,,3,,,Centre County,67
+Centre,67,State Senate,34.0,EZRA NANES,DEMOCRATIC,679,,,Centre County,67
+Centre,67,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,243,,,Centre County,67
+Centre,67,State Senate,34.0,WRITE-IN,,0,,,Centre County,67
+Centre,67,State House,77.0,H SCOTT CONKLIN,DEMOCRATIC,767,,,Centre County,67
+Centre,67,State House,77.0,WRITE-IN,,17,,,Centre County,67
+Centre,68,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,1000,,,Centre County,68
+Centre,68,U.S. Senate,,LOU BARLETTA,REPUBLICAN,417,,,Centre County,68
+Centre,68,U.S. Senate,,NEAL GALE,GREEN,10,,,Centre County,68
+Centre,68,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,23,,,Centre County,68
+Centre,68,U.S. Senate,,WRITE-IN,,0,,,Centre County,68
+Centre,68,Governor,,TOM WOLF,DEMOCRATIC,1012,,,Centre County,68
+Centre,68,Governor,,SCOTT R WAGNER,REPUBLICAN,406,,,Centre County,68
+Centre,68,Governor,,PAUL GLOVER,GREEN,9,,,Centre County,68
+Centre,68,Governor,,KEN V KRAWCHUK,LIBERTARIAN,20,,,Centre County,68
+Centre,68,Governor,,WRITE-IN,,0,,,Centre County,68
+Centre,68,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,946,,,Centre County,68
+Centre,68,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,500,,,Centre County,68
+Centre,68,U.S. House,15.0,WRITE-IN,,0,,,Centre County,68
+Centre,68,State Senate,34.0,EZRA NANES,DEMOCRATIC,943,,,Centre County,68
+Centre,68,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,502,,,Centre County,68
+Centre,68,State Senate,34.0,WRITE-IN,,0,,,Centre County,68
+Centre,68,State House,81.0,RICK ROGERS,DEMOCRATIC,942,,,Centre County,68
+Centre,68,State House,81.0,RICH IRVIN,REPUBLICAN,444,,,Centre County,68
+Centre,68,State House,81.0,JOSEPH P SOLOSKI,LIBERTARIAN,54,,,Centre County,68
+Centre,68,State House,81.0,WRITE-IN,,2,,,Centre County,68
+Centre,69,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,187,,,Centre County,69
+Centre,69,U.S. Senate,,LOU BARLETTA,REPUBLICAN,250,,,Centre County,69
+Centre,69,U.S. Senate,,NEAL GALE,GREEN,3,,,Centre County,69
+Centre,69,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,3,,,Centre County,69
+Centre,69,U.S. Senate,,WRITE-IN,,0,,,Centre County,69
+Centre,69,Governor,,TOM WOLF,DEMOCRATIC,184,,,Centre County,69
+Centre,69,Governor,,SCOTT R WAGNER,REPUBLICAN,251,,,Centre County,69
+Centre,69,Governor,,PAUL GLOVER,GREEN,2,,,Centre County,69
+Centre,69,Governor,,KEN V KRAWCHUK,LIBERTARIAN,3,,,Centre County,69
+Centre,69,Governor,,WRITE-IN,,0,,,Centre County,69
+Centre,69,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,159,,,Centre County,69
+Centre,69,U.S. House,12.0,TOM MARINO,REPUBLICAN,283,,,Centre County,69
+Centre,69,U.S. House,12.0,WRITE-IN,,0,,,Centre County,69
+Centre,69,State Senate,34.0,EZRA NANES,DEMOCRATIC,147,,,Centre County,69
+Centre,69,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,292,,,Centre County,69
+Centre,69,State Senate,34.0,WRITE-IN,,0,,,Centre County,69
+Centre,69,State House,171.0,ERIN MCCRACKEN,DEMOCRATIC,127,,,Centre County,69
+Centre,69,State House,171.0,KERRY A BENNINGHOFF,REPUBLICAN,314,,,Centre County,69
+Centre,69,State House,171.0,WRITE-IN,,0,,,Centre County,69
+Centre,70,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,287,,,Centre County,70
+Centre,70,U.S. Senate,,LOU BARLETTA,REPUBLICAN,394,,,Centre County,70
+Centre,70,U.S. Senate,,NEAL GALE,GREEN,6,,,Centre County,70
+Centre,70,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,10,,,Centre County,70
+Centre,70,U.S. Senate,,WRITE-IN,,1,,,Centre County,70
+Centre,70,Governor,,TOM WOLF,DEMOCRATIC,287,,,Centre County,70
+Centre,70,Governor,,SCOTT R WAGNER,REPUBLICAN,405,,,Centre County,70
+Centre,70,Governor,,PAUL GLOVER,GREEN,6,,,Centre County,70
+Centre,70,Governor,,KEN V KRAWCHUK,LIBERTARIAN,9,,,Centre County,70
+Centre,70,Governor,,WRITE-IN,,1,,,Centre County,70
+Centre,70,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,248,,,Centre County,70
+Centre,70,U.S. House,12.0,TOM MARINO,REPUBLICAN,450,,,Centre County,70
+Centre,70,U.S. House,12.0,WRITE-IN,,1,,,Centre County,70
+Centre,70,State Senate,34.0,EZRA NANES,DEMOCRATIC,217,,,Centre County,70
+Centre,70,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,484,,,Centre County,70
+Centre,70,State Senate,34.0,WRITE-IN,,0,,,Centre County,70
+Centre,70,State House,171.0,ERIN MCCRACKEN,DEMOCRATIC,186,,,Centre County,70
+Centre,70,State House,171.0,KERRY A BENNINGHOFF,REPUBLICAN,521,,,Centre County,70
+Centre,70,State House,171.0,WRITE-IN,,0,,,Centre County,70
+Centre,71,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,450,,,Centre County,71
+Centre,71,U.S. Senate,,LOU BARLETTA,REPUBLICAN,571,,,Centre County,71
+Centre,71,U.S. Senate,,NEAL GALE,GREEN,5,,,Centre County,71
+Centre,71,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,23,,,Centre County,71
+Centre,71,U.S. Senate,,WRITE-IN,,1,,,Centre County,71
+Centre,71,Governor,,TOM WOLF,DEMOCRATIC,452,,,Centre County,71
+Centre,71,Governor,,SCOTT R WAGNER,REPUBLICAN,577,,,Centre County,71
+Centre,71,Governor,,PAUL GLOVER,GREEN,4,,,Centre County,71
+Centre,71,Governor,,KEN V KRAWCHUK,LIBERTARIAN,15,,,Centre County,71
+Centre,71,Governor,,WRITE-IN,,1,,,Centre County,71
+Centre,71,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,413,,,Centre County,71
+Centre,71,U.S. House,12.0,TOM MARINO,REPUBLICAN,627,,,Centre County,71
+Centre,71,U.S. House,12.0,WRITE-IN,,0,,,Centre County,71
+Centre,71,State Senate,34.0,EZRA NANES,DEMOCRATIC,375,,,Centre County,71
+Centre,71,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,666,,,Centre County,71
+Centre,71,State Senate,34.0,WRITE-IN,,0,,,Centre County,71
+Centre,71,State House,171.0,ERIN MCCRACKEN,DEMOCRATIC,337,,,Centre County,71
+Centre,71,State House,171.0,KERRY A BENNINGHOFF,REPUBLICAN,713,,,Centre County,71
+Centre,71,State House,171.0,WRITE-IN,,1,,,Centre County,71
+Centre,72,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,309,,,Centre County,72
+Centre,72,U.S. Senate,,LOU BARLETTA,REPUBLICAN,444,,,Centre County,72
+Centre,72,U.S. Senate,,NEAL GALE,GREEN,3,,,Centre County,72
+Centre,72,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,13,,,Centre County,72
+Centre,72,U.S. Senate,,WRITE-IN,,1,,,Centre County,72
+Centre,72,Governor,,TOM WOLF,DEMOCRATIC,315,,,Centre County,72
+Centre,72,Governor,,SCOTT R WAGNER,REPUBLICAN,437,,,Centre County,72
+Centre,72,Governor,,PAUL GLOVER,GREEN,6,,,Centre County,72
+Centre,72,Governor,,KEN V KRAWCHUK,LIBERTARIAN,9,,,Centre County,72
+Centre,72,Governor,,WRITE-IN,,3,,,Centre County,72
+Centre,72,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,231,,,Centre County,72
+Centre,72,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,542,,,Centre County,72
+Centre,72,U.S. House,15.0,WRITE-IN,,1,,,Centre County,72
+Centre,72,State Senate,34.0,EZRA NANES,DEMOCRATIC,229,,,Centre County,72
+Centre,72,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,542,,,Centre County,72
+Centre,72,State Senate,34.0,WRITE-IN,,0,,,Centre County,72
+Centre,72,State House,77.0,H SCOTT CONKLIN,DEMOCRATIC,521,,,Centre County,72
+Centre,72,State House,77.0,WRITE-IN,,22,,,Centre County,72
+Centre,73,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,63,,,Centre County,73
+Centre,73,U.S. Senate,,LOU BARLETTA,REPUBLICAN,102,,,Centre County,73
+Centre,73,U.S. Senate,,NEAL GALE,GREEN,1,,,Centre County,73
+Centre,73,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,2,,,Centre County,73
+Centre,73,U.S. Senate,,WRITE-IN,,0,,,Centre County,73
+Centre,73,Governor,,TOM WOLF,DEMOCRATIC,59,,,Centre County,73
+Centre,73,Governor,,SCOTT R WAGNER,REPUBLICAN,106,,,Centre County,73
+Centre,73,Governor,,PAUL GLOVER,GREEN,1,,,Centre County,73
+Centre,73,Governor,,KEN V KRAWCHUK,LIBERTARIAN,2,,,Centre County,73
+Centre,73,Governor,,WRITE-IN,,0,,,Centre County,73
+Centre,73,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,44,,,Centre County,73
+Centre,73,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,123,,,Centre County,73
+Centre,73,U.S. House,15.0,WRITE-IN,,0,,,Centre County,73
+Centre,73,State Senate,34.0,EZRA NANES,DEMOCRATIC,48,,,Centre County,73
+Centre,73,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,118,,,Centre County,73
+Centre,73,State Senate,34.0,WRITE-IN,,1,,,Centre County,73
+Centre,73,State House,77.0,H SCOTT CONKLIN,DEMOCRATIC,104,,,Centre County,73
+Centre,73,State House,77.0,WRITE-IN,,4,,,Centre County,73
+Centre,74,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,30,,,Centre County,74
+Centre,74,U.S. Senate,,LOU BARLETTA,REPUBLICAN,44,,,Centre County,74
+Centre,74,U.S. Senate,,NEAL GALE,GREEN,1,,,Centre County,74
+Centre,74,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,1,,,Centre County,74
+Centre,74,U.S. Senate,,WRITE-IN,,0,,,Centre County,74
+Centre,74,Governor,,TOM WOLF,DEMOCRATIC,31,,,Centre County,74
+Centre,74,Governor,,SCOTT R WAGNER,REPUBLICAN,45,,,Centre County,74
+Centre,74,Governor,,PAUL GLOVER,GREEN,1,,,Centre County,74
+Centre,74,Governor,,KEN V KRAWCHUK,LIBERTARIAN,0,,,Centre County,74
+Centre,74,Governor,,WRITE-IN,,0,,,Centre County,74
+Centre,74,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,29,,,Centre County,74
+Centre,74,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,47,,,Centre County,74
+Centre,74,U.S. House,15.0,WRITE-IN,,0,,,Centre County,74
+Centre,74,State Senate,34.0,EZRA NANES,DEMOCRATIC,26,,,Centre County,74
+Centre,74,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,50,,,Centre County,74
+Centre,74,State Senate,34.0,WRITE-IN,,0,,,Centre County,74
+Centre,74,State House,77.0,H SCOTT CONKLIN,DEMOCRATIC,49,,,Centre County,74
+Centre,74,State House,77.0,WRITE-IN,,3,,,Centre County,74
+Centre,75,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,108,,,Centre County,75
+Centre,75,U.S. Senate,,LOU BARLETTA,REPUBLICAN,181,,,Centre County,75
+Centre,75,U.S. Senate,,NEAL GALE,GREEN,2,,,Centre County,75
+Centre,75,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,0,,,Centre County,75
+Centre,75,U.S. Senate,,WRITE-IN,,0,,,Centre County,75
+Centre,75,Governor,,TOM WOLF,DEMOCRATIC,98,,,Centre County,75
+Centre,75,Governor,,SCOTT R WAGNER,REPUBLICAN,193,,,Centre County,75
+Centre,75,Governor,,PAUL GLOVER,GREEN,1,,,Centre County,75
+Centre,75,Governor,,KEN V KRAWCHUK,LIBERTARIAN,1,,,Centre County,75
+Centre,75,Governor,,WRITE-IN,,0,,,Centre County,75
+Centre,75,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,83,,,Centre County,75
+Centre,75,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,209,,,Centre County,75
+Centre,75,U.S. House,15.0,WRITE-IN,,0,,,Centre County,75
+Centre,75,State Senate,34.0,EZRA NANES,DEMOCRATIC,77,,,Centre County,75
+Centre,75,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,214,,,Centre County,75
+Centre,75,State Senate,34.0,WRITE-IN,,0,,,Centre County,75
+Centre,75,State House,77.0,H SCOTT CONKLIN,DEMOCRATIC,189,,,Centre County,75
+Centre,75,State House,77.0,WRITE-IN,,7,,,Centre County,75
+Centre,76,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,199,,,Centre County,76
+Centre,76,U.S. Senate,,LOU BARLETTA,REPUBLICAN,252,,,Centre County,76
+Centre,76,U.S. Senate,,NEAL GALE,GREEN,3,,,Centre County,76
+Centre,76,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,6,,,Centre County,76
+Centre,76,U.S. Senate,,WRITE-IN,,0,,,Centre County,76
+Centre,76,Governor,,TOM WOLF,DEMOCRATIC,176,,,Centre County,76
+Centre,76,Governor,,SCOTT R WAGNER,REPUBLICAN,281,,,Centre County,76
+Centre,76,Governor,,PAUL GLOVER,GREEN,2,,,Centre County,76
+Centre,76,Governor,,KEN V KRAWCHUK,LIBERTARIAN,4,,,Centre County,76
+Centre,76,Governor,,WRITE-IN,,0,,,Centre County,76
+Centre,76,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,130,,,Centre County,76
+Centre,76,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,331,,,Centre County,76
+Centre,76,U.S. House,15.0,WRITE-IN,,0,,,Centre County,76
+Centre,76,State Senate,34.0,EZRA NANES,DEMOCRATIC,139,,,Centre County,76
+Centre,76,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,317,,,Centre County,76
+Centre,76,State Senate,34.0,WRITE-IN,,0,,,Centre County,76
+Centre,76,State House,76.0,MIKE HANNA,DEMOCRATIC,220,,,Centre County,76
+Centre,76,State House,76.0,STEPHANIE BOROWICZ,REPUBLICAN,242,,,Centre County,76
+Centre,76,State House,76.0,WRITE-IN,,0,,,Centre County,76
+Centre,77,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,95,,,Centre County,77
+Centre,77,U.S. Senate,,LOU BARLETTA,REPUBLICAN,127,,,Centre County,77
+Centre,77,U.S. Senate,,NEAL GALE,GREEN,1,,,Centre County,77
+Centre,77,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,6,,,Centre County,77
+Centre,77,U.S. Senate,,WRITE-IN,,0,,,Centre County,77
+Centre,77,Governor,,TOM WOLF,DEMOCRATIC,83,,,Centre County,77
+Centre,77,Governor,,SCOTT R WAGNER,REPUBLICAN,142,,,Centre County,77
+Centre,77,Governor,,PAUL GLOVER,GREEN,3,,,Centre County,77
+Centre,77,Governor,,KEN V KRAWCHUK,LIBERTARIAN,3,,,Centre County,77
+Centre,77,Governor,,WRITE-IN,,0,,,Centre County,77
+Centre,77,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,53,,,Centre County,77
+Centre,77,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,175,,,Centre County,77
+Centre,77,U.S. House,15.0,WRITE-IN,,0,,,Centre County,77
+Centre,77,State Senate,34.0,EZRA NANES,DEMOCRATIC,57,,,Centre County,77
+Centre,77,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,170,,,Centre County,77
+Centre,77,State Senate,34.0,WRITE-IN,,0,,,Centre County,77
+Centre,77,State House,76.0,MIKE HANNA,DEMOCRATIC,116,,,Centre County,77
+Centre,77,State House,76.0,STEPHANIE BOROWICZ,REPUBLICAN,112,,,Centre County,77
+Centre,77,State House,76.0,WRITE-IN,,0,,,Centre County,77
+Centre,78,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,446,,,Centre County,78
+Centre,78,U.S. Senate,,LOU BARLETTA,REPUBLICAN,430,,,Centre County,78
+Centre,78,U.S. Senate,,NEAL GALE,GREEN,6,,,Centre County,78
+Centre,78,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,16,,,Centre County,78
+Centre,78,U.S. Senate,,WRITE-IN,,0,,,Centre County,78
+Centre,78,Governor,,TOM WOLF,DEMOCRATIC,464,,,Centre County,78
+Centre,78,Governor,,SCOTT R WAGNER,REPUBLICAN,426,,,Centre County,78
+Centre,78,Governor,,PAUL GLOVER,GREEN,3,,,Centre County,78
+Centre,78,Governor,,KEN V KRAWCHUK,LIBERTARIAN,9,,,Centre County,78
+Centre,78,Governor,,WRITE-IN,,0,,,Centre County,78
+Centre,78,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,397,,,Centre County,78
+Centre,78,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,502,,,Centre County,78
+Centre,78,U.S. House,15.0,WRITE-IN,,2,,,Centre County,78
+Centre,78,State Senate,34.0,EZRA NANES,DEMOCRATIC,384,,,Centre County,78
+Centre,78,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,510,,,Centre County,78
+Centre,78,State Senate,34.0,WRITE-IN,,1,,,Centre County,78
+Centre,78,State House,171.0,ERIN MCCRACKEN,DEMOCRATIC,342,,,Centre County,78
+Centre,78,State House,171.0,KERRY A BENNINGHOFF,REPUBLICAN,559,,,Centre County,78
+Centre,78,State House,171.0,WRITE-IN,,1,,,Centre County,78
+Centre,79,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,286,,,Centre County,79
+Centre,79,U.S. Senate,,LOU BARLETTA,REPUBLICAN,301,,,Centre County,79
+Centre,79,U.S. Senate,,NEAL GALE,GREEN,10,,,Centre County,79
+Centre,79,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,18,,,Centre County,79
+Centre,79,U.S. Senate,,WRITE-IN,,0,,,Centre County,79
+Centre,79,Governor,,TOM WOLF,DEMOCRATIC,287,,,Centre County,79
+Centre,79,Governor,,SCOTT R WAGNER,REPUBLICAN,309,,,Centre County,79
+Centre,79,Governor,,PAUL GLOVER,GREEN,6,,,Centre County,79
+Centre,79,Governor,,KEN V KRAWCHUK,LIBERTARIAN,13,,,Centre County,79
+Centre,79,Governor,,WRITE-IN,,0,,,Centre County,79
+Centre,79,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,245,,,Centre County,79
+Centre,79,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,369,,,Centre County,79
+Centre,79,U.S. House,15.0,WRITE-IN,,0,,,Centre County,79
+Centre,79,State Senate,34.0,EZRA NANES,DEMOCRATIC,254,,,Centre County,79
+Centre,79,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,358,,,Centre County,79
+Centre,79,State Senate,34.0,WRITE-IN,,1,,,Centre County,79
+Centre,79,State House,171.0,ERIN MCCRACKEN,DEMOCRATIC,196,,,Centre County,79
+Centre,79,State House,171.0,KERRY A BENNINGHOFF,REPUBLICAN,422,,,Centre County,79
+Centre,79,State House,171.0,WRITE-IN,,0,,,Centre County,79
+Centre,80,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,169,,,Centre County,80
+Centre,80,U.S. Senate,,LOU BARLETTA,REPUBLICAN,184,,,Centre County,80
+Centre,80,U.S. Senate,,NEAL GALE,GREEN,2,,,Centre County,80
+Centre,80,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,15,,,Centre County,80
+Centre,80,U.S. Senate,,WRITE-IN,,0,,,Centre County,80
+Centre,80,Governor,,TOM WOLF,DEMOCRATIC,151,,,Centre County,80
+Centre,80,Governor,,SCOTT R WAGNER,REPUBLICAN,202,,,Centre County,80
+Centre,80,Governor,,PAUL GLOVER,GREEN,5,,,Centre County,80
+Centre,80,Governor,,KEN V KRAWCHUK,LIBERTARIAN,13,,,Centre County,80
+Centre,80,Governor,,WRITE-IN,,0,,,Centre County,80
+Centre,80,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,130,,,Centre County,80
+Centre,80,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,242,,,Centre County,80
+Centre,80,U.S. House,15.0,WRITE-IN,,0,,,Centre County,80
+Centre,80,State Senate,34.0,EZRA NANES,DEMOCRATIC,141,,,Centre County,80
+Centre,80,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,230,,,Centre County,80
+Centre,80,State Senate,34.0,WRITE-IN,,0,,,Centre County,80
+Centre,80,State House,171.0,ERIN MCCRACKEN,DEMOCRATIC,117,,,Centre County,80
+Centre,80,State House,171.0,KERRY A BENNINGHOFF,REPUBLICAN,254,,,Centre County,80
+Centre,80,State House,171.0,WRITE-IN,,0,,,Centre County,80
+Centre,81,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,96,,,Centre County,81
+Centre,81,U.S. Senate,,LOU BARLETTA,REPUBLICAN,256,,,Centre County,81
+Centre,81,U.S. Senate,,NEAL GALE,GREEN,1,,,Centre County,81
+Centre,81,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,7,,,Centre County,81
+Centre,81,U.S. Senate,,WRITE-IN,,0,,,Centre County,81
+Centre,81,Governor,,TOM WOLF,DEMOCRATIC,98,,,Centre County,81
+Centre,81,Governor,,SCOTT R WAGNER,REPUBLICAN,259,,,Centre County,81
+Centre,81,Governor,,PAUL GLOVER,GREEN,0,,,Centre County,81
+Centre,81,Governor,,KEN V KRAWCHUK,LIBERTARIAN,5,,,Centre County,81
+Centre,81,Governor,,WRITE-IN,,0,,,Centre County,81
+Centre,81,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,75,,,Centre County,81
+Centre,81,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,284,,,Centre County,81
+Centre,81,U.S. House,15.0,WRITE-IN,,0,,,Centre County,81
+Centre,81,State Senate,34.0,EZRA NANES,DEMOCRATIC,76,,,Centre County,81
+Centre,81,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,281,,,Centre County,81
+Centre,81,State Senate,34.0,WRITE-IN,,0,,,Centre County,81
+Centre,81,State House,81.0,RICK ROGERS,DEMOCRATIC,74,,,Centre County,81
+Centre,81,State House,81.0,RICH IRVIN,REPUBLICAN,271,,,Centre County,81
+Centre,81,State House,81.0,JOSEPH P SOLOSKI,LIBERTARIAN,14,,,Centre County,81
+Centre,81,State House,81.0,WRITE-IN,,0,,,Centre County,81
+Centre,82,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,193,,,Centre County,82
+Centre,82,U.S. Senate,,LOU BARLETTA,REPUBLICAN,442,,,Centre County,82
+Centre,82,U.S. Senate,,NEAL GALE,GREEN,6,,,Centre County,82
+Centre,82,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,4,,,Centre County,82
+Centre,82,U.S. Senate,,WRITE-IN,,0,,,Centre County,82
+Centre,82,Governor,,TOM WOLF,DEMOCRATIC,177,,,Centre County,82
+Centre,82,Governor,,SCOTT R WAGNER,REPUBLICAN,457,,,Centre County,82
+Centre,82,Governor,,PAUL GLOVER,GREEN,6,,,Centre County,82
+Centre,82,Governor,,KEN V KRAWCHUK,LIBERTARIAN,2,,,Centre County,82
+Centre,82,Governor,,WRITE-IN,,0,,,Centre County,82
+Centre,82,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,136,,,Centre County,82
+Centre,82,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,509,,,Centre County,82
+Centre,82,U.S. House,15.0,WRITE-IN,,0,,,Centre County,82
+Centre,82,State Senate,34.0,EZRA NANES,DEMOCRATIC,144,,,Centre County,82
+Centre,82,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,498,,,Centre County,82
+Centre,82,State Senate,34.0,WRITE-IN,,0,,,Centre County,82
+Centre,82,State House,76.0,MIKE HANNA,DEMOCRATIC,219,,,Centre County,82
+Centre,82,State House,76.0,STEPHANIE BOROWICZ,REPUBLICAN,427,,,Centre County,82
+Centre,82,State House,76.0,WRITE-IN,,0,,,Centre County,82
+Centre,83,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,246,,,Centre County,83
+Centre,83,U.S. Senate,,LOU BARLETTA,REPUBLICAN,424,,,Centre County,83
+Centre,83,U.S. Senate,,NEAL GALE,GREEN,6,,,Centre County,83
+Centre,83,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,10,,,Centre County,83
+Centre,83,U.S. Senate,,WRITE-IN,,0,,,Centre County,83
+Centre,83,Governor,,TOM WOLF,DEMOCRATIC,231,,,Centre County,83
+Centre,83,Governor,,SCOTT R WAGNER,REPUBLICAN,437,,,Centre County,83
+Centre,83,Governor,,PAUL GLOVER,GREEN,8,,,Centre County,83
+Centre,83,Governor,,KEN V KRAWCHUK,LIBERTARIAN,9,,,Centre County,83
+Centre,83,Governor,,WRITE-IN,,2,,,Centre County,83
+Centre,83,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,177,,,Centre County,83
+Centre,83,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,513,,,Centre County,83
+Centre,83,U.S. House,15.0,WRITE-IN,,0,,,Centre County,83
+Centre,83,State Senate,34.0,EZRA NANES,DEMOCRATIC,181,,,Centre County,83
+Centre,83,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,502,,,Centre County,83
+Centre,83,State Senate,34.0,WRITE-IN,,0,,,Centre County,83
+Centre,83,State House,171.0,ERIN MCCRACKEN,DEMOCRATIC,150,,,Centre County,83
+Centre,83,State House,171.0,KERRY A BENNINGHOFF,REPUBLICAN,536,,,Centre County,83
+Centre,83,State House,171.0,WRITE-IN,,1,,,Centre County,83
+Centre,84,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,593,,,Centre County,84
+Centre,84,U.S. Senate,,LOU BARLETTA,REPUBLICAN,766,,,Centre County,84
+Centre,84,U.S. Senate,,NEAL GALE,GREEN,2,,,Centre County,84
+Centre,84,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,16,,,Centre County,84
+Centre,84,U.S. Senate,,WRITE-IN,,0,,,Centre County,84
+Centre,84,Governor,,TOM WOLF,DEMOCRATIC,590,,,Centre County,84
+Centre,84,Governor,,SCOTT R WAGNER,REPUBLICAN,773,,,Centre County,84
+Centre,84,Governor,,PAUL GLOVER,GREEN,8,,,Centre County,84
+Centre,84,Governor,,KEN V KRAWCHUK,LIBERTARIAN,13,,,Centre County,84
+Centre,84,Governor,,WRITE-IN,,0,,,Centre County,84
+Centre,84,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,468,,,Centre County,84
+Centre,84,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,912,,,Centre County,84
+Centre,84,U.S. House,15.0,WRITE-IN,,0,,,Centre County,84
+Centre,84,State Senate,34.0,EZRA NANES,DEMOCRATIC,470,,,Centre County,84
+Centre,84,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,905,,,Centre County,84
+Centre,84,State Senate,34.0,WRITE-IN,,2,,,Centre County,84
+Centre,84,State House,171.0,ERIN MCCRACKEN,DEMOCRATIC,423,,,Centre County,84
+Centre,84,State House,171.0,KERRY A BENNINGHOFF,REPUBLICAN,958,,,Centre County,84
+Centre,84,State House,171.0,WRITE-IN,,0,,,Centre County,84
+Centre,85,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,106,,,Centre County,85
+Centre,85,U.S. Senate,,LOU BARLETTA,REPUBLICAN,242,,,Centre County,85
+Centre,85,U.S. Senate,,NEAL GALE,GREEN,0,,,Centre County,85
+Centre,85,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,4,,,Centre County,85
+Centre,85,U.S. Senate,,WRITE-IN,,0,,,Centre County,85
+Centre,85,Governor,,TOM WOLF,DEMOCRATIC,98,,,Centre County,85
+Centre,85,Governor,,SCOTT R WAGNER,REPUBLICAN,251,,,Centre County,85
+Centre,85,Governor,,PAUL GLOVER,GREEN,1,,,Centre County,85
+Centre,85,Governor,,KEN V KRAWCHUK,LIBERTARIAN,3,,,Centre County,85
+Centre,85,Governor,,WRITE-IN,,0,,,Centre County,85
+Centre,85,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,87,,,Centre County,85
+Centre,85,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,265,,,Centre County,85
+Centre,85,U.S. House,15.0,WRITE-IN,,0,,,Centre County,85
+Centre,85,State Senate,34.0,EZRA NANES,DEMOCRATIC,85,,,Centre County,85
+Centre,85,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,265,,,Centre County,85
+Centre,85,State Senate,34.0,WRITE-IN,,0,,,Centre County,85
+Centre,85,State House,81.0,RICK ROGERS,DEMOCRATIC,90,,,Centre County,85
+Centre,85,State House,81.0,RICH IRVIN,REPUBLICAN,253,,,Centre County,85
+Centre,85,State House,81.0,JOSEPH P SOLOSKI,LIBERTARIAN,9,,,Centre County,85
+Centre,85,State House,81.0,WRITE-IN,,0,,,Centre County,85
+Centre,86,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,314,,,Centre County,86
+Centre,86,U.S. Senate,,LOU BARLETTA,REPUBLICAN,431,,,Centre County,86
+Centre,86,U.S. Senate,,NEAL GALE,GREEN,5,,,Centre County,86
+Centre,86,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,9,,,Centre County,86
+Centre,86,U.S. Senate,,WRITE-IN,,0,,,Centre County,86
+Centre,86,Governor,,TOM WOLF,DEMOCRATIC,301,,,Centre County,86
+Centre,86,Governor,,SCOTT R WAGNER,REPUBLICAN,439,,,Centre County,86
+Centre,86,Governor,,PAUL GLOVER,GREEN,10,,,Centre County,86
+Centre,86,Governor,,KEN V KRAWCHUK,LIBERTARIAN,9,,,Centre County,86
+Centre,86,Governor,,WRITE-IN,,0,,,Centre County,86
+Centre,86,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,246,,,Centre County,86
+Centre,86,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,514,,,Centre County,86
+Centre,86,U.S. House,15.0,WRITE-IN,,3,,,Centre County,86
+Centre,86,State Senate,34.0,EZRA NANES,DEMOCRATIC,243,,,Centre County,86
+Centre,86,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,509,,,Centre County,86
+Centre,86,State Senate,34.0,WRITE-IN,,3,,,Centre County,86
+Centre,86,State House,171.0,ERIN MCCRACKEN,DEMOCRATIC,212,,,Centre County,86
+Centre,86,State House,171.0,KERRY A BENNINGHOFF,REPUBLICAN,546,,,Centre County,86
+Centre,86,State House,171.0,WRITE-IN,,4,,,Centre County,86
+Centre,87,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,376,,,Centre County,87
+Centre,87,U.S. Senate,,LOU BARLETTA,REPUBLICAN,354,,,Centre County,87
+Centre,87,U.S. Senate,,NEAL GALE,GREEN,12,,,Centre County,87
+Centre,87,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,12,,,Centre County,87
+Centre,87,U.S. Senate,,WRITE-IN,,0,,,Centre County,87
+Centre,87,Governor,,TOM WOLF,DEMOCRATIC,389,,,Centre County,87
+Centre,87,Governor,,SCOTT R WAGNER,REPUBLICAN,337,,,Centre County,87
+Centre,87,Governor,,PAUL GLOVER,GREEN,13,,,Centre County,87
+Centre,87,Governor,,KEN V KRAWCHUK,LIBERTARIAN,15,,,Centre County,87
+Centre,87,Governor,,WRITE-IN,,0,,,Centre County,87
+Centre,87,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,313,,,Centre County,87
+Centre,87,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,439,,,Centre County,87
+Centre,87,U.S. House,15.0,WRITE-IN,,1,,,Centre County,87
+Centre,87,State Senate,34.0,EZRA NANES,DEMOCRATIC,331,,,Centre County,87
+Centre,87,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,422,,,Centre County,87
+Centre,87,State Senate,34.0,WRITE-IN,,0,,,Centre County,87
+Centre,87,State House,171.0,ERIN MCCRACKEN,DEMOCRATIC,300,,,Centre County,87
+Centre,87,State House,171.0,KERRY A BENNINGHOFF,REPUBLICAN,456,,,Centre County,87
+Centre,87,State House,171.0,WRITE-IN,,0,,,Centre County,87
+Centre,88,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,628,,,Centre County,88
+Centre,88,U.S. Senate,,LOU BARLETTA,REPUBLICAN,242,,,Centre County,88
+Centre,88,U.S. Senate,,NEAL GALE,GREEN,7,,,Centre County,88
+Centre,88,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,14,,,Centre County,88
+Centre,88,U.S. Senate,,WRITE-IN,,0,,,Centre County,88
+Centre,88,Governor,,TOM WOLF,DEMOCRATIC,642,,,Centre County,88
+Centre,88,Governor,,SCOTT R WAGNER,REPUBLICAN,230,,,Centre County,88
+Centre,88,Governor,,PAUL GLOVER,GREEN,3,,,Centre County,88
+Centre,88,Governor,,KEN V KRAWCHUK,LIBERTARIAN,12,,,Centre County,88
+Centre,88,Governor,,WRITE-IN,,2,,,Centre County,88
+Centre,88,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,630,,,Centre County,88
+Centre,88,U.S. House,12.0,TOM MARINO,REPUBLICAN,256,,,Centre County,88
+Centre,88,U.S. House,12.0,WRITE-IN,,1,,,Centre County,88
+Centre,88,State Senate,34.0,EZRA NANES,DEMOCRATIC,610,,,Centre County,88
+Centre,88,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,274,,,Centre County,88
+Centre,88,State Senate,34.0,WRITE-IN,,1,,,Centre County,88
+Centre,88,State House,171.0,ERIN MCCRACKEN,DEMOCRATIC,571,,,Centre County,88
+Centre,88,State House,171.0,KERRY A BENNINGHOFF,REPUBLICAN,314,,,Centre County,88
+Centre,88,State House,171.0,WRITE-IN,,1,,,Centre County,88
+Centre,89,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,676,,,Centre County,89
+Centre,89,U.S. Senate,,LOU BARLETTA,REPUBLICAN,336,,,Centre County,89
+Centre,89,U.S. Senate,,NEAL GALE,GREEN,5,,,Centre County,89
+Centre,89,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,7,,,Centre County,89
+Centre,89,U.S. Senate,,WRITE-IN,,0,,,Centre County,89
+Centre,89,Governor,,TOM WOLF,DEMOCRATIC,693,,,Centre County,89
+Centre,89,Governor,,SCOTT R WAGNER,REPUBLICAN,304,,,Centre County,89
+Centre,89,Governor,,PAUL GLOVER,GREEN,7,,,Centre County,89
+Centre,89,Governor,,KEN V KRAWCHUK,LIBERTARIAN,10,,,Centre County,89
+Centre,89,Governor,,WRITE-IN,,2,,,Centre County,89
+Centre,89,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,681,,,Centre County,89
+Centre,89,U.S. House,12.0,TOM MARINO,REPUBLICAN,330,,,Centre County,89
+Centre,89,U.S. House,12.0,WRITE-IN,,1,,,Centre County,89
+Centre,89,State Senate,34.0,EZRA NANES,DEMOCRATIC,640,,,Centre County,89
+Centre,89,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,372,,,Centre County,89
+Centre,89,State Senate,34.0,WRITE-IN,,1,,,Centre County,89
+Centre,89,State House,171.0,ERIN MCCRACKEN,DEMOCRATIC,604,,,Centre County,89
+Centre,89,State House,171.0,KERRY A BENNINGHOFF,REPUBLICAN,408,,,Centre County,89
+Centre,89,State House,171.0,WRITE-IN,,2,,,Centre County,89
+Centre,90,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,420,,,Centre County,90
+Centre,90,U.S. Senate,,LOU BARLETTA,REPUBLICAN,449,,,Centre County,90
+Centre,90,U.S. Senate,,NEAL GALE,GREEN,7,,,Centre County,90
+Centre,90,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,14,,,Centre County,90
+Centre,90,U.S. Senate,,WRITE-IN,,0,,,Centre County,90
+Centre,90,Governor,,TOM WOLF,DEMOCRATIC,429,,,Centre County,90
+Centre,90,Governor,,SCOTT R WAGNER,REPUBLICAN,432,,,Centre County,90
+Centre,90,Governor,,PAUL GLOVER,GREEN,6,,,Centre County,90
+Centre,90,Governor,,KEN V KRAWCHUK,LIBERTARIAN,17,,,Centre County,90
+Centre,90,Governor,,WRITE-IN,,0,,,Centre County,90
+Centre,90,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,396,,,Centre County,90
+Centre,90,U.S. House,12.0,TOM MARINO,REPUBLICAN,484,,,Centre County,90
+Centre,90,U.S. House,12.0,WRITE-IN,,1,,,Centre County,90
+Centre,90,U.S. House,15.0,SUSAN BOSER,DEMOCRATIC,0,,,Centre County,90
+Centre,90,U.S. House,15.0,GLENN GT THOMPSON,REPUBLICAN,2,,,Centre County,90
+Centre,90,U.S. House,15.0,WRITE-IN,,0,,,Centre County,90
+Centre,90,State Senate,34.0,EZRA NANES,DEMOCRATIC,392,,,Centre County,90
+Centre,90,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,490,,,Centre County,90
+Centre,90,State Senate,34.0,WRITE-IN,,1,,,Centre County,90
+Centre,90,State House,81.0,RICK ROGERS,DEMOCRATIC,350,,,Centre County,90
+Centre,90,State House,81.0,RICH IRVIN,REPUBLICAN,470,,,Centre County,90
+Centre,90,State House,81.0,JOSEPH P SOLOSKI,LIBERTARIAN,61,,,Centre County,90
+Centre,90,State House,81.0,WRITE-IN,,0,,,Centre County,90
+Centre,91,U.S. Senate,,BOB CASEY JR,DEMOCRATIC,390,,,Centre County,91
+Centre,91,U.S. Senate,,LOU BARLETTA,REPUBLICAN,243,,,Centre County,91
+Centre,91,U.S. Senate,,NEAL GALE,GREEN,3,,,Centre County,91
+Centre,91,U.S. Senate,,DALE R KERNS JR,LIBERTARIAN,6,,,Centre County,91
+Centre,91,U.S. Senate,,WRITE-IN,,1,,,Centre County,91
+Centre,91,Governor,,TOM WOLF,DEMOCRATIC,409,,,Centre County,91
+Centre,91,Governor,,SCOTT R WAGNER,REPUBLICAN,232,,,Centre County,91
+Centre,91,Governor,,PAUL GLOVER,GREEN,2,,,Centre County,91
+Centre,91,Governor,,KEN V KRAWCHUK,LIBERTARIAN,8,,,Centre County,91
+Centre,91,Governor,,WRITE-IN,,0,,,Centre County,91
+Centre,91,U.S. House,12.0,MARC FRIEDENBERG,DEMOCRATIC,391,,,Centre County,91
+Centre,91,U.S. House,12.0,TOM MARINO,REPUBLICAN,255,,,Centre County,91
+Centre,91,U.S. House,12.0,WRITE-IN,,1,,,Centre County,91
+Centre,91,State Senate,34.0,EZRA NANES,DEMOCRATIC,374,,,Centre County,91
+Centre,91,State Senate,34.0,JACOB D CORMAN III,REPUBLICAN,271,,,Centre County,91
+Centre,91,State Senate,34.0,WRITE-IN,,1,,,Centre County,91
+Centre,91,State House,171.0,ERIN MCCRACKEN,DEMOCRATIC,369,,,Centre County,91
+Centre,91,State House,171.0,KERRY A BENNINGHOFF,REPUBLICAN,279,,,Centre County,91
+Centre,91,State House,171.0,WRITE-IN,,1,,,Centre County,91

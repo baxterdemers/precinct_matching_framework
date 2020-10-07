@@ -1,0 +1,1160 @@
+county,precinct,office,district,candidate,party,votes,election_day,absentee,county_id,original_precinct_name
+Bradford,ALBA BOROUGH,U.S. Senate,,Bob Casey Jr,DEM,11.0,11.0,0.0,Bradford County,ALBA BOROUGH
+Bradford,ALBA BOROUGH,U.S. Senate,,Lou Barletta,REP,39.0,39.0,0.0,Bradford County,ALBA BOROUGH
+Bradford,ALBA BOROUGH,U.S. Senate,,Neal Gale,GRN,0.0,0.0,0.0,Bradford County,ALBA BOROUGH
+Bradford,ALBA BOROUGH,U.S. Senate,,Dale R Kerns Jr,LIB,1.0,1.0,0.0,Bradford County,ALBA BOROUGH
+Bradford,ALBA BOROUGH,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,ALBA BOROUGH
+Bradford,ALBA BOROUGH,Governor,,Wolf/Fetterman,DEM,11.0,11.0,0.0,Bradford County,ALBA BOROUGH
+Bradford,ALBA BOROUGH,Governor,,Wagner/Bartos,REP,38.0,38.0,0.0,Bradford County,ALBA BOROUGH
+Bradford,ALBA BOROUGH,Governor,,Glover/Bostick,GRN,1.0,1.0,0.0,Bradford County,ALBA BOROUGH
+Bradford,ALBA BOROUGH,Governor,,Krawchuk /Smith,LIB,1.0,1.0,0.0,Bradford County,ALBA BOROUGH
+Bradford,ALBA BOROUGH,Governor,,Write In Votes,,1.0,1.0,0.0,Bradford County,ALBA BOROUGH
+Bradford,ALBA BOROUGH,U.S. House,12.0,Marc Friedenberg,DEM,6.0,6.0,0.0,Bradford County,ALBA BOROUGH
+Bradford,ALBA BOROUGH,U.S. House,12.0,Tom Marino,REP,46.0,46.0,0.0,Bradford County,ALBA BOROUGH
+Bradford,ALBA BOROUGH,U.S. House,12.0,Write In Votes,,0.0,0.0,0.0,Bradford County,ALBA BOROUGH
+Bradford,ALBA BOROUGH,State House,68.0,Carrie Heath,DEM,6.0,6.0,0.0,Bradford County,ALBA BOROUGH
+Bradford,ALBA BOROUGH,State House,68.0,Clint Owlet,REP,46.0,46.0,0.0,Bradford County,ALBA BOROUGH
+Bradford,ALBA BOROUGH,State House,68.0,Write In Votes,,0.0,0.0,0.0,Bradford County,ALBA BOROUGH
+Bradford,ALBA BOROUGH,State House,110.0,Donna Iannone,DEM,,,,Bradford County,ALBA BOROUGH
+Bradford,ALBA BOROUGH,State House,110.0,Tina Pickett,REP,,,,Bradford County,ALBA BOROUGH
+Bradford,ALBA BOROUGH,State House,110.0,Write In Votes,,,,,Bradford County,ALBA BOROUGH
+Bradford,ALBANY TOWNSHIP,U.S. Senate,,Bob Casey Jr,DEM,98.0,96.0,2.0,Bradford County,ALBANY TOWNSHIP
+Bradford,ALBANY TOWNSHIP,U.S. Senate,,Lou Barletta,REP,219.0,209.0,10.0,Bradford County,ALBANY TOWNSHIP
+Bradford,ALBANY TOWNSHIP,U.S. Senate,,Neal Gale,GRN,5.0,4.0,1.0,Bradford County,ALBANY TOWNSHIP
+Bradford,ALBANY TOWNSHIP,U.S. Senate,,Dale R Kerns Jr,LIB,0.0,0.0,0.0,Bradford County,ALBANY TOWNSHIP
+Bradford,ALBANY TOWNSHIP,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,ALBANY TOWNSHIP
+Bradford,ALBANY TOWNSHIP,Governor,,Wolf/Fetterman,DEM,87.0,83.0,4.0,Bradford County,ALBANY TOWNSHIP
+Bradford,ALBANY TOWNSHIP,Governor,,Wagner/Bartos,REP,233.0,224.0,9.0,Bradford County,ALBANY TOWNSHIP
+Bradford,ALBANY TOWNSHIP,Governor,,Glover/Bostick,GRN,3.0,3.0,0.0,Bradford County,ALBANY TOWNSHIP
+Bradford,ALBANY TOWNSHIP,Governor,,Krawchuk /Smith,LIB,3.0,3.0,0.0,Bradford County,ALBANY TOWNSHIP
+Bradford,ALBANY TOWNSHIP,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,ALBANY TOWNSHIP
+Bradford,ALBANY TOWNSHIP,U.S. House,12.0,Marc Friedenberg,DEM,90.0,86.0,4.0,Bradford County,ALBANY TOWNSHIP
+Bradford,ALBANY TOWNSHIP,U.S. House,12.0,Tom Marino,REP,235.0,226.0,9.0,Bradford County,ALBANY TOWNSHIP
+Bradford,ALBANY TOWNSHIP,U.S. House,12.0,Write In Votes,,0.0,0.0,0.0,Bradford County,ALBANY TOWNSHIP
+Bradford,ALBANY TOWNSHIP,State House,68.0,Carrie Heath,DEM,,,,Bradford County,ALBANY TOWNSHIP
+Bradford,ALBANY TOWNSHIP,State House,68.0,Clint Owlet,REP,,,,Bradford County,ALBANY TOWNSHIP
+Bradford,ALBANY TOWNSHIP,State House,68.0,Write In Votes,,,,,Bradford County,ALBANY TOWNSHIP
+Bradford,ALBANY TOWNSHIP,State House,110.0,Donna Iannone,DEM,99.0,95.0,4.0,Bradford County,ALBANY TOWNSHIP
+Bradford,ALBANY TOWNSHIP,State House,110.0,Tina Pickett,REP,229.0,220.0,9.0,Bradford County,ALBANY TOWNSHIP
+Bradford,ALBANY TOWNSHIP,State House,110.0,Write In Votes,,0.0,0.0,0.0,Bradford County,ALBANY TOWNSHIP
+Bradford,ARMENIA TOWNSHIP,U.S. Senate,,Bob Casey Jr,DEM,14.0,14.0,0.0,Bradford County,ARMENIA TOWNSHIP
+Bradford,ARMENIA TOWNSHIP,U.S. Senate,,Lou Barletta,REP,64.0,64.0,0.0,Bradford County,ARMENIA TOWNSHIP
+Bradford,ARMENIA TOWNSHIP,U.S. Senate,,Neal Gale,GRN,1.0,1.0,0.0,Bradford County,ARMENIA TOWNSHIP
+Bradford,ARMENIA TOWNSHIP,U.S. Senate,,Dale R Kerns Jr,LIB,0.0,0.0,0.0,Bradford County,ARMENIA TOWNSHIP
+Bradford,ARMENIA TOWNSHIP,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,ARMENIA TOWNSHIP
+Bradford,ARMENIA TOWNSHIP,Governor,,Wolf/Fetterman,DEM,12.0,12.0,0.0,Bradford County,ARMENIA TOWNSHIP
+Bradford,ARMENIA TOWNSHIP,Governor,,Wagner/Bartos,REP,67.0,67.0,0.0,Bradford County,ARMENIA TOWNSHIP
+Bradford,ARMENIA TOWNSHIP,Governor,,Glover/Bostick,GRN,1.0,1.0,0.0,Bradford County,ARMENIA TOWNSHIP
+Bradford,ARMENIA TOWNSHIP,Governor,,Krawchuk /Smith,LIB,2.0,2.0,0.0,Bradford County,ARMENIA TOWNSHIP
+Bradford,ARMENIA TOWNSHIP,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,ARMENIA TOWNSHIP
+Bradford,ARMENIA TOWNSHIP,U.S. House,12.0,Marc Friedenberg,DEM,11.0,11.0,0.0,Bradford County,ARMENIA TOWNSHIP
+Bradford,ARMENIA TOWNSHIP,U.S. House,12.0,Tom Marino,REP,68.0,68.0,0.0,Bradford County,ARMENIA TOWNSHIP
+Bradford,ARMENIA TOWNSHIP,U.S. House,12.0,Write In Votes,,0.0,0.0,0.0,Bradford County,ARMENIA TOWNSHIP
+Bradford,ARMENIA TOWNSHIP,State House,68.0,Carrie Heath,DEM,7.0,7.0,0.0,Bradford County,ARMENIA TOWNSHIP
+Bradford,ARMENIA TOWNSHIP,State House,68.0,Clint Owlet,REP,74.0,74.0,0.0,Bradford County,ARMENIA TOWNSHIP
+Bradford,ARMENIA TOWNSHIP,State House,68.0,Write In Votes,,0.0,0.0,0.0,Bradford County,ARMENIA TOWNSHIP
+Bradford,ARMENIA TOWNSHIP,State House,110.0,Donna Iannone,DEM,,,,Bradford County,ARMENIA TOWNSHIP
+Bradford,ARMENIA TOWNSHIP,State House,110.0,Tina Pickett,REP,,,,Bradford County,ARMENIA TOWNSHIP
+Bradford,ARMENIA TOWNSHIP,State House,110.0,Write In Votes,,,,,Bradford County,ARMENIA TOWNSHIP
+Bradford,ASYLUM TOWNSHIP,U.S. Senate,,Bob Casey Jr,DEM,118.0,114.0,4.0,Bradford County,ASYLUM TOWNSHIP
+Bradford,ASYLUM TOWNSHIP,U.S. Senate,,Lou Barletta,REP,218.0,211.0,7.0,Bradford County,ASYLUM TOWNSHIP
+Bradford,ASYLUM TOWNSHIP,U.S. Senate,,Neal Gale,GRN,1.0,1.0,0.0,Bradford County,ASYLUM TOWNSHIP
+Bradford,ASYLUM TOWNSHIP,U.S. Senate,,Dale R Kerns Jr,LIB,3.0,2.0,1.0,Bradford County,ASYLUM TOWNSHIP
+Bradford,ASYLUM TOWNSHIP,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,ASYLUM TOWNSHIP
+Bradford,ASYLUM TOWNSHIP,Governor,,Wolf/Fetterman,DEM,119.0,117.0,2.0,Bradford County,ASYLUM TOWNSHIP
+Bradford,ASYLUM TOWNSHIP,Governor,,Wagner/Bartos,REP,226.0,219.0,7.0,Bradford County,ASYLUM TOWNSHIP
+Bradford,ASYLUM TOWNSHIP,Governor,,Glover/Bostick,GRN,3.0,3.0,0.0,Bradford County,ASYLUM TOWNSHIP
+Bradford,ASYLUM TOWNSHIP,Governor,,Krawchuk /Smith,LIB,1.0,0.0,1.0,Bradford County,ASYLUM TOWNSHIP
+Bradford,ASYLUM TOWNSHIP,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,ASYLUM TOWNSHIP
+Bradford,ASYLUM TOWNSHIP,U.S. House,12.0,Marc Friedenberg,DEM,117.0,112.0,5.0,Bradford County,ASYLUM TOWNSHIP
+Bradford,ASYLUM TOWNSHIP,U.S. House,12.0,Tom Marino,REP,221.0,215.0,6.0,Bradford County,ASYLUM TOWNSHIP
+Bradford,ASYLUM TOWNSHIP,U.S. House,12.0,Write In Votes,,1.0,1.0,0.0,Bradford County,ASYLUM TOWNSHIP
+Bradford,ASYLUM TOWNSHIP,State House,68.0,Carrie Heath,DEM,,,,Bradford County,ASYLUM TOWNSHIP
+Bradford,ASYLUM TOWNSHIP,State House,68.0,Clint Owlet,REP,,,,Bradford County,ASYLUM TOWNSHIP
+Bradford,ASYLUM TOWNSHIP,State House,68.0,Write In Votes,,,,,Bradford County,ASYLUM TOWNSHIP
+Bradford,ASYLUM TOWNSHIP,State House,110.0,Donna Iannone,DEM,101.0,98.0,3.0,Bradford County,ASYLUM TOWNSHIP
+Bradford,ASYLUM TOWNSHIP,State House,110.0,Tina Pickett,REP,243.0,234.0,9.0,Bradford County,ASYLUM TOWNSHIP
+Bradford,ASYLUM TOWNSHIP,State House,110.0,Write In Votes,,0.0,0.0,0.0,Bradford County,ASYLUM TOWNSHIP
+Bradford,ATHENS BOROUGH 1ST,U.S. Senate,,Bob Casey Jr,DEM,91.0,86.0,5.0,Bradford County,ATHENS BOROUGH 1ST
+Bradford,ATHENS BOROUGH 1ST,U.S. Senate,,Lou Barletta,REP,103.0,96.0,6.0,Bradford County,ATHENS BOROUGH 1ST
+Bradford,ATHENS BOROUGH 1ST,U.S. Senate,,Neal Gale,GRN,0.0,0.0,0.0,Bradford County,ATHENS BOROUGH 1ST
+Bradford,ATHENS BOROUGH 1ST,U.S. Senate,,Dale R Kerns Jr,LIB,1.0,1.0,0.0,Bradford County,ATHENS BOROUGH 1ST
+Bradford,ATHENS BOROUGH 1ST,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,ATHENS BOROUGH 1ST
+Bradford,ATHENS BOROUGH 1ST,Governor,,Wolf/Fetterman,DEM,91.0,85.0,6.0,Bradford County,ATHENS BOROUGH 1ST
+Bradford,ATHENS BOROUGH 1ST,Governor,,Wagner/Bartos,REP,103.0,99.0,3.0,Bradford County,ATHENS BOROUGH 1ST
+Bradford,ATHENS BOROUGH 1ST,Governor,,Glover/Bostick,GRN,0.0,0.0,0.0,Bradford County,ATHENS BOROUGH 1ST
+Bradford,ATHENS BOROUGH 1ST,Governor,,Krawchuk /Smith,LIB,4.0,2.0,2.0,Bradford County,ATHENS BOROUGH 1ST
+Bradford,ATHENS BOROUGH 1ST,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,ATHENS BOROUGH 1ST
+Bradford,ATHENS BOROUGH 1ST,U.S. House,12.0,Marc Friedenberg,DEM,80.0,75.0,5.0,Bradford County,ATHENS BOROUGH 1ST
+Bradford,ATHENS BOROUGH 1ST,U.S. House,12.0,Tom Marino,REP,115.0,108.0,6.0,Bradford County,ATHENS BOROUGH 1ST
+Bradford,ATHENS BOROUGH 1ST,U.S. House,12.0,Write In Votes,,0.0,0.0,0.0,Bradford County,ATHENS BOROUGH 1ST
+Bradford,ATHENS BOROUGH 1ST,State House,68.0,Carrie Heath,DEM,,,,Bradford County,ATHENS BOROUGH 1ST
+Bradford,ATHENS BOROUGH 1ST,State House,68.0,Clint Owlet,REP,,,,Bradford County,ATHENS BOROUGH 1ST
+Bradford,ATHENS BOROUGH 1ST,State House,68.0,Write In Votes,,,,,Bradford County,ATHENS BOROUGH 1ST
+Bradford,ATHENS BOROUGH 1ST,State House,110.0,Donna Iannone,DEM,62.0,58.0,4.0,Bradford County,ATHENS BOROUGH 1ST
+Bradford,ATHENS BOROUGH 1ST,State House,110.0,Tina Pickett,REP,135.0,127.0,7.0,Bradford County,ATHENS BOROUGH 1ST
+Bradford,ATHENS BOROUGH 1ST,State House,110.0,Write In Votes,,0.0,0.0,0.0,Bradford County,ATHENS BOROUGH 1ST
+Bradford,ATHENS BOROUGH 2ND,U.S. Senate,,Bob Casey Jr,DEM,85.0,82.0,3.0,Bradford County,ATHENS BOROUGH 2ND
+Bradford,ATHENS BOROUGH 2ND,U.S. Senate,,Lou Barletta,REP,74.0,71.0,3.0,Bradford County,ATHENS BOROUGH 2ND
+Bradford,ATHENS BOROUGH 2ND,U.S. Senate,,Neal Gale,GRN,0.0,0.0,0.0,Bradford County,ATHENS BOROUGH 2ND
+Bradford,ATHENS BOROUGH 2ND,U.S. Senate,,Dale R Kerns Jr,LIB,3.0,3.0,0.0,Bradford County,ATHENS BOROUGH 2ND
+Bradford,ATHENS BOROUGH 2ND,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,ATHENS BOROUGH 2ND
+Bradford,ATHENS BOROUGH 2ND,Governor,,Wolf/Fetterman,DEM,78.0,75.0,3.0,Bradford County,ATHENS BOROUGH 2ND
+Bradford,ATHENS BOROUGH 2ND,Governor,,Wagner/Bartos,REP,75.0,72.0,3.0,Bradford County,ATHENS BOROUGH 2ND
+Bradford,ATHENS BOROUGH 2ND,Governor,,Glover/Bostick,GRN,5.0,5.0,0.0,Bradford County,ATHENS BOROUGH 2ND
+Bradford,ATHENS BOROUGH 2ND,Governor,,Krawchuk /Smith,LIB,3.0,3.0,0.0,Bradford County,ATHENS BOROUGH 2ND
+Bradford,ATHENS BOROUGH 2ND,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,ATHENS BOROUGH 2ND
+Bradford,ATHENS BOROUGH 2ND,U.S. House,12.0,Marc Friedenberg,DEM,69.0,68.0,1.0,Bradford County,ATHENS BOROUGH 2ND
+Bradford,ATHENS BOROUGH 2ND,U.S. House,12.0,Tom Marino,REP,89.0,84.0,5.0,Bradford County,ATHENS BOROUGH 2ND
+Bradford,ATHENS BOROUGH 2ND,U.S. House,12.0,Write In Votes,,2.0,2.0,0.0,Bradford County,ATHENS BOROUGH 2ND
+Bradford,ATHENS BOROUGH 2ND,State House,68.0,Carrie Heath,DEM,,,,Bradford County,ATHENS BOROUGH 2ND
+Bradford,ATHENS BOROUGH 2ND,State House,68.0,Clint Owlet,REP,,,,Bradford County,ATHENS BOROUGH 2ND
+Bradford,ATHENS BOROUGH 2ND,State House,68.0,Write In Votes,,,,,Bradford County,ATHENS BOROUGH 2ND
+Bradford,ATHENS BOROUGH 2ND,State House,110.0,Donna Iannone,DEM,55.0,55.0,0.0,Bradford County,ATHENS BOROUGH 2ND
+Bradford,ATHENS BOROUGH 2ND,State House,110.0,Tina Pickett,REP,107.0,101.0,6.0,Bradford County,ATHENS BOROUGH 2ND
+Bradford,ATHENS BOROUGH 2ND,State House,110.0,Write In Votes,,0.0,0.0,0.0,Bradford County,ATHENS BOROUGH 2ND
+Bradford,ATHENS BOROUGH 3RD,U.S. Senate,,Bob Casey Jr,DEM,99.0,96.0,3.0,Bradford County,ATHENS BOROUGH 3RD
+Bradford,ATHENS BOROUGH 3RD,U.S. Senate,,Lou Barletta,REP,140.0,138.0,1.0,Bradford County,ATHENS BOROUGH 3RD
+Bradford,ATHENS BOROUGH 3RD,U.S. Senate,,Neal Gale,GRN,2.0,2.0,0.0,Bradford County,ATHENS BOROUGH 3RD
+Bradford,ATHENS BOROUGH 3RD,U.S. Senate,,Dale R Kerns Jr,LIB,3.0,3.0,0.0,Bradford County,ATHENS BOROUGH 3RD
+Bradford,ATHENS BOROUGH 3RD,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,ATHENS BOROUGH 3RD
+Bradford,ATHENS BOROUGH 3RD,Governor,,Wolf/Fetterman,DEM,99.0,97.0,2.0,Bradford County,ATHENS BOROUGH 3RD
+Bradford,ATHENS BOROUGH 3RD,Governor,,Wagner/Bartos,REP,137.0,135.0,1.0,Bradford County,ATHENS BOROUGH 3RD
+Bradford,ATHENS BOROUGH 3RD,Governor,,Glover/Bostick,GRN,3.0,2.0,1.0,Bradford County,ATHENS BOROUGH 3RD
+Bradford,ATHENS BOROUGH 3RD,Governor,,Krawchuk /Smith,LIB,6.0,6.0,0.0,Bradford County,ATHENS BOROUGH 3RD
+Bradford,ATHENS BOROUGH 3RD,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,ATHENS BOROUGH 3RD
+Bradford,ATHENS BOROUGH 3RD,U.S. House,12.0,Marc Friedenberg,DEM,82.0,80.0,2.0,Bradford County,ATHENS BOROUGH 3RD
+Bradford,ATHENS BOROUGH 3RD,U.S. House,12.0,Tom Marino,REP,159.0,156.0,2.0,Bradford County,ATHENS BOROUGH 3RD
+Bradford,ATHENS BOROUGH 3RD,U.S. House,12.0,Write In Votes,,0.0,0.0,0.0,Bradford County,ATHENS BOROUGH 3RD
+Bradford,ATHENS BOROUGH 3RD,State House,68.0,Carrie Heath,DEM,,,,Bradford County,ATHENS BOROUGH 3RD
+Bradford,ATHENS BOROUGH 3RD,State House,68.0,Clint Owlet,REP,,,,Bradford County,ATHENS BOROUGH 3RD
+Bradford,ATHENS BOROUGH 3RD,State House,68.0,Write In Votes,,,,,Bradford County,ATHENS BOROUGH 3RD
+Bradford,ATHENS BOROUGH 3RD,State House,110.0,Donna Iannone,DEM,69.0,68.0,1.0,Bradford County,ATHENS BOROUGH 3RD
+Bradford,ATHENS BOROUGH 3RD,State House,110.0,Tina Pickett,REP,176.0,172.0,3.0,Bradford County,ATHENS BOROUGH 3RD
+Bradford,ATHENS BOROUGH 3RD,State House,110.0,Write In Votes,,0.0,0.0,0.0,Bradford County,ATHENS BOROUGH 3RD
+Bradford,ATHENS BOROUGH 4TH,U.S. Senate,,Bob Casey Jr,DEM,147.0,135.0,12.0,Bradford County,ATHENS BOROUGH 4TH
+Bradford,ATHENS BOROUGH 4TH,U.S. Senate,,Lou Barletta,REP,172.0,169.0,3.0,Bradford County,ATHENS BOROUGH 4TH
+Bradford,ATHENS BOROUGH 4TH,U.S. Senate,,Neal Gale,GRN,1.0,1.0,0.0,Bradford County,ATHENS BOROUGH 4TH
+Bradford,ATHENS BOROUGH 4TH,U.S. Senate,,Dale R Kerns Jr,LIB,4.0,4.0,0.0,Bradford County,ATHENS BOROUGH 4TH
+Bradford,ATHENS BOROUGH 4TH,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,ATHENS BOROUGH 4TH
+Bradford,ATHENS BOROUGH 4TH,Governor,,Wolf/Fetterman,DEM,146.0,135.0,11.0,Bradford County,ATHENS BOROUGH 4TH
+Bradford,ATHENS BOROUGH 4TH,Governor,,Wagner/Bartos,REP,172.0,168.0,4.0,Bradford County,ATHENS BOROUGH 4TH
+Bradford,ATHENS BOROUGH 4TH,Governor,,Glover/Bostick,GRN,2.0,2.0,0.0,Bradford County,ATHENS BOROUGH 4TH
+Bradford,ATHENS BOROUGH 4TH,Governor,,Krawchuk /Smith,LIB,4.0,4.0,0.0,Bradford County,ATHENS BOROUGH 4TH
+Bradford,ATHENS BOROUGH 4TH,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,ATHENS BOROUGH 4TH
+Bradford,ATHENS BOROUGH 4TH,U.S. House,12.0,Marc Friedenberg,DEM,117.0,107.0,10.0,Bradford County,ATHENS BOROUGH 4TH
+Bradford,ATHENS BOROUGH 4TH,U.S. House,12.0,Tom Marino,REP,203.0,198.0,5.0,Bradford County,ATHENS BOROUGH 4TH
+Bradford,ATHENS BOROUGH 4TH,U.S. House,12.0,Write In Votes,,1.0,1.0,0.0,Bradford County,ATHENS BOROUGH 4TH
+Bradford,ATHENS BOROUGH 4TH,State House,68.0,Carrie Heath,DEM,,,,Bradford County,ATHENS BOROUGH 4TH
+Bradford,ATHENS BOROUGH 4TH,State House,68.0,Clint Owlet,REP,,,,Bradford County,ATHENS BOROUGH 4TH
+Bradford,ATHENS BOROUGH 4TH,State House,68.0,Write In Votes,,,,,Bradford County,ATHENS BOROUGH 4TH
+Bradford,ATHENS BOROUGH 4TH,State House,110.0,Donna Iannone,DEM,98.0,88.0,10.0,Bradford County,ATHENS BOROUGH 4TH
+Bradford,ATHENS BOROUGH 4TH,State House,110.0,Tina Pickett,REP,227.0,222.0,5.0,Bradford County,ATHENS BOROUGH 4TH
+Bradford,ATHENS BOROUGH 4TH,State House,110.0,Write In Votes,,0.0,0.0,0.0,Bradford County,ATHENS BOROUGH 4TH
+Bradford,ATHENS TOWNSHIP 1ST,U.S. Senate,,Bob Casey Jr,DEM,255.0,244.0,11.0,Bradford County,ATHENS TOWNSHIP 1ST
+Bradford,ATHENS TOWNSHIP 1ST,U.S. Senate,,Lou Barletta,REP,398.0,384.0,13.0,Bradford County,ATHENS TOWNSHIP 1ST
+Bradford,ATHENS TOWNSHIP 1ST,U.S. Senate,,Neal Gale,GRN,4.0,4.0,0.0,Bradford County,ATHENS TOWNSHIP 1ST
+Bradford,ATHENS TOWNSHIP 1ST,U.S. Senate,,Dale R Kerns Jr,LIB,17.0,17.0,0.0,Bradford County,ATHENS TOWNSHIP 1ST
+Bradford,ATHENS TOWNSHIP 1ST,U.S. Senate,,Write In Votes,,1.0,1.0,0.0,Bradford County,ATHENS TOWNSHIP 1ST
+Bradford,ATHENS TOWNSHIP 1ST,Governor,,Wolf/Fetterman,DEM,262.0,250.0,12.0,Bradford County,ATHENS TOWNSHIP 1ST
+Bradford,ATHENS TOWNSHIP 1ST,Governor,,Wagner/Bartos,REP,396.0,383.0,12.0,Bradford County,ATHENS TOWNSHIP 1ST
+Bradford,ATHENS TOWNSHIP 1ST,Governor,,Glover/Bostick,GRN,7.0,7.0,0.0,Bradford County,ATHENS TOWNSHIP 1ST
+Bradford,ATHENS TOWNSHIP 1ST,Governor,,Krawchuk /Smith,LIB,14.0,14.0,0.0,Bradford County,ATHENS TOWNSHIP 1ST
+Bradford,ATHENS TOWNSHIP 1ST,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,ATHENS TOWNSHIP 1ST
+Bradford,ATHENS TOWNSHIP 1ST,U.S. House,12.0,Marc Friedenberg,DEM,221.0,210.0,11.0,Bradford County,ATHENS TOWNSHIP 1ST
+Bradford,ATHENS TOWNSHIP 1ST,U.S. House,12.0,Tom Marino,REP,446.0,432.0,13.0,Bradford County,ATHENS TOWNSHIP 1ST
+Bradford,ATHENS TOWNSHIP 1ST,U.S. House,12.0,Write In Votes,,1.0,1.0,0.0,Bradford County,ATHENS TOWNSHIP 1ST
+Bradford,ATHENS TOWNSHIP 1ST,State House,68.0,Carrie Heath,DEM,,,,Bradford County,ATHENS TOWNSHIP 1ST
+Bradford,ATHENS TOWNSHIP 1ST,State House,68.0,Clint Owlet,REP,,,,Bradford County,ATHENS TOWNSHIP 1ST
+Bradford,ATHENS TOWNSHIP 1ST,State House,68.0,Write In Votes,,,,,Bradford County,ATHENS TOWNSHIP 1ST
+Bradford,ATHENS TOWNSHIP 1ST,State House,110.0,Donna Iannone,DEM,175.0,168.0,7.0,Bradford County,ATHENS TOWNSHIP 1ST
+Bradford,ATHENS TOWNSHIP 1ST,State House,110.0,Tina Pickett,REP,504.0,486.0,17.0,Bradford County,ATHENS TOWNSHIP 1ST
+Bradford,ATHENS TOWNSHIP 1ST,State House,110.0,Write In Votes,,0.0,0.0,0.0,Bradford County,ATHENS TOWNSHIP 1ST
+Bradford,ATHENS TOWNSHIP 2ND,U.S. Senate,,Bob Casey Jr,DEM,443.0,406.0,37.0,Bradford County,ATHENS TOWNSHIP 2ND
+Bradford,ATHENS TOWNSHIP 2ND,U.S. Senate,,Lou Barletta,REP,566.0,542.0,24.0,Bradford County,ATHENS TOWNSHIP 2ND
+Bradford,ATHENS TOWNSHIP 2ND,U.S. Senate,,Neal Gale,GRN,5.0,3.0,2.0,Bradford County,ATHENS TOWNSHIP 2ND
+Bradford,ATHENS TOWNSHIP 2ND,U.S. Senate,,Dale R Kerns Jr,LIB,10.0,9.0,0.0,Bradford County,ATHENS TOWNSHIP 2ND
+Bradford,ATHENS TOWNSHIP 2ND,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,ATHENS TOWNSHIP 2ND
+Bradford,ATHENS TOWNSHIP 2ND,Governor,,Wolf/Fetterman,DEM,462.0,425.0,37.0,Bradford County,ATHENS TOWNSHIP 2ND
+Bradford,ATHENS TOWNSHIP 2ND,Governor,,Wagner/Bartos,REP,534.0,514.0,20.0,Bradford County,ATHENS TOWNSHIP 2ND
+Bradford,ATHENS TOWNSHIP 2ND,Governor,,Glover/Bostick,GRN,9.0,5.0,4.0,Bradford County,ATHENS TOWNSHIP 2ND
+Bradford,ATHENS TOWNSHIP 2ND,Governor,,Krawchuk /Smith,LIB,13.0,11.0,1.0,Bradford County,ATHENS TOWNSHIP 2ND
+Bradford,ATHENS TOWNSHIP 2ND,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,ATHENS TOWNSHIP 2ND
+Bradford,ATHENS TOWNSHIP 2ND,U.S. House,12.0,Marc Friedenberg,DEM,382.0,346.0,36.0,Bradford County,ATHENS TOWNSHIP 2ND
+Bradford,ATHENS TOWNSHIP 2ND,U.S. House,12.0,Tom Marino,REP,627.0,599.0,27.0,Bradford County,ATHENS TOWNSHIP 2ND
+Bradford,ATHENS TOWNSHIP 2ND,U.S. House,12.0,Write In Votes,,1.0,1.0,0.0,Bradford County,ATHENS TOWNSHIP 2ND
+Bradford,ATHENS TOWNSHIP 2ND,State House,68.0,Carrie Heath,DEM,,,,Bradford County,ATHENS TOWNSHIP 2ND
+Bradford,ATHENS TOWNSHIP 2ND,State House,68.0,Clint Owlet,REP,,,,Bradford County,ATHENS TOWNSHIP 2ND
+Bradford,ATHENS TOWNSHIP 2ND,State House,68.0,Write In Votes,,,,,Bradford County,ATHENS TOWNSHIP 2ND
+Bradford,ATHENS TOWNSHIP 2ND,State House,110.0,Donna Iannone,DEM,316.0,290.0,26.0,Bradford County,ATHENS TOWNSHIP 2ND
+Bradford,ATHENS TOWNSHIP 2ND,State House,110.0,Tina Pickett,REP,699.0,661.0,37.0,Bradford County,ATHENS TOWNSHIP 2ND
+Bradford,ATHENS TOWNSHIP 2ND,State House,110.0,Write In Votes,,0.0,0.0,0.0,Bradford County,ATHENS TOWNSHIP 2ND
+Bradford,BURLINGTON BOROUGH,U.S. Senate,,Bob Casey Jr,DEM,18.0,16.0,2.0,Bradford County,BURLINGTON BOROUGH
+Bradford,BURLINGTON BOROUGH,U.S. Senate,,Lou Barletta,REP,22.0,21.0,1.0,Bradford County,BURLINGTON BOROUGH
+Bradford,BURLINGTON BOROUGH,U.S. Senate,,Neal Gale,GRN,3.0,3.0,0.0,Bradford County,BURLINGTON BOROUGH
+Bradford,BURLINGTON BOROUGH,U.S. Senate,,Dale R Kerns Jr,LIB,4.0,4.0,0.0,Bradford County,BURLINGTON BOROUGH
+Bradford,BURLINGTON BOROUGH,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,BURLINGTON BOROUGH
+Bradford,BURLINGTON BOROUGH,Governor,,Wolf/Fetterman,DEM,17.0,15.0,2.0,Bradford County,BURLINGTON BOROUGH
+Bradford,BURLINGTON BOROUGH,Governor,,Wagner/Bartos,REP,25.0,25.0,0.0,Bradford County,BURLINGTON BOROUGH
+Bradford,BURLINGTON BOROUGH,Governor,,Glover/Bostick,GRN,2.0,2.0,0.0,Bradford County,BURLINGTON BOROUGH
+Bradford,BURLINGTON BOROUGH,Governor,,Krawchuk /Smith,LIB,3.0,2.0,1.0,Bradford County,BURLINGTON BOROUGH
+Bradford,BURLINGTON BOROUGH,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,BURLINGTON BOROUGH
+Bradford,BURLINGTON BOROUGH,U.S. House,12.0,Marc Friedenberg,DEM,15.0,13.0,2.0,Bradford County,BURLINGTON BOROUGH
+Bradford,BURLINGTON BOROUGH,U.S. House,12.0,Tom Marino,REP,28.0,28.0,0.0,Bradford County,BURLINGTON BOROUGH
+Bradford,BURLINGTON BOROUGH,U.S. House,12.0,Write In Votes,,0.0,0.0,0.0,Bradford County,BURLINGTON BOROUGH
+Bradford,BURLINGTON BOROUGH,State House,68.0,Carrie Heath,DEM,,,,Bradford County,BURLINGTON BOROUGH
+Bradford,BURLINGTON BOROUGH,State House,68.0,Clint Owlet,REP,,,,Bradford County,BURLINGTON BOROUGH
+Bradford,BURLINGTON BOROUGH,State House,68.0,Write In Votes,,,,,Bradford County,BURLINGTON BOROUGH
+Bradford,BURLINGTON BOROUGH,State House,110.0,Donna Iannone,DEM,16.0,14.0,2.0,Bradford County,BURLINGTON BOROUGH
+Bradford,BURLINGTON BOROUGH,State House,110.0,Tina Pickett,REP,31.0,30.0,1.0,Bradford County,BURLINGTON BOROUGH
+Bradford,BURLINGTON BOROUGH,State House,110.0,Write In Votes,,0.0,0.0,0.0,Bradford County,BURLINGTON BOROUGH
+Bradford,BURLINGTON TOWNSHIP,U.S. Senate,,Bob Casey Jr,DEM,85.0,82.0,3.0,Bradford County,BURLINGTON TOWNSHIP
+Bradford,BURLINGTON TOWNSHIP,U.S. Senate,,Lou Barletta,REP,181.0,172.0,9.0,Bradford County,BURLINGTON TOWNSHIP
+Bradford,BURLINGTON TOWNSHIP,U.S. Senate,,Neal Gale,GRN,4.0,4.0,0.0,Bradford County,BURLINGTON TOWNSHIP
+Bradford,BURLINGTON TOWNSHIP,U.S. Senate,,Dale R Kerns Jr,LIB,3.0,3.0,0.0,Bradford County,BURLINGTON TOWNSHIP
+Bradford,BURLINGTON TOWNSHIP,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,BURLINGTON TOWNSHIP
+Bradford,BURLINGTON TOWNSHIP,Governor,,Wolf/Fetterman,DEM,79.0,76.0,3.0,Bradford County,BURLINGTON TOWNSHIP
+Bradford,BURLINGTON TOWNSHIP,Governor,,Wagner/Bartos,REP,181.0,172.0,9.0,Bradford County,BURLINGTON TOWNSHIP
+Bradford,BURLINGTON TOWNSHIP,Governor,,Glover/Bostick,GRN,2.0,2.0,0.0,Bradford County,BURLINGTON TOWNSHIP
+Bradford,BURLINGTON TOWNSHIP,Governor,,Krawchuk /Smith,LIB,6.0,6.0,0.0,Bradford County,BURLINGTON TOWNSHIP
+Bradford,BURLINGTON TOWNSHIP,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,BURLINGTON TOWNSHIP
+Bradford,BURLINGTON TOWNSHIP,U.S. House,12.0,Marc Friedenberg,DEM,70.0,68.0,2.0,Bradford County,BURLINGTON TOWNSHIP
+Bradford,BURLINGTON TOWNSHIP,U.S. House,12.0,Tom Marino,REP,194.0,184.0,10.0,Bradford County,BURLINGTON TOWNSHIP
+Bradford,BURLINGTON TOWNSHIP,U.S. House,12.0,Write In Votes,,0.0,0.0,0.0,Bradford County,BURLINGTON TOWNSHIP
+Bradford,BURLINGTON TOWNSHIP,State House,68.0,Carrie Heath,DEM,,,,Bradford County,BURLINGTON TOWNSHIP
+Bradford,BURLINGTON TOWNSHIP,State House,68.0,Clint Owlet,REP,,,,Bradford County,BURLINGTON TOWNSHIP
+Bradford,BURLINGTON TOWNSHIP,State House,68.0,Write In Votes,,,,,Bradford County,BURLINGTON TOWNSHIP
+Bradford,BURLINGTON TOWNSHIP,State House,110.0,Donna Iannone,DEM,63.0,62.0,1.0,Bradford County,BURLINGTON TOWNSHIP
+Bradford,BURLINGTON TOWNSHIP,State House,110.0,Tina Pickett,REP,206.0,195.0,11.0,Bradford County,BURLINGTON TOWNSHIP
+Bradford,BURLINGTON TOWNSHIP,State House,110.0,Write In Votes,,0.0,0.0,0.0,Bradford County,BURLINGTON TOWNSHIP
+Bradford,WEST BURLINGTON TOWNSHIP,U.S. Senate,,Bob Casey Jr,DEM,64.0,61.0,3.0,Bradford County,WEST BURLINGTON TOWNSHIP
+Bradford,WEST BURLINGTON TOWNSHIP,U.S. Senate,,Lou Barletta,REP,127.0,120.0,7.0,Bradford County,WEST BURLINGTON TOWNSHIP
+Bradford,WEST BURLINGTON TOWNSHIP,U.S. Senate,,Neal Gale,GRN,0.0,0.0,0.0,Bradford County,WEST BURLINGTON TOWNSHIP
+Bradford,WEST BURLINGTON TOWNSHIP,U.S. Senate,,Dale R Kerns Jr,LIB,1.0,1.0,0.0,Bradford County,WEST BURLINGTON TOWNSHIP
+Bradford,WEST BURLINGTON TOWNSHIP,U.S. Senate,,Write In Votes,,2.0,2.0,0.0,Bradford County,WEST BURLINGTON TOWNSHIP
+Bradford,WEST BURLINGTON TOWNSHIP,Governor,,Wolf/Fetterman,DEM,60.0,57.0,3.0,Bradford County,WEST BURLINGTON TOWNSHIP
+Bradford,WEST BURLINGTON TOWNSHIP,Governor,,Wagner/Bartos,REP,136.0,129.0,7.0,Bradford County,WEST BURLINGTON TOWNSHIP
+Bradford,WEST BURLINGTON TOWNSHIP,Governor,,Glover/Bostick,GRN,0.0,0.0,0.0,Bradford County,WEST BURLINGTON TOWNSHIP
+Bradford,WEST BURLINGTON TOWNSHIP,Governor,,Krawchuk /Smith,LIB,0.0,0.0,0.0,Bradford County,WEST BURLINGTON TOWNSHIP
+Bradford,WEST BURLINGTON TOWNSHIP,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,WEST BURLINGTON TOWNSHIP
+Bradford,WEST BURLINGTON TOWNSHIP,U.S. House,12.0,Marc Friedenberg,DEM,48.0,45.0,3.0,Bradford County,WEST BURLINGTON TOWNSHIP
+Bradford,WEST BURLINGTON TOWNSHIP,U.S. House,12.0,Tom Marino,REP,144.0,136.0,8.0,Bradford County,WEST BURLINGTON TOWNSHIP
+Bradford,WEST BURLINGTON TOWNSHIP,U.S. House,12.0,Write In Votes,,0.0,0.0,0.0,Bradford County,WEST BURLINGTON TOWNSHIP
+Bradford,WEST BURLINGTON TOWNSHIP,State House,68.0,Carrie Heath,DEM,34.0,31.0,3.0,Bradford County,WEST BURLINGTON TOWNSHIP
+Bradford,WEST BURLINGTON TOWNSHIP,State House,68.0,Clint Owlet,REP,162.0,154.0,8.0,Bradford County,WEST BURLINGTON TOWNSHIP
+Bradford,WEST BURLINGTON TOWNSHIP,State House,68.0,Write In Votes,,0.0,0.0,0.0,Bradford County,WEST BURLINGTON TOWNSHIP
+Bradford,WEST BURLINGTON TOWNSHIP,State House,110.0,Donna Iannone,DEM,,,,Bradford County,WEST BURLINGTON TOWNSHIP
+Bradford,WEST BURLINGTON TOWNSHIP,State House,110.0,Tina Pickett,REP,,,,Bradford County,WEST BURLINGTON TOWNSHIP
+Bradford,WEST BURLINGTON TOWNSHIP,State House,110.0,Write In Votes,,,,,Bradford County,WEST BURLINGTON TOWNSHIP
+Bradford,CANTON BOROUGH,U.S. Senate,,Bob Casey Jr,DEM,157.0,154.0,3.0,Bradford County,CANTON BOROUGH
+Bradford,CANTON BOROUGH,U.S. Senate,,Lou Barletta,REP,273.0,265.0,7.0,Bradford County,CANTON BOROUGH
+Bradford,CANTON BOROUGH,U.S. Senate,,Neal Gale,GRN,3.0,3.0,0.0,Bradford County,CANTON BOROUGH
+Bradford,CANTON BOROUGH,U.S. Senate,,Dale R Kerns Jr,LIB,4.0,4.0,0.0,Bradford County,CANTON BOROUGH
+Bradford,CANTON BOROUGH,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,CANTON BOROUGH
+Bradford,CANTON BOROUGH,Governor,,Wolf/Fetterman,DEM,147.0,144.0,3.0,Bradford County,CANTON BOROUGH
+Bradford,CANTON BOROUGH,Governor,,Wagner/Bartos,REP,278.0,270.0,7.0,Bradford County,CANTON BOROUGH
+Bradford,CANTON BOROUGH,Governor,,Glover/Bostick,GRN,4.0,4.0,0.0,Bradford County,CANTON BOROUGH
+Bradford,CANTON BOROUGH,Governor,,Krawchuk /Smith,LIB,6.0,6.0,0.0,Bradford County,CANTON BOROUGH
+Bradford,CANTON BOROUGH,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,CANTON BOROUGH
+Bradford,CANTON BOROUGH,U.S. House,12.0,Marc Friedenberg,DEM,118.0,116.0,2.0,Bradford County,CANTON BOROUGH
+Bradford,CANTON BOROUGH,U.S. House,12.0,Tom Marino,REP,316.0,307.0,8.0,Bradford County,CANTON BOROUGH
+Bradford,CANTON BOROUGH,U.S. House,12.0,Write In Votes,,0.0,0.0,0.0,Bradford County,CANTON BOROUGH
+Bradford,CANTON BOROUGH,State House,68.0,Carrie Heath,DEM,104.0,101.0,3.0,Bradford County,CANTON BOROUGH
+Bradford,CANTON BOROUGH,State House,68.0,Clint Owlet,REP,335.0,327.0,7.0,Bradford County,CANTON BOROUGH
+Bradford,CANTON BOROUGH,State House,68.0,Write In Votes,,0.0,0.0,0.0,Bradford County,CANTON BOROUGH
+Bradford,CANTON BOROUGH,State House,110.0,Donna Iannone,DEM,,,,Bradford County,CANTON BOROUGH
+Bradford,CANTON BOROUGH,State House,110.0,Tina Pickett,REP,,,,Bradford County,CANTON BOROUGH
+Bradford,CANTON BOROUGH,State House,110.0,Write In Votes,,,,,Bradford County,CANTON BOROUGH
+Bradford,CANTON TOWNSHIP,U.S. Senate,,Bob Casey Jr,DEM,141.0,131.0,9.0,Bradford County,CANTON TOWNSHIP
+Bradford,CANTON TOWNSHIP,U.S. Senate,,Lou Barletta,REP,469.0,455.0,12.0,Bradford County,CANTON TOWNSHIP
+Bradford,CANTON TOWNSHIP,U.S. Senate,,Neal Gale,GRN,2.0,2.0,0.0,Bradford County,CANTON TOWNSHIP
+Bradford,CANTON TOWNSHIP,U.S. Senate,,Dale R Kerns Jr,LIB,6.0,6.0,0.0,Bradford County,CANTON TOWNSHIP
+Bradford,CANTON TOWNSHIP,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,CANTON TOWNSHIP
+Bradford,CANTON TOWNSHIP,Governor,,Wolf/Fetterman,DEM,144.0,135.0,9.0,Bradford County,CANTON TOWNSHIP
+Bradford,CANTON TOWNSHIP,Governor,,Wagner/Bartos,REP,468.0,453.0,12.0,Bradford County,CANTON TOWNSHIP
+Bradford,CANTON TOWNSHIP,Governor,,Glover/Bostick,GRN,1.0,1.0,0.0,Bradford County,CANTON TOWNSHIP
+Bradford,CANTON TOWNSHIP,Governor,,Krawchuk /Smith,LIB,5.0,5.0,0.0,Bradford County,CANTON TOWNSHIP
+Bradford,CANTON TOWNSHIP,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,CANTON TOWNSHIP
+Bradford,CANTON TOWNSHIP,U.S. House,12.0,Marc Friedenberg,DEM,99.0,91.0,8.0,Bradford County,CANTON TOWNSHIP
+Bradford,CANTON TOWNSHIP,U.S. House,12.0,Tom Marino,REP,506.0,490.0,13.0,Bradford County,CANTON TOWNSHIP
+Bradford,CANTON TOWNSHIP,U.S. House,12.0,Write In Votes,,1.0,1.0,0.0,Bradford County,CANTON TOWNSHIP
+Bradford,CANTON TOWNSHIP,State House,68.0,Carrie Heath,DEM,83.0,75.0,8.0,Bradford County,CANTON TOWNSHIP
+Bradford,CANTON TOWNSHIP,State House,68.0,Clint Owlet,REP,533.0,517.0,13.0,Bradford County,CANTON TOWNSHIP
+Bradford,CANTON TOWNSHIP,State House,68.0,Write In Votes,,0.0,0.0,0.0,Bradford County,CANTON TOWNSHIP
+Bradford,CANTON TOWNSHIP,State House,110.0,Donna Iannone,DEM,,,,Bradford County,CANTON TOWNSHIP
+Bradford,CANTON TOWNSHIP,State House,110.0,Tina Pickett,REP,,,,Bradford County,CANTON TOWNSHIP
+Bradford,CANTON TOWNSHIP,State House,110.0,Write In Votes,,,,,Bradford County,CANTON TOWNSHIP
+Bradford,COLUMBIA TOWNSHIP,U.S. Senate,,Bob Casey Jr,DEM,129.0,122.0,7.0,Bradford County,COLUMBIA TOWNSHIP
+Bradford,COLUMBIA TOWNSHIP,U.S. Senate,,Lou Barletta,REP,264.0,259.0,5.0,Bradford County,COLUMBIA TOWNSHIP
+Bradford,COLUMBIA TOWNSHIP,U.S. Senate,,Neal Gale,GRN,5.0,5.0,0.0,Bradford County,COLUMBIA TOWNSHIP
+Bradford,COLUMBIA TOWNSHIP,U.S. Senate,,Dale R Kerns Jr,LIB,4.0,3.0,1.0,Bradford County,COLUMBIA TOWNSHIP
+Bradford,COLUMBIA TOWNSHIP,U.S. Senate,,Write In Votes,,1.0,1.0,0.0,Bradford County,COLUMBIA TOWNSHIP
+Bradford,COLUMBIA TOWNSHIP,Governor,,Wolf/Fetterman,DEM,128.0,124.0,4.0,Bradford County,COLUMBIA TOWNSHIP
+Bradford,COLUMBIA TOWNSHIP,Governor,,Wagner/Bartos,REP,266.0,258.0,8.0,Bradford County,COLUMBIA TOWNSHIP
+Bradford,COLUMBIA TOWNSHIP,Governor,,Glover/Bostick,GRN,6.0,5.0,1.0,Bradford County,COLUMBIA TOWNSHIP
+Bradford,COLUMBIA TOWNSHIP,Governor,,Krawchuk /Smith,LIB,7.0,7.0,0.0,Bradford County,COLUMBIA TOWNSHIP
+Bradford,COLUMBIA TOWNSHIP,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,COLUMBIA TOWNSHIP
+Bradford,COLUMBIA TOWNSHIP,U.S. House,12.0,Marc Friedenberg,DEM,97.0,92.0,5.0,Bradford County,COLUMBIA TOWNSHIP
+Bradford,COLUMBIA TOWNSHIP,U.S. House,12.0,Tom Marino,REP,299.0,292.0,7.0,Bradford County,COLUMBIA TOWNSHIP
+Bradford,COLUMBIA TOWNSHIP,U.S. House,12.0,Write In Votes,,1.0,1.0,0.0,Bradford County,COLUMBIA TOWNSHIP
+Bradford,COLUMBIA TOWNSHIP,State House,68.0,Carrie Heath,DEM,76.0,71.0,5.0,Bradford County,COLUMBIA TOWNSHIP
+Bradford,COLUMBIA TOWNSHIP,State House,68.0,Clint Owlet,REP,328.0,320.0,8.0,Bradford County,COLUMBIA TOWNSHIP
+Bradford,COLUMBIA TOWNSHIP,State House,68.0,Write In Votes,,0.0,0.0,0.0,Bradford County,COLUMBIA TOWNSHIP
+Bradford,COLUMBIA TOWNSHIP,State House,110.0,Donna Iannone,DEM,,,,Bradford County,COLUMBIA TOWNSHIP
+Bradford,COLUMBIA TOWNSHIP,State House,110.0,Tina Pickett,REP,,,,Bradford County,COLUMBIA TOWNSHIP
+Bradford,COLUMBIA TOWNSHIP,State House,110.0,Write In Votes,,,,,Bradford County,COLUMBIA TOWNSHIP
+Bradford,FRANKLIN TOWNSHIP,U.S. Senate,,Bob Casey Jr,DEM,56.0,53.0,3.0,Bradford County,FRANKLIN TOWNSHIP
+Bradford,FRANKLIN TOWNSHIP,U.S. Senate,,Lou Barletta,REP,151.0,144.0,7.0,Bradford County,FRANKLIN TOWNSHIP
+Bradford,FRANKLIN TOWNSHIP,U.S. Senate,,Neal Gale,GRN,0.0,0.0,0.0,Bradford County,FRANKLIN TOWNSHIP
+Bradford,FRANKLIN TOWNSHIP,U.S. Senate,,Dale R Kerns Jr,LIB,1.0,1.0,0.0,Bradford County,FRANKLIN TOWNSHIP
+Bradford,FRANKLIN TOWNSHIP,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,FRANKLIN TOWNSHIP
+Bradford,FRANKLIN TOWNSHIP,Governor,,Wolf/Fetterman,DEM,53.0,51.0,2.0,Bradford County,FRANKLIN TOWNSHIP
+Bradford,FRANKLIN TOWNSHIP,Governor,,Wagner/Bartos,REP,156.0,148.0,8.0,Bradford County,FRANKLIN TOWNSHIP
+Bradford,FRANKLIN TOWNSHIP,Governor,,Glover/Bostick,GRN,0.0,0.0,0.0,Bradford County,FRANKLIN TOWNSHIP
+Bradford,FRANKLIN TOWNSHIP,Governor,,Krawchuk /Smith,LIB,1.0,1.0,0.0,Bradford County,FRANKLIN TOWNSHIP
+Bradford,FRANKLIN TOWNSHIP,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,FRANKLIN TOWNSHIP
+Bradford,FRANKLIN TOWNSHIP,U.S. House,12.0,Marc Friedenberg,DEM,47.0,43.0,4.0,Bradford County,FRANKLIN TOWNSHIP
+Bradford,FRANKLIN TOWNSHIP,U.S. House,12.0,Tom Marino,REP,154.0,148.0,6.0,Bradford County,FRANKLIN TOWNSHIP
+Bradford,FRANKLIN TOWNSHIP,U.S. House,12.0,Write In Votes,,0.0,0.0,0.0,Bradford County,FRANKLIN TOWNSHIP
+Bradford,FRANKLIN TOWNSHIP,State House,68.0,Carrie Heath,DEM,,,,Bradford County,FRANKLIN TOWNSHIP
+Bradford,FRANKLIN TOWNSHIP,State House,68.0,Clint Owlet,REP,,,,Bradford County,FRANKLIN TOWNSHIP
+Bradford,FRANKLIN TOWNSHIP,State House,68.0,Write In Votes,,,,,Bradford County,FRANKLIN TOWNSHIP
+Bradford,FRANKLIN TOWNSHIP,State House,110.0,Donna Iannone,DEM,47.0,45.0,2.0,Bradford County,FRANKLIN TOWNSHIP
+Bradford,FRANKLIN TOWNSHIP,State House,110.0,Tina Pickett,REP,158.0,150.0,8.0,Bradford County,FRANKLIN TOWNSHIP
+Bradford,FRANKLIN TOWNSHIP,State House,110.0,Write In Votes,,0.0,0.0,0.0,Bradford County,FRANKLIN TOWNSHIP
+Bradford,GRANVILLE TOWNSHIP,U.S. Senate,,Bob Casey Jr,DEM,93.0,88.0,5.0,Bradford County,GRANVILLE TOWNSHIP
+Bradford,GRANVILLE TOWNSHIP,U.S. Senate,,Lou Barletta,REP,203.0,195.0,8.0,Bradford County,GRANVILLE TOWNSHIP
+Bradford,GRANVILLE TOWNSHIP,U.S. Senate,,Neal Gale,GRN,1.0,1.0,0.0,Bradford County,GRANVILLE TOWNSHIP
+Bradford,GRANVILLE TOWNSHIP,U.S. Senate,,Dale R Kerns Jr,LIB,1.0,1.0,0.0,Bradford County,GRANVILLE TOWNSHIP
+Bradford,GRANVILLE TOWNSHIP,U.S. Senate,,Write In Votes,,1.0,1.0,0.0,Bradford County,GRANVILLE TOWNSHIP
+Bradford,GRANVILLE TOWNSHIP,Governor,,Wolf/Fetterman,DEM,90.0,85.0,5.0,Bradford County,GRANVILLE TOWNSHIP
+Bradford,GRANVILLE TOWNSHIP,Governor,,Wagner/Bartos,REP,207.0,199.0,8.0,Bradford County,GRANVILLE TOWNSHIP
+Bradford,GRANVILLE TOWNSHIP,Governor,,Glover/Bostick,GRN,1.0,1.0,0.0,Bradford County,GRANVILLE TOWNSHIP
+Bradford,GRANVILLE TOWNSHIP,Governor,,Krawchuk /Smith,LIB,2.0,2.0,0.0,Bradford County,GRANVILLE TOWNSHIP
+Bradford,GRANVILLE TOWNSHIP,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,GRANVILLE TOWNSHIP
+Bradford,GRANVILLE TOWNSHIP,U.S. House,12.0,Marc Friedenberg,DEM,69.0,66.0,3.0,Bradford County,GRANVILLE TOWNSHIP
+Bradford,GRANVILLE TOWNSHIP,U.S. House,12.0,Tom Marino,REP,217.0,207.0,10.0,Bradford County,GRANVILLE TOWNSHIP
+Bradford,GRANVILLE TOWNSHIP,U.S. House,12.0,Write In Votes,,1.0,1.0,0.0,Bradford County,GRANVILLE TOWNSHIP
+Bradford,GRANVILLE TOWNSHIP,State House,68.0,Carrie Heath,DEM,62.0,58.0,4.0,Bradford County,GRANVILLE TOWNSHIP
+Bradford,GRANVILLE TOWNSHIP,State House,68.0,Clint Owlet,REP,237.0,228.0,9.0,Bradford County,GRANVILLE TOWNSHIP
+Bradford,GRANVILLE TOWNSHIP,State House,68.0,Write In Votes,,2.0,2.0,0.0,Bradford County,GRANVILLE TOWNSHIP
+Bradford,GRANVILLE TOWNSHIP,State House,110.0,Donna Iannone,DEM,,,,Bradford County,GRANVILLE TOWNSHIP
+Bradford,GRANVILLE TOWNSHIP,State House,110.0,Tina Pickett,REP,,,,Bradford County,GRANVILLE TOWNSHIP
+Bradford,GRANVILLE TOWNSHIP,State House,110.0,Write In Votes,,,,,Bradford County,GRANVILLE TOWNSHIP
+Bradford,HERRICK TOWNSHIP,U.S. Senate,,Bob Casey Jr,DEM,77.0,75.0,2.0,Bradford County,HERRICK TOWNSHIP
+Bradford,HERRICK TOWNSHIP,U.S. Senate,,Lou Barletta,REP,210.0,204.0,6.0,Bradford County,HERRICK TOWNSHIP
+Bradford,HERRICK TOWNSHIP,U.S. Senate,,Neal Gale,GRN,3.0,3.0,0.0,Bradford County,HERRICK TOWNSHIP
+Bradford,HERRICK TOWNSHIP,U.S. Senate,,Dale R Kerns Jr,LIB,2.0,2.0,0.0,Bradford County,HERRICK TOWNSHIP
+Bradford,HERRICK TOWNSHIP,U.S. Senate,,Write In Votes,,1.0,1.0,0.0,Bradford County,HERRICK TOWNSHIP
+Bradford,HERRICK TOWNSHIP,Governor,,Wolf/Fetterman,DEM,76.0,74.0,2.0,Bradford County,HERRICK TOWNSHIP
+Bradford,HERRICK TOWNSHIP,Governor,,Wagner/Bartos,REP,215.0,209.0,6.0,Bradford County,HERRICK TOWNSHIP
+Bradford,HERRICK TOWNSHIP,Governor,,Glover/Bostick,GRN,0.0,0.0,0.0,Bradford County,HERRICK TOWNSHIP
+Bradford,HERRICK TOWNSHIP,Governor,,Krawchuk /Smith,LIB,4.0,4.0,0.0,Bradford County,HERRICK TOWNSHIP
+Bradford,HERRICK TOWNSHIP,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,HERRICK TOWNSHIP
+Bradford,HERRICK TOWNSHIP,U.S. House,12.0,Marc Friedenberg,DEM,56.0,54.0,2.0,Bradford County,HERRICK TOWNSHIP
+Bradford,HERRICK TOWNSHIP,U.S. House,12.0,Tom Marino,REP,229.0,223.0,6.0,Bradford County,HERRICK TOWNSHIP
+Bradford,HERRICK TOWNSHIP,U.S. House,12.0,Write In Votes,,1.0,1.0,0.0,Bradford County,HERRICK TOWNSHIP
+Bradford,HERRICK TOWNSHIP,State House,68.0,Carrie Heath,DEM,,,,Bradford County,HERRICK TOWNSHIP
+Bradford,HERRICK TOWNSHIP,State House,68.0,Clint Owlet,REP,,,,Bradford County,HERRICK TOWNSHIP
+Bradford,HERRICK TOWNSHIP,State House,68.0,Write In Votes,,,,,Bradford County,HERRICK TOWNSHIP
+Bradford,HERRICK TOWNSHIP,State House,110.0,Donna Iannone,DEM,57.0,56.0,1.0,Bradford County,HERRICK TOWNSHIP
+Bradford,HERRICK TOWNSHIP,State House,110.0,Tina Pickett,REP,234.0,227.0,7.0,Bradford County,HERRICK TOWNSHIP
+Bradford,HERRICK TOWNSHIP,State House,110.0,Write In Votes,,0.0,0.0,0.0,Bradford County,HERRICK TOWNSHIP
+Bradford,LERAYSVILLE BOROUGH,U.S. Senate,,Bob Casey Jr,DEM,1.0,1.0,0.0,Bradford County,LERAYSVILLE BOROUGH
+Bradford,LERAYSVILLE BOROUGH,U.S. Senate,,Lou Barletta,REP,0.0,0.0,0.0,Bradford County,LERAYSVILLE BOROUGH
+Bradford,LERAYSVILLE BOROUGH,U.S. Senate,,Neal Gale,GRN,30.0,28.0,2.0,Bradford County,LERAYSVILLE BOROUGH
+Bradford,LERAYSVILLE BOROUGH,U.S. Senate,,Dale R Kerns Jr,LIB,58.0,58.0,0.0,Bradford County,LERAYSVILLE BOROUGH
+Bradford,LERAYSVILLE BOROUGH,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,LERAYSVILLE BOROUGH
+Bradford,LERAYSVILLE BOROUGH,Governor,,Wolf/Fetterman,DEM,2.0,2.0,0.0,Bradford County,LERAYSVILLE BOROUGH
+Bradford,LERAYSVILLE BOROUGH,Governor,,Wagner/Bartos,REP,0.0,0.0,0.0,Bradford County,LERAYSVILLE BOROUGH
+Bradford,LERAYSVILLE BOROUGH,Governor,,Glover/Bostick,GRN,0.0,0.0,0.0,Bradford County,LERAYSVILLE BOROUGH
+Bradford,LERAYSVILLE BOROUGH,Governor,,Krawchuk /Smith,LIB,2.0,2.0,0.0,Bradford County,LERAYSVILLE BOROUGH
+Bradford,LERAYSVILLE BOROUGH,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,LERAYSVILLE BOROUGH
+Bradford,LERAYSVILLE BOROUGH,U.S. House,12.0,Marc Friedenberg,DEM,22.0,21.0,1.0,Bradford County,LERAYSVILLE BOROUGH
+Bradford,LERAYSVILLE BOROUGH,U.S. House,12.0,Tom Marino,REP,65.0,64.0,1.0,Bradford County,LERAYSVILLE BOROUGH
+Bradford,LERAYSVILLE BOROUGH,U.S. House,12.0,Write In Votes,,0.0,0.0,0.0,Bradford County,LERAYSVILLE BOROUGH
+Bradford,LERAYSVILLE BOROUGH,State House,68.0,Carrie Heath,DEM,,,,Bradford County,LERAYSVILLE BOROUGH
+Bradford,LERAYSVILLE BOROUGH,State House,68.0,Clint Owlet,REP,,,,Bradford County,LERAYSVILLE BOROUGH
+Bradford,LERAYSVILLE BOROUGH,State House,68.0,Write In Votes,,,,,Bradford County,LERAYSVILLE BOROUGH
+Bradford,LERAYSVILLE BOROUGH,State House,110.0,Donna Iannone,DEM,25.0,23.0,2.0,Bradford County,LERAYSVILLE BOROUGH
+Bradford,LERAYSVILLE BOROUGH,State House,110.0,Tina Pickett,REP,64.0,64.0,0.0,Bradford County,LERAYSVILLE BOROUGH
+Bradford,LERAYSVILLE BOROUGH,State House,110.0,Write In Votes,,0.0,0.0,0.0,Bradford County,LERAYSVILLE BOROUGH
+Bradford,LEROY TOWNSHIP,U.S. Senate,,Bob Casey Jr,DEM,73.0,68.0,5.0,Bradford County,LEROY TOWNSHIP
+Bradford,LEROY TOWNSHIP,U.S. Senate,,Lou Barletta,REP,179.0,174.0,5.0,Bradford County,LEROY TOWNSHIP
+Bradford,LEROY TOWNSHIP,U.S. Senate,,Neal Gale,GRN,0.0,0.0,0.0,Bradford County,LEROY TOWNSHIP
+Bradford,LEROY TOWNSHIP,U.S. Senate,,Dale R Kerns Jr,LIB,5.0,5.0,0.0,Bradford County,LEROY TOWNSHIP
+Bradford,LEROY TOWNSHIP,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,LEROY TOWNSHIP
+Bradford,LEROY TOWNSHIP,Governor,,Wolf/Fetterman,DEM,68.0,63.0,5.0,Bradford County,LEROY TOWNSHIP
+Bradford,LEROY TOWNSHIP,Governor,,Wagner/Bartos,REP,186.0,181.0,5.0,Bradford County,LEROY TOWNSHIP
+Bradford,LEROY TOWNSHIP,Governor,,Glover/Bostick,GRN,3.0,3.0,0.0,Bradford County,LEROY TOWNSHIP
+Bradford,LEROY TOWNSHIP,Governor,,Krawchuk /Smith,LIB,2.0,2.0,0.0,Bradford County,LEROY TOWNSHIP
+Bradford,LEROY TOWNSHIP,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,LEROY TOWNSHIP
+Bradford,LEROY TOWNSHIP,U.S. House,12.0,Marc Friedenberg,DEM,56.0,52.0,4.0,Bradford County,LEROY TOWNSHIP
+Bradford,LEROY TOWNSHIP,U.S. House,12.0,Tom Marino,REP,199.0,193.0,6.0,Bradford County,LEROY TOWNSHIP
+Bradford,LEROY TOWNSHIP,U.S. House,12.0,Write In Votes,,0.0,0.0,0.0,Bradford County,LEROY TOWNSHIP
+Bradford,LEROY TOWNSHIP,State House,68.0,Carrie Heath,DEM,,,,Bradford County,LEROY TOWNSHIP
+Bradford,LEROY TOWNSHIP,State House,68.0,Clint Owlet,REP,,,,Bradford County,LEROY TOWNSHIP
+Bradford,LEROY TOWNSHIP,State House,68.0,Write In Votes,,,,,Bradford County,LEROY TOWNSHIP
+Bradford,LEROY TOWNSHIP,State House,110.0,Donna Iannone,DEM,61.0,57.0,4.0,Bradford County,LEROY TOWNSHIP
+Bradford,LEROY TOWNSHIP,State House,110.0,Tina Pickett,REP,197.0,191.0,6.0,Bradford County,LEROY TOWNSHIP
+Bradford,LEROY TOWNSHIP,State House,110.0,Write In Votes,,0.0,0.0,0.0,Bradford County,LEROY TOWNSHIP
+Bradford,LITCHFIELD TOWNSHIP,U.S. Senate,,Bob Casey Jr,DEM,136.0,129.0,7.0,Bradford County,LITCHFIELD TOWNSHIP
+Bradford,LITCHFIELD TOWNSHIP,U.S. Senate,,Lou Barletta,REP,363.0,350.0,13.0,Bradford County,LITCHFIELD TOWNSHIP
+Bradford,LITCHFIELD TOWNSHIP,U.S. Senate,,Neal Gale,GRN,4.0,4.0,0.0,Bradford County,LITCHFIELD TOWNSHIP
+Bradford,LITCHFIELD TOWNSHIP,U.S. Senate,,Dale R Kerns Jr,LIB,4.0,4.0,0.0,Bradford County,LITCHFIELD TOWNSHIP
+Bradford,LITCHFIELD TOWNSHIP,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,LITCHFIELD TOWNSHIP
+Bradford,LITCHFIELD TOWNSHIP,Governor,,Wolf/Fetterman,DEM,145.0,138.0,7.0,Bradford County,LITCHFIELD TOWNSHIP
+Bradford,LITCHFIELD TOWNSHIP,Governor,,Wagner/Bartos,REP,357.0,344.0,13.0,Bradford County,LITCHFIELD TOWNSHIP
+Bradford,LITCHFIELD TOWNSHIP,Governor,,Glover/Bostick,GRN,2.0,2.0,0.0,Bradford County,LITCHFIELD TOWNSHIP
+Bradford,LITCHFIELD TOWNSHIP,Governor,,Krawchuk /Smith,LIB,8.0,8.0,0.0,Bradford County,LITCHFIELD TOWNSHIP
+Bradford,LITCHFIELD TOWNSHIP,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,LITCHFIELD TOWNSHIP
+Bradford,LITCHFIELD TOWNSHIP,U.S. House,12.0,Marc Friedenberg,DEM,105.0,101.0,4.0,Bradford County,LITCHFIELD TOWNSHIP
+Bradford,LITCHFIELD TOWNSHIP,U.S. House,12.0,Tom Marino,REP,405.0,389.0,16.0,Bradford County,LITCHFIELD TOWNSHIP
+Bradford,LITCHFIELD TOWNSHIP,U.S. House,12.0,Write In Votes,,0.0,0.0,0.0,Bradford County,LITCHFIELD TOWNSHIP
+Bradford,LITCHFIELD TOWNSHIP,State House,68.0,Carrie Heath,DEM,,,,Bradford County,LITCHFIELD TOWNSHIP
+Bradford,LITCHFIELD TOWNSHIP,State House,68.0,Clint Owlet,REP,,,,Bradford County,LITCHFIELD TOWNSHIP
+Bradford,LITCHFIELD TOWNSHIP,State House,68.0,Write In Votes,,,,,Bradford County,LITCHFIELD TOWNSHIP
+Bradford,LITCHFIELD TOWNSHIP,State House,110.0,Donna Iannone,DEM,103.0,99.0,4.0,Bradford County,LITCHFIELD TOWNSHIP
+Bradford,LITCHFIELD TOWNSHIP,State House,110.0,Tina Pickett,REP,411.0,395.0,16.0,Bradford County,LITCHFIELD TOWNSHIP
+Bradford,LITCHFIELD TOWNSHIP,State House,110.0,Write In Votes,,1.0,1.0,0.0,Bradford County,LITCHFIELD TOWNSHIP
+Bradford,MONROE BOROUGH,U.S. Senate,,Bob Casey Jr,DEM,63.0,62.0,1.0,Bradford County,MONROE BOROUGH
+Bradford,MONROE BOROUGH,U.S. Senate,,Lou Barletta,REP,106.0,102.0,4.0,Bradford County,MONROE BOROUGH
+Bradford,MONROE BOROUGH,U.S. Senate,,Neal Gale,GRN,2.0,2.0,0.0,Bradford County,MONROE BOROUGH
+Bradford,MONROE BOROUGH,U.S. Senate,,Dale R Kerns Jr,LIB,2.0,2.0,0.0,Bradford County,MONROE BOROUGH
+Bradford,MONROE BOROUGH,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,MONROE BOROUGH
+Bradford,MONROE BOROUGH,Governor,,Wolf/Fetterman,DEM,73.0,72.0,1.0,Bradford County,MONROE BOROUGH
+Bradford,MONROE BOROUGH,Governor,,Wagner/Bartos,REP,97.0,93.0,4.0,Bradford County,MONROE BOROUGH
+Bradford,MONROE BOROUGH,Governor,,Glover/Bostick,GRN,1.0,1.0,0.0,Bradford County,MONROE BOROUGH
+Bradford,MONROE BOROUGH,Governor,,Krawchuk /Smith,LIB,3.0,3.0,0.0,Bradford County,MONROE BOROUGH
+Bradford,MONROE BOROUGH,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,MONROE BOROUGH
+Bradford,MONROE BOROUGH,U.S. House,12.0,Marc Friedenberg,DEM,51.0,50.0,1.0,Bradford County,MONROE BOROUGH
+Bradford,MONROE BOROUGH,U.S. House,12.0,Tom Marino,REP,118.0,114.0,1.0,Bradford County,MONROE BOROUGH
+Bradford,MONROE BOROUGH,U.S. House,12.0,Write In Votes,,0.0,0.0,0.0,Bradford County,MONROE BOROUGH
+Bradford,MONROE BOROUGH,State House,68.0,Carrie Heath,DEM,,,,Bradford County,MONROE BOROUGH
+Bradford,MONROE BOROUGH,State House,68.0,Clint Owlet,REP,,,,Bradford County,MONROE BOROUGH
+Bradford,MONROE BOROUGH,State House,68.0,Write In Votes,,,,,Bradford County,MONROE BOROUGH
+Bradford,MONROE BOROUGH,State House,110.0,Donna Iannone,DEM,65.0,64.0,1.0,Bradford County,MONROE BOROUGH
+Bradford,MONROE BOROUGH,State House,110.0,Tina Pickett,REP,106.0,102.0,4.0,Bradford County,MONROE BOROUGH
+Bradford,MONROE BOROUGH,State House,110.0,Write In Votes,,1.0,1.0,0.0,Bradford County,MONROE BOROUGH
+Bradford,MONROE TOWNSHIP,U.S. Senate,,Bob Casey Jr,DEM,108.0,103.0,5.0,Bradford County,MONROE TOWNSHIP
+Bradford,MONROE TOWNSHIP,U.S. Senate,,Lou Barletta,REP,236.0,222.0,14.0,Bradford County,MONROE TOWNSHIP
+Bradford,MONROE TOWNSHIP,U.S. Senate,,Neal Gale,GRN,1.0,1.0,0.0,Bradford County,MONROE TOWNSHIP
+Bradford,MONROE TOWNSHIP,U.S. Senate,,Dale R Kerns Jr,LIB,1.0,1.0,0.0,Bradford County,MONROE TOWNSHIP
+Bradford,MONROE TOWNSHIP,U.S. Senate,,Write In Votes,,1.0,1.0,0.0,Bradford County,MONROE TOWNSHIP
+Bradford,MONROE TOWNSHIP,Governor,,Wolf/Fetterman,DEM,94.0,90.0,4.0,Bradford County,MONROE TOWNSHIP
+Bradford,MONROE TOWNSHIP,Governor,,Wagner/Bartos,REP,243.0,228.0,15.0,Bradford County,MONROE TOWNSHIP
+Bradford,MONROE TOWNSHIP,Governor,,Glover/Bostick,GRN,4.0,4.0,0.0,Bradford County,MONROE TOWNSHIP
+Bradford,MONROE TOWNSHIP,Governor,,Krawchuk /Smith,LIB,6.0,6.0,0.0,Bradford County,MONROE TOWNSHIP
+Bradford,MONROE TOWNSHIP,Governor,,Write In Votes,,1.0,1.0,0.0,Bradford County,MONROE TOWNSHIP
+Bradford,MONROE TOWNSHIP,U.S. House,12.0,Marc Friedenberg,DEM,83.0,78.0,5.0,Bradford County,MONROE TOWNSHIP
+Bradford,MONROE TOWNSHIP,U.S. House,12.0,Tom Marino,REP,259.0,245.0,14.0,Bradford County,MONROE TOWNSHIP
+Bradford,MONROE TOWNSHIP,U.S. House,12.0,Write In Votes,,1.0,1.0,0.0,Bradford County,MONROE TOWNSHIP
+Bradford,MONROE TOWNSHIP,State House,68.0,Carrie Heath,DEM,,,,Bradford County,MONROE TOWNSHIP
+Bradford,MONROE TOWNSHIP,State House,68.0,Clint Owlet,REP,,,,Bradford County,MONROE TOWNSHIP
+Bradford,MONROE TOWNSHIP,State House,68.0,Write In Votes,,,,,Bradford County,MONROE TOWNSHIP
+Bradford,MONROE TOWNSHIP,State House,110.0,Donna Iannone,DEM,104.0,99.0,5.0,Bradford County,MONROE TOWNSHIP
+Bradford,MONROE TOWNSHIP,State House,110.0,Tina Pickett,REP,243.0,229.0,14.0,Bradford County,MONROE TOWNSHIP
+Bradford,MONROE TOWNSHIP,State House,110.0,Write In Votes,,2.0,2.0,0.0,Bradford County,MONROE TOWNSHIP
+Bradford,NEW ALBANY BOROUGH,U.S. Senate,,Bob Casey Jr,DEM,22.0,22.0,0.0,Bradford County,NEW ALBANY BOROUGH
+Bradford,NEW ALBANY BOROUGH,U.S. Senate,,Lou Barletta,REP,43.0,42.0,1.0,Bradford County,NEW ALBANY BOROUGH
+Bradford,NEW ALBANY BOROUGH,U.S. Senate,,Neal Gale,GRN,0.0,0.0,0.0,Bradford County,NEW ALBANY BOROUGH
+Bradford,NEW ALBANY BOROUGH,U.S. Senate,,Dale R Kerns Jr,LIB,2.0,2.0,0.0,Bradford County,NEW ALBANY BOROUGH
+Bradford,NEW ALBANY BOROUGH,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,NEW ALBANY BOROUGH
+Bradford,NEW ALBANY BOROUGH,Governor,,Wolf/Fetterman,DEM,19.0,19.0,0.0,Bradford County,NEW ALBANY BOROUGH
+Bradford,NEW ALBANY BOROUGH,Governor,,Wagner/Bartos,REP,44.0,43.0,1.0,Bradford County,NEW ALBANY BOROUGH
+Bradford,NEW ALBANY BOROUGH,Governor,,Glover/Bostick,GRN,0.0,0.0,0.0,Bradford County,NEW ALBANY BOROUGH
+Bradford,NEW ALBANY BOROUGH,Governor,,Krawchuk /Smith,LIB,2.0,2.0,0.0,Bradford County,NEW ALBANY BOROUGH
+Bradford,NEW ALBANY BOROUGH,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,NEW ALBANY BOROUGH
+Bradford,NEW ALBANY BOROUGH,U.S. House,12.0,Marc Friedenberg,DEM,18.0,18.0,0.0,Bradford County,NEW ALBANY BOROUGH
+Bradford,NEW ALBANY BOROUGH,U.S. House,12.0,Tom Marino,REP,48.0,47.0,1.0,Bradford County,NEW ALBANY BOROUGH
+Bradford,NEW ALBANY BOROUGH,U.S. House,12.0,Write In Votes,,0.0,0.0,0.0,Bradford County,NEW ALBANY BOROUGH
+Bradford,NEW ALBANY BOROUGH,State House,68.0,Carrie Heath,DEM,,,,Bradford County,NEW ALBANY BOROUGH
+Bradford,NEW ALBANY BOROUGH,State House,68.0,Clint Owlet,REP,,,,Bradford County,NEW ALBANY BOROUGH
+Bradford,NEW ALBANY BOROUGH,State House,68.0,Write In Votes,,,,,Bradford County,NEW ALBANY BOROUGH
+Bradford,NEW ALBANY BOROUGH,State House,110.0,Donna Iannone,DEM,13.0,13.0,0.0,Bradford County,NEW ALBANY BOROUGH
+Bradford,NEW ALBANY BOROUGH,State House,110.0,Tina Pickett,REP,54.0,53.0,1.0,Bradford County,NEW ALBANY BOROUGH
+Bradford,NEW ALBANY BOROUGH,State House,110.0,Write In Votes,,0.0,0.0,0.0,Bradford County,NEW ALBANY BOROUGH
+Bradford,ORWELL TOWNSHIP,U.S. Senate,,Bob Casey Jr,DEM,134.0,127.0,7.0,Bradford County,ORWELL TOWNSHIP
+Bradford,ORWELL TOWNSHIP,U.S. Senate,,Lou Barletta,REP,301.0,283.0,16.0,Bradford County,ORWELL TOWNSHIP
+Bradford,ORWELL TOWNSHIP,U.S. Senate,,Neal Gale,GRN,1.0,1.0,0.0,Bradford County,ORWELL TOWNSHIP
+Bradford,ORWELL TOWNSHIP,U.S. Senate,,Dale R Kerns Jr,LIB,3.0,3.0,0.0,Bradford County,ORWELL TOWNSHIP
+Bradford,ORWELL TOWNSHIP,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,ORWELL TOWNSHIP
+Bradford,ORWELL TOWNSHIP,Governor,,Wolf/Fetterman,DEM,125.0,118.0,7.0,Bradford County,ORWELL TOWNSHIP
+Bradford,ORWELL TOWNSHIP,Governor,,Wagner/Bartos,REP,307.0,289.0,16.0,Bradford County,ORWELL TOWNSHIP
+Bradford,ORWELL TOWNSHIP,Governor,,Glover/Bostick,GRN,3.0,3.0,0.0,Bradford County,ORWELL TOWNSHIP
+Bradford,ORWELL TOWNSHIP,Governor,,Krawchuk /Smith,LIB,5.0,5.0,0.0,Bradford County,ORWELL TOWNSHIP
+Bradford,ORWELL TOWNSHIP,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,ORWELL TOWNSHIP
+Bradford,ORWELL TOWNSHIP,U.S. House,12.0,Marc Friedenberg,DEM,100.0,95.0,5.0,Bradford County,ORWELL TOWNSHIP
+Bradford,ORWELL TOWNSHIP,U.S. House,12.0,Tom Marino,REP,334.0,314.0,18.0,Bradford County,ORWELL TOWNSHIP
+Bradford,ORWELL TOWNSHIP,U.S. House,12.0,Write In Votes,,0.0,0.0,0.0,Bradford County,ORWELL TOWNSHIP
+Bradford,ORWELL TOWNSHIP,State House,68.0,Carrie Heath,DEM,,,,Bradford County,ORWELL TOWNSHIP
+Bradford,ORWELL TOWNSHIP,State House,68.0,Clint Owlet,REP,,,,Bradford County,ORWELL TOWNSHIP
+Bradford,ORWELL TOWNSHIP,State House,68.0,Write In Votes,,,,,Bradford County,ORWELL TOWNSHIP
+Bradford,ORWELL TOWNSHIP,State House,110.0,Donna Iannone,DEM,113.0,108.0,5.0,Bradford County,ORWELL TOWNSHIP
+Bradford,ORWELL TOWNSHIP,State House,110.0,Tina Pickett,REP,324.0,304.0,18.0,Bradford County,ORWELL TOWNSHIP
+Bradford,ORWELL TOWNSHIP,State House,110.0,Write In Votes,,1.0,1.0,0.0,Bradford County,ORWELL TOWNSHIP
+Bradford,OVERTON TOWNSHIP,U.S. Senate,,Bob Casey Jr,DEM,32.0,30.0,2.0,Bradford County,OVERTON TOWNSHIP
+Bradford,OVERTON TOWNSHIP,U.S. Senate,,Lou Barletta,REP,64.0,64.0,0.0,Bradford County,OVERTON TOWNSHIP
+Bradford,OVERTON TOWNSHIP,U.S. Senate,,Neal Gale,GRN,1.0,1.0,0.0,Bradford County,OVERTON TOWNSHIP
+Bradford,OVERTON TOWNSHIP,U.S. Senate,,Dale R Kerns Jr,LIB,1.0,1.0,0.0,Bradford County,OVERTON TOWNSHIP
+Bradford,OVERTON TOWNSHIP,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,OVERTON TOWNSHIP
+Bradford,OVERTON TOWNSHIP,Governor,,Wolf/Fetterman,DEM,31.0,31.0,0.0,Bradford County,OVERTON TOWNSHIP
+Bradford,OVERTON TOWNSHIP,Governor,,Wagner/Bartos,REP,65.0,63.0,2.0,Bradford County,OVERTON TOWNSHIP
+Bradford,OVERTON TOWNSHIP,Governor,,Glover/Bostick,GRN,0.0,0.0,0.0,Bradford County,OVERTON TOWNSHIP
+Bradford,OVERTON TOWNSHIP,Governor,,Krawchuk /Smith,LIB,1.0,1.0,0.0,Bradford County,OVERTON TOWNSHIP
+Bradford,OVERTON TOWNSHIP,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,OVERTON TOWNSHIP
+Bradford,OVERTON TOWNSHIP,U.S. House,12.0,Marc Friedenberg,DEM,25.0,24.0,1.0,Bradford County,OVERTON TOWNSHIP
+Bradford,OVERTON TOWNSHIP,U.S. House,12.0,Tom Marino,REP,73.0,72.0,1.0,Bradford County,OVERTON TOWNSHIP
+Bradford,OVERTON TOWNSHIP,U.S. House,12.0,Write In Votes,,0.0,0.0,0.0,Bradford County,OVERTON TOWNSHIP
+Bradford,OVERTON TOWNSHIP,State House,68.0,Carrie Heath,DEM,,,,Bradford County,OVERTON TOWNSHIP
+Bradford,OVERTON TOWNSHIP,State House,68.0,Clint Owlet,REP,,,,Bradford County,OVERTON TOWNSHIP
+Bradford,OVERTON TOWNSHIP,State House,68.0,Write In Votes,,,,,Bradford County,OVERTON TOWNSHIP
+Bradford,OVERTON TOWNSHIP,State House,110.0,Donna Iannone,DEM,34.0,32.0,2.0,Bradford County,OVERTON TOWNSHIP
+Bradford,OVERTON TOWNSHIP,State House,110.0,Tina Pickett,REP,64.0,64.0,0.0,Bradford County,OVERTON TOWNSHIP
+Bradford,OVERTON TOWNSHIP,State House,110.0,Write In Votes,,0.0,0.0,0.0,Bradford County,OVERTON TOWNSHIP
+Bradford,PIKE TOWNSHIP,U.S. Senate,,Bob Casey Jr,DEM,57.0,56.0,1.0,Bradford County,PIKE TOWNSHIP
+Bradford,PIKE TOWNSHIP,U.S. Senate,,Lou Barletta,REP,158.0,152.0,6.0,Bradford County,PIKE TOWNSHIP
+Bradford,PIKE TOWNSHIP,U.S. Senate,,Neal Gale,GRN,2.0,2.0,0.0,Bradford County,PIKE TOWNSHIP
+Bradford,PIKE TOWNSHIP,U.S. Senate,,Dale R Kerns Jr,LIB,2.0,2.0,0.0,Bradford County,PIKE TOWNSHIP
+Bradford,PIKE TOWNSHIP,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,PIKE TOWNSHIP
+Bradford,PIKE TOWNSHIP,Governor,,Wolf/Fetterman,DEM,54.0,53.0,1.0,Bradford County,PIKE TOWNSHIP
+Bradford,PIKE TOWNSHIP,Governor,,Wagner/Bartos,REP,158.0,152.0,6.0,Bradford County,PIKE TOWNSHIP
+Bradford,PIKE TOWNSHIP,Governor,,Glover/Bostick,GRN,3.0,3.0,0.0,Bradford County,PIKE TOWNSHIP
+Bradford,PIKE TOWNSHIP,Governor,,Krawchuk /Smith,LIB,6.0,6.0,0.0,Bradford County,PIKE TOWNSHIP
+Bradford,PIKE TOWNSHIP,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,PIKE TOWNSHIP
+Bradford,PIKE TOWNSHIP,U.S. House,12.0,Marc Friedenberg,DEM,45.0,44.0,1.0,Bradford County,PIKE TOWNSHIP
+Bradford,PIKE TOWNSHIP,U.S. House,12.0,Tom Marino,REP,171.0,165.0,6.0,Bradford County,PIKE TOWNSHIP
+Bradford,PIKE TOWNSHIP,U.S. House,12.0,Write In Votes,,0.0,0.0,0.0,Bradford County,PIKE TOWNSHIP
+Bradford,PIKE TOWNSHIP,State House,68.0,Carrie Heath,DEM,,,,Bradford County,PIKE TOWNSHIP
+Bradford,PIKE TOWNSHIP,State House,68.0,Clint Owlet,REP,,,,Bradford County,PIKE TOWNSHIP
+Bradford,PIKE TOWNSHIP,State House,68.0,Write In Votes,,,,,Bradford County,PIKE TOWNSHIP
+Bradford,PIKE TOWNSHIP,State House,110.0,Donna Iannone,DEM,39.0,38.0,1.0,Bradford County,PIKE TOWNSHIP
+Bradford,PIKE TOWNSHIP,State House,110.0,Tina Pickett,REP,180.0,174.0,6.0,Bradford County,PIKE TOWNSHIP
+Bradford,PIKE TOWNSHIP,State House,110.0,Write In Votes,,0.0,0.0,0.0,Bradford County,PIKE TOWNSHIP
+Bradford,RIDGEBURY TOWNSHIP,U.S. Senate,,Bob Casey Jr,DEM,181.0,173.0,8.0,Bradford County,RIDGEBURY TOWNSHIP
+Bradford,RIDGEBURY TOWNSHIP,U.S. Senate,,Lou Barletta,REP,437.0,428.0,9.0,Bradford County,RIDGEBURY TOWNSHIP
+Bradford,RIDGEBURY TOWNSHIP,U.S. Senate,,Neal Gale,GRN,4.0,4.0,0.0,Bradford County,RIDGEBURY TOWNSHIP
+Bradford,RIDGEBURY TOWNSHIP,U.S. Senate,,Dale R Kerns Jr,LIB,13.0,13.0,0.0,Bradford County,RIDGEBURY TOWNSHIP
+Bradford,RIDGEBURY TOWNSHIP,U.S. Senate,,Write In Votes,,1.0,1.0,0.0,Bradford County,RIDGEBURY TOWNSHIP
+Bradford,RIDGEBURY TOWNSHIP,Governor,,Wolf/Fetterman,DEM,174.0,169.0,5.0,Bradford County,RIDGEBURY TOWNSHIP
+Bradford,RIDGEBURY TOWNSHIP,Governor,,Wagner/Bartos,REP,434.0,425.0,9.0,Bradford County,RIDGEBURY TOWNSHIP
+Bradford,RIDGEBURY TOWNSHIP,Governor,,Glover/Bostick,GRN,8.0,5.0,3.0,Bradford County,RIDGEBURY TOWNSHIP
+Bradford,RIDGEBURY TOWNSHIP,Governor,,Krawchuk /Smith,LIB,19.0,19.0,0.0,Bradford County,RIDGEBURY TOWNSHIP
+Bradford,RIDGEBURY TOWNSHIP,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,RIDGEBURY TOWNSHIP
+Bradford,RIDGEBURY TOWNSHIP,U.S. House,12.0,Marc Friedenberg,DEM,141.0,136.0,5.0,Bradford County,RIDGEBURY TOWNSHIP
+Bradford,RIDGEBURY TOWNSHIP,U.S. House,12.0,Tom Marino,REP,481.0,469.0,12.0,Bradford County,RIDGEBURY TOWNSHIP
+Bradford,RIDGEBURY TOWNSHIP,U.S. House,12.0,Write In Votes,,2.0,2.0,0.0,Bradford County,RIDGEBURY TOWNSHIP
+Bradford,RIDGEBURY TOWNSHIP,State House,68.0,Carrie Heath,DEM,134.0,129.0,5.0,Bradford County,RIDGEBURY TOWNSHIP
+Bradford,RIDGEBURY TOWNSHIP,State House,68.0,Clint Owlet,REP,495.0,483.0,12.0,Bradford County,RIDGEBURY TOWNSHIP
+Bradford,RIDGEBURY TOWNSHIP,State House,68.0,Write In Votes,,1.0,1.0,0.0,Bradford County,RIDGEBURY TOWNSHIP
+Bradford,RIDGEBURY TOWNSHIP,State House,110.0,Donna Iannone,DEM,,,,Bradford County,RIDGEBURY TOWNSHIP
+Bradford,RIDGEBURY TOWNSHIP,State House,110.0,Tina Pickett,REP,,,,Bradford County,RIDGEBURY TOWNSHIP
+Bradford,RIDGEBURY TOWNSHIP,State House,110.0,Write In Votes,,,,,Bradford County,RIDGEBURY TOWNSHIP
+Bradford,ROME BOROUGH,U.S. Senate,,Bob Casey Jr,DEM,20.0,20.0,0.0,Bradford County,ROME BOROUGH
+Bradford,ROME BOROUGH,U.S. Senate,,Lou Barletta,REP,58.0,58.0,0.0,Bradford County,ROME BOROUGH
+Bradford,ROME BOROUGH,U.S. Senate,,Neal Gale,GRN,1.0,1.0,0.0,Bradford County,ROME BOROUGH
+Bradford,ROME BOROUGH,U.S. Senate,,Dale R Kerns Jr,LIB,0.0,0.0,0.0,Bradford County,ROME BOROUGH
+Bradford,ROME BOROUGH,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,ROME BOROUGH
+Bradford,ROME BOROUGH,Governor,,Wolf/Fetterman,DEM,22.0,22.0,0.0,Bradford County,ROME BOROUGH
+Bradford,ROME BOROUGH,Governor,,Wagner/Bartos,REP,57.0,57.0,0.0,Bradford County,ROME BOROUGH
+Bradford,ROME BOROUGH,Governor,,Glover/Bostick,GRN,1.0,1.0,0.0,Bradford County,ROME BOROUGH
+Bradford,ROME BOROUGH,Governor,,Krawchuk /Smith,LIB,0.0,0.0,0.0,Bradford County,ROME BOROUGH
+Bradford,ROME BOROUGH,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,ROME BOROUGH
+Bradford,ROME BOROUGH,U.S. House,12.0,Marc Friedenberg,DEM,17.0,17.0,0.0,Bradford County,ROME BOROUGH
+Bradford,ROME BOROUGH,U.S. House,12.0,Tom Marino,REP,62.0,62.0,0.0,Bradford County,ROME BOROUGH
+Bradford,ROME BOROUGH,U.S. House,12.0,Write In Votes,,0.0,0.0,0.0,Bradford County,ROME BOROUGH
+Bradford,ROME BOROUGH,State House,68.0,Carrie Heath,DEM,,,,Bradford County,ROME BOROUGH
+Bradford,ROME BOROUGH,State House,68.0,Clint Owlet,REP,,,,Bradford County,ROME BOROUGH
+Bradford,ROME BOROUGH,State House,68.0,Write In Votes,,,,,Bradford County,ROME BOROUGH
+Bradford,ROME BOROUGH,State House,110.0,Donna Iannone,DEM,15.0,15.0,0.0,Bradford County,ROME BOROUGH
+Bradford,ROME BOROUGH,State House,110.0,Tina Pickett,REP,64.0,64.0,0.0,Bradford County,ROME BOROUGH
+Bradford,ROME BOROUGH,State House,110.0,Write In Votes,,0.0,0.0,0.0,Bradford County,ROME BOROUGH
+Bradford,ROME TOWNSHIP,U.S. Senate,,Bob Casey Jr,DEM,94.0,93.0,1.0,Bradford County,ROME TOWNSHIP
+Bradford,ROME TOWNSHIP,U.S. Senate,,Lou Barletta,REP,289.0,271.0,18.0,Bradford County,ROME TOWNSHIP
+Bradford,ROME TOWNSHIP,U.S. Senate,,Neal Gale,GRN,2.0,2.0,0.0,Bradford County,ROME TOWNSHIP
+Bradford,ROME TOWNSHIP,U.S. Senate,,Dale R Kerns Jr,LIB,6.0,6.0,0.0,Bradford County,ROME TOWNSHIP
+Bradford,ROME TOWNSHIP,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,ROME TOWNSHIP
+Bradford,ROME TOWNSHIP,Governor,,Wolf/Fetterman,DEM,96.0,94.0,2.0,Bradford County,ROME TOWNSHIP
+Bradford,ROME TOWNSHIP,Governor,,Wagner/Bartos,REP,285.0,268.0,17.0,Bradford County,ROME TOWNSHIP
+Bradford,ROME TOWNSHIP,Governor,,Glover/Bostick,GRN,1.0,1.0,0.0,Bradford County,ROME TOWNSHIP
+Bradford,ROME TOWNSHIP,Governor,,Krawchuk /Smith,LIB,10.0,10.0,0.0,Bradford County,ROME TOWNSHIP
+Bradford,ROME TOWNSHIP,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,ROME TOWNSHIP
+Bradford,ROME TOWNSHIP,U.S. House,12.0,Marc Friedenberg,DEM,70.0,68.0,2.0,Bradford County,ROME TOWNSHIP
+Bradford,ROME TOWNSHIP,U.S. House,12.0,Tom Marino,REP,310.0,293.0,17.0,Bradford County,ROME TOWNSHIP
+Bradford,ROME TOWNSHIP,U.S. House,12.0,Write In Votes,,4.0,4.0,0.0,Bradford County,ROME TOWNSHIP
+Bradford,ROME TOWNSHIP,State House,68.0,Carrie Heath,DEM,,,,Bradford County,ROME TOWNSHIP
+Bradford,ROME TOWNSHIP,State House,68.0,Clint Owlet,REP,,,,Bradford County,ROME TOWNSHIP
+Bradford,ROME TOWNSHIP,State House,68.0,Write In Votes,,,,,Bradford County,ROME TOWNSHIP
+Bradford,ROME TOWNSHIP,State House,110.0,Donna Iannone,DEM,89.0,87.0,2.0,Bradford County,ROME TOWNSHIP
+Bradford,ROME TOWNSHIP,State House,110.0,Tina Pickett,REP,300.0,283.0,17.0,Bradford County,ROME TOWNSHIP
+Bradford,ROME TOWNSHIP,State House,110.0,Write In Votes,,2.0,2.0,0.0,Bradford County,ROME TOWNSHIP
+Bradford,SAYRE BOROUGH 1ST,U.S. Senate,,Bob Casey Jr,DEM,146.0,138.0,8.0,Bradford County,SAYRE BOROUGH 1ST
+Bradford,SAYRE BOROUGH 1ST,U.S. Senate,,Lou Barletta,REP,103.0,99.0,3.0,Bradford County,SAYRE BOROUGH 1ST
+Bradford,SAYRE BOROUGH 1ST,U.S. Senate,,Neal Gale,GRN,4.0,3.0,0.0,Bradford County,SAYRE BOROUGH 1ST
+Bradford,SAYRE BOROUGH 1ST,U.S. Senate,,Dale R Kerns Jr,LIB,3.0,3.0,0.0,Bradford County,SAYRE BOROUGH 1ST
+Bradford,SAYRE BOROUGH 1ST,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,SAYRE BOROUGH 1ST
+Bradford,SAYRE BOROUGH 1ST,Governor,,Wolf/Fetterman,DEM,149.0,142.0,7.0,Bradford County,SAYRE BOROUGH 1ST
+Bradford,SAYRE BOROUGH 1ST,Governor,,Wagner/Bartos,REP,97.0,93.0,3.0,Bradford County,SAYRE BOROUGH 1ST
+Bradford,SAYRE BOROUGH 1ST,Governor,,Glover/Bostick,GRN,2.0,1.0,0.0,Bradford County,SAYRE BOROUGH 1ST
+Bradford,SAYRE BOROUGH 1ST,Governor,,Krawchuk /Smith,LIB,8.0,7.0,1.0,Bradford County,SAYRE BOROUGH 1ST
+Bradford,SAYRE BOROUGH 1ST,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,SAYRE BOROUGH 1ST
+Bradford,SAYRE BOROUGH 1ST,U.S. House,12.0,Marc Friedenberg,DEM,129.0,119.0,9.0,Bradford County,SAYRE BOROUGH 1ST
+Bradford,SAYRE BOROUGH 1ST,U.S. House,12.0,Tom Marino,REP,120.0,117.0,2.0,Bradford County,SAYRE BOROUGH 1ST
+Bradford,SAYRE BOROUGH 1ST,U.S. House,12.0,Write In Votes,,0.0,0.0,0.0,Bradford County,SAYRE BOROUGH 1ST
+Bradford,SAYRE BOROUGH 1ST,State House,68.0,Carrie Heath,DEM,,,,Bradford County,SAYRE BOROUGH 1ST
+Bradford,SAYRE BOROUGH 1ST,State House,68.0,Clint Owlet,REP,,,,Bradford County,SAYRE BOROUGH 1ST
+Bradford,SAYRE BOROUGH 1ST,State House,68.0,Write In Votes,,,,,Bradford County,SAYRE BOROUGH 1ST
+Bradford,SAYRE BOROUGH 1ST,State House,110.0,Donna Iannone,DEM,100.0,94.0,5.0,Bradford County,SAYRE BOROUGH 1ST
+Bradford,SAYRE BOROUGH 1ST,State House,110.0,Tina Pickett,REP,154.0,147.0,6.0,Bradford County,SAYRE BOROUGH 1ST
+Bradford,SAYRE BOROUGH 1ST,State House,110.0,Write In Votes,,0.0,0.0,0.0,Bradford County,SAYRE BOROUGH 1ST
+Bradford,SAYRE BOROUGH 2ND,U.S. Senate,,Bob Casey Jr,DEM,379.0,373.0,6.0,Bradford County,SAYRE BOROUGH 2ND
+Bradford,SAYRE BOROUGH 2ND,U.S. Senate,,Lou Barletta,REP,328.0,318.0,10.0,Bradford County,SAYRE BOROUGH 2ND
+Bradford,SAYRE BOROUGH 2ND,U.S. Senate,,Neal Gale,GRN,5.0,5.0,0.0,Bradford County,SAYRE BOROUGH 2ND
+Bradford,SAYRE BOROUGH 2ND,U.S. Senate,,Dale R Kerns Jr,LIB,11.0,11.0,0.0,Bradford County,SAYRE BOROUGH 2ND
+Bradford,SAYRE BOROUGH 2ND,U.S. Senate,,Write In Votes,,3.0,3.0,0.0,Bradford County,SAYRE BOROUGH 2ND
+Bradford,SAYRE BOROUGH 2ND,Governor,,Wolf/Fetterman,DEM,370.0,363.0,7.0,Bradford County,SAYRE BOROUGH 2ND
+Bradford,SAYRE BOROUGH 2ND,Governor,,Wagner/Bartos,REP,329.0,320.0,9.0,Bradford County,SAYRE BOROUGH 2ND
+Bradford,SAYRE BOROUGH 2ND,Governor,,Glover/Bostick,GRN,11.0,11.0,0.0,Bradford County,SAYRE BOROUGH 2ND
+Bradford,SAYRE BOROUGH 2ND,Governor,,Krawchuk /Smith,LIB,14.0,14.0,0.0,Bradford County,SAYRE BOROUGH 2ND
+Bradford,SAYRE BOROUGH 2ND,Governor,,Write In Votes,,2.0,2.0,0.0,Bradford County,SAYRE BOROUGH 2ND
+Bradford,SAYRE BOROUGH 2ND,U.S. House,12.0,Marc Friedenberg,DEM,325.0,317.0,8.0,Bradford County,SAYRE BOROUGH 2ND
+Bradford,SAYRE BOROUGH 2ND,U.S. House,12.0,Tom Marino,REP,386.0,378.0,8.0,Bradford County,SAYRE BOROUGH 2ND
+Bradford,SAYRE BOROUGH 2ND,U.S. House,12.0,Write In Votes,,2.0,2.0,0.0,Bradford County,SAYRE BOROUGH 2ND
+Bradford,SAYRE BOROUGH 2ND,State House,68.0,Carrie Heath,DEM,,,,Bradford County,SAYRE BOROUGH 2ND
+Bradford,SAYRE BOROUGH 2ND,State House,68.0,Clint Owlet,REP,,,,Bradford County,SAYRE BOROUGH 2ND
+Bradford,SAYRE BOROUGH 2ND,State House,68.0,Write In Votes,,,,,Bradford County,SAYRE BOROUGH 2ND
+Bradford,SAYRE BOROUGH 2ND,State House,110.0,Donna Iannone,DEM,257.0,251.0,6.0,Bradford County,SAYRE BOROUGH 2ND
+Bradford,SAYRE BOROUGH 2ND,State House,110.0,Tina Pickett,REP,471.0,461.0,10.0,Bradford County,SAYRE BOROUGH 2ND
+Bradford,SAYRE BOROUGH 2ND,State House,110.0,Write In Votes,,1.0,1.0,0.0,Bradford County,SAYRE BOROUGH 2ND
+Bradford,SAYRE BOROUGH 3RD,U.S. Senate,,Bob Casey Jr,DEM,68.0,67.0,1.0,Bradford County,SAYRE BOROUGH 3RD
+Bradford,SAYRE BOROUGH 3RD,U.S. Senate,,Lou Barletta,REP,68.0,67.0,1.0,Bradford County,SAYRE BOROUGH 3RD
+Bradford,SAYRE BOROUGH 3RD,U.S. Senate,,Neal Gale,GRN,0.0,0.0,0.0,Bradford County,SAYRE BOROUGH 3RD
+Bradford,SAYRE BOROUGH 3RD,U.S. Senate,,Dale R Kerns Jr,LIB,2.0,2.0,0.0,Bradford County,SAYRE BOROUGH 3RD
+Bradford,SAYRE BOROUGH 3RD,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,SAYRE BOROUGH 3RD
+Bradford,SAYRE BOROUGH 3RD,Governor,,Wolf/Fetterman,DEM,64.0,63.0,1.0,Bradford County,SAYRE BOROUGH 3RD
+Bradford,SAYRE BOROUGH 3RD,Governor,,Wagner/Bartos,REP,72.0,71.0,1.0,Bradford County,SAYRE BOROUGH 3RD
+Bradford,SAYRE BOROUGH 3RD,Governor,,Glover/Bostick,GRN,1.0,1.0,0.0,Bradford County,SAYRE BOROUGH 3RD
+Bradford,SAYRE BOROUGH 3RD,Governor,,Krawchuk /Smith,LIB,1.0,1.0,0.0,Bradford County,SAYRE BOROUGH 3RD
+Bradford,SAYRE BOROUGH 3RD,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,SAYRE BOROUGH 3RD
+Bradford,SAYRE BOROUGH 3RD,U.S. House,12.0,Marc Friedenberg,DEM,57.0,56.0,1.0,Bradford County,SAYRE BOROUGH 3RD
+Bradford,SAYRE BOROUGH 3RD,U.S. House,12.0,Tom Marino,REP,78.0,77.0,1.0,Bradford County,SAYRE BOROUGH 3RD
+Bradford,SAYRE BOROUGH 3RD,U.S. House,12.0,Write In Votes,,0.0,0.0,0.0,Bradford County,SAYRE BOROUGH 3RD
+Bradford,SAYRE BOROUGH 3RD,State House,68.0,Carrie Heath,DEM,,,,Bradford County,SAYRE BOROUGH 3RD
+Bradford,SAYRE BOROUGH 3RD,State House,68.0,Clint Owlet,REP,,,,Bradford County,SAYRE BOROUGH 3RD
+Bradford,SAYRE BOROUGH 3RD,State House,68.0,Write In Votes,,,,,Bradford County,SAYRE BOROUGH 3RD
+Bradford,SAYRE BOROUGH 3RD,State House,110.0,Donna Iannone,DEM,45.0,44.0,1.0,Bradford County,SAYRE BOROUGH 3RD
+Bradford,SAYRE BOROUGH 3RD,State House,110.0,Tina Pickett,REP,93.0,92.0,1.0,Bradford County,SAYRE BOROUGH 3RD
+Bradford,SAYRE BOROUGH 3RD,State House,110.0,Write In Votes,,0.0,0.0,0.0,Bradford County,SAYRE BOROUGH 3RD
+Bradford,SAYRE BOROUGH 4TH,U.S. Senate,,Bob Casey Jr,DEM,251.0,239.0,10.0,Bradford County,SAYRE BOROUGH 4TH
+Bradford,SAYRE BOROUGH 4TH,U.S. Senate,,Lou Barletta,REP,199.0,194.0,4.0,Bradford County,SAYRE BOROUGH 4TH
+Bradford,SAYRE BOROUGH 4TH,U.S. Senate,,Neal Gale,GRN,6.0,6.0,0.0,Bradford County,SAYRE BOROUGH 4TH
+Bradford,SAYRE BOROUGH 4TH,U.S. Senate,,Dale R Kerns Jr,LIB,13.0,13.0,0.0,Bradford County,SAYRE BOROUGH 4TH
+Bradford,SAYRE BOROUGH 4TH,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,SAYRE BOROUGH 4TH
+Bradford,SAYRE BOROUGH 4TH,Governor,,Wolf/Fetterman,DEM,251.0,238.0,11.0,Bradford County,SAYRE BOROUGH 4TH
+Bradford,SAYRE BOROUGH 4TH,Governor,,Wagner/Bartos,REP,207.0,203.0,3.0,Bradford County,SAYRE BOROUGH 4TH
+Bradford,SAYRE BOROUGH 4TH,Governor,,Glover/Bostick,GRN,2.0,2.0,0.0,Bradford County,SAYRE BOROUGH 4TH
+Bradford,SAYRE BOROUGH 4TH,Governor,,Krawchuk /Smith,LIB,11.0,11.0,0.0,Bradford County,SAYRE BOROUGH 4TH
+Bradford,SAYRE BOROUGH 4TH,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,SAYRE BOROUGH 4TH
+Bradford,SAYRE BOROUGH 4TH,U.S. House,12.0,Marc Friedenberg,DEM,233.0,221.0,10.0,Bradford County,SAYRE BOROUGH 4TH
+Bradford,SAYRE BOROUGH 4TH,U.S. House,12.0,Tom Marino,REP,229.0,224.0,4.0,Bradford County,SAYRE BOROUGH 4TH
+Bradford,SAYRE BOROUGH 4TH,U.S. House,12.0,Write In Votes,,1.0,1.0,0.0,Bradford County,SAYRE BOROUGH 4TH
+Bradford,SAYRE BOROUGH 4TH,State House,68.0,Carrie Heath,DEM,,,,Bradford County,SAYRE BOROUGH 4TH
+Bradford,SAYRE BOROUGH 4TH,State House,68.0,Clint Owlet,REP,,,,Bradford County,SAYRE BOROUGH 4TH
+Bradford,SAYRE BOROUGH 4TH,State House,68.0,Write In Votes,,,,,Bradford County,SAYRE BOROUGH 4TH
+Bradford,SAYRE BOROUGH 4TH,State House,110.0,Donna Iannone,DEM,188.0,176.0,10.0,Bradford County,SAYRE BOROUGH 4TH
+Bradford,SAYRE BOROUGH 4TH,State House,110.0,Tina Pickett,REP,282.0,277.0,4.0,Bradford County,SAYRE BOROUGH 4TH
+Bradford,SAYRE BOROUGH 4TH,State House,110.0,Write In Votes,,0.0,0.0,0.0,Bradford County,SAYRE BOROUGH 4TH
+Bradford,SAYRE BOROUGH 5TH,U.S. Senate,,Bob Casey Jr,DEM,41.0,40.0,1.0,Bradford County,SAYRE BOROUGH 5TH
+Bradford,SAYRE BOROUGH 5TH,U.S. Senate,,Lou Barletta,REP,38.0,38.0,0.0,Bradford County,SAYRE BOROUGH 5TH
+Bradford,SAYRE BOROUGH 5TH,U.S. Senate,,Neal Gale,GRN,1.0,1.0,0.0,Bradford County,SAYRE BOROUGH 5TH
+Bradford,SAYRE BOROUGH 5TH,U.S. Senate,,Dale R Kerns Jr,LIB,1.0,1.0,0.0,Bradford County,SAYRE BOROUGH 5TH
+Bradford,SAYRE BOROUGH 5TH,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,SAYRE BOROUGH 5TH
+Bradford,SAYRE BOROUGH 5TH,Governor,,Wolf/Fetterman,DEM,40.0,39.0,1.0,Bradford County,SAYRE BOROUGH 5TH
+Bradford,SAYRE BOROUGH 5TH,Governor,,Wagner/Bartos,REP,39.0,39.0,0.0,Bradford County,SAYRE BOROUGH 5TH
+Bradford,SAYRE BOROUGH 5TH,Governor,,Glover/Bostick,GRN,0.0,0.0,0.0,Bradford County,SAYRE BOROUGH 5TH
+Bradford,SAYRE BOROUGH 5TH,Governor,,Krawchuk /Smith,LIB,1.0,1.0,0.0,Bradford County,SAYRE BOROUGH 5TH
+Bradford,SAYRE BOROUGH 5TH,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,SAYRE BOROUGH 5TH
+Bradford,SAYRE BOROUGH 5TH,U.S. House,12.0,Marc Friedenberg,DEM,35.0,34.0,1.0,Bradford County,SAYRE BOROUGH 5TH
+Bradford,SAYRE BOROUGH 5TH,U.S. House,12.0,Tom Marino,REP,45.0,45.0,0.0,Bradford County,SAYRE BOROUGH 5TH
+Bradford,SAYRE BOROUGH 5TH,U.S. House,12.0,Write In Votes,,0.0,0.0,0.0,Bradford County,SAYRE BOROUGH 5TH
+Bradford,SAYRE BOROUGH 5TH,State House,68.0,Carrie Heath,DEM,,,,Bradford County,SAYRE BOROUGH 5TH
+Bradford,SAYRE BOROUGH 5TH,State House,68.0,Clint Owlet,REP,,,,Bradford County,SAYRE BOROUGH 5TH
+Bradford,SAYRE BOROUGH 5TH,State House,68.0,Write In Votes,,,,,Bradford County,SAYRE BOROUGH 5TH
+Bradford,SAYRE BOROUGH 5TH,State House,110.0,Donna Iannone,DEM,25.0,24.0,1.0,Bradford County,SAYRE BOROUGH 5TH
+Bradford,SAYRE BOROUGH 5TH,State House,110.0,Tina Pickett,REP,56.0,56.0,0.0,Bradford County,SAYRE BOROUGH 5TH
+Bradford,SAYRE BOROUGH 5TH,State House,110.0,Write In Votes,,0.0,0.0,0.0,Bradford County,SAYRE BOROUGH 5TH
+Bradford,SHESHEQUIN TOWNSHIP,U.S. Senate,,Bob Casey Jr,DEM,119.0,115.0,3.0,Bradford County,SHESHEQUIN TOWNSHIP
+Bradford,SHESHEQUIN TOWNSHIP,U.S. Senate,,Lou Barletta,REP,313.0,295.0,18.0,Bradford County,SHESHEQUIN TOWNSHIP
+Bradford,SHESHEQUIN TOWNSHIP,U.S. Senate,,Neal Gale,GRN,1.0,1.0,0.0,Bradford County,SHESHEQUIN TOWNSHIP
+Bradford,SHESHEQUIN TOWNSHIP,U.S. Senate,,Dale R Kerns Jr,LIB,3.0,3.0,0.0,Bradford County,SHESHEQUIN TOWNSHIP
+Bradford,SHESHEQUIN TOWNSHIP,U.S. Senate,,Write In Votes,,1.0,1.0,0.0,Bradford County,SHESHEQUIN TOWNSHIP
+Bradford,SHESHEQUIN TOWNSHIP,Governor,,Wolf/Fetterman,DEM,108.0,104.0,3.0,Bradford County,SHESHEQUIN TOWNSHIP
+Bradford,SHESHEQUIN TOWNSHIP,Governor,,Wagner/Bartos,REP,319.0,301.0,18.0,Bradford County,SHESHEQUIN TOWNSHIP
+Bradford,SHESHEQUIN TOWNSHIP,Governor,,Glover/Bostick,GRN,7.0,7.0,0.0,Bradford County,SHESHEQUIN TOWNSHIP
+Bradford,SHESHEQUIN TOWNSHIP,Governor,,Krawchuk /Smith,LIB,6.0,6.0,0.0,Bradford County,SHESHEQUIN TOWNSHIP
+Bradford,SHESHEQUIN TOWNSHIP,Governor,,Write In Votes,,2.0,2.0,0.0,Bradford County,SHESHEQUIN TOWNSHIP
+Bradford,SHESHEQUIN TOWNSHIP,U.S. House,12.0,Marc Friedenberg,DEM,98.0,94.0,3.0,Bradford County,SHESHEQUIN TOWNSHIP
+Bradford,SHESHEQUIN TOWNSHIP,U.S. House,12.0,Tom Marino,REP,336.0,318.0,18.0,Bradford County,SHESHEQUIN TOWNSHIP
+Bradford,SHESHEQUIN TOWNSHIP,U.S. House,12.0,Write In Votes,,1.0,1.0,0.0,Bradford County,SHESHEQUIN TOWNSHIP
+Bradford,SHESHEQUIN TOWNSHIP,State House,68.0,Carrie Heath,DEM,,,,Bradford County,SHESHEQUIN TOWNSHIP
+Bradford,SHESHEQUIN TOWNSHIP,State House,68.0,Clint Owlet,REP,,,,Bradford County,SHESHEQUIN TOWNSHIP
+Bradford,SHESHEQUIN TOWNSHIP,State House,68.0,Write In Votes,,,,,Bradford County,SHESHEQUIN TOWNSHIP
+Bradford,SHESHEQUIN TOWNSHIP,State House,110.0,Donna Iannone,DEM,89.0,85.0,4.0,Bradford County,SHESHEQUIN TOWNSHIP
+Bradford,SHESHEQUIN TOWNSHIP,State House,110.0,Tina Pickett,REP,350.0,332.0,17.0,Bradford County,SHESHEQUIN TOWNSHIP
+Bradford,SHESHEQUIN TOWNSHIP,State House,110.0,Write In Votes,,1.0,1.0,0.0,Bradford County,SHESHEQUIN TOWNSHIP
+Bradford,SMITHFIELD TOWNSHIP,U.S. Senate,,Bob Casey Jr,DEM,151.0,139.0,11.0,Bradford County,SMITHFIELD TOWNSHIP
+Bradford,SMITHFIELD TOWNSHIP,U.S. Senate,,Lou Barletta,REP,409.0,389.0,20.0,Bradford County,SMITHFIELD TOWNSHIP
+Bradford,SMITHFIELD TOWNSHIP,U.S. Senate,,Neal Gale,GRN,6.0,6.0,0.0,Bradford County,SMITHFIELD TOWNSHIP
+Bradford,SMITHFIELD TOWNSHIP,U.S. Senate,,Dale R Kerns Jr,LIB,3.0,3.0,0.0,Bradford County,SMITHFIELD TOWNSHIP
+Bradford,SMITHFIELD TOWNSHIP,U.S. Senate,,Write In Votes,,1.0,1.0,0.0,Bradford County,SMITHFIELD TOWNSHIP
+Bradford,SMITHFIELD TOWNSHIP,Governor,,Wolf/Fetterman,DEM,152.0,140.0,11.0,Bradford County,SMITHFIELD TOWNSHIP
+Bradford,SMITHFIELD TOWNSHIP,Governor,,Wagner/Bartos,REP,410.0,390.0,20.0,Bradford County,SMITHFIELD TOWNSHIP
+Bradford,SMITHFIELD TOWNSHIP,Governor,,Glover/Bostick,GRN,8.0,8.0,0.0,Bradford County,SMITHFIELD TOWNSHIP
+Bradford,SMITHFIELD TOWNSHIP,Governor,,Krawchuk /Smith,LIB,7.0,7.0,0.0,Bradford County,SMITHFIELD TOWNSHIP
+Bradford,SMITHFIELD TOWNSHIP,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,SMITHFIELD TOWNSHIP
+Bradford,SMITHFIELD TOWNSHIP,U.S. House,12.0,Marc Friedenberg,DEM,126.0,115.0,11.0,Bradford County,SMITHFIELD TOWNSHIP
+Bradford,SMITHFIELD TOWNSHIP,U.S. House,12.0,Tom Marino,REP,439.0,418.0,20.0,Bradford County,SMITHFIELD TOWNSHIP
+Bradford,SMITHFIELD TOWNSHIP,U.S. House,12.0,Write In Votes,,0.0,0.0,0.0,Bradford County,SMITHFIELD TOWNSHIP
+Bradford,SMITHFIELD TOWNSHIP,State House,68.0,Carrie Heath,DEM,125.0,115.0,10.0,Bradford County,SMITHFIELD TOWNSHIP
+Bradford,SMITHFIELD TOWNSHIP,State House,68.0,Clint Owlet,REP,445.0,423.0,21.0,Bradford County,SMITHFIELD TOWNSHIP
+Bradford,SMITHFIELD TOWNSHIP,State House,68.0,Write In Votes,,0.0,0.0,0.0,Bradford County,SMITHFIELD TOWNSHIP
+Bradford,SMITHFIELD TOWNSHIP,State House,110.0,Donna Iannone,DEM,,,,Bradford County,SMITHFIELD TOWNSHIP
+Bradford,SMITHFIELD TOWNSHIP,State House,110.0,Tina Pickett,REP,,,,Bradford County,SMITHFIELD TOWNSHIP
+Bradford,SMITHFIELD TOWNSHIP,State House,110.0,Write In Votes,,,,,Bradford County,SMITHFIELD TOWNSHIP
+Bradford,SOUTH CREEK TOWNSHIP,U.S. Senate,,Bob Casey Jr,DEM,93.0,92.0,1.0,Bradford County,SOUTH CREEK TOWNSHIP
+Bradford,SOUTH CREEK TOWNSHIP,U.S. Senate,,Lou Barletta,REP,320.0,311.0,9.0,Bradford County,SOUTH CREEK TOWNSHIP
+Bradford,SOUTH CREEK TOWNSHIP,U.S. Senate,,Neal Gale,GRN,2.0,2.0,0.0,Bradford County,SOUTH CREEK TOWNSHIP
+Bradford,SOUTH CREEK TOWNSHIP,U.S. Senate,,Dale R Kerns Jr,LIB,3.0,3.0,0.0,Bradford County,SOUTH CREEK TOWNSHIP
+Bradford,SOUTH CREEK TOWNSHIP,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,SOUTH CREEK TOWNSHIP
+Bradford,SOUTH CREEK TOWNSHIP,Governor,,Wolf/Fetterman,DEM,85.0,84.0,1.0,Bradford County,SOUTH CREEK TOWNSHIP
+Bradford,SOUTH CREEK TOWNSHIP,Governor,,Wagner/Bartos,REP,327.0,318.0,9.0,Bradford County,SOUTH CREEK TOWNSHIP
+Bradford,SOUTH CREEK TOWNSHIP,Governor,,Glover/Bostick,GRN,5.0,5.0,0.0,Bradford County,SOUTH CREEK TOWNSHIP
+Bradford,SOUTH CREEK TOWNSHIP,Governor,,Krawchuk /Smith,LIB,5.0,5.0,0.0,Bradford County,SOUTH CREEK TOWNSHIP
+Bradford,SOUTH CREEK TOWNSHIP,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,SOUTH CREEK TOWNSHIP
+Bradford,SOUTH CREEK TOWNSHIP,U.S. House,12.0,Marc Friedenberg,DEM,78.0,77.0,1.0,Bradford County,SOUTH CREEK TOWNSHIP
+Bradford,SOUTH CREEK TOWNSHIP,U.S. House,12.0,Tom Marino,REP,336.0,327.0,9.0,Bradford County,SOUTH CREEK TOWNSHIP
+Bradford,SOUTH CREEK TOWNSHIP,U.S. House,12.0,Write In Votes,,0.0,0.0,0.0,Bradford County,SOUTH CREEK TOWNSHIP
+Bradford,SOUTH CREEK TOWNSHIP,State House,68.0,Carrie Heath,DEM,69.0,68.0,1.0,Bradford County,SOUTH CREEK TOWNSHIP
+Bradford,SOUTH CREEK TOWNSHIP,State House,68.0,Clint Owlet,REP,346.0,337.0,9.0,Bradford County,SOUTH CREEK TOWNSHIP
+Bradford,SOUTH CREEK TOWNSHIP,State House,68.0,Write In Votes,,0.0,0.0,0.0,Bradford County,SOUTH CREEK TOWNSHIP
+Bradford,SOUTH CREEK TOWNSHIP,State House,110.0,Donna Iannone,DEM,,,,Bradford County,SOUTH CREEK TOWNSHIP
+Bradford,SOUTH CREEK TOWNSHIP,State House,110.0,Tina Pickett,REP,,,,Bradford County,SOUTH CREEK TOWNSHIP
+Bradford,SOUTH CREEK TOWNSHIP,State House,110.0,Write In Votes,,,,,Bradford County,SOUTH CREEK TOWNSHIP
+Bradford,SOUTH WAVERLY BOROUGH,U.S. Senate,,Bob Casey Jr,DEM,190.0,179.0,10.0,Bradford County,SOUTH WAVERLY BOROUGH
+Bradford,SOUTH WAVERLY BOROUGH,U.S. Senate,,Lou Barletta,REP,194.0,185.0,7.0,Bradford County,SOUTH WAVERLY BOROUGH
+Bradford,SOUTH WAVERLY BOROUGH,U.S. Senate,,Neal Gale,GRN,2.0,2.0,0.0,Bradford County,SOUTH WAVERLY BOROUGH
+Bradford,SOUTH WAVERLY BOROUGH,U.S. Senate,,Dale R Kerns Jr,LIB,5.0,5.0,0.0,Bradford County,SOUTH WAVERLY BOROUGH
+Bradford,SOUTH WAVERLY BOROUGH,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,SOUTH WAVERLY BOROUGH
+Bradford,SOUTH WAVERLY BOROUGH,Governor,,Wolf/Fetterman,DEM,183.0,172.0,11.0,Bradford County,SOUTH WAVERLY BOROUGH
+Bradford,SOUTH WAVERLY BOROUGH,Governor,,Wagner/Bartos,REP,192.0,183.0,6.0,Bradford County,SOUTH WAVERLY BOROUGH
+Bradford,SOUTH WAVERLY BOROUGH,Governor,,Glover/Bostick,GRN,4.0,4.0,0.0,Bradford County,SOUTH WAVERLY BOROUGH
+Bradford,SOUTH WAVERLY BOROUGH,Governor,,Krawchuk /Smith,LIB,9.0,9.0,0.0,Bradford County,SOUTH WAVERLY BOROUGH
+Bradford,SOUTH WAVERLY BOROUGH,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,SOUTH WAVERLY BOROUGH
+Bradford,SOUTH WAVERLY BOROUGH,U.S. House,12.0,Marc Friedenberg,DEM,163.0,154.0,9.0,Bradford County,SOUTH WAVERLY BOROUGH
+Bradford,SOUTH WAVERLY BOROUGH,U.S. House,12.0,Tom Marino,REP,220.0,209.0,8.0,Bradford County,SOUTH WAVERLY BOROUGH
+Bradford,SOUTH WAVERLY BOROUGH,U.S. House,12.0,Write In Votes,,0.0,0.0,0.0,Bradford County,SOUTH WAVERLY BOROUGH
+Bradford,SOUTH WAVERLY BOROUGH,State House,68.0,Carrie Heath,DEM,,,,Bradford County,SOUTH WAVERLY BOROUGH
+Bradford,SOUTH WAVERLY BOROUGH,State House,68.0,Clint Owlet,REP,,,,Bradford County,SOUTH WAVERLY BOROUGH
+Bradford,SOUTH WAVERLY BOROUGH,State House,68.0,Write In Votes,,,,,Bradford County,SOUTH WAVERLY BOROUGH
+Bradford,SOUTH WAVERLY BOROUGH,State House,110.0,Donna Iannone,DEM,132.0,125.0,7.0,Bradford County,SOUTH WAVERLY BOROUGH
+Bradford,SOUTH WAVERLY BOROUGH,State House,110.0,Tina Pickett,REP,255.0,242.0,10.0,Bradford County,SOUTH WAVERLY BOROUGH
+Bradford,SOUTH WAVERLY BOROUGH,State House,110.0,Write In Votes,,2.0,2.0,0.0,Bradford County,SOUTH WAVERLY BOROUGH
+Bradford,SPRINGFIELD TOWNSHIP,U.S. Senate,,Bob Casey Jr,DEM,146.0,137.0,9.0,Bradford County,SPRINGFIELD TOWNSHIP
+Bradford,SPRINGFIELD TOWNSHIP,U.S. Senate,,Lou Barletta,REP,341.0,335.0,5.0,Bradford County,SPRINGFIELD TOWNSHIP
+Bradford,SPRINGFIELD TOWNSHIP,U.S. Senate,,Neal Gale,GRN,1.0,1.0,0.0,Bradford County,SPRINGFIELD TOWNSHIP
+Bradford,SPRINGFIELD TOWNSHIP,U.S. Senate,,Dale R Kerns Jr,LIB,3.0,3.0,0.0,Bradford County,SPRINGFIELD TOWNSHIP
+Bradford,SPRINGFIELD TOWNSHIP,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,SPRINGFIELD TOWNSHIP
+Bradford,SPRINGFIELD TOWNSHIP,Governor,,Wolf/Fetterman,DEM,146.0,137.0,9.0,Bradford County,SPRINGFIELD TOWNSHIP
+Bradford,SPRINGFIELD TOWNSHIP,Governor,,Wagner/Bartos,REP,328.0,323.0,4.0,Bradford County,SPRINGFIELD TOWNSHIP
+Bradford,SPRINGFIELD TOWNSHIP,Governor,,Glover/Bostick,GRN,5.0,5.0,0.0,Bradford County,SPRINGFIELD TOWNSHIP
+Bradford,SPRINGFIELD TOWNSHIP,Governor,,Krawchuk /Smith,LIB,3.0,3.0,0.0,Bradford County,SPRINGFIELD TOWNSHIP
+Bradford,SPRINGFIELD TOWNSHIP,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,SPRINGFIELD TOWNSHIP
+Bradford,SPRINGFIELD TOWNSHIP,U.S. House,12.0,Marc Friedenberg,DEM,125.0,117.0,8.0,Bradford County,SPRINGFIELD TOWNSHIP
+Bradford,SPRINGFIELD TOWNSHIP,U.S. House,12.0,Tom Marino,REP,359.0,352.0,6.0,Bradford County,SPRINGFIELD TOWNSHIP
+Bradford,SPRINGFIELD TOWNSHIP,U.S. House,12.0,Write In Votes,,0.0,0.0,0.0,Bradford County,SPRINGFIELD TOWNSHIP
+Bradford,SPRINGFIELD TOWNSHIP,State House,68.0,Carrie Heath,DEM,99.0,92.0,7.0,Bradford County,SPRINGFIELD TOWNSHIP
+Bradford,SPRINGFIELD TOWNSHIP,State House,68.0,Clint Owlet,REP,390.0,383.0,6.0,Bradford County,SPRINGFIELD TOWNSHIP
+Bradford,SPRINGFIELD TOWNSHIP,State House,68.0,Write In Votes,,0.0,0.0,0.0,Bradford County,SPRINGFIELD TOWNSHIP
+Bradford,SPRINGFIELD TOWNSHIP,State House,110.0,Donna Iannone,DEM,,,,Bradford County,SPRINGFIELD TOWNSHIP
+Bradford,SPRINGFIELD TOWNSHIP,State House,110.0,Tina Pickett,REP,,,,Bradford County,SPRINGFIELD TOWNSHIP
+Bradford,SPRINGFIELD TOWNSHIP,State House,110.0,Write In Votes,,,,,Bradford County,SPRINGFIELD TOWNSHIP
+Bradford,STANDING STONE TOWNSHIP,U.S. Senate,,Bob Casey Jr,DEM,74.0,72.0,2.0,Bradford County,STANDING STONE TOWNSHIP
+Bradford,STANDING STONE TOWNSHIP,U.S. Senate,,Lou Barletta,REP,142.0,134.0,7.0,Bradford County,STANDING STONE TOWNSHIP
+Bradford,STANDING STONE TOWNSHIP,U.S. Senate,,Neal Gale,GRN,6.0,6.0,0.0,Bradford County,STANDING STONE TOWNSHIP
+Bradford,STANDING STONE TOWNSHIP,U.S. Senate,,Dale R Kerns Jr,LIB,6.0,5.0,1.0,Bradford County,STANDING STONE TOWNSHIP
+Bradford,STANDING STONE TOWNSHIP,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,STANDING STONE TOWNSHIP
+Bradford,STANDING STONE TOWNSHIP,Governor,,Wolf/Fetterman,DEM,68.0,65.0,3.0,Bradford County,STANDING STONE TOWNSHIP
+Bradford,STANDING STONE TOWNSHIP,Governor,,Wagner/Bartos,REP,147.0,141.0,5.0,Bradford County,STANDING STONE TOWNSHIP
+Bradford,STANDING STONE TOWNSHIP,Governor,,Glover/Bostick,GRN,6.0,6.0,0.0,Bradford County,STANDING STONE TOWNSHIP
+Bradford,STANDING STONE TOWNSHIP,Governor,,Krawchuk /Smith,LIB,8.0,7.0,1.0,Bradford County,STANDING STONE TOWNSHIP
+Bradford,STANDING STONE TOWNSHIP,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,STANDING STONE TOWNSHIP
+Bradford,STANDING STONE TOWNSHIP,U.S. House,12.0,Marc Friedenberg,DEM,71.0,70.0,1.0,Bradford County,STANDING STONE TOWNSHIP
+Bradford,STANDING STONE TOWNSHIP,U.S. House,12.0,Tom Marino,REP,154.0,145.0,8.0,Bradford County,STANDING STONE TOWNSHIP
+Bradford,STANDING STONE TOWNSHIP,U.S. House,12.0,Write In Votes,,1.0,1.0,0.0,Bradford County,STANDING STONE TOWNSHIP
+Bradford,STANDING STONE TOWNSHIP,State House,68.0,Carrie Heath,DEM,,,,Bradford County,STANDING STONE TOWNSHIP
+Bradford,STANDING STONE TOWNSHIP,State House,68.0,Clint Owlet,REP,,,,Bradford County,STANDING STONE TOWNSHIP
+Bradford,STANDING STONE TOWNSHIP,State House,68.0,Write In Votes,,,,,Bradford County,STANDING STONE TOWNSHIP
+Bradford,STANDING STONE TOWNSHIP,State House,110.0,Donna Iannone,DEM,70.0,68.0,2.0,Bradford County,STANDING STONE TOWNSHIP
+Bradford,STANDING STONE TOWNSHIP,State House,110.0,Tina Pickett,REP,158.0,150.0,7.0,Bradford County,STANDING STONE TOWNSHIP
+Bradford,STANDING STONE TOWNSHIP,State House,110.0,Write In Votes,,0.0,0.0,0.0,Bradford County,STANDING STONE TOWNSHIP
+Bradford,STEVENS TOWNSHIP,U.S. Senate,,Bob Casey Jr,DEM,43.0,42.0,1.0,Bradford County,STEVENS TOWNSHIP
+Bradford,STEVENS TOWNSHIP,U.S. Senate,,Lou Barletta,REP,122.0,117.0,4.0,Bradford County,STEVENS TOWNSHIP
+Bradford,STEVENS TOWNSHIP,U.S. Senate,,Neal Gale,GRN,6.0,6.0,0.0,Bradford County,STEVENS TOWNSHIP
+Bradford,STEVENS TOWNSHIP,U.S. Senate,,Dale R Kerns Jr,LIB,6.0,5.0,1.0,Bradford County,STEVENS TOWNSHIP
+Bradford,STEVENS TOWNSHIP,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,STEVENS TOWNSHIP
+Bradford,STEVENS TOWNSHIP,Governor,,Wolf/Fetterman,DEM,44.0,43.0,0.0,Bradford County,STEVENS TOWNSHIP
+Bradford,STEVENS TOWNSHIP,Governor,,Wagner/Bartos,REP,124.0,119.0,5.0,Bradford County,STEVENS TOWNSHIP
+Bradford,STEVENS TOWNSHIP,Governor,,Glover/Bostick,GRN,1.0,1.0,0.0,Bradford County,STEVENS TOWNSHIP
+Bradford,STEVENS TOWNSHIP,Governor,,Krawchuk /Smith,LIB,1.0,1.0,0.0,Bradford County,STEVENS TOWNSHIP
+Bradford,STEVENS TOWNSHIP,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,STEVENS TOWNSHIP
+Bradford,STEVENS TOWNSHIP,U.S. House,12.0,Marc Friedenberg,DEM,33.0,32.0,0.0,Bradford County,STEVENS TOWNSHIP
+Bradford,STEVENS TOWNSHIP,U.S. House,12.0,Tom Marino,REP,134.0,129.0,5.0,Bradford County,STEVENS TOWNSHIP
+Bradford,STEVENS TOWNSHIP,U.S. House,12.0,Write In Votes,,1.0,1.0,0.0,Bradford County,STEVENS TOWNSHIP
+Bradford,STEVENS TOWNSHIP,State House,68.0,Carrie Heath,DEM,,,,Bradford County,STEVENS TOWNSHIP
+Bradford,STEVENS TOWNSHIP,State House,68.0,Clint Owlet,REP,,,,Bradford County,STEVENS TOWNSHIP
+Bradford,STEVENS TOWNSHIP,State House,68.0,Write In Votes,,,,,Bradford County,STEVENS TOWNSHIP
+Bradford,STEVENS TOWNSHIP,State House,110.0,Donna Iannone,DEM,33.0,33.0,0.0,Bradford County,STEVENS TOWNSHIP
+Bradford,STEVENS TOWNSHIP,State House,110.0,Tina Pickett,REP,140.0,134.0,5.0,Bradford County,STEVENS TOWNSHIP
+Bradford,STEVENS TOWNSHIP,State House,110.0,Write In Votes,,0.0,0.0,0.0,Bradford County,STEVENS TOWNSHIP
+Bradford,SYLVANIA BOROUGH,U.S. Senate,,Bob Casey Jr,DEM,27.0,24.0,3.0,Bradford County,SYLVANIA BOROUGH
+Bradford,SYLVANIA BOROUGH,U.S. Senate,,Lou Barletta,REP,50.0,50.0,0.0,Bradford County,SYLVANIA BOROUGH
+Bradford,SYLVANIA BOROUGH,U.S. Senate,,Neal Gale,GRN,0.0,0.0,0.0,Bradford County,SYLVANIA BOROUGH
+Bradford,SYLVANIA BOROUGH,U.S. Senate,,Dale R Kerns Jr,LIB,0.0,0.0,0.0,Bradford County,SYLVANIA BOROUGH
+Bradford,SYLVANIA BOROUGH,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,SYLVANIA BOROUGH
+Bradford,SYLVANIA BOROUGH,Governor,,Wolf/Fetterman,DEM,31.0,28.0,3.0,Bradford County,SYLVANIA BOROUGH
+Bradford,SYLVANIA BOROUGH,Governor,,Wagner/Bartos,REP,42.0,42.0,0.0,Bradford County,SYLVANIA BOROUGH
+Bradford,SYLVANIA BOROUGH,Governor,,Glover/Bostick,GRN,1.0,1.0,0.0,Bradford County,SYLVANIA BOROUGH
+Bradford,SYLVANIA BOROUGH,Governor,,Krawchuk /Smith,LIB,2.0,2.0,0.0,Bradford County,SYLVANIA BOROUGH
+Bradford,SYLVANIA BOROUGH,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,SYLVANIA BOROUGH
+Bradford,SYLVANIA BOROUGH,U.S. House,12.0,Marc Friedenberg,DEM,21.0,18.0,3.0,Bradford County,SYLVANIA BOROUGH
+Bradford,SYLVANIA BOROUGH,U.S. House,12.0,Tom Marino,REP,55.0,55.0,0.0,Bradford County,SYLVANIA BOROUGH
+Bradford,SYLVANIA BOROUGH,U.S. House,12.0,Write In Votes,,0.0,0.0,0.0,Bradford County,SYLVANIA BOROUGH
+Bradford,SYLVANIA BOROUGH,State House,68.0,Carrie Heath,DEM,14.0,13.0,1.0,Bradford County,SYLVANIA BOROUGH
+Bradford,SYLVANIA BOROUGH,State House,68.0,Clint Owlet,REP,62.0,60.0,2.0,Bradford County,SYLVANIA BOROUGH
+Bradford,SYLVANIA BOROUGH,State House,68.0,Write In Votes,,0.0,0.0,0.0,Bradford County,SYLVANIA BOROUGH
+Bradford,SYLVANIA BOROUGH,State House,110.0,Donna Iannone,DEM,,,,Bradford County,SYLVANIA BOROUGH
+Bradford,SYLVANIA BOROUGH,State House,110.0,Tina Pickett,REP,,,,Bradford County,SYLVANIA BOROUGH
+Bradford,SYLVANIA BOROUGH,State House,110.0,Write In Votes,,,,,Bradford County,SYLVANIA BOROUGH
+Bradford,TERRY TOWNSHIP,U.S. Senate,,Bob Casey Jr,DEM,96.0,95.0,1.0,Bradford County,TERRY TOWNSHIP
+Bradford,TERRY TOWNSHIP,U.S. Senate,,Lou Barletta,REP,216.0,209.0,7.0,Bradford County,TERRY TOWNSHIP
+Bradford,TERRY TOWNSHIP,U.S. Senate,,Neal Gale,GRN,1.0,1.0,0.0,Bradford County,TERRY TOWNSHIP
+Bradford,TERRY TOWNSHIP,U.S. Senate,,Dale R Kerns Jr,LIB,2.0,2.0,0.0,Bradford County,TERRY TOWNSHIP
+Bradford,TERRY TOWNSHIP,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,TERRY TOWNSHIP
+Bradford,TERRY TOWNSHIP,Governor,,Wolf/Fetterman,DEM,90.0,89.0,1.0,Bradford County,TERRY TOWNSHIP
+Bradford,TERRY TOWNSHIP,Governor,,Wagner/Bartos,REP,220.0,215.0,5.0,Bradford County,TERRY TOWNSHIP
+Bradford,TERRY TOWNSHIP,Governor,,Glover/Bostick,GRN,3.0,2.0,1.0,Bradford County,TERRY TOWNSHIP
+Bradford,TERRY TOWNSHIP,Governor,,Krawchuk /Smith,LIB,4.0,3.0,1.0,Bradford County,TERRY TOWNSHIP
+Bradford,TERRY TOWNSHIP,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,TERRY TOWNSHIP
+Bradford,TERRY TOWNSHIP,U.S. House,12.0,Marc Friedenberg,DEM,77.0,75.0,2.0,Bradford County,TERRY TOWNSHIP
+Bradford,TERRY TOWNSHIP,U.S. House,12.0,Tom Marino,REP,229.0,224.0,5.0,Bradford County,TERRY TOWNSHIP
+Bradford,TERRY TOWNSHIP,U.S. House,12.0,Write In Votes,,1.0,1.0,0.0,Bradford County,TERRY TOWNSHIP
+Bradford,TERRY TOWNSHIP,State House,68.0,Carrie Heath,DEM,,,,Bradford County,TERRY TOWNSHIP
+Bradford,TERRY TOWNSHIP,State House,68.0,Clint Owlet,REP,,,,Bradford County,TERRY TOWNSHIP
+Bradford,TERRY TOWNSHIP,State House,68.0,Write In Votes,,,,,Bradford County,TERRY TOWNSHIP
+Bradford,TERRY TOWNSHIP,State House,110.0,Donna Iannone,DEM,100.0,97.0,3.0,Bradford County,TERRY TOWNSHIP
+Bradford,TERRY TOWNSHIP,State House,110.0,Tina Pickett,REP,215.0,210.0,5.0,Bradford County,TERRY TOWNSHIP
+Bradford,TERRY TOWNSHIP,State House,110.0,Write In Votes,,2.0,2.0,0.0,Bradford County,TERRY TOWNSHIP
+Bradford,TOWANDA BOROUGH 1ST,U.S. Senate,,Bob Casey Jr,DEM,57.0,55.0,2.0,Bradford County,TOWANDA BOROUGH 1ST
+Bradford,TOWANDA BOROUGH 1ST,U.S. Senate,,Lou Barletta,REP,118.0,118.0,0.0,Bradford County,TOWANDA BOROUGH 1ST
+Bradford,TOWANDA BOROUGH 1ST,U.S. Senate,,Neal Gale,GRN,3.0,3.0,0.0,Bradford County,TOWANDA BOROUGH 1ST
+Bradford,TOWANDA BOROUGH 1ST,U.S. Senate,,Dale R Kerns Jr,LIB,2.0,2.0,0.0,Bradford County,TOWANDA BOROUGH 1ST
+Bradford,TOWANDA BOROUGH 1ST,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,TOWANDA BOROUGH 1ST
+Bradford,TOWANDA BOROUGH 1ST,Governor,,Wolf/Fetterman,DEM,63.0,61.0,2.0,Bradford County,TOWANDA BOROUGH 1ST
+Bradford,TOWANDA BOROUGH 1ST,Governor,,Wagner/Bartos,REP,117.0,117.0,0.0,Bradford County,TOWANDA BOROUGH 1ST
+Bradford,TOWANDA BOROUGH 1ST,Governor,,Glover/Bostick,GRN,0.0,0.0,0.0,Bradford County,TOWANDA BOROUGH 1ST
+Bradford,TOWANDA BOROUGH 1ST,Governor,,Krawchuk /Smith,LIB,1.0,1.0,0.0,Bradford County,TOWANDA BOROUGH 1ST
+Bradford,TOWANDA BOROUGH 1ST,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,TOWANDA BOROUGH 1ST
+Bradford,TOWANDA BOROUGH 1ST,U.S. House,12.0,Marc Friedenberg,DEM,57.0,55.0,2.0,Bradford County,TOWANDA BOROUGH 1ST
+Bradford,TOWANDA BOROUGH 1ST,U.S. House,12.0,Tom Marino,REP,122.0,122.0,0.0,Bradford County,TOWANDA BOROUGH 1ST
+Bradford,TOWANDA BOROUGH 1ST,U.S. House,12.0,Write In Votes,,0.0,0.0,0.0,Bradford County,TOWANDA BOROUGH 1ST
+Bradford,TOWANDA BOROUGH 1ST,State House,68.0,Carrie Heath,DEM,,,,Bradford County,TOWANDA BOROUGH 1ST
+Bradford,TOWANDA BOROUGH 1ST,State House,68.0,Clint Owlet,REP,,,,Bradford County,TOWANDA BOROUGH 1ST
+Bradford,TOWANDA BOROUGH 1ST,State House,68.0,Write In Votes,,,,,Bradford County,TOWANDA BOROUGH 1ST
+Bradford,TOWANDA BOROUGH 1ST,State House,110.0,Donna Iannone,DEM,54.0,52.0,2.0,Bradford County,TOWANDA BOROUGH 1ST
+Bradford,TOWANDA BOROUGH 1ST,State House,110.0,Tina Pickett,REP,126.0,126.0,0.0,Bradford County,TOWANDA BOROUGH 1ST
+Bradford,TOWANDA BOROUGH 1ST,State House,110.0,Write In Votes,,0.0,0.0,0.0,Bradford County,TOWANDA BOROUGH 1ST
+Bradford,TOWANDA BOROUGH 2ND,U.S. Senate,,Bob Casey Jr,DEM,123.0,113.0,10.0,Bradford County,TOWANDA BOROUGH 2ND
+Bradford,TOWANDA BOROUGH 2ND,U.S. Senate,,Lou Barletta,REP,120.0,117.0,3.0,Bradford County,TOWANDA BOROUGH 2ND
+Bradford,TOWANDA BOROUGH 2ND,U.S. Senate,,Neal Gale,GRN,2.0,2.0,0.0,Bradford County,TOWANDA BOROUGH 2ND
+Bradford,TOWANDA BOROUGH 2ND,U.S. Senate,,Dale R Kerns Jr,LIB,8.0,8.0,0.0,Bradford County,TOWANDA BOROUGH 2ND
+Bradford,TOWANDA BOROUGH 2ND,U.S. Senate,,Write In Votes,,1.0,1.0,0.0,Bradford County,TOWANDA BOROUGH 2ND
+Bradford,TOWANDA BOROUGH 2ND,Governor,,Wolf/Fetterman,DEM,123.0,113.0,10.0,Bradford County,TOWANDA BOROUGH 2ND
+Bradford,TOWANDA BOROUGH 2ND,Governor,,Wagner/Bartos,REP,113.0,111.0,2.0,Bradford County,TOWANDA BOROUGH 2ND
+Bradford,TOWANDA BOROUGH 2ND,Governor,,Glover/Bostick,GRN,5.0,5.0,0.0,Bradford County,TOWANDA BOROUGH 2ND
+Bradford,TOWANDA BOROUGH 2ND,Governor,,Krawchuk /Smith,LIB,8.0,8.0,0.0,Bradford County,TOWANDA BOROUGH 2ND
+Bradford,TOWANDA BOROUGH 2ND,Governor,,Write In Votes,,2.0,2.0,0.0,Bradford County,TOWANDA BOROUGH 2ND
+Bradford,TOWANDA BOROUGH 2ND,U.S. House,12.0,Marc Friedenberg,DEM,101.0,95.0,6.0,Bradford County,TOWANDA BOROUGH 2ND
+Bradford,TOWANDA BOROUGH 2ND,U.S. House,12.0,Tom Marino,REP,137.0,130.0,7.0,Bradford County,TOWANDA BOROUGH 2ND
+Bradford,TOWANDA BOROUGH 2ND,U.S. House,12.0,Write In Votes,,0.0,0.0,0.0,Bradford County,TOWANDA BOROUGH 2ND
+Bradford,TOWANDA BOROUGH 2ND,State House,68.0,Carrie Heath,DEM,,,,Bradford County,TOWANDA BOROUGH 2ND
+Bradford,TOWANDA BOROUGH 2ND,State House,68.0,Clint Owlet,REP,,,,Bradford County,TOWANDA BOROUGH 2ND
+Bradford,TOWANDA BOROUGH 2ND,State House,68.0,Write In Votes,,,,,Bradford County,TOWANDA BOROUGH 2ND
+Bradford,TOWANDA BOROUGH 2ND,State House,110.0,Donna Iannone,DEM,97.0,91.0,6.0,Bradford County,TOWANDA BOROUGH 2ND
+Bradford,TOWANDA BOROUGH 2ND,State House,110.0,Tina Pickett,REP,149.0,143.0,6.0,Bradford County,TOWANDA BOROUGH 2ND
+Bradford,TOWANDA BOROUGH 2ND,State House,110.0,Write In Votes,,0.0,0.0,0.0,Bradford County,TOWANDA BOROUGH 2ND
+Bradford,TOWANDA BOROUGH 3RD,U.S. Senate,,Bob Casey Jr,DEM,177.0,162.0,15.0,Bradford County,TOWANDA BOROUGH 3RD
+Bradford,TOWANDA BOROUGH 3RD,U.S. Senate,,Lou Barletta,REP,233.0,214.0,18.0,Bradford County,TOWANDA BOROUGH 3RD
+Bradford,TOWANDA BOROUGH 3RD,U.S. Senate,,Neal Gale,GRN,0.0,0.0,0.0,Bradford County,TOWANDA BOROUGH 3RD
+Bradford,TOWANDA BOROUGH 3RD,U.S. Senate,,Dale R Kerns Jr,LIB,2.0,2.0,0.0,Bradford County,TOWANDA BOROUGH 3RD
+Bradford,TOWANDA BOROUGH 3RD,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,TOWANDA BOROUGH 3RD
+Bradford,TOWANDA BOROUGH 3RD,Governor,,Wolf/Fetterman,DEM,181.0,168.0,13.0,Bradford County,TOWANDA BOROUGH 3RD
+Bradford,TOWANDA BOROUGH 3RD,Governor,,Wagner/Bartos,REP,232.0,211.0,20.0,Bradford County,TOWANDA BOROUGH 3RD
+Bradford,TOWANDA BOROUGH 3RD,Governor,,Glover/Bostick,GRN,2.0,2.0,0.0,Bradford County,TOWANDA BOROUGH 3RD
+Bradford,TOWANDA BOROUGH 3RD,Governor,,Krawchuk /Smith,LIB,4.0,4.0,0.0,Bradford County,TOWANDA BOROUGH 3RD
+Bradford,TOWANDA BOROUGH 3RD,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,TOWANDA BOROUGH 3RD
+Bradford,TOWANDA BOROUGH 3RD,U.S. House,12.0,Marc Friedenberg,DEM,162.0,149.0,13.0,Bradford County,TOWANDA BOROUGH 3RD
+Bradford,TOWANDA BOROUGH 3RD,U.S. House,12.0,Tom Marino,REP,248.0,227.0,20.0,Bradford County,TOWANDA BOROUGH 3RD
+Bradford,TOWANDA BOROUGH 3RD,U.S. House,12.0,Write In Votes,,1.0,1.0,0.0,Bradford County,TOWANDA BOROUGH 3RD
+Bradford,TOWANDA BOROUGH 3RD,State House,68.0,Carrie Heath,DEM,,,,Bradford County,TOWANDA BOROUGH 3RD
+Bradford,TOWANDA BOROUGH 3RD,State House,68.0,Clint Owlet,REP,,,,Bradford County,TOWANDA BOROUGH 3RD
+Bradford,TOWANDA BOROUGH 3RD,State House,68.0,Write In Votes,,,,,Bradford County,TOWANDA BOROUGH 3RD
+Bradford,TOWANDA BOROUGH 3RD,State House,110.0,Donna Iannone,DEM,136.0,127.0,9.0,Bradford County,TOWANDA BOROUGH 3RD
+Bradford,TOWANDA BOROUGH 3RD,State House,110.0,Tina Pickett,REP,283.0,358.0,24.0,Bradford County,TOWANDA BOROUGH 3RD
+Bradford,TOWANDA BOROUGH 3RD,State House,110.0,Write In Votes,,0.0,0.0,0.0,Bradford County,TOWANDA BOROUGH 3RD
+Bradford,TOWANDA TOWNSHIP,U.S. Senate,,Bob Casey Jr,DEM,120.0,107.0,13.0,Bradford County,TOWANDA TOWNSHIP
+Bradford,TOWANDA TOWNSHIP,U.S. Senate,,Lou Barletta,REP,175.0,171.0,4.0,Bradford County,TOWANDA TOWNSHIP
+Bradford,TOWANDA TOWNSHIP,U.S. Senate,,Neal Gale,GRN,0.0,0.0,0.0,Bradford County,TOWANDA TOWNSHIP
+Bradford,TOWANDA TOWNSHIP,U.S. Senate,,Dale R Kerns Jr,LIB,1.0,1.0,0.0,Bradford County,TOWANDA TOWNSHIP
+Bradford,TOWANDA TOWNSHIP,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,TOWANDA TOWNSHIP
+Bradford,TOWANDA TOWNSHIP,Governor,,Wolf/Fetterman,DEM,123.0,110.0,13.0,Bradford County,TOWANDA TOWNSHIP
+Bradford,TOWANDA TOWNSHIP,Governor,,Wagner/Bartos,REP,172.0,168.0,4.0,Bradford County,TOWANDA TOWNSHIP
+Bradford,TOWANDA TOWNSHIP,Governor,,Glover/Bostick,GRN,1.0,1.0,0.0,Bradford County,TOWANDA TOWNSHIP
+Bradford,TOWANDA TOWNSHIP,Governor,,Krawchuk /Smith,LIB,3.0,3.0,0.0,Bradford County,TOWANDA TOWNSHIP
+Bradford,TOWANDA TOWNSHIP,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,TOWANDA TOWNSHIP
+Bradford,TOWANDA TOWNSHIP,U.S. House,12.0,Marc Friedenberg,DEM,104.0,92.0,12.0,Bradford County,TOWANDA TOWNSHIP
+Bradford,TOWANDA TOWNSHIP,U.S. House,12.0,Tom Marino,REP,195.0,190.0,5.0,Bradford County,TOWANDA TOWNSHIP
+Bradford,TOWANDA TOWNSHIP,U.S. House,12.0,Write In Votes,,0.0,0.0,0.0,Bradford County,TOWANDA TOWNSHIP
+Bradford,TOWANDA TOWNSHIP,State House,68.0,Carrie Heath,DEM,,,,Bradford County,TOWANDA TOWNSHIP
+Bradford,TOWANDA TOWNSHIP,State House,68.0,Clint Owlet,REP,,,,Bradford County,TOWANDA TOWNSHIP
+Bradford,TOWANDA TOWNSHIP,State House,68.0,Write In Votes,,,,,Bradford County,TOWANDA TOWNSHIP
+Bradford,TOWANDA TOWNSHIP,State House,110.0,Donna Iannone,DEM,112.0,101.0,11.0,Bradford County,TOWANDA TOWNSHIP
+Bradford,TOWANDA TOWNSHIP,State House,110.0,Tina Pickett,REP,188.0,182.0,6.0,Bradford County,TOWANDA TOWNSHIP
+Bradford,TOWANDA TOWNSHIP,State House,110.0,Write In Votes,,0.0,0.0,0.0,Bradford County,TOWANDA TOWNSHIP
+Bradford,NORTH TOWANDA TOWNSHIP,U.S. Senate,,Bob Casey Jr,DEM,136.0,126.0,10.0,Bradford County,NORTH TOWANDA TOWNSHIP
+Bradford,NORTH TOWANDA TOWNSHIP,U.S. Senate,,Lou Barletta,REP,193.0,172.0,21.0,Bradford County,NORTH TOWANDA TOWNSHIP
+Bradford,NORTH TOWANDA TOWNSHIP,U.S. Senate,,Neal Gale,GRN,4.0,3.0,1.0,Bradford County,NORTH TOWANDA TOWNSHIP
+Bradford,NORTH TOWANDA TOWNSHIP,U.S. Senate,,Dale R Kerns Jr,LIB,7.0,7.0,0.0,Bradford County,NORTH TOWANDA TOWNSHIP
+Bradford,NORTH TOWANDA TOWNSHIP,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,NORTH TOWANDA TOWNSHIP
+Bradford,NORTH TOWANDA TOWNSHIP,Governor,,Wolf/Fetterman,DEM,119.0,110.0,9.0,Bradford County,NORTH TOWANDA TOWNSHIP
+Bradford,NORTH TOWANDA TOWNSHIP,Governor,,Wagner/Bartos,REP,211.0,189.0,22.0,Bradford County,NORTH TOWANDA TOWNSHIP
+Bradford,NORTH TOWANDA TOWNSHIP,Governor,,Glover/Bostick,GRN,3.0,3.0,0.0,Bradford County,NORTH TOWANDA TOWNSHIP
+Bradford,NORTH TOWANDA TOWNSHIP,Governor,,Krawchuk /Smith,LIB,7.0,7.0,0.0,Bradford County,NORTH TOWANDA TOWNSHIP
+Bradford,NORTH TOWANDA TOWNSHIP,Governor,,Write In Votes,,1.0,0.0,0.0,Bradford County,NORTH TOWANDA TOWNSHIP
+Bradford,NORTH TOWANDA TOWNSHIP,U.S. House,12.0,Marc Friedenberg,DEM,103.0,96.0,7.0,Bradford County,NORTH TOWANDA TOWNSHIP
+Bradford,NORTH TOWANDA TOWNSHIP,U.S. House,12.0,Tom Marino,REP,227.0,203.0,24.0,Bradford County,NORTH TOWANDA TOWNSHIP
+Bradford,NORTH TOWANDA TOWNSHIP,U.S. House,12.0,Write In Votes,,0.0,0.0,0.0,Bradford County,NORTH TOWANDA TOWNSHIP
+Bradford,NORTH TOWANDA TOWNSHIP,State House,68.0,Carrie Heath,DEM,,,,Bradford County,NORTH TOWANDA TOWNSHIP
+Bradford,NORTH TOWANDA TOWNSHIP,State House,68.0,Clint Owlet,REP,,,,Bradford County,NORTH TOWANDA TOWNSHIP
+Bradford,NORTH TOWANDA TOWNSHIP,State House,68.0,Write In Votes,,,,,Bradford County,NORTH TOWANDA TOWNSHIP
+Bradford,NORTH TOWANDA TOWNSHIP,State House,110.0,Donna Iannone,DEM,105.0,100.0,5.0,Bradford County,NORTH TOWANDA TOWNSHIP
+Bradford,NORTH TOWANDA TOWNSHIP,State House,110.0,Tina Pickett,REP,238.0,212.0,26.0,Bradford County,NORTH TOWANDA TOWNSHIP
+Bradford,NORTH TOWANDA TOWNSHIP,State House,110.0,Write In Votes,,0.0,0.0,0.0,Bradford County,NORTH TOWANDA TOWNSHIP
+Bradford,TROY BOROUGH,U.S. Senate,,Bob Casey Jr,DEM,148.0,142.0,6.0,Bradford County,TROY BOROUGH
+Bradford,TROY BOROUGH,U.S. Senate,,Lou Barletta,REP,220.0,213.0,7.0,Bradford County,TROY BOROUGH
+Bradford,TROY BOROUGH,U.S. Senate,,Neal Gale,GRN,4.0,4.0,0.0,Bradford County,TROY BOROUGH
+Bradford,TROY BOROUGH,U.S. Senate,,Dale R Kerns Jr,LIB,3.0,3.0,0.0,Bradford County,TROY BOROUGH
+Bradford,TROY BOROUGH,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,TROY BOROUGH
+Bradford,TROY BOROUGH,Governor,,Wolf/Fetterman,DEM,146.0,140.0,6.0,Bradford County,TROY BOROUGH
+Bradford,TROY BOROUGH,Governor,,Wagner/Bartos,REP,225.0,218.0,7.0,Bradford County,TROY BOROUGH
+Bradford,TROY BOROUGH,Governor,,Glover/Bostick,GRN,4.0,4.0,0.0,Bradford County,TROY BOROUGH
+Bradford,TROY BOROUGH,Governor,,Krawchuk /Smith,LIB,8.0,8.0,0.0,Bradford County,TROY BOROUGH
+Bradford,TROY BOROUGH,Governor,,Write In Votes,,1.0,1.0,0.0,Bradford County,TROY BOROUGH
+Bradford,TROY BOROUGH,U.S. House,12.0,Marc Friedenberg,DEM,134.0,129.0,5.0,Bradford County,TROY BOROUGH
+Bradford,TROY BOROUGH,U.S. House,12.0,Tom Marino,REP,243.0,236.0,7.0,Bradford County,TROY BOROUGH
+Bradford,TROY BOROUGH,U.S. House,12.0,Write In Votes,,3.0,2.0,1.0,Bradford County,TROY BOROUGH
+Bradford,TROY BOROUGH,State House,68.0,Carrie Heath,DEM,113.0,108.0,5.0,Bradford County,TROY BOROUGH
+Bradford,TROY BOROUGH,State House,68.0,Clint Owlet,REP,269.0,261.0,8.0,Bradford County,TROY BOROUGH
+Bradford,TROY BOROUGH,State House,68.0,Write In Votes,,3.0,3.0,0.0,Bradford County,TROY BOROUGH
+Bradford,TROY BOROUGH,State House,110.0,Donna Iannone,DEM,,,,Bradford County,TROY BOROUGH
+Bradford,TROY BOROUGH,State House,110.0,Tina Pickett,REP,,,,Bradford County,TROY BOROUGH
+Bradford,TROY BOROUGH,State House,110.0,Write In Votes,,,,,Bradford County,TROY BOROUGH
+Bradford,TROY TOWNSHIP,U.S. Senate,,Bob Casey Jr,DEM,194.0,188.0,6.0,Bradford County,TROY TOWNSHIP
+Bradford,TROY TOWNSHIP,U.S. Senate,,Lou Barletta,REP,436.0,416.0,20.0,Bradford County,TROY TOWNSHIP
+Bradford,TROY TOWNSHIP,U.S. Senate,,Neal Gale,GRN,2.0,2.0,0.0,Bradford County,TROY TOWNSHIP
+Bradford,TROY TOWNSHIP,U.S. Senate,,Dale R Kerns Jr,LIB,6.0,6.0,0.0,Bradford County,TROY TOWNSHIP
+Bradford,TROY TOWNSHIP,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,TROY TOWNSHIP
+Bradford,TROY TOWNSHIP,Governor,,Wolf/Fetterman,DEM,203.0,195.0,8.0,Bradford County,TROY TOWNSHIP
+Bradford,TROY TOWNSHIP,Governor,,Wagner/Bartos,REP,422.0,405.0,17.0,Bradford County,TROY TOWNSHIP
+Bradford,TROY TOWNSHIP,Governor,,Glover/Bostick,GRN,5.0,5.0,0.0,Bradford County,TROY TOWNSHIP
+Bradford,TROY TOWNSHIP,Governor,,Krawchuk /Smith,LIB,11.0,11.0,0.0,Bradford County,TROY TOWNSHIP
+Bradford,TROY TOWNSHIP,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,TROY TOWNSHIP
+Bradford,TROY TOWNSHIP,U.S. House,12.0,Marc Friedenberg,DEM,143.0,136.0,7.0,Bradford County,TROY TOWNSHIP
+Bradford,TROY TOWNSHIP,U.S. House,12.0,Tom Marino,REP,487.0,468.0,19.0,Bradford County,TROY TOWNSHIP
+Bradford,TROY TOWNSHIP,U.S. House,12.0,Write In Votes,,0.0,0.0,0.0,Bradford County,TROY TOWNSHIP
+Bradford,TROY TOWNSHIP,State House,68.0,Carrie Heath,DEM,126.0,120.0,6.0,Bradford County,TROY TOWNSHIP
+Bradford,TROY TOWNSHIP,State House,68.0,Clint Owlet,REP,508.0,488.0,20.0,Bradford County,TROY TOWNSHIP
+Bradford,TROY TOWNSHIP,State House,68.0,Write In Votes,,3.0,3.0,0.0,Bradford County,TROY TOWNSHIP
+Bradford,TROY TOWNSHIP,State House,110.0,Donna Iannone,DEM,,,,Bradford County,TROY TOWNSHIP
+Bradford,TROY TOWNSHIP,State House,110.0,Tina Pickett,REP,,,,Bradford County,TROY TOWNSHIP
+Bradford,TROY TOWNSHIP,State House,110.0,Write In Votes,,,,,Bradford County,TROY TOWNSHIP
+Bradford,TUSCARORA TOWNSHIP,U.S. Senate,,Bob Casey Jr,DEM,94.0,88.0,6.0,Bradford County,TUSCARORA TOWNSHIP
+Bradford,TUSCARORA TOWNSHIP,U.S. Senate,,Lou Barletta,REP,314.0,303.0,11.0,Bradford County,TUSCARORA TOWNSHIP
+Bradford,TUSCARORA TOWNSHIP,U.S. Senate,,Neal Gale,GRN,1.0,1.0,0.0,Bradford County,TUSCARORA TOWNSHIP
+Bradford,TUSCARORA TOWNSHIP,U.S. Senate,,Dale R Kerns Jr,LIB,7.0,6.0,1.0,Bradford County,TUSCARORA TOWNSHIP
+Bradford,TUSCARORA TOWNSHIP,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,TUSCARORA TOWNSHIP
+Bradford,TUSCARORA TOWNSHIP,Governor,,Wolf/Fetterman,DEM,86.0,80.0,6.0,Bradford County,TUSCARORA TOWNSHIP
+Bradford,TUSCARORA TOWNSHIP,Governor,,Wagner/Bartos,REP,319.0,307.0,12.0,Bradford County,TUSCARORA TOWNSHIP
+Bradford,TUSCARORA TOWNSHIP,Governor,,Glover/Bostick,GRN,3.0,3.0,0.0,Bradford County,TUSCARORA TOWNSHIP
+Bradford,TUSCARORA TOWNSHIP,Governor,,Krawchuk /Smith,LIB,10.0,10.0,0.0,Bradford County,TUSCARORA TOWNSHIP
+Bradford,TUSCARORA TOWNSHIP,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,TUSCARORA TOWNSHIP
+Bradford,TUSCARORA TOWNSHIP,U.S. House,12.0,Marc Friedenberg,DEM,78.0,71.0,7.0,Bradford County,TUSCARORA TOWNSHIP
+Bradford,TUSCARORA TOWNSHIP,U.S. House,12.0,Tom Marino,REP,327.0,316.0,11.0,Bradford County,TUSCARORA TOWNSHIP
+Bradford,TUSCARORA TOWNSHIP,U.S. House,12.0,Write In Votes,,0.0,0.0,0.0,Bradford County,TUSCARORA TOWNSHIP
+Bradford,TUSCARORA TOWNSHIP,State House,68.0,Carrie Heath,DEM,,,,Bradford County,TUSCARORA TOWNSHIP
+Bradford,TUSCARORA TOWNSHIP,State House,68.0,Clint Owlet,REP,,,,Bradford County,TUSCARORA TOWNSHIP
+Bradford,TUSCARORA TOWNSHIP,State House,68.0,Write In Votes,,,,,Bradford County,TUSCARORA TOWNSHIP
+Bradford,TUSCARORA TOWNSHIP,State House,110.0,Donna Iannone,DEM,88.0,81.0,7.0,Bradford County,TUSCARORA TOWNSHIP
+Bradford,TUSCARORA TOWNSHIP,State House,110.0,Tina Pickett,REP,329.0,318.0,11.0,Bradford County,TUSCARORA TOWNSHIP
+Bradford,TUSCARORA TOWNSHIP,State House,110.0,Write In Votes,,1.0,1.0,0.0,Bradford County,TUSCARORA TOWNSHIP
+Bradford,ULSTER TOWNSHIP,U.S. Senate,,Bob Casey Jr,DEM,121.0,118.0,3.0,Bradford County,ULSTER TOWNSHIP
+Bradford,ULSTER TOWNSHIP,U.S. Senate,,Lou Barletta,REP,263.0,255.0,8.0,Bradford County,ULSTER TOWNSHIP
+Bradford,ULSTER TOWNSHIP,U.S. Senate,,Neal Gale,GRN,2.0,2.0,0.0,Bradford County,ULSTER TOWNSHIP
+Bradford,ULSTER TOWNSHIP,U.S. Senate,,Dale R Kerns Jr,LIB,6.0,6.0,0.0,Bradford County,ULSTER TOWNSHIP
+Bradford,ULSTER TOWNSHIP,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,ULSTER TOWNSHIP
+Bradford,ULSTER TOWNSHIP,Governor,,Wolf/Fetterman,DEM,131.0,128.0,3.0,Bradford County,ULSTER TOWNSHIP
+Bradford,ULSTER TOWNSHIP,Governor,,Wagner/Bartos,REP,262.0,254.0,8.0,Bradford County,ULSTER TOWNSHIP
+Bradford,ULSTER TOWNSHIP,Governor,,Glover/Bostick,GRN,1.0,1.0,0.0,Bradford County,ULSTER TOWNSHIP
+Bradford,ULSTER TOWNSHIP,Governor,,Krawchuk /Smith,LIB,7.0,7.0,0.0,Bradford County,ULSTER TOWNSHIP
+Bradford,ULSTER TOWNSHIP,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,ULSTER TOWNSHIP
+Bradford,ULSTER TOWNSHIP,U.S. House,12.0,Marc Friedenberg,DEM,105.0,102.0,3.0,Bradford County,ULSTER TOWNSHIP
+Bradford,ULSTER TOWNSHIP,U.S. House,12.0,Tom Marino,REP,285.0,277.0,8.0,Bradford County,ULSTER TOWNSHIP
+Bradford,ULSTER TOWNSHIP,U.S. House,12.0,Write In Votes,,2.0,2.0,0.0,Bradford County,ULSTER TOWNSHIP
+Bradford,ULSTER TOWNSHIP,State House,68.0,Carrie Heath,DEM,,,,Bradford County,ULSTER TOWNSHIP
+Bradford,ULSTER TOWNSHIP,State House,68.0,Clint Owlet,REP,,,,Bradford County,ULSTER TOWNSHIP
+Bradford,ULSTER TOWNSHIP,State House,68.0,Write In Votes,,,,,Bradford County,ULSTER TOWNSHIP
+Bradford,ULSTER TOWNSHIP,State House,110.0,Donna Iannone,DEM,84.0,81.0,3.0,Bradford County,ULSTER TOWNSHIP
+Bradford,ULSTER TOWNSHIP,State House,110.0,Tina Pickett,REP,312.0,305.0,7.0,Bradford County,ULSTER TOWNSHIP
+Bradford,ULSTER TOWNSHIP,State House,110.0,Write In Votes,,1.0,0.0,1.0,Bradford County,ULSTER TOWNSHIP
+Bradford,WARREN TOWNSHIP,U.S. Senate,,Bob Casey Jr,DEM,86.0,82.0,4.0,Bradford County,WARREN TOWNSHIP
+Bradford,WARREN TOWNSHIP,U.S. Senate,,Lou Barletta,REP,306.0,288.0,17.0,Bradford County,WARREN TOWNSHIP
+Bradford,WARREN TOWNSHIP,U.S. Senate,,Neal Gale,GRN,2.0,2.0,0.0,Bradford County,WARREN TOWNSHIP
+Bradford,WARREN TOWNSHIP,U.S. Senate,,Dale R Kerns Jr,LIB,7.0,7.0,0.0,Bradford County,WARREN TOWNSHIP
+Bradford,WARREN TOWNSHIP,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,WARREN TOWNSHIP
+Bradford,WARREN TOWNSHIP,Governor,,Wolf/Fetterman,DEM,82.0,78.0,4.0,Bradford County,WARREN TOWNSHIP
+Bradford,WARREN TOWNSHIP,Governor,,Wagner/Bartos,REP,311.0,294.0,16.0,Bradford County,WARREN TOWNSHIP
+Bradford,WARREN TOWNSHIP,Governor,,Glover/Bostick,GRN,2.0,2.0,0.0,Bradford County,WARREN TOWNSHIP
+Bradford,WARREN TOWNSHIP,Governor,,Krawchuk /Smith,LIB,5.0,5.0,0.0,Bradford County,WARREN TOWNSHIP
+Bradford,WARREN TOWNSHIP,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,WARREN TOWNSHIP
+Bradford,WARREN TOWNSHIP,U.S. House,12.0,Marc Friedenberg,DEM,69.0,66.0,3.0,Bradford County,WARREN TOWNSHIP
+Bradford,WARREN TOWNSHIP,U.S. House,12.0,Tom Marino,REP,322.0,304.0,17.0,Bradford County,WARREN TOWNSHIP
+Bradford,WARREN TOWNSHIP,U.S. House,12.0,Write In Votes,,0.0,0.0,0.0,Bradford County,WARREN TOWNSHIP
+Bradford,WARREN TOWNSHIP,State House,68.0,Carrie Heath,DEM,,,,Bradford County,WARREN TOWNSHIP
+Bradford,WARREN TOWNSHIP,State House,68.0,Clint Owlet,REP,,,,Bradford County,WARREN TOWNSHIP
+Bradford,WARREN TOWNSHIP,State House,68.0,Write In Votes,,,,,Bradford County,WARREN TOWNSHIP
+Bradford,WARREN TOWNSHIP,State House,110.0,Donna Iannone,DEM,54.0,52.0,2.0,Bradford County,WARREN TOWNSHIP
+Bradford,WARREN TOWNSHIP,State House,110.0,Tina Pickett,REP,338.0,319.0,18.0,Bradford County,WARREN TOWNSHIP
+Bradford,WARREN TOWNSHIP,State House,110.0,Write In Votes,,1.0,1.0,0.0,Bradford County,WARREN TOWNSHIP
+Bradford,WELLS TOWNSHIP,U.S. Senate,,Bob Casey Jr,DEM,102.0,100.0,2.0,Bradford County,WELLS TOWNSHIP
+Bradford,WELLS TOWNSHIP,U.S. Senate,,Lou Barletta,REP,304.0,295.0,9.0,Bradford County,WELLS TOWNSHIP
+Bradford,WELLS TOWNSHIP,U.S. Senate,,Neal Gale,GRN,3.0,3.0,0.0,Bradford County,WELLS TOWNSHIP
+Bradford,WELLS TOWNSHIP,U.S. Senate,,Dale R Kerns Jr,LIB,4.0,3.0,1.0,Bradford County,WELLS TOWNSHIP
+Bradford,WELLS TOWNSHIP,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,WELLS TOWNSHIP
+Bradford,WELLS TOWNSHIP,Governor,,Wolf/Fetterman,DEM,102.0,100.0,2.0,Bradford County,WELLS TOWNSHIP
+Bradford,WELLS TOWNSHIP,Governor,,Wagner/Bartos,REP,301.0,292.0,9.0,Bradford County,WELLS TOWNSHIP
+Bradford,WELLS TOWNSHIP,Governor,,Glover/Bostick,GRN,4.0,4.0,0.0,Bradford County,WELLS TOWNSHIP
+Bradford,WELLS TOWNSHIP,Governor,,Krawchuk /Smith,LIB,8.0,7.0,1.0,Bradford County,WELLS TOWNSHIP
+Bradford,WELLS TOWNSHIP,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,WELLS TOWNSHIP
+Bradford,WELLS TOWNSHIP,U.S. House,12.0,Marc Friedenberg,DEM,95.0,93.0,2.0,Bradford County,WELLS TOWNSHIP
+Bradford,WELLS TOWNSHIP,U.S. House,12.0,Tom Marino,REP,322.0,313.0,9.0,Bradford County,WELLS TOWNSHIP
+Bradford,WELLS TOWNSHIP,U.S. House,12.0,Write In Votes,,0.0,0.0,0.0,Bradford County,WELLS TOWNSHIP
+Bradford,WELLS TOWNSHIP,State House,68.0,Carrie Heath,DEM,94.0,91.0,3.0,Bradford County,WELLS TOWNSHIP
+Bradford,WELLS TOWNSHIP,State House,68.0,Clint Owlet,REP,325.0,316.0,9.0,Bradford County,WELLS TOWNSHIP
+Bradford,WELLS TOWNSHIP,State House,68.0,Write In Votes,,0.0,0.0,0.0,Bradford County,WELLS TOWNSHIP
+Bradford,WELLS TOWNSHIP,State House,110.0,Donna Iannone,DEM,,,,Bradford County,WELLS TOWNSHIP
+Bradford,WELLS TOWNSHIP,State House,110.0,Tina Pickett,REP,,,,Bradford County,WELLS TOWNSHIP
+Bradford,WELLS TOWNSHIP,State House,110.0,Write In Votes,,,,,Bradford County,WELLS TOWNSHIP
+Bradford,WILMOT TOWNSHIP,U.S. Senate,,Bob Casey Jr,DEM,136.0,128.0,7.0,Bradford County,WILMOT TOWNSHIP
+Bradford,WILMOT TOWNSHIP,U.S. Senate,,Lou Barletta,REP,313.0,299.0,14.0,Bradford County,WILMOT TOWNSHIP
+Bradford,WILMOT TOWNSHIP,U.S. Senate,,Neal Gale,GRN,2.0,2.0,0.0,Bradford County,WILMOT TOWNSHIP
+Bradford,WILMOT TOWNSHIP,U.S. Senate,,Dale R Kerns Jr,LIB,3.0,3.0,0.0,Bradford County,WILMOT TOWNSHIP
+Bradford,WILMOT TOWNSHIP,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,WILMOT TOWNSHIP
+Bradford,WILMOT TOWNSHIP,Governor,,Wolf/Fetterman,DEM,133.0,124.0,8.0,Bradford County,WILMOT TOWNSHIP
+Bradford,WILMOT TOWNSHIP,Governor,,Wagner/Bartos,REP,318.0,305.0,13.0,Bradford County,WILMOT TOWNSHIP
+Bradford,WILMOT TOWNSHIP,Governor,,Glover/Bostick,GRN,1.0,1.0,0.0,Bradford County,WILMOT TOWNSHIP
+Bradford,WILMOT TOWNSHIP,Governor,,Krawchuk /Smith,LIB,3.0,3.0,0.0,Bradford County,WILMOT TOWNSHIP
+Bradford,WILMOT TOWNSHIP,Governor,,Write In Votes,,1.0,1.0,0.0,Bradford County,WILMOT TOWNSHIP
+Bradford,WILMOT TOWNSHIP,U.S. House,12.0,Marc Friedenberg,DEM,110.0,102.0,7.0,Bradford County,WILMOT TOWNSHIP
+Bradford,WILMOT TOWNSHIP,U.S. House,12.0,Tom Marino,REP,339.0,326.0,13.0,Bradford County,WILMOT TOWNSHIP
+Bradford,WILMOT TOWNSHIP,U.S. House,12.0,Write In Votes,,0.0,0.0,0.0,Bradford County,WILMOT TOWNSHIP
+Bradford,WILMOT TOWNSHIP,State House,68.0,Carrie Heath,DEM,,,,Bradford County,WILMOT TOWNSHIP
+Bradford,WILMOT TOWNSHIP,State House,68.0,Clint Owlet,REP,,,,Bradford County,WILMOT TOWNSHIP
+Bradford,WILMOT TOWNSHIP,State House,68.0,Write In Votes,,,,,Bradford County,WILMOT TOWNSHIP
+Bradford,WILMOT TOWNSHIP,State House,110.0,Donna Iannone,DEM,179.0,168.0,10.0,Bradford County,WILMOT TOWNSHIP
+Bradford,WILMOT TOWNSHIP,State House,110.0,Tina Pickett,REP,280.0,269.0,11.0,Bradford County,WILMOT TOWNSHIP
+Bradford,WILMOT TOWNSHIP,State House,110.0,Write In Votes,,0.0,0.0,0.0,Bradford County,WILMOT TOWNSHIP
+Bradford,WINDHAM TOWNSHIP,U.S. Senate,,Bob Casey Jr,DEM,95.0,94.0,1.0,Bradford County,WINDHAM TOWNSHIP
+Bradford,WINDHAM TOWNSHIP,U.S. Senate,,Lou Barletta,REP,218.0,210.0,8.0,Bradford County,WINDHAM TOWNSHIP
+Bradford,WINDHAM TOWNSHIP,U.S. Senate,,Neal Gale,GRN,2.0,2.0,0.0,Bradford County,WINDHAM TOWNSHIP
+Bradford,WINDHAM TOWNSHIP,U.S. Senate,,Dale R Kerns Jr,LIB,1.0,1.0,0.0,Bradford County,WINDHAM TOWNSHIP
+Bradford,WINDHAM TOWNSHIP,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,WINDHAM TOWNSHIP
+Bradford,WINDHAM TOWNSHIP,Governor,,Wolf/Fetterman,DEM,89.0,89.0,0.0,Bradford County,WINDHAM TOWNSHIP
+Bradford,WINDHAM TOWNSHIP,Governor,,Wagner/Bartos,REP,223.0,215.0,8.0,Bradford County,WINDHAM TOWNSHIP
+Bradford,WINDHAM TOWNSHIP,Governor,,Glover/Bostick,GRN,3.0,3.0,0.0,Bradford County,WINDHAM TOWNSHIP
+Bradford,WINDHAM TOWNSHIP,Governor,,Krawchuk /Smith,LIB,2.0,2.0,0.0,Bradford County,WINDHAM TOWNSHIP
+Bradford,WINDHAM TOWNSHIP,Governor,,Write In Votes,,1.0,1.0,0.0,Bradford County,WINDHAM TOWNSHIP
+Bradford,WINDHAM TOWNSHIP,U.S. House,12.0,Marc Friedenberg,DEM,75.0,75.0,0.0,Bradford County,WINDHAM TOWNSHIP
+Bradford,WINDHAM TOWNSHIP,U.S. House,12.0,Tom Marino,REP,236.0,227.0,9.0,Bradford County,WINDHAM TOWNSHIP
+Bradford,WINDHAM TOWNSHIP,U.S. House,12.0,Write In Votes,,1.0,1.0,0.0,Bradford County,WINDHAM TOWNSHIP
+Bradford,WINDHAM TOWNSHIP,State House,68.0,Carrie Heath,DEM,,,,Bradford County,WINDHAM TOWNSHIP
+Bradford,WINDHAM TOWNSHIP,State House,68.0,Clint Owlet,REP,,,,Bradford County,WINDHAM TOWNSHIP
+Bradford,WINDHAM TOWNSHIP,State House,68.0,Write In Votes,,,,,Bradford County,WINDHAM TOWNSHIP
+Bradford,WINDHAM TOWNSHIP,State House,110.0,Donna Iannone,DEM,70.0,68.0,2.0,Bradford County,WINDHAM TOWNSHIP
+Bradford,WINDHAM TOWNSHIP,State House,110.0,Tina Pickett,REP,245.0,238.0,7.0,Bradford County,WINDHAM TOWNSHIP
+Bradford,WINDHAM TOWNSHIP,State House,110.0,Write In Votes,,2.0,2.0,0.0,Bradford County,WINDHAM TOWNSHIP
+Bradford,WYALUSING BOROUGH,U.S. Senate,,Bob Casey Jr,DEM,88.0,80.0,7.0,Bradford County,WYALUSING BOROUGH
+Bradford,WYALUSING BOROUGH,U.S. Senate,,Lou Barletta,REP,99.0,97.0,2.0,Bradford County,WYALUSING BOROUGH
+Bradford,WYALUSING BOROUGH,U.S. Senate,,Neal Gale,GRN,3.0,3.0,0.0,Bradford County,WYALUSING BOROUGH
+Bradford,WYALUSING BOROUGH,U.S. Senate,,Dale R Kerns Jr,LIB,1.0,1.0,0.0,Bradford County,WYALUSING BOROUGH
+Bradford,WYALUSING BOROUGH,U.S. Senate,,Write In Votes,,1.0,1.0,0.0,Bradford County,WYALUSING BOROUGH
+Bradford,WYALUSING BOROUGH,Governor,,Wolf/Fetterman,DEM,91.0,83.0,7.0,Bradford County,WYALUSING BOROUGH
+Bradford,WYALUSING BOROUGH,Governor,,Wagner/Bartos,REP,98.0,96.0,2.0,Bradford County,WYALUSING BOROUGH
+Bradford,WYALUSING BOROUGH,Governor,,Glover/Bostick,GRN,3.0,3.0,0.0,Bradford County,WYALUSING BOROUGH
+Bradford,WYALUSING BOROUGH,Governor,,Krawchuk /Smith,LIB,2.0,2.0,0.0,Bradford County,WYALUSING BOROUGH
+Bradford,WYALUSING BOROUGH,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,WYALUSING BOROUGH
+Bradford,WYALUSING BOROUGH,U.S. House,12.0,Marc Friedenberg,DEM,73.0,65.0,7.0,Bradford County,WYALUSING BOROUGH
+Bradford,WYALUSING BOROUGH,U.S. House,12.0,Tom Marino,REP,115.0,113.0,2.0,Bradford County,WYALUSING BOROUGH
+Bradford,WYALUSING BOROUGH,U.S. House,12.0,Write In Votes,,,0.0,0.0,Bradford County,WYALUSING BOROUGH
+Bradford,WYALUSING BOROUGH,State House,68.0,Carrie Heath,DEM,,,,Bradford County,WYALUSING BOROUGH
+Bradford,WYALUSING BOROUGH,State House,68.0,Clint Owlet,REP,,,,Bradford County,WYALUSING BOROUGH
+Bradford,WYALUSING BOROUGH,State House,68.0,Write In Votes,,,,,Bradford County,WYALUSING BOROUGH
+Bradford,WYALUSING BOROUGH,State House,110.0,Donna Iannone,DEM,84.0,76.0,7.0,Bradford County,WYALUSING BOROUGH
+Bradford,WYALUSING BOROUGH,State House,110.0,Tina Pickett,REP,109.0,107.0,2.0,Bradford County,WYALUSING BOROUGH
+Bradford,WYALUSING BOROUGH,State House,110.0,Write In Votes,,0.0,0.0,0.0,Bradford County,WYALUSING BOROUGH
+Bradford,WYALUSING TOWNSHIP,U.S. Senate,,Bob Casey Jr,DEM,127.0,118.0,9.0,Bradford County,WYALUSING TOWNSHIP
+Bradford,WYALUSING TOWNSHIP,U.S. Senate,,Lou Barletta,REP,350.0,338.0,11.0,Bradford County,WYALUSING TOWNSHIP
+Bradford,WYALUSING TOWNSHIP,U.S. Senate,,Neal Gale,GRN,7.0,6.0,1.0,Bradford County,WYALUSING TOWNSHIP
+Bradford,WYALUSING TOWNSHIP,U.S. Senate,,Dale R Kerns Jr,LIB,3.0,2.0,1.0,Bradford County,WYALUSING TOWNSHIP
+Bradford,WYALUSING TOWNSHIP,U.S. Senate,,Write In Votes,,1.0,1.0,0.0,Bradford County,WYALUSING TOWNSHIP
+Bradford,WYALUSING TOWNSHIP,Governor,,Wolf/Fetterman,DEM,133.0,120.0,13.0,Bradford County,WYALUSING TOWNSHIP
+Bradford,WYALUSING TOWNSHIP,Governor,,Wagner/Bartos,REP,346.0,336.0,9.0,Bradford County,WYALUSING TOWNSHIP
+Bradford,WYALUSING TOWNSHIP,Governor,,Glover/Bostick,GRN,7.0,7.0,0.0,Bradford County,WYALUSING TOWNSHIP
+Bradford,WYALUSING TOWNSHIP,Governor,,Krawchuk /Smith,LIB,4.0,4.0,0.0,Bradford County,WYALUSING TOWNSHIP
+Bradford,WYALUSING TOWNSHIP,Governor,,Write In Votes,,0.0,0.0,0.0,Bradford County,WYALUSING TOWNSHIP
+Bradford,WYALUSING TOWNSHIP,U.S. House,12.0,Marc Friedenberg,DEM,97.0,89.0,8.0,Bradford County,WYALUSING TOWNSHIP
+Bradford,WYALUSING TOWNSHIP,U.S. House,12.0,Tom Marino,REP,382.0,367.0,14.0,Bradford County,WYALUSING TOWNSHIP
+Bradford,WYALUSING TOWNSHIP,U.S. House,12.0,Write In Votes,,1.0,1.0,0.0,Bradford County,WYALUSING TOWNSHIP
+Bradford,WYALUSING TOWNSHIP,State House,68.0,Carrie Heath,DEM,,,,Bradford County,WYALUSING TOWNSHIP
+Bradford,WYALUSING TOWNSHIP,State House,68.0,Clint Owlet,REP,,,,Bradford County,WYALUSING TOWNSHIP
+Bradford,WYALUSING TOWNSHIP,State House,68.0,Write In Votes,,,,,Bradford County,WYALUSING TOWNSHIP
+Bradford,WYALUSING TOWNSHIP,State House,110.0,Donna Iannone,DEM,156.0,145.0,10.0,Bradford County,WYALUSING TOWNSHIP
+Bradford,WYALUSING TOWNSHIP,State House,110.0,Tina Pickett,REP,336.0,324.0,12.0,Bradford County,WYALUSING TOWNSHIP
+Bradford,WYALUSING TOWNSHIP,State House,110.0,Write In Votes,,1.0,1.0,0.0,Bradford County,WYALUSING TOWNSHIP
+Bradford,WYSOX TOWNSHIP,U.S. Senate,,Bob Casey Jr,DEM,170.0,160.0,10.0,Bradford County,WYSOX TOWNSHIP
+Bradford,WYSOX TOWNSHIP,U.S. Senate,,Lou Barletta,REP,339.0,328.0,11.0,Bradford County,WYSOX TOWNSHIP
+Bradford,WYSOX TOWNSHIP,U.S. Senate,,Neal Gale,GRN,10.0,9.0,1.0,Bradford County,WYSOX TOWNSHIP
+Bradford,WYSOX TOWNSHIP,U.S. Senate,,Dale R Kerns Jr,LIB,2.0,2.0,0.0,Bradford County,WYSOX TOWNSHIP
+Bradford,WYSOX TOWNSHIP,U.S. Senate,,Write In Votes,,0.0,0.0,0.0,Bradford County,WYSOX TOWNSHIP
+Bradford,WYSOX TOWNSHIP,Governor,,Wolf/Fetterman,DEM,174.0,164.0,10.0,Bradford County,WYSOX TOWNSHIP
+Bradford,WYSOX TOWNSHIP,Governor,,Wagner/Bartos,REP,341.0,329.0,12.0,Bradford County,WYSOX TOWNSHIP
+Bradford,WYSOX TOWNSHIP,Governor,,Glover/Bostick,GRN,5.0,4.0,1.0,Bradford County,WYSOX TOWNSHIP
+Bradford,WYSOX TOWNSHIP,Governor,,Krawchuk /Smith,LIB,7.0,7.0,0.0,Bradford County,WYSOX TOWNSHIP
+Bradford,WYSOX TOWNSHIP,Governor,,Write In Votes,,1.0,1.0,0.0,Bradford County,WYSOX TOWNSHIP
+Bradford,WYSOX TOWNSHIP,U.S. House,12.0,Marc Friedenberg,DEM,131.0,121.0,10.0,Bradford County,WYSOX TOWNSHIP
+Bradford,WYSOX TOWNSHIP,U.S. House,12.0,Tom Marino,REP,377.0,365.0,12.0,Bradford County,WYSOX TOWNSHIP
+Bradford,WYSOX TOWNSHIP,U.S. House,12.0,Write In Votes,,2.0,2.0,0.0,Bradford County,WYSOX TOWNSHIP
+Bradford,WYSOX TOWNSHIP,State House,68.0,Carrie Heath,DEM,,,,Bradford County,WYSOX TOWNSHIP
+Bradford,WYSOX TOWNSHIP,State House,68.0,Clint Owlet,REP,,,,Bradford County,WYSOX TOWNSHIP
+Bradford,WYSOX TOWNSHIP,State House,68.0,Write In Votes,,,,,Bradford County,WYSOX TOWNSHIP
+Bradford,WYSOX TOWNSHIP,State House,110.0,Donna Iannone,DEM,132.0,123.0,9.0,Bradford County,WYSOX TOWNSHIP
+Bradford,WYSOX TOWNSHIP,State House,110.0,Tina Pickett,REP,390.0,376.0,14.0,Bradford County,WYSOX TOWNSHIP
+Bradford,WYSOX TOWNSHIP,State House,110.0,Write In Votes,,1.0,1.0,0.0,Bradford County,WYSOX TOWNSHIP

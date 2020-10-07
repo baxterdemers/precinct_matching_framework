@@ -1,0 +1,737 @@
+county,precinct,office,district,candidate,party,votes,election_day,absentee,county_id,original_precinct_name
+Venango,Allegheny Twp,U.S. Senate,,Bob Casey Jr,DEM,30,28.0,2.0,Venango County,Allegheny Twp
+Venango,Allegheny Twp,U.S. Senate,,Lou Barletta,REP,93,93.0,0.0,Venango County,Allegheny Twp
+Venango,Allegheny Twp,U.S. Senate,,Neal Gale ,GRN,0,0.0,0.0,Venango County,Allegheny Twp
+Venango,Allegheny Twp,U.S. Senate,,Dale R Kerns Jr,LIB,4,4.0,0.0,Venango County,Allegheny Twp
+Venango,Allegheny Twp,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Allegheny Twp
+Venango,Allegheny Twp,Governor,,Tom Wolf,DEM,33,31.0,2.0,Venango County,Allegheny Twp
+Venango,Allegheny Twp,Governor,,Scott R Wagner,REP,93,93.0,0.0,Venango County,Allegheny Twp
+Venango,Allegheny Twp,Governor,,Paul Glover,GRN,0,0.0,0.0,Venango County,Allegheny Twp
+Venango,Allegheny Twp,Governor,,Ken V Krawchuk,LIB,2,2.0,0.0,Venango County,Allegheny Twp
+Venango,Allegheny Twp,Governor,,Write In,,0,0.0,0.0,Venango County,Allegheny Twp
+Venango,Allegheny Twp,U.S. House,15.0,Susan Boser,DEM,24,22.0,2.0,Venango County,Allegheny Twp
+Venango,Allegheny Twp,U.S. House,15.0,Glenn Gt Thompson ,REP,103,103.0,0.0,Venango County,Allegheny Twp
+Venango,Allegheny Twp,U.S. House,15.0,Write In,,0,0.0,0.0,Venango County,Allegheny Twp
+Venango,Allegheny Twp,State House,64.0,John Kluck,DEM,25,23.0,2.0,Venango County,Allegheny Twp
+Venango,Allegheny Twp,State House,64.0,R Lee James,REP,102,102.0,0.0,Venango County,Allegheny Twp
+Venango,Allegheny Twp,State House,64.0,Write In,,0,0.0,0.0,Venango County,Allegheny Twp
+Venango,Barkeyville Boro,U.S. Senate,,Bob Casey Jr,DEM,31,30.0,1.0,Venango County,Barkeyville Boro
+Venango,Barkeyville Boro,U.S. Senate,,Lou Barletta,REP,45,43.0,2.0,Venango County,Barkeyville Boro
+Venango,Barkeyville Boro,U.S. Senate,,Neal Gale ,GRN,4,4.0,0.0,Venango County,Barkeyville Boro
+Venango,Barkeyville Boro,U.S. Senate,,Dale R Kerns Jr,LIB,2,2.0,0.0,Venango County,Barkeyville Boro
+Venango,Barkeyville Boro,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Barkeyville Boro
+Venango,Barkeyville Boro,Governor,,Tom Wolf,DEM,33,32.0,1.0,Venango County,Barkeyville Boro
+Venango,Barkeyville Boro,Governor,,Scott R Wagner,REP,43,41.0,2.0,Venango County,Barkeyville Boro
+Venango,Barkeyville Boro,Governor,,Paul Glover,GRN,3,3.0,0.0,Venango County,Barkeyville Boro
+Venango,Barkeyville Boro,Governor,,Ken V Krawchuk,LIB,2,2.0,0.0,Venango County,Barkeyville Boro
+Venango,Barkeyville Boro,Governor,,Write In,,0,0.0,0.0,Venango County,Barkeyville Boro
+Venango,Barkeyville Boro,U.S. House,15.0,Susan Boser,DEM,29,28.0,1.0,Venango County,Barkeyville Boro
+Venango,Barkeyville Boro,U.S. House,15.0,Glenn Gt Thompson ,REP,53,51.0,2.0,Venango County,Barkeyville Boro
+Venango,Barkeyville Boro,U.S. House,15.0,Write In,,0,0.0,0.0,Venango County,Barkeyville Boro
+Venango,Barkeyville Boro,State House,64.0,John Kluck,DEM,33,32.0,1.0,Venango County,Barkeyville Boro
+Venango,Barkeyville Boro,State House,64.0,R Lee James,REP,50,48.0,2.0,Venango County,Barkeyville Boro
+Venango,Barkeyville Boro,State House,64.0,Write In,,0,0.0,0.0,Venango County,Barkeyville Boro
+Venango,Canal Twp,U.S. Senate,,Bob Casey Jr,DEM,109,103.0,5.0,Venango County,Canal Twp
+Venango,Canal Twp,U.S. Senate,,Lou Barletta,REP,236,226.0,10.0,Venango County,Canal Twp
+Venango,Canal Twp,U.S. Senate,,Neal Gale ,GRN,1,1.0,0.0,Venango County,Canal Twp
+Venango,Canal Twp,U.S. Senate,,Dale R Kerns Jr,LIB,7,7.0,0.0,Venango County,Canal Twp
+Venango,Canal Twp,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Canal Twp
+Venango,Canal Twp,Governor,,Tom Wolf,DEM,109,103.0,5.0,Venango County,Canal Twp
+Venango,Canal Twp,Governor,,Scott R Wagner,REP,244,234.0,10.0,Venango County,Canal Twp
+Venango,Canal Twp,Governor,,Paul Glover,GRN,1,1.0,0.0,Venango County,Canal Twp
+Venango,Canal Twp,Governor,,Ken V Krawchuk,LIB,5,5.0,0.0,Venango County,Canal Twp
+Venango,Canal Twp,Governor,,Write In,,0,0.0,0.0,Venango County,Canal Twp
+Venango,Canal Twp,U.S. House,15.0,Susan Boser,DEM,101,96.0,5.0,Venango County,Canal Twp
+Venango,Canal Twp,U.S. House,15.0,Glenn Gt Thompson ,REP,255,244.0,10.0,Venango County,Canal Twp
+Venango,Canal Twp,U.S. House,15.0,Write In,,0,0.0,0.0,Venango County,Canal Twp
+Venango,Canal Twp,State House,64.0,John Kluck,DEM,94,89.0,5.0,Venango County,Canal Twp
+Venango,Canal Twp,State House,64.0,R Lee James,REP,264,253.0,10.0,Venango County,Canal Twp
+Venango,Canal Twp,State House,64.0,Write In,,0,0.0,0.0,Venango County,Canal Twp
+Venango,Cherrytree Twp,U.S. Senate,,Bob Casey Jr,DEM,178,172.0,6.0,Venango County,Cherrytree Twp
+Venango,Cherrytree Twp,U.S. Senate,,Lou Barletta,REP,401,381.0,19.0,Venango County,Cherrytree Twp
+Venango,Cherrytree Twp,U.S. Senate,,Neal Gale ,GRN,1,1.0,0.0,Venango County,Cherrytree Twp
+Venango,Cherrytree Twp,U.S. Senate,,Dale R Kerns Jr,LIB,3,3.0,0.0,Venango County,Cherrytree Twp
+Venango,Cherrytree Twp,U.S. Senate,,Write In,,1,1.0,0.0,Venango County,Cherrytree Twp
+Venango,Cherrytree Twp,Governor,,Tom Wolf,DEM,186,182.0,4.0,Venango County,Cherrytree Twp
+Venango,Cherrytree Twp,Governor,,Scott R Wagner,REP,395,374.0,20.0,Venango County,Cherrytree Twp
+Venango,Cherrytree Twp,Governor,,Paul Glover,GRN,1,1.0,0.0,Venango County,Cherrytree Twp
+Venango,Cherrytree Twp,Governor,,Ken V Krawchuk,LIB,5,5.0,0.0,Venango County,Cherrytree Twp
+Venango,Cherrytree Twp,Governor,,Write In,,1,1.0,0.0,Venango County,Cherrytree Twp
+Venango,Cherrytree Twp,U.S. House,15.0,Susan Boser,DEM,158,153.0,5.0,Venango County,Cherrytree Twp
+Venango,Cherrytree Twp,U.S. House,15.0,Glenn Gt Thompson ,REP,432,411.0,20.0,Venango County,Cherrytree Twp
+Venango,Cherrytree Twp,U.S. House,15.0,Write In,,0,0.0,0.0,Venango County,Cherrytree Twp
+Venango,Cherrytree Twp,State House,64.0,John Kluck,DEM,172,163.0,9.0,Venango County,Cherrytree Twp
+Venango,Cherrytree Twp,State House,64.0,R Lee James,REP,417,401.0,15.0,Venango County,Cherrytree Twp
+Venango,Cherrytree Twp,State House,64.0,Write In,,1,1.0,0.0,Venango County,Cherrytree Twp
+Venango,Clinton Twp,U.S. Senate,,Bob Casey Jr,DEM,80,78.0,2.0,Venango County,Clinton Twp
+Venango,Clinton Twp,U.S. Senate,,Lou Barletta,REP,174,170.0,4.0,Venango County,Clinton Twp
+Venango,Clinton Twp,U.S. Senate,,Neal Gale ,GRN,2,2.0,0.0,Venango County,Clinton Twp
+Venango,Clinton Twp,U.S. Senate,,Dale R Kerns Jr,LIB,6,6.0,0.0,Venango County,Clinton Twp
+Venango,Clinton Twp,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Clinton Twp
+Venango,Clinton Twp,Governor,,Tom Wolf,DEM,79,78.0,1.0,Venango County,Clinton Twp
+Venango,Clinton Twp,Governor,,Scott R Wagner,REP,175,171.0,4.0,Venango County,Clinton Twp
+Venango,Clinton Twp,Governor,,Paul Glover,GRN,2,2.0,0.0,Venango County,Clinton Twp
+Venango,Clinton Twp,Governor,,Ken V Krawchuk,LIB,4,4.0,0.0,Venango County,Clinton Twp
+Venango,Clinton Twp,Governor,,Write In,,0,0.0,0.0,Venango County,Clinton Twp
+Venango,Clinton Twp,U.S. House,15.0,Susan Boser,DEM,75,73.0,2.0,Venango County,Clinton Twp
+Venango,Clinton Twp,U.S. House,15.0,Glenn Gt Thompson ,REP,184,180.0,4.0,Venango County,Clinton Twp
+Venango,Clinton Twp,U.S. House,15.0,Write In,,2,2.0,0.0,Venango County,Clinton Twp
+Venango,Clinton Twp,State House,64.0,John Kluck,DEM,65,63.0,2.0,Venango County,Clinton Twp
+Venango,Clinton Twp,State House,64.0,R Lee James,REP,193,189.0,4.0,Venango County,Clinton Twp
+Venango,Clinton Twp,State House,64.0,Write In,,0,0.0,0.0,Venango County,Clinton Twp
+Venango,Clintonville Boro,U.S. Senate,,Bob Casey Jr,DEM,37,36.0,1.0,Venango County,Clintonville Boro
+Venango,Clintonville Boro,U.S. Senate,,Lou Barletta,REP,93,93.0,0.0,Venango County,Clintonville Boro
+Venango,Clintonville Boro,U.S. Senate,,Neal Gale ,GRN,0,0.0,0.0,Venango County,Clintonville Boro
+Venango,Clintonville Boro,U.S. Senate,,Dale R Kerns Jr,LIB,1,1.0,0.0,Venango County,Clintonville Boro
+Venango,Clintonville Boro,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Clintonville Boro
+Venango,Clintonville Boro,Governor,,Tom Wolf,DEM,37,36.0,1.0,Venango County,Clintonville Boro
+Venango,Clintonville Boro,Governor,,Scott R Wagner,REP,93,93.0,0.0,Venango County,Clintonville Boro
+Venango,Clintonville Boro,Governor,,Paul Glover,GRN,0,0.0,0.0,Venango County,Clintonville Boro
+Venango,Clintonville Boro,Governor,,Ken V Krawchuk,LIB,0,0.0,0.0,Venango County,Clintonville Boro
+Venango,Clintonville Boro,Governor,,Write In,,0,0.0,0.0,Venango County,Clintonville Boro
+Venango,Clintonville Boro,U.S. House,15.0,Susan Boser,DEM,29,28.0,1.0,Venango County,Clintonville Boro
+Venango,Clintonville Boro,U.S. House,15.0,Glenn Gt Thompson ,REP,102,102.0,0.0,Venango County,Clintonville Boro
+Venango,Clintonville Boro,U.S. House,15.0,Write In,,0,0.0,0.0,Venango County,Clintonville Boro
+Venango,Clintonville Boro,State House,64.0,John Kluck,DEM,28,27.0,1.0,Venango County,Clintonville Boro
+Venango,Clintonville Boro,State House,64.0,R Lee James,REP,101,101.0,0.0,Venango County,Clintonville Boro
+Venango,Clintonville Boro,State House,64.0,Write In,,0,0.0,0.0,Venango County,Clintonville Boro
+Venango,Cooperstown Boro,U.S. Senate,,Bob Casey Jr,DEM,44,44.0,0.0,Venango County,Cooperstown Boro
+Venango,Cooperstown Boro,U.S. Senate,,Lou Barletta,REP,120,112.0,8.0,Venango County,Cooperstown Boro
+Venango,Cooperstown Boro,U.S. Senate,,Neal Gale ,GRN,2,2.0,0.0,Venango County,Cooperstown Boro
+Venango,Cooperstown Boro,U.S. Senate,,Dale R Kerns Jr,LIB,2,2.0,0.0,Venango County,Cooperstown Boro
+Venango,Cooperstown Boro,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Cooperstown Boro
+Venango,Cooperstown Boro,Governor,,Tom Wolf,DEM,50,50.0,0.0,Venango County,Cooperstown Boro
+Venango,Cooperstown Boro,Governor,,Scott R Wagner,REP,117,109.0,8.0,Venango County,Cooperstown Boro
+Venango,Cooperstown Boro,Governor,,Paul Glover,GRN,2,2.0,0.0,Venango County,Cooperstown Boro
+Venango,Cooperstown Boro,Governor,,Ken V Krawchuk,LIB,0,0.0,0.0,Venango County,Cooperstown Boro
+Venango,Cooperstown Boro,Governor,,Write In,,1,1.0,0.0,Venango County,Cooperstown Boro
+Venango,Cooperstown Boro,U.S. House,15.0,Susan Boser,DEM,36,36.0,0.0,Venango County,Cooperstown Boro
+Venango,Cooperstown Boro,U.S. House,15.0,Glenn Gt Thompson ,REP,133,125.0,8.0,Venango County,Cooperstown Boro
+Venango,Cooperstown Boro,U.S. House,15.0,Write In,,0,0.0,0.0,Venango County,Cooperstown Boro
+Venango,Cooperstown Boro,State House,64.0,John Kluck,DEM,40,39.0,1.0,Venango County,Cooperstown Boro
+Venango,Cooperstown Boro,State House,64.0,R Lee James,REP,129,122.0,7.0,Venango County,Cooperstown Boro
+Venango,Cooperstown Boro,State House,64.0,Write In,,0,0.0,0.0,Venango County,Cooperstown Boro
+Venango,Cornplanter Twp,U.S. Senate,,Bob Casey Jr,DEM,374,365.0,7.0,Venango County,Cornplanter Twp
+Venango,Cornplanter Twp,U.S. Senate,,Lou Barletta,REP,538,516.0,21.0,Venango County,Cornplanter Twp
+Venango,Cornplanter Twp,U.S. Senate,,Neal Gale ,GRN,10,10.0,0.0,Venango County,Cornplanter Twp
+Venango,Cornplanter Twp,U.S. Senate,,Dale R Kerns Jr,LIB,11,11.0,0.0,Venango County,Cornplanter Twp
+Venango,Cornplanter Twp,U.S. Senate,,Write In,,1,1.0,0.0,Venango County,Cornplanter Twp
+Venango,Cornplanter Twp,Governor,,Tom Wolf,DEM,409,398.0,8.0,Venango County,Cornplanter Twp
+Venango,Cornplanter Twp,Governor,,Scott R Wagner,REP,518,499.0,19.0,Venango County,Cornplanter Twp
+Venango,Cornplanter Twp,Governor,,Paul Glover,GRN,4,4.0,0.0,Venango County,Cornplanter Twp
+Venango,Cornplanter Twp,Governor,,Ken V Krawchuk,LIB,12,11.0,1.0,Venango County,Cornplanter Twp
+Venango,Cornplanter Twp,Governor,,Write In,,0,0.0,0.0,Venango County,Cornplanter Twp
+Venango,Cornplanter Twp,U.S. House,15.0,Susan Boser,DEM,328,321.0,6.0,Venango County,Cornplanter Twp
+Venango,Cornplanter Twp,U.S. House,15.0,Glenn Gt Thompson ,REP,605,581.0,22.0,Venango County,Cornplanter Twp
+Venango,Cornplanter Twp,U.S. House,15.0,Write In,,0,0.0,0.0,Venango County,Cornplanter Twp
+Venango,Cornplanter Twp,State House,64.0,John Kluck,DEM,354,344.0,8.0,Venango County,Cornplanter Twp
+Venango,Cornplanter Twp,State House,64.0,R Lee James,REP,88,567.0,20.0,Venango County,Cornplanter Twp
+Venango,Cornplanter Twp,State House,64.0,Write In,,2,2.0,0.0,Venango County,Cornplanter Twp
+Venango,Cranberry Twp 1,U.S. Senate,,Bob Casey Jr,DEM,176,161.0,15.0,Venango County,Cranberry Twp 1
+Venango,Cranberry Twp 1,U.S. Senate,,Lou Barletta,REP,394,376.0,18.0,Venango County,Cranberry Twp 1
+Venango,Cranberry Twp 1,U.S. Senate,,Neal Gale ,GRN,2,2.0,0.0,Venango County,Cranberry Twp 1
+Venango,Cranberry Twp 1,U.S. Senate,,Dale R Kerns Jr,LIB,8,8.0,0.0,Venango County,Cranberry Twp 1
+Venango,Cranberry Twp 1,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Cranberry Twp 1
+Venango,Cranberry Twp 1,Governor,,Tom Wolf,DEM,196,181.0,15.0,Venango County,Cranberry Twp 1
+Venango,Cranberry Twp 1,Governor,,Scott R Wagner,REP,378,360.0,18.0,Venango County,Cranberry Twp 1
+Venango,Cranberry Twp 1,Governor,,Paul Glover,GRN,2,2.0,0.0,Venango County,Cranberry Twp 1
+Venango,Cranberry Twp 1,Governor,,Ken V Krawchuk,LIB,9,9.0,0.0,Venango County,Cranberry Twp 1
+Venango,Cranberry Twp 1,Governor,,Write In,,0,0.0,0.0,Venango County,Cranberry Twp 1
+Venango,Cranberry Twp 1,U.S. House,15.0,Susan Boser,DEM,149,137.0,12.0,Venango County,Cranberry Twp 1
+Venango,Cranberry Twp 1,U.S. House,15.0,Glenn Gt Thompson ,REP,423,402.0,21.0,Venango County,Cranberry Twp 1
+Venango,Cranberry Twp 1,U.S. House,15.0,Write In,,0,0.0,0.0,Venango County,Cranberry Twp 1
+Venango,Cranberry Twp 1,State House,64.0,John Kluck,DEM,153,144.0,9.0,Venango County,Cranberry Twp 1
+Venango,Cranberry Twp 1,State House,64.0,R Lee James,REP,420,397.0,23.0,Venango County,Cranberry Twp 1
+Venango,Cranberry Twp 1,State House,64.0,Write In,,4,3.0,1.0,Venango County,Cranberry Twp 1
+Venango,Cranberry Twp 2,U.S. Senate,,Bob Casey Jr,DEM,205,200.0,5.0,Venango County,Cranberry Twp 2
+Venango,Cranberry Twp 2,U.S. Senate,,Lou Barletta,REP,424,405.0,18.0,Venango County,Cranberry Twp 2
+Venango,Cranberry Twp 2,U.S. Senate,,Neal Gale ,GRN,5,5.0,0.0,Venango County,Cranberry Twp 2
+Venango,Cranberry Twp 2,U.S. Senate,,Dale R Kerns Jr,LIB,10,9.0,0.0,Venango County,Cranberry Twp 2
+Venango,Cranberry Twp 2,U.S. Senate,,Write In,,1,1.0,0.0,Venango County,Cranberry Twp 2
+Venango,Cranberry Twp 2,Governor,,Tom Wolf,DEM,231,222.0,9.0,Venango County,Cranberry Twp 2
+Venango,Cranberry Twp 2,Governor,,Scott R Wagner,REP,409,393.0,14.0,Venango County,Cranberry Twp 2
+Venango,Cranberry Twp 2,Governor,,Paul Glover,GRN,5,5.0,0.0,Venango County,Cranberry Twp 2
+Venango,Cranberry Twp 2,Governor,,Ken V Krawchuk,LIB,4,4.0,0.0,Venango County,Cranberry Twp 2
+Venango,Cranberry Twp 2,Governor,,Write In,,2,2.0,0.0,Venango County,Cranberry Twp 2
+Venango,Cranberry Twp 2,U.S. House,15.0,Susan Boser,DEM,182,174.0,8.0,Venango County,Cranberry Twp 2
+Venango,Cranberry Twp 2,U.S. House,15.0,Glenn Gt Thompson ,REP,463,446.0,15.0,Venango County,Cranberry Twp 2
+Venango,Cranberry Twp 2,U.S. House,15.0,Write In,,0,0.0,0.0,Venango County,Cranberry Twp 2
+Venango,Cranberry Twp 2,State House,64.0,John Kluck,DEM,200,195.0,5.0,Venango County,Cranberry Twp 2
+Venango,Cranberry Twp 2,State House,64.0,R Lee James,REP,443,423.0,18.0,Venango County,Cranberry Twp 2
+Venango,Cranberry Twp 2,State House,64.0,Write In,,5,5.0,0.0,Venango County,Cranberry Twp 2
+Venango,Cranberry Twp 3,U.S. Senate,,Bob Casey Jr,DEM,135,124.0,11.0,Venango County,Cranberry Twp 3
+Venango,Cranberry Twp 3,U.S. Senate,,Lou Barletta,REP,193,181.0,12.0,Venango County,Cranberry Twp 3
+Venango,Cranberry Twp 3,U.S. Senate,,Neal Gale ,GRN,4,3.0,1.0,Venango County,Cranberry Twp 3
+Venango,Cranberry Twp 3,U.S. Senate,,Dale R Kerns Jr,LIB,6,6.0,0.0,Venango County,Cranberry Twp 3
+Venango,Cranberry Twp 3,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Cranberry Twp 3
+Venango,Cranberry Twp 3,Governor,,Tom Wolf,DEM,160,150.0,10.0,Venango County,Cranberry Twp 3
+Venango,Cranberry Twp 3,Governor,,Scott R Wagner,REP,174,162.0,12.0,Venango County,Cranberry Twp 3
+Venango,Cranberry Twp 3,Governor,,Paul Glover,GRN,2,1.0,1.0,Venango County,Cranberry Twp 3
+Venango,Cranberry Twp 3,Governor,,Ken V Krawchuk,LIB,5,4.0,1.0,Venango County,Cranberry Twp 3
+Venango,Cranberry Twp 3,Governor,,Write In,,0,0.0,0.0,Venango County,Cranberry Twp 3
+Venango,Cranberry Twp 3,U.S. House,15.0,Susan Boser,DEM,102,92.0,10.0,Venango County,Cranberry Twp 3
+Venango,Cranberry Twp 3,U.S. House,15.0,Glenn Gt Thompson ,REP,230,216.0,14.0,Venango County,Cranberry Twp 3
+Venango,Cranberry Twp 3,U.S. House,15.0,Write In,,0,0.0,0.0,Venango County,Cranberry Twp 3
+Venango,Cranberry Twp 3,State House,64.0,John Kluck,DEM,124,114.0,10.0,Venango County,Cranberry Twp 3
+Venango,Cranberry Twp 3,State House,64.0,R Lee James,REP,214,200.0,14.0,Venango County,Cranberry Twp 3
+Venango,Cranberry Twp 3,State House,64.0,Write In,,1,1.0,0.0,Venango County,Cranberry Twp 3
+Venango,Cranberry Twp 4,U.S. Senate,,Bob Casey Jr,DEM,311,301.0,8.0,Venango County,Cranberry Twp 4
+Venango,Cranberry Twp 4,U.S. Senate,,Lou Barletta,REP,542,516.0,25.0,Venango County,Cranberry Twp 4
+Venango,Cranberry Twp 4,U.S. Senate,,Neal Gale ,GRN,4,4.0,0.0,Venango County,Cranberry Twp 4
+Venango,Cranberry Twp 4,U.S. Senate,,Dale R Kerns Jr,LIB,9,9.0,0.0,Venango County,Cranberry Twp 4
+Venango,Cranberry Twp 4,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Cranberry Twp 4
+Venango,Cranberry Twp 4,Governor,,Tom Wolf,DEM,321,307.0,12.0,Venango County,Cranberry Twp 4
+Venango,Cranberry Twp 4,Governor,,Scott R Wagner,REP,530,509.0,20.0,Venango County,Cranberry Twp 4
+Venango,Cranberry Twp 4,Governor,,Paul Glover,GRN,3,3.0,0.0,Venango County,Cranberry Twp 4
+Venango,Cranberry Twp 4,Governor,,Ken V Krawchuk,LIB,11,10.0,1.0,Venango County,Cranberry Twp 4
+Venango,Cranberry Twp 4,Governor,,Write In,,0,0.0,0.0,Venango County,Cranberry Twp 4
+Venango,Cranberry Twp 4,U.S. House,15.0,Susan Boser,DEM,221,214.0,6.0,Venango County,Cranberry Twp 4
+Venango,Cranberry Twp 4,U.S. House,15.0,Glenn Gt Thompson ,REP,636,608.0,26.0,Venango County,Cranberry Twp 4
+Venango,Cranberry Twp 4,U.S. House,15.0,Write In,,0,0.0,0.0,Venango County,Cranberry Twp 4
+Venango,Cranberry Twp 4,State House,64.0,John Kluck,DEM,246,238.0,6.0,Venango County,Cranberry Twp 4
+Venango,Cranberry Twp 4,State House,64.0,R Lee James,REP,621,594.0,26.0,Venango County,Cranberry Twp 4
+Venango,Cranberry Twp 4,State House,64.0,Write In,,1,0.0,1.0,Venango County,Cranberry Twp 4
+Venango,Emlenton Boro,U.S. Senate,,Bob Casey Jr,DEM,126,118.0,8.0,Venango County,Emlenton Boro
+Venango,Emlenton Boro,U.S. Senate,,Lou Barletta,REP,125,119.0,6.0,Venango County,Emlenton Boro
+Venango,Emlenton Boro,U.S. Senate,,Neal Gale ,GRN,3,3.0,0.0,Venango County,Emlenton Boro
+Venango,Emlenton Boro,U.S. Senate,,Dale R Kerns Jr,LIB,3,3.0,0.0,Venango County,Emlenton Boro
+Venango,Emlenton Boro,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Emlenton Boro
+Venango,Emlenton Boro,Governor,,Tom Wolf,DEM,134,126.0,8.0,Venango County,Emlenton Boro
+Venango,Emlenton Boro,Governor,,Scott R Wagner,REP,122,116.0,6.0,Venango County,Emlenton Boro
+Venango,Emlenton Boro,Governor,,Paul Glover,GRN,1,1.0,0.0,Venango County,Emlenton Boro
+Venango,Emlenton Boro,Governor,,Ken V Krawchuk,LIB,5,5.0,0.0,Venango County,Emlenton Boro
+Venango,Emlenton Boro,Governor,,Write In,,0,0.0,0.0,Venango County,Emlenton Boro
+Venango,Emlenton Boro,U.S. House,15.0,Susan Boser,DEM,117,109.0,8.0,Venango County,Emlenton Boro
+Venango,Emlenton Boro,U.S. House,15.0,Glenn Gt Thompson ,REP,144,138.0,6.0,Venango County,Emlenton Boro
+Venango,Emlenton Boro,U.S. House,15.0,Write In,,0,0.0,0.0,Venango County,Emlenton Boro
+Venango,Emlenton Boro,State House,64.0,John Kluck,DEM,112,105.0,7.0,Venango County,Emlenton Boro
+Venango,Emlenton Boro,State House,64.0,R Lee James,REP,149,142.0,7.0,Venango County,Emlenton Boro
+Venango,Emlenton Boro,State House,64.0,Write In,,0,0.0,0.0,Venango County,Emlenton Boro
+Venango,Franklin 1,U.S. Senate,,Bob Casey Jr,DEM,354,328.0,26.0,Venango County,Franklin 1
+Venango,Franklin 1,U.S. Senate,,Lou Barletta,REP,345,330.0,15.0,Venango County,Franklin 1
+Venango,Franklin 1,U.S. Senate,,Neal Gale ,GRN,4,3.0,1.0,Venango County,Franklin 1
+Venango,Franklin 1,U.S. Senate,,Dale R Kerns Jr,LIB,9,8.0,1.0,Venango County,Franklin 1
+Venango,Franklin 1,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Franklin 1
+Venango,Franklin 1,Governor,,Tom Wolf,DEM,372,347.0,25.0,Venango County,Franklin 1
+Venango,Franklin 1,Governor,,Scott R Wagner,REP,338,320.0,18.0,Venango County,Franklin 1
+Venango,Franklin 1,Governor,,Paul Glover,GRN,3,3.0,0.0,Venango County,Franklin 1
+Venango,Franklin 1,Governor,,Ken V Krawchuk,LIB,5,5.0,0.0,Venango County,Franklin 1
+Venango,Franklin 1,Governor,,Write In,,1,1.0,0.0,Venango County,Franklin 1
+Venango,Franklin 1,U.S. House,15.0,Susan Boser,DEM,329,301.0,28.0,Venango County,Franklin 1
+Venango,Franklin 1,U.S. House,15.0,Glenn Gt Thompson ,REP,383,368.0,15.0,Venango County,Franklin 1
+Venango,Franklin 1,U.S. House,15.0,Write In,,1,1.0,0.0,Venango County,Franklin 1
+Venango,Franklin 1,State House,64.0,John Kluck,DEM,337,310.0,27.0,Venango County,Franklin 1
+Venango,Franklin 1,State House,64.0,R Lee James,REP,375,259.0,16.0,Venango County,Franklin 1
+Venango,Franklin 1,State House,64.0,Write In,,3,3.0,0.0,Venango County,Franklin 1
+Venango,Franklin 2,U.S. Senate,,Bob Casey Jr,DEM,340,314.0,26.0,Venango County,Franklin 2
+Venango,Franklin 2,U.S. Senate,,Lou Barletta,REP,432,420.0,12.0,Venango County,Franklin 2
+Venango,Franklin 2,U.S. Senate,,Neal Gale ,GRN,2,2.0,0.0,Venango County,Franklin 2
+Venango,Franklin 2,U.S. Senate,,Dale R Kerns Jr,LIB,5,4.0,1.0,Venango County,Franklin 2
+Venango,Franklin 2,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Franklin 2
+Venango,Franklin 2,Governor,,Tom Wolf,DEM,357,333.0,24.0,Venango County,Franklin 2
+Venango,Franklin 2,Governor,,Scott R Wagner,REP,412,397.0,15.0,Venango County,Franklin 2
+Venango,Franklin 2,Governor,,Paul Glover,GRN,2,2.0,0.0,Venango County,Franklin 2
+Venango,Franklin 2,Governor,,Ken V Krawchuk,LIB,12,12.0,0.0,Venango County,Franklin 2
+Venango,Franklin 2,Governor,,Write In,,2,2.0,0.0,Venango County,Franklin 2
+Venango,Franklin 2,U.S. House,15.0,Susan Boser,DEM,302,281.0,21.0,Venango County,Franklin 2
+Venango,Franklin 2,U.S. House,15.0,Glenn Gt Thompson ,REP,471,454.0,17.0,Venango County,Franklin 2
+Venango,Franklin 2,U.S. House,15.0,Write In,,0,0.0,0.0,Venango County,Franklin 2
+Venango,Franklin 2,State House,64.0,John Kluck,DEM,307,288.0,19.0,Venango County,Franklin 2
+Venango,Franklin 2,State House,64.0,R Lee James,REP,477,457.0,20.0,Venango County,Franklin 2
+Venango,Franklin 2,State House,64.0,Write In,,1,1.0,0.0,Venango County,Franklin 2
+Venango,Franklin 3,U.S. Senate,,Bob Casey Jr,DEM,224,209.0,14.0,Venango County,Franklin 3
+Venango,Franklin 3,U.S. Senate,,Lou Barletta,REP,225,212.0,13.0,Venango County,Franklin 3
+Venango,Franklin 3,U.S. Senate,,Neal Gale ,GRN,3,3.0,0.0,Venango County,Franklin 3
+Venango,Franklin 3,U.S. Senate,,Dale R Kerns Jr,LIB,5,5.0,0.0,Venango County,Franklin 3
+Venango,Franklin 3,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Franklin 3
+Venango,Franklin 3,Governor,,Tom Wolf,DEM,232,217.0,14.0,Venango County,Franklin 3
+Venango,Franklin 3,Governor,,Scott R Wagner,REP,219,207.0,12.0,Venango County,Franklin 3
+Venango,Franklin 3,Governor,,Paul Glover,GRN,2,2.0,0.0,Venango County,Franklin 3
+Venango,Franklin 3,Governor,,Ken V Krawchuk,LIB,6,6.0,0.0,Venango County,Franklin 3
+Venango,Franklin 3,Governor,,Write In,,0,0.0,0.0,Venango County,Franklin 3
+Venango,Franklin 3,U.S. House,15.0,Susan Boser,DEM,200,188.0,12.0,Venango County,Franklin 3
+Venango,Franklin 3,U.S. House,15.0,Glenn Gt Thompson ,REP,256,240.0,15.0,Venango County,Franklin 3
+Venango,Franklin 3,U.S. House,15.0,Write In,,1,1.0,0.0,Venango County,Franklin 3
+Venango,Franklin 3,State House,64.0,John Kluck,DEM,202,190.0,12.0,Venango County,Franklin 3
+Venango,Franklin 3,State House,64.0,R Lee James,REP,259,243.0,15.0,Venango County,Franklin 3
+Venango,Franklin 3,State House,64.0,Write In,,1,1.0,0.0,Venango County,Franklin 3
+Venango,Frenchcreek Twp,U.S. Senate,,Bob Casey Jr,DEM,244,231.0,13.0,Venango County,Frenchcreek Twp
+Venango,Frenchcreek Twp,U.S. Senate,,Lou Barletta,REP,343,324.0,19.0,Venango County,Frenchcreek Twp
+Venango,Frenchcreek Twp,U.S. Senate,,Neal Gale ,GRN,5,5.0,0.0,Venango County,Frenchcreek Twp
+Venango,Frenchcreek Twp,U.S. Senate,,Dale R Kerns Jr,LIB,6,6.0,0.0,Venango County,Frenchcreek Twp
+Venango,Frenchcreek Twp,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Frenchcreek Twp
+Venango,Frenchcreek Twp,Governor,,Tom Wolf,DEM,261,249.0,12.0,Venango County,Frenchcreek Twp
+Venango,Frenchcreek Twp,Governor,,Scott R Wagner,REP,333,313.0,20.0,Venango County,Frenchcreek Twp
+Venango,Frenchcreek Twp,Governor,,Paul Glover,GRN,3,3.0,0.0,Venango County,Frenchcreek Twp
+Venango,Frenchcreek Twp,Governor,,Ken V Krawchuk,LIB,11,11.0,0.0,Venango County,Frenchcreek Twp
+Venango,Frenchcreek Twp,Governor,,Write In,,1,1.0,0.0,Venango County,Frenchcreek Twp
+Venango,Frenchcreek Twp,U.S. House,15.0,Susan Boser,DEM,196,185.0,11.0,Venango County,Frenchcreek Twp
+Venango,Frenchcreek Twp,U.S. House,15.0,Glenn Gt Thompson ,REP,407,386.0,21.0,Venango County,Frenchcreek Twp
+Venango,Frenchcreek Twp,U.S. House,15.0,Write In,,0,0.0,0.0,Venango County,Frenchcreek Twp
+Venango,Frenchcreek Twp,State House,64.0,John Kluck,DEM,202,190.0,12.0,Venango County,Frenchcreek Twp
+Venango,Frenchcreek Twp,State House,64.0,R Lee James,REP,398,378.0,20.0,Venango County,Frenchcreek Twp
+Venango,Frenchcreek Twp,State House,64.0,Write In,,4,4.0,0.0,Venango County,Frenchcreek Twp
+Venango,Irwin Twp,U.S. Senate,,Bob Casey Jr,DEM,125,118.0,7.0,Venango County,Irwin Twp
+Venango,Irwin Twp,U.S. Senate,,Lou Barletta,REP,346,332.0,14.0,Venango County,Irwin Twp
+Venango,Irwin Twp,U.S. Senate,,Neal Gale ,GRN,5,4.0,1.0,Venango County,Irwin Twp
+Venango,Irwin Twp,U.S. Senate,,Dale R Kerns Jr,LIB,9,9.0,0.0,Venango County,Irwin Twp
+Venango,Irwin Twp,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Irwin Twp
+Venango,Irwin Twp,Governor,,Tom Wolf,DEM,131,124.0,7.0,Venango County,Irwin Twp
+Venango,Irwin Twp,Governor,,Scott R Wagner,REP,340,326.0,14.0,Venango County,Irwin Twp
+Venango,Irwin Twp,Governor,,Paul Glover,GRN,2,1.0,1.0,Venango County,Irwin Twp
+Venango,Irwin Twp,Governor,,Ken V Krawchuk,LIB,9,9.0,0.0,Venango County,Irwin Twp
+Venango,Irwin Twp,Governor,,Write In,,0,0.0,0.0,Venango County,Irwin Twp
+Venango,Irwin Twp,U.S. House,15.0,Susan Boser,DEM,99,92.0,7.0,Venango County,Irwin Twp
+Venango,Irwin Twp,U.S. House,15.0,Glenn Gt Thompson ,REP,378,363.0,15.0,Venango County,Irwin Twp
+Venango,Irwin Twp,U.S. House,15.0,Write In,,0,0.0,0.0,Venango County,Irwin Twp
+Venango,Irwin Twp,State House,64.0,John Kluck,DEM,105,98.0,7.0,Venango County,Irwin Twp
+Venango,Irwin Twp,State House,64.0,R Lee James,REP,375,360.0,15.0,Venango County,Irwin Twp
+Venango,Irwin Twp,State House,64.0,Write In,,0,0.0,0.0,Venango County,Irwin Twp
+Venango,Jackson Twp,U.S. Senate,,Bob Casey Jr,DEM,81,76.0,5.0,Venango County,Jackson Twp
+Venango,Jackson Twp,U.S. Senate,,Lou Barletta,REP,288,274.0,13.0,Venango County,Jackson Twp
+Venango,Jackson Twp,U.S. Senate,,Neal Gale ,GRN,0,0.0,0.0,Venango County,Jackson Twp
+Venango,Jackson Twp,U.S. Senate,,Dale R Kerns Jr,LIB,10,8.0,2.0,Venango County,Jackson Twp
+Venango,Jackson Twp,U.S. Senate,,Write In,,1,1.0,0.0,Venango County,Jackson Twp
+Venango,Jackson Twp,Governor,,Tom Wolf,DEM,99,93.0,6.0,Venango County,Jackson Twp
+Venango,Jackson Twp,Governor,,Scott R Wagner,REP,272,259.0,12.0,Venango County,Jackson Twp
+Venango,Jackson Twp,Governor,,Paul Glover,GRN,2,2.0,0.0,Venango County,Jackson Twp
+Venango,Jackson Twp,Governor,,Ken V Krawchuk,LIB,10,8.0,2.0,Venango County,Jackson Twp
+Venango,Jackson Twp,Governor,,Write In,,0,0.0,0.0,Venango County,Jackson Twp
+Venango,Jackson Twp,U.S. House,15.0,Susan Boser,DEM,65,61.0,4.0,Venango County,Jackson Twp
+Venango,Jackson Twp,U.S. House,15.0,Glenn Gt Thompson ,REP,317,300.0,16.0,Venango County,Jackson Twp
+Venango,Jackson Twp,U.S. House,15.0,Write In,,0,0.0,0.0,Venango County,Jackson Twp
+Venango,Jackson Twp,State House,64.0,John Kluck,DEM,68,64.0,4.0,Venango County,Jackson Twp
+Venango,Jackson Twp,State House,64.0,R Lee James,REP,314,297.0,16.0,Venango County,Jackson Twp
+Venango,Jackson Twp,State House,64.0,Write In,,2,2.0,0.0,Venango County,Jackson Twp
+Venango,Mineral Twp,U.S. Senate,,Bob Casey Jr,DEM,72,71.0,1.0,Venango County,Mineral Twp
+Venango,Mineral Twp,U.S. Senate,,Lou Barletta,REP,157,150.0,7.0,Venango County,Mineral Twp
+Venango,Mineral Twp,U.S. Senate,,Neal Gale ,GRN,1,1.0,0.0,Venango County,Mineral Twp
+Venango,Mineral Twp,U.S. Senate,,Dale R Kerns Jr,LIB,2,2.0,0.0,Venango County,Mineral Twp
+Venango,Mineral Twp,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Mineral Twp
+Venango,Mineral Twp,Governor,,Tom Wolf,DEM,84,83.0,1.0,Venango County,Mineral Twp
+Venango,Mineral Twp,Governor,,Scott R Wagner,REP,143,136.0,7.0,Venango County,Mineral Twp
+Venango,Mineral Twp,Governor,,Paul Glover,GRN,2,2.0,0.0,Venango County,Mineral Twp
+Venango,Mineral Twp,Governor,,Ken V Krawchuk,LIB,2,2.0,0.0,Venango County,Mineral Twp
+Venango,Mineral Twp,Governor,,Write In,,1,1.0,0.0,Venango County,Mineral Twp
+Venango,Mineral Twp,U.S. House,15.0,Susan Boser,DEM,57,56.0,1.0,Venango County,Mineral Twp
+Venango,Mineral Twp,U.S. House,15.0,Glenn Gt Thompson ,REP,171,164.0,7.0,Venango County,Mineral Twp
+Venango,Mineral Twp,U.S. House,15.0,Write In,,0,0.0,0.0,Venango County,Mineral Twp
+Venango,Mineral Twp,State House,64.0,John Kluck,DEM,63,62.0,1.0,Venango County,Mineral Twp
+Venango,Mineral Twp,State House,64.0,R Lee James,REP,170,163.0,7.0,Venango County,Mineral Twp
+Venango,Mineral Twp,State House,64.0,Write In,,0,0.0,0.0,Venango County,Mineral Twp
+Venango,Oakland Twp,U.S. Senate,,Bob Casey Jr,DEM,197,194.0,3.0,Venango County,Oakland Twp
+Venango,Oakland Twp,U.S. Senate,,Lou Barletta,REP,430,420.0,10.0,Venango County,Oakland Twp
+Venango,Oakland Twp,U.S. Senate,,Neal Gale ,GRN,2,2.0,0.0,Venango County,Oakland Twp
+Venango,Oakland Twp,U.S. Senate,,Dale R Kerns Jr,LIB,5,5.0,0.0,Venango County,Oakland Twp
+Venango,Oakland Twp,U.S. Senate,,Write In,,1,1.0,0.0,Venango County,Oakland Twp
+Venango,Oakland Twp,Governor,,Tom Wolf,DEM,208,203.0,5.0,Venango County,Oakland Twp
+Venango,Oakland Twp,Governor,,Scott R Wagner,REP,427,419.0,8.0,Venango County,Oakland Twp
+Venango,Oakland Twp,Governor,,Paul Glover,GRN,3,3.0,0.0,Venango County,Oakland Twp
+Venango,Oakland Twp,Governor,,Ken V Krawchuk,LIB,6,6.0,0.0,Venango County,Oakland Twp
+Venango,Oakland Twp,Governor,,Write In,,1,1.0,0.0,Venango County,Oakland Twp
+Venango,Oakland Twp,U.S. House,15.0,Susan Boser,DEM,160,156.0,4.0,Venango County,Oakland Twp
+Venango,Oakland Twp,U.S. House,15.0,Glenn Gt Thompson ,REP,474,465.0,9.0,Venango County,Oakland Twp
+Venango,Oakland Twp,U.S. House,15.0,Write In,,0,0.0,0.0,Venango County,Oakland Twp
+Venango,Oakland Twp,State House,64.0,John Kluck,DEM,186,182.0,4.0,Venango County,Oakland Twp
+Venango,Oakland Twp,State House,64.0,R Lee James,REP,459,450.0,9.0,Venango County,Oakland Twp
+Venango,Oakland Twp,State House,64.0,Write In,,2,2.0,0.0,Venango County,Oakland Twp
+Venango,Oil City 1,U.S. Senate,,Bob Casey Jr,DEM,269,253.0,16.0,Venango County,Oil City 1
+Venango,Oil City 1,U.S. Senate,,Lou Barletta,REP,299,282.0,17.0,Venango County,Oil City 1
+Venango,Oil City 1,U.S. Senate,,Neal Gale ,GRN,5,5.0,0.0,Venango County,Oil City 1
+Venango,Oil City 1,U.S. Senate,,Dale R Kerns Jr,LIB,7,6.0,1.0,Venango County,Oil City 1
+Venango,Oil City 1,U.S. Senate,,Write In,,1,1.0,0.0,Venango County,Oil City 1
+Venango,Oil City 1,Governor,,Tom Wolf,DEM,291,276.0,15.0,Venango County,Oil City 1
+Venango,Oil City 1,Governor,,Scott R Wagner,REP,280,263.0,17.0,Venango County,Oil City 1
+Venango,Oil City 1,Governor,,Paul Glover,GRN,5,4.0,1.0,Venango County,Oil City 1
+Venango,Oil City 1,Governor,,Ken V Krawchuk,LIB,9,8.0,1.0,Venango County,Oil City 1
+Venango,Oil City 1,Governor,,Write In,,1,1.0,0.0,Venango County,Oil City 1
+Venango,Oil City 1,U.S. House,15.0,Susan Boser,DEM,234,222.0,12.0,Venango County,Oil City 1
+Venango,Oil City 1,U.S. House,15.0,Glenn Gt Thompson ,REP,351,329.0,22.0,Venango County,Oil City 1
+Venango,Oil City 1,U.S. House,15.0,Write In,,1,1.0,0.0,Venango County,Oil City 1
+Venango,Oil City 1,State House,64.0,John Kluck,DEM,249,235.0,14.0,Venango County,Oil City 1
+Venango,Oil City 1,State House,64.0,R Lee James,REP,337,317.0,20.0,Venango County,Oil City 1
+Venango,Oil City 1,State House,64.0,Write In,,2,2.0,0.0,Venango County,Oil City 1
+Venango,Oil City 2,U.S. Senate,,Bob Casey Jr,DEM,145,139.0,6.0,Venango County,Oil City 2
+Venango,Oil City 2,U.S. Senate,,Lou Barletta,REP,156,154.0,1.0,Venango County,Oil City 2
+Venango,Oil City 2,U.S. Senate,,Neal Gale ,GRN,2,2.0,0.0,Venango County,Oil City 2
+Venango,Oil City 2,U.S. Senate,,Dale R Kerns Jr,LIB,12,12.0,0.0,Venango County,Oil City 2
+Venango,Oil City 2,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Oil City 2
+Venango,Oil City 2,Governor,,Tom Wolf,DEM,158,152.0,6.0,Venango County,Oil City 2
+Venango,Oil City 2,Governor,,Scott R Wagner,REP,148,146.0,1.0,Venango County,Oil City 2
+Venango,Oil City 2,Governor,,Paul Glover,GRN,2,2.0,0.0,Venango County,Oil City 2
+Venango,Oil City 2,Governor,,Ken V Krawchuk,LIB,7,7.0,0.0,Venango County,Oil City 2
+Venango,Oil City 2,Governor,,Write In,,0,0.0,0.0,Venango County,Oil City 2
+Venango,Oil City 2,U.S. House,15.0,Susan Boser,DEM,131,125.0,6.0,Venango County,Oil City 2
+Venango,Oil City 2,U.S. House,15.0,Glenn Gt Thompson ,REP,179,177.0,1.0,Venango County,Oil City 2
+Venango,Oil City 2,U.S. House,15.0,Write In,,1,1.0,0.0,Venango County,Oil City 2
+Venango,Oil City 2,State House,64.0,John Kluck,DEM,138,132.0,6.0,Venango County,Oil City 2
+Venango,Oil City 2,State House,64.0,R Lee James,REP,176,174.0,1.0,Venango County,Oil City 2
+Venango,Oil City 2,State House,64.0,Write In,,0,0.0,0.0,Venango County,Oil City 2
+Venango,Oil City 3,U.S. Senate,,Bob Casey Jr,DEM,181,172.0,8.0,Venango County,Oil City 3
+Venango,Oil City 3,U.S. Senate,,Lou Barletta,REP,204,194.0,10.0,Venango County,Oil City 3
+Venango,Oil City 3,U.S. Senate,,Neal Gale ,GRN,4,4.0,0.0,Venango County,Oil City 3
+Venango,Oil City 3,U.S. Senate,,Dale R Kerns Jr,LIB,3,3.0,0.0,Venango County,Oil City 3
+Venango,Oil City 3,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Oil City 3
+Venango,Oil City 3,Governor,,Tom Wolf,DEM,187,178.0,8.0,Venango County,Oil City 3
+Venango,Oil City 3,Governor,,Scott R Wagner,REP,203,193.0,10.0,Venango County,Oil City 3
+Venango,Oil City 3,Governor,,Paul Glover,GRN,3,3.0,0.0,Venango County,Oil City 3
+Venango,Oil City 3,Governor,,Ken V Krawchuk,LIB,3,3.0,0.0,Venango County,Oil City 3
+Venango,Oil City 3,Governor,,Write In,,0,0.0,0.0,Venango County,Oil City 3
+Venango,Oil City 3,U.S. House,15.0,Susan Boser,DEM,167,160.0,6.0,Venango County,Oil City 3
+Venango,Oil City 3,U.S. House,15.0,Glenn Gt Thompson ,REP,223,211.0,12.0,Venango County,Oil City 3
+Venango,Oil City 3,U.S. House,15.0,Write In,,2,2.0,0.0,Venango County,Oil City 3
+Venango,Oil City 3,State House,64.0,John Kluck,DEM,177,168.0,8.0,Venango County,Oil City 3
+Venango,Oil City 3,State House,64.0,R Lee James,REP,218,208.0,10.0,Venango County,Oil City 3
+Venango,Oil City 3,State House,64.0,Write In,,1,1.0,0.0,Venango County,Oil City 3
+Venango,Oil City 4,U.S. Senate,,Bob Casey Jr,DEM,181,174.0,7.0,Venango County,Oil City 4
+Venango,Oil City 4,U.S. Senate,,Lou Barletta,REP,167,165.0,2.0,Venango County,Oil City 4
+Venango,Oil City 4,U.S. Senate,,Neal Gale ,GRN,4,4.0,0.0,Venango County,Oil City 4
+Venango,Oil City 4,U.S. Senate,,Dale R Kerns Jr,LIB,6,4.0,2.0,Venango County,Oil City 4
+Venango,Oil City 4,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Oil City 4
+Venango,Oil City 4,Governor,,Tom Wolf,DEM,191,183.0,8.0,Venango County,Oil City 4
+Venango,Oil City 4,Governor,,Scott R Wagner,REP,159,158.0,1.0,Venango County,Oil City 4
+Venango,Oil City 4,Governor,,Paul Glover,GRN,1,1.0,0.0,Venango County,Oil City 4
+Venango,Oil City 4,Governor,,Ken V Krawchuk,LIB,9,7.0,2.0,Venango County,Oil City 4
+Venango,Oil City 4,Governor,,Write In,,0,0.0,0.0,Venango County,Oil City 4
+Venango,Oil City 4,U.S. House,15.0,Susan Boser,DEM,168,162.0,6.0,Venango County,Oil City 4
+Venango,Oil City 4,U.S. House,15.0,Glenn Gt Thompson ,REP,189,184.0,5.0,Venango County,Oil City 4
+Venango,Oil City 4,U.S. House,15.0,Write In,,1,1.0,0.0,Venango County,Oil City 4
+Venango,Oil City 4,State House,64.0,John Kluck,DEM,154,149.0,5.0,Venango County,Oil City 4
+Venango,Oil City 4,State House,64.0,R Lee James,REP,201,195.0,6.0,Venango County,Oil City 4
+Venango,Oil City 4,State House,64.0,Write In,,1,1.0,0.0,Venango County,Oil City 4
+Venango,Oil City 5,U.S. Senate,,Bob Casey Jr,DEM,190,177.0,12.0,Venango County,Oil City 5
+Venango,Oil City 5,U.S. Senate,,Lou Barletta,REP,229,220.0,9.0,Venango County,Oil City 5
+Venango,Oil City 5,U.S. Senate,,Neal Gale ,GRN,6,6.0,0.0,Venango County,Oil City 5
+Venango,Oil City 5,U.S. Senate,,Dale R Kerns Jr,LIB,9,9.0,0.0,Venango County,Oil City 5
+Venango,Oil City 5,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Oil City 5
+Venango,Oil City 5,Governor,,Tom Wolf,DEM,209,196.0,12.0,Venango County,Oil City 5
+Venango,Oil City 5,Governor,,Scott R Wagner,REP,214,205.0,9.0,Venango County,Oil City 5
+Venango,Oil City 5,Governor,,Paul Glover,GRN,3,3.0,0.0,Venango County,Oil City 5
+Venango,Oil City 5,Governor,,Ken V Krawchuk,LIB,7,7.0,0.0,Venango County,Oil City 5
+Venango,Oil City 5,Governor,,Write In,,0,0.0,0.0,Venango County,Oil City 5
+Venango,Oil City 5,U.S. House,15.0,Susan Boser,DEM,172,161.0,10.0,Venango County,Oil City 5
+Venango,Oil City 5,U.S. House,15.0,Glenn Gt Thompson ,REP,258,247.0,11.0,Venango County,Oil City 5
+Venango,Oil City 5,U.S. House,15.0,Write In,,1,1.0,0.0,Venango County,Oil City 5
+Venango,Oil City 5,State House,64.0,John Kluck,DEM,176,165.0,10.0,Venango County,Oil City 5
+Venango,Oil City 5,State House,64.0,R Lee James,REP,250,239.0,11.0,Venango County,Oil City 5
+Venango,Oil City 5,State House,64.0,Write In,,5,5.0,0.0,Venango County,Oil City 5
+Venango,Oil City 6,U.S. Senate,,Bob Casey Jr,DEM,225,213.0,12.0,Venango County,Oil City 6
+Venango,Oil City 6,U.S. Senate,,Lou Barletta,REP,204,195.0,7.0,Venango County,Oil City 6
+Venango,Oil City 6,U.S. Senate,,Neal Gale ,GRN,1,1.0,0.0,Venango County,Oil City 6
+Venango,Oil City 6,U.S. Senate,,Dale R Kerns Jr,LIB,5,5.0,0.0,Venango County,Oil City 6
+Venango,Oil City 6,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Oil City 6
+Venango,Oil City 6,Governor,,Tom Wolf,DEM,222,210.0,12.0,Venango County,Oil City 6
+Venango,Oil City 6,Governor,,Scott R Wagner,REP,207,197.0,8.0,Venango County,Oil City 6
+Venango,Oil City 6,Governor,,Paul Glover,GRN,1,1.0,0.0,Venango County,Oil City 6
+Venango,Oil City 6,Governor,,Ken V Krawchuk,LIB,4,4.0,0.0,Venango County,Oil City 6
+Venango,Oil City 6,Governor,,Write In,,2,2.0,0.0,Venango County,Oil City 6
+Venango,Oil City 6,U.S. House,15.0,Susan Boser,DEM,204,191.0,13.0,Venango County,Oil City 6
+Venango,Oil City 6,U.S. House,15.0,Glenn Gt Thompson ,REP,231,222.0,7.0,Venango County,Oil City 6
+Venango,Oil City 6,U.S. House,15.0,Write In,,1,1.0,0.0,Venango County,Oil City 6
+Venango,Oil City 6,State House,64.0,John Kluck,DEM,210,200.0,10.0,Venango County,Oil City 6
+Venango,Oil City 6,State House,64.0,R Lee James,REP,225,213.0,10.0,Venango County,Oil City 6
+Venango,Oil City 6,State House,64.0,Write In,,1,1.0,0.0,Venango County,Oil City 6
+Venango,Oil City 7,U.S. Senate,,Bob Casey Jr,DEM,182,176.0,6.0,Venango County,Oil City 7
+Venango,Oil City 7,U.S. Senate,,Lou Barletta,REP,165,155.0,10.0,Venango County,Oil City 7
+Venango,Oil City 7,U.S. Senate,,Neal Gale ,GRN,2,2.0,0.0,Venango County,Oil City 7
+Venango,Oil City 7,U.S. Senate,,Dale R Kerns Jr,LIB,5,5.0,0.0,Venango County,Oil City 7
+Venango,Oil City 7,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Oil City 7
+Venango,Oil City 7,Governor,,Tom Wolf,DEM,201,194.0,7.0,Venango County,Oil City 7
+Venango,Oil City 7,Governor,,Scott R Wagner,REP,150,141.0,9.0,Venango County,Oil City 7
+Venango,Oil City 7,Governor,,Paul Glover,GRN,2,2.0,0.0,Venango County,Oil City 7
+Venango,Oil City 7,Governor,,Ken V Krawchuk,LIB,2,2.0,0.0,Venango County,Oil City 7
+Venango,Oil City 7,Governor,,Write In,,0,0.0,0.0,Venango County,Oil City 7
+Venango,Oil City 7,U.S. House,15.0,Susan Boser,DEM,167,161.0,6.0,Venango County,Oil City 7
+Venango,Oil City 7,U.S. House,15.0,Glenn Gt Thompson ,REP,186,176.0,10.0,Venango County,Oil City 7
+Venango,Oil City 7,U.S. House,15.0,Write In,,0,0.0,0.0,Venango County,Oil City 7
+Venango,Oil City 7,State House,64.0,John Kluck,DEM,175,169.0,6.0,Venango County,Oil City 7
+Venango,Oil City 7,State House,64.0,R Lee James,REP,179,169.0,10.0,Venango County,Oil City 7
+Venango,Oil City 7,State House,64.0,Write In,,1,1.0,0.0,Venango County,Oil City 7
+Venango,Oilcreek Twp,U.S. Senate,,Bob Casey Jr,DEM,86,86.0,0.0,Venango County,Oilcreek Twp
+Venango,Oilcreek Twp,U.S. Senate,,Lou Barletta,REP,240,233.0,7.0,Venango County,Oilcreek Twp
+Venango,Oilcreek Twp,U.S. Senate,,Neal Gale ,GRN,0,0.0,0.0,Venango County,Oilcreek Twp
+Venango,Oilcreek Twp,U.S. Senate,,Dale R Kerns Jr,LIB,2,2.0,0.0,Venango County,Oilcreek Twp
+Venango,Oilcreek Twp,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Oilcreek Twp
+Venango,Oilcreek Twp,Governor,,Tom Wolf,DEM,95,91.0,4.0,Venango County,Oilcreek Twp
+Venango,Oilcreek Twp,Governor,,Scott R Wagner,REP,230,227.0,3.0,Venango County,Oilcreek Twp
+Venango,Oilcreek Twp,Governor,,Paul Glover,GRN,1,1.0,0.0,Venango County,Oilcreek Twp
+Venango,Oilcreek Twp,Governor,,Ken V Krawchuk,LIB,2,2.0,0.0,Venango County,Oilcreek Twp
+Venango,Oilcreek Twp,Governor,,Write In,,0,0.0,0.0,Venango County,Oilcreek Twp
+Venango,Oilcreek Twp,U.S. House,15.0,Susan Boser,DEM,64,64.0,0.0,Venango County,Oilcreek Twp
+Venango,Oilcreek Twp,U.S. House,15.0,Glenn Gt Thompson ,REP,264,258.0,6.0,Venango County,Oilcreek Twp
+Venango,Oilcreek Twp,U.S. House,15.0,Write In,,0,0.0,0.0,Venango County,Oilcreek Twp
+Venango,Oilcreek Twp,State House,64.0,John Kluck,DEM,71,69.0,2.0,Venango County,Oilcreek Twp
+Venango,Oilcreek Twp,State House,64.0,R Lee James,REP,259,255.0,4.0,Venango County,Oilcreek Twp
+Venango,Oilcreek Twp,State House,64.0,Write In,,0,0.0,0.0,Venango County,Oilcreek Twp
+Venango,Pinegrove Twp,U.S. Senate,,Bob Casey Jr,DEM,138,132.0,6.0,Venango County,Pinegrove Twp
+Venango,Pinegrove Twp,U.S. Senate,,Lou Barletta,REP,369,358.0,11.0,Venango County,Pinegrove Twp
+Venango,Pinegrove Twp,U.S. Senate,,Neal Gale ,GRN,5,5.0,0.0,Venango County,Pinegrove Twp
+Venango,Pinegrove Twp,U.S. Senate,,Dale R Kerns Jr,LIB,9,9.0,0.0,Venango County,Pinegrove Twp
+Venango,Pinegrove Twp,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Pinegrove Twp
+Venango,Pinegrove Twp,Governor,,Tom Wolf,DEM,160,154.0,6.0,Venango County,Pinegrove Twp
+Venango,Pinegrove Twp,Governor,,Scott R Wagner,REP,346,335.0,11.0,Venango County,Pinegrove Twp
+Venango,Pinegrove Twp,Governor,,Paul Glover,GRN,6,6.0,0.0,Venango County,Pinegrove Twp
+Venango,Pinegrove Twp,Governor,,Ken V Krawchuk,LIB,12,12.0,0.0,Venango County,Pinegrove Twp
+Venango,Pinegrove Twp,Governor,,Write In,,0,0.0,0.0,Venango County,Pinegrove Twp
+Venango,Pinegrove Twp,U.S. House,15.0,Susan Boser,DEM,113,109.0,4.0,Venango County,Pinegrove Twp
+Venango,Pinegrove Twp,U.S. House,15.0,Glenn Gt Thompson ,REP,405,392.0,13.0,Venango County,Pinegrove Twp
+Venango,Pinegrove Twp,U.S. House,15.0,Write In,,0,0.0,0.0,Venango County,Pinegrove Twp
+Venango,Pinegrove Twp,State House,64.0,John Kluck,DEM,115,111.0,4.0,Venango County,Pinegrove Twp
+Venango,Pinegrove Twp,State House,64.0,R Lee James,REP,409,396.0,13.0,Venango County,Pinegrove Twp
+Venango,Pinegrove Twp,State House,64.0,Write In,,0,0.0,0.0,Venango County,Pinegrove Twp
+Venango,Pleasantville Boro,U.S. Senate,,Bob Casey Jr,DEM,103,99.0,4.0,Venango County,Pleasantville Boro
+Venango,Pleasantville Boro,U.S. Senate,,Lou Barletta,REP,219,210.0,9.0,Venango County,Pleasantville Boro
+Venango,Pleasantville Boro,U.S. Senate,,Neal Gale ,GRN,1,1.0,0.0,Venango County,Pleasantville Boro
+Venango,Pleasantville Boro,U.S. Senate,,Dale R Kerns Jr,LIB,3,3.0,0.0,Venango County,Pleasantville Boro
+Venango,Pleasantville Boro,U.S. Senate,,Write In,,1,1.0,0.0,Venango County,Pleasantville Boro
+Venango,Pleasantville Boro,Governor,,Tom Wolf,DEM,109,107.0,2.0,Venango County,Pleasantville Boro
+Venango,Pleasantville Boro,Governor,,Scott R Wagner,REP,209,200.0,9.0,Venango County,Pleasantville Boro
+Venango,Pleasantville Boro,Governor,,Paul Glover,GRN,2,2.0,0.0,Venango County,Pleasantville Boro
+Venango,Pleasantville Boro,Governor,,Ken V Krawchuk,LIB,4,4.0,0.0,Venango County,Pleasantville Boro
+Venango,Pleasantville Boro,Governor,,Write In,,1,1.0,0.0,Venango County,Pleasantville Boro
+Venango,Pleasantville Boro,U.S. House,15.0,Susan Boser,DEM,90,85.0,5.0,Venango County,Pleasantville Boro
+Venango,Pleasantville Boro,U.S. House,15.0,Glenn Gt Thompson ,REP,237,229.0,8.0,Venango County,Pleasantville Boro
+Venango,Pleasantville Boro,U.S. House,15.0,Write In,,1,1.0,0.0,Venango County,Pleasantville Boro
+Venango,Pleasantville Boro,State House,64.0,John Kluck,DEM,98,95.0,3.0,Venango County,Pleasantville Boro
+Venango,Pleasantville Boro,State House,64.0,R Lee James,REP,228,220.0,8.0,Venango County,Pleasantville Boro
+Venango,Pleasantville Boro,State House,64.0,Write In,,0,0.0,0.0,Venango County,Pleasantville Boro
+Venango,Plum Twp,U.S. Senate,,Bob Casey Jr,DEM,118,113.0,5.0,Venango County,Plum Twp
+Venango,Plum Twp,U.S. Senate,,Lou Barletta,REP,244,240.0,4.0,Venango County,Plum Twp
+Venango,Plum Twp,U.S. Senate,,Neal Gale ,GRN,0,0.0,0.0,Venango County,Plum Twp
+Venango,Plum Twp,U.S. Senate,,Dale R Kerns Jr,LIB,4,4.0,0.0,Venango County,Plum Twp
+Venango,Plum Twp,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Plum Twp
+Venango,Plum Twp,Governor,,Tom Wolf,DEM,119,116.0,3.0,Venango County,Plum Twp
+Venango,Plum Twp,Governor,,Scott R Wagner,REP,243,238.0,5.0,Venango County,Plum Twp
+Venango,Plum Twp,Governor,,Paul Glover,GRN,3,3.0,0.0,Venango County,Plum Twp
+Venango,Plum Twp,Governor,,Ken V Krawchuk,LIB,6,5.0,1.0,Venango County,Plum Twp
+Venango,Plum Twp,Governor,,Write In,,0,0.0,0.0,Venango County,Plum Twp
+Venango,Plum Twp,U.S. House,15.0,Susan Boser,DEM,91,87.0,4.0,Venango County,Plum Twp
+Venango,Plum Twp,U.S. House,15.0,Glenn Gt Thompson ,REP,279,274.0,5.0,Venango County,Plum Twp
+Venango,Plum Twp,U.S. House,15.0,Write In,,0,0.0,0.0,Venango County,Plum Twp
+Venango,Plum Twp,State House,64.0,John Kluck,DEM,92,88.0,4.0,Venango County,Plum Twp
+Venango,Plum Twp,State House,64.0,R Lee James,REP,281,276.0,5.0,Venango County,Plum Twp
+Venango,Plum Twp,State House,64.0,Write In,,0,0.0,0.0,Venango County,Plum Twp
+Venango,Polk Boro,U.S. Senate,,Bob Casey Jr,DEM,60,60.0,0.0,Venango County,Polk Boro
+Venango,Polk Boro,U.S. Senate,,Lou Barletta,REP,89,86.0,3.0,Venango County,Polk Boro
+Venango,Polk Boro,U.S. Senate,,Neal Gale ,GRN,3,3.0,0.0,Venango County,Polk Boro
+Venango,Polk Boro,U.S. Senate,,Dale R Kerns Jr,LIB,4,4.0,0.0,Venango County,Polk Boro
+Venango,Polk Boro,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Polk Boro
+Venango,Polk Boro,Governor,,Tom Wolf,DEM,63,63.0,0.0,Venango County,Polk Boro
+Venango,Polk Boro,Governor,,Scott R Wagner,REP,86,83.0,3.0,Venango County,Polk Boro
+Venango,Polk Boro,Governor,,Paul Glover,GRN,4,4.0,0.0,Venango County,Polk Boro
+Venango,Polk Boro,Governor,,Ken V Krawchuk,LIB,4,4.0,0.0,Venango County,Polk Boro
+Venango,Polk Boro,Governor,,Write In,,0,0.0,0.0,Venango County,Polk Boro
+Venango,Polk Boro,U.S. House,15.0,Susan Boser,DEM,52,52.0,0.0,Venango County,Polk Boro
+Venango,Polk Boro,U.S. House,15.0,Glenn Gt Thompson ,REP,102,99.0,3.0,Venango County,Polk Boro
+Venango,Polk Boro,U.S. House,15.0,Write In,,0,0.0,0.0,Venango County,Polk Boro
+Venango,Polk Boro,State House,64.0,John Kluck,DEM,47,47.0,0.0,Venango County,Polk Boro
+Venango,Polk Boro,State House,64.0,R Lee James,REP,109,106.0,3.0,Venango County,Polk Boro
+Venango,Polk Boro,State House,64.0,Write In,,0,0.0,0.0,Venango County,Polk Boro
+Venango,President Twp,U.S. Senate,,Bob Casey Jr,DEM,92,84.0,6.0,Venango County,President Twp
+Venango,President Twp,U.S. Senate,,Lou Barletta,REP,133,116.0,16.0,Venango County,President Twp
+Venango,President Twp,U.S. Senate,,Neal Gale ,GRN,2,2.0,0.0,Venango County,President Twp
+Venango,President Twp,U.S. Senate,,Dale R Kerns Jr,LIB,3,3.0,0.0,Venango County,President Twp
+Venango,President Twp,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,President Twp
+Venango,President Twp,Governor,,Tom Wolf,DEM,98,90.0,6.0,Venango County,President Twp
+Venango,President Twp,Governor,,Scott R Wagner,REP,127,110.0,16.0,Venango County,President Twp
+Venango,President Twp,Governor,,Paul Glover,GRN,4,4.0,0.0,Venango County,President Twp
+Venango,President Twp,Governor,,Ken V Krawchuk,LIB,3,3.0,0.0,Venango County,President Twp
+Venango,President Twp,Governor,,Write In,,0,0.0,0.0,Venango County,President Twp
+Venango,President Twp,U.S. House,15.0,Susan Boser,DEM,84,76.0,6.0,Venango County,President Twp
+Venango,President Twp,U.S. House,15.0,Glenn Gt Thompson ,REP,146,129.0,16.0,Venango County,President Twp
+Venango,President Twp,U.S. House,15.0,Write In,,0,0.0,0.0,Venango County,President Twp
+Venango,President Twp,State House,64.0,John Kluck,DEM,94,84.0,7.0,Venango County,President Twp
+Venango,President Twp,State House,64.0,R Lee James,REP,139,124.0,15.0,Venango County,President Twp
+Venango,President Twp,State House,64.0,Write In,,0,0.0,0.0,Venango County,President Twp
+Venango,Richland Twp,U.S. Senate,,Bob Casey Jr,DEM,82,81.0,1.0,Venango County,Richland Twp
+Venango,Richland Twp,U.S. Senate,,Lou Barletta,REP,228,221.0,7.0,Venango County,Richland Twp
+Venango,Richland Twp,U.S. Senate,,Neal Gale ,GRN,2,1.0,1.0,Venango County,Richland Twp
+Venango,Richland Twp,U.S. Senate,,Dale R Kerns Jr,LIB,2,2.0,0.0,Venango County,Richland Twp
+Venango,Richland Twp,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Richland Twp
+Venango,Richland Twp,Governor,,Tom Wolf,DEM,94,92.0,2.0,Venango County,Richland Twp
+Venango,Richland Twp,Governor,,Scott R Wagner,REP,222,215.0,7.0,Venango County,Richland Twp
+Venango,Richland Twp,Governor,,Paul Glover,GRN,0,0.0,0.0,Venango County,Richland Twp
+Venango,Richland Twp,Governor,,Ken V Krawchuk,LIB,2,2.0,0.0,Venango County,Richland Twp
+Venango,Richland Twp,Governor,,Write In,,0,0.0,0.0,Venango County,Richland Twp
+Venango,Richland Twp,U.S. House,15.0,Susan Boser,DEM,60,58.0,2.0,Venango County,Richland Twp
+Venango,Richland Twp,U.S. House,15.0,Glenn Gt Thompson ,REP,258,251.0,7.0,Venango County,Richland Twp
+Venango,Richland Twp,U.S. House,15.0,Write In,,0,0.0,0.0,Venango County,Richland Twp
+Venango,Richland Twp,State House,64.0,John Kluck,DEM,63,61.0,2.0,Venango County,Richland Twp
+Venango,Richland Twp,State House,64.0,R Lee James,REP,256,249.0,7.0,Venango County,Richland Twp
+Venango,Richland Twp,State House,64.0,Write In,,0,0.0,0.0,Venango County,Richland Twp
+Venango,Rockland Twp 1,U.S. Senate,,Bob Casey Jr,DEM,161,147.0,14.0,Venango County,Rockland Twp 1
+Venango,Rockland Twp 1,U.S. Senate,,Lou Barletta,REP,283,263.0,20.0,Venango County,Rockland Twp 1
+Venango,Rockland Twp 1,U.S. Senate,,Neal Gale ,GRN,5,3.0,2.0,Venango County,Rockland Twp 1
+Venango,Rockland Twp 1,U.S. Senate,,Dale R Kerns Jr,LIB,3,3.0,0.0,Venango County,Rockland Twp 1
+Venango,Rockland Twp 1,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Rockland Twp 1
+Venango,Rockland Twp 1,Governor,,Tom Wolf,DEM,165,150.0,15.0,Venango County,Rockland Twp 1
+Venango,Rockland Twp 1,Governor,,Scott R Wagner,REP,281,163.0,18.0,Venango County,Rockland Twp 1
+Venango,Rockland Twp 1,Governor,,Paul Glover,GRN,3,2.0,1.0,Venango County,Rockland Twp 1
+Venango,Rockland Twp 1,Governor,,Ken V Krawchuk,LIB,1,1.0,0.0,Venango County,Rockland Twp 1
+Venango,Rockland Twp 1,Governor,,Write In,,0,0.0,0.0,Venango County,Rockland Twp 1
+Venango,Rockland Twp 1,U.S. House,15.0,Susan Boser,DEM,136,123.0,13.0,Venango County,Rockland Twp 1
+Venango,Rockland Twp 1,U.S. House,15.0,Glenn Gt Thompson ,REP,312,289.0,23.0,Venango County,Rockland Twp 1
+Venango,Rockland Twp 1,U.S. House,15.0,Write In,,0,0.0,0.0,Venango County,Rockland Twp 1
+Venango,Rockland Twp 1,State House,64.0,John Kluck,DEM,150,136.0,14.0,Venango County,Rockland Twp 1
+Venango,Rockland Twp 1,State House,64.0,R Lee James,REP,301,281.0,20.0,Venango County,Rockland Twp 1
+Venango,Rockland Twp 1,State House,64.0,Write In,,0,0.0,0.0,Venango County,Rockland Twp 1
+Venango,Rockland Twp 2,U.S. Senate,,Bob Casey Jr,DEM,33,32.0,1.0,Venango County,Rockland Twp 2
+Venango,Rockland Twp 2,U.S. Senate,,Lou Barletta,REP,58,57.0,1.0,Venango County,Rockland Twp 2
+Venango,Rockland Twp 2,U.S. Senate,,Neal Gale ,GRN,0,0.0,0.0,Venango County,Rockland Twp 2
+Venango,Rockland Twp 2,U.S. Senate,,Dale R Kerns Jr,LIB,0,0.0,0.0,Venango County,Rockland Twp 2
+Venango,Rockland Twp 2,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Rockland Twp 2
+Venango,Rockland Twp 2,Governor,,Tom Wolf,DEM,38,37.0,1.0,Venango County,Rockland Twp 2
+Venango,Rockland Twp 2,Governor,,Scott R Wagner,REP,55,54.0,1.0,Venango County,Rockland Twp 2
+Venango,Rockland Twp 2,Governor,,Paul Glover,GRN,0,0.0,0.0,Venango County,Rockland Twp 2
+Venango,Rockland Twp 2,Governor,,Ken V Krawchuk,LIB,0,0.0,0.0,Venango County,Rockland Twp 2
+Venango,Rockland Twp 2,Governor,,Write In,,0,0.0,0.0,Venango County,Rockland Twp 2
+Venango,Rockland Twp 2,U.S. House,15.0,Susan Boser,DEM,19,18.0,1.0,Venango County,Rockland Twp 2
+Venango,Rockland Twp 2,U.S. House,15.0,Glenn Gt Thompson ,REP,70,69.0,1.0,Venango County,Rockland Twp 2
+Venango,Rockland Twp 2,U.S. House,15.0,Write In,,0,0.0,0.0,Venango County,Rockland Twp 2
+Venango,Rockland Twp 2,State House,64.0,John Kluck,DEM,20,19.0,1.0,Venango County,Rockland Twp 2
+Venango,Rockland Twp 2,State House,64.0,R Lee James,REP,73,72.0,1.0,Venango County,Rockland Twp 2
+Venango,Rockland Twp 2,State House,64.0,Write In,,0,0.0,0.0,Venango County,Rockland Twp 2
+Venango,Rouseville Boro,U.S. Senate,,Bob Casey Jr,DEM,63,58.0,5.0,Venango County,Rouseville Boro
+Venango,Rouseville Boro,U.S. Senate,,Lou Barletta,REP,91,89.0,2.0,Venango County,Rouseville Boro
+Venango,Rouseville Boro,U.S. Senate,,Neal Gale ,GRN,0,0.0,0.0,Venango County,Rouseville Boro
+Venango,Rouseville Boro,U.S. Senate,,Dale R Kerns Jr,LIB,0,0.0,0.0,Venango County,Rouseville Boro
+Venango,Rouseville Boro,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Rouseville Boro
+Venango,Rouseville Boro,Governor,,Tom Wolf,DEM,64,59.0,5.0,Venango County,Rouseville Boro
+Venango,Rouseville Boro,Governor,,Scott R Wagner,REP,89,87.0,2.0,Venango County,Rouseville Boro
+Venango,Rouseville Boro,Governor,,Paul Glover,GRN,0,0.0,0.0,Venango County,Rouseville Boro
+Venango,Rouseville Boro,Governor,,Ken V Krawchuk,LIB,0,0.0,0.0,Venango County,Rouseville Boro
+Venango,Rouseville Boro,Governor,,Write In,,0,0.0,0.0,Venango County,Rouseville Boro
+Venango,Rouseville Boro,U.S. House,15.0,Susan Boser,DEM,56,52.0,4.0,Venango County,Rouseville Boro
+Venango,Rouseville Boro,U.S. House,15.0,Glenn Gt Thompson ,REP,94,92.0,2.0,Venango County,Rouseville Boro
+Venango,Rouseville Boro,U.S. House,15.0,Write In,,1,1.0,0.0,Venango County,Rouseville Boro
+Venango,Rouseville Boro,State House,64.0,John Kluck,DEM,63,59.0,4.0,Venango County,Rouseville Boro
+Venango,Rouseville Boro,State House,64.0,R Lee James,REP,85,83.0,2.0,Venango County,Rouseville Boro
+Venango,Rouseville Boro,State House,64.0,Write In,,0,0.0,0.0,Venango County,Rouseville Boro
+Venango,Sandycreek Twp,U.S. Senate,,Bob Casey Jr,DEM,352,340.0,12.0,Venango County,Sandycreek Twp
+Venango,Sandycreek Twp,U.S. Senate,,Lou Barletta,REP,531,517.0,14.0,Venango County,Sandycreek Twp
+Venango,Sandycreek Twp,U.S. Senate,,Neal Gale ,GRN,3,3.0,0.0,Venango County,Sandycreek Twp
+Venango,Sandycreek Twp,U.S. Senate,,Dale R Kerns Jr,LIB,13,13.0,0.0,Venango County,Sandycreek Twp
+Venango,Sandycreek Twp,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Sandycreek Twp
+Venango,Sandycreek Twp,Governor,,Tom Wolf,DEM,389,376.0,13.0,Venango County,Sandycreek Twp
+Venango,Sandycreek Twp,Governor,,Scott R Wagner,REP,502,489.0,13.0,Venango County,Sandycreek Twp
+Venango,Sandycreek Twp,Governor,,Paul Glover,GRN,2,2.0,0.0,Venango County,Sandycreek Twp
+Venango,Sandycreek Twp,Governor,,Ken V Krawchuk,LIB,11,11.0,0.0,Venango County,Sandycreek Twp
+Venango,Sandycreek Twp,Governor,,Write In,,1,1.0,0.0,Venango County,Sandycreek Twp
+Venango,Sandycreek Twp,U.S. House,15.0,Susan Boser,DEM,294,283.0,11.0,Venango County,Sandycreek Twp
+Venango,Sandycreek Twp,U.S. House,15.0,Glenn Gt Thompson ,REP,597,583.0,14.0,Venango County,Sandycreek Twp
+Venango,Sandycreek Twp,U.S. House,15.0,Write In,,2,2.0,0.0,Venango County,Sandycreek Twp
+Venango,Sandycreek Twp,State House,64.0,John Kluck,DEM,312,302.0,10.0,Venango County,Sandycreek Twp
+Venango,Sandycreek Twp,State House,64.0,R Lee James,REP,591,576.0,15.0,Venango County,Sandycreek Twp
+Venango,Sandycreek Twp,State House,64.0,Write In,,0,0.0,0.0,Venango County,Sandycreek Twp
+Venango,Scrubgrass Twp,U.S. Senate,,Bob Casey Jr,DEM,80,77.0,3.0,Venango County,Scrubgrass Twp
+Venango,Scrubgrass Twp,U.S. Senate,,Lou Barletta,REP,214,205.0,9.0,Venango County,Scrubgrass Twp
+Venango,Scrubgrass Twp,U.S. Senate,,Neal Gale ,GRN,2,2.0,0.0,Venango County,Scrubgrass Twp
+Venango,Scrubgrass Twp,U.S. Senate,,Dale R Kerns Jr,LIB,1,1.0,0.0,Venango County,Scrubgrass Twp
+Venango,Scrubgrass Twp,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Scrubgrass Twp
+Venango,Scrubgrass Twp,Governor,,Tom Wolf,DEM,77,74.0,3.0,Venango County,Scrubgrass Twp
+Venango,Scrubgrass Twp,Governor,,Scott R Wagner,REP,220,211.0,9.0,Venango County,Scrubgrass Twp
+Venango,Scrubgrass Twp,Governor,,Paul Glover,GRN,3,3.0,0.0,Venango County,Scrubgrass Twp
+Venango,Scrubgrass Twp,Governor,,Ken V Krawchuk,LIB,1,1.0,0.0,Venango County,Scrubgrass Twp
+Venango,Scrubgrass Twp,Governor,,Write In,,0,0.0,0.0,Venango County,Scrubgrass Twp
+Venango,Scrubgrass Twp,U.S. House,15.0,Susan Boser,DEM,67,64.0,3.0,Venango County,Scrubgrass Twp
+Venango,Scrubgrass Twp,U.S. House,15.0,Glenn Gt Thompson ,REP,232,223.0,9.0,Venango County,Scrubgrass Twp
+Venango,Scrubgrass Twp,U.S. House,15.0,Write In,,0,0.0,0.0,Venango County,Scrubgrass Twp
+Venango,Scrubgrass Twp,State House,64.0,John Kluck,DEM,70,67.0,3.0,Venango County,Scrubgrass Twp
+Venango,Scrubgrass Twp,State House,64.0,R Lee James,REP,229,221.0,8.0,Venango County,Scrubgrass Twp
+Venango,Scrubgrass Twp,State House,64.0,Write In,,0,0.0,0.0,Venango County,Scrubgrass Twp
+Venango,Sugarcreek Boro 1,U.S. Senate,,Bob Casey Jr,DEM,262,250.0,11.0,Venango County,Sugarcreek Boro 1
+Venango,Sugarcreek Boro 1,U.S. Senate,,Lou Barletta,REP,321,303.0,18.0,Venango County,Sugarcreek Boro 1
+Venango,Sugarcreek Boro 1,U.S. Senate,,Neal Gale ,GRN,5,5.0,0.0,Venango County,Sugarcreek Boro 1
+Venango,Sugarcreek Boro 1,U.S. Senate,,Dale R Kerns Jr,LIB,7,7.0,0.0,Venango County,Sugarcreek Boro 1
+Venango,Sugarcreek Boro 1,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Sugarcreek Boro 1
+Venango,Sugarcreek Boro 1,Governor,,Tom Wolf,DEM,279,267.0,11.0,Venango County,Sugarcreek Boro 1
+Venango,Sugarcreek Boro 1,Governor,,Scott R Wagner,REP,314,296.0,18.0,Venango County,Sugarcreek Boro 1
+Venango,Sugarcreek Boro 1,Governor,,Paul Glover,GRN,2,2.0,0.0,Venango County,Sugarcreek Boro 1
+Venango,Sugarcreek Boro 1,Governor,,Ken V Krawchuk,LIB,7,7.0,0.0,Venango County,Sugarcreek Boro 1
+Venango,Sugarcreek Boro 1,Governor,,Write In,,1,1.0,0.0,Venango County,Sugarcreek Boro 1
+Venango,Sugarcreek Boro 1,U.S. House,15.0,Susan Boser,DEM,207,198.0,9.0,Venango County,Sugarcreek Boro 1
+Venango,Sugarcreek Boro 1,U.S. House,15.0,Glenn Gt Thompson ,REP,391,370.0,20.0,Venango County,Sugarcreek Boro 1
+Venango,Sugarcreek Boro 1,U.S. House,15.0,Write In,,0,0.0,0.0,Venango County,Sugarcreek Boro 1
+Venango,Sugarcreek Boro 1,State House,64.0,John Kluck,DEM,218,209.0,9.0,Venango County,Sugarcreek Boro 1
+Venango,Sugarcreek Boro 1,State House,64.0,R Lee James,REP,382,361.0,20.0,Venango County,Sugarcreek Boro 1
+Venango,Sugarcreek Boro 1,State House,64.0,Write In,,0,0.0,0.0,Venango County,Sugarcreek Boro 1
+Venango,Sugarcreek Boro 2,U.S. Senate,,Bob Casey Jr,DEM,107,100.0,7.0,Venango County,Sugarcreek Boro 2
+Venango,Sugarcreek Boro 2,U.S. Senate,,Lou Barletta,REP,160,156.0,4.0,Venango County,Sugarcreek Boro 2
+Venango,Sugarcreek Boro 2,U.S. Senate,,Neal Gale ,GRN,0,0.0,0.0,Venango County,Sugarcreek Boro 2
+Venango,Sugarcreek Boro 2,U.S. Senate,,Dale R Kerns Jr,LIB,6,6.0,0.0,Venango County,Sugarcreek Boro 2
+Venango,Sugarcreek Boro 2,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Sugarcreek Boro 2
+Venango,Sugarcreek Boro 2,Governor,,Tom Wolf,DEM,115,107.0,8.0,Venango County,Sugarcreek Boro 2
+Venango,Sugarcreek Boro 2,Governor,,Scott R Wagner,REP,153,150.0,3.0,Venango County,Sugarcreek Boro 2
+Venango,Sugarcreek Boro 2,Governor,,Paul Glover,GRN,0,0.0,0.0,Venango County,Sugarcreek Boro 2
+Venango,Sugarcreek Boro 2,Governor,,Ken V Krawchuk,LIB,7,7.0,0.0,Venango County,Sugarcreek Boro 2
+Venango,Sugarcreek Boro 2,Governor,,Write In,,0,0.0,0.0,Venango County,Sugarcreek Boro 2
+Venango,Sugarcreek Boro 2,U.S. House,15.0,Susan Boser,DEM,85,78.0,7.0,Venango County,Sugarcreek Boro 2
+Venango,Sugarcreek Boro 2,U.S. House,15.0,Glenn Gt Thompson ,REP,185,181.0,4.0,Venango County,Sugarcreek Boro 2
+Venango,Sugarcreek Boro 2,U.S. House,15.0,Write In,,0,0.0,0.0,Venango County,Sugarcreek Boro 2
+Venango,Sugarcreek Boro 2,State House,64.0,John Kluck,DEM,85,83.0,2.0,Venango County,Sugarcreek Boro 2
+Venango,Sugarcreek Boro 2,State House,64.0,R Lee James,REP,189,180.0,9.0,Venango County,Sugarcreek Boro 2
+Venango,Sugarcreek Boro 2,State House,64.0,Write In,,0,0.0,0.0,Venango County,Sugarcreek Boro 2
+Venango,Sugarcreek Boro 3,U.S. Senate,,Bob Casey Jr,DEM,139,131.0,8.0,Venango County,Sugarcreek Boro 3
+Venango,Sugarcreek Boro 3,U.S. Senate,,Lou Barletta,REP,226,213.0,13.0,Venango County,Sugarcreek Boro 3
+Venango,Sugarcreek Boro 3,U.S. Senate,,Neal Gale ,GRN,4,4.0,0.0,Venango County,Sugarcreek Boro 3
+Venango,Sugarcreek Boro 3,U.S. Senate,,Dale R Kerns Jr,LIB,2,2.0,0.0,Venango County,Sugarcreek Boro 3
+Venango,Sugarcreek Boro 3,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Sugarcreek Boro 3
+Venango,Sugarcreek Boro 3,Governor,,Tom Wolf,DEM,148,140.0,8.0,Venango County,Sugarcreek Boro 3
+Venango,Sugarcreek Boro 3,Governor,,Scott R Wagner,REP,221,209.0,12.0,Venango County,Sugarcreek Boro 3
+Venango,Sugarcreek Boro 3,Governor,,Paul Glover,GRN,0,0.0,0.0,Venango County,Sugarcreek Boro 3
+Venango,Sugarcreek Boro 3,Governor,,Ken V Krawchuk,LIB,5,4.0,1.0,Venango County,Sugarcreek Boro 3
+Venango,Sugarcreek Boro 3,Governor,,Write In,,0,0.0,0.0,Venango County,Sugarcreek Boro 3
+Venango,Sugarcreek Boro 3,U.S. House,15.0,Susan Boser,DEM,125,118.0,7.0,Venango County,Sugarcreek Boro 3
+Venango,Sugarcreek Boro 3,U.S. House,15.0,Glenn Gt Thompson ,REP,250,236.0,14.0,Venango County,Sugarcreek Boro 3
+Venango,Sugarcreek Boro 3,U.S. House,15.0,Write In,,0,0.0,0.0,Venango County,Sugarcreek Boro 3
+Venango,Sugarcreek Boro 3,State House,64.0,John Kluck,DEM,128,121.0,7.0,Venango County,Sugarcreek Boro 3
+Venango,Sugarcreek Boro 3,State House,64.0,R Lee James,REP,248,234.0,14.0,Venango County,Sugarcreek Boro 3
+Venango,Sugarcreek Boro 3,State House,64.0,Write In,,0,0.0,0.0,Venango County,Sugarcreek Boro 3
+Venango,Sugarcreek Boro 5,U.S. Senate,,Bob Casey Jr,DEM,151,140.0,11.0,Venango County,Sugarcreek Boro 5
+Venango,Sugarcreek Boro 5,U.S. Senate,,Lou Barletta,REP,297,287.0,10.0,Venango County,Sugarcreek Boro 5
+Venango,Sugarcreek Boro 5,U.S. Senate,,Neal Gale ,GRN,3,3.0,0.0,Venango County,Sugarcreek Boro 5
+Venango,Sugarcreek Boro 5,U.S. Senate,,Dale R Kerns Jr,LIB,3,3.0,0.0,Venango County,Sugarcreek Boro 5
+Venango,Sugarcreek Boro 5,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Sugarcreek Boro 5
+Venango,Sugarcreek Boro 5,Governor,,Tom Wolf,DEM,163,150.0,13.0,Venango County,Sugarcreek Boro 5
+Venango,Sugarcreek Boro 5,Governor,,Scott R Wagner,REP,283,276.0,7.0,Venango County,Sugarcreek Boro 5
+Venango,Sugarcreek Boro 5,Governor,,Paul Glover,GRN,3,3.0,0.0,Venango County,Sugarcreek Boro 5
+Venango,Sugarcreek Boro 5,Governor,,Ken V Krawchuk,LIB,6,6.0,0.0,Venango County,Sugarcreek Boro 5
+Venango,Sugarcreek Boro 5,Governor,,Write In,,3,2.0,1.0,Venango County,Sugarcreek Boro 5
+Venango,Sugarcreek Boro 5,U.S. House,15.0,Susan Boser,DEM,130,119.0,11.0,Venango County,Sugarcreek Boro 5
+Venango,Sugarcreek Boro 5,U.S. House,15.0,Glenn Gt Thompson ,REP,327,316.0,11.0,Venango County,Sugarcreek Boro 5
+Venango,Sugarcreek Boro 5,U.S. House,15.0,Write In,,1,1.0,0.0,Venango County,Sugarcreek Boro 5
+Venango,Sugarcreek Boro 5,State House,64.0,John Kluck,DEM,131,123.0,8.0,Venango County,Sugarcreek Boro 5
+Venango,Sugarcreek Boro 5,State House,64.0,R Lee James,REP,323,310.0,13.0,Venango County,Sugarcreek Boro 5
+Venango,Sugarcreek Boro 5,State House,64.0,Write In,,0,0.0,0.0,Venango County,Sugarcreek Boro 5
+Venango,Utica Boro,U.S. Senate,,Bob Casey Jr,DEM,28,27.0,1.0,Venango County,Utica Boro
+Venango,Utica Boro,U.S. Senate,,Lou Barletta,REP,45,44.0,1.0,Venango County,Utica Boro
+Venango,Utica Boro,U.S. Senate,,Neal Gale ,GRN,1,1.0,0.0,Venango County,Utica Boro
+Venango,Utica Boro,U.S. Senate,,Dale R Kerns Jr,LIB,0,0.0,0.0,Venango County,Utica Boro
+Venango,Utica Boro,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Utica Boro
+Venango,Utica Boro,Governor,,Tom Wolf,DEM,29,25.0,4.0,Venango County,Utica Boro
+Venango,Utica Boro,Governor,,Scott R Wagner,REP,44,44.0,0.0,Venango County,Utica Boro
+Venango,Utica Boro,Governor,,Paul Glover,GRN,1,1.0,0.0,Venango County,Utica Boro
+Venango,Utica Boro,Governor,,Ken V Krawchuk,LIB,1,1.0,0.0,Venango County,Utica Boro
+Venango,Utica Boro,Governor,,Write In,,0,0.0,0.0,Venango County,Utica Boro
+Venango,Utica Boro,U.S. House,15.0,Susan Boser,DEM,25,23.0,2.0,Venango County,Utica Boro
+Venango,Utica Boro,U.S. House,15.0,Glenn Gt Thompson ,REP,49,47.0,2.0,Venango County,Utica Boro
+Venango,Utica Boro,U.S. House,15.0,Write In,,0,0.0,0.0,Venango County,Utica Boro
+Venango,Utica Boro,State House,64.0,John Kluck,DEM,28,26.0,2.0,Venango County,Utica Boro
+Venango,Utica Boro,State House,64.0,R Lee James,REP,47,46.0,1.0,Venango County,Utica Boro
+Venango,Utica Boro,State House,64.0,Write In,,0,0.0,0.0,Venango County,Utica Boro
+Venango,Victory Twp,U.S. Senate,,Bob Casey Jr,DEM,44,42.0,2.0,Venango County,Victory Twp
+Venango,Victory Twp,U.S. Senate,,Lou Barletta,REP,94,91.0,3.0,Venango County,Victory Twp
+Venango,Victory Twp,U.S. Senate,,Neal Gale ,GRN,2,2.0,0.0,Venango County,Victory Twp
+Venango,Victory Twp,U.S. Senate,,Dale R Kerns Jr,LIB,3,3.0,0.0,Venango County,Victory Twp
+Venango,Victory Twp,U.S. Senate,,Write In,,0,0.0,0.0,Venango County,Victory Twp
+Venango,Victory Twp,Governor,,Tom Wolf,DEM,45,44.0,1.0,Venango County,Victory Twp
+Venango,Victory Twp,Governor,,Scott R Wagner,REP,95,91.0,4.0,Venango County,Victory Twp
+Venango,Victory Twp,Governor,,Paul Glover,GRN,0,0.0,0.0,Venango County,Victory Twp
+Venango,Victory Twp,Governor,,Ken V Krawchuk,LIB,4,4.0,0.0,Venango County,Victory Twp
+Venango,Victory Twp,Governor,,Write In,,0,0.0,0.0,Venango County,Victory Twp
+Venango,Victory Twp,U.S. House,15.0,Susan Boser,DEM,35,34.0,1.0,Venango County,Victory Twp
+Venango,Victory Twp,U.S. House,15.0,Glenn Gt Thompson ,REP,109,105.0,4.0,Venango County,Victory Twp
+Venango,Victory Twp,U.S. House,15.0,Write In,,0,0.0,0.0,Venango County,Victory Twp
+Venango,Victory Twp,State House,64.0,John Kluck,DEM,33,32.0,1.0,Venango County,Victory Twp
+Venango,Victory Twp,State House,64.0,R Lee James,REP,111,107.0,4.0,Venango County,Victory Twp
+Venango,Victory Twp,State House,64.0,Write In,,0,0.0,0.0,Venango County,Victory Twp

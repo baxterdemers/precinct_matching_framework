@@ -1,0 +1,641 @@
+county,precinct,office,district,candidate,party,votes,election_day,absentee,county_id,original_precinct_name
+Clarion,1.1 Ashland Township,U.S. Senate,,Bob Casey Jr,DEM,108,,,Clarion County,1.1 Ashland Township
+Clarion,1.1 Ashland Township,U.S. Senate,,Lou Barletta Jr,REP,349,,,Clarion County,1.1 Ashland Township
+Clarion,1.1 Ashland Township,U.S. Senate,,Neal Gale,GRN,3,,,Clarion County,1.1 Ashland Township
+Clarion,1.1 Ashland Township,U.S. Senate,,Dale R Kerns Jr,LIB,6,,,Clarion County,1.1 Ashland Township
+Clarion,1.1 Ashland Township,U.S. Senate,,Write-in Votes,,0,,,Clarion County,1.1 Ashland Township
+Clarion,1.1 Ashland Township,Governor,,Tom Wolf,DEM,116,,,Clarion County,1.1 Ashland Township
+Clarion,1.1 Ashland Township,Governor,,Scott R Wagner,REP,346,,,Clarion County,1.1 Ashland Township
+Clarion,1.1 Ashland Township,Governor,,Paul Glover,GRN,4,,,Clarion County,1.1 Ashland Township
+Clarion,1.1 Ashland Township,Governor,,Ken V Krawchuk,LIB,5,,,Clarion County,1.1 Ashland Township
+Clarion,1.1 Ashland Township,Governor,,Write-in Votes,,0,,,Clarion County,1.1 Ashland Township
+Clarion,1.1 Ashland Township,U.S. House,15.0,Susan Boser,DEM,79,,,Clarion County,1.1 Ashland Township
+Clarion,1.1 Ashland Township,U.S. House,15.0,Glenn GT Thompson,REP,386,,,Clarion County,1.1 Ashland Township
+Clarion,1.1 Ashland Township,U.S. House,15.0,Write-in Votes,,0,,,Clarion County,1.1 Ashland Township
+Clarion,1.1 Ashland Township,State House,63.0,Conrad Warner,DEM,126,,,Clarion County,1.1 Ashland Township
+Clarion,1.1 Ashland Township,State House,63.0,Donna Oberlander,REP,346,,,Clarion County,1.1 Ashland Township
+Clarion,1.1 Ashland Township,State House,63.0,Write-in Votes,,0,,,Clarion County,1.1 Ashland Township
+Clarion,2.1 Beaver Township,U.S. Senate,,Bob Casey Jr,DEM,226,,,Clarion County,2.1 Beaver Township
+Clarion,2.1 Beaver Township,U.S. Senate,,Lou Barletta Jr,REP,423,,,Clarion County,2.1 Beaver Township
+Clarion,2.1 Beaver Township,U.S. Senate,,Neal Gale,GRN,4,,,Clarion County,2.1 Beaver Township
+Clarion,2.1 Beaver Township,U.S. Senate,,Dale R Kerns Jr,LIB,17,,,Clarion County,2.1 Beaver Township
+Clarion,2.1 Beaver Township,U.S. Senate,,Write-in Votes,,0,,,Clarion County,2.1 Beaver Township
+Clarion,2.1 Beaver Township,Governor,,Tom Wolf,DEM,224,,,Clarion County,2.1 Beaver Township
+Clarion,2.1 Beaver Township,Governor,,Scott R Wagner,REP,430,,,Clarion County,2.1 Beaver Township
+Clarion,2.1 Beaver Township,Governor,,Paul Glover,GRN,4,,,Clarion County,2.1 Beaver Township
+Clarion,2.1 Beaver Township,Governor,,Ken V Krawchuk,LIB,17,,,Clarion County,2.1 Beaver Township
+Clarion,2.1 Beaver Township,Governor,,Write-in Votes,,1,,,Clarion County,2.1 Beaver Township
+Clarion,2.1 Beaver Township,U.S. House,15.0,Susan Boser,DEM,161,,,Clarion County,2.1 Beaver Township
+Clarion,2.1 Beaver Township,U.S. House,15.0,Glenn GT Thompson,REP,504,,,Clarion County,2.1 Beaver Township
+Clarion,2.1 Beaver Township,U.S. House,15.0,Write-in Votes,,1,,,Clarion County,2.1 Beaver Township
+Clarion,2.1 Beaver Township,State House,63.0,Conrad Warner,DEM,200,,,Clarion County,2.1 Beaver Township
+Clarion,2.1 Beaver Township,State House,63.0,Donna Oberlander,REP,477,,,Clarion County,2.1 Beaver Township
+Clarion,2.1 Beaver Township,State House,63.0,Write-in Votes,,0,,,Clarion County,2.1 Beaver Township
+Clarion,3.1 Brady Township,U.S. Senate,,Bob Casey Jr,DEM,3,,,Clarion County,3.1 Brady Township
+Clarion,3.1 Brady Township,U.S. Senate,,Lou Barletta Jr,REP,15,,,Clarion County,3.1 Brady Township
+Clarion,3.1 Brady Township,U.S. Senate,,Neal Gale,GRN,0,,,Clarion County,3.1 Brady Township
+Clarion,3.1 Brady Township,U.S. Senate,,Dale R Kerns Jr,LIB,0,,,Clarion County,3.1 Brady Township
+Clarion,3.1 Brady Township,U.S. Senate,,Write-in Votes,,0,,,Clarion County,3.1 Brady Township
+Clarion,3.1 Brady Township,Governor,,Tom Wolf,DEM,4,,,Clarion County,3.1 Brady Township
+Clarion,3.1 Brady Township,Governor,,Scott R Wagner,REP,13,,,Clarion County,3.1 Brady Township
+Clarion,3.1 Brady Township,Governor,,Paul Glover,GRN,0,,,Clarion County,3.1 Brady Township
+Clarion,3.1 Brady Township,Governor,,Ken V Krawchuk,LIB,1,,,Clarion County,3.1 Brady Township
+Clarion,3.1 Brady Township,Governor,,Write-in Votes,,0,,,Clarion County,3.1 Brady Township
+Clarion,3.1 Brady Township,U.S. House,15.0,Susan Boser,DEM,3,,,Clarion County,3.1 Brady Township
+Clarion,3.1 Brady Township,U.S. House,15.0,Glenn GT Thompson,REP,16,,,Clarion County,3.1 Brady Township
+Clarion,3.1 Brady Township,U.S. House,15.0,Write-in Votes,,0,,,Clarion County,3.1 Brady Township
+Clarion,3.1 Brady Township,State House,63.0,Conrad Warner,DEM,3,,,Clarion County,3.1 Brady Township
+Clarion,3.1 Brady Township,State House,63.0,Donna Oberlander,REP,16,,,Clarion County,3.1 Brady Township
+Clarion,3.1 Brady Township,State House,63.0,Write-in Votes,,0,,,Clarion County,3.1 Brady Township
+Clarion,4.1 Callensburg Borough,U.S. Senate,,Bob Casey Jr,DEM,22,,,Clarion County,4.1 Callensburg Borough
+Clarion,4.1 Callensburg Borough,U.S. Senate,,Lou Barletta Jr,REP,32,,,Clarion County,4.1 Callensburg Borough
+Clarion,4.1 Callensburg Borough,U.S. Senate,,Neal Gale,GRN,0,,,Clarion County,4.1 Callensburg Borough
+Clarion,4.1 Callensburg Borough,U.S. Senate,,Dale R Kerns Jr,LIB,0,,,Clarion County,4.1 Callensburg Borough
+Clarion,4.1 Callensburg Borough,U.S. Senate,,Write-in Votes,,0,,,Clarion County,4.1 Callensburg Borough
+Clarion,4.1 Callensburg Borough,Governor,,Tom Wolf,DEM,17,,,Clarion County,4.1 Callensburg Borough
+Clarion,4.1 Callensburg Borough,Governor,,Scott R Wagner,REP,34,,,Clarion County,4.1 Callensburg Borough
+Clarion,4.1 Callensburg Borough,Governor,,Paul Glover,GRN,1,,,Clarion County,4.1 Callensburg Borough
+Clarion,4.1 Callensburg Borough,Governor,,Ken V Krawchuk,LIB,0,,,Clarion County,4.1 Callensburg Borough
+Clarion,4.1 Callensburg Borough,Governor,,Write-in Votes,,1,,,Clarion County,4.1 Callensburg Borough
+Clarion,4.1 Callensburg Borough,U.S. House,15.0,Susan Boser,DEM,14,,,Clarion County,4.1 Callensburg Borough
+Clarion,4.1 Callensburg Borough,U.S. House,15.0,Glenn GT Thompson,REP,37,,,Clarion County,4.1 Callensburg Borough
+Clarion,4.1 Callensburg Borough,U.S. House,15.0,Write-in Votes,,0,,,Clarion County,4.1 Callensburg Borough
+Clarion,4.1 Callensburg Borough,State House,63.0,Conrad Warner,DEM,13,,,Clarion County,4.1 Callensburg Borough
+Clarion,4.1 Callensburg Borough,State House,63.0,Donna Oberlander,REP,41,,,Clarion County,4.1 Callensburg Borough
+Clarion,4.1 Callensburg Borough,State House,63.0,Write-in Votes,,0,,,Clarion County,4.1 Callensburg Borough
+Clarion,5.1 Clarion Borough First,U.S. Senate,,Bob Casey Jr,DEM,239,,,Clarion County,5.1 Clarion Borough First
+Clarion,5.1 Clarion Borough First,U.S. Senate,,Lou Barletta Jr,REP,177,,,Clarion County,5.1 Clarion Borough First
+Clarion,5.1 Clarion Borough First,U.S. Senate,,Neal Gale,GRN,3,,,Clarion County,5.1 Clarion Borough First
+Clarion,5.1 Clarion Borough First,U.S. Senate,,Dale R Kerns Jr,LIB,14,,,Clarion County,5.1 Clarion Borough First
+Clarion,5.1 Clarion Borough First,U.S. Senate,,Write-in Votes,,0,,,Clarion County,5.1 Clarion Borough First
+Clarion,5.1 Clarion Borough First,Governor,,Tom Wolf,DEM,254,,,Clarion County,5.1 Clarion Borough First
+Clarion,5.1 Clarion Borough First,Governor,,Scott R Wagner,REP,161,,,Clarion County,5.1 Clarion Borough First
+Clarion,5.1 Clarion Borough First,Governor,,Paul Glover,GRN,4,,,Clarion County,5.1 Clarion Borough First
+Clarion,5.1 Clarion Borough First,Governor,,Ken V Krawchuk,LIB,16,,,Clarion County,5.1 Clarion Borough First
+Clarion,5.1 Clarion Borough First,Governor,,Write-in Votes,,0,,,Clarion County,5.1 Clarion Borough First
+Clarion,5.1 Clarion Borough First,U.S. House,15.0,Susan Boser,DEM,210,,,Clarion County,5.1 Clarion Borough First
+Clarion,5.1 Clarion Borough First,U.S. House,15.0,Glenn GT Thompson,REP,217,,,Clarion County,5.1 Clarion Borough First
+Clarion,5.1 Clarion Borough First,U.S. House,15.0,Write-in Votes,,0,,,Clarion County,5.1 Clarion Borough First
+Clarion,5.1 Clarion Borough First,State House,63.0,Conrad Warner,DEM,239,,,Clarion County,5.1 Clarion Borough First
+Clarion,5.1 Clarion Borough First,State House,63.0,Donna Oberlander,REP,194,,,Clarion County,5.1 Clarion Borough First
+Clarion,5.1 Clarion Borough First,State House,63.0,Write-in Votes,,0,,,Clarion County,5.1 Clarion Borough First
+Clarion,5.2 Clarion Borough Second,U.S. Senate,,Bob Casey Jr,DEM,127,,,Clarion County,5.2 Clarion Borough Second
+Clarion,5.2 Clarion Borough Second,U.S. Senate,,Lou Barletta Jr,REP,82,,,Clarion County,5.2 Clarion Borough Second
+Clarion,5.2 Clarion Borough Second,U.S. Senate,,Neal Gale,GRN,2,,,Clarion County,5.2 Clarion Borough Second
+Clarion,5.2 Clarion Borough Second,U.S. Senate,,Dale R Kerns Jr,LIB,6,,,Clarion County,5.2 Clarion Borough Second
+Clarion,5.2 Clarion Borough Second,U.S. Senate,,Write-in Votes,,1,,,Clarion County,5.2 Clarion Borough Second
+Clarion,5.2 Clarion Borough Second,Governor,,Tom Wolf,DEM,131,,,Clarion County,5.2 Clarion Borough Second
+Clarion,5.2 Clarion Borough Second,Governor,,Scott R Wagner,REP,80,,,Clarion County,5.2 Clarion Borough Second
+Clarion,5.2 Clarion Borough Second,Governor,,Paul Glover,GRN,3,,,Clarion County,5.2 Clarion Borough Second
+Clarion,5.2 Clarion Borough Second,Governor,,Ken V Krawchuk,LIB,3,,,Clarion County,5.2 Clarion Borough Second
+Clarion,5.2 Clarion Borough Second,Governor,,Write-in Votes,,0,,,Clarion County,5.2 Clarion Borough Second
+Clarion,5.2 Clarion Borough Second,U.S. House,15.0,Susan Boser,DEM,108,,,Clarion County,5.2 Clarion Borough Second
+Clarion,5.2 Clarion Borough Second,U.S. House,15.0,Glenn GT Thompson,REP,105,,,Clarion County,5.2 Clarion Borough Second
+Clarion,5.2 Clarion Borough Second,U.S. House,15.0,Write-in Votes,,2,,,Clarion County,5.2 Clarion Borough Second
+Clarion,5.2 Clarion Borough Second,State House,63.0,Conrad Warner,DEM,123,,,Clarion County,5.2 Clarion Borough Second
+Clarion,5.2 Clarion Borough Second,State House,63.0,Donna Oberlander,REP,95,,,Clarion County,5.2 Clarion Borough Second
+Clarion,5.2 Clarion Borough Second,State House,63.0,Write-in Votes,,1,,,Clarion County,5.2 Clarion Borough Second
+Clarion,5.3 Clarion Borough Third,U.S. Senate,,Bob Casey Jr,DEM,358,,,Clarion County,5.3 Clarion Borough Third
+Clarion,5.3 Clarion Borough Third,U.S. Senate,,Lou Barletta Jr,REP,250,,,Clarion County,5.3 Clarion Borough Third
+Clarion,5.3 Clarion Borough Third,U.S. Senate,,Neal Gale,GRN,4,,,Clarion County,5.3 Clarion Borough Third
+Clarion,5.3 Clarion Borough Third,U.S. Senate,,Dale R Kerns Jr,LIB,11,,,Clarion County,5.3 Clarion Borough Third
+Clarion,5.3 Clarion Borough Third,U.S. Senate,,Write-in Votes,,0,,,Clarion County,5.3 Clarion Borough Third
+Clarion,5.3 Clarion Borough Third,Governor,,Tom Wolf,DEM,377,,,Clarion County,5.3 Clarion Borough Third
+Clarion,5.3 Clarion Borough Third,Governor,,Scott R Wagner,REP,239,,,Clarion County,5.3 Clarion Borough Third
+Clarion,5.3 Clarion Borough Third,Governor,,Paul Glover,GRN,5,,,Clarion County,5.3 Clarion Borough Third
+Clarion,5.3 Clarion Borough Third,Governor,,Ken V Krawchuk,LIB,6,,,Clarion County,5.3 Clarion Borough Third
+Clarion,5.3 Clarion Borough Third,Governor,,Write-in Votes,,0,,,Clarion County,5.3 Clarion Borough Third
+Clarion,5.3 Clarion Borough Third,U.S. House,15.0,Susan Boser,DEM,320,,,Clarion County,5.3 Clarion Borough Third
+Clarion,5.3 Clarion Borough Third,U.S. House,15.0,Glenn GT Thompson,REP,298,,,Clarion County,5.3 Clarion Borough Third
+Clarion,5.3 Clarion Borough Third,U.S. House,15.0,Write-in Votes,,1,,,Clarion County,5.3 Clarion Borough Third
+Clarion,5.3 Clarion Borough Third,State House,63.0,Conrad Warner,DEM,340,,,Clarion County,5.3 Clarion Borough Third
+Clarion,5.3 Clarion Borough Third,State House,63.0,Donna Oberlander,REP,286,,,Clarion County,5.3 Clarion Borough Third
+Clarion,5.3 Clarion Borough Third,State House,63.0,Write-in Votes,,1,,,Clarion County,5.3 Clarion Borough Third
+Clarion,6.1 Clarion Township First,U.S. Senate,,Bob Casey Jr,DEM,174,,,Clarion County,6.1 Clarion Township First
+Clarion,6.1 Clarion Township First,U.S. Senate,,Lou Barletta Jr,REP,187,,,Clarion County,6.1 Clarion Township First
+Clarion,6.1 Clarion Township First,U.S. Senate,,Neal Gale,GRN,2,,,Clarion County,6.1 Clarion Township First
+Clarion,6.1 Clarion Township First,U.S. Senate,,Dale R Kerns Jr,LIB,5,,,Clarion County,6.1 Clarion Township First
+Clarion,6.1 Clarion Township First,U.S. Senate,,Write-in Votes,,0,,,Clarion County,6.1 Clarion Township First
+Clarion,6.1 Clarion Township First,Governor,,Tom Wolf,DEM,190,,,Clarion County,6.1 Clarion Township First
+Clarion,6.1 Clarion Township First,Governor,,Scott R Wagner,REP,176,,,Clarion County,6.1 Clarion Township First
+Clarion,6.1 Clarion Township First,Governor,,Paul Glover,GRN,4,,,Clarion County,6.1 Clarion Township First
+Clarion,6.1 Clarion Township First,Governor,,Ken V Krawchuk,LIB,3,,,Clarion County,6.1 Clarion Township First
+Clarion,6.1 Clarion Township First,Governor,,Write-in Votes,,0,,,Clarion County,6.1 Clarion Township First
+Clarion,6.1 Clarion Township First,U.S. House,15.0,Susan Boser,DEM,154,,,Clarion County,6.1 Clarion Township First
+Clarion,6.1 Clarion Township First,U.S. House,15.0,Glenn GT Thompson,REP,217,,,Clarion County,6.1 Clarion Township First
+Clarion,6.1 Clarion Township First,U.S. House,15.0,Write-in Votes,,0,,,Clarion County,6.1 Clarion Township First
+Clarion,6.1 Clarion Township First,State House,63.0,Conrad Warner,DEM,164,,,Clarion County,6.1 Clarion Township First
+Clarion,6.1 Clarion Township First,State House,63.0,Donna Oberlander,REP,208,,,Clarion County,6.1 Clarion Township First
+Clarion,6.1 Clarion Township First,State House,63.0,Write-in Votes,,0,,,Clarion County,6.1 Clarion Township First
+Clarion,6.2 Clarion Township Second,U.S. Senate,,Bob Casey Jr,DEM,227,,,Clarion County,6.2 Clarion Township Second
+Clarion,6.2 Clarion Township Second,U.S. Senate,,Lou Barletta Jr,REP,489,,,Clarion County,6.2 Clarion Township Second
+Clarion,6.2 Clarion Township Second,U.S. Senate,,Neal Gale,GRN,6,,,Clarion County,6.2 Clarion Township Second
+Clarion,6.2 Clarion Township Second,U.S. Senate,,Dale R Kerns Jr,LIB,12,,,Clarion County,6.2 Clarion Township Second
+Clarion,6.2 Clarion Township Second,U.S. Senate,,Write-in Votes,,0,,,Clarion County,6.2 Clarion Township Second
+Clarion,6.2 Clarion Township Second,Governor,,Tom Wolf,DEM,237,,,Clarion County,6.2 Clarion Township Second
+Clarion,6.2 Clarion Township Second,Governor,,Scott R Wagner,REP,477,,,Clarion County,6.2 Clarion Township Second
+Clarion,6.2 Clarion Township Second,Governor,,Paul Glover,GRN,7,,,Clarion County,6.2 Clarion Township Second
+Clarion,6.2 Clarion Township Second,Governor,,Ken V Krawchuk,LIB,16,,,Clarion County,6.2 Clarion Township Second
+Clarion,6.2 Clarion Township Second,Governor,,Write-in Votes,,2,,,Clarion County,6.2 Clarion Township Second
+Clarion,6.2 Clarion Township Second,U.S. House,15.0,Susan Boser,DEM,183,,,Clarion County,6.2 Clarion Township Second
+Clarion,6.2 Clarion Township Second,U.S. House,15.0,Glenn GT Thompson,REP,541,,,Clarion County,6.2 Clarion Township Second
+Clarion,6.2 Clarion Township Second,U.S. House,15.0,Write-in Votes,,0,,,Clarion County,6.2 Clarion Township Second
+Clarion,6.2 Clarion Township Second,State House,63.0,Conrad Warner,DEM,197,,,Clarion County,6.2 Clarion Township Second
+Clarion,6.2 Clarion Township Second,State House,63.0,Donna Oberlander,REP,542,,,Clarion County,6.2 Clarion Township Second
+Clarion,6.2 Clarion Township Second,State House,63.0,Write-in Votes,,0,,,Clarion County,6.2 Clarion Township Second
+Clarion,7.1 East Brady Borough,U.S. Senate,,Bob Casey Jr,DEM,144,,,Clarion County,7.1 East Brady Borough
+Clarion,7.1 East Brady Borough,U.S. Senate,,Lou Barletta Jr,REP,158,,,Clarion County,7.1 East Brady Borough
+Clarion,7.1 East Brady Borough,U.S. Senate,,Neal Gale,GRN,5,,,Clarion County,7.1 East Brady Borough
+Clarion,7.1 East Brady Borough,U.S. Senate,,Dale R Kerns Jr,LIB,5,,,Clarion County,7.1 East Brady Borough
+Clarion,7.1 East Brady Borough,U.S. Senate,,Write-in Votes,,0,,,Clarion County,7.1 East Brady Borough
+Clarion,7.1 East Brady Borough,Governor,,Tom Wolf,DEM,143,,,Clarion County,7.1 East Brady Borough
+Clarion,7.1 East Brady Borough,Governor,,Scott R Wagner,REP,162,,,Clarion County,7.1 East Brady Borough
+Clarion,7.1 East Brady Borough,Governor,,Paul Glover,GRN,2,,,Clarion County,7.1 East Brady Borough
+Clarion,7.1 East Brady Borough,Governor,,Ken V Krawchuk,LIB,4,,,Clarion County,7.1 East Brady Borough
+Clarion,7.1 East Brady Borough,Governor,,Write-in Votes,,0,,,Clarion County,7.1 East Brady Borough
+Clarion,7.1 East Brady Borough,U.S. House,15.0,Susan Boser,DEM,109,,,Clarion County,7.1 East Brady Borough
+Clarion,7.1 East Brady Borough,U.S. House,15.0,Glenn GT Thompson,REP,192,,,Clarion County,7.1 East Brady Borough
+Clarion,7.1 East Brady Borough,U.S. House,15.0,Write-in Votes,,0,,,Clarion County,7.1 East Brady Borough
+Clarion,7.1 East Brady Borough,State House,63.0,Conrad Warner,DEM,101,,,Clarion County,7.1 East Brady Borough
+Clarion,7.1 East Brady Borough,State House,63.0,Donna Oberlander,REP,209,,,Clarion County,7.1 East Brady Borough
+Clarion,7.1 East Brady Borough,State House,63.0,Write-in Votes,,0,,,Clarion County,7.1 East Brady Borough
+Clarion,8.1 Elk Township,U.S. Senate,,Bob Casey Jr,DEM,167,,,Clarion County,8.1 Elk Township
+Clarion,8.1 Elk Township,U.S. Senate,,Lou Barletta Jr,REP,464,,,Clarion County,8.1 Elk Township
+Clarion,8.1 Elk Township,U.S. Senate,,Neal Gale,GRN,10,,,Clarion County,8.1 Elk Township
+Clarion,8.1 Elk Township,U.S. Senate,,Dale R Kerns Jr,LIB,8,,,Clarion County,8.1 Elk Township
+Clarion,8.1 Elk Township,U.S. Senate,,Write-in Votes,,0,,,Clarion County,8.1 Elk Township
+Clarion,8.1 Elk Township,Governor,,Tom Wolf,DEM,181,,,Clarion County,8.1 Elk Township
+Clarion,8.1 Elk Township,Governor,,Scott R Wagner,REP,449,,,Clarion County,8.1 Elk Township
+Clarion,8.1 Elk Township,Governor,,Paul Glover,GRN,8,,,Clarion County,8.1 Elk Township
+Clarion,8.1 Elk Township,Governor,,Ken V Krawchuk,LIB,9,,,Clarion County,8.1 Elk Township
+Clarion,8.1 Elk Township,Governor,,Write-in Votes,,0,,,Clarion County,8.1 Elk Township
+Clarion,8.1 Elk Township,U.S. House,15.0,Susan Boser,DEM,128,,,Clarion County,8.1 Elk Township
+Clarion,8.1 Elk Township,U.S. House,15.0,Glenn GT Thompson,REP,504,,,Clarion County,8.1 Elk Township
+Clarion,8.1 Elk Township,U.S. House,15.0,Write-in Votes,,1,,,Clarion County,8.1 Elk Township
+Clarion,8.1 Elk Township,State House,63.0,Conrad Warner,DEM,185,,,Clarion County,8.1 Elk Township
+Clarion,8.1 Elk Township,State House,63.0,Donna Oberlander,REP,463,,,Clarion County,8.1 Elk Township
+Clarion,8.1 Elk Township,State House,63.0,Write-in Votes,,2,,,Clarion County,8.1 Elk Township
+Clarion,9.1 Foxburg Borough,U.S. Senate,,Bob Casey Jr,DEM,37,,,Clarion County,9.1 Foxburg Borough
+Clarion,9.1 Foxburg Borough,U.S. Senate,,Lou Barletta Jr,REP,41,,,Clarion County,9.1 Foxburg Borough
+Clarion,9.1 Foxburg Borough,U.S. Senate,,Neal Gale,GRN,0,,,Clarion County,9.1 Foxburg Borough
+Clarion,9.1 Foxburg Borough,U.S. Senate,,Dale R Kerns Jr,LIB,1,,,Clarion County,9.1 Foxburg Borough
+Clarion,9.1 Foxburg Borough,U.S. Senate,,Write-in Votes,,0,,,Clarion County,9.1 Foxburg Borough
+Clarion,9.1 Foxburg Borough,Governor,,Tom Wolf,DEM,37,,,Clarion County,9.1 Foxburg Borough
+Clarion,9.1 Foxburg Borough,Governor,,Scott R Wagner,REP,38,,,Clarion County,9.1 Foxburg Borough
+Clarion,9.1 Foxburg Borough,Governor,,Paul Glover,GRN,2,,,Clarion County,9.1 Foxburg Borough
+Clarion,9.1 Foxburg Borough,Governor,,Ken V Krawchuk,LIB,1,,,Clarion County,9.1 Foxburg Borough
+Clarion,9.1 Foxburg Borough,Governor,,Write-in Votes,,0,,,Clarion County,9.1 Foxburg Borough
+Clarion,9.1 Foxburg Borough,U.S. House,15.0,Susan Boser,DEM,34,,,Clarion County,9.1 Foxburg Borough
+Clarion,9.1 Foxburg Borough,U.S. House,15.0,Glenn GT Thompson,REP,44,,,Clarion County,9.1 Foxburg Borough
+Clarion,9.1 Foxburg Borough,U.S. House,15.0,Write-in Votes,,0,,,Clarion County,9.1 Foxburg Borough
+Clarion,9.1 Foxburg Borough,State House,63.0,Conrad Warner,DEM,23,,,Clarion County,9.1 Foxburg Borough
+Clarion,9.1 Foxburg Borough,State House,63.0,Donna Oberlander,REP,55,,,Clarion County,9.1 Foxburg Borough
+Clarion,9.1 Foxburg Borough,State House,63.0,Write-in Votes,,1,,,Clarion County,9.1 Foxburg Borough
+Clarion,10.1 Farmington Township,U.S. Senate,,Bob Casey Jr,DEM,78,,,Clarion County,10.1 Farmington Township
+Clarion,10.1 Farmington Township,U.S. Senate,,Lou Barletta Jr,REP,113,,,Clarion County,10.1 Farmington Township
+Clarion,10.1 Farmington Township,U.S. Senate,,Neal Gale,GRN,3,,,Clarion County,10.1 Farmington Township
+Clarion,10.1 Farmington Township,U.S. Senate,,Dale R Kerns Jr,LIB,1,,,Clarion County,10.1 Farmington Township
+Clarion,10.1 Farmington Township,U.S. Senate,,Write-in Votes,,0,,,Clarion County,10.1 Farmington Township
+Clarion,10.1 Farmington Township,Governor,,Tom Wolf,DEM,89,,,Clarion County,10.1 Farmington Township
+Clarion,10.1 Farmington Township,Governor,,Scott R Wagner,REP,101,,,Clarion County,10.1 Farmington Township
+Clarion,10.1 Farmington Township,Governor,,Paul Glover,GRN,2,,,Clarion County,10.1 Farmington Township
+Clarion,10.1 Farmington Township,Governor,,Ken V Krawchuk,LIB,1,,,Clarion County,10.1 Farmington Township
+Clarion,10.1 Farmington Township,Governor,,Write-in Votes,,0,,,Clarion County,10.1 Farmington Township
+Clarion,10.1 Farmington Township,U.S. House,15.0,Susan Boser,DEM,58,,,Clarion County,10.1 Farmington Township
+Clarion,10.1 Farmington Township,U.S. House,15.0,Glenn GT Thompson,REP,128,,,Clarion County,10.1 Farmington Township
+Clarion,10.1 Farmington Township,U.S. House,15.0,Write-in Votes,,0,,,Clarion County,10.1 Farmington Township
+Clarion,10.1 Farmington Township,State House,63.0,Conrad Warner,DEM,58,,,Clarion County,10.1 Farmington Township
+Clarion,10.1 Farmington Township,State House,63.0,Donna Oberlander,REP,135,,,Clarion County,10.1 Farmington Township
+Clarion,10.1 Farmington Township,State House,63.0,Write-in Votes,,0,,,Clarion County,10.1 Farmington Township
+Clarion,10.2 Farmington Township,U.S. Senate,,Bob Casey Jr,DEM,217,,,Clarion County,10.2 Farmington Township
+Clarion,10.2 Farmington Township,U.S. Senate,,Lou Barletta Jr,REP,381,,,Clarion County,10.2 Farmington Township
+Clarion,10.2 Farmington Township,U.S. Senate,,Neal Gale,GRN,5,,,Clarion County,10.2 Farmington Township
+Clarion,10.2 Farmington Township,U.S. Senate,,Dale R Kerns Jr,LIB,6,,,Clarion County,10.2 Farmington Township
+Clarion,10.2 Farmington Township,U.S. Senate,,Write-in Votes,,0,,,Clarion County,10.2 Farmington Township
+Clarion,10.2 Farmington Township,Governor,,Tom Wolf,DEM,223,,,Clarion County,10.2 Farmington Township
+Clarion,10.2 Farmington Township,Governor,,Scott R Wagner,REP,384,,,Clarion County,10.2 Farmington Township
+Clarion,10.2 Farmington Township,Governor,,Paul Glover,GRN,4,,,Clarion County,10.2 Farmington Township
+Clarion,10.2 Farmington Township,Governor,,Ken V Krawchuk,LIB,4,,,Clarion County,10.2 Farmington Township
+Clarion,10.2 Farmington Township,Governor,,Write-in Votes,,0,,,Clarion County,10.2 Farmington Township
+Clarion,10.2 Farmington Township,U.S. House,15.0,Susan Boser,DEM,172,,,Clarion County,10.2 Farmington Township
+Clarion,10.2 Farmington Township,U.S. House,15.0,Glenn GT Thompson,REP,432,,,Clarion County,10.2 Farmington Township
+Clarion,10.2 Farmington Township,U.S. House,15.0,Write-in Votes,,0,,,Clarion County,10.2 Farmington Township
+Clarion,10.2 Farmington Township,State House,63.0,Conrad Warner,DEM,177,,,Clarion County,10.2 Farmington Township
+Clarion,10.2 Farmington Township,State House,63.0,Donna Oberlander,REP,438,,,Clarion County,10.2 Farmington Township
+Clarion,10.2 Farmington Township,State House,63.0,Write-in Votes,,0,,,Clarion County,10.2 Farmington Township
+Clarion,11.1 Hawthorn Borough,U.S. Senate,,Bob Casey Jr,DEM,27,,,Clarion County,11.1 Hawthorn Borough
+Clarion,11.1 Hawthorn Borough,U.S. Senate,,Lou Barletta Jr,REP,123,,,Clarion County,11.1 Hawthorn Borough
+Clarion,11.1 Hawthorn Borough,U.S. Senate,,Neal Gale,GRN,0,,,Clarion County,11.1 Hawthorn Borough
+Clarion,11.1 Hawthorn Borough,U.S. Senate,,Dale R Kerns Jr,LIB,3,,,Clarion County,11.1 Hawthorn Borough
+Clarion,11.1 Hawthorn Borough,U.S. Senate,,Write-in Votes,,0,,,Clarion County,11.1 Hawthorn Borough
+Clarion,11.1 Hawthorn Borough,Governor,,Tom Wolf,DEM,33,,,Clarion County,11.1 Hawthorn Borough
+Clarion,11.1 Hawthorn Borough,Governor,,Scott R Wagner,REP,120,,,Clarion County,11.1 Hawthorn Borough
+Clarion,11.1 Hawthorn Borough,Governor,,Paul Glover,GRN,0,,,Clarion County,11.1 Hawthorn Borough
+Clarion,11.1 Hawthorn Borough,Governor,,Ken V Krawchuk,LIB,1,,,Clarion County,11.1 Hawthorn Borough
+Clarion,11.1 Hawthorn Borough,Governor,,Write-in Votes,,0,,,Clarion County,11.1 Hawthorn Borough
+Clarion,11.1 Hawthorn Borough,U.S. House,15.0,Susan Boser,DEM,24,,,Clarion County,11.1 Hawthorn Borough
+Clarion,11.1 Hawthorn Borough,U.S. House,15.0,Glenn GT Thompson,REP,126,,,Clarion County,11.1 Hawthorn Borough
+Clarion,11.1 Hawthorn Borough,U.S. House,15.0,Write-in Votes,,0,,,Clarion County,11.1 Hawthorn Borough
+Clarion,11.1 Hawthorn Borough,State House,63.0,Conrad Warner,DEM,17,,,Clarion County,11.1 Hawthorn Borough
+Clarion,11.1 Hawthorn Borough,State House,63.0,Donna Oberlander,REP,135,,,Clarion County,11.1 Hawthorn Borough
+Clarion,11.1 Hawthorn Borough,State House,63.0,Write-in Votes,,0,,,Clarion County,11.1 Hawthorn Borough
+Clarion,12.1 Highland Township,U.S. Senate,,Bob Casey Jr,DEM,88,,,Clarion County,12.1 Highland Township
+Clarion,12.1 Highland Township,U.S. Senate,,Lou Barletta Jr,REP,190,,,Clarion County,12.1 Highland Township
+Clarion,12.1 Highland Township,U.S. Senate,,Neal Gale,GRN,2,,,Clarion County,12.1 Highland Township
+Clarion,12.1 Highland Township,U.S. Senate,,Dale R Kerns Jr,LIB,2,,,Clarion County,12.1 Highland Township
+Clarion,12.1 Highland Township,U.S. Senate,,Write-in Votes,,0,,,Clarion County,12.1 Highland Township
+Clarion,12.1 Highland Township,Governor,,Tom Wolf,DEM,89,,,Clarion County,12.1 Highland Township
+Clarion,12.1 Highland Township,Governor,,Scott R Wagner,REP,189,,,Clarion County,12.1 Highland Township
+Clarion,12.1 Highland Township,Governor,,Paul Glover,GRN,3,,,Clarion County,12.1 Highland Township
+Clarion,12.1 Highland Township,Governor,,Ken V Krawchuk,LIB,0,,,Clarion County,12.1 Highland Township
+Clarion,12.1 Highland Township,Governor,,Write-in Votes,,1,,,Clarion County,12.1 Highland Township
+Clarion,12.1 Highland Township,U.S. House,15.0,Susan Boser,DEM,69,,,Clarion County,12.1 Highland Township
+Clarion,12.1 Highland Township,U.S. House,15.0,Glenn GT Thompson,REP,207,,,Clarion County,12.1 Highland Township
+Clarion,12.1 Highland Township,U.S. House,15.0,Write-in Votes,,0,,,Clarion County,12.1 Highland Township
+Clarion,12.1 Highland Township,State House,63.0,Conrad Warner,DEM,78,,,Clarion County,12.1 Highland Township
+Clarion,12.1 Highland Township,State House,63.0,Donna Oberlander,REP,206,,,Clarion County,12.1 Highland Township
+Clarion,12.1 Highland Township,State House,63.0,Write-in Votes,,0,,,Clarion County,12.1 Highland Township
+Clarion,13.1 Knox Borough,U.S. Senate,,Bob Casey Jr,DEM,156,,,Clarion County,13.1 Knox Borough
+Clarion,13.1 Knox Borough,U.S. Senate,,Lou Barletta Jr,REP,224,,,Clarion County,13.1 Knox Borough
+Clarion,13.1 Knox Borough,U.S. Senate,,Neal Gale,GRN,4,,,Clarion County,13.1 Knox Borough
+Clarion,13.1 Knox Borough,U.S. Senate,,Dale R Kerns Jr,LIB,7,,,Clarion County,13.1 Knox Borough
+Clarion,13.1 Knox Borough,U.S. Senate,,Write-in Votes,,0,,,Clarion County,13.1 Knox Borough
+Clarion,13.1 Knox Borough,Governor,,Tom Wolf,DEM,166,,,Clarion County,13.1 Knox Borough
+Clarion,13.1 Knox Borough,Governor,,Scott R Wagner,REP,210,,,Clarion County,13.1 Knox Borough
+Clarion,13.1 Knox Borough,Governor,,Paul Glover,GRN,6,,,Clarion County,13.1 Knox Borough
+Clarion,13.1 Knox Borough,Governor,,Ken V Krawchuk,LIB,10,,,Clarion County,13.1 Knox Borough
+Clarion,13.1 Knox Borough,Governor,,Write-in Votes,,1,,,Clarion County,13.1 Knox Borough
+Clarion,13.1 Knox Borough,U.S. House,15.0,Susan Boser,DEM,104,,,Clarion County,13.1 Knox Borough
+Clarion,13.1 Knox Borough,U.S. House,15.0,Glenn GT Thompson,REP,278,,,Clarion County,13.1 Knox Borough
+Clarion,13.1 Knox Borough,U.S. House,15.0,Write-in Votes,,1,,,Clarion County,13.1 Knox Borough
+Clarion,13.1 Knox Borough,State House,63.0,Conrad Warner,DEM,150,,,Clarion County,13.1 Knox Borough
+Clarion,13.1 Knox Borough,State House,63.0,Donna Oberlander,REP,242,,,Clarion County,13.1 Knox Borough
+Clarion,13.1 Knox Borough,State House,63.0,Write-in Votes,,0,,,Clarion County,13.1 Knox Borough
+Clarion,14.1 Knox Township,U.S. Senate,,Bob Casey Jr,DEM,193,,,Clarion County,14.1 Knox Township
+Clarion,14.1 Knox Township,U.S. Senate,,Lou Barletta Jr,REP,250,,,Clarion County,14.1 Knox Township
+Clarion,14.1 Knox Township,U.S. Senate,,Neal Gale,GRN,5,,,Clarion County,14.1 Knox Township
+Clarion,14.1 Knox Township,U.S. Senate,,Dale R Kerns Jr,LIB,4,,,Clarion County,14.1 Knox Township
+Clarion,14.1 Knox Township,U.S. Senate,,Write-in Votes,,0,,,Clarion County,14.1 Knox Township
+Clarion,14.1 Knox Township,Governor,,Tom Wolf,DEM,197,,,Clarion County,14.1 Knox Township
+Clarion,14.1 Knox Township,Governor,,Scott R Wagner,REP,245,,,Clarion County,14.1 Knox Township
+Clarion,14.1 Knox Township,Governor,,Paul Glover,GRN,6,,,Clarion County,14.1 Knox Township
+Clarion,14.1 Knox Township,Governor,,Ken V Krawchuk,LIB,7,,,Clarion County,14.1 Knox Township
+Clarion,14.1 Knox Township,Governor,,Write-in Votes,,0,,,Clarion County,14.1 Knox Township
+Clarion,14.1 Knox Township,U.S. House,15.0,Susan Boser,DEM,151,,,Clarion County,14.1 Knox Township
+Clarion,14.1 Knox Township,U.S. House,15.0,Glenn GT Thompson,REP,291,,,Clarion County,14.1 Knox Township
+Clarion,14.1 Knox Township,U.S. House,15.0,Write-in Votes,,1,,,Clarion County,14.1 Knox Township
+Clarion,14.1 Knox Township,State House,63.0,Conrad Warner,DEM,151,,,Clarion County,14.1 Knox Township
+Clarion,14.1 Knox Township,State House,63.0,Donna Oberlander,REP,303,,,Clarion County,14.1 Knox Township
+Clarion,14.1 Knox Township,State House,63.0,Write-in Votes,,1,,,Clarion County,14.1 Knox Township
+Clarion,15.1 Licking Township,U.S. Senate,,Bob Casey Jr,DEM,49,,,Clarion County,15.1 Licking Township
+Clarion,15.1 Licking Township,U.S. Senate,,Lou Barletta Jr,REP,115,,,Clarion County,15.1 Licking Township
+Clarion,15.1 Licking Township,U.S. Senate,,Neal Gale,GRN,0,,,Clarion County,15.1 Licking Township
+Clarion,15.1 Licking Township,U.S. Senate,,Dale R Kerns Jr,LIB,2,,,Clarion County,15.1 Licking Township
+Clarion,15.1 Licking Township,U.S. Senate,,Write-in Votes,,0,,,Clarion County,15.1 Licking Township
+Clarion,15.1 Licking Township,Governor,,Tom Wolf,DEM,46,,,Clarion County,15.1 Licking Township
+Clarion,15.1 Licking Township,Governor,,Scott R Wagner,REP,118,,,Clarion County,15.1 Licking Township
+Clarion,15.1 Licking Township,Governor,,Paul Glover,GRN,0,,,Clarion County,15.1 Licking Township
+Clarion,15.1 Licking Township,Governor,,Ken V Krawchuk,LIB,1,,,Clarion County,15.1 Licking Township
+Clarion,15.1 Licking Township,Governor,,Write-in Votes,,0,,,Clarion County,15.1 Licking Township
+Clarion,15.1 Licking Township,U.S. House,15.0,Susan Boser,DEM,38,,,Clarion County,15.1 Licking Township
+Clarion,15.1 Licking Township,U.S. House,15.0,Glenn GT Thompson,REP,124,,,Clarion County,15.1 Licking Township
+Clarion,15.1 Licking Township,U.S. House,15.0,Write-in Votes,,0,,,Clarion County,15.1 Licking Township
+Clarion,15.1 Licking Township,State House,63.0,Conrad Warner,DEM,49,,,Clarion County,15.1 Licking Township
+Clarion,15.1 Licking Township,State House,63.0,Donna Oberlander,REP,116,,,Clarion County,15.1 Licking Township
+Clarion,15.1 Licking Township,State House,63.0,Write-in Votes,,0,,,Clarion County,15.1 Licking Township
+Clarion,16.1 Limestone Township,U.S. Senate,,Bob Casey Jr,DEM,240,,,Clarion County,16.1 Limestone Township
+Clarion,16.1 Limestone Township,U.S. Senate,,Lou Barletta Jr,REP,587,,,Clarion County,16.1 Limestone Township
+Clarion,16.1 Limestone Township,U.S. Senate,,Neal Gale,GRN,1,,,Clarion County,16.1 Limestone Township
+Clarion,16.1 Limestone Township,U.S. Senate,,Dale R Kerns Jr,LIB,13,,,Clarion County,16.1 Limestone Township
+Clarion,16.1 Limestone Township,U.S. Senate,,Write-in Votes,,0,,,Clarion County,16.1 Limestone Township
+Clarion,16.1 Limestone Township,Governor,,Tom Wolf,DEM,270,,,Clarion County,16.1 Limestone Township
+Clarion,16.1 Limestone Township,Governor,,Scott R Wagner,REP,549,,,Clarion County,16.1 Limestone Township
+Clarion,16.1 Limestone Township,Governor,,Paul Glover,GRN,7,,,Clarion County,16.1 Limestone Township
+Clarion,16.1 Limestone Township,Governor,,Ken V Krawchuk,LIB,16,,,Clarion County,16.1 Limestone Township
+Clarion,16.1 Limestone Township,Governor,,Write-in Votes,,0,,,Clarion County,16.1 Limestone Township
+Clarion,16.1 Limestone Township,U.S. House,15.0,Susan Boser,DEM,189,,,Clarion County,16.1 Limestone Township
+Clarion,16.1 Limestone Township,U.S. House,15.0,Glenn GT Thompson,REP,640,,,Clarion County,16.1 Limestone Township
+Clarion,16.1 Limestone Township,U.S. House,15.0,Write-in Votes,,1,,,Clarion County,16.1 Limestone Township
+Clarion,16.1 Limestone Township,State House,63.0,Conrad Warner,DEM,221,,,Clarion County,16.1 Limestone Township
+Clarion,16.1 Limestone Township,State House,63.0,Donna Oberlander,REP,616,,,Clarion County,16.1 Limestone Township
+Clarion,16.1 Limestone Township,State House,63.0,Write-in Votes,,1,,,Clarion County,16.1 Limestone Township
+Clarion,17.1 Madison Township,U.S. Senate,,Bob Casey Jr,DEM,143,,,Clarion County,17.1 Madison Township
+Clarion,17.1 Madison Township,U.S. Senate,,Lou Barletta Jr,REP,248,,,Clarion County,17.1 Madison Township
+Clarion,17.1 Madison Township,U.S. Senate,,Neal Gale,GRN,2,,,Clarion County,17.1 Madison Township
+Clarion,17.1 Madison Township,U.S. Senate,,Dale R Kerns Jr,LIB,5,,,Clarion County,17.1 Madison Township
+Clarion,17.1 Madison Township,U.S. Senate,,Write-in Votes,,1,,,Clarion County,17.1 Madison Township
+Clarion,17.1 Madison Township,Governor,,Tom Wolf,DEM,146,,,Clarion County,17.1 Madison Township
+Clarion,17.1 Madison Township,Governor,,Scott R Wagner,REP,250,,,Clarion County,17.1 Madison Township
+Clarion,17.1 Madison Township,Governor,,Paul Glover,GRN,1,,,Clarion County,17.1 Madison Township
+Clarion,17.1 Madison Township,Governor,,Ken V Krawchuk,LIB,5,,,Clarion County,17.1 Madison Township
+Clarion,17.1 Madison Township,Governor,,Write-in Votes,,0,,,Clarion County,17.1 Madison Township
+Clarion,17.1 Madison Township,U.S. House,15.0,Susan Boser,DEM,103,,,Clarion County,17.1 Madison Township
+Clarion,17.1 Madison Township,U.S. House,15.0,Glenn GT Thompson,REP,283,,,Clarion County,17.1 Madison Township
+Clarion,17.1 Madison Township,U.S. House,15.0,Write-in Votes,,0,,,Clarion County,17.1 Madison Township
+Clarion,17.1 Madison Township,State House,63.0,Conrad Warner,DEM,97,,,Clarion County,17.1 Madison Township
+Clarion,17.1 Madison Township,State House,63.0,Donna Oberlander,REP,305,,,Clarion County,17.1 Madison Township
+Clarion,17.1 Madison Township,State House,63.0,Write-in Votes,,1,,,Clarion County,17.1 Madison Township
+Clarion,18.1 Millcreek Township,U.S. Senate,,Bob Casey Jr,DEM,69,,,Clarion County,18.1 Millcreek Township
+Clarion,18.1 Millcreek Township,U.S. Senate,,Lou Barletta Jr,REP,113,,,Clarion County,18.1 Millcreek Township
+Clarion,18.1 Millcreek Township,U.S. Senate,,Neal Gale,GRN,1,,,Clarion County,18.1 Millcreek Township
+Clarion,18.1 Millcreek Township,U.S. Senate,,Dale R Kerns Jr,LIB,4,,,Clarion County,18.1 Millcreek Township
+Clarion,18.1 Millcreek Township,U.S. Senate,,Write-in Votes,,0,,,Clarion County,18.1 Millcreek Township
+Clarion,18.1 Millcreek Township,Governor,,Tom Wolf,DEM,72,,,Clarion County,18.1 Millcreek Township
+Clarion,18.1 Millcreek Township,Governor,,Scott R Wagner,REP,105,,,Clarion County,18.1 Millcreek Township
+Clarion,18.1 Millcreek Township,Governor,,Paul Glover,GRN,3,,,Clarion County,18.1 Millcreek Township
+Clarion,18.1 Millcreek Township,Governor,,Ken V Krawchuk,LIB,4,,,Clarion County,18.1 Millcreek Township
+Clarion,18.1 Millcreek Township,Governor,,Write-in Votes,,0,,,Clarion County,18.1 Millcreek Township
+Clarion,18.1 Millcreek Township,U.S. House,15.0,Susan Boser,DEM,53,,,Clarion County,18.1 Millcreek Township
+Clarion,18.1 Millcreek Township,U.S. House,15.0,Glenn GT Thompson,REP,132,,,Clarion County,18.1 Millcreek Township
+Clarion,18.1 Millcreek Township,U.S. House,15.0,Write-in Votes,,0,,,Clarion County,18.1 Millcreek Township
+Clarion,18.1 Millcreek Township,State House,63.0,Conrad Warner,DEM,51,,,Clarion County,18.1 Millcreek Township
+Clarion,18.1 Millcreek Township,State House,63.0,Donna Oberlander,REP,134,,,Clarion County,18.1 Millcreek Township
+Clarion,18.1 Millcreek Township,State House,63.0,Write-in Votes,,0,,,Clarion County,18.1 Millcreek Township
+Clarion,19.1 Monroe Township,U.S. Senate,,Bob Casey Jr,DEM,237,,,Clarion County,19.1 Monroe Township
+Clarion,19.1 Monroe Township,U.S. Senate,,Lou Barletta Jr,REP,388,,,Clarion County,19.1 Monroe Township
+Clarion,19.1 Monroe Township,U.S. Senate,,Neal Gale,GRN,4,,,Clarion County,19.1 Monroe Township
+Clarion,19.1 Monroe Township,U.S. Senate,,Dale R Kerns Jr,LIB,2,,,Clarion County,19.1 Monroe Township
+Clarion,19.1 Monroe Township,U.S. Senate,,Write-in Votes,,0,,,Clarion County,19.1 Monroe Township
+Clarion,19.1 Monroe Township,Governor,,Tom Wolf,DEM,260,,,Clarion County,19.1 Monroe Township
+Clarion,19.1 Monroe Township,Governor,,Scott R Wagner,REP,362,,,Clarion County,19.1 Monroe Township
+Clarion,19.1 Monroe Township,Governor,,Paul Glover,GRN,5,,,Clarion County,19.1 Monroe Township
+Clarion,19.1 Monroe Township,Governor,,Ken V Krawchuk,LIB,3,,,Clarion County,19.1 Monroe Township
+Clarion,19.1 Monroe Township,Governor,,Write-in Votes,,0,,,Clarion County,19.1 Monroe Township
+Clarion,19.1 Monroe Township,U.S. House,15.0,Susan Boser,DEM,179,,,Clarion County,19.1 Monroe Township
+Clarion,19.1 Monroe Township,U.S. House,15.0,Glenn GT Thompson,REP,433,,,Clarion County,19.1 Monroe Township
+Clarion,19.1 Monroe Township,U.S. House,15.0,Write-in Votes,,0,,,Clarion County,19.1 Monroe Township
+Clarion,19.1 Monroe Township,State House,63.0,Conrad Warner,DEM,216,,,Clarion County,19.1 Monroe Township
+Clarion,19.1 Monroe Township,State House,63.0,Donna Oberlander,REP,415,,,Clarion County,19.1 Monroe Township
+Clarion,19.1 Monroe Township,State House,63.0,Write-in Votes,,1,,,Clarion County,19.1 Monroe Township
+Clarion,20.1 New Bethlehem Borough,U.S. Senate,,Bob Casey Jr,DEM,90,,,Clarion County,20.1 New Bethlehem Borough
+Clarion,20.1 New Bethlehem Borough,U.S. Senate,,Lou Barletta Jr,REP,210,,,Clarion County,20.1 New Bethlehem Borough
+Clarion,20.1 New Bethlehem Borough,U.S. Senate,,Neal Gale,GRN,2,,,Clarion County,20.1 New Bethlehem Borough
+Clarion,20.1 New Bethlehem Borough,U.S. Senate,,Dale R Kerns Jr,LIB,5,,,Clarion County,20.1 New Bethlehem Borough
+Clarion,20.1 New Bethlehem Borough,U.S. Senate,,Write-in Votes,,0,,,Clarion County,20.1 New Bethlehem Borough
+Clarion,20.1 New Bethlehem Borough,Governor,,Tom Wolf,DEM,105,,,Clarion County,20.1 New Bethlehem Borough
+Clarion,20.1 New Bethlehem Borough,Governor,,Scott R Wagner,REP,196,,,Clarion County,20.1 New Bethlehem Borough
+Clarion,20.1 New Bethlehem Borough,Governor,,Paul Glover,GRN,3,,,Clarion County,20.1 New Bethlehem Borough
+Clarion,20.1 New Bethlehem Borough,Governor,,Ken V Krawchuk,LIB,4,,,Clarion County,20.1 New Bethlehem Borough
+Clarion,20.1 New Bethlehem Borough,Governor,,Write-in Votes,,0,,,Clarion County,20.1 New Bethlehem Borough
+Clarion,20.1 New Bethlehem Borough,U.S. House,15.0,Susan Boser,DEM,76,,,Clarion County,20.1 New Bethlehem Borough
+Clarion,20.1 New Bethlehem Borough,U.S. House,15.0,Glenn GT Thompson,REP,223,,,Clarion County,20.1 New Bethlehem Borough
+Clarion,20.1 New Bethlehem Borough,U.S. House,15.0,Write-in Votes,,0,,,Clarion County,20.1 New Bethlehem Borough
+Clarion,20.1 New Bethlehem Borough,State House,63.0,Conrad Warner,DEM,70,,,Clarion County,20.1 New Bethlehem Borough
+Clarion,20.1 New Bethlehem Borough,State House,63.0,Donna Oberlander,REP,238,,,Clarion County,20.1 New Bethlehem Borough
+Clarion,20.1 New Bethlehem Borough,State House,63.0,Write-in Votes,,0,,,Clarion County,20.1 New Bethlehem Borough
+Clarion,21.1 Paint Township,U.S. Senate,,Bob Casey Jr,DEM,312,,,Clarion County,21.1 Paint Township
+Clarion,21.1 Paint Township,U.S. Senate,,Lou Barletta Jr,REP,397,,,Clarion County,21.1 Paint Township
+Clarion,21.1 Paint Township,U.S. Senate,,Neal Gale,GRN,1,,,Clarion County,21.1 Paint Township
+Clarion,21.1 Paint Township,U.S. Senate,,Dale R Kerns Jr,LIB,7,,,Clarion County,21.1 Paint Township
+Clarion,21.1 Paint Township,U.S. Senate,,Write-in Votes,,0,,,Clarion County,21.1 Paint Township
+Clarion,21.1 Paint Township,Governor,,Tom Wolf,DEM,336,,,Clarion County,21.1 Paint Township
+Clarion,21.1 Paint Township,Governor,,Scott R Wagner,REP,375,,,Clarion County,21.1 Paint Township
+Clarion,21.1 Paint Township,Governor,,Paul Glover,GRN,3,,,Clarion County,21.1 Paint Township
+Clarion,21.1 Paint Township,Governor,,Ken V Krawchuk,LIB,10,,,Clarion County,21.1 Paint Township
+Clarion,21.1 Paint Township,Governor,,Write-in Votes,,0,,,Clarion County,21.1 Paint Township
+Clarion,21.1 Paint Township,U.S. House,15.0,Susan Boser,DEM,240,,,Clarion County,21.1 Paint Township
+Clarion,21.1 Paint Township,U.S. House,15.0,Glenn GT Thompson,REP,464,,,Clarion County,21.1 Paint Township
+Clarion,21.1 Paint Township,U.S. House,15.0,Write-in Votes,,0,,,Clarion County,21.1 Paint Township
+Clarion,21.1 Paint Township,State House,63.0,Conrad Warner,DEM,294,,,Clarion County,21.1 Paint Township
+Clarion,21.1 Paint Township,State House,63.0,Donna Oberlander,REP,434,,,Clarion County,21.1 Paint Township
+Clarion,21.1 Paint Township,State House,63.0,Write-in Votes,,0,,,Clarion County,21.1 Paint Township
+Clarion,22.1 Perry Township,U.S. Senate,,Bob Casey Jr,DEM,122,,,Clarion County,22.1 Perry Township
+Clarion,22.1 Perry Township,U.S. Senate,,Lou Barletta Jr,REP,254,,,Clarion County,22.1 Perry Township
+Clarion,22.1 Perry Township,U.S. Senate,,Neal Gale,GRN,3,,,Clarion County,22.1 Perry Township
+Clarion,22.1 Perry Township,U.S. Senate,,Dale R Kerns Jr,LIB,7,,,Clarion County,22.1 Perry Township
+Clarion,22.1 Perry Township,U.S. Senate,,Write-in Votes,,0,,,Clarion County,22.1 Perry Township
+Clarion,22.1 Perry Township,Governor,,Tom Wolf,DEM,114,,,Clarion County,22.1 Perry Township
+Clarion,22.1 Perry Township,Governor,,Scott R Wagner,REP,261,,,Clarion County,22.1 Perry Township
+Clarion,22.1 Perry Township,Governor,,Paul Glover,GRN,2,,,Clarion County,22.1 Perry Township
+Clarion,22.1 Perry Township,Governor,,Ken V Krawchuk,LIB,8,,,Clarion County,22.1 Perry Township
+Clarion,22.1 Perry Township,Governor,,Write-in Votes,,1,,,Clarion County,22.1 Perry Township
+Clarion,22.1 Perry Township,U.S. House,15.0,Susan Boser,DEM,93,,,Clarion County,22.1 Perry Township
+Clarion,22.1 Perry Township,U.S. House,15.0,Glenn GT Thompson,REP,282,,,Clarion County,22.1 Perry Township
+Clarion,22.1 Perry Township,U.S. House,15.0,Write-in Votes,,0,,,Clarion County,22.1 Perry Township
+Clarion,22.1 Perry Township,State House,63.0,Conrad Warner,DEM,88,,,Clarion County,22.1 Perry Township
+Clarion,22.1 Perry Township,State House,63.0,Donna Oberlander,REP,299,,,Clarion County,22.1 Perry Township
+Clarion,22.1 Perry Township,State House,63.0,Write-in Votes,,0,,,Clarion County,22.1 Perry Township
+Clarion,23.1 Piney Township,U.S. Senate,,Bob Casey Jr,DEM,39,,,Clarion County,23.1 Piney Township
+Clarion,23.1 Piney Township,U.S. Senate,,Lou Barletta Jr,REP,92,,,Clarion County,23.1 Piney Township
+Clarion,23.1 Piney Township,U.S. Senate,,Neal Gale,GRN,2,,,Clarion County,23.1 Piney Township
+Clarion,23.1 Piney Township,U.S. Senate,,Dale R Kerns Jr,LIB,1,,,Clarion County,23.1 Piney Township
+Clarion,23.1 Piney Township,U.S. Senate,,Write-in Votes,,0,,,Clarion County,23.1 Piney Township
+Clarion,23.1 Piney Township,Governor,,Tom Wolf,DEM,40,,,Clarion County,23.1 Piney Township
+Clarion,23.1 Piney Township,Governor,,Scott R Wagner,REP,97,,,Clarion County,23.1 Piney Township
+Clarion,23.1 Piney Township,Governor,,Paul Glover,GRN,0,,,Clarion County,23.1 Piney Township
+Clarion,23.1 Piney Township,Governor,,Ken V Krawchuk,LIB,2,,,Clarion County,23.1 Piney Township
+Clarion,23.1 Piney Township,Governor,,Write-in Votes,,0,,,Clarion County,23.1 Piney Township
+Clarion,23.1 Piney Township,U.S. House,15.0,Susan Boser,DEM,30,,,Clarion County,23.1 Piney Township
+Clarion,23.1 Piney Township,U.S. House,15.0,Glenn GT Thompson,REP,99,,,Clarion County,23.1 Piney Township
+Clarion,23.1 Piney Township,U.S. House,15.0,Write-in Votes,,0,,,Clarion County,23.1 Piney Township
+Clarion,23.1 Piney Township,State House,63.0,Conrad Warner,DEM,37,,,Clarion County,23.1 Piney Township
+Clarion,23.1 Piney Township,State House,63.0,Donna Oberlander,REP,101,,,Clarion County,23.1 Piney Township
+Clarion,23.1 Piney Township,State House,63.0,Write-in Votes,,0,,,Clarion County,23.1 Piney Township
+Clarion,24.1 Porter Township East,U.S. Senate,,Bob Casey Jr,DEM,47,,,Clarion County,24.1 Porter Township East
+Clarion,24.1 Porter Township East,U.S. Senate,,Lou Barletta Jr,REP,198,,,Clarion County,24.1 Porter Township East
+Clarion,24.1 Porter Township East,U.S. Senate,,Neal Gale,GRN,0,,,Clarion County,24.1 Porter Township East
+Clarion,24.1 Porter Township East,U.S. Senate,,Dale R Kerns Jr,LIB,1,,,Clarion County,24.1 Porter Township East
+Clarion,24.1 Porter Township East,U.S. Senate,,Write-in Votes,,0,,,Clarion County,24.1 Porter Township East
+Clarion,24.1 Porter Township East,Governor,,Tom Wolf,DEM,54,,,Clarion County,24.1 Porter Township East
+Clarion,24.1 Porter Township East,Governor,,Scott R Wagner,REP,189,,,Clarion County,24.1 Porter Township East
+Clarion,24.1 Porter Township East,Governor,,Paul Glover,GRN,1,,,Clarion County,24.1 Porter Township East
+Clarion,24.1 Porter Township East,Governor,,Ken V Krawchuk,LIB,1,,,Clarion County,24.1 Porter Township East
+Clarion,24.1 Porter Township East,Governor,,Write-in Votes,,0,,,Clarion County,24.1 Porter Township East
+Clarion,24.1 Porter Township East,U.S. House,15.0,Susan Boser,DEM,29,,,Clarion County,24.1 Porter Township East
+Clarion,24.1 Porter Township East,U.S. House,15.0,Glenn GT Thompson,REP,209,,,Clarion County,24.1 Porter Township East
+Clarion,24.1 Porter Township East,U.S. House,15.0,Write-in Votes,,0,,,Clarion County,24.1 Porter Township East
+Clarion,24.1 Porter Township East,State House,63.0,Conrad Warner,DEM,26,,,Clarion County,24.1 Porter Township East
+Clarion,24.1 Porter Township East,State House,63.0,Donna Oberlander,REP,219,,,Clarion County,24.1 Porter Township East
+Clarion,24.1 Porter Township East,State House,63.0,Write-in Votes,,0,,,Clarion County,24.1 Porter Township East
+Clarion,24.2 Porter Township West,U.S. Senate,,Bob Casey Jr,DEM,73,,,Clarion County,24.2 Porter Township West
+Clarion,24.2 Porter Township West,U.S. Senate,,Lou Barletta Jr,REP,289,,,Clarion County,24.2 Porter Township West
+Clarion,24.2 Porter Township West,U.S. Senate,,Neal Gale,GRN,0,,,Clarion County,24.2 Porter Township West
+Clarion,24.2 Porter Township West,U.S. Senate,,Dale R Kerns Jr,LIB,5,,,Clarion County,24.2 Porter Township West
+Clarion,24.2 Porter Township West,U.S. Senate,,Write-in Votes,,0,,,Clarion County,24.2 Porter Township West
+Clarion,24.2 Porter Township West,Governor,,Tom Wolf,DEM,84,,,Clarion County,24.2 Porter Township West
+Clarion,24.2 Porter Township West,Governor,,Scott R Wagner,REP,276,,,Clarion County,24.2 Porter Township West
+Clarion,24.2 Porter Township West,Governor,,Paul Glover,GRN,4,,,Clarion County,24.2 Porter Township West
+Clarion,24.2 Porter Township West,Governor,,Ken V Krawchuk,LIB,6,,,Clarion County,24.2 Porter Township West
+Clarion,24.2 Porter Township West,Governor,,Write-in Votes,,1,,,Clarion County,24.2 Porter Township West
+Clarion,24.2 Porter Township West,U.S. House,15.0,Susan Boser,DEM,46,,,Clarion County,24.2 Porter Township West
+Clarion,24.2 Porter Township West,U.S. House,15.0,Glenn GT Thompson,REP,322,,,Clarion County,24.2 Porter Township West
+Clarion,24.2 Porter Township West,U.S. House,15.0,Write-in Votes,,0,,,Clarion County,24.2 Porter Township West
+Clarion,24.2 Porter Township West,State House,63.0,Conrad Warner,DEM,52,,,Clarion County,24.2 Porter Township West
+Clarion,24.2 Porter Township West,State House,63.0,Donna Oberlander,REP,318,,,Clarion County,24.2 Porter Township West
+Clarion,24.2 Porter Township West,State House,63.0,Write-in Votes,,0,,,Clarion County,24.2 Porter Township West
+Clarion,25.1 Redbank Township East,U.S. Senate,,Bob Casey Jr,DEM,71,,,Clarion County,25.1 Redbank Township East
+Clarion,25.1 Redbank Township East,U.S. Senate,,Lou Barletta Jr,REP,190,,,Clarion County,25.1 Redbank Township East
+Clarion,25.1 Redbank Township East,U.S. Senate,,Neal Gale,GRN,0,,,Clarion County,25.1 Redbank Township East
+Clarion,25.1 Redbank Township East,U.S. Senate,,Dale R Kerns Jr,LIB,3,,,Clarion County,25.1 Redbank Township East
+Clarion,25.1 Redbank Township East,U.S. Senate,,Write-in Votes,,0,,,Clarion County,25.1 Redbank Township East
+Clarion,25.1 Redbank Township East,Governor,,Tom Wolf,DEM,73,,,Clarion County,25.1 Redbank Township East
+Clarion,25.1 Redbank Township East,Governor,,Scott R Wagner,REP,182,,,Clarion County,25.1 Redbank Township East
+Clarion,25.1 Redbank Township East,Governor,,Paul Glover,GRN,3,,,Clarion County,25.1 Redbank Township East
+Clarion,25.1 Redbank Township East,Governor,,Ken V Krawchuk,LIB,5,,,Clarion County,25.1 Redbank Township East
+Clarion,25.1 Redbank Township East,Governor,,Write-in Votes,,1,,,Clarion County,25.1 Redbank Township East
+Clarion,25.1 Redbank Township East,U.S. House,15.0,Susan Boser,DEM,46,,,Clarion County,25.1 Redbank Township East
+Clarion,25.1 Redbank Township East,U.S. House,15.0,Glenn GT Thompson,REP,213,,,Clarion County,25.1 Redbank Township East
+Clarion,25.1 Redbank Township East,U.S. House,15.0,Write-in Votes,,0,,,Clarion County,25.1 Redbank Township East
+Clarion,25.1 Redbank Township East,State House,63.0,Conrad Warner,DEM,42,,,Clarion County,25.1 Redbank Township East
+Clarion,25.1 Redbank Township East,State House,63.0,Donna Oberlander,REP,216,,,Clarion County,25.1 Redbank Township East
+Clarion,25.1 Redbank Township East,State House,63.0,Write-in Votes,,0,,,Clarion County,25.1 Redbank Township East
+Clarion,25.2 Redbank Township West,U.S. Senate,,Bob Casey Jr,DEM,67,,,Clarion County,25.2 Redbank Township West
+Clarion,25.2 Redbank Township West,U.S. Senate,,Lou Barletta Jr,REP,207,,,Clarion County,25.2 Redbank Township West
+Clarion,25.2 Redbank Township West,U.S. Senate,,Neal Gale,GRN,4,,,Clarion County,25.2 Redbank Township West
+Clarion,25.2 Redbank Township West,U.S. Senate,,Dale R Kerns Jr,LIB,2,,,Clarion County,25.2 Redbank Township West
+Clarion,25.2 Redbank Township West,U.S. Senate,,Write-in Votes,,0,,,Clarion County,25.2 Redbank Township West
+Clarion,25.2 Redbank Township West,Governor,,Tom Wolf,DEM,72,,,Clarion County,25.2 Redbank Township West
+Clarion,25.2 Redbank Township West,Governor,,Scott R Wagner,REP,204,,,Clarion County,25.2 Redbank Township West
+Clarion,25.2 Redbank Township West,Governor,,Paul Glover,GRN,2,,,Clarion County,25.2 Redbank Township West
+Clarion,25.2 Redbank Township West,Governor,,Ken V Krawchuk,LIB,4,,,Clarion County,25.2 Redbank Township West
+Clarion,25.2 Redbank Township West,Governor,,Write-in Votes,,0,,,Clarion County,25.2 Redbank Township West
+Clarion,25.2 Redbank Township West,U.S. House,15.0,Susan Boser,DEM,51,,,Clarion County,25.2 Redbank Township West
+Clarion,25.2 Redbank Township West,U.S. House,15.0,Glenn GT Thompson,REP,220,,,Clarion County,25.2 Redbank Township West
+Clarion,25.2 Redbank Township West,U.S. House,15.0,Write-in Votes,,0,,,Clarion County,25.2 Redbank Township West
+Clarion,25.2 Redbank Township West,State House,63.0,Conrad Warner,DEM,40,,,Clarion County,25.2 Redbank Township West
+Clarion,25.2 Redbank Township West,State House,63.0,Donna Oberlander,REP,240,,,Clarion County,25.2 Redbank Township West
+Clarion,25.2 Redbank Township West,State House,63.0,Write-in Votes,,0,,,Clarion County,25.2 Redbank Township West
+Clarion,26.1 Richland Township,U.S. Senate,,Bob Casey Jr,DEM,37,,,Clarion County,26.1 Richland Township
+Clarion,26.1 Richland Township,U.S. Senate,,Lou Barletta Jr,REP,130,,,Clarion County,26.1 Richland Township
+Clarion,26.1 Richland Township,U.S. Senate,,Neal Gale,GRN,0,,,Clarion County,26.1 Richland Township
+Clarion,26.1 Richland Township,U.S. Senate,,Dale R Kerns Jr,LIB,2,,,Clarion County,26.1 Richland Township
+Clarion,26.1 Richland Township,U.S. Senate,,Write-in Votes,,0,,,Clarion County,26.1 Richland Township
+Clarion,26.1 Richland Township,Governor,,Tom Wolf,DEM,43,,,Clarion County,26.1 Richland Township
+Clarion,26.1 Richland Township,Governor,,Scott R Wagner,REP,126,,,Clarion County,26.1 Richland Township
+Clarion,26.1 Richland Township,Governor,,Paul Glover,GRN,1,,,Clarion County,26.1 Richland Township
+Clarion,26.1 Richland Township,Governor,,Ken V Krawchuk,LIB,1,,,Clarion County,26.1 Richland Township
+Clarion,26.1 Richland Township,Governor,,Write-in Votes,,0,,,Clarion County,26.1 Richland Township
+Clarion,26.1 Richland Township,U.S. House,15.0,Susan Boser,DEM,34,,,Clarion County,26.1 Richland Township
+Clarion,26.1 Richland Township,U.S. House,15.0,Glenn GT Thompson,REP,136,,,Clarion County,26.1 Richland Township
+Clarion,26.1 Richland Township,U.S. House,15.0,Write-in Votes,,0,,,Clarion County,26.1 Richland Township
+Clarion,26.1 Richland Township,State House,63.0,Conrad Warner,DEM,35,,,Clarion County,26.1 Richland Township
+Clarion,26.1 Richland Township,State House,63.0,Donna Oberlander,REP,136,,,Clarion County,26.1 Richland Township
+Clarion,26.1 Richland Township,State House,63.0,Write-in Votes,,0,,,Clarion County,26.1 Richland Township
+Clarion,27.1 Rimersburg Borough,U.S. Senate,,Bob Casey Jr,DEM,89,,,Clarion County,27.1 Rimersburg Borough
+Clarion,27.1 Rimersburg Borough,U.S. Senate,,Lou Barletta Jr,REP,181,,,Clarion County,27.1 Rimersburg Borough
+Clarion,27.1 Rimersburg Borough,U.S. Senate,,Neal Gale,GRN,1,,,Clarion County,27.1 Rimersburg Borough
+Clarion,27.1 Rimersburg Borough,U.S. Senate,,Dale R Kerns Jr,LIB,0,,,Clarion County,27.1 Rimersburg Borough
+Clarion,27.1 Rimersburg Borough,U.S. Senate,,Write-in Votes,,0,,,Clarion County,27.1 Rimersburg Borough
+Clarion,27.1 Rimersburg Borough,Governor,,Tom Wolf,DEM,89,,,Clarion County,27.1 Rimersburg Borough
+Clarion,27.1 Rimersburg Borough,Governor,,Scott R Wagner,REP,181,,,Clarion County,27.1 Rimersburg Borough
+Clarion,27.1 Rimersburg Borough,Governor,,Paul Glover,GRN,0,,,Clarion County,27.1 Rimersburg Borough
+Clarion,27.1 Rimersburg Borough,Governor,,Ken V Krawchuk,LIB,2,,,Clarion County,27.1 Rimersburg Borough
+Clarion,27.1 Rimersburg Borough,Governor,,Write-in Votes,,0,,,Clarion County,27.1 Rimersburg Borough
+Clarion,27.1 Rimersburg Borough,U.S. House,15.0,Susan Boser,DEM,69,,,Clarion County,27.1 Rimersburg Borough
+Clarion,27.1 Rimersburg Borough,U.S. House,15.0,Glenn GT Thompson,REP,199,,,Clarion County,27.1 Rimersburg Borough
+Clarion,27.1 Rimersburg Borough,U.S. House,15.0,Write-in Votes,,0,,,Clarion County,27.1 Rimersburg Borough
+Clarion,27.1 Rimersburg Borough,State House,63.0,Conrad Warner,DEM,68,,,Clarion County,27.1 Rimersburg Borough
+Clarion,27.1 Rimersburg Borough,State House,63.0,Donna Oberlander,REP,200,,,Clarion County,27.1 Rimersburg Borough
+Clarion,27.1 Rimersburg Borough,State House,63.0,Write-in Votes,,2,,,Clarion County,27.1 Rimersburg Borough
+Clarion,28.1 Salem Township,U.S. Senate,,Bob Casey Jr,DEM,111,,,Clarion County,28.1 Salem Township
+Clarion,28.1 Salem Township,U.S. Senate,,Lou Barletta Jr,REP,231,,,Clarion County,28.1 Salem Township
+Clarion,28.1 Salem Township,U.S. Senate,,Neal Gale,GRN,2,,,Clarion County,28.1 Salem Township
+Clarion,28.1 Salem Township,U.S. Senate,,Dale R Kerns Jr,LIB,1,,,Clarion County,28.1 Salem Township
+Clarion,28.1 Salem Township,U.S. Senate,,Write-in Votes,,1,,,Clarion County,28.1 Salem Township
+Clarion,28.1 Salem Township,Governor,,Tom Wolf,DEM,122,,,Clarion County,28.1 Salem Township
+Clarion,28.1 Salem Township,Governor,,Scott R Wagner,REP,227,,,Clarion County,28.1 Salem Township
+Clarion,28.1 Salem Township,Governor,,Paul Glover,GRN,3,,,Clarion County,28.1 Salem Township
+Clarion,28.1 Salem Township,Governor,,Ken V Krawchuk,LIB,2,,,Clarion County,28.1 Salem Township
+Clarion,28.1 Salem Township,Governor,,Write-in Votes,,0,,,Clarion County,28.1 Salem Township
+Clarion,28.1 Salem Township,U.S. House,15.0,Susan Boser,DEM,78,,,Clarion County,28.1 Salem Township
+Clarion,28.1 Salem Township,U.S. House,15.0,Glenn GT Thompson,REP,273,,,Clarion County,28.1 Salem Township
+Clarion,28.1 Salem Township,U.S. House,15.0,Write-in Votes,,0,,,Clarion County,28.1 Salem Township
+Clarion,28.1 Salem Township,State House,63.0,Conrad Warner,DEM,110,,,Clarion County,28.1 Salem Township
+Clarion,28.1 Salem Township,State House,63.0,Donna Oberlander,REP,250,,,Clarion County,28.1 Salem Township
+Clarion,28.1 Salem Township,State House,63.0,Write-in Votes,,0,,,Clarion County,28.1 Salem Township
+Clarion,29.1 Shippenville Borough,U.S. Senate,,Bob Casey Jr,DEM,71,,,Clarion County,29.1 Shippenville Borough
+Clarion,29.1 Shippenville Borough,U.S. Senate,,Lou Barletta Jr,REP,112,,,Clarion County,29.1 Shippenville Borough
+Clarion,29.1 Shippenville Borough,U.S. Senate,,Neal Gale,GRN,1,,,Clarion County,29.1 Shippenville Borough
+Clarion,29.1 Shippenville Borough,U.S. Senate,,Dale R Kerns Jr,LIB,3,,,Clarion County,29.1 Shippenville Borough
+Clarion,29.1 Shippenville Borough,U.S. Senate,,Write-in Votes,,0,,,Clarion County,29.1 Shippenville Borough
+Clarion,29.1 Shippenville Borough,Governor,,Tom Wolf,DEM,74,,,Clarion County,29.1 Shippenville Borough
+Clarion,29.1 Shippenville Borough,Governor,,Scott R Wagner,REP,113,,,Clarion County,29.1 Shippenville Borough
+Clarion,29.1 Shippenville Borough,Governor,,Paul Glover,GRN,1,,,Clarion County,29.1 Shippenville Borough
+Clarion,29.1 Shippenville Borough,Governor,,Ken V Krawchuk,LIB,1,,,Clarion County,29.1 Shippenville Borough
+Clarion,29.1 Shippenville Borough,Governor,,Write-in Votes,,0,,,Clarion County,29.1 Shippenville Borough
+Clarion,29.1 Shippenville Borough,U.S. House,15.0,Susan Boser,DEM,63,,,Clarion County,29.1 Shippenville Borough
+Clarion,29.1 Shippenville Borough,U.S. House,15.0,Glenn GT Thompson,REP,124,,,Clarion County,29.1 Shippenville Borough
+Clarion,29.1 Shippenville Borough,U.S. House,15.0,Write-in Votes,,0,,,Clarion County,29.1 Shippenville Borough
+Clarion,29.1 Shippenville Borough,State House,63.0,Conrad Warner,DEM,73,,,Clarion County,29.1 Shippenville Borough
+Clarion,29.1 Shippenville Borough,State House,63.0,Donna Oberlander,REP,115,,,Clarion County,29.1 Shippenville Borough
+Clarion,29.1 Shippenville Borough,State House,63.0,Write-in Votes,,0,,,Clarion County,29.1 Shippenville Borough
+Clarion,30.1 Sligo Borough,U.S. Senate,,Bob Casey Jr,DEM,68,,,Clarion County,30.1 Sligo Borough
+Clarion,30.1 Sligo Borough,U.S. Senate,,Lou Barletta Jr,REP,145,,,Clarion County,30.1 Sligo Borough
+Clarion,30.1 Sligo Borough,U.S. Senate,,Neal Gale,GRN,0,,,Clarion County,30.1 Sligo Borough
+Clarion,30.1 Sligo Borough,U.S. Senate,,Dale R Kerns Jr,LIB,3,,,Clarion County,30.1 Sligo Borough
+Clarion,30.1 Sligo Borough,U.S. Senate,,Write-in Votes,,0,,,Clarion County,30.1 Sligo Borough
+Clarion,30.1 Sligo Borough,Governor,,Tom Wolf,DEM,74,,,Clarion County,30.1 Sligo Borough
+Clarion,30.1 Sligo Borough,Governor,,Scott R Wagner,REP,141,,,Clarion County,30.1 Sligo Borough
+Clarion,30.1 Sligo Borough,Governor,,Paul Glover,GRN,1,,,Clarion County,30.1 Sligo Borough
+Clarion,30.1 Sligo Borough,Governor,,Ken V Krawchuk,LIB,2,,,Clarion County,30.1 Sligo Borough
+Clarion,30.1 Sligo Borough,Governor,,Write-in Votes,,0,,,Clarion County,30.1 Sligo Borough
+Clarion,30.1 Sligo Borough,U.S. House,15.0,Susan Boser,DEM,51,,,Clarion County,30.1 Sligo Borough
+Clarion,30.1 Sligo Borough,U.S. House,15.0,Glenn GT Thompson,REP,157,,,Clarion County,30.1 Sligo Borough
+Clarion,30.1 Sligo Borough,U.S. House,15.0,Write-in Votes,,1,,,Clarion County,30.1 Sligo Borough
+Clarion,30.1 Sligo Borough,State House,63.0,Conrad Warner,DEM,55,,,Clarion County,30.1 Sligo Borough
+Clarion,30.1 Sligo Borough,State House,63.0,Donna Oberlander,REP,161,,,Clarion County,30.1 Sligo Borough
+Clarion,30.1 Sligo Borough,State House,63.0,Write-in Votes,,0,,,Clarion County,30.1 Sligo Borough
+Clarion,31.1 St. Petersburg Borough,U.S. Senate,,Bob Casey Jr,DEM,35,,,Clarion County,31.1 St. Petersburg Borough
+Clarion,31.1 St. Petersburg Borough,U.S. Senate,,Lou Barletta Jr,REP,73,,,Clarion County,31.1 St. Petersburg Borough
+Clarion,31.1 St. Petersburg Borough,U.S. Senate,,Neal Gale,GRN,1,,,Clarion County,31.1 St. Petersburg Borough
+Clarion,31.1 St. Petersburg Borough,U.S. Senate,,Dale R Kerns Jr,LIB,1,,,Clarion County,31.1 St. Petersburg Borough
+Clarion,31.1 St. Petersburg Borough,U.S. Senate,,Write-in Votes,,0,,,Clarion County,31.1 St. Petersburg Borough
+Clarion,31.1 St. Petersburg Borough,Governor,,Tom Wolf,DEM,39,,,Clarion County,31.1 St. Petersburg Borough
+Clarion,31.1 St. Petersburg Borough,Governor,,Scott R Wagner,REP,73,,,Clarion County,31.1 St. Petersburg Borough
+Clarion,31.1 St. Petersburg Borough,Governor,,Paul Glover,GRN,0,,,Clarion County,31.1 St. Petersburg Borough
+Clarion,31.1 St. Petersburg Borough,Governor,,Ken V Krawchuk,LIB,1,,,Clarion County,31.1 St. Petersburg Borough
+Clarion,31.1 St. Petersburg Borough,Governor,,Write-in Votes,,0,,,Clarion County,31.1 St. Petersburg Borough
+Clarion,31.1 St. Petersburg Borough,U.S. House,15.0,Susan Boser,DEM,20,,,Clarion County,31.1 St. Petersburg Borough
+Clarion,31.1 St. Petersburg Borough,U.S. House,15.0,Glenn GT Thompson,REP,89,,,Clarion County,31.1 St. Petersburg Borough
+Clarion,31.1 St. Petersburg Borough,U.S. House,15.0,Write-in Votes,,0,,,Clarion County,31.1 St. Petersburg Borough
+Clarion,31.1 St. Petersburg Borough,State House,63.0,Conrad Warner,DEM,18,,,Clarion County,31.1 St. Petersburg Borough
+Clarion,31.1 St. Petersburg Borough,State House,63.0,Donna Oberlander,REP,95,,,Clarion County,31.1 St. Petersburg Borough
+Clarion,31.1 St. Petersburg Borough,State House,63.0,Write-in Votes,,0,,,Clarion County,31.1 St. Petersburg Borough
+Clarion,32.1 Strattanville Borough,U.S. Senate,,Bob Casey Jr,DEM,52,,,Clarion County,32.1 Strattanville Borough
+Clarion,32.1 Strattanville Borough,U.S. Senate,,Lou Barletta Jr,REP,116,,,Clarion County,32.1 Strattanville Borough
+Clarion,32.1 Strattanville Borough,U.S. Senate,,Neal Gale,GRN,2,,,Clarion County,32.1 Strattanville Borough
+Clarion,32.1 Strattanville Borough,U.S. Senate,,Dale R Kerns Jr,LIB,2,,,Clarion County,32.1 Strattanville Borough
+Clarion,32.1 Strattanville Borough,U.S. Senate,,Write-in Votes,,0,,,Clarion County,32.1 Strattanville Borough
+Clarion,32.1 Strattanville Borough,Governor,,Tom Wolf,DEM,48,,,Clarion County,32.1 Strattanville Borough
+Clarion,32.1 Strattanville Borough,Governor,,Scott R Wagner,REP,117,,,Clarion County,32.1 Strattanville Borough
+Clarion,32.1 Strattanville Borough,Governor,,Paul Glover,GRN,2,,,Clarion County,32.1 Strattanville Borough
+Clarion,32.1 Strattanville Borough,Governor,,Ken V Krawchuk,LIB,4,,,Clarion County,32.1 Strattanville Borough
+Clarion,32.1 Strattanville Borough,Governor,,Write-in Votes,,0,,,Clarion County,32.1 Strattanville Borough
+Clarion,32.1 Strattanville Borough,U.S. House,15.0,Susan Boser,DEM,37,,,Clarion County,32.1 Strattanville Borough
+Clarion,32.1 Strattanville Borough,U.S. House,15.0,Glenn GT Thompson,REP,133,,,Clarion County,32.1 Strattanville Borough
+Clarion,32.1 Strattanville Borough,U.S. House,15.0,Write-in Votes,,0,,,Clarion County,32.1 Strattanville Borough
+Clarion,32.1 Strattanville Borough,State House,63.0,Conrad Warner,DEM,40,,,Clarion County,32.1 Strattanville Borough
+Clarion,32.1 Strattanville Borough,State House,63.0,Donna Oberlander,REP,132,,,Clarion County,32.1 Strattanville Borough
+Clarion,32.1 Strattanville Borough,State House,63.0,Write-in Votes,,0,,,Clarion County,32.1 Strattanville Borough
+Clarion,33.1 Toby Township,U.S. Senate,,Bob Casey Jr,DEM,97,,,Clarion County,33.1 Toby Township
+Clarion,33.1 Toby Township,U.S. Senate,,Lou Barletta Jr,REP,220,,,Clarion County,33.1 Toby Township
+Clarion,33.1 Toby Township,U.S. Senate,,Neal Gale,GRN,1,,,Clarion County,33.1 Toby Township
+Clarion,33.1 Toby Township,U.S. Senate,,Dale R Kerns Jr,LIB,0,,,Clarion County,33.1 Toby Township
+Clarion,33.1 Toby Township,U.S. Senate,,Write-in Votes,,0,,,Clarion County,33.1 Toby Township
+Clarion,33.1 Toby Township,Governor,,Tom Wolf,DEM,102,,,Clarion County,33.1 Toby Township
+Clarion,33.1 Toby Township,Governor,,Scott R Wagner,REP,213,,,Clarion County,33.1 Toby Township
+Clarion,33.1 Toby Township,Governor,,Paul Glover,GRN,2,,,Clarion County,33.1 Toby Township
+Clarion,33.1 Toby Township,Governor,,Ken V Krawchuk,LIB,2,,,Clarion County,33.1 Toby Township
+Clarion,33.1 Toby Township,Governor,,Write-in Votes,,0,,,Clarion County,33.1 Toby Township
+Clarion,33.1 Toby Township,U.S. House,15.0,Susan Boser,DEM,67,,,Clarion County,33.1 Toby Township
+Clarion,33.1 Toby Township,U.S. House,15.0,Glenn GT Thompson,REP,242,,,Clarion County,33.1 Toby Township
+Clarion,33.1 Toby Township,U.S. House,15.0,Write-in Votes,,0,,,Clarion County,33.1 Toby Township
+Clarion,33.1 Toby Township,State House,63.0,Conrad Warner,DEM,68,,,Clarion County,33.1 Toby Township
+Clarion,33.1 Toby Township,State House,63.0,Donna Oberlander,REP,252,,,Clarion County,33.1 Toby Township
+Clarion,33.1 Toby Township,State House,63.0,Write-in Votes,,0,,,Clarion County,33.1 Toby Township
+Clarion,34.1 Washington Township,U.S. Senate,,Bob Casey Jr,DEM,214,,,Clarion County,34.1 Washington Township
+Clarion,34.1 Washington Township,U.S. Senate,,Lou Barletta Jr,REP,394,,,Clarion County,34.1 Washington Township
+Clarion,34.1 Washington Township,U.S. Senate,,Neal Gale,GRN,1,,,Clarion County,34.1 Washington Township
+Clarion,34.1 Washington Township,U.S. Senate,,Dale R Kerns Jr,LIB,5,,,Clarion County,34.1 Washington Township
+Clarion,34.1 Washington Township,U.S. Senate,,Write-in Votes,,0,,,Clarion County,34.1 Washington Township
+Clarion,34.1 Washington Township,Governor,,Tom Wolf,DEM,220,,,Clarion County,34.1 Washington Township
+Clarion,34.1 Washington Township,Governor,,Scott R Wagner,REP,385,,,Clarion County,34.1 Washington Township
+Clarion,34.1 Washington Township,Governor,,Paul Glover,GRN,5,,,Clarion County,34.1 Washington Township
+Clarion,34.1 Washington Township,Governor,,Ken V Krawchuk,LIB,7,,,Clarion County,34.1 Washington Township
+Clarion,34.1 Washington Township,Governor,,Write-in Votes,,0,,,Clarion County,34.1 Washington Township
+Clarion,34.1 Washington Township,U.S. House,15.0,Susan Boser,DEM,174,,,Clarion County,34.1 Washington Township
+Clarion,34.1 Washington Township,U.S. House,15.0,Glenn GT Thompson,REP,438,,,Clarion County,34.1 Washington Township
+Clarion,34.1 Washington Township,U.S. House,15.0,Write-in Votes,,0,,,Clarion County,34.1 Washington Township
+Clarion,34.1 Washington Township,State House,63.0,Conrad Warner,DEM,183,,,Clarion County,34.1 Washington Township
+Clarion,34.1 Washington Township,State House,63.0,Donna Oberlander,REP,431,,,Clarion County,34.1 Washington Township
+Clarion,34.1 Washington Township,State House,63.0,Write-in Votes,,1,,,Clarion County,34.1 Washington Township

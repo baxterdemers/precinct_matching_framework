@@ -1,0 +1,181 @@
+county,precinct,office,district,candidate,party,votes,election_day,absentee,county_id,original_precinct_name
+Montour,0001 Anthony TWP,U.S. Senate,,Bob Casey Jr.,DEM,152.0,,,Montour County,0001 Anthony TWP
+Montour,0001 Anthony TWP,U.S. Senate,,Lou Barletta,REP,359.0,,,Montour County,0001 Anthony TWP
+Montour,0001 Anthony TWP,U.S. Senate,,Neal Gale,GRN,5.0,,,Montour County,0001 Anthony TWP
+Montour,0001 Anthony TWP,U.S. Senate,,Dale R. Kerns Jr.,LIB,5.0,,,Montour County,0001 Anthony TWP
+Montour,0001 Anthony TWP,Governor,,Wolf / Fetterman,DEM,168.0,,,Montour County,0001 Anthony TWP
+Montour,0001 Anthony TWP,Governor,,Wagner / Bartos,REP,341.0,,,Montour County,0001 Anthony TWP
+Montour,0001 Anthony TWP,Governor,,Glover / Bowser Bostick,GRN,3.0,,,Montour County,0001 Anthony TWP
+Montour,0001 Anthony TWP,Governor,,Krawchuk / Smith,LIB,7.0,,,Montour County,0001 Anthony TWP
+Montour,0001 Anthony TWP,U.S. House,9.0,Denny Wolff,DEM,171.0,,,Montour County,0001 Anthony TWP
+Montour,0001 Anthony TWP,U.S. House,9.0,Dan Meuser,REP,349.0,,,Montour County,0001 Anthony TWP
+Montour,0001 Anthony TWP,State House,107.0,Sarah Donnelly,DEM,127.0,,,Montour County,0001 Anthony TWP
+Montour,0001 Anthony TWP,State House,107.0,Kurt A. Masser,REP,392.0,,,Montour County,0001 Anthony TWP
+Montour,0002 Cooper TWP,U.S. Senate,,Bob Casey Jr.,DEM,138.0,,,Montour County,0002 Cooper TWP
+Montour,0002 Cooper TWP,U.S. Senate,,Lou Barletta,REP,253.0,,,Montour County,0002 Cooper TWP
+Montour,0002 Cooper TWP,U.S. Senate,,Neal Gale,GRN,2.0,,,Montour County,0002 Cooper TWP
+Montour,0002 Cooper TWP,U.S. Senate,,Dale R. Kerns Jr.,LIB,5.0,,,Montour County,0002 Cooper TWP
+Montour,0002 Cooper TWP,Governor,,Wolf / Fetterman,DEM,153.0,,,Montour County,0002 Cooper TWP
+Montour,0002 Cooper TWP,Governor,,Wagner / Bartos,REP,232.0,,,Montour County,0002 Cooper TWP
+Montour,0002 Cooper TWP,Governor,,Glover / Bowser Bostick,GRN,3.0,,,Montour County,0002 Cooper TWP
+Montour,0002 Cooper TWP,Governor,,Krawchuk / Smith,LIB,7.0,,,Montour County,0002 Cooper TWP
+Montour,0002 Cooper TWP,U.S. House,9.0,Denny Wolff,DEM,152.0,,,Montour County,0002 Cooper TWP
+Montour,0002 Cooper TWP,U.S. House,9.0,Dan Meuser,REP,245.0,,,Montour County,0002 Cooper TWP
+Montour,0002 Cooper TWP,State House,107.0,Sarah Donnelly,DEM,110.0,,,Montour County,0002 Cooper TWP
+Montour,0002 Cooper TWP,State House,107.0,Kurt A. Masser,REP,281.0,,,Montour County,0002 Cooper TWP
+Montour,0003 Danville Boro First,U.S. Senate,,Bob Casey Jr.,DEM,227.0,,,Montour County,0003 Danville Boro First
+Montour,0003 Danville Boro First,U.S. Senate,,Lou Barletta,REP,137.0,,,Montour County,0003 Danville Boro First
+Montour,0003 Danville Boro First,U.S. Senate,,Neal Gale,GRN,5.0,,,Montour County,0003 Danville Boro First
+Montour,0003 Danville Boro First,U.S. Senate,,Dale R. Kerns Jr.,LIB,5.0,,,Montour County,0003 Danville Boro First
+Montour,0003 Danville Boro First,Governor,,Wolf / Fetterman,DEM,237.0,,,Montour County,0003 Danville Boro First
+Montour,0003 Danville Boro First,Governor,,Wagner / Bartos,REP,125.0,,,Montour County,0003 Danville Boro First
+Montour,0003 Danville Boro First,Governor,,Glover / Bowser Bostick,GRN,7.0,,,Montour County,0003 Danville Boro First
+Montour,0003 Danville Boro First,Governor,,Krawchuk / Smith,LIB,5.0,,,Montour County,0003 Danville Boro First
+Montour,0003 Danville Boro First,U.S. House,9.0,Denny Wolff,DEM,228.0,,,Montour County,0003 Danville Boro First
+Montour,0003 Danville Boro First,U.S. House,9.0,Dan Meuser,REP,141.0,,,Montour County,0003 Danville Boro First
+Montour,0003 Danville Boro First,State House,107.0,Sarah Donnelly,DEM,185.0,,,Montour County,0003 Danville Boro First
+Montour,0003 Danville Boro First,State House,107.0,Kurt A. Masser,REP,184.0,,,Montour County,0003 Danville Boro First
+Montour,0004 Danville Boro Second,U.S. Senate,,Bob Casey Jr.,DEM,187.0,,,Montour County,0004 Danville Boro Second
+Montour,0004 Danville Boro Second,U.S. Senate,,Lou Barletta,REP,204.0,,,Montour County,0004 Danville Boro Second
+Montour,0004 Danville Boro Second,U.S. Senate,,Neal Gale,GRN,4.0,,,Montour County,0004 Danville Boro Second
+Montour,0004 Danville Boro Second,U.S. Senate,,Dale R. Kerns Jr.,LIB,2.0,,,Montour County,0004 Danville Boro Second
+Montour,0004 Danville Boro Second,Governor,,Wolf / Fetterman,DEM,207.0,,,Montour County,0004 Danville Boro Second
+Montour,0004 Danville Boro Second,Governor,,Wagner / Bartos,REP,184.0,,,Montour County,0004 Danville Boro Second
+Montour,0004 Danville Boro Second,Governor,,Glover / Bowser Bostick,GRN,2.0,,,Montour County,0004 Danville Boro Second
+Montour,0004 Danville Boro Second,Governor,,Krawchuk / Smith,LIB,4.0,,,Montour County,0004 Danville Boro Second
+Montour,0004 Danville Boro Second,U.S. House,9.0,Denny Wolff,DEM,195.0,,,Montour County,0004 Danville Boro Second
+Montour,0004 Danville Boro Second,U.S. House,9.0,Dan Meuser,REP,200.0,,,Montour County,0004 Danville Boro Second
+Montour,0004 Danville Boro Second,State House,107.0,Sarah Donnelly,DEM,155.0,,,Montour County,0004 Danville Boro Second
+Montour,0004 Danville Boro Second,State House,107.0,Kurt A. Masser,REP,238.0,,,Montour County,0004 Danville Boro Second
+Montour,0005 Danville Boro Third,U.S. Senate,,Bob Casey Jr.,DEM,143.0,,,Montour County,0005 Danville Boro Third
+Montour,0005 Danville Boro Third,U.S. Senate,,Lou Barletta,REP,107.0,,,Montour County,0005 Danville Boro Third
+Montour,0005 Danville Boro Third,U.S. Senate,,Neal Gale,GRN,4.0,,,Montour County,0005 Danville Boro Third
+Montour,0005 Danville Boro Third,U.S. Senate,,Dale R. Kerns Jr.,LIB,4.0,,,Montour County,0005 Danville Boro Third
+Montour,0005 Danville Boro Third,Governor,,Wolf / Fetterman,DEM,144.0,,,Montour County,0005 Danville Boro Third
+Montour,0005 Danville Boro Third,Governor,,Wagner / Bartos,REP,107.0,,,Montour County,0005 Danville Boro Third
+Montour,0005 Danville Boro Third,Governor,,Glover / Bowser Bostick,GRN,3.0,,,Montour County,0005 Danville Boro Third
+Montour,0005 Danville Boro Third,Governor,,Krawchuk / Smith,LIB,4.0,,,Montour County,0005 Danville Boro Third
+Montour,0005 Danville Boro Third,U.S. House,9.0,Denny Wolff,DEM,146.0,,,Montour County,0005 Danville Boro Third
+Montour,0005 Danville Boro Third,U.S. House,9.0,Dan Meuser,REP,111.0,,,Montour County,0005 Danville Boro Third
+Montour,0005 Danville Boro Third,State House,107.0,Sarah Donnelly,DEM,126.0,,,Montour County,0005 Danville Boro Third
+Montour,0005 Danville Boro Third,State House,107.0,Kurt A. Masser,REP,129.0,,,Montour County,0005 Danville Boro Third
+Montour,0006 Danville Boro Fourth,U.S. Senate,,Bob Casey Jr.,DEM,193.0,,,Montour County,0006 Danville Boro Fourth
+Montour,0006 Danville Boro Fourth,U.S. Senate,,Lou Barletta,REP,175.0,,,Montour County,0006 Danville Boro Fourth
+Montour,0006 Danville Boro Fourth,U.S. Senate,,Neal Gale,GRN,4.0,,,Montour County,0006 Danville Boro Fourth
+Montour,0006 Danville Boro Fourth,U.S. Senate,,Dale R. Kerns Jr.,LIB,5.0,,,Montour County,0006 Danville Boro Fourth
+Montour,0006 Danville Boro Fourth,Governor,,Wolf / Fetterman,DEM,202.0,,,Montour County,0006 Danville Boro Fourth
+Montour,0006 Danville Boro Fourth,Governor,,Wagner / Bartos,REP,166.0,,,Montour County,0006 Danville Boro Fourth
+Montour,0006 Danville Boro Fourth,Governor,,Glover / Bowser Bostick,GRN,2.0,,,Montour County,0006 Danville Boro Fourth
+Montour,0006 Danville Boro Fourth,Governor,,Krawchuk / Smith,LIB,6.0,,,Montour County,0006 Danville Boro Fourth
+Montour,0006 Danville Boro Fourth,U.S. House,9.0,Denny Wolff,DEM,194.0,,,Montour County,0006 Danville Boro Fourth
+Montour,0006 Danville Boro Fourth,U.S. House,9.0,Dan Meuser,REP,181.0,,,Montour County,0006 Danville Boro Fourth
+Montour,0006 Danville Boro Fourth,State House,107.0,Sarah Donnelly,DEM,152.0,,,Montour County,0006 Danville Boro Fourth
+Montour,0006 Danville Boro Fourth,State House,107.0,Kurt A. Masser,REP,220.0,,,Montour County,0006 Danville Boro Fourth
+Montour,0007 Derry TWP,U.S. Senate,,Bob Casey Jr.,DEM,107.0,,,Montour County,0007 Derry TWP
+Montour,0007 Derry TWP,U.S. Senate,,Lou Barletta,REP,218.0,,,Montour County,0007 Derry TWP
+Montour,0007 Derry TWP,U.S. Senate,,Neal Gale,GRN,0.0,,,Montour County,0007 Derry TWP
+Montour,0007 Derry TWP,U.S. Senate,,Dale R. Kerns Jr.,LIB,1.0,,,Montour County,0007 Derry TWP
+Montour,0007 Derry TWP,Governor,,Wolf / Fetterman,DEM,111.0,,,Montour County,0007 Derry TWP
+Montour,0007 Derry TWP,Governor,,Wagner / Bartos,REP,213.0,,,Montour County,0007 Derry TWP
+Montour,0007 Derry TWP,Governor,,Glover / Bowser Bostick,GRN,0.0,,,Montour County,0007 Derry TWP
+Montour,0007 Derry TWP,Governor,,Krawchuk / Smith,LIB,2.0,,,Montour County,0007 Derry TWP
+Montour,0007 Derry TWP,U.S. House,9.0,Denny Wolff,DEM,109.0,,,Montour County,0007 Derry TWP
+Montour,0007 Derry TWP,U.S. House,9.0,Dan Meuser,REP,217.0,,,Montour County,0007 Derry TWP
+Montour,0007 Derry TWP,State House,107.0,Sarah Donnelly,DEM,73.0,,,Montour County,0007 Derry TWP
+Montour,0007 Derry TWP,State House,107.0,Kurt A. Masser,REP,253.0,,,Montour County,0007 Derry TWP
+Montour,0008 Liberty TWP,U.S. Senate,,Bob Casey Jr.,DEM,231.0,,,Montour County,0008 Liberty TWP
+Montour,0008 Liberty TWP,U.S. Senate,,Lou Barletta,REP,496.0,,,Montour County,0008 Liberty TWP
+Montour,0008 Liberty TWP,U.S. Senate,,Neal Gale,GRN,6.0,,,Montour County,0008 Liberty TWP
+Montour,0008 Liberty TWP,U.S. Senate,,Dale R. Kerns Jr.,LIB,8.0,,,Montour County,0008 Liberty TWP
+Montour,0008 Liberty TWP,Governor,,Wolf / Fetterman,DEM,269.0,,,Montour County,0008 Liberty TWP
+Montour,0008 Liberty TWP,Governor,,Wagner / Bartos,REP,453.0,,,Montour County,0008 Liberty TWP
+Montour,0008 Liberty TWP,Governor,,Glover / Bowser Bostick,GRN,5.0,,,Montour County,0008 Liberty TWP
+Montour,0008 Liberty TWP,Governor,,Krawchuk / Smith,LIB,11.0,,,Montour County,0008 Liberty TWP
+Montour,0008 Liberty TWP,U.S. House,9.0,Denny Wolff,DEM,247.0,,,Montour County,0008 Liberty TWP
+Montour,0008 Liberty TWP,U.S. House,9.0,Dan Meuser,REP,491.0,,,Montour County,0008 Liberty TWP
+Montour,0008 Liberty TWP,State House,107.0,Sarah Donnelly,DEM,197.0,,,Montour County,0008 Liberty TWP
+Montour,0008 Liberty TWP,State House,107.0,Kurt A. Masser,REP,540.0,,,Montour County,0008 Liberty TWP
+Montour,0009 Limestone TWP,U.S. Senate,,Bob Casey Jr.,DEM,91.0,,,Montour County,0009 Limestone TWP
+Montour,0009 Limestone TWP,U.S. Senate,,Lou Barletta,REP,288.0,,,Montour County,0009 Limestone TWP
+Montour,0009 Limestone TWP,U.S. Senate,,Neal Gale,GRN,1.0,,,Montour County,0009 Limestone TWP
+Montour,0009 Limestone TWP,U.S. Senate,,Dale R. Kerns Jr.,LIB,2.0,,,Montour County,0009 Limestone TWP
+Montour,0009 Limestone TWP,Governor,,Wolf / Fetterman,DEM,109.0,,,Montour County,0009 Limestone TWP
+Montour,0009 Limestone TWP,Governor,,Wagner / Bartos,REP,270.0,,,Montour County,0009 Limestone TWP
+Montour,0009 Limestone TWP,Governor,,Glover / Bowser Bostick,GRN,0.0,,,Montour County,0009 Limestone TWP
+Montour,0009 Limestone TWP,Governor,,Krawchuk / Smith,LIB,3.0,,,Montour County,0009 Limestone TWP
+Montour,0009 Limestone TWP,U.S. House,9.0,Denny Wolff,DEM,100.0,,,Montour County,0009 Limestone TWP
+Montour,0009 Limestone TWP,U.S. House,9.0,Dan Meuser,REP,280.0,,,Montour County,0009 Limestone TWP
+Montour,0009 Limestone TWP,State House,107.0,Sarah Donnelly,DEM,69.0,,,Montour County,0009 Limestone TWP
+Montour,0009 Limestone TWP,State House,107.0,Kurt A. Masser,REP,312.0,,,Montour County,0009 Limestone TWP
+Montour,0010 Mahoning I,U.S. Senate,,Bob Casey Jr.,DEM,624.0,,,Montour County,0010 Mahoning I
+Montour,0010 Mahoning I,U.S. Senate,,Lou Barletta,REP,533.0,,,Montour County,0010 Mahoning I
+Montour,0010 Mahoning I,U.S. Senate,,Neal Gale,GRN,5.0,,,Montour County,0010 Mahoning I
+Montour,0010 Mahoning I,U.S. Senate,,Dale R. Kerns Jr.,LIB,10.0,,,Montour County,0010 Mahoning I
+Montour,0010 Mahoning I,Governor,,Wolf / Fetterman,DEM,672.0,,,Montour County,0010 Mahoning I
+Montour,0010 Mahoning I,Governor,,Wagner / Bartos,REP,476.0,,,Montour County,0010 Mahoning I
+Montour,0010 Mahoning I,Governor,,Glover / Bowser Bostick,GRN,4.0,,,Montour County,0010 Mahoning I
+Montour,0010 Mahoning I,Governor,,Krawchuk / Smith,LIB,15.0,,,Montour County,0010 Mahoning I
+Montour,0010 Mahoning I,U.S. House,9.0,Denny Wolff,DEM,633.0,,,Montour County,0010 Mahoning I
+Montour,0010 Mahoning I,U.S. House,9.0,Dan Meuser,REP,529.0,,,Montour County,0010 Mahoning I
+Montour,0010 Mahoning I,State House,107.0,Sarah Donnelly,DEM,528.0,,,Montour County,0010 Mahoning I
+Montour,0010 Mahoning I,State House,107.0,Kurt A. Masser,REP,633.0,,,Montour County,0010 Mahoning I
+Montour,0011 Mahoning II,U.S. Senate,,Bob Casey Jr.,DEM,316.0,,,Montour County,0011 Mahoning II
+Montour,0011 Mahoning II,U.S. Senate,,Lou Barletta,REP,291.0,,,Montour County,0011 Mahoning II
+Montour,0011 Mahoning II,U.S. Senate,,Neal Gale,GRN,4.0,,,Montour County,0011 Mahoning II
+Montour,0011 Mahoning II,U.S. Senate,,Dale R. Kerns Jr.,LIB,7.0,,,Montour County,0011 Mahoning II
+Montour,0011 Mahoning II,Governor,,Wolf / Fetterman,DEM,347.0,,,Montour County,0011 Mahoning II
+Montour,0011 Mahoning II,Governor,,Wagner / Bartos,REP,256.0,,,Montour County,0011 Mahoning II
+Montour,0011 Mahoning II,Governor,,Glover / Bowser Bostick,GRN,3.0,,,Montour County,0011 Mahoning II
+Montour,0011 Mahoning II,Governor,,Krawchuk / Smith,LIB,8.0,,,Montour County,0011 Mahoning II
+Montour,0011 Mahoning II,U.S. House,9.0,Denny Wolff,DEM,316.0,,,Montour County,0011 Mahoning II
+Montour,0011 Mahoning II,U.S. House,9.0,Dan Meuser,REP,299.0,,,Montour County,0011 Mahoning II
+Montour,0011 Mahoning II,State House,107.0,Sarah Donnelly,DEM,262.0,,,Montour County,0011 Mahoning II
+Montour,0011 Mahoning II,State House,107.0,Kurt A. Masser,REP,353.0,,,Montour County,0011 Mahoning II
+Montour,0012 Mayberry TWP,U.S. Senate,,Bob Casey Jr.,DEM,48.0,,,Montour County,0012 Mayberry TWP
+Montour,0012 Mayberry TWP,U.S. Senate,,Lou Barletta,REP,82.0,,,Montour County,0012 Mayberry TWP
+Montour,0012 Mayberry TWP,U.S. Senate,,Neal Gale,GRN,1.0,,,Montour County,0012 Mayberry TWP
+Montour,0012 Mayberry TWP,U.S. Senate,,Dale R. Kerns Jr.,LIB,3.0,,,Montour County,0012 Mayberry TWP
+Montour,0012 Mayberry TWP,Governor,,Wolf / Fetterman,DEM,54.0,,,Montour County,0012 Mayberry TWP
+Montour,0012 Mayberry TWP,Governor,,Wagner / Bartos,REP,76.0,,,Montour County,0012 Mayberry TWP
+Montour,0012 Mayberry TWP,Governor,,Glover / Bowser Bostick,GRN,1.0,,,Montour County,0012 Mayberry TWP
+Montour,0012 Mayberry TWP,Governor,,Krawchuk / Smith,LIB,3.0,,,Montour County,0012 Mayberry TWP
+Montour,0012 Mayberry TWP,U.S. House,9.0,Denny Wolff,DEM,50.0,,,Montour County,0012 Mayberry TWP
+Montour,0012 Mayberry TWP,U.S. House,9.0,Dan Meuser,REP,84.0,,,Montour County,0012 Mayberry TWP
+Montour,0012 Mayberry TWP,State House,107.0,Sarah Donnelly,DEM,29.0,,,Montour County,0012 Mayberry TWP
+Montour,0012 Mayberry TWP,State House,107.0,Kurt A. Masser,REP,105.0,,,Montour County,0012 Mayberry TWP
+Montour,0013 Valley TWP,U.S. Senate,,Bob Casey Jr.,DEM,390.0,,,Montour County,0013 Valley TWP
+Montour,0013 Valley TWP,U.S. Senate,,Lou Barletta,REP,627.0,,,Montour County,0013 Valley TWP
+Montour,0013 Valley TWP,U.S. Senate,,Neal Gale,GRN,7.0,,,Montour County,0013 Valley TWP
+Montour,0013 Valley TWP,U.S. Senate,,Dale R. Kerns Jr.,LIB,15.0,,,Montour County,0013 Valley TWP
+Montour,0013 Valley TWP,Governor,,Wolf / Fetterman,DEM,427.0,,,Montour County,0013 Valley TWP
+Montour,0013 Valley TWP,Governor,,Wagner / Bartos,REP,578.0,,,Montour County,0013 Valley TWP
+Montour,0013 Valley TWP,Governor,,Glover / Bowser Bostick,GRN,13.0,,,Montour County,0013 Valley TWP
+Montour,0013 Valley TWP,Governor,,Krawchuk / Smith,LIB,21.0,,,Montour County,0013 Valley TWP
+Montour,0013 Valley TWP,U.S. House,9.0,Denny Wolff,DEM,403.0,,,Montour County,0013 Valley TWP
+Montour,0013 Valley TWP,U.S. House,9.0,Dan Meuser,REP,624.0,,,Montour County,0013 Valley TWP
+Montour,0013 Valley TWP,State House,107.0,Sarah Donnelly,DEM,313.0,,,Montour County,0013 Valley TWP
+Montour,0013 Valley TWP,State House,107.0,Kurt A. Masser,REP,721.0,,,Montour County,0013 Valley TWP
+Montour,0014 Washingtonville Bor,U.S. Senate,,Bob Casey Jr.,DEM,28.0,,,Montour County,0014 Washingtonville Bor
+Montour,0014 Washingtonville Bor,U.S. Senate,,Lou Barletta,REP,22.0,,,Montour County,0014 Washingtonville Bor
+Montour,0014 Washingtonville Bor,U.S. Senate,,Neal Gale,GRN,2.0,,,Montour County,0014 Washingtonville Bor
+Montour,0014 Washingtonville Bor,U.S. Senate,,Dale R. Kerns Jr.,LIB,1.0,,,Montour County,0014 Washingtonville Bor
+Montour,0014 Washingtonville Bor,Governor,,Wolf / Fetterman,DEM,30.0,,,Montour County,0014 Washingtonville Bor
+Montour,0014 Washingtonville Bor,Governor,,Wagner / Bartos,REP,23.0,,,Montour County,0014 Washingtonville Bor
+Montour,0014 Washingtonville Bor,Governor,,Glover / Bowser Bostick,GRN,0.0,,,Montour County,0014 Washingtonville Bor
+Montour,0014 Washingtonville Bor,Governor,,Krawchuk / Smith,LIB,0.0,,,Montour County,0014 Washingtonville Bor
+Montour,0014 Washingtonville Bor,U.S. House,9.0,Denny Wolff,DEM,31.0,,,Montour County,0014 Washingtonville Bor
+Montour,0014 Washingtonville Bor,U.S. House,9.0,Dan Meuser,REP,22.0,,,Montour County,0014 Washingtonville Bor
+Montour,0014 Washingtonville Bor,State House,107.0,Sarah Donnelly,DEM,26.0,,,Montour County,0014 Washingtonville Bor
+Montour,0014 Washingtonville Bor,State House,107.0,Kurt A. Masser,REP,28.0,,,Montour County,0014 Washingtonville Bor
+Montour,0015 West Hemlock TWP,U.S. Senate,,Bob Casey Jr.,DEM,88.0,,,Montour County,0015 West Hemlock TWP
+Montour,0015 West Hemlock TWP,U.S. Senate,,Lou Barletta,REP,149.0,,,Montour County,0015 West Hemlock TWP
+Montour,0015 West Hemlock TWP,U.S. Senate,,Neal Gale,GRN,1.0,,,Montour County,0015 West Hemlock TWP
+Montour,0015 West Hemlock TWP,U.S. Senate,,Dale R. Kerns Jr.,LIB,0.0,,,Montour County,0015 West Hemlock TWP
+Montour,0015 West Hemlock TWP,Governor,,Wolf / Fetterman,DEM,94.0,,,Montour County,0015 West Hemlock TWP
+Montour,0015 West Hemlock TWP,Governor,,Wagner / Bartos,REP,140.0,,,Montour County,0015 West Hemlock TWP
+Montour,0015 West Hemlock TWP,Governor,,Glover / Bowser Bostick,GRN,2.0,,,Montour County,0015 West Hemlock TWP
+Montour,0015 West Hemlock TWP,Governor,,Krawchuk / Smith,LIB,1.0,,,Montour County,0015 West Hemlock TWP
+Montour,0015 West Hemlock TWP,U.S. House,9.0,Denny Wolff,DEM,97.0,,,Montour County,0015 West Hemlock TWP
+Montour,0015 West Hemlock TWP,U.S. House,9.0,Dan Meuser,REP,140.0,,,Montour County,0015 West Hemlock TWP
+Montour,0015 West Hemlock TWP,State House,107.0,Sarah Donnelly,DEM,65.0,,,Montour County,0015 West Hemlock TWP
+Montour,0015 West Hemlock TWP,State House,107.0,Kurt A. Masser,REP,172.0,,,Montour County,0015 West Hemlock TWP

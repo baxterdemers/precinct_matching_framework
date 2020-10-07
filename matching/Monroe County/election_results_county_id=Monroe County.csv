@@ -1,0 +1,785 @@
+county,precinct,office,district,candidate,party,votes,election_day,absentee,county_id,original_precinct_name
+Monroe,Barrett One,U.S. Senate,,Bob Casey Jr.,DEM,278,,,Monroe County,Barrett One
+Monroe,Barrett Two,U.S. Senate,,Bob Casey Jr.,DEM,522,,,Monroe County,Barrett Two
+Monroe,Chestnuthill One,U.S. Senate,,Bob Casey Jr.,DEM,879,,,Monroe County,Chestnuthill One
+Monroe,Chestnuthill Two,U.S. Senate,,Bob Casey Jr.,DEM,770,,,Monroe County,Chestnuthill Two
+Monroe,Chestnuthill Three,U.S. Senate,,Bob Casey Jr.,DEM,438,,,Monroe County,Chestnuthill Three
+Monroe,Chestnuthill Four,U.S. Senate,,Bob Casey Jr.,DEM,511,,,Monroe County,Chestnuthill Four
+Monroe,Coolbaugh One,U.S. Senate,,Bob Casey Jr.,DEM,623,,,Monroe County,Coolbaugh One
+Monroe,Coolbaugh Two,U.S. Senate,,Bob Casey Jr.,DEM,513,,,Monroe County,Coolbaugh Two
+Monroe,Coolbaugh Three,U.S. Senate,,Bob Casey Jr.,DEM,1356,,,Monroe County,Coolbaugh Three
+Monroe,Coolbaugh Four,U.S. Senate,,Bob Casey Jr.,DEM,992,,,Monroe County,Coolbaugh Four
+Monroe,Delaware Water Gap,U.S. Senate,,Bob Casey Jr.,DEM,194,,,Monroe County,Delaware Water Gap
+Monroe,East Stroudsburg First Ward,U.S. Senate,,Bob Casey Jr.,DEM,244,,,Monroe County,East Stroudsburg First Ward
+Monroe,East Stroudsburg Second Ward,U.S. Senate,,Bob Casey Jr.,DEM,566,,,Monroe County,East Stroudsburg Second Ward
+Monroe,East Stroudsburg Third Ward,U.S. Senate,,Bob Casey Jr.,DEM,151,,,Monroe County,East Stroudsburg Third Ward
+Monroe,East Stroudsburg Fourth Ward,U.S. Senate,,Bob Casey Jr.,DEM,330,,,Monroe County,East Stroudsburg Fourth Ward
+Monroe,East Stroudsburg Fifth Ward,U.S. Senate,,Bob Casey Jr.,DEM,277,,,Monroe County,East Stroudsburg Fifth Ward
+Monroe,East Stroudsburg Sixth Ward,U.S. Senate,,Bob Casey Jr.,DEM,290,,,Monroe County,East Stroudsburg Sixth Ward
+Monroe,Eldred,U.S. Senate,,Bob Casey Jr.,DEM,365,,,Monroe County,Eldred
+Monroe,Hamilton Northern,U.S. Senate,,Bob Casey Jr.,DEM,952,,,Monroe County,Hamilton Northern
+Monroe,Hamilton Southern,U.S. Senate,,Bob Casey Jr.,DEM,648,,,Monroe County,Hamilton Southern
+Monroe,Jackson,U.S. Senate,,Bob Casey Jr.,DEM,1215,,,Monroe County,Jackson
+Monroe,Middle Smithfield Eastern,U.S. Senate,,Bob Casey Jr.,DEM,1528,,,Monroe County,Middle Smithfield Eastern
+Monroe,Middle Smithfield Western,U.S. Senate,,Bob Casey Jr.,DEM,1275,,,Monroe County,Middle Smithfield Western
+Monroe,Mount Pocono,U.S. Senate,,Bob Casey Jr.,DEM,567,,,Monroe County,Mount Pocono
+Monroe,Paradise,U.S. Senate,,Bob Casey Jr.,DEM,588,,,Monroe County,Paradise
+Monroe,Pocono One,U.S. Senate,,Bob Casey Jr.,DEM,394,,,Monroe County,Pocono One
+Monroe,Pocono Two,U.S. Senate,,Bob Casey Jr.,DEM,482,,,Monroe County,Pocono Two
+Monroe,Pocono Three,U.S. Senate,,Bob Casey Jr.,DEM,604,,,Monroe County,Pocono Three
+Monroe,Pocono Four,U.S. Senate,,Bob Casey Jr.,DEM,640,,,Monroe County,Pocono Four
+Monroe,Polk,U.S. Senate,,Bob Casey Jr.,DEM,992,,,Monroe County,Polk
+Monroe,Price,U.S. Senate,,Bob Casey Jr.,DEM,676,,,Monroe County,Price
+Monroe,Ross,U.S. Senate,,Bob Casey Jr.,DEM,816,,,Monroe County,Ross
+Monroe,Smithfield One,U.S. Senate,,Bob Casey Jr.,DEM,124,,,Monroe County,Smithfield One
+Monroe,Smithfield Two,U.S. Senate,,Bob Casey Jr.,DEM,687,,,Monroe County,Smithfield Two
+Monroe,Smithfield Three,U.S. Senate,,Bob Casey Jr.,DEM,397,,,Monroe County,Smithfield Three
+Monroe,Smithfield Four,U.S. Senate,,Bob Casey Jr.,DEM,469,,,Monroe County,Smithfield Four
+Monroe,Stroud One,U.S. Senate,,Bob Casey Jr.,DEM,1016,,,Monroe County,Stroud One
+Monroe,Stroud Two,U.S. Senate,,Bob Casey Jr.,DEM,1083,,,Monroe County,Stroud Two
+Monroe,Stroud Three,U.S. Senate,,Bob Casey Jr.,DEM,729,,,Monroe County,Stroud Three
+Monroe,Stroud Four,U.S. Senate,,Bob Casey Jr.,DEM,563,,,Monroe County,Stroud Four
+Monroe,Stroud Five,U.S. Senate,,Bob Casey Jr.,DEM,410,,,Monroe County,Stroud Five
+Monroe,Stroud Six,U.S. Senate,,Bob Casey Jr.,DEM,494,,,Monroe County,Stroud Six
+Monroe,Stroud Seven,U.S. Senate,,Bob Casey Jr.,DEM,172,,,Monroe County,Stroud Seven
+Monroe,Stroudsburg First Ward,U.S. Senate,,Bob Casey Jr.,DEM,107,,,Monroe County,Stroudsburg First Ward
+Monroe,Stroudsburg Second Ward,U.S. Senate,,Bob Casey Jr.,DEM,268,,,Monroe County,Stroudsburg Second Ward
+Monroe,Stroudsburg Third Ward,U.S. Senate,,Bob Casey Jr.,DEM,214,,,Monroe County,Stroudsburg Third Ward
+Monroe,Stroudsburg Fourth Ward,U.S. Senate,,Bob Casey Jr.,DEM,285,,,Monroe County,Stroudsburg Fourth Ward
+Monroe,Stroudsburg Fifth Ward,U.S. Senate,,Bob Casey Jr.,DEM,362,,,Monroe County,Stroudsburg Fifth Ward
+Monroe,Tobyhanna Eastern,U.S. Senate,,Bob Casey Jr.,DEM,1010,,,Monroe County,Tobyhanna Eastern
+Monroe,Tobyhanna Western,U.S. Senate,,Bob Casey Jr.,DEM,499,,,Monroe County,Tobyhanna Western
+Monroe,Tunkhannock,U.S. Senate,,Bob Casey Jr.,DEM,1061,,,Monroe County,Tunkhannock
+Monroe,Barrett One,U.S. Senate,,Lou Barletta,REP,289,,,Monroe County,Barrett One
+Monroe,Barrett Two,U.S. Senate,,Lou Barletta,REP,534,,,Monroe County,Barrett Two
+Monroe,Chestnuthill One,U.S. Senate,,Lou Barletta,REP,907,,,Monroe County,Chestnuthill One
+Monroe,Chestnuthill Two,U.S. Senate,,Lou Barletta,REP,857,,,Monroe County,Chestnuthill Two
+Monroe,Chestnuthill Three,U.S. Senate,,Lou Barletta,REP,478,,,Monroe County,Chestnuthill Three
+Monroe,Chestnuthill Four,U.S. Senate,,Lou Barletta,REP,753,,,Monroe County,Chestnuthill Four
+Monroe,Coolbaugh One,U.S. Senate,,Lou Barletta,REP,501,,,Monroe County,Coolbaugh One
+Monroe,Coolbaugh Two,U.S. Senate,,Lou Barletta,REP,339,,,Monroe County,Coolbaugh Two
+Monroe,Coolbaugh Three,U.S. Senate,,Lou Barletta,REP,383,,,Monroe County,Coolbaugh Three
+Monroe,Coolbaugh Four,U.S. Senate,,Lou Barletta,REP,417,,,Monroe County,Coolbaugh Four
+Monroe,Delaware Water Gap,U.S. Senate,,Lou Barletta,REP,120,,,Monroe County,Delaware Water Gap
+Monroe,East Stroudsburg First Ward,U.S. Senate,,Lou Barletta,REP,103,,,Monroe County,East Stroudsburg First Ward
+Monroe,East Stroudsburg Second Ward,U.S. Senate,,Lou Barletta,REP,136,,,Monroe County,East Stroudsburg Second Ward
+Monroe,East Stroudsburg Third Ward,U.S. Senate,,Lou Barletta,REP,79,,,Monroe County,East Stroudsburg Third Ward
+Monroe,East Stroudsburg Fourth Ward,U.S. Senate,,Lou Barletta,REP,190,,,Monroe County,East Stroudsburg Fourth Ward
+Monroe,East Stroudsburg Fifth Ward,U.S. Senate,,Lou Barletta,REP,147,,,Monroe County,East Stroudsburg Fifth Ward
+Monroe,East Stroudsburg Sixth Ward,U.S. Senate,,Lou Barletta,REP,156,,,Monroe County,East Stroudsburg Sixth Ward
+Monroe,Eldred,U.S. Senate,,Lou Barletta,REP,620,,,Monroe County,Eldred
+Monroe,Hamilton Northern,U.S. Senate,,Lou Barletta,REP,1073,,,Monroe County,Hamilton Northern
+Monroe,Hamilton Southern,U.S. Senate,,Lou Barletta,REP,703,,,Monroe County,Hamilton Southern
+Monroe,Jackson,U.S. Senate,,Lou Barletta,REP,1173,,,Monroe County,Jackson
+Monroe,Middle Smithfield Eastern,U.S. Senate,,Lou Barletta,REP,901,,,Monroe County,Middle Smithfield Eastern
+Monroe,Middle Smithfield Western,U.S. Senate,,Lou Barletta,REP,953,,,Monroe County,Middle Smithfield Western
+Monroe,Mount Pocono,U.S. Senate,,Lou Barletta,REP,368,,,Monroe County,Mount Pocono
+Monroe,Paradise,U.S. Senate,,Lou Barletta,REP,603,,,Monroe County,Paradise
+Monroe,Pocono One,U.S. Senate,,Lou Barletta,REP,348,,,Monroe County,Pocono One
+Monroe,Pocono Two,U.S. Senate,,Lou Barletta,REP,402,,,Monroe County,Pocono Two
+Monroe,Pocono Three,U.S. Senate,,Lou Barletta,REP,485,,,Monroe County,Pocono Three
+Monroe,Pocono Four,U.S. Senate,,Lou Barletta,REP,563,,,Monroe County,Pocono Four
+Monroe,Polk,U.S. Senate,,Lou Barletta,REP,1465,,,Monroe County,Polk
+Monroe,Price,U.S. Senate,,Lou Barletta,REP,511,,,Monroe County,Price
+Monroe,Ross,U.S. Senate,,Lou Barletta,REP,1110,,,Monroe County,Ross
+Monroe,Smithfield One,U.S. Senate,,Lou Barletta,REP,60,,,Monroe County,Smithfield One
+Monroe,Smithfield Two,U.S. Senate,,Lou Barletta,REP,394,,,Monroe County,Smithfield Two
+Monroe,Smithfield Three,U.S. Senate,,Lou Barletta,REP,243,,,Monroe County,Smithfield Three
+Monroe,Smithfield Four,U.S. Senate,,Lou Barletta,REP,308,,,Monroe County,Smithfield Four
+Monroe,Stroud One,U.S. Senate,,Lou Barletta,REP,501,,,Monroe County,Stroud One
+Monroe,Stroud Two,U.S. Senate,,Lou Barletta,REP,411,,,Monroe County,Stroud Two
+Monroe,Stroud Three,U.S. Senate,,Lou Barletta,REP,391,,,Monroe County,Stroud Three
+Monroe,Stroud Four,U.S. Senate,,Lou Barletta,REP,431,,,Monroe County,Stroud Four
+Monroe,Stroud Five,U.S. Senate,,Lou Barletta,REP,263,,,Monroe County,Stroud Five
+Monroe,Stroud Six,U.S. Senate,,Lou Barletta,REP,381,,,Monroe County,Stroud Six
+Monroe,Stroud Seven,U.S. Senate,,Lou Barletta,REP,135,,,Monroe County,Stroud Seven
+Monroe,Stroudsburg First Ward,U.S. Senate,,Lou Barletta,REP,33,,,Monroe County,Stroudsburg First Ward
+Monroe,Stroudsburg Second Ward,U.S. Senate,,Lou Barletta,REP,96,,,Monroe County,Stroudsburg Second Ward
+Monroe,Stroudsburg Third Ward,U.S. Senate,,Lou Barletta,REP,102,,,Monroe County,Stroudsburg Third Ward
+Monroe,Stroudsburg Fourth Ward,U.S. Senate,,Lou Barletta,REP,104,,,Monroe County,Stroudsburg Fourth Ward
+Monroe,Stroudsburg Fifth Ward,U.S. Senate,,Lou Barletta,REP,207,,,Monroe County,Stroudsburg Fifth Ward
+Monroe,Tobyhanna Eastern,U.S. Senate,,Lou Barletta,REP,773,,,Monroe County,Tobyhanna Eastern
+Monroe,Tobyhanna Western,U.S. Senate,,Lou Barletta,REP,584,,,Monroe County,Tobyhanna Western
+Monroe,Tunkhannock,U.S. Senate,,Lou Barletta,REP,884,,,Monroe County,Tunkhannock
+Monroe,Barrett One,U.S. Senate,,Dale Kerns,LIB,5,,,Monroe County,Barrett One
+Monroe,Barrett Two,U.S. Senate,,Dale Kerns,LIB,6,,,Monroe County,Barrett Two
+Monroe,Chestnuthill One,U.S. Senate,,Dale Kerns,LIB,20,,,Monroe County,Chestnuthill One
+Monroe,Chestnuthill Two,U.S. Senate,,Dale Kerns,LIB,12,,,Monroe County,Chestnuthill Two
+Monroe,Chestnuthill Three,U.S. Senate,,Dale Kerns,LIB,15,,,Monroe County,Chestnuthill Three
+Monroe,Chestnuthill Four,U.S. Senate,,Dale Kerns,LIB,9,,,Monroe County,Chestnuthill Four
+Monroe,Coolbaugh One,U.S. Senate,,Dale Kerns,LIB,8,,,Monroe County,Coolbaugh One
+Monroe,Coolbaugh Two,U.S. Senate,,Dale Kerns,LIB,5,,,Monroe County,Coolbaugh Two
+Monroe,Coolbaugh Three,U.S. Senate,,Dale Kerns,LIB,11,,,Monroe County,Coolbaugh Three
+Monroe,Coolbaugh Four,U.S. Senate,,Dale Kerns,LIB,5,,,Monroe County,Coolbaugh Four
+Monroe,Delaware Water Gap,U.S. Senate,,Dale Kerns,LIB,2,,,Monroe County,Delaware Water Gap
+Monroe,East Stroudsburg First Ward,U.S. Senate,,Dale Kerns,LIB,2,,,Monroe County,East Stroudsburg First Ward
+Monroe,East Stroudsburg Second Ward,U.S. Senate,,Dale Kerns,LIB,7,,,Monroe County,East Stroudsburg Second Ward
+Monroe,East Stroudsburg Third Ward,U.S. Senate,,Dale Kerns,LIB,0,,,Monroe County,East Stroudsburg Third Ward
+Monroe,East Stroudsburg Fourth Ward,U.S. Senate,,Dale Kerns,LIB,4,,,Monroe County,East Stroudsburg Fourth Ward
+Monroe,East Stroudsburg Fifth Ward,U.S. Senate,,Dale Kerns,LIB,3,,,Monroe County,East Stroudsburg Fifth Ward
+Monroe,East Stroudsburg Sixth Ward,U.S. Senate,,Dale Kerns,LIB,4,,,Monroe County,East Stroudsburg Sixth Ward
+Monroe,Eldred,U.S. Senate,,Dale Kerns,LIB,9,,,Monroe County,Eldred
+Monroe,Hamilton Northern,U.S. Senate,,Dale Kerns,LIB,18,,,Monroe County,Hamilton Northern
+Monroe,Hamilton Southern,U.S. Senate,,Dale Kerns,LIB,17,,,Monroe County,Hamilton Southern
+Monroe,Jackson,U.S. Senate,,Dale Kerns,LIB,16,,,Monroe County,Jackson
+Monroe,Middle Smithfield Eastern,U.S. Senate,,Dale Kerns,LIB,21,,,Monroe County,Middle Smithfield Eastern
+Monroe,Middle Smithfield Western,U.S. Senate,,Dale Kerns,LIB,22,,,Monroe County,Middle Smithfield Western
+Monroe,Mount Pocono,U.S. Senate,,Dale Kerns,LIB,3,,,Monroe County,Mount Pocono
+Monroe,Paradise,U.S. Senate,,Dale Kerns,LIB,13,,,Monroe County,Paradise
+Monroe,Pocono One,U.S. Senate,,Dale Kerns,LIB,7,,,Monroe County,Pocono One
+Monroe,Pocono Two,U.S. Senate,,Dale Kerns,LIB,9,,,Monroe County,Pocono Two
+Monroe,Pocono Three,U.S. Senate,,Dale Kerns,LIB,7,,,Monroe County,Pocono Three
+Monroe,Pocono Four,U.S. Senate,,Dale Kerns,LIB,14,,,Monroe County,Pocono Four
+Monroe,Polk,U.S. Senate,,Dale Kerns,LIB,21,,,Monroe County,Polk
+Monroe,Price,U.S. Senate,,Dale Kerns,LIB,11,,,Monroe County,Price
+Monroe,Ross,U.S. Senate,,Dale Kerns,LIB,22,,,Monroe County,Ross
+Monroe,Smithfield One,U.S. Senate,,Dale Kerns,LIB,1,,,Monroe County,Smithfield One
+Monroe,Smithfield Two,U.S. Senate,,Dale Kerns,LIB,9,,,Monroe County,Smithfield Two
+Monroe,Smithfield Three,U.S. Senate,,Dale Kerns,LIB,8,,,Monroe County,Smithfield Three
+Monroe,Smithfield Four,U.S. Senate,,Dale Kerns,LIB,3,,,Monroe County,Smithfield Four
+Monroe,Stroud One,U.S. Senate,,Dale Kerns,LIB,10,,,Monroe County,Stroud One
+Monroe,Stroud Two,U.S. Senate,,Dale Kerns,LIB,17,,,Monroe County,Stroud Two
+Monroe,Stroud Three,U.S. Senate,,Dale Kerns,LIB,9,,,Monroe County,Stroud Three
+Monroe,Stroud Four,U.S. Senate,,Dale Kerns,LIB,8,,,Monroe County,Stroud Four
+Monroe,Stroud Five,U.S. Senate,,Dale Kerns,LIB,7,,,Monroe County,Stroud Five
+Monroe,Stroud Six,U.S. Senate,,Dale Kerns,LIB,7,,,Monroe County,Stroud Six
+Monroe,Stroud Seven,U.S. Senate,,Dale Kerns,LIB,1,,,Monroe County,Stroud Seven
+Monroe,Stroudsburg First Ward,U.S. Senate,,Dale Kerns,LIB,2,,,Monroe County,Stroudsburg First Ward
+Monroe,Stroudsburg Second Ward,U.S. Senate,,Dale Kerns,LIB,1,,,Monroe County,Stroudsburg Second Ward
+Monroe,Stroudsburg Third Ward,U.S. Senate,,Dale Kerns,LIB,5,,,Monroe County,Stroudsburg Third Ward
+Monroe,Stroudsburg Fourth Ward,U.S. Senate,,Dale Kerns,LIB,4,,,Monroe County,Stroudsburg Fourth Ward
+Monroe,Stroudsburg Fifth Ward,U.S. Senate,,Dale Kerns,LIB,3,,,Monroe County,Stroudsburg Fifth Ward
+Monroe,Tobyhanna Eastern,U.S. Senate,,Dale Kerns,LIB,15,,,Monroe County,Tobyhanna Eastern
+Monroe,Tobyhanna Western,U.S. Senate,,Dale Kerns,LIB,4,,,Monroe County,Tobyhanna Western
+Monroe,Tunkhannock,U.S. Senate,,Dale Kerns,LIB,16,,,Monroe County,Tunkhannock
+Monroe,Barrett One,U.S. Senate,,Neal Gale,GRN,2,,,Monroe County,Barrett One
+Monroe,Barrett Two,U.S. Senate,,Neal Gale,GRN,5,,,Monroe County,Barrett Two
+Monroe,Chestnuthill One,U.S. Senate,,Neal Gale,GRN,11,,,Monroe County,Chestnuthill One
+Monroe,Chestnuthill Two,U.S. Senate,,Neal Gale,GRN,9,,,Monroe County,Chestnuthill Two
+Monroe,Chestnuthill Three,U.S. Senate,,Neal Gale,GRN,9,,,Monroe County,Chestnuthill Three
+Monroe,Chestnuthill Four,U.S. Senate,,Neal Gale,GRN,8,,,Monroe County,Chestnuthill Four
+Monroe,Coolbaugh One,U.S. Senate,,Neal Gale,GRN,5,,,Monroe County,Coolbaugh One
+Monroe,Coolbaugh Two,U.S. Senate,,Neal Gale,GRN,3,,,Monroe County,Coolbaugh Two
+Monroe,Coolbaugh Three,U.S. Senate,,Neal Gale,GRN,15,,,Monroe County,Coolbaugh Three
+Monroe,Coolbaugh Four,U.S. Senate,,Neal Gale,GRN,10,,,Monroe County,Coolbaugh Four
+Monroe,Delaware Water Gap,U.S. Senate,,Neal Gale,GRN,1,,,Monroe County,Delaware Water Gap
+Monroe,East Stroudsburg First Ward,U.S. Senate,,Neal Gale,GRN,1,,,Monroe County,East Stroudsburg First Ward
+Monroe,East Stroudsburg Second Ward,U.S. Senate,,Neal Gale,GRN,8,,,Monroe County,East Stroudsburg Second Ward
+Monroe,East Stroudsburg Third Ward,U.S. Senate,,Neal Gale,GRN,2,,,Monroe County,East Stroudsburg Third Ward
+Monroe,East Stroudsburg Fourth Ward,U.S. Senate,,Neal Gale,GRN,2,,,Monroe County,East Stroudsburg Fourth Ward
+Monroe,East Stroudsburg Fifth Ward,U.S. Senate,,Neal Gale,GRN,3,,,Monroe County,East Stroudsburg Fifth Ward
+Monroe,East Stroudsburg Sixth Ward,U.S. Senate,,Neal Gale,GRN,5,,,Monroe County,East Stroudsburg Sixth Ward
+Monroe,Eldred,U.S. Senate,,Neal Gale,GRN,8,,,Monroe County,Eldred
+Monroe,Hamilton Northern,U.S. Senate,,Neal Gale,GRN,17,,,Monroe County,Hamilton Northern
+Monroe,Hamilton Southern,U.S. Senate,,Neal Gale,GRN,10,,,Monroe County,Hamilton Southern
+Monroe,Jackson,U.S. Senate,,Neal Gale,GRN,15,,,Monroe County,Jackson
+Monroe,Middle Smithfield Eastern,U.S. Senate,,Neal Gale,GRN,19,,,Monroe County,Middle Smithfield Eastern
+Monroe,Middle Smithfield Western,U.S. Senate,,Neal Gale,GRN,16,,,Monroe County,Middle Smithfield Western
+Monroe,Mount Pocono,U.S. Senate,,Neal Gale,GRN,5,,,Monroe County,Mount Pocono
+Monroe,Paradise,U.S. Senate,,Neal Gale,GRN,6,,,Monroe County,Paradise
+Monroe,Pocono One,U.S. Senate,,Neal Gale,GRN,5,,,Monroe County,Pocono One
+Monroe,Pocono Two,U.S. Senate,,Neal Gale,GRN,7,,,Monroe County,Pocono Two
+Monroe,Pocono Three,U.S. Senate,,Neal Gale,GRN,3,,,Monroe County,Pocono Three
+Monroe,Pocono Four,U.S. Senate,,Neal Gale,GRN,12,,,Monroe County,Pocono Four
+Monroe,Polk,U.S. Senate,,Neal Gale,GRN,16,,,Monroe County,Polk
+Monroe,Price,U.S. Senate,,Neal Gale,GRN,9,,,Monroe County,Price
+Monroe,Ross,U.S. Senate,,Neal Gale,GRN,13,,,Monroe County,Ross
+Monroe,Smithfield One,U.S. Senate,,Neal Gale,GRN,1,,,Monroe County,Smithfield One
+Monroe,Smithfield Two,U.S. Senate,,Neal Gale,GRN,8,,,Monroe County,Smithfield Two
+Monroe,Smithfield Three,U.S. Senate,,Neal Gale,GRN,3,,,Monroe County,Smithfield Three
+Monroe,Smithfield Four,U.S. Senate,,Neal Gale,GRN,4,,,Monroe County,Smithfield Four
+Monroe,Stroud One,U.S. Senate,,Neal Gale,GRN,8,,,Monroe County,Stroud One
+Monroe,Stroud Two,U.S. Senate,,Neal Gale,GRN,12,,,Monroe County,Stroud Two
+Monroe,Stroud Three,U.S. Senate,,Neal Gale,GRN,9,,,Monroe County,Stroud Three
+Monroe,Stroud Four,U.S. Senate,,Neal Gale,GRN,6,,,Monroe County,Stroud Four
+Monroe,Stroud Five,U.S. Senate,,Neal Gale,GRN,4,,,Monroe County,Stroud Five
+Monroe,Stroud Six,U.S. Senate,,Neal Gale,GRN,7,,,Monroe County,Stroud Six
+Monroe,Stroud Seven,U.S. Senate,,Neal Gale,GRN,0,,,Monroe County,Stroud Seven
+Monroe,Stroudsburg First Ward,U.S. Senate,,Neal Gale,GRN,1,,,Monroe County,Stroudsburg First Ward
+Monroe,Stroudsburg Second Ward,U.S. Senate,,Neal Gale,GRN,4,,,Monroe County,Stroudsburg Second Ward
+Monroe,Stroudsburg Third Ward,U.S. Senate,,Neal Gale,GRN,1,,,Monroe County,Stroudsburg Third Ward
+Monroe,Stroudsburg Fourth Ward,U.S. Senate,,Neal Gale,GRN,5,,,Monroe County,Stroudsburg Fourth Ward
+Monroe,Stroudsburg Fifth Ward,U.S. Senate,,Neal Gale,GRN,5,,,Monroe County,Stroudsburg Fifth Ward
+Monroe,Tobyhanna Eastern,U.S. Senate,,Neal Gale,GRN,15,,,Monroe County,Tobyhanna Eastern
+Monroe,Tobyhanna Western,U.S. Senate,,Neal Gale,GRN,1,,,Monroe County,Tobyhanna Western
+Monroe,Tunkhannock,U.S. Senate,,Neal Gale,GRN,6,,,Monroe County,Tunkhannock
+Monroe,Barrett One,Governor,,Tom Wolf,DEM,289,,,Monroe County,Barrett One
+Monroe,Barrett Two,Governor,,Tom Wolf,DEM,565,,,Monroe County,Barrett Two
+Monroe,Chestnuthill One,Governor,,Tom Wolf,DEM,905,,,Monroe County,Chestnuthill One
+Monroe,Chestnuthill Two,Governor,,Tom Wolf,DEM,823,,,Monroe County,Chestnuthill Two
+Monroe,Chestnuthill Three,Governor,,Tom Wolf,DEM,485,,,Monroe County,Chestnuthill Three
+Monroe,Chestnuthill Four,Governor,,Tom Wolf,DEM,555,,,Monroe County,Chestnuthill Four
+Monroe,Coolbaugh One,Governor,,Tom Wolf,DEM,645,,,Monroe County,Coolbaugh One
+Monroe,Coolbaugh Two,Governor,,Tom Wolf,DEM,542,,,Monroe County,Coolbaugh Two
+Monroe,Coolbaugh Three,Governor,,Tom Wolf,DEM,1380,,,Monroe County,Coolbaugh Three
+Monroe,Coolbaugh Four,Governor,,Tom Wolf,DEM,1011,,,Monroe County,Coolbaugh Four
+Monroe,Delaware Water Gap,Governor,,Tom Wolf,DEM,205,,,Monroe County,Delaware Water Gap
+Monroe,East Stroudsburg First Ward,Governor,,Tom Wolf,DEM,257,,,Monroe County,East Stroudsburg First Ward
+Monroe,East Stroudsburg Second Ward,Governor,,Tom Wolf,DEM,576,,,Monroe County,East Stroudsburg Second Ward
+Monroe,East Stroudsburg Third Ward,Governor,,Tom Wolf,DEM,148,,,Monroe County,East Stroudsburg Third Ward
+Monroe,East Stroudsburg Fourth Ward,Governor,,Tom Wolf,DEM,338,,,Monroe County,East Stroudsburg Fourth Ward
+Monroe,East Stroudsburg Fifth Ward,Governor,,Tom Wolf,DEM,286,,,Monroe County,East Stroudsburg Fifth Ward
+Monroe,East Stroudsburg Sixth Ward,Governor,,Tom Wolf,DEM,303,,,Monroe County,East Stroudsburg Sixth Ward
+Monroe,Eldred,Governor,,Tom Wolf,DEM,391,,,Monroe County,Eldred
+Monroe,Hamilton Northern,Governor,,Tom Wolf,DEM,1029,,,Monroe County,Hamilton Northern
+Monroe,Hamilton Southern,Governor,,Tom Wolf,DEM,694,,,Monroe County,Hamilton Southern
+Monroe,Jackson,Governor,,Tom Wolf,DEM,1278,,,Monroe County,Jackson
+Monroe,Middle Smithfield Eastern,Governor,,Tom Wolf,DEM,1571,,,Monroe County,Middle Smithfield Eastern
+Monroe,Middle Smithfield Western,Governor,,Tom Wolf,DEM,1318,,,Monroe County,Middle Smithfield Western
+Monroe,Mount Pocono,Governor,,Tom Wolf,DEM,579,,,Monroe County,Mount Pocono
+Monroe,Paradise,Governor,,Tom Wolf,DEM,641,,,Monroe County,Paradise
+Monroe,Pocono One,Governor,,Tom Wolf,DEM,413,,,Monroe County,Pocono One
+Monroe,Pocono Two,Governor,,Tom Wolf,DEM,515,,,Monroe County,Pocono Two
+Monroe,Pocono Three,Governor,,Tom Wolf,DEM,638,,,Monroe County,Pocono Three
+Monroe,Pocono Four,Governor,,Tom Wolf,DEM,681,,,Monroe County,Pocono Four
+Monroe,Polk,Governor,,Tom Wolf,DEM,1071,,,Monroe County,Polk
+Monroe,Price,Governor,,Tom Wolf,DEM,696,,,Monroe County,Price
+Monroe,Ross,Governor,,Tom Wolf,DEM,872,,,Monroe County,Ross
+Monroe,Smithfield One,Governor,,Tom Wolf,DEM,130,,,Monroe County,Smithfield One
+Monroe,Smithfield Two,Governor,,Tom Wolf,DEM,709,,,Monroe County,Smithfield Two
+Monroe,Smithfield Three,Governor,,Tom Wolf,DEM,404,,,Monroe County,Smithfield Three
+Monroe,Smithfield Four,Governor,,Tom Wolf,DEM,490,,,Monroe County,Smithfield Four
+Monroe,Stroud One,Governor,,Tom Wolf,DEM,1041,,,Monroe County,Stroud One
+Monroe,Stroud Two,Governor,,Tom Wolf,DEM,1110,,,Monroe County,Stroud Two
+Monroe,Stroud Three,Governor,,Tom Wolf,DEM,758,,,Monroe County,Stroud Three
+Monroe,Stroud Four,Governor,,Tom Wolf,DEM,612,,,Monroe County,Stroud Four
+Monroe,Stroud Five,Governor,,Tom Wolf,DEM,423,,,Monroe County,Stroud Five
+Monroe,Stroud Six,Governor,,Tom Wolf,DEM,532,,,Monroe County,Stroud Six
+Monroe,Stroud Seven,Governor,,Tom Wolf,DEM,168,,,Monroe County,Stroud Seven
+Monroe,Stroudsburg First Ward,Governor,,Tom Wolf,DEM,108,,,Monroe County,Stroudsburg First Ward
+Monroe,Stroudsburg Second Ward,Governor,,Tom Wolf,DEM,273,,,Monroe County,Stroudsburg Second Ward
+Monroe,Stroudsburg Third Ward,Governor,,Tom Wolf,DEM,221,,,Monroe County,Stroudsburg Third Ward
+Monroe,Stroudsburg Fourth Ward,Governor,,Tom Wolf,DEM,303,,,Monroe County,Stroudsburg Fourth Ward
+Monroe,Stroudsburg Fifth Ward,Governor,,Tom Wolf,DEM,388,,,Monroe County,Stroudsburg Fifth Ward
+Monroe,Tobyhanna Eastern,Governor,,Tom Wolf,DEM,1065,,,Monroe County,Tobyhanna Eastern
+Monroe,Tobyhanna Western,Governor,,Tom Wolf,DEM,519,,,Monroe County,Tobyhanna Western
+Monroe,Tunkhannock,Governor,,Tom Wolf,DEM,1110,,,Monroe County,Tunkhannock
+Monroe,Barrett One,Governor,,Scott R. Wagner,REP,274,,,Monroe County,Barrett One
+Monroe,Barrett Two,Governor,,Scott R. Wagner,REP,490,,,Monroe County,Barrett Two
+Monroe,Chestnuthill One,Governor,,Scott R. Wagner,REP,863,,,Monroe County,Chestnuthill One
+Monroe,Chestnuthill Two,Governor,,Scott R. Wagner,REP,801,,,Monroe County,Chestnuthill Two
+Monroe,Chestnuthill Three,Governor,,Scott R. Wagner,REP,432,,,Monroe County,Chestnuthill Three
+Monroe,Chestnuthill Four,Governor,,Scott R. Wagner,REP,701,,,Monroe County,Chestnuthill Four
+Monroe,Coolbaugh One,Governor,,Scott R. Wagner,REP,488,,,Monroe County,Coolbaugh One
+Monroe,Coolbaugh Two,Governor,,Scott R. Wagner,REP,310,,,Monroe County,Coolbaugh Two
+Monroe,Coolbaugh Three,Governor,,Scott R. Wagner,REP,363,,,Monroe County,Coolbaugh Three
+Monroe,Coolbaugh Four,Governor,,Scott R. Wagner,REP,407,,,Monroe County,Coolbaugh Four
+Monroe,Delaware Water Gap,Governor,,Scott R. Wagner,REP,111,,,Monroe County,Delaware Water Gap
+Monroe,East Stroudsburg First Ward,Governor,,Scott R. Wagner,REP,91,,,Monroe County,East Stroudsburg First Ward
+Monroe,East Stroudsburg Second Ward,Governor,,Scott R. Wagner,REP,133,,,Monroe County,East Stroudsburg Second Ward
+Monroe,East Stroudsburg Third Ward,Governor,,Scott R. Wagner,REP,77,,,Monroe County,East Stroudsburg Third Ward
+Monroe,East Stroudsburg Fourth Ward,Governor,,Scott R. Wagner,REP,180,,,Monroe County,East Stroudsburg Fourth Ward
+Monroe,East Stroudsburg Fifth Ward,Governor,,Scott R. Wagner,REP,133,,,Monroe County,East Stroudsburg Fifth Ward
+Monroe,East Stroudsburg Sixth Ward,Governor,,Scott R. Wagner,REP,147,,,Monroe County,East Stroudsburg Sixth Ward
+Monroe,Eldred,Governor,,Scott R. Wagner,REP,598,,,Monroe County,Eldred
+Monroe,Hamilton Northern,Governor,,Scott R. Wagner,REP,1006,,,Monroe County,Hamilton Northern
+Monroe,Hamilton Southern,Governor,,Scott R. Wagner,REP,660,,,Monroe County,Hamilton Southern
+Monroe,Jackson,Governor,,Scott R. Wagner,REP,1111,,,Monroe County,Jackson
+Monroe,Middle Smithfield Eastern,Governor,,Scott R. Wagner,REP,870,,,Monroe County,Middle Smithfield Eastern
+Monroe,Middle Smithfield Western,Governor,,Scott R. Wagner,REP,912,,,Monroe County,Middle Smithfield Western
+Monroe,Mount Pocono,Governor,,Scott R. Wagner,REP,357,,,Monroe County,Mount Pocono
+Monroe,Paradise,Governor,,Scott R. Wagner,REP,542,,,Monroe County,Paradise
+Monroe,Pocono One,Governor,,Scott R. Wagner,REP,328,,,Monroe County,Pocono One
+Monroe,Pocono Two,Governor,,Scott R. Wagner,REP,366,,,Monroe County,Pocono Two
+Monroe,Pocono Three,Governor,,Scott R. Wagner,REP,446,,,Monroe County,Pocono Three
+Monroe,Pocono Four,Governor,,Scott R. Wagner,REP,526,,,Monroe County,Pocono Four
+Monroe,Polk,Governor,,Scott R. Wagner,REP,1394,,,Monroe County,Polk
+Monroe,Price,Governor,,Scott R. Wagner,REP,495,,,Monroe County,Price
+Monroe,Ross,Governor,,Scott R. Wagner,REP,1047,,,Monroe County,Ross
+Monroe,Smithfield One,Governor,,Scott R. Wagner,REP,55,,,Monroe County,Smithfield One
+Monroe,Smithfield Two,Governor,,Scott R. Wagner,REP,374,,,Monroe County,Smithfield Two
+Monroe,Smithfield Three,Governor,,Scott R. Wagner,REP,231,,,Monroe County,Smithfield Three
+Monroe,Smithfield Four,Governor,,Scott R. Wagner,REP,289,,,Monroe County,Smithfield Four
+Monroe,Stroud One,Governor,,Scott R. Wagner,REP,482,,,Monroe County,Stroud One
+Monroe,Stroud Two,Governor,,Scott R. Wagner,REP,380,,,Monroe County,Stroud Two
+Monroe,Stroud Three,Governor,,Scott R. Wagner,REP,364,,,Monroe County,Stroud Three
+Monroe,Stroud Four,Governor,,Scott R. Wagner,REP,379,,,Monroe County,Stroud Four
+Monroe,Stroud Five,Governor,,Scott R. Wagner,REP,246,,,Monroe County,Stroud Five
+Monroe,Stroud Six,Governor,,Scott R. Wagner,REP,352,,,Monroe County,Stroud Six
+Monroe,Stroud Seven,Governor,,Scott R. Wagner,REP,133,,,Monroe County,Stroud Seven
+Monroe,Stroudsburg First Ward,Governor,,Scott R. Wagner,REP,31,,,Monroe County,Stroudsburg First Ward
+Monroe,Stroudsburg Second Ward,Governor,,Scott R. Wagner,REP,90,,,Monroe County,Stroudsburg Second Ward
+Monroe,Stroudsburg Third Ward,Governor,,Scott R. Wagner,REP,97,,,Monroe County,Stroudsburg Third Ward
+Monroe,Stroudsburg Fourth Ward,Governor,,Scott R. Wagner,REP,93,,,Monroe County,Stroudsburg Fourth Ward
+Monroe,Stroudsburg Fifth Ward,Governor,,Scott R. Wagner,REP,181,,,Monroe County,Stroudsburg Fifth Ward
+Monroe,Tobyhanna Eastern,Governor,,Scott R. Wagner,REP,712,,,Monroe County,Tobyhanna Eastern
+Monroe,Tobyhanna Western,Governor,,Scott R. Wagner,REP,552,,,Monroe County,Tobyhanna Western
+Monroe,Tunkhannock,Governor,,Scott R. Wagner,REP,830,,,Monroe County,Tunkhannock
+Monroe,Barrett One,Governor,,Ken Krawchuk,LIB,6,,,Monroe County,Barrett One
+Monroe,Barrett Two,Governor,,Ken Krawchuk,LIB,3,,,Monroe County,Barrett Two
+Monroe,Chestnuthill One,Governor,,Ken Krawchuk,LIB,30,,,Monroe County,Chestnuthill One
+Monroe,Chestnuthill Two,Governor,,Ken Krawchuk,LIB,13,,,Monroe County,Chestnuthill Two
+Monroe,Chestnuthill Three,Governor,,Ken Krawchuk,LIB,15,,,Monroe County,Chestnuthill Three
+Monroe,Chestnuthill Four,Governor,,Ken Krawchuk,LIB,11,,,Monroe County,Chestnuthill Four
+Monroe,Coolbaugh One,Governor,,Ken Krawchuk,LIB,7,,,Monroe County,Coolbaugh One
+Monroe,Coolbaugh Two,Governor,,Ken Krawchuk,LIB,7,,,Monroe County,Coolbaugh Two
+Monroe,Coolbaugh Three,Governor,,Ken Krawchuk,LIB,9,,,Monroe County,Coolbaugh Three
+Monroe,Coolbaugh Four,Governor,,Ken Krawchuk,LIB,7,,,Monroe County,Coolbaugh Four
+Monroe,Delaware Water Gap,Governor,,Ken Krawchuk,LIB,3,,,Monroe County,Delaware Water Gap
+Monroe,East Stroudsburg First Ward,Governor,,Ken Krawchuk,LIB,2,,,Monroe County,East Stroudsburg First Ward
+Monroe,East Stroudsburg Second Ward,Governor,,Ken Krawchuk,LIB,3,,,Monroe County,East Stroudsburg Second Ward
+Monroe,East Stroudsburg Third Ward,Governor,,Ken Krawchuk,LIB,3,,,Monroe County,East Stroudsburg Third Ward
+Monroe,East Stroudsburg Fourth Ward,Governor,,Ken Krawchuk,LIB,0,,,Monroe County,East Stroudsburg Fourth Ward
+Monroe,East Stroudsburg Fifth Ward,Governor,,Ken Krawchuk,LIB,6,,,Monroe County,East Stroudsburg Fifth Ward
+Monroe,East Stroudsburg Sixth Ward,Governor,,Ken Krawchuk,LIB,2,,,Monroe County,East Stroudsburg Sixth Ward
+Monroe,Eldred,Governor,,Ken Krawchuk,LIB,10,,,Monroe County,Eldred
+Monroe,Hamilton Northern,Governor,,Ken Krawchuk,LIB,21,,,Monroe County,Hamilton Northern
+Monroe,Hamilton Southern,Governor,,Ken Krawchuk,LIB,15,,,Monroe County,Hamilton Southern
+Monroe,Jackson,Governor,,Ken Krawchuk,LIB,14,,,Monroe County,Jackson
+Monroe,Middle Smithfield Eastern,Governor,,Ken Krawchuk,LIB,19,,,Monroe County,Middle Smithfield Eastern
+Monroe,Middle Smithfield Western,Governor,,Ken Krawchuk,LIB,17,,,Monroe County,Middle Smithfield Western
+Monroe,Mount Pocono,Governor,,Ken Krawchuk,LIB,5,,,Monroe County,Mount Pocono
+Monroe,Paradise,Governor,,Ken Krawchuk,LIB,12,,,Monroe County,Paradise
+Monroe,Pocono One,Governor,,Ken Krawchuk,LIB,6,,,Monroe County,Pocono One
+Monroe,Pocono Two,Governor,,Ken Krawchuk,LIB,9,,,Monroe County,Pocono Two
+Monroe,Pocono Three,Governor,,Ken Krawchuk,LIB,11,,,Monroe County,Pocono Three
+Monroe,Pocono Four,Governor,,Ken Krawchuk,LIB,12,,,Monroe County,Pocono Four
+Monroe,Polk,Governor,,Ken Krawchuk,LIB,29,,,Monroe County,Polk
+Monroe,Price,Governor,,Ken Krawchuk,LIB,10,,,Monroe County,Price
+Monroe,Ross,Governor,,Ken Krawchuk,LIB,23,,,Monroe County,Ross
+Monroe,Smithfield One,Governor,,Ken Krawchuk,LIB,1,,,Monroe County,Smithfield One
+Monroe,Smithfield Two,Governor,,Ken Krawchuk,LIB,9,,,Monroe County,Smithfield Two
+Monroe,Smithfield Three,Governor,,Ken Krawchuk,LIB,8,,,Monroe County,Smithfield Three
+Monroe,Smithfield Four,Governor,,Ken Krawchuk,LIB,5,,,Monroe County,Smithfield Four
+Monroe,Stroud One,Governor,,Ken Krawchuk,LIB,6,,,Monroe County,Stroud One
+Monroe,Stroud Two,Governor,,Ken Krawchuk,LIB,16,,,Monroe County,Stroud Two
+Monroe,Stroud Three,Governor,,Ken Krawchuk,LIB,11,,,Monroe County,Stroud Three
+Monroe,Stroud Four,Governor,,Ken Krawchuk,LIB,10,,,Monroe County,Stroud Four
+Monroe,Stroud Five,Governor,,Ken Krawchuk,LIB,11,,,Monroe County,Stroud Five
+Monroe,Stroud Six,Governor,,Ken Krawchuk,LIB,3,,,Monroe County,Stroud Six
+Monroe,Stroud Seven,Governor,,Ken Krawchuk,LIB,6,,,Monroe County,Stroud Seven
+Monroe,Stroudsburg First Ward,Governor,,Ken Krawchuk,LIB,3,,,Monroe County,Stroudsburg First Ward
+Monroe,Stroudsburg Second Ward,Governor,,Ken Krawchuk,LIB,2,,,Monroe County,Stroudsburg Second Ward
+Monroe,Stroudsburg Third Ward,Governor,,Ken Krawchuk,LIB,4,,,Monroe County,Stroudsburg Third Ward
+Monroe,Stroudsburg Fourth Ward,Governor,,Ken Krawchuk,LIB,3,,,Monroe County,Stroudsburg Fourth Ward
+Monroe,Stroudsburg Fifth Ward,Governor,,Ken Krawchuk,LIB,2,,,Monroe County,Stroudsburg Fifth Ward
+Monroe,Tobyhanna Eastern,Governor,,Ken Krawchuk,LIB,17,,,Monroe County,Tobyhanna Eastern
+Monroe,Tobyhanna Western,Governor,,Ken Krawchuk,LIB,7,,,Monroe County,Tobyhanna Western
+Monroe,Tunkhannock,Governor,,Ken Krawchuk,LIB,17,,,Monroe County,Tunkhannock
+Monroe,Barrett One,Governor,,Paul Glover,GRN,5,,,Monroe County,Barrett One
+Monroe,Barrett Two,Governor,,Paul Glover,GRN,10,,,Monroe County,Barrett Two
+Monroe,Chestnuthill One,Governor,,Paul Glover,GRN,13,,,Monroe County,Chestnuthill One
+Monroe,Chestnuthill Two,Governor,,Paul Glover,GRN,8,,,Monroe County,Chestnuthill Two
+Monroe,Chestnuthill Three,Governor,,Paul Glover,GRN,6,,,Monroe County,Chestnuthill Three
+Monroe,Chestnuthill Four,Governor,,Paul Glover,GRN,15,,,Monroe County,Chestnuthill Four
+Monroe,Coolbaugh One,Governor,,Paul Glover,GRN,1,,,Monroe County,Coolbaugh One
+Monroe,Coolbaugh Two,Governor,,Paul Glover,GRN,5,,,Monroe County,Coolbaugh Two
+Monroe,Coolbaugh Three,Governor,,Paul Glover,GRN,15,,,Monroe County,Coolbaugh Three
+Monroe,Coolbaugh Four,Governor,,Paul Glover,GRN,11,,,Monroe County,Coolbaugh Four
+Monroe,Delaware Water Gap,Governor,,Paul Glover,GRN,1,,,Monroe County,Delaware Water Gap
+Monroe,East Stroudsburg First Ward,Governor,,Paul Glover,GRN,2,,,Monroe County,East Stroudsburg First Ward
+Monroe,East Stroudsburg Second Ward,Governor,,Paul Glover,GRN,6,,,Monroe County,East Stroudsburg Second Ward
+Monroe,East Stroudsburg Third Ward,Governor,,Paul Glover,GRN,3,,,Monroe County,East Stroudsburg Third Ward
+Monroe,East Stroudsburg Fourth Ward,Governor,,Paul Glover,GRN,5,,,Monroe County,East Stroudsburg Fourth Ward
+Monroe,East Stroudsburg Fifth Ward,Governor,,Paul Glover,GRN,4,,,Monroe County,East Stroudsburg Fifth Ward
+Monroe,East Stroudsburg Sixth Ward,Governor,,Paul Glover,GRN,3,,,Monroe County,East Stroudsburg Sixth Ward
+Monroe,Eldred,Governor,,Paul Glover,GRN,7,,,Monroe County,Eldred
+Monroe,Hamilton Northern,Governor,,Paul Glover,GRN,9,,,Monroe County,Hamilton Northern
+Monroe,Hamilton Southern,Governor,,Paul Glover,GRN,11,,,Monroe County,Hamilton Southern
+Monroe,Jackson,Governor,,Paul Glover,GRN,13,,,Monroe County,Jackson
+Monroe,Middle Smithfield Eastern,Governor,,Paul Glover,GRN,15,,,Monroe County,Middle Smithfield Eastern
+Monroe,Middle Smithfield Western,Governor,,Paul Glover,GRN,17,,,Monroe County,Middle Smithfield Western
+Monroe,Mount Pocono,Governor,,Paul Glover,GRN,6,,,Monroe County,Mount Pocono
+Monroe,Paradise,Governor,,Paul Glover,GRN,7,,,Monroe County,Paradise
+Monroe,Pocono One,Governor,,Paul Glover,GRN,5,,,Monroe County,Pocono One
+Monroe,Pocono Two,Governor,,Paul Glover,GRN,6,,,Monroe County,Pocono Two
+Monroe,Pocono Three,Governor,,Paul Glover,GRN,4,,,Monroe County,Pocono Three
+Monroe,Pocono Four,Governor,,Paul Glover,GRN,7,,,Monroe County,Pocono Four
+Monroe,Polk,Governor,,Paul Glover,GRN,7,,,Monroe County,Polk
+Monroe,Price,Governor,,Paul Glover,GRN,7,,,Monroe County,Price
+Monroe,Ross,Governor,,Paul Glover,GRN,12,,,Monroe County,Ross
+Monroe,Smithfield One,Governor,,Paul Glover,GRN,1,,,Monroe County,Smithfield One
+Monroe,Smithfield Two,Governor,,Paul Glover,GRN,6,,,Monroe County,Smithfield Two
+Monroe,Smithfield Three,Governor,,Paul Glover,GRN,6,,,Monroe County,Smithfield Three
+Monroe,Smithfield Four,Governor,,Paul Glover,GRN,5,,,Monroe County,Smithfield Four
+Monroe,Stroud One,Governor,,Paul Glover,GRN,7,,,Monroe County,Stroud One
+Monroe,Stroud Two,Governor,,Paul Glover,GRN,17,,,Monroe County,Stroud Two
+Monroe,Stroud Three,Governor,,Paul Glover,GRN,10,,,Monroe County,Stroud Three
+Monroe,Stroud Four,Governor,,Paul Glover,GRN,9,,,Monroe County,Stroud Four
+Monroe,Stroud Five,Governor,,Paul Glover,GRN,4,,,Monroe County,Stroud Five
+Monroe,Stroud Six,Governor,,Paul Glover,GRN,1,,,Monroe County,Stroud Six
+Monroe,Stroud Seven,Governor,,Paul Glover,GRN,1,,,Monroe County,Stroud Seven
+Monroe,Stroudsburg First Ward,Governor,,Paul Glover,GRN,1,,,Monroe County,Stroudsburg First Ward
+Monroe,Stroudsburg Second Ward,Governor,,Paul Glover,GRN,5,,,Monroe County,Stroudsburg Second Ward
+Monroe,Stroudsburg Third Ward,Governor,,Paul Glover,GRN,0,,,Monroe County,Stroudsburg Third Ward
+Monroe,Stroudsburg Fourth Ward,Governor,,Paul Glover,GRN,3,,,Monroe County,Stroudsburg Fourth Ward
+Monroe,Stroudsburg Fifth Ward,Governor,,Paul Glover,GRN,7,,,Monroe County,Stroudsburg Fifth Ward
+Monroe,Tobyhanna Eastern,Governor,,Paul Glover,GRN,12,,,Monroe County,Tobyhanna Eastern
+Monroe,Tobyhanna Western,Governor,,Paul Glover,GRN,10,,,Monroe County,Tobyhanna Western
+Monroe,Tunkhannock,Governor,,Paul Glover,GRN,11,,,Monroe County,Tunkhannock
+Monroe,Delaware Water Gap,U.S. House,7.0,Susan Wild,DEM,197,,,Monroe County,Delaware Water Gap
+Monroe,East Stroudsburg First Ward,U.S. House,7.0,Susan Wild,DEM,245,,,Monroe County,East Stroudsburg First Ward
+Monroe,East Stroudsburg Second Ward,U.S. House,7.0,Susan Wild,DEM,562,,,Monroe County,East Stroudsburg Second Ward
+Monroe,East Stroudsburg Third Ward,U.S. House,7.0,Susan Wild,DEM,147,,,Monroe County,East Stroudsburg Third Ward
+Monroe,East Stroudsburg Fourth Ward,U.S. House,7.0,Susan Wild,DEM,321,,,Monroe County,East Stroudsburg Fourth Ward
+Monroe,East Stroudsburg Fifth Ward,U.S. House,7.0,Susan Wild,DEM,271,,,Monroe County,East Stroudsburg Fifth Ward
+Monroe,East Stroudsburg Sixth Ward,U.S. House,7.0,Susan Wild,DEM,282,,,Monroe County,East Stroudsburg Sixth Ward
+Monroe,Eldred,U.S. House,7.0,Susan Wild,DEM,330,,,Monroe County,Eldred
+Monroe,Hamilton Northern,U.S. House,7.0,Susan Wild,DEM,909,,,Monroe County,Hamilton Northern
+Monroe,Hamilton Southern,U.S. House,7.0,Susan Wild,DEM,607,,,Monroe County,Hamilton Southern
+Monroe,Ross,U.S. House,7.0,Susan Wild,DEM,785,,,Monroe County,Ross
+Monroe,Smithfield One,U.S. House,7.0,Susan Wild,DEM,127,,,Monroe County,Smithfield One
+Monroe,Smithfield Two,U.S. House,7.0,Susan Wild,DEM,687,,,Monroe County,Smithfield Two
+Monroe,Smithfield Three,U.S. House,7.0,Susan Wild,DEM,388,,,Monroe County,Smithfield Three
+Monroe,Stroud One,U.S. House,7.0,Susan Wild,DEM,1006,,,Monroe County,Stroud One
+Monroe,Stroud Two,U.S. House,7.0,Susan Wild,DEM,1072,,,Monroe County,Stroud Two
+Monroe,Stroud Three,U.S. House,7.0,Susan Wild,DEM,700,,,Monroe County,Stroud Three
+Monroe,Stroud Four,U.S. House,7.0,Susan Wild,DEM,540,,,Monroe County,Stroud Four
+Monroe,Stroud Five,U.S. House,7.0,Susan Wild,DEM,408,,,Monroe County,Stroud Five
+Monroe,Stroud Six,U.S. House,7.0,Susan Wild,DEM,479,,,Monroe County,Stroud Six
+Monroe,Stroud Seven,U.S. House,7.0,Susan Wild,DEM,157,,,Monroe County,Stroud Seven
+Monroe,Stroudsburg First Ward,U.S. House,7.0,Susan Wild,DEM,106,,,Monroe County,Stroudsburg First Ward
+Monroe,Stroudsburg Second Ward,U.S. House,7.0,Susan Wild,DEM,258,,,Monroe County,Stroudsburg Second Ward
+Monroe,Stroudsburg Third Ward,U.S. House,7.0,Susan Wild,DEM,202,,,Monroe County,Stroudsburg Third Ward
+Monroe,Stroudsburg Fourth Ward,U.S. House,7.0,Susan Wild,DEM,278,,,Monroe County,Stroudsburg Fourth Ward
+Monroe,Stroudsburg Fifth Ward,U.S. House,7.0,Susan Wild,DEM,356,,,Monroe County,Stroudsburg Fifth Ward
+Monroe,Delaware Water Gap,U.S. House,7.0,Marty Nothstein,REP,115,,,Monroe County,Delaware Water Gap
+Monroe,East Stroudsburg First Ward,U.S. House,7.0,Marty Nothstein,REP,99,,,Monroe County,East Stroudsburg First Ward
+Monroe,East Stroudsburg Second Ward,U.S. House,7.0,Marty Nothstein,REP,140,,,Monroe County,East Stroudsburg Second Ward
+Monroe,East Stroudsburg Third Ward,U.S. House,7.0,Marty Nothstein,REP,80,,,Monroe County,East Stroudsburg Third Ward
+Monroe,East Stroudsburg Fourth Ward,U.S. House,7.0,Marty Nothstein,REP,182,,,Monroe County,East Stroudsburg Fourth Ward
+Monroe,East Stroudsburg Fifth Ward,U.S. House,7.0,Marty Nothstein,REP,145,,,Monroe County,East Stroudsburg Fifth Ward
+Monroe,East Stroudsburg Sixth Ward,U.S. House,7.0,Marty Nothstein,REP,159,,,Monroe County,East Stroudsburg Sixth Ward
+Monroe,Eldred,U.S. House,7.0,Marty Nothstein,REP,632,,,Monroe County,Eldred
+Monroe,Hamilton Northern,U.S. House,7.0,Marty Nothstein,REP,1087,,,Monroe County,Hamilton Northern
+Monroe,Hamilton Southern,U.S. House,7.0,Marty Nothstein,REP,711,,,Monroe County,Hamilton Southern
+Monroe,Ross,U.S. House,7.0,Marty Nothstein,REP,1102,,,Monroe County,Ross
+Monroe,Smithfield One,U.S. House,7.0,Marty Nothstein,REP,54,,,Monroe County,Smithfield One
+Monroe,Smithfield Two,U.S. House,7.0,Marty Nothstein,REP,389,,,Monroe County,Smithfield Two
+Monroe,Smithfield Three,U.S. House,7.0,Marty Nothstein,REP,239,,,Monroe County,Smithfield Three
+Monroe,Stroud One,U.S. House,7.0,Marty Nothstein,REP,491,,,Monroe County,Stroud One
+Monroe,Stroud Two,U.S. House,7.0,Marty Nothstein,REP,420,,,Monroe County,Stroud Two
+Monroe,Stroud Three,U.S. House,7.0,Marty Nothstein,REP,401,,,Monroe County,Stroud Three
+Monroe,Stroud Four,U.S. House,7.0,Marty Nothstein,REP,435,,,Monroe County,Stroud Four
+Monroe,Stroud Five,U.S. House,7.0,Marty Nothstein,REP,253,,,Monroe County,Stroud Five
+Monroe,Stroud Six,U.S. House,7.0,Marty Nothstein,REP,380,,,Monroe County,Stroud Six
+Monroe,Stroud Seven,U.S. House,7.0,Marty Nothstein,REP,138,,,Monroe County,Stroud Seven
+Monroe,Stroudsburg First Ward,U.S. House,7.0,Marty Nothstein,REP,31,,,Monroe County,Stroudsburg First Ward
+Monroe,Stroudsburg Second Ward,U.S. House,7.0,Marty Nothstein,REP,96,,,Monroe County,Stroudsburg Second Ward
+Monroe,Stroudsburg Third Ward,U.S. House,7.0,Marty Nothstein,REP,106,,,Monroe County,Stroudsburg Third Ward
+Monroe,Stroudsburg Fourth Ward,U.S. House,7.0,Marty Nothstein,REP,106,,,Monroe County,Stroudsburg Fourth Ward
+Monroe,Stroudsburg Fifth Ward,U.S. House,7.0,Marty Nothstein,REP,204,,,Monroe County,Stroudsburg Fifth Ward
+Monroe,Delaware Water Gap,U.S. House,7.0,Tim Silfies,LIB,3,,,Monroe County,Delaware Water Gap
+Monroe,East Stroudsburg First Ward,U.S. House,7.0,Tim Silfies,LIB,2,,,Monroe County,East Stroudsburg First Ward
+Monroe,East Stroudsburg Second Ward,U.S. House,7.0,Tim Silfies,LIB,11,,,Monroe County,East Stroudsburg Second Ward
+Monroe,East Stroudsburg Third Ward,U.S. House,7.0,Tim Silfies,LIB,2,,,Monroe County,East Stroudsburg Third Ward
+Monroe,East Stroudsburg Fourth Ward,U.S. House,7.0,Tim Silfies,LIB,12,,,Monroe County,East Stroudsburg Fourth Ward
+Monroe,East Stroudsburg Fifth Ward,U.S. House,7.0,Tim Silfies,LIB,9,,,Monroe County,East Stroudsburg Fifth Ward
+Monroe,East Stroudsburg Sixth Ward,U.S. House,7.0,Tim Silfies,LIB,5,,,Monroe County,East Stroudsburg Sixth Ward
+Monroe,Eldred,U.S. House,7.0,Tim Silfies,LIB,28,,,Monroe County,Eldred
+Monroe,Hamilton Northern,U.S. House,7.0,Tim Silfies,LIB,30,,,Monroe County,Hamilton Northern
+Monroe,Hamilton Southern,U.S. House,7.0,Tim Silfies,LIB,32,,,Monroe County,Hamilton Southern
+Monroe,Ross,U.S. House,7.0,Tim Silfies,LIB,46,,,Monroe County,Ross
+Monroe,Smithfield One,U.S. House,7.0,Tim Silfies,LIB,2,,,Monroe County,Smithfield One
+Monroe,Smithfield Two,U.S. House,7.0,Tim Silfies,LIB,15,,,Monroe County,Smithfield Two
+Monroe,Smithfield Three,U.S. House,7.0,Tim Silfies,LIB,13,,,Monroe County,Smithfield Three
+Monroe,Stroud One,U.S. House,7.0,Tim Silfies,LIB,22,,,Monroe County,Stroud One
+Monroe,Stroud Two,U.S. House,7.0,Tim Silfies,LIB,26,,,Monroe County,Stroud Two
+Monroe,Stroud Three,U.S. House,7.0,Tim Silfies,LIB,15,,,Monroe County,Stroud Three
+Monroe,Stroud Four,U.S. House,7.0,Tim Silfies,LIB,17,,,Monroe County,Stroud Four
+Monroe,Stroud Five,U.S. House,7.0,Tim Silfies,LIB,15,,,Monroe County,Stroud Five
+Monroe,Stroud Six,U.S. House,7.0,Tim Silfies,LIB,16,,,Monroe County,Stroud Six
+Monroe,Stroud Seven,U.S. House,7.0,Tim Silfies,LIB,10,,,Monroe County,Stroud Seven
+Monroe,Stroudsburg First Ward,U.S. House,7.0,Tim Silfies,LIB,3,,,Monroe County,Stroudsburg First Ward
+Monroe,Stroudsburg Second Ward,U.S. House,7.0,Tim Silfies,LIB,11,,,Monroe County,Stroudsburg Second Ward
+Monroe,Stroudsburg Third Ward,U.S. House,7.0,Tim Silfies,LIB,11,,,Monroe County,Stroudsburg Third Ward
+Monroe,Stroudsburg Fourth Ward,U.S. House,7.0,Tim Silfies,LIB,6,,,Monroe County,Stroudsburg Fourth Ward
+Monroe,Stroudsburg Fifth Ward,U.S. House,7.0,Tim Silfies,LIB,6,,,Monroe County,Stroudsburg Fifth Ward
+Monroe,Barrett One,U.S. House,8.0,Matt Cartwright,DEM,266,,,Monroe County,Barrett One
+Monroe,Barrett Two,U.S. House,8.0,Matt Cartwright,DEM,514,,,Monroe County,Barrett Two
+Monroe,Chestnuthill One,U.S. House,8.0,Matt Cartwright,DEM,899,,,Monroe County,Chestnuthill One
+Monroe,Chestnuthill Two,U.S. House,8.0,Matt Cartwright,DEM,784,,,Monroe County,Chestnuthill Two
+Monroe,Chestnuthill Three,U.S. House,8.0,Matt Cartwright,DEM,469,,,Monroe County,Chestnuthill Three
+Monroe,Chestnuthill Four,U.S. House,8.0,Matt Cartwright,DEM,520,,,Monroe County,Chestnuthill Four
+Monroe,Coolbaugh One,U.S. House,8.0,Matt Cartwright,DEM,626,,,Monroe County,Coolbaugh One
+Monroe,Coolbaugh Two,U.S. House,8.0,Matt Cartwright,DEM,522,,,Monroe County,Coolbaugh Two
+Monroe,Coolbaugh Three,U.S. House,8.0,Matt Cartwright,DEM,1362,,,Monroe County,Coolbaugh Three
+Monroe,Coolbaugh Four,U.S. House,8.0,Matt Cartwright,DEM,1003,,,Monroe County,Coolbaugh Four
+Monroe,Jackson,U.S. House,8.0,Matt Cartwright,DEM,1207,,,Monroe County,Jackson
+Monroe,Middle Smithfield Eastern,U.S. House,8.0,Matt Cartwright,DEM,1556,,,Monroe County,Middle Smithfield Eastern
+Monroe,Middle Smithfield Western,U.S. House,8.0,Matt Cartwright,DEM,1300,,,Monroe County,Middle Smithfield Western
+Monroe,Mount Pocono,U.S. House,8.0,Matt Cartwright,DEM,569,,,Monroe County,Mount Pocono
+Monroe,Paradise,U.S. House,8.0,Matt Cartwright,DEM,589,,,Monroe County,Paradise
+Monroe,Pocono One,U.S. House,8.0,Matt Cartwright,DEM,382,,,Monroe County,Pocono One
+Monroe,Pocono Two,U.S. House,8.0,Matt Cartwright,DEM,491,,,Monroe County,Pocono Two
+Monroe,Pocono Three,U.S. House,8.0,Matt Cartwright,DEM,600,,,Monroe County,Pocono Three
+Monroe,Pocono Four,U.S. House,8.0,Matt Cartwright,DEM,644,,,Monroe County,Pocono Four
+Monroe,Polk,U.S. House,8.0,Matt Cartwright,DEM,1009,,,Monroe County,Polk
+Monroe,Price,U.S. House,8.0,Matt Cartwright,DEM,683,,,Monroe County,Price
+Monroe,Smithfield Four,U.S. House,8.0,Matt Cartwright,DEM,473,,,Monroe County,Smithfield Four
+Monroe,Tobyhanna Eastern,U.S. House,8.0,Matt Cartwright,DEM,1019,,,Monroe County,Tobyhanna Eastern
+Monroe,Tobyhanna Western,U.S. House,8.0,Matt Cartwright,DEM,516,,,Monroe County,Tobyhanna Western
+Monroe,Tunkhannock,U.S. House,8.0,Matt Cartwright,DEM,1092,,,Monroe County,Tunkhannock
+Monroe,Barrett One,U.S. House,8.0,John Chrin,REP,298,,,Monroe County,Barrett One
+Monroe,Barrett Two,U.S. House,8.0,John Chrin,REP,541,,,Monroe County,Barrett Two
+Monroe,Chestnuthill One,U.S. House,8.0,John Chrin,REP,908,,,Monroe County,Chestnuthill One
+Monroe,Chestnuthill Two,U.S. House,8.0,John Chrin,REP,855,,,Monroe County,Chestnuthill Two
+Monroe,Chestnuthill Three,U.S. House,8.0,John Chrin,REP,457,,,Monroe County,Chestnuthill Three
+Monroe,Chestnuthill Four,U.S. House,8.0,John Chrin,REP,749,,,Monroe County,Chestnuthill Four
+Monroe,Coolbaugh One,U.S. House,8.0,John Chrin,REP,509,,,Monroe County,Coolbaugh One
+Monroe,Coolbaugh Two,U.S. House,8.0,John Chrin,REP,335,,,Monroe County,Coolbaugh Two
+Monroe,Coolbaugh Three,U.S. House,8.0,John Chrin,REP,392,,,Monroe County,Coolbaugh Three
+Monroe,Coolbaugh Four,U.S. House,8.0,John Chrin,REP,415,,,Monroe County,Coolbaugh Four
+Monroe,Jackson,U.S. House,8.0,John Chrin,REP,1170,,,Monroe County,Jackson
+Monroe,Middle Smithfield Eastern,U.S. House,8.0,John Chrin,REP,897,,,Monroe County,Middle Smithfield Eastern
+Monroe,Middle Smithfield Western,U.S. House,8.0,John Chrin,REP,947,,,Monroe County,Middle Smithfield Western
+Monroe,Mount Pocono,U.S. House,8.0,John Chrin,REP,368,,,Monroe County,Mount Pocono
+Monroe,Paradise,U.S. House,8.0,John Chrin,REP,604,,,Monroe County,Paradise
+Monroe,Pocono One,U.S. House,8.0,John Chrin,REP,363,,,Monroe County,Pocono One
+Monroe,Pocono Two,U.S. House,8.0,John Chrin,REP,399,,,Monroe County,Pocono Two
+Monroe,Pocono Three,U.S. House,8.0,John Chrin,REP,490,,,Monroe County,Pocono Three
+Monroe,Pocono Four,U.S. House,8.0,John Chrin,REP,574,,,Monroe County,Pocono Four
+Monroe,Polk,U.S. House,8.0,John Chrin,REP,1471,,,Monroe County,Polk
+Monroe,Price,U.S. House,8.0,John Chrin,REP,514,,,Monroe County,Price
+Monroe,Smithfield Four,U.S. House,8.0,John Chrin,REP,310,,,Monroe County,Smithfield Four
+Monroe,Tobyhanna Eastern,U.S. House,8.0,John Chrin,REP,773,,,Monroe County,Tobyhanna Eastern
+Monroe,Tobyhanna Western,U.S. House,8.0,John Chrin,REP,564,,,Monroe County,Tobyhanna Western
+Monroe,Tunkhannock,U.S. House,8.0,John Chrin,REP,873,,,Monroe County,Tunkhannock
+Monroe,Barrett One,State Senate,22.0,John Blake,DEM,258,,,Monroe County,Barrett One
+Monroe,Barrett Two,State Senate,22.0,John Blake,DEM,491,,,Monroe County,Barrett Two
+Monroe,Coolbaugh One,State Senate,22.0,John Blake,DEM,588,,,Monroe County,Coolbaugh One
+Monroe,Coolbaugh Two,State Senate,22.0,John Blake,DEM,505,,,Monroe County,Coolbaugh Two
+Monroe,Coolbaugh Three,State Senate,22.0,John Blake,DEM,1334,,,Monroe County,Coolbaugh Three
+Monroe,Coolbaugh Four,State Senate,22.0,John Blake,DEM,963,,,Monroe County,Coolbaugh Four
+Monroe,Price,State Senate,22.0,John Blake,DEM,653,,,Monroe County,Price
+Monroe,Barrett One,State Senate,22.0,Frank Scavo,REP,299,,,Monroe County,Barrett One
+Monroe,Barrett Two,State Senate,22.0,Frank Scavo,REP,553,,,Monroe County,Barrett Two
+Monroe,Coolbaugh One,State Senate,22.0,Frank Scavo,REP,532,,,Monroe County,Coolbaugh One
+Monroe,Coolbaugh Two,State Senate,22.0,Frank Scavo,REP,344,,,Monroe County,Coolbaugh Two
+Monroe,Coolbaugh Three,State Senate,22.0,Frank Scavo,REP,421,,,Monroe County,Coolbaugh Three
+Monroe,Coolbaugh Four,State Senate,22.0,Frank Scavo,REP,447,,,Monroe County,Coolbaugh Four
+Monroe,Price,State Senate,22.0,Frank Scavo,REP,532,,,Monroe County,Price
+Monroe,Chestnuthill One,State Senate,40.0,Tarah Probst,DEM,782,,,Monroe County,Chestnuthill One
+Monroe,Chestnuthill Two,State Senate,40.0,Tarah Probst,DEM,660,,,Monroe County,Chestnuthill Two
+Monroe,Chestnuthill Three,State Senate,40.0,Tarah Probst,DEM,354,,,Monroe County,Chestnuthill Three
+Monroe,Chestnuthill Four,State Senate,40.0,Tarah Probst,DEM,437,,,Monroe County,Chestnuthill Four
+Monroe,Delaware Water Gap,State Senate,40.0,Tarah Probst,DEM,184,,,Monroe County,Delaware Water Gap
+Monroe,East Stroudsburg First Ward,State Senate,40.0,Tarah Probst,DEM,216,,,Monroe County,East Stroudsburg First Ward
+Monroe,East Stroudsburg Second Ward,State Senate,40.0,Tarah Probst,DEM,534,,,Monroe County,East Stroudsburg Second Ward
+Monroe,East Stroudsburg Third Ward,State Senate,40.0,Tarah Probst,DEM,128,,,Monroe County,East Stroudsburg Third Ward
+Monroe,East Stroudsburg Fourth Ward,State Senate,40.0,Tarah Probst,DEM,270,,,Monroe County,East Stroudsburg Fourth Ward
+Monroe,East Stroudsburg Fifth Ward,State Senate,40.0,Tarah Probst,DEM,220,,,Monroe County,East Stroudsburg Fifth Ward
+Monroe,East Stroudsburg Sixth Ward,State Senate,40.0,Tarah Probst,DEM,247,,,Monroe County,East Stroudsburg Sixth Ward
+Monroe,Eldred,State Senate,40.0,Tarah Probst,DEM,290,,,Monroe County,Eldred
+Monroe,Hamilton Northern,State Senate,40.0,Tarah Probst,DEM,812,,,Monroe County,Hamilton Northern
+Monroe,Hamilton Southern,State Senate,40.0,Tarah Probst,DEM,533,,,Monroe County,Hamilton Southern
+Monroe,Jackson,State Senate,40.0,Tarah Probst,DEM,977,,,Monroe County,Jackson
+Monroe,Middle Smithfield Eastern,State Senate,40.0,Tarah Probst,DEM,1384,,,Monroe County,Middle Smithfield Eastern
+Monroe,Middle Smithfield Western,State Senate,40.0,Tarah Probst,DEM,1126,,,Monroe County,Middle Smithfield Western
+Monroe,Mount Pocono,State Senate,40.0,Tarah Probst,DEM,466,,,Monroe County,Mount Pocono
+Monroe,Paradise,State Senate,40.0,Tarah Probst,DEM,458,,,Monroe County,Paradise
+Monroe,Pocono One,State Senate,40.0,Tarah Probst,DEM,314,,,Monroe County,Pocono One
+Monroe,Pocono Two,State Senate,40.0,Tarah Probst,DEM,375,,,Monroe County,Pocono Two
+Monroe,Pocono Three,State Senate,40.0,Tarah Probst,DEM,477,,,Monroe County,Pocono Three
+Monroe,Pocono Four,State Senate,40.0,Tarah Probst,DEM,528,,,Monroe County,Pocono Four
+Monroe,Polk,State Senate,40.0,Tarah Probst,DEM,831,,,Monroe County,Polk
+Monroe,Ross,State Senate,40.0,Tarah Probst,DEM,664,,,Monroe County,Ross
+Monroe,Smithfield One,State Senate,40.0,Tarah Probst,DEM,115,,,Monroe County,Smithfield One
+Monroe,Smithfield Two,State Senate,40.0,Tarah Probst,DEM,599,,,Monroe County,Smithfield Two
+Monroe,Smithfield Three,State Senate,40.0,Tarah Probst,DEM,357,,,Monroe County,Smithfield Three
+Monroe,Smithfield Four,State Senate,40.0,Tarah Probst,DEM,416,,,Monroe County,Smithfield Four
+Monroe,Stroud One,State Senate,40.0,Tarah Probst,DEM,919,,,Monroe County,Stroud One
+Monroe,Stroud Two,State Senate,40.0,Tarah Probst,DEM,986,,,Monroe County,Stroud Two
+Monroe,Stroud Three,State Senate,40.0,Tarah Probst,DEM,607,,,Monroe County,Stroud Three
+Monroe,Stroud Four,State Senate,40.0,Tarah Probst,DEM,486,,,Monroe County,Stroud Four
+Monroe,Stroud Five,State Senate,40.0,Tarah Probst,DEM,357,,,Monroe County,Stroud Five
+Monroe,Stroud Six,State Senate,40.0,Tarah Probst,DEM,435,,,Monroe County,Stroud Six
+Monroe,Stroud Seven,State Senate,40.0,Tarah Probst,DEM,123,,,Monroe County,Stroud Seven
+Monroe,Stroudsburg First Ward,State Senate,40.0,Tarah Probst,DEM,97,,,Monroe County,Stroudsburg First Ward
+Monroe,Stroudsburg Second Ward,State Senate,40.0,Tarah Probst,DEM,238,,,Monroe County,Stroudsburg Second Ward
+Monroe,Stroudsburg Third Ward,State Senate,40.0,Tarah Probst,DEM,184,,,Monroe County,Stroudsburg Third Ward
+Monroe,Stroudsburg Fourth Ward,State Senate,40.0,Tarah Probst,DEM,254,,,Monroe County,Stroudsburg Fourth Ward
+Monroe,Stroudsburg Fifth Ward,State Senate,40.0,Tarah Probst,DEM,307,,,Monroe County,Stroudsburg Fifth Ward
+Monroe,Tobyhanna Eastern,State Senate,40.0,Tarah Probst,DEM,849,,,Monroe County,Tobyhanna Eastern
+Monroe,Tobyhanna Western,State Senate,40.0,Tarah Probst,DEM,402,,,Monroe County,Tobyhanna Western
+Monroe,Tunkhannock,State Senate,40.0,Tarah Probst,DEM,965,,,Monroe County,Tunkhannock
+Monroe,Chestnuthill One,State Senate,40.0,Mario Scavello,REP,1004,,,Monroe County,Chestnuthill One
+Monroe,Chestnuthill Two,State Senate,40.0,Mario Scavello,REP,967,,,Monroe County,Chestnuthill Two
+Monroe,Chestnuthill Three,State Senate,40.0,Mario Scavello,REP,561,,,Monroe County,Chestnuthill Three
+Monroe,Chestnuthill Four,State Senate,40.0,Mario Scavello,REP,832,,,Monroe County,Chestnuthill Four
+Monroe,Delaware Water Gap,State Senate,40.0,Mario Scavello,REP,133,,,Monroe County,Delaware Water Gap
+Monroe,East Stroudsburg First Ward,State Senate,40.0,Mario Scavello,REP,125,,,Monroe County,East Stroudsburg First Ward
+Monroe,East Stroudsburg Second Ward,State Senate,40.0,Mario Scavello,REP,172,,,Monroe County,East Stroudsburg Second Ward
+Monroe,East Stroudsburg Third Ward,State Senate,40.0,Mario Scavello,REP,103,,,Monroe County,East Stroudsburg Third Ward
+Monroe,East Stroudsburg Fourth Ward,State Senate,40.0,Mario Scavello,REP,247,,,Monroe County,East Stroudsburg Fourth Ward
+Monroe,East Stroudsburg Fifth Ward,State Senate,40.0,Mario Scavello,REP,200,,,Monroe County,East Stroudsburg Fifth Ward
+Monroe,East Stroudsburg Sixth Ward,State Senate,40.0,Mario Scavello,REP,207,,,Monroe County,East Stroudsburg Sixth Ward
+Monroe,Eldred,State Senate,40.0,Mario Scavello,REP,700,,,Monroe County,Eldred
+Monroe,Hamilton Northern,State Senate,40.0,Mario Scavello,REP,1239,,,Monroe County,Hamilton Northern
+Monroe,Hamilton Southern,State Senate,40.0,Mario Scavello,REP,818,,,Monroe County,Hamilton Southern
+Monroe,Jackson,State Senate,40.0,Mario Scavello,REP,1431,,,Monroe County,Jackson
+Monroe,Middle Smithfield Eastern,State Senate,40.0,Mario Scavello,REP,1057,,,Monroe County,Middle Smithfield Eastern
+Monroe,Middle Smithfield Western,State Senate,40.0,Mario Scavello,REP,1118,,,Monroe County,Middle Smithfield Western
+Monroe,Mount Pocono,State Senate,40.0,Mario Scavello,REP,484,,,Monroe County,Mount Pocono
+Monroe,Paradise,State Senate,40.0,Mario Scavello,REP,734,,,Monroe County,Paradise
+Monroe,Pocono One,State Senate,40.0,Mario Scavello,REP,431,,,Monroe County,Pocono One
+Monroe,Pocono Two,State Senate,40.0,Mario Scavello,REP,518,,,Monroe County,Pocono Two
+Monroe,Pocono Three,State Senate,40.0,Mario Scavello,REP,616,,,Monroe County,Pocono Three
+Monroe,Pocono Four,State Senate,40.0,Mario Scavello,REP,693,,,Monroe County,Pocono Four
+Monroe,Polk,State Senate,40.0,Mario Scavello,REP,1632,,,Monroe County,Polk
+Monroe,Ross,State Senate,40.0,Mario Scavello,REP,1264,,,Monroe County,Ross
+Monroe,Smithfield One,State Senate,40.0,Mario Scavello,REP,70,,,Monroe County,Smithfield One
+Monroe,Smithfield Two,State Senate,40.0,Mario Scavello,REP,483,,,Monroe County,Smithfield Two
+Monroe,Smithfield Three,State Senate,40.0,Mario Scavello,REP,283,,,Monroe County,Smithfield Three
+Monroe,Smithfield Four,State Senate,40.0,Mario Scavello,REP,370,,,Monroe County,Smithfield Four
+Monroe,Stroud One,State Senate,40.0,Mario Scavello,REP,604,,,Monroe County,Stroud One
+Monroe,Stroud Two,State Senate,40.0,Mario Scavello,REP,508,,,Monroe County,Stroud Two
+Monroe,Stroud Three,State Senate,40.0,Mario Scavello,REP,520,,,Monroe County,Stroud Three
+Monroe,Stroud Four,State Senate,40.0,Mario Scavello,REP,511,,,Monroe County,Stroud Four
+Monroe,Stroud Five,State Senate,40.0,Mario Scavello,REP,317,,,Monroe County,Stroud Five
+Monroe,Stroud Six,State Senate,40.0,Mario Scavello,REP,445,,,Monroe County,Stroud Six
+Monroe,Stroud Seven,State Senate,40.0,Mario Scavello,REP,181,,,Monroe County,Stroud Seven
+Monroe,Stroudsburg First Ward,State Senate,40.0,Mario Scavello,REP,40,,,Monroe County,Stroudsburg First Ward
+Monroe,Stroudsburg Second Ward,State Senate,40.0,Mario Scavello,REP,118,,,Monroe County,Stroudsburg Second Ward
+Monroe,Stroudsburg Third Ward,State Senate,40.0,Mario Scavello,REP,135,,,Monroe County,Stroudsburg Third Ward
+Monroe,Stroudsburg Fourth Ward,State Senate,40.0,Mario Scavello,REP,141,,,Monroe County,Stroudsburg Fourth Ward
+Monroe,Stroudsburg Fifth Ward,State Senate,40.0,Mario Scavello,REP,266,,,Monroe County,Stroudsburg Fifth Ward
+Monroe,Tobyhanna Eastern,State Senate,40.0,Mario Scavello,REP,941,,,Monroe County,Tobyhanna Eastern
+Monroe,Tobyhanna Western,State Senate,40.0,Mario Scavello,REP,672,,,Monroe County,Tobyhanna Western
+Monroe,Tunkhannock,State Senate,40.0,Mario Scavello,REP,983,,,Monroe County,Tunkhannock
+Monroe,Chestnuthill One,State Senate,40.0,Adam Reinhardt,LIB,26,,,Monroe County,Chestnuthill One
+Monroe,Chestnuthill Two,State Senate,40.0,Adam Reinhardt,LIB,11,,,Monroe County,Chestnuthill Two
+Monroe,Chestnuthill Three,State Senate,40.0,Adam Reinhardt,LIB,20,,,Monroe County,Chestnuthill Three
+Monroe,Chestnuthill Four,State Senate,40.0,Adam Reinhardt,LIB,12,,,Monroe County,Chestnuthill Four
+Monroe,Delaware Water Gap,State Senate,40.0,Adam Reinhardt,LIB,1,,,Monroe County,Delaware Water Gap
+Monroe,East Stroudsburg First Ward,State Senate,40.0,Adam Reinhardt,LIB,6,,,Monroe County,East Stroudsburg First Ward
+Monroe,East Stroudsburg Second Ward,State Senate,40.0,Adam Reinhardt,LIB,9,,,Monroe County,East Stroudsburg Second Ward
+Monroe,East Stroudsburg Third Ward,State Senate,40.0,Adam Reinhardt,LIB,2,,,Monroe County,East Stroudsburg Third Ward
+Monroe,East Stroudsburg Fourth Ward,State Senate,40.0,Adam Reinhardt,LIB,7,,,Monroe County,East Stroudsburg Fourth Ward
+Monroe,East Stroudsburg Fifth Ward,State Senate,40.0,Adam Reinhardt,LIB,7,,,Monroe County,East Stroudsburg Fifth Ward
+Monroe,East Stroudsburg Sixth Ward,State Senate,40.0,Adam Reinhardt,LIB,3,,,Monroe County,East Stroudsburg Sixth Ward
+Monroe,Eldred,State Senate,40.0,Adam Reinhardt,LIB,15,,,Monroe County,Eldred
+Monroe,Hamilton Northern,State Senate,40.0,Adam Reinhardt,LIB,21,,,Monroe County,Hamilton Northern
+Monroe,Hamilton Southern,State Senate,40.0,Adam Reinhardt,LIB,19,,,Monroe County,Hamilton Southern
+Monroe,Jackson,State Senate,40.0,Adam Reinhardt,LIB,21,,,Monroe County,Jackson
+Monroe,Middle Smithfield Eastern,State Senate,40.0,Adam Reinhardt,LIB,25,,,Monroe County,Middle Smithfield Eastern
+Monroe,Middle Smithfield Western,State Senate,40.0,Adam Reinhardt,LIB,25,,,Monroe County,Middle Smithfield Western
+Monroe,Mount Pocono,State Senate,40.0,Adam Reinhardt,LIB,2,,,Monroe County,Mount Pocono
+Monroe,Paradise,State Senate,40.0,Adam Reinhardt,LIB,11,,,Monroe County,Paradise
+Monroe,Pocono One,State Senate,40.0,Adam Reinhardt,LIB,8,,,Monroe County,Pocono One
+Monroe,Pocono Two,State Senate,40.0,Adam Reinhardt,LIB,4,,,Monroe County,Pocono Two
+Monroe,Pocono Three,State Senate,40.0,Adam Reinhardt,LIB,9,,,Monroe County,Pocono Three
+Monroe,Pocono Four,State Senate,40.0,Adam Reinhardt,LIB,14,,,Monroe County,Pocono Four
+Monroe,Polk,State Senate,40.0,Adam Reinhardt,LIB,25,,,Monroe County,Polk
+Monroe,Ross,State Senate,40.0,Adam Reinhardt,LIB,17,,,Monroe County,Ross
+Monroe,Smithfield One,State Senate,40.0,Adam Reinhardt,LIB,1,,,Monroe County,Smithfield One
+Monroe,Smithfield Two,State Senate,40.0,Adam Reinhardt,LIB,15,,,Monroe County,Smithfield Two
+Monroe,Smithfield Three,State Senate,40.0,Adam Reinhardt,LIB,10,,,Monroe County,Smithfield Three
+Monroe,Smithfield Four,State Senate,40.0,Adam Reinhardt,LIB,8,,,Monroe County,Smithfield Four
+Monroe,Stroud One,State Senate,40.0,Adam Reinhardt,LIB,9,,,Monroe County,Stroud One
+Monroe,Stroud Two,State Senate,40.0,Adam Reinhardt,LIB,29,,,Monroe County,Stroud Two
+Monroe,Stroud Three,State Senate,40.0,Adam Reinhardt,LIB,12,,,Monroe County,Stroud Three
+Monroe,Stroud Four,State Senate,40.0,Adam Reinhardt,LIB,7,,,Monroe County,Stroud Four
+Monroe,Stroud Five,State Senate,40.0,Adam Reinhardt,LIB,10,,,Monroe County,Stroud Five
+Monroe,Stroud Six,State Senate,40.0,Adam Reinhardt,LIB,6,,,Monroe County,Stroud Six
+Monroe,Stroud Seven,State Senate,40.0,Adam Reinhardt,LIB,5,,,Monroe County,Stroud Seven
+Monroe,Stroudsburg First Ward,State Senate,40.0,Adam Reinhardt,LIB,3,,,Monroe County,Stroudsburg First Ward
+Monroe,Stroudsburg Second Ward,State Senate,40.0,Adam Reinhardt,LIB,7,,,Monroe County,Stroudsburg Second Ward
+Monroe,Stroudsburg Third Ward,State Senate,40.0,Adam Reinhardt,LIB,5,,,Monroe County,Stroudsburg Third Ward
+Monroe,Stroudsburg Fourth Ward,State Senate,40.0,Adam Reinhardt,LIB,3,,,Monroe County,Stroudsburg Fourth Ward
+Monroe,Stroudsburg Fifth Ward,State Senate,40.0,Adam Reinhardt,LIB,5,,,Monroe County,Stroudsburg Fifth Ward
+Monroe,Tobyhanna Eastern,State Senate,40.0,Adam Reinhardt,LIB,18,,,Monroe County,Tobyhanna Eastern
+Monroe,Tobyhanna Western,State Senate,40.0,Adam Reinhardt,LIB,7,,,Monroe County,Tobyhanna Western
+Monroe,Tunkhannock,State Senate,40.0,Adam Reinhardt,LIB,14,,,Monroe County,Tunkhannock
+Monroe,Coolbaugh One,State House,115.0,Maureen Madden,DEM,582,,,Monroe County,Coolbaugh One
+Monroe,Coolbaugh Two,State House,115.0,Maureen Madden,DEM,491,,,Monroe County,Coolbaugh Two
+Monroe,Coolbaugh Three,State House,115.0,Maureen Madden,DEM,1337,,,Monroe County,Coolbaugh Three
+Monroe,Coolbaugh Four,State House,115.0,Maureen Madden,DEM,952,,,Monroe County,Coolbaugh Four
+Monroe,East Stroudsburg First Ward,State House,115.0,Maureen Madden,DEM,226,,,Monroe County,East Stroudsburg First Ward
+Monroe,East Stroudsburg Second Ward,State House,115.0,Maureen Madden,DEM,549,,,Monroe County,East Stroudsburg Second Ward
+Monroe,East Stroudsburg Third Ward,State House,115.0,Maureen Madden,DEM,134,,,Monroe County,East Stroudsburg Third Ward
+Monroe,East Stroudsburg Fourth Ward,State House,115.0,Maureen Madden,DEM,288,,,Monroe County,East Stroudsburg Fourth Ward
+Monroe,East Stroudsburg Fifth Ward,State House,115.0,Maureen Madden,DEM,249,,,Monroe County,East Stroudsburg Fifth Ward
+Monroe,East Stroudsburg Sixth Ward,State House,115.0,Maureen Madden,DEM,247,,,Monroe County,East Stroudsburg Sixth Ward
+Monroe,Paradise,State House,115.0,Maureen Madden,DEM,541,,,Monroe County,Paradise
+Monroe,Price,State House,115.0,Maureen Madden,DEM,633,,,Monroe County,Price
+Monroe,Stroud One,State House,115.0,Maureen Madden,DEM,940,,,Monroe County,Stroud One
+Monroe,Stroud Two,State House,115.0,Maureen Madden,DEM,1050,,,Monroe County,Stroud Two
+Monroe,Stroud Three,State House,115.0,Maureen Madden,DEM,638,,,Monroe County,Stroud Three
+Monroe,Stroud Four,State House,115.0,Maureen Madden,DEM,502,,,Monroe County,Stroud Four
+Monroe,Stroud Five,State House,115.0,Maureen Madden,DEM,383,,,Monroe County,Stroud Five
+Monroe,Stroud Six,State House,115.0,Maureen Madden,DEM,438,,,Monroe County,Stroud Six
+Monroe,Stroudsburg First Ward,State House,115.0,Maureen Madden,DEM,103,,,Monroe County,Stroudsburg First Ward
+Monroe,Stroudsburg Second Ward,State House,115.0,Maureen Madden,DEM,233,,,Monroe County,Stroudsburg Second Ward
+Monroe,Stroudsburg Third Ward,State House,115.0,Maureen Madden,DEM,192,,,Monroe County,Stroudsburg Third Ward
+Monroe,Stroudsburg Fourth Ward,State House,115.0,Maureen Madden,DEM,278,,,Monroe County,Stroudsburg Fourth Ward
+Monroe,Stroudsburg Fifth Ward,State House,115.0,Maureen Madden,DEM,330,,,Monroe County,Stroudsburg Fifth Ward
+Monroe,Coolbaugh One,State House,115.0,David Parker,REP,549,,,Monroe County,Coolbaugh One
+Monroe,Coolbaugh Two,State House,115.0,David Parker,REP,371,,,Monroe County,Coolbaugh Two
+Monroe,Coolbaugh Three,State House,115.0,David Parker,REP,433,,,Monroe County,Coolbaugh Three
+Monroe,Coolbaugh Four,State House,115.0,David Parker,REP,471,,,Monroe County,Coolbaugh Four
+Monroe,East Stroudsburg First Ward,State House,115.0,David Parker,REP,119,,,Monroe County,East Stroudsburg First Ward
+Monroe,East Stroudsburg Second Ward,State House,115.0,David Parker,REP,166,,,Monroe County,East Stroudsburg Second Ward
+Monroe,East Stroudsburg Third Ward,State House,115.0,David Parker,REP,98,,,Monroe County,East Stroudsburg Third Ward
+Monroe,East Stroudsburg Fourth Ward,State House,115.0,David Parker,REP,237,,,Monroe County,East Stroudsburg Fourth Ward
+Monroe,East Stroudsburg Fifth Ward,State House,115.0,David Parker,REP,177,,,Monroe County,East Stroudsburg Fifth Ward
+Monroe,East Stroudsburg Sixth Ward,State House,115.0,David Parker,REP,203,,,Monroe County,East Stroudsburg Sixth Ward
+Monroe,Paradise,State House,115.0,David Parker,REP,657,,,Monroe County,Paradise
+Monroe,Price,State House,115.0,David Parker,REP,566,,,Monroe County,Price
+Monroe,Stroud One,State House,115.0,David Parker,REP,586,,,Monroe County,Stroud One
+Monroe,Stroud Two,State House,115.0,David Parker,REP,467,,,Monroe County,Stroud Two
+Monroe,Stroud Three,State House,115.0,David Parker,REP,500,,,Monroe County,Stroud Three
+Monroe,Stroud Four,State House,115.0,David Parker,REP,495,,,Monroe County,Stroud Four
+Monroe,Stroud Five,State House,115.0,David Parker,REP,297,,,Monroe County,Stroud Five
+Monroe,Stroud Six,State House,115.0,David Parker,REP,444,,,Monroe County,Stroud Six
+Monroe,Stroudsburg First Ward,State House,115.0,David Parker,REP,40,,,Monroe County,Stroudsburg First Ward
+Monroe,Stroudsburg Second Ward,State House,115.0,David Parker,REP,131,,,Monroe County,Stroudsburg Second Ward
+Monroe,Stroudsburg Third Ward,State House,115.0,David Parker,REP,134,,,Monroe County,Stroudsburg Third Ward
+Monroe,Stroudsburg Fourth Ward,State House,115.0,David Parker,REP,122,,,Monroe County,Stroudsburg Fourth Ward
+Monroe,Stroudsburg Fifth Ward,State House,115.0,David Parker,REP,248,,,Monroe County,Stroudsburg Fifth Ward
+Monroe,Chestnuthill One,State House,176.0,Claudette Williams,DEM,831,,,Monroe County,Chestnuthill One
+Monroe,Chestnuthill Two,State House,176.0,Claudette Williams,DEM,721,,,Monroe County,Chestnuthill Two
+Monroe,Chestnuthill Three,State House,176.0,Claudette Williams,DEM,401,,,Monroe County,Chestnuthill Three
+Monroe,Chestnuthill Four,State House,176.0,Claudette Williams,DEM,457,,,Monroe County,Chestnuthill Four
+Monroe,Eldred,State House,176.0,Claudette Williams,DEM,313,,,Monroe County,Eldred
+Monroe,Jackson,State House,176.0,Claudette Williams,DEM,1086,,,Monroe County,Jackson
+Monroe,Mount Pocono,State House,176.0,Claudette Williams,DEM,549,,,Monroe County,Mount Pocono
+Monroe,Pocono One,State House,176.0,Claudette Williams,DEM,358,,,Monroe County,Pocono One
+Monroe,Pocono Two,State House,176.0,Claudette Williams,DEM,432,,,Monroe County,Pocono Two
+Monroe,Pocono Three,State House,176.0,Claudette Williams,DEM,571,,,Monroe County,Pocono Three
+Monroe,Pocono Four,State House,176.0,Claudette Williams,DEM,610,,,Monroe County,Pocono Four
+Monroe,Polk,State House,176.0,Claudette Williams,DEM,909,,,Monroe County,Polk
+Monroe,Tobyhanna Eastern,State House,176.0,Claudette Williams,DEM,916,,,Monroe County,Tobyhanna Eastern
+Monroe,Tobyhanna Western,State House,176.0,Claudette Williams,DEM,441,,,Monroe County,Tobyhanna Western
+Monroe,Tunkhannock,State House,176.0,Claudette Williams,DEM,1026,,,Monroe County,Tunkhannock
+Monroe,Chestnuthill One,State House,176.0,Jack Rader,REP,975,,,Monroe County,Chestnuthill One
+Monroe,Chestnuthill Two,State House,176.0,Jack Rader,REP,912,,,Monroe County,Chestnuthill Two
+Monroe,Chestnuthill Three,State House,176.0,Jack Rader,REP,525,,,Monroe County,Chestnuthill Three
+Monroe,Chestnuthill Four,State House,176.0,Jack Rader,REP,819,,,Monroe County,Chestnuthill Four
+Monroe,Eldred,State House,176.0,Jack Rader,REP,689,,,Monroe County,Eldred
+Monroe,Jackson,State House,176.0,Jack Rader,REP,1312,,,Monroe County,Jackson
+Monroe,Mount Pocono,State House,176.0,Jack Rader,REP,394,,,Monroe County,Mount Pocono
+Monroe,Pocono One,State House,176.0,Jack Rader,REP,389,,,Monroe County,Pocono One
+Monroe,Pocono Two,State House,176.0,Jack Rader,REP,466,,,Monroe County,Pocono Two
+Monroe,Pocono Three,State House,176.0,Jack Rader,REP,529,,,Monroe County,Pocono Three
+Monroe,Pocono Four,State House,176.0,Jack Rader,REP,609,,,Monroe County,Pocono Four
+Monroe,Polk,State House,176.0,Jack Rader,REP,1568,,,Monroe County,Polk
+Monroe,Tobyhanna Eastern,State House,176.0,Jack Rader,REP,881,,,Monroe County,Tobyhanna Eastern
+Monroe,Tobyhanna Western,State House,176.0,Jack Rader,REP,639,,,Monroe County,Tobyhanna Western
+Monroe,Tunkhannock,State House,176.0,Jack Rader,REP,928,,,Monroe County,Tunkhannock
+Monroe,Barrett One,State House,189.0,Adam Rodriguez,DEM,201,,,Monroe County,Barrett One
+Monroe,Barrett Two,State House,189.0,Adam Rodriguez,DEM,383,,,Monroe County,Barrett Two
+Monroe,Delaware Water Gap,State House,189.0,Adam Rodriguez,DEM,174,,,Monroe County,Delaware Water Gap
+Monroe,Hamilton Northern,State House,189.0,Adam Rodriguez,DEM,709,,,Monroe County,Hamilton Northern
+Monroe,Hamilton Southern,State House,189.0,Adam Rodriguez,DEM,463,,,Monroe County,Hamilton Southern
+Monroe,Middle Smithfield Eastern,State House,189.0,Adam Rodriguez,DEM,1266,,,Monroe County,Middle Smithfield Eastern
+Monroe,Middle Smithfield Western,State House,189.0,Adam Rodriguez,DEM,1030,,,Monroe County,Middle Smithfield Western
+Monroe,Ross,State House,189.0,Adam Rodriguez,DEM,617,,,Monroe County,Ross
+Monroe,Smithfield One,State House,189.0,Adam Rodriguez,DEM,110,,,Monroe County,Smithfield One
+Monroe,Smithfield Two,State House,189.0,Adam Rodriguez,DEM,565,,,Monroe County,Smithfield Two
+Monroe,Smithfield Three,State House,189.0,Adam Rodriguez,DEM,304,,,Monroe County,Smithfield Three
+Monroe,Smithfield Four,State House,189.0,Adam Rodriguez,DEM,387,,,Monroe County,Smithfield Four
+Monroe,Stroud Seven,State House,189.0,Adam Rodriguez,DEM,109,,,Monroe County,Stroud Seven
+Monroe,Barrett One,State House,189.0,Rosemary Brown,REP,367,,,Monroe County,Barrett One
+Monroe,Barrett Two,State House,189.0,Rosemary Brown,REP,680,,,Monroe County,Barrett Two
+Monroe,Delaware Water Gap,State House,189.0,Rosemary Brown,REP,142,,,Monroe County,Delaware Water Gap
+Monroe,Hamilton Northern,State House,189.0,Rosemary Brown,REP,1339,,,Monroe County,Hamilton Northern
+Monroe,Hamilton Southern,State House,189.0,Rosemary Brown,REP,889,,,Monroe County,Hamilton Southern
+Monroe,Middle Smithfield Eastern,State House,189.0,Rosemary Brown,REP,1212,,,Monroe County,Middle Smithfield Eastern
+Monroe,Middle Smithfield Western,State House,189.0,Rosemary Brown,REP,1232,,,Monroe County,Middle Smithfield Western
+Monroe,Ross,State House,189.0,Rosemary Brown,REP,1327,,,Monroe County,Ross
+Monroe,Smithfield One,State House,189.0,Rosemary Brown,REP,77,,,Monroe County,Smithfield One
+Monroe,Smithfield Two,State House,189.0,Rosemary Brown,REP,532,,,Monroe County,Smithfield Two
+Monroe,Smithfield Three,State House,189.0,Rosemary Brown,REP,342,,,Monroe County,Smithfield Three
+Monroe,Smithfield Four,State House,189.0,Rosemary Brown,REP,405,,,Monroe County,Smithfield Four
+Monroe,Stroud Seven,State House,189.0,Rosemary Brown,REP,200,,,Monroe County,Stroud Seven

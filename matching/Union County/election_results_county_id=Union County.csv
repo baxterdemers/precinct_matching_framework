@@ -1,0 +1,406 @@
+county,precinct,office,district,candidate,party,votes,election_day,absentee,county_id,original_precinct_name
+Union,Buffalo 1,U.S. Senate,,"Bob Casey, Jr. ",DEM,282.0,,,Union County,Buffalo 1
+Union,Buffalo 1,U.S. Senate,,Lou Barletta ,REP,649.0,,,Union County,Buffalo 1
+Union,Buffalo 1,U.S. Senate,,Neal Gale,GRN,8.0,,,Union County,Buffalo 1
+Union,Buffalo 1,U.S. Senate,,Write In Votes,,0.0,,,Union County,Buffalo 1
+Union,Buffalo 1,Governor,,Wolf/Fetterman,DEM,313.0,,,Union County,Buffalo 1
+Union,Buffalo 1,Governor,,Wagner/Bartos,REP,609.0,,,Union County,Buffalo 1
+Union,Buffalo 1,Governor,,Glover/Bowser-Bostic,GRN,8.0,,,Union County,Buffalo 1
+Union,Buffalo 1,Governor,,Krawchuk/Smith,LIB,13.0,,,Union County,Buffalo 1
+Union,Buffalo 1,Governor,,Write In Votes,,0.0,,,Union County,Buffalo 1
+Union,Buffalo 1,U.S. House,12.0,Marc Friedenberg,DEM,239.0,,,Union County,Buffalo 1
+Union,Buffalo 1,U.S. House,12.0,Tom Marino,REP,702.0,,,Union County,Buffalo 1
+Union,Buffalo 1,U.S. House,12.0,Write In Votes,,0.0,,,Union County,Buffalo 1
+Union,Buffalo 1,State House,85.0,Jennifer Rager-Kay,DEM,204.0,,,Union County,Buffalo 1
+Union,Buffalo 1,State House,85.0,Fred Keller,REP,727.0,,,Union County,Buffalo 1
+Union,Buffalo 1,State House,85.0,Write In Votes,,0.0,,,Union County,Buffalo 1
+Union,Buffalo 2,U.S. Senate,,"Bob Casey, Jr. ",DEM,68.0,,,Union County,Buffalo 2
+Union,Buffalo 2,U.S. Senate,,Lou Barletta ,REP,252.0,,,Union County,Buffalo 2
+Union,Buffalo 2,U.S. Senate,,Neal Gale,GRN,5.0,,,Union County,Buffalo 2
+Union,Buffalo 2,U.S. Senate,,Write In Votes,,0.0,,,Union County,Buffalo 2
+Union,Buffalo 2,Governor,,Wolf/Fetterman,DEM,91.0,,,Union County,Buffalo 2
+Union,Buffalo 2,Governor,,Wagner/Bartos,REP,221.0,,,Union County,Buffalo 2
+Union,Buffalo 2,Governor,,Glover/Bowser-Bostic,GRN,5.0,,,Union County,Buffalo 2
+Union,Buffalo 2,Governor,,Krawchuk/Smith,LIB,8.0,,,Union County,Buffalo 2
+Union,Buffalo 2,Governor,,Write In Votes,,0.0,,,Union County,Buffalo 2
+Union,Buffalo 2,U.S. House,12.0,Marc Friedenberg,DEM,63.0,,,Union County,Buffalo 2
+Union,Buffalo 2,U.S. House,12.0,Tom Marino,REP,261.0,,,Union County,Buffalo 2
+Union,Buffalo 2,U.S. House,12.0,Write In Votes,,1.0,,,Union County,Buffalo 2
+Union,Buffalo 2,State House,85.0,Jennifer Rager-Kay,DEM,65.0,,,Union County,Buffalo 2
+Union,Buffalo 2,State House,85.0,Fred Keller,REP,258.0,,,Union County,Buffalo 2
+Union,Buffalo 2,State House,85.0,Write In Votes,,0.0,,,Union County,Buffalo 2
+Union,East Buffalo 1,U.S. Senate,,"Bob Casey, Jr. ",DEM,498.0,,,Union County,East Buffalo 1
+Union,East Buffalo 1,U.S. Senate,,Lou Barletta ,REP,437.0,,,Union County,East Buffalo 1
+Union,East Buffalo 1,U.S. Senate,,Neal Gale,GRN,5.0,,,Union County,East Buffalo 1
+Union,East Buffalo 1,U.S. Senate,,Write In Votes,,0.0,,,Union County,East Buffalo 1
+Union,East Buffalo 1,Governor,,Wolf/Fetterman,DEM,551.0,,,Union County,East Buffalo 1
+Union,East Buffalo 1,Governor,,Wagner/Bartos,REP,381.0,,,Union County,East Buffalo 1
+Union,East Buffalo 1,Governor,,Glover/Bowser-Bostic,GRN,4.0,,,Union County,East Buffalo 1
+Union,East Buffalo 1,Governor,,Krawchuk/Smith,LIB,10.0,,,Union County,East Buffalo 1
+Union,East Buffalo 1,Governor,,Write In Votes,,4.0,,,Union County,East Buffalo 1
+Union,East Buffalo 1,U.S. House,12.0,Marc Friedenberg,DEM,483.0,,,Union County,East Buffalo 1
+Union,East Buffalo 1,U.S. House,12.0,Tom Marino,REP,466.0,,,Union County,East Buffalo 1
+Union,East Buffalo 1,U.S. House,12.0,Write In Votes,,0.0,,,Union County,East Buffalo 1
+Union,East Buffalo 1,State House,85.0,Jennifer Rager-Kay,DEM,448.0,,,Union County,East Buffalo 1
+Union,East Buffalo 1,State House,85.0,Fred Keller,REP,494.0,,,Union County,East Buffalo 1
+Union,East Buffalo 1,State House,85.0,Write In Votes,,0.0,,,Union County,East Buffalo 1
+Union,East Buffalo 2,U.S. Senate,,"Bob Casey, Jr. ",DEM,634.0,,,Union County,East Buffalo 2
+Union,East Buffalo 2,U.S. Senate,,Lou Barletta ,REP,384.0,,,Union County,East Buffalo 2
+Union,East Buffalo 2,U.S. Senate,,Neal Gale,GRN,3.0,,,Union County,East Buffalo 2
+Union,East Buffalo 2,U.S. Senate,,Write In Votes,,0.0,,,Union County,East Buffalo 2
+Union,East Buffalo 2,Governor,,Wolf/Fetterman,DEM,671.0,,,Union County,East Buffalo 2
+Union,East Buffalo 2,Governor,,Wagner/Bartos,REP,346.0,,,Union County,East Buffalo 2
+Union,East Buffalo 2,Governor,,Glover/Bowser-Bostic,GRN,4.0,,,Union County,East Buffalo 2
+Union,East Buffalo 2,Governor,,Krawchuk/Smith,LIB,8.0,,,Union County,East Buffalo 2
+Union,East Buffalo 2,Governor,,Write In Votes,,1.0,,,Union County,East Buffalo 2
+Union,East Buffalo 2,U.S. House,12.0,Marc Friedenberg,DEM,614.0,,,Union County,East Buffalo 2
+Union,East Buffalo 2,U.S. House,12.0,Tom Marino,REP,414.0,,,Union County,East Buffalo 2
+Union,East Buffalo 2,U.S. House,12.0,Write In Votes,,1.0,,,Union County,East Buffalo 2
+Union,East Buffalo 2,State House,85.0,Jennifer Rager-Kay,DEM,582.0,,,Union County,East Buffalo 2
+Union,East Buffalo 2,State House,85.0,Fred Keller,REP,441.0,,,Union County,East Buffalo 2
+Union,East Buffalo 2,State House,85.0,Write In Votes,,1.0,,,Union County,East Buffalo 2
+Union,East Buffalo 3,U.S. Senate,,"Bob Casey, Jr. ",DEM,446.0,,,Union County,East Buffalo 3
+Union,East Buffalo 3,U.S. Senate,,Lou Barletta ,REP,384.0,,,Union County,East Buffalo 3
+Union,East Buffalo 3,U.S. Senate,,Neal Gale,GRN,4.0,,,Union County,East Buffalo 3
+Union,East Buffalo 3,U.S. Senate,,Write In Votes,,0.0,,,Union County,East Buffalo 3
+Union,East Buffalo 3,Governor,,Wolf/Fetterman,DEM,476.0,,,Union County,East Buffalo 3
+Union,East Buffalo 3,Governor,,Wagner/Bartos,REP,348.0,,,Union County,East Buffalo 3
+Union,East Buffalo 3,Governor,,Glover/Bowser-Bostic,GRN,4.0,,,Union County,East Buffalo 3
+Union,East Buffalo 3,Governor,,Krawchuk/Smith,LIB,11.0,,,Union County,East Buffalo 3
+Union,East Buffalo 3,Governor,,Write In Votes,,1.0,,,Union County,East Buffalo 3
+Union,East Buffalo 3,U.S. House,12.0,Marc Friedenberg,DEM,430.0,,,Union County,East Buffalo 3
+Union,East Buffalo 3,U.S. House,12.0,Tom Marino,REP,408.0,,,Union County,East Buffalo 3
+Union,East Buffalo 3,U.S. House,12.0,Write In Votes,,1.0,,,Union County,East Buffalo 3
+Union,East Buffalo 3,State House,85.0,Jennifer Rager-Kay,DEM,393.0,,,Union County,East Buffalo 3
+Union,East Buffalo 3,State House,85.0,Fred Keller,REP,435.0,,,Union County,East Buffalo 3
+Union,East Buffalo 3,State House,85.0,Write In Votes,,1.0,,,Union County,East Buffalo 3
+Union,East Buffalo 4,U.S. Senate,,"Bob Casey, Jr. ",DEM,226.0,,,Union County,East Buffalo 4
+Union,East Buffalo 4,U.S. Senate,,Lou Barletta ,REP,111.0,,,Union County,East Buffalo 4
+Union,East Buffalo 4,U.S. Senate,,Neal Gale,GRN,4.0,,,Union County,East Buffalo 4
+Union,East Buffalo 4,U.S. Senate,,Write In Votes,,0.0,,,Union County,East Buffalo 4
+Union,East Buffalo 4,Governor,,Wolf/Fetterman,DEM,235.0,,,Union County,East Buffalo 4
+Union,East Buffalo 4,Governor,,Wagner/Bartos,REP,97.0,,,Union County,East Buffalo 4
+Union,East Buffalo 4,Governor,,Glover/Bowser-Bostic,GRN,4.0,,,Union County,East Buffalo 4
+Union,East Buffalo 4,Governor,,Krawchuk/Smith,LIB,2.0,,,Union County,East Buffalo 4
+Union,East Buffalo 4,Governor,,Write In Votes,,0.0,,,Union County,East Buffalo 4
+Union,East Buffalo 4,U.S. House,12.0,Marc Friedenberg,DEM,224.0,,,Union County,East Buffalo 4
+Union,East Buffalo 4,U.S. House,12.0,Tom Marino,REP,116.0,,,Union County,East Buffalo 4
+Union,East Buffalo 4,U.S. House,12.0,Write In Votes,,1.0,,,Union County,East Buffalo 4
+Union,East Buffalo 4,State House,85.0,Jennifer Rager-Kay,DEM,219.0,,,Union County,East Buffalo 4
+Union,East Buffalo 4,State House,85.0,Fred Keller,REP,120.0,,,Union County,East Buffalo 4
+Union,East Buffalo 4,State House,85.0,Write In Votes,,1.0,,,Union County,East Buffalo 4
+Union,West Buffalo,U.S. Senate,,"Bob Casey, Jr. ",DEM,263.0,,,Union County,West Buffalo
+Union,West Buffalo,U.S. Senate,,Lou Barletta ,REP,732.0,,,Union County,West Buffalo
+Union,West Buffalo,U.S. Senate,,Neal Gale,GRN,1.0,,,Union County,West Buffalo
+Union,West Buffalo,U.S. Senate,,Write In Votes,,0.0,,,Union County,West Buffalo
+Union,West Buffalo,Governor,,Wolf/Fetterman,DEM,308.0,,,Union County,West Buffalo
+Union,West Buffalo,Governor,,Wagner/Bartos,REP,677.0,,,Union County,West Buffalo
+Union,West Buffalo,Governor,,Glover/Bowser-Bostic,GRN,4.0,,,Union County,West Buffalo
+Union,West Buffalo,Governor,,Krawchuk/Smith,LIB,8.0,,,Union County,West Buffalo
+Union,West Buffalo,Governor,,Write In Votes,,0.0,,,Union County,West Buffalo
+Union,West Buffalo,U.S. House,12.0,Marc Friedenberg,DEM,216.0,,,Union County,West Buffalo
+Union,West Buffalo,U.S. House,12.0,Tom Marino,REP,786.0,,,Union County,West Buffalo
+Union,West Buffalo,U.S. House,12.0,Write In Votes,,0.0,,,Union County,West Buffalo
+Union,West Buffalo,State House,85.0,Jennifer Rager-Kay,DEM,195.0,,,Union County,West Buffalo
+Union,West Buffalo,State House,85.0,Fred Keller,REP,796.0,,,Union County,West Buffalo
+Union,West Buffalo,State House,85.0,Write In Votes,,1.0,,,Union County,West Buffalo
+Union,Gregg,U.S. Senate,,"Bob Casey, Jr. ",DEM,87.0,,,Union County,Gregg
+Union,Gregg,U.S. Senate,,Lou Barletta ,REP,224.0,,,Union County,Gregg
+Union,Gregg,U.S. Senate,,Neal Gale,GRN,4.0,,,Union County,Gregg
+Union,Gregg,U.S. Senate,,Write In Votes,,0.0,,,Union County,Gregg
+Union,Gregg,Governor,,Wolf/Fetterman,DEM,99.0,,,Union County,Gregg
+Union,Gregg,Governor,,Wagner/Bartos,REP,209.0,,,Union County,Gregg
+Union,Gregg,Governor,,Glover/Bowser-Bostic,GRN,7.0,,,Union County,Gregg
+Union,Gregg,Governor,,Krawchuk/Smith,LIB,7.0,,,Union County,Gregg
+Union,Gregg,Governor,,Write In Votes,,0.0,,,Union County,Gregg
+Union,Gregg,U.S. House,12.0,Marc Friedenberg,DEM,80.0,,,Union County,Gregg
+Union,Gregg,U.S. House,12.0,Tom Marino,REP,242.0,,,Union County,Gregg
+Union,Gregg,U.S. House,12.0,Write In Votes,,0.0,,,Union County,Gregg
+Union,Gregg,State House,84.0,Linda Kay Sosniak,DEM,76.0,,,Union County,Gregg
+Union,Gregg,State House,84.0,Garth Everett,REP,245.0,,,Union County,Gregg
+Union,Gregg,State House,84.0,Write In Votes,,0.0,,,Union County,Gregg
+Union,Hartley,U.S. Senate,,"Bob Casey, Jr. ",DEM,139.0,,,Union County,Hartley
+Union,Hartley,U.S. Senate,,Lou Barletta ,REP,488.0,,,Union County,Hartley
+Union,Hartley,U.S. Senate,,Neal Gale,GRN,2.0,,,Union County,Hartley
+Union,Hartley,U.S. Senate,,Write In Votes,,0.0,,,Union County,Hartley
+Union,Hartley,Governor,,Wolf/Fetterman,DEM,156.0,,,Union County,Hartley
+Union,Hartley,Governor,,Wagner/Bartos,REP,468.0,,,Union County,Hartley
+Union,Hartley,Governor,,Glover/Bowser-Bostic,GRN,4.0,,,Union County,Hartley
+Union,Hartley,Governor,,Krawchuk/Smith,LIB,6.0,,,Union County,Hartley
+Union,Hartley,Governor,,Write In Votes,,0.0,,,Union County,Hartley
+Union,Hartley,U.S. House,12.0,Marc Friedenberg,DEM,115.0,,,Union County,Hartley
+Union,Hartley,U.S. House,12.0,Tom Marino,REP,516.0,,,Union County,Hartley
+Union,Hartley,U.S. House,12.0,Write In Votes,,0.0,,,Union County,Hartley
+Union,Hartley,State House,85.0,Jennifer Rager-Kay,DEM,112.0,,,Union County,Hartley
+Union,Hartley,State House,85.0,Fred Keller,REP,522.0,,,Union County,Hartley
+Union,Hartley,State House,85.0,Write In Votes,,0.0,,,Union County,Hartley
+Union,Kelly 1,U.S. Senate,,"Bob Casey, Jr. ",DEM,426.0,,,Union County,Kelly 1
+Union,Kelly 1,U.S. Senate,,Lou Barletta ,REP,520.0,,,Union County,Kelly 1
+Union,Kelly 1,U.S. Senate,,Neal Gale,GRN,4.0,,,Union County,Kelly 1
+Union,Kelly 1,U.S. Senate,,Write In Votes,,1.0,,,Union County,Kelly 1
+Union,Kelly 1,Governor,,Wolf/Fetterman,DEM,472.0,,,Union County,Kelly 1
+Union,Kelly 1,Governor,,Wagner/Bartos,REP,475.0,,,Union County,Kelly 1
+Union,Kelly 1,Governor,,Glover/Bowser-Bostic,GRN,4.0,,,Union County,Kelly 1
+Union,Kelly 1,Governor,,Krawchuk/Smith,LIB,5.0,,,Union County,Kelly 1
+Union,Kelly 1,Governor,,Write In Votes,,2.0,,,Union County,Kelly 1
+Union,Kelly 1,U.S. House,12.0,Marc Friedenberg,DEM,383.0,,,Union County,Kelly 1
+Union,Kelly 1,U.S. House,12.0,Tom Marino,REP,567.0,,,Union County,Kelly 1
+Union,Kelly 1,U.S. House,12.0,Write In Votes,,0.0,,,Union County,Kelly 1
+Union,Kelly 1,State House,85.0,Jennifer Rager-Kay,DEM,350.0,,,Union County,Kelly 1
+Union,Kelly 1,State House,85.0,Fred Keller,REP,597.0,,,Union County,Kelly 1
+Union,Kelly 1,State House,85.0,Write In Votes,,2.0,,,Union County,Kelly 1
+Union,Kelly 2,U.S. Senate,,"Bob Casey, Jr. ",DEM,107.0,,,Union County,Kelly 2
+Union,Kelly 2,U.S. Senate,,Lou Barletta ,REP,159.0,,,Union County,Kelly 2
+Union,Kelly 2,U.S. Senate,,Neal Gale,GRN,0.0,,,Union County,Kelly 2
+Union,Kelly 2,U.S. Senate,,Write In Votes,,0.0,,,Union County,Kelly 2
+Union,Kelly 2,Governor,,Wolf/Fetterman,DEM,115.0,,,Union County,Kelly 2
+Union,Kelly 2,Governor,,Wagner/Bartos,REP,148.0,,,Union County,Kelly 2
+Union,Kelly 2,Governor,,Glover/Bowser-Bostic,GRN,1.0,,,Union County,Kelly 2
+Union,Kelly 2,Governor,,Krawchuk/Smith,LIB,5.0,,,Union County,Kelly 2
+Union,Kelly 2,Governor,,Write In Votes,,0.0,,,Union County,Kelly 2
+Union,Kelly 2,U.S. House,12.0,Marc Friedenberg,DEM,96.0,,,Union County,Kelly 2
+Union,Kelly 2,U.S. House,12.0,Tom Marino,REP,169.0,,,Union County,Kelly 2
+Union,Kelly 2,U.S. House,12.0,Write In Votes,,1.0,,,Union County,Kelly 2
+Union,Kelly 2,State House,85.0,Jennifer Rager-Kay,DEM,94.0,,,Union County,Kelly 2
+Union,Kelly 2,State House,85.0,Fred Keller,REP,174.0,,,Union County,Kelly 2
+Union,Kelly 2,State House,85.0,Write In Votes,,0.0,,,Union County,Kelly 2
+Union,Lewis,U.S. Senate,,"Bob Casey, Jr. ",DEM,88.0,,,Union County,Lewis
+Union,Lewis,U.S. Senate,,Lou Barletta ,REP,314.0,,,Union County,Lewis
+Union,Lewis,U.S. Senate,,Neal Gale,GRN,2.0,,,Union County,Lewis
+Union,Lewis,U.S. Senate,,Write In Votes,,0.0,,,Union County,Lewis
+Union,Lewis,Governor,,Wolf/Fetterman,DEM,102.0,,,Union County,Lewis
+Union,Lewis,Governor,,Wagner/Bartos,REP,288.0,,,Union County,Lewis
+Union,Lewis,Governor,,Glover/Bowser-Bostic,GRN,5.0,,,Union County,Lewis
+Union,Lewis,Governor,,Krawchuk/Smith,LIB,11.0,,,Union County,Lewis
+Union,Lewis,Governor,,Write In Votes,,1.0,,,Union County,Lewis
+Union,Lewis,U.S. House,12.0,Marc Friedenberg,DEM,64.0,,,Union County,Lewis
+Union,Lewis,U.S. House,12.0,Tom Marino,REP,344.0,,,Union County,Lewis
+Union,Lewis,U.S. House,12.0,Write In Votes,,0.0,,,Union County,Lewis
+Union,Lewis,State House,85.0,Jennifer Rager-Kay,DEM,66.0,,,Union County,Lewis
+Union,Lewis,State House,85.0,Fred Keller,REP,341.0,,,Union County,Lewis
+Union,Lewis,State House,85.0,Write In Votes,,0.0,,,Union County,Lewis
+Union,Limestone,U.S. Senate,,"Bob Casey, Jr. ",DEM,173.0,,,Union County,Limestone
+Union,Limestone,U.S. Senate,,Lou Barletta ,REP,444.0,,,Union County,Limestone
+Union,Limestone,U.S. Senate,,Neal Gale,GRN,4.0,,,Union County,Limestone
+Union,Limestone,U.S. Senate,,Write In Votes,,0.0,,,Union County,Limestone
+Union,Limestone,Governor,,Wolf/Fetterman,DEM,183.0,,,Union County,Limestone
+Union,Limestone,Governor,,Wagner/Bartos,REP,421.0,,,Union County,Limestone
+Union,Limestone,Governor,,Glover/Bowser-Bostic,GRN,4.0,,,Union County,Limestone
+Union,Limestone,Governor,,Krawchuk/Smith,LIB,15.0,,,Union County,Limestone
+Union,Limestone,Governor,,Write In Votes,,0.0,,,Union County,Limestone
+Union,Limestone,U.S. House,12.0,Marc Friedenberg,DEM,146.0,,,Union County,Limestone
+Union,Limestone,U.S. House,12.0,Tom Marino,REP,475.0,,,Union County,Limestone
+Union,Limestone,U.S. House,12.0,Write In Votes,,0.0,,,Union County,Limestone
+Union,Limestone,State House,85.0,Jennifer Rager-Kay,DEM,144.0,,,Union County,Limestone
+Union,Limestone,State House,85.0,Fred Keller,REP,477.0,,,Union County,Limestone
+Union,Limestone,State House,85.0,Write In Votes,,0.0,,,Union County,Limestone
+Union,Union,U.S. Senate,,"Bob Casey, Jr. ",DEM,289.0,,,Union County,Union
+Union,Union,U.S. Senate,,Lou Barletta ,REP,472.0,,,Union County,Union
+Union,Union,U.S. Senate,,Neal Gale,GRN,3.0,,,Union County,Union
+Union,Union,U.S. Senate,,Write In Votes,,0.0,,,Union County,Union
+Union,Union,Governor,,Wolf/Fetterman,DEM,326.0,,,Union County,Union
+Union,Union,Governor,,Wagner/Bartos,REP,432.0,,,Union County,Union
+Union,Union,Governor,,Glover/Bowser-Bostic,GRN,3.0,,,Union County,Union
+Union,Union,Governor,,Krawchuk/Smith,LIB,10.0,,,Union County,Union
+Union,Union,Governor,,Write In Votes,,0.0,,,Union County,Union
+Union,Union,U.S. House,12.0,Marc Friedenberg,DEM,272.0,,,Union County,Union
+Union,Union,U.S. House,12.0,Tom Marino,REP,496.0,,,Union County,Union
+Union,Union,U.S. House,12.0,Write In Votes,,2.0,,,Union County,Union
+Union,Union,State House,85.0,Jennifer Rager-Kay,DEM,263.0,,,Union County,Union
+Union,Union,State House,85.0,Fred Keller,REP,497.0,,,Union County,Union
+Union,Union,State House,85.0,Write In Votes,,0.0,,,Union County,Union
+Union,Union Independent ,U.S. Senate,,"Bob Casey, Jr. ",DEM,16.0,,,Union County,Union Independent
+Union,Union Independent ,U.S. Senate,,Lou Barletta ,REP,27.0,,,Union County,Union Independent
+Union,Union Independent ,U.S. Senate,,Neal Gale,GRN,1.0,,,Union County,Union Independent
+Union,Union Independent ,U.S. Senate,,Write In Votes,,0.0,,,Union County,Union Independent
+Union,Union Independent ,Governor,,Wolf/Fetterman,DEM,17.0,,,Union County,Union Independent
+Union,Union Independent ,Governor,,Wagner/Bartos,REP,27.0,,,Union County,Union Independent
+Union,Union Independent ,Governor,,Glover/Bowser-Bostic,GRN,0.0,,,Union County,Union Independent
+Union,Union Independent ,Governor,,Krawchuk/Smith,LIB,0.0,,,Union County,Union Independent
+Union,Union Independent ,Governor,,Write In Votes,,0.0,,,Union County,Union Independent
+Union,Union Independent ,U.S. House,12.0,Marc Friedenberg,DEM,15.0,,,Union County,Union Independent
+Union,Union Independent ,U.S. House,12.0,Tom Marino,REP,29.0,,,Union County,Union Independent
+Union,Union Independent ,U.S. House,12.0,Write In Votes,,0.0,,,Union County,Union Independent
+Union,Union Independent ,State House,85.0,Jennifer Rager-Kay,DEM,12.0,,,Union County,Union Independent
+Union,Union Independent ,State House,85.0,Fred Keller,REP,32.0,,,Union County,Union Independent
+Union,Union Independent ,State House,85.0,Write In Votes,,0.0,,,Union County,Union Independent
+Union,White Deer 1,U.S. Senate,,"Bob Casey, Jr. ",DEM,142.0,,,Union County,White Deer 1
+Union,White Deer 1,U.S. Senate,,Lou Barletta ,REP,368.0,,,Union County,White Deer 1
+Union,White Deer 1,U.S. Senate,,Neal Gale,GRN,3.0,,,Union County,White Deer 1
+Union,White Deer 1,U.S. Senate,,Write In Votes,,0.0,,,Union County,White Deer 1
+Union,White Deer 1,Governor,,Wolf/Fetterman,DEM,149.0,,,Union County,White Deer 1
+Union,White Deer 1,Governor,,Wagner/Bartos,REP,352.0,,,Union County,White Deer 1
+Union,White Deer 1,Governor,,Glover/Bowser-Bostic,GRN,2.0,,,Union County,White Deer 1
+Union,White Deer 1,Governor,,Krawchuk/Smith,LIB,10.0,,,Union County,White Deer 1
+Union,White Deer 1,Governor,,Write In Votes,,3.0,,,Union County,White Deer 1
+Union,White Deer 1,U.S. House,12.0,Marc Friedenberg,DEM,118.0,,,Union County,White Deer 1
+Union,White Deer 1,U.S. House,12.0,Tom Marino,REP,394.0,,,Union County,White Deer 1
+Union,White Deer 1,U.S. House,12.0,Write In Votes,,0.0,,,Union County,White Deer 1
+Union,White Deer 1,State House,84.0,Linda Kay Sosniak,DEM,124.0,,,Union County,White Deer 1
+Union,White Deer 1,State House,84.0,Garth Everett,REP,385.0,,,Union County,White Deer 1
+Union,White Deer 1,State House,84.0,Write In Votes,,1.0,,,Union County,White Deer 1
+Union,White Deer 2,U.S. Senate,,"Bob Casey, Jr. ",DEM,146.0,,,Union County,White Deer 2
+Union,White Deer 2,U.S. Senate,,Lou Barletta ,REP,349.0,,,Union County,White Deer 2
+Union,White Deer 2,U.S. Senate,,Neal Gale,GRN,7.0,,,Union County,White Deer 2
+Union,White Deer 2,U.S. Senate,,Write In Votes,,0.0,,,Union County,White Deer 2
+Union,White Deer 2,Governor,,Wolf/Fetterman,DEM,159.0,,,Union County,White Deer 2
+Union,White Deer 2,Governor,,Wagner/Bartos,REP,335.0,,,Union County,White Deer 2
+Union,White Deer 2,Governor,,Glover/Bowser-Bostic,GRN,5.0,,,Union County,White Deer 2
+Union,White Deer 2,Governor,,Krawchuk/Smith,LIB,11.0,,,Union County,White Deer 2
+Union,White Deer 2,Governor,,Write In Votes,,0.0,,,Union County,White Deer 2
+Union,White Deer 2,U.S. House,12.0,Marc Friedenberg,DEM,126.0,,,Union County,White Deer 2
+Union,White Deer 2,U.S. House,12.0,Tom Marino,REP,382.0,,,Union County,White Deer 2
+Union,White Deer 2,U.S. House,12.0,Write In Votes,,0.0,,,Union County,White Deer 2
+Union,White Deer 2,State House,84.0,Linda Kay Sosniak,DEM,114.0,,,Union County,White Deer 2
+Union,White Deer 2,State House,84.0,Garth Everett,REP,391.0,,,Union County,White Deer 2
+Union,White Deer 2,State House,84.0,Write In Votes,,0.0,,,Union County,White Deer 2
+Union,White Deer 3,U.S. Senate,,"Bob Casey, Jr. ",DEM,99.0,,,Union County,White Deer 3
+Union,White Deer 3,U.S. Senate,,Lou Barletta ,REP,276.0,,,Union County,White Deer 3
+Union,White Deer 3,U.S. Senate,,Neal Gale,GRN,1.0,,,Union County,White Deer 3
+Union,White Deer 3,U.S. Senate,,Write In Votes,,0.0,,,Union County,White Deer 3
+Union,White Deer 3,Governor,,Wolf/Fetterman,DEM,114.0,,,Union County,White Deer 3
+Union,White Deer 3,Governor,,Wagner/Bartos,REP,262.0,,,Union County,White Deer 3
+Union,White Deer 3,Governor,,Glover/Bowser-Bostic,GRN,1.0,,,Union County,White Deer 3
+Union,White Deer 3,Governor,,Krawchuk/Smith,LIB,3.0,,,Union County,White Deer 3
+Union,White Deer 3,Governor,,Write In Votes,,1.0,,,Union County,White Deer 3
+Union,White Deer 3,U.S. House,12.0,Marc Friedenberg,DEM,89.0,,,Union County,White Deer 3
+Union,White Deer 3,U.S. House,12.0,Tom Marino,REP,291.0,,,Union County,White Deer 3
+Union,White Deer 3,U.S. House,12.0,Write In Votes,,0.0,,,Union County,White Deer 3
+Union,White Deer 3,State House,84.0,Linda Kay Sosniak,DEM,95.0,,,Union County,White Deer 3
+Union,White Deer 3,State House,84.0,Garth Everett,REP,283.0,,,Union County,White Deer 3
+Union,White Deer 3,State House,84.0,Write In Votes,,0.0,,,Union County,White Deer 3
+Union,White Deer 4,U.S. Senate,,"Bob Casey, Jr. ",DEM,81.0,,,Union County,White Deer 4
+Union,White Deer 4,U.S. Senate,,Lou Barletta ,REP,180.0,,,Union County,White Deer 4
+Union,White Deer 4,U.S. Senate,,Neal Gale,GRN,1.0,,,Union County,White Deer 4
+Union,White Deer 4,U.S. Senate,,Write In Votes,,0.0,,,Union County,White Deer 4
+Union,White Deer 4,Governor,,Wolf/Fetterman,DEM,93.0,,,Union County,White Deer 4
+Union,White Deer 4,Governor,,Wagner/Bartos,REP,169.0,,,Union County,White Deer 4
+Union,White Deer 4,Governor,,Glover/Bowser-Bostic,GRN,0.0,,,Union County,White Deer 4
+Union,White Deer 4,Governor,,Krawchuk/Smith,LIB,5.0,,,Union County,White Deer 4
+Union,White Deer 4,Governor,,Write In Votes,,0.0,,,Union County,White Deer 4
+Union,White Deer 4,U.S. House,12.0,Marc Friedenberg,DEM,79.0,,,Union County,White Deer 4
+Union,White Deer 4,U.S. House,12.0,Tom Marino,REP,187.0,,,Union County,White Deer 4
+Union,White Deer 4,U.S. House,12.0,Write In Votes,,1.0,,,Union County,White Deer 4
+Union,White Deer 4,State House,84.0,Linda Kay Sosniak,DEM,74.0,,,Union County,White Deer 4
+Union,White Deer 4,State House,84.0,Garth Everett,REP,190.0,,,Union County,White Deer 4
+Union,White Deer 4,State House,84.0,Write In Votes,,0.0,,,Union County,White Deer 4
+Union,Hartleton,U.S. Senate,,"Bob Casey, Jr. ",DEM,19.0,,,Union County,Hartleton
+Union,Hartleton,U.S. Senate,,Lou Barletta ,REP,55.0,,,Union County,Hartleton
+Union,Hartleton,U.S. Senate,,Neal Gale,GRN,0.0,,,Union County,Hartleton
+Union,Hartleton,U.S. Senate,,Write In Votes,,0.0,,,Union County,Hartleton
+Union,Hartleton,Governor,,Wolf/Fetterman,DEM,18.0,,,Union County,Hartleton
+Union,Hartleton,Governor,,Wagner/Bartos,REP,51.0,,,Union County,Hartleton
+Union,Hartleton,Governor,,Glover/Bowser-Bostic,GRN,0.0,,,Union County,Hartleton
+Union,Hartleton,Governor,,Krawchuk/Smith,LIB,3.0,,,Union County,Hartleton
+Union,Hartleton,Governor,,Write In Votes,,0.0,,,Union County,Hartleton
+Union,Hartleton,U.S. House,12.0,Marc Friedenberg,DEM,14.0,,,Union County,Hartleton
+Union,Hartleton,U.S. House,12.0,Tom Marino,REP,60.0,,,Union County,Hartleton
+Union,Hartleton,U.S. House,12.0,Write In Votes,,0.0,,,Union County,Hartleton
+Union,Hartleton,State House,85.0,Jennifer Rager-Kay,DEM,11.0,,,Union County,Hartleton
+Union,Hartleton,State House,85.0,Fred Keller,REP,60.0,,,Union County,Hartleton
+Union,Hartleton,State House,85.0,Write In Votes,,0.0,,,Union County,Hartleton
+Union,Lewisburg 1,U.S. Senate,,"Bob Casey, Jr. ",DEM,257.0,,,Union County,Lewisburg 1
+Union,Lewisburg 1,U.S. Senate,,Lou Barletta ,REP,64.0,,,Union County,Lewisburg 1
+Union,Lewisburg 1,U.S. Senate,,Neal Gale,GRN,2.0,,,Union County,Lewisburg 1
+Union,Lewisburg 1,U.S. Senate,,Write In Votes,,0.0,,,Union County,Lewisburg 1
+Union,Lewisburg 1,Governor,,Wolf/Fetterman,DEM,263.0,,,Union County,Lewisburg 1
+Union,Lewisburg 1,Governor,,Wagner/Bartos,REP,55.0,,,Union County,Lewisburg 1
+Union,Lewisburg 1,Governor,,Glover/Bowser-Bostic,GRN,1.0,,,Union County,Lewisburg 1
+Union,Lewisburg 1,Governor,,Krawchuk/Smith,LIB,6.0,,,Union County,Lewisburg 1
+Union,Lewisburg 1,Governor,,Write In Votes,,1.0,,,Union County,Lewisburg 1
+Union,Lewisburg 1,U.S. House,12.0,Marc Friedenberg,DEM,252.0,,,Union County,Lewisburg 1
+Union,Lewisburg 1,U.S. House,12.0,Tom Marino,REP,73.0,,,Union County,Lewisburg 1
+Union,Lewisburg 1,U.S. House,12.0,Write In Votes,,0.0,,,Union County,Lewisburg 1
+Union,Lewisburg 1,State House,85.0,Jennifer Rager-Kay,DEM,248.0,,,Union County,Lewisburg 1
+Union,Lewisburg 1,State House,85.0,Fred Keller,REP,77.0,,,Union County,Lewisburg 1
+Union,Lewisburg 1,State House,85.0,Write In Votes,,0.0,,,Union County,Lewisburg 1
+Union,Lewisburg 2,U.S. Senate,,"Bob Casey, Jr. ",DEM,268.0,,,Union County,Lewisburg 2
+Union,Lewisburg 2,U.S. Senate,,Lou Barletta ,REP,97.0,,,Union County,Lewisburg 2
+Union,Lewisburg 2,U.S. Senate,,Neal Gale,GRN,4.0,,,Union County,Lewisburg 2
+Union,Lewisburg 2,U.S. Senate,,Write In Votes,,0.0,,,Union County,Lewisburg 2
+Union,Lewisburg 2,Governor,,Wolf/Fetterman,DEM,275.0,,,Union County,Lewisburg 2
+Union,Lewisburg 2,Governor,,Wagner/Bartos,REP,87.0,,,Union County,Lewisburg 2
+Union,Lewisburg 2,Governor,,Glover/Bowser-Bostic,GRN,3.0,,,Union County,Lewisburg 2
+Union,Lewisburg 2,Governor,,Krawchuk/Smith,LIB,6.0,,,Union County,Lewisburg 2
+Union,Lewisburg 2,Governor,,Write In Votes,,0.0,,,Union County,Lewisburg 2
+Union,Lewisburg 2,U.S. House,12.0,Marc Friedenberg,DEM,265.0,,,Union County,Lewisburg 2
+Union,Lewisburg 2,U.S. House,12.0,Tom Marino,REP,108.0,,,Union County,Lewisburg 2
+Union,Lewisburg 2,U.S. House,12.0,Write In Votes,,0.0,,,Union County,Lewisburg 2
+Union,Lewisburg 2,State House,85.0,Jennifer Rager-Kay,DEM,254.0,,,Union County,Lewisburg 2
+Union,Lewisburg 2,State House,85.0,Fred Keller,REP,115.0,,,Union County,Lewisburg 2
+Union,Lewisburg 2,State House,85.0,Write In Votes,,0.0,,,Union County,Lewisburg 2
+Union,Lewisburg 3,U.S. Senate,,"Bob Casey, Jr. ",DEM,306.0,,,Union County,Lewisburg 3
+Union,Lewisburg 3,U.S. Senate,,Lou Barletta ,REP,71.0,,,Union County,Lewisburg 3
+Union,Lewisburg 3,U.S. Senate,,Neal Gale,GRN,3.0,,,Union County,Lewisburg 3
+Union,Lewisburg 3,U.S. Senate,,Write In Votes,,0.0,,,Union County,Lewisburg 3
+Union,Lewisburg 3,Governor,,Wolf/Fetterman,DEM,307.0,,,Union County,Lewisburg 3
+Union,Lewisburg 3,Governor,,Wagner/Bartos,REP,69.0,,,Union County,Lewisburg 3
+Union,Lewisburg 3,Governor,,Glover/Bowser-Bostic,GRN,2.0,,,Union County,Lewisburg 3
+Union,Lewisburg 3,Governor,,Krawchuk/Smith,LIB,6.0,,,Union County,Lewisburg 3
+Union,Lewisburg 3,Governor,,Write In Votes,,0.0,,,Union County,Lewisburg 3
+Union,Lewisburg 3,U.S. House,12.0,Marc Friedenberg,DEM,303.0,,,Union County,Lewisburg 3
+Union,Lewisburg 3,U.S. House,12.0,Tom Marino,REP,81.0,,,Union County,Lewisburg 3
+Union,Lewisburg 3,U.S. House,12.0,Write In Votes,,0.0,,,Union County,Lewisburg 3
+Union,Lewisburg 3,State House,85.0,Jennifer Rager-Kay,DEM,309.0,,,Union County,Lewisburg 3
+Union,Lewisburg 3,State House,85.0,Fred Keller,REP,73.0,,,Union County,Lewisburg 3
+Union,Lewisburg 3,State House,85.0,Write In Votes,,2.0,,,Union County,Lewisburg 3
+Union,Lewisburg 4,U.S. Senate,,"Bob Casey, Jr. ",DEM,282.0,,,Union County,Lewisburg 4
+Union,Lewisburg 4,U.S. Senate,,Lou Barletta ,REP,211.0,,,Union County,Lewisburg 4
+Union,Lewisburg 4,U.S. Senate,,Neal Gale,GRN,4.0,,,Union County,Lewisburg 4
+Union,Lewisburg 4,U.S. Senate,,Write In Votes,,0.0,,,Union County,Lewisburg 4
+Union,Lewisburg 4,Governor,,Wolf/Fetterman,DEM,291.0,,,Union County,Lewisburg 4
+Union,Lewisburg 4,Governor,,Wagner/Bartos,REP,203.0,,,Union County,Lewisburg 4
+Union,Lewisburg 4,Governor,,Glover/Bowser-Bostic,GRN,4.0,,,Union County,Lewisburg 4
+Union,Lewisburg 4,Governor,,Krawchuk/Smith,LIB,2.0,,,Union County,Lewisburg 4
+Union,Lewisburg 4,Governor,,Write In Votes,,0.0,,,Union County,Lewisburg 4
+Union,Lewisburg 4,U.S. House,12.0,Marc Friedenberg,DEM,267.0,,,Union County,Lewisburg 4
+Union,Lewisburg 4,U.S. House,12.0,Tom Marino,REP,233.0,,,Union County,Lewisburg 4
+Union,Lewisburg 4,U.S. House,12.0,Write In Votes,,0.0,,,Union County,Lewisburg 4
+Union,Lewisburg 4,State House,85.0,Jennifer Rager-Kay,DEM,267.0,,,Union County,Lewisburg 4
+Union,Lewisburg 4,State House,85.0,Fred Keller,REP,237.0,,,Union County,Lewisburg 4
+Union,Lewisburg 4,State House,85.0,Write In Votes,,0.0,,,Union County,Lewisburg 4
+Union,Mifflinburg East ,U.S. Senate,,"Bob Casey, Jr. ",DEM,258.0,,,Union County,Mifflinburg East
+Union,Mifflinburg East ,U.S. Senate,,Lou Barletta ,REP,467.0,,,Union County,Mifflinburg East
+Union,Mifflinburg East ,U.S. Senate,,Neal Gale,GRN,3.0,,,Union County,Mifflinburg East
+Union,Mifflinburg East ,U.S. Senate,,Write In Votes,,0.0,,,Union County,Mifflinburg East
+Union,Mifflinburg East ,Governor,,Wolf/Fetterman,DEM,298.0,,,Union County,Mifflinburg East
+Union,Mifflinburg East ,Governor,,Wagner/Bartos,REP,421.0,,,Union County,Mifflinburg East
+Union,Mifflinburg East ,Governor,,Glover/Bowser-Bostic,GRN,4.0,,,Union County,Mifflinburg East
+Union,Mifflinburg East ,Governor,,Krawchuk/Smith,LIB,10.0,,,Union County,Mifflinburg East
+Union,Mifflinburg East ,Governor,,Write In Votes,,0.0,,,Union County,Mifflinburg East
+Union,Mifflinburg East ,U.S. House,12.0,Marc Friedenberg,DEM,219.0,,,Union County,Mifflinburg East
+Union,Mifflinburg East ,U.S. House,12.0,Tom Marino,REP,505.0,,,Union County,Mifflinburg East
+Union,Mifflinburg East ,U.S. House,12.0,Write In Votes,,1.0,,,Union County,Mifflinburg East
+Union,Mifflinburg East ,State House,85.0,Jennifer Rager-Kay,DEM,207.0,,,Union County,Mifflinburg East
+Union,Mifflinburg East ,State House,85.0,Fred Keller,REP,509.0,,,Union County,Mifflinburg East
+Union,Mifflinburg East ,State House,85.0,Write In Votes,,1.0,,,Union County,Mifflinburg East
+Union,Mifflinburg West,U.S. Senate,,"Bob Casey, Jr. ",DEM,193.0,,,Union County,Mifflinburg West
+Union,Mifflinburg West,U.S. Senate,,Lou Barletta ,REP,362.0,,,Union County,Mifflinburg West
+Union,Mifflinburg West,U.S. Senate,,Neal Gale,GRN,0.0,,,Union County,Mifflinburg West
+Union,Mifflinburg West,U.S. Senate,,Write In Votes,,0.0,,,Union County,Mifflinburg West
+Union,Mifflinburg West,Governor,,Wolf/Fetterman,DEM,225.0,,,Union County,Mifflinburg West
+Union,Mifflinburg West,Governor,,Wagner/Bartos,REP,321.0,,,Union County,Mifflinburg West
+Union,Mifflinburg West,Governor,,Glover/Bowser-Bostic,GRN,8.0,,,Union County,Mifflinburg West
+Union,Mifflinburg West,Governor,,Krawchuk/Smith,LIB,9.0,,,Union County,Mifflinburg West
+Union,Mifflinburg West,Governor,,Write In Votes,,1.0,,,Union County,Mifflinburg West
+Union,Mifflinburg West,U.S. House,12.0,Marc Friedenberg,DEM,155.0,,,Union County,Mifflinburg West
+Union,Mifflinburg West,U.S. House,12.0,Tom Marino,REP,408.0,,,Union County,Mifflinburg West
+Union,Mifflinburg West,U.S. House,12.0,Write In Votes,,0.0,,,Union County,Mifflinburg West
+Union,Mifflinburg West,State House,85.0,Jennifer Rager-Kay,DEM,140.0,,,Union County,Mifflinburg West
+Union,Mifflinburg West,State House,85.0,Fred Keller,REP,421.0,,,Union County,Mifflinburg West
+Union,Mifflinburg West,State House,85.0,Write In Votes,,0.0,,,Union County,Mifflinburg West
+Union,New Berlin,U.S. Senate,,"Bob Casey, Jr. ",DEM,108.0,,,Union County,New Berlin
+Union,New Berlin,U.S. Senate,,Lou Barletta ,REP,220.0,,,Union County,New Berlin
+Union,New Berlin,U.S. Senate,,Neal Gale,GRN,1.0,,,Union County,New Berlin
+Union,New Berlin,U.S. Senate,,Write In Votes,,2.0,,,Union County,New Berlin
+Union,New Berlin,Governor,,Wolf/Fetterman,DEM,119.0,,,Union County,New Berlin
+Union,New Berlin,Governor,,Wagner/Bartos,REP,204.0,,,Union County,New Berlin
+Union,New Berlin,Governor,,Glover/Bowser-Bostic,GRN,2.0,,,Union County,New Berlin
+Union,New Berlin,Governor,,Krawchuk/Smith,LIB,11.0,,,Union County,New Berlin
+Union,New Berlin,Governor,,Write In Votes,,2.0,,,Union County,New Berlin
+Union,New Berlin,U.S. House,12.0,Marc Friedenberg,DEM,97.0,,,Union County,New Berlin
+Union,New Berlin,U.S. House,12.0,Tom Marino,REP,239.0,,,Union County,New Berlin
+Union,New Berlin,U.S. House,12.0,Write In Votes,,1.0,,,Union County,New Berlin
+Union,New Berlin,State House,85.0,Jennifer Rager-Kay,DEM,83.0,,,Union County,New Berlin
+Union,New Berlin,State House,85.0,Fred Keller,REP,252.0,,,Union County,New Berlin
+Union,New Berlin,State House,85.0,Write In Votes,,1.0,,,Union County,New Berlin
