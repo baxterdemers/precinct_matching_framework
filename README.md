@@ -10,4 +10,4 @@ BEFORE using this framework
 Goals:
 
 1. Improve iteration speed of County Matches
-2. Isolate changes to a particluar county while making it 
+2. Isolate changes to a particluar county to enable parallel data processing.
